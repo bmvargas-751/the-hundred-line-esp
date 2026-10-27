@@ -71,7 +71,7 @@ python3 -I scripts/thl.py review                                      # archivos
   Si el español actual no coincide con `old` (`""` si la línea está pendiente), no la aplica: así no se pisan cambios hechos en el medio.
   Si `es` es igual al inglés, la línea queda como el original; con `"es": null` vuelve a quedar pendiente.
 - `progress --files` lista los archivos que tienen líneas pendientes.
-- `review` arma `build/review/the-hundred-line.jsonl` (japonés, inglés y español de cada línea, por sección) y `configuracion.review.json` (columnas, códigos del juego, marcas y el formato de cambios de `apply`). Se abren los dos juntos en Translation Reviewer, que corre en el navegador sin subir nada.
+- `review` arma `build/review/the-hundred-line.jsonl` (japonés, inglés y español de cada línea, por sección) y `configuracion.review.json` (columnas, códigos del juego, marcas y el formato de cambios de `apply`). Se abren los dos juntos en [Translation Reviewer](https://translation-reviewer.vercel.app), que corre en el navegador sin subir nada.
   Ahí se marcan las líneas, se dejan notas y propuestas, y se corrige el español. *Solo los cambios* descarga un JSONL listo para `apply`. El *archivo de revisión* guarda las marcas y notas: la próxima vez se abre con el JSONL nuevo en lugar de `configuracion.review.json`.
 
 Los archivos de trabajo (bloques exportados, JSONL) van en `build/work/`, que no se sube.
