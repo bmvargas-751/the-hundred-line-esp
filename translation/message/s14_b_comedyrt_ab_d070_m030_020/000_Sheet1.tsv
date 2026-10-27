@@ -3,7 +3,7 @@ id	huella_jp	es
 20	b004de5d	Sumino, perdón por venir tarde...\nCon tanta cosa, se me hizo tarde...
 30	8072eb8a	...Y entonces, ¿cómo va lo de los materiales?\n¿Lograste juntar algo?
 40	8eeff9af	No, perdón... todavía no los junté...\nY más bien, ¿estás bien? ¿No estás muy cansada?
-50	69a2a38c	Es que... fabricando objetos que sirvan para la batalla,me concentré y me olvidé del tiempo...
+50	69a2a38c	Es que... fabricando objetos que sirvan para la batalla, me concentré y me olvidé del tiempo...
 60	6c4132f2	¡Ya desarrollé varios!\nMira, una báscula, un tensiómetro, un equipo de rayos X...
 70	15a6deda	...¿De verdad eso es para la batalla?\nSuena a revisión médica.
 80	58bfc83b	Más importante... si no los juntaste, mejor.\nLa verdad, ya no hace falta juntar materiales.
@@ -14,10 +14,10 @@ id	huella_jp	es
 130	9e354f38	Perdón a SIREI, pero...\n¡con esto puedo seguir con mis días de fabricar objetos sin dormir!
 140	68385b14	S-sí... qué bueno, entonces...\n¿pero no te excedas, sí?
 150	da1c3768	Sí... los junté...\n¿Estás bien? ¿No estás muy cansada?
-160	69a2a38c	Es que... fabricando objetos que sirvan para la batalla,me concentré y me olvidé del tiempo...
+160	69a2a38c	Es que... fabricando objetos que sirvan para la batalla, me concentré y me olvidé del tiempo...
 170	6c4132f2	¡Ya desarrollé varios!\nMira, una báscula, un tensiómetro, un equipo de rayos X...
 180	15a6deda	...¿De verdad eso es para la batalla?\nSuena a revisión médica.
-190	727a6d5f	Bueno, te entrego los materiales,pero no te excedas, ¿sí?
+190	727a6d5f	Bueno, te entrego los materiales, pero no te excedas, ¿sí?
 200	27af42cd	Mira, esto.
 210	60f3d67f	{fc(57e4f1)Le entregué a Kawana lo que me había pedido.}
 220	b2063fc4	¡Eso, eso es!\n¡Gracias!
@@ -29,7 +29,7 @@ id	huella_jp	es
 280	1bbea512	Uuu... gracias, Sumino...\nDe agradecimiento, déjame abrazarte...
 290	d265aa13	N-no... no hace falta...\nMás bien, ¿no te excedas, sí?
 300	ca9466e8	¡No puedo evitarlo!\n¡Con esto puedo seguir con mis días de fabricar objetos sin dormir!
-310	92c69c6e	¡Para responder a las expectativas de Sumino,me esforzaré todavía más!
+310	92c69c6e	¡Para responder a las expectativas de Sumino, me esforzaré todavía más!
 320	45d8163b	Qué mujer... recién le dije que no se excediera.\nOye, ¿hice bien en entregarlo?
 330	5f1cc479	No me detengas, Sumino... los inventos geniales\n¡siempre se me ocurren con la euforia de la madrugada...!
 340	e1171203	{fc(57e4f1)Dicho eso,\nKawana se fue tambaleándose de mi cuarto.}
@@ -41,5 +41,5 @@ id	huella_jp	es
 400	a7759f4c	{fc(57e4f1)parecía un dispositivo,\ncon una pantalla cuyos números se movían un poco al compás de un medidor.}
 410	9eb2d5ca	Esto... ¿será un invento de Kawana?\nTiene algo como un medidor...
 420	83b659c7	No sé para qué sirve...\n¿Para qué se usa esto?
-430	9e08b3d9	Bueno, es tarde,por ahora lo guardo yo.
+430	9e08b3d9	Bueno, es tarde, por ahora lo guardo yo.
 440	751da1eb	{fc(57e4f1)Por ahora, esta cosa caída se la devolveré luego a Kawana.\nY me dormí.}
