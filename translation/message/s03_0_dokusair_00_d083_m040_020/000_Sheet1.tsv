@@ -31,12 +31,12 @@ id	huella_jp	es
 282	c9ac6274	No hace falta que tengas tanto miedo.\nSomos tus aliados.
 290	bf37005b	De verdad solo queremos hablar...\nPor favor, ¿puedes hablarnos?
 300	f4a72a8b	
-310	d669c4a3	Dicen que no hay que hablar con la gente de las estrellas...\nla sacerdotisa...
+310	d669c4a3	Dicen que no hay que hablar con la gente de las estrellas...\nla Doncella...
 320	62e29368	¿Gente de las estrellas?
 330	59bd406d	Seguramente se refiere a nosotros.\nPara ellos somos extraterrestres.
-340	566568c0	Entonces, ¿puedes decirle a esa sacerdotisa\nque queremos hablar con ella?
+340	566568c0	Entonces, ¿puedes decirle a esa Doncella\nque queremos hablar con ella?
 350	bc57d70c	Nosotros ya queremos terminar esta guerra...\nEstamos buscando cómo vivir en paz en Futurum.
-380	d9bb2f72	{fc(57e4f1)Es una apuesta... quizás esa sacerdotisa\nsea una subordinada de V'ehxness.}
+380	d9bb2f72	{fc(57e4f1)Es una apuesta... quizás esa Doncella\nsea una subordinada de V'ehxness.}
 400	1e085af6	{fc(57e4f1)Pero no podemos desperdiciar esta oportunidad.\nAun sabiendo el riesgo, debemos proponerle conversar.}
 410	bd4c9ffa	Lleva esto.
 420	bf7b9944	{fc(57e4f1)Kawana le ofreció una flecha al niño.\nUn rudimentario aparato de comunicación hecho por ella.}
@@ -44,5 +44,5 @@ id	huella_jp	es
 440	f4a72a8b	
 450	7ed90243	{fc(57e4f1)El niño tomó la flecha\ny salió corriendo entre las ruinas.}
 460	75d53b9a	Nosotros también volvamos hoy a la academia...
-490	15a63f0d	{fc(57e4f1)Regresamos a la academia\na esperar la respuesta de la sacerdotisa.}
+490	15a63f0d	{fc(57e4f1)Regresamos a la academia\na esperar la respuesta de la Doncella.}
 510	7c363e1c	{fc(57e4f1)Y... pasaron varios días.}

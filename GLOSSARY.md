@@ -104,11 +104,11 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 人工学生鎧 / 人工学生兵器 | Artificial Class Armor / artificial substitutes | armadura de clase artificial / arma de clase artificial, como en la interfaz | ✅ |
 | 設置型兵器 | traps | armas instalables | ✅ |
 | 地対空防衛砲 | Surface-to-Air Artillery | cañón antiaéreo, como en la interfaz | ✅ |
-| 肉離れ (Kyoshika lo cree una enfermedad que deja solo el esqueleto) | migraine | desgarro muscular (*la carne se desgarra de los huesos*) | ✅ |
-| 相思相殺 (Yugamu, juego con 相思相愛) | mutual bloodlust | muerte correspondida (juego con *amor correspondido*) | ✅ |
+| 肉離れ (Kyoshika lo cree una enfermedad que deja solo el esqueleto) | migraine | migraña, como el inglés (*migraine* / *my grain*: *Mi grano... mi grano...*) | ✅ |
+| 相思相殺 (Yugamu, juego con 相思相愛) | mutual bloodlust | sed de sangre mutua, como el inglés; donde el inglés lo explica con otra frase, se sigue esa frase | ✅ |
 | ノモケバ (バケモノ al revés) | Retsnom (*monster* al revés) | Ourtsnom (*monstruo* al revés), para que funcione el juego de palabras | ✅ |
 | 100日目 | Day 100 | Día 100 | ✅ |
-| 鼻メガネ (regalo) | Nose Glasses | Lentes con nariz. El acertijo de letras de su ruta tiene que formar *LENTES CON NARIZ* | ✅ |
+| 鼻メガネ (regalo) | Nose Glasses | Lentes con nariz. El acertijo de letras de su ruta forma *LENTES CON NARIZ*, con las letras alternadas entre las dos notas como el inglés | ✅ |
 | 『サイワイは孤独なり』 (pista del libro antiguo) | blessings stand alone | 'La dicha va sola'; la historia usa la misma frase | ✅ |
 | 最終兵器 (Shion); シオンボム (la habilidad) | secret weapon; Shion Bomb | arma secreta (*El arma secreta, Shion*, *el arma secreta ???*); donde el inglés dice *Shion Bomb*, *la Shion Bomb* | ✅ |
 | 戦略物資 = 防壁装置 + 薬品 | Strategic Materials = Traps + Enhancements | materiales estratégicos = dispositivos defensivos + fármacos | ✅ |
@@ -123,15 +123,16 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 混沌軍 | rebellion | la rebelión | ✅ |
 | 人類移住計画 | Exodus Project | Proyecto Éxodo (criterio 2) | ✅ |
 | 人類移住計画反対派 | Anti-Exodus Faction | Facción Anti-Éxodo, como en la historia | ✅ |
-| 司令官 (Ima en el cuerpo de SIREI) | commanding officer | comandante en jefe (distinto de *comandante*, 部隊長) | ✅ |
+| 司令官 (Ima en el cuerpo de SIREI) | commanding officer | oficial al mando, como el inglés (distinto de *comandante*, 部隊長) | ✅ |
 | メダル (botín del tablero: 銅のメダル, 金のメダル) | token | ficha (*ficha de bronce*, *ficha de oro*), como los objetos *Ficha de bronce BP* | ✅ |
 | 要石 | stone | piedra sagrada | ✅ |
 | 人魂 | ghost | fuego fatuo | ✅ |
 | ゲロ奈 / ゲロゲロゲロ奈 (apodo de Kawana) | Pukette | *Vomitana* / *Vomi-vomi-vomitana* (vómito + Kawana) | ✅ |
 | 特攻服 (Yakushiji) | jacket | chaqueta de pandillero | ✅ |
-| ガンシ / ガンツ (Darumi confunde シ y ツ) | Gantz | Darumi dice *Gants* y Ginzaki corrige *Es con zeta... Gantz, ¿no?*; igual en las rutas | ✅ |
-| 蒟蒻って文字にしてあげる (amenaza de Hiruko) / 文字通り | double-helix / DNA | *te doblo los huesos hasta que formes la palabra GELATINA*; SIREI: *quedaría hecho gelatina al pie de la letra*; igual en las rutas | ✅ |
-| 異常でーす → 以上でーす (SIREI, error de tipeo) | — | *¡Eso es tonto! ¡Ay, error de dedo! ¡Eso es todo!* | ✅ |
+| ガンシ / ガンツ (Darumi confunde シ y ツ) | Gantz | Como el inglés: en el Día 1 no hay chiste (*trajes ajustados y armas de energía comprimida*); en la ruta s00, *Gants* y *¡Es con zeta! ¡Gantz!* | ✅ |
+| 蒟蒻って文字にしてあげる (amenaza de Hiruko) / 文字通り | double-helix / DNA | *te retuerzo el cuerpo hasta dejarlo como una doble hélice*; SIREI: *ADN quiere decir "¡Ay, Dios, nooo!"*; igual en las rutas | ✅ |
+| 異常でーす → 以上でーす (SIREI, error de tipeo) | — | Como el inglés: *¡Y esos son los hechos del caso, su señoría!* | ✅ |
+| ギャフンと言わせる | seeing stars | *hacerle ver estrellas*; Gaku: *¡Ahora el que ve estrellas soy yo...!* | ✅ |
 | 底なし沼 / 流砂 | quicksand | pantano sin fondo / arenas movedizas | ✅ |
 | 黒頭巾 (apodo de un invasor) | Little Black Riding Hood / Hoodie | Caperucita Negra (apodo, como el inglés) | ✅ criterio 2 |
 | 第１組 / 第２組; 第１ / 第２ (las dos academias, en la ruta s15) | Class 1 / Class 2; #1 / #2 | Grupo 1 / Grupo 2; la Primera / la Segunda (Penúltima Academia = la Segunda) | ✅ |
@@ -142,14 +143,24 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 自然の化神 (Eva) | Paragon of Nature | *Paragon de la Naturaleza* (Eva) | ✅ criterio 2 |
 | 時戻しの部隊長 / 第Ｎ部隊長 (ruta s15) | Squad N Commander | el comandante del retroceso temporal; el comandante de la *N.ª Unidad* (*Tercera*, *Cuarta*, *Décima*) | ✅ |
 | 街宣車 (ruta s15) | sound truck | camión de propaganda | ✅ |
-| 死斑番号 (ruta s15) | Death Mark number | número mortuorio | ✅ |
+| 死斑番号 (ruta s15) | Livor Mortis Code | código de livor mortis | ✅ |
 | 完死 (ruta s15) | complete death | muerte total | ✅ |
 | 救援要請発信装置 / 救護艇 (ruta s15) | rescue request transmitter / rescue ship | transmisor de petición de rescate / nave de rescate | ✅ |
-| ガンマフィール (ruta s15) | Gammafeel | *Gammafeel* (anestésico; el nombre es provisional) | ✅ |
+| ガンマフィール (ruta s15) | Gammaphiel | *Gammaphiel* (anestésico), como el inglés | ✅ |
 | 昏倒病 (ruta s15) | collapse disease | enfermedad del desmayo (nombre formal: síndrome psicógeno de desmayo súbito) | ✅ |
-| 赤子ジャー (ruta s15) | baby jar | *Baby Jar* (provisional) | ✅ |
+| 赤子ジャー (ruta s15) | Baby Jar | *Baby Jar*, como el inglés | ✅ |
 | 過子Ｇ / ギィ (ruta s15) | Kako G / G'ie | Kako G / G'ie | ✅ |
 | 偽大鈴木 = Ｘ (ruta s15) | the false Kurara = X | X (con la sigla igual que el japonés) | ✅ |
+| ドルメン式断層認知再構築療法 | Dolmenic Cognitive Reconstruction Therapy | Terapia de Reconstrucción Cognitiva Dolménica; las formas cortas, como el inglés de cada línea | ✅ |
+| 神の再臨 | Second Coming | la Segunda Venida | ✅ |
+| 巫女 (Kamyuhn) | Maiden / priestess | *Doncella* donde el inglés dice *Maiden*; *sacerdotisa* donde dice *priestess* | ✅ |
+| フットサル / フトゥールム (Yakushiji confunde) | Futsalians / Futurans | futsalianos / futuranos | ✅ |
+| ナーマコリアンバナナッシュ (Ima) | Seacukey Bananash | Pepimar Bananash | ✅ |
+| 天突き穿つ幻想の邪牙 | Wicked Illusory Skypiercer Fang | Colmillo Ilusorio Malvado Perforacielos | ✅ |
+| 我駆力養成ギプス | Hemoanima Training Harness | Arnés de Entrenamiento de Hemoánima | ✅ |
+| 虎の穴 (Mojiro) | Mojiro's Pit | Foso de Mojiro | ✅ |
+| ドキッ★我駆力まみれの特防隊ヒミツ夏合宿 | Heart-Pounding Special Defense Unit Secret Training Camp | Campamento Secreto de Entrenamiento Palpitante de la Unidad de Defensa Especial | ✅ |
+| Apodo de lucha de Mojiro | Apocalyptic Maiden of Destruction | Doncella Apocalíptica de la Destrucción | ✅ |
 
 ## Cargos y títulos
 
@@ -161,7 +172,7 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 〜の化神 | Paragon of X | *Paragon* de X, en inglés y en masculino aunque sea mujer (*V'ehxness, el Paragon de la Esperanza*) | ✅ |
 | 星の神 / 神 (de los invasores) | God of the planet / God | Dios del planeta; *Dios*, con mayúscula, cuando lo nombran los invasores | ✅ criterio 4 |
 | 不撓の化神 / 救済の化神 | Paragon of Indomitability / Paragon of Salvation | *Paragon de lo Indomable* (Valla-Garzo) / *Paragon de la Salvación* (Szanshin); nombres de los comandantes como el inglés | ✅ criterio 2 |
-| ∞態 | Blood of my bond, release! / battle form | Provisorio: *Forma Infinita* (grito: *¡Forma Infinita!*); se decide en la revisión final de frases delicadas | ❓ |
+| ∞態 | Blood of my bond, release! / battle form | Grito: *¡Sangre de mi vínculo, libérate!*; como sustantivo, lo que diga el inglés de cada línea (*forma de batalla*) | ✅ |
 | たっくん (Karua → Takumi) | Takky | Takky (apodo, como el inglés) | ✅ |
 | 妹ちゃん (Ima → Kako) | Sister Dearest | queridísima hermana (*mi queridísima hermana* si el inglés dice *my*) | ✅ |
 | お兄ちゃん (Kako → Ima) | Brother Dearest | queridísimo hermano | ✅ |

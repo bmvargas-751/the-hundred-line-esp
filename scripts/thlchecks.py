@@ -64,6 +64,14 @@ JP_TERMS = [
     (r"MAX", r"MÁX", "MAX"),
     (r"ナイスDEATH", r"¡Bien!", "Nice DEATH"),
     (r"我駆力", r"\b(?:el|del|al|nuestro|este|ese|un) hemoánima", "la hemoánima (femenino)"),
+    # Frases delicadas: siguen al inglés (revisión final, ver STYLE.md); no deben volver las formas provisorias
+    (r"∞態", r"Forma Infinita", "¡Sangre de mi vínculo, libérate! / lo que diga el inglés"),
+    (r"殺れ殺れ", r"[Vv]álgame", "como el inglés (Por el amor de la muerte...)"),
+    (r"殺ぁ", r"[Bb]uenas muertes|Matarile", "un saludo, como el inglés"),
+    (r"ガンマフィール", r"Gammafeel", "Gammaphiel"),
+    (r"死斑番号", r"[Nn]úmeros? mortuorios?", "código de livor mortis"),
+    (r"神の再臨", r"regreso de Dios", "la Segunda Venida"),
+    (r"ドルメン式", r"de estilo dolmen", "Terapia de Reconstrucción Cognitiva Dolménica"),
 ]
 JP_TERMS = [(re.compile(jp), re.compile(es), fix) for jp, es, fix in JP_TERMS]
 TERMS = [(re.compile(en), re.compile(es), fix) for en, es, fix in TERMS]

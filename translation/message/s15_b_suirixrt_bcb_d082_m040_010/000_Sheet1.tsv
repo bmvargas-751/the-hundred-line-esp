@@ -10,7 +10,7 @@ id	huella_jp	es
 90	ef93dc32	¡E-Esto es... no puede ser...!
 100	b9f56bc1	{fc(57e4f1)En la parte inferior izquierda de la pantalla se veía algo como un manual.\nDecía lo siguiente.}
 110	a318b32d	{fc(ff635b)"TRANSMISOR DE PETICIÓN DE RESCATE"}
-120	9c98dbc6	{fc(57e4f1)Ingrese en los espacios en blanco de la pantalla el número mortuorio correspondiente a cada integrante de la unidad.\nSi los nueve números son correctos, se enviará automáticamente la petición de rescate.}
+120	9c98dbc6	{fc(57e4f1)Ingrese en los espacios en blanco de la pantalla el código de livor mortis correspondiente a cada integrante de la unidad.\nSi los nueve números son correctos, se enviará automáticamente la petición de rescate.}
 130	9f80b1ce	{fc(57e4f1)Sin embargo, si se ingresa aunque sea un número erróneo,\nsaldrá gas venenoso del tanque que está detrás del aparato.}
 140	3e850bc1	{fc(57e4f1)Es un gas venenoso especial que funde instantáneamente cualquier objeto.}
 150	954e9312	{fc(57e4f1)Por lo tanto, será inútil usar máscaras de gas o trajes protectores:\nse ruega tener cuidado.}

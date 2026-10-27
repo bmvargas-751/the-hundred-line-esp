@@ -86,6 +86,7 @@ Evitar también regionalismos latinoamericanos marcados (*chido*, *bacán*, *bol
 
 Mantener los tics de cada personaje según el inglés (cortes, tartamudeos *"N-No"*, jerga, muletillas, groserías).
 No suavizar ni intensificar las groserías: igualar la intensidad del original.
+**Frases delicadas** (juegos de palabras, muletillas, referencias, acertijos y minijuegos de palabras): se traducen desde el inglés, para que el subtítulo no desentone con el doblaje inglés; el japonés queda como apoyo. No se agregan datos que el japonés no tiene, y los nombres siguen el glosario (*Sumino* donde el japonés usa el apellido, aunque el inglés diga *Takumi*).
 Risas fijas, como el inglés: SIREI *Juafafafaj* (ちゅふふ), NIGOU *Juofofofoj* (la misma ちゅふふ; el inglés le dio otra), Darumi *Kyohohoho* (きょっきょっきょ), Kurara *Kijijijí* (キシシシ), Yugamu *Ufufu* (うふふ). Darumi habla de sí misma en tercera persona, como el japonés (*Darumi no entiende...*).
 
 ## Formato
@@ -103,9 +104,9 @@ Risas fijas, como el inglés: SIREI *Juafafafaj* (ちゅふふ), NIGOU *Juofofof
 ### Estudiantes de la Penúltima Academia
 
 - **NIGOU:** habla casual como SIREI (*tú*, *Takumi*); le dice *Su Excelencia SIREI* a SIREI.
-- **Kyoshika:** *usted* con todos y *don/doña* + nombre (*doña Kurara*, *doña Nozomi*); a veces habla de sí misma por el nombre. Mezcla referencias de manga y ninjas con su habla de época.
+- **Kyoshika:** *usted* con todos y *don/doña* + nombre (*doña Kurara*, *doña Nozomi*); a veces habla de sí misma por el nombre. Mezcla referencias de manga y ninjas con su habla de época. Sin la muletilla なんともにんとも ni el にんにん, como el inglés, salvo el grito *¡Nin, nin, niiin!* del Día 28, que el inglés mantiene.
 - **Kurara:** *tú*, insultos constantes (*plebeyo*, *pobretón*, *Inclina la cabeza, idiota*).
-- **Yugamu:** *tú*, *Sumino*; cambia *hacer* por *matar* en sus frases (殺る). Formas fijas: 殺ぁ *Buenas muertes*, 殺れ殺れ *Válgame la muerte*, 殺っかい *muertificante*, 殺っぱり *como era de matar*.
+- **Yugamu:** *tú*, *Sumino*; cambia *hacer* por *matar* en sus frases (殺る). Sus muletillas siguen al inglés de cada línea: 殺れ殺れ suele ser *Por el amor de la muerte...* (*For the love of murder*); 殺ぁ, un saludo común (*Hola, Sumino*); 殺っかい y 殺っぱり, lo que diga el inglés (*de muerte*, *Como era de esperar*).
 - **Nozomi:** *tú*, *Sumino*; a Moko le dice *Moko*.
 - **Eva:** *usted* con Takumi mientras es prisionera y sigue la etiqueta; después, trato directo (*tú*) cuando se quita la máscara de cortesía. A Kirifuji (*Nozomi*) la llama por el nombre de pila, como a una hija.
 - **Kamyuhn:** niña altiva que habla como una sacerdotisa de época (*necio*, *insolente*, *¡cómo osan!*); *yo*, sin vosotros.
