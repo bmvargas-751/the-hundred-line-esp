@@ -63,6 +63,7 @@ python3 -I scripts/thl.py apply build/work/bloque.jsonl               # guarda t
 python3 -I scripts/thl.py diff                                        # cambios sin commitear, con el inglés
 python3 -I scripts/thl.py check                                       # chequeos -> build/checks.csv
 python3 -I scripts/thl.py progress --readme                             # avance por sección; actualiza la tabla de arriba
+python3 -I scripts/thl.py review                                      # archivos para revisar en Translation Reviewer -> build/review/
 ```
 
 - `export` muestra cada línea como la ve el juego, en orden. Con `--jsonl` sale en formato para procesar.
@@ -70,6 +71,8 @@ python3 -I scripts/thl.py progress --readme                             # avance
   Si el español actual no coincide con `old` (`""` si la línea está pendiente), no la aplica: así no se pisan cambios hechos en el medio.
   Si `es` es igual al inglés, la línea queda como el original; con `"es": null` vuelve a quedar pendiente.
 - `progress --files` lista los archivos que tienen líneas pendientes.
+- `review` arma `build/review/the-hundred-line.jsonl` (japonés, inglés y español de cada línea, por sección) y `configuracion.review.json` (columnas, códigos del juego, marcas y el formato de cambios de `apply`). Se abren los dos juntos en Translation Reviewer, que corre en el navegador sin subir nada.
+  Ahí se marcan las líneas, se dejan notas y propuestas, y se corrige el español. *Solo los cambios* descarga un JSONL listo para `apply`. El *archivo de revisión* guarda las marcas y notas: la próxima vez se abre con el JSONL nuevo en lugar de `configuracion.review.json`.
 
 Los archivos de trabajo (bloques exportados, JSONL) van en `build/work/`, que no se sube.
 
