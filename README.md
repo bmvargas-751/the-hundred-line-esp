@@ -21,54 +21,41 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 
 ## Instalar
 
-La traducción reemplaza el idioma **inglés** del juego. El parche se arma a partir de *tus* archivos del juego, y se puede quitar cuando quieras.
+La traducción reemplaza el idioma **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras.
+Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada más ni clonar el repositorio.
 
-### Requisitos
+1. Descarga el paquete de tu sistema desde la [última release](https://github.com/bmvargas-751/the-hundred-line-esp/releases/latest):
+   - Windows: `THL-ESP-…-windows.zip`
+   - Linux y Steam Deck: `THL-ESP-…-linux.tar.gz`
+2. Descomprímelo **dentro de la carpeta del juego**, junto a la carpeta `gamedata`. Te queda una carpeta `THL-ESP`.
+   Para abrir la carpeta del juego: en Steam, clic derecho en el juego > *Administrar* > *Explorar archivos locales*.
+3. Ejecuta el instalador de esa carpeta:
+   - Windows: doble clic en **`INSTALAR.bat`**.
+   - Linux: **`instalar.sh`**. En Steam Deck, en modo escritorio: clic derecho en `instalar.sh` > *Ejecutar en terminal* (o `./instalar.sh` desde una terminal).
+4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
 
-- El juego instalado desde Steam.
-- Windows con [WSL](https://learn.microsoft.com/windows/wsl/install) (Ubuntu), o Linux.
-- `python3`, `curl` y `git` dentro de WSL/Linux (`sudo apt install python3 curl git`).
-- Unos 200 MB libres.
-
-### Pasos
-
-1. Descarga el repositorio, en una terminal de WSL/Linux:
-   ```
-   git clone https://github.com/bmvargas-751/the-hundred-line-esp.git
-   cd the-hundred-line-esp
-   ```
-2. Si el juego **no** está en `C:\Steam\steamapps\common\The Hundred Line -Last Defense Academy-`, indica dónde está (ruta de WSL, por ejemplo en el disco D:):
-   ```
-   export THL_GAME_DIR="/mnt/d/SteamLibrary/steamapps/common/The Hundred Line -Last Defense Academy-"
-   ```
-3. Extrae los textos de tu juego y arma el parche (la primera vez descarga [MVGLTools](https://github.com/SydMontague/MVGLTools), unos segundos):
-   ```
-   scripts/extract.sh
-   scripts/build.sh
-   ```
-4. Instálalo. Antes guarda los archivos originales en `backup/`:
-   ```
-   scripts/install.sh
-   ```
-5. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
+El instalador tarda unos segundos. Guarda antes los archivos originales en `THL-ESP/backup/`.
 
 ### Desinstalar
 
-```
-scripts/uninstall.sh
-```
-
-Restaura los archivos originales desde `backup/`. Si algo quedó mal, en Steam: *Propiedades > Archivos instalados > Verificar integridad de los archivos del juego*.
+Ejecuta **`DESINSTALAR.bat`** (Windows) o **`desinstalar.sh`** (Linux). Restaura los archivos originales del juego.
+Si algo quedó mal, en Steam: *Propiedades > Archivos instalados > Verificar integridad de los archivos del juego*.
+No borres la carpeta `THL-ESP` antes de desinstalar: ahí está el respaldo.
 
 ### Si el juego se actualiza
 
-Steam reemplaza los archivos y el parche se pierde. Actualiza este repositorio (`git pull`) y repite los pasos 3 y 4.
+Steam reemplaza los archivos y la traducción se pierde. Vuelve a ejecutar el instalador. Si el juego recibió una actualización nueva, el instalador te avisa; en ese caso conviene bajar la última release.
 
 ### Problemas frecuentes
 
-- **"No encuentro el juego"**: revisa `THL_GAME_DIR` (paso 2). La ruta lleva comillas por los espacios.
-- **Se ve en inglés**: comprueba que el idioma del juego sea English y que `scripts/install.sh` terminó sin errores.
+- **"No encuentro el juego"**: la carpeta `THL-ESP` tiene que estar dentro de la carpeta del juego, junto a `gamedata`. Si no, el instalador busca el juego en Steam; si tampoco lo halla, indica la ruta: `INSTALAR.bat` no la pide, pero `python\python.exe scripts\installer.py install --game "RUTA"` sí (en Linux: `python3 scripts/installer.py install --game "RUTA"`).
+- **Se ve en inglés**: comprueba que el idioma del juego sea English y que el instalador terminó con "Listo".
+- **Windows muestra un aviso de seguridad** al ejecutar el `.bat`: es normal con archivos descargados; el contenido es de código abierto en este repositorio.
 - **Un texto raro, cortado o con un error**: dinos en qué día o pantalla pasó, sin spoilers, en [Issues](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
+
+### Instalar desde el código
+
+Para colaborar o instalar desde una copia del repositorio (WSL o Linux), mira [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Documentación
 
