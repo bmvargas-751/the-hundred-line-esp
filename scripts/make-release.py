@@ -33,7 +33,7 @@ DOWNLOADS = {
         "https://www.python.org/ftp/python/3.12.8/python-3.12.8-embed-amd64.zip",
         "8d3f33be9eb810f23c102f08475af2854e50484b8e4e06275e937be61ce3d2fb"),
 }
-SCRIPTS = ["installer.py", "generar.py", "thldatos.py"]
+SCRIPTS = ["installer.py", "generar.py", "thldatos.py", "thlfuente.py"]
 DOCS = ["LICENSE.md"]
 
 

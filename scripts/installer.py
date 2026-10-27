@@ -25,6 +25,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import generar  # noqa: E402
 import thldatos as td  # noqa: E402
+import thlfuente  # noqa: E402
 
 ROOT = td.ROOT
 GAME_NAME = "The Hundred Line -Last Defense Academy-"
@@ -34,8 +35,12 @@ MVGL_VERSION = "v2.2.0"
 # sha256 de los archivos originales de la versión del juego que traducimos (actualización de Steam del 2026-09-17)
 SUPPORTED = {
     "app_text01": "34713a3f12515075c253c1dd78b8a14b1c5b74dc1c5e9b5c07ad5746cdaab658",
+    "app_steam_text01": "0f3458f1e39334961eabd20d3a40bac9bfc61797f4c843efb6406d5d53455365",
     "patch_text01": "74c8167c7eb2f8be663babad35c50cf6f30d04369073a50fbf10e6da80182d1c",
+    "patch_steam_text01": "88fb6d9ea531c77d480b5847baacd1247c9126909c9bdd2bc707b145f0f4487c",
+    "app_1": "edc36b2e11dc55e23b8db4ad5aa81b2920f7361858d4ebc1227358aed7806dfc",
 }
+ALL = td.ARCHIVES + (thlfuente.ARCHIVE,)  # textos y, en app_1, las fuentes del menú
 
 
 class Fail(Exception):
@@ -185,7 +190,7 @@ def cmd_install(args):
     say(f"Juego: {game}")
     installed = read_installed()
     sources = {}
-    for name in td.ARCHIVES:
+    for name in ALL:
         cur = archive_file(game, name)
         if sha256(cur) in installed:  # ya está la traducción: el inglés sale del original respaldado
             orig = BACKUP / cur.name
@@ -203,17 +208,23 @@ def cmd_install(args):
     tool = find_tool()
     work = Path(tempfile.mkdtemp(prefix="thl-"))
     try:
-        say("1/3 Extrayendo los textos de tu juego...")
+        say("1/4 Extrayendo los textos de tu juego...")
         vanilla = work / "vanilla"
         for name in td.ARCHIVES:
             extract(tool, sources[name], name, vanilla, work)
-        say("2/3 Aplicando la traducción...")
+        say("2/4 Aplicando la traducción...")
         td.VANILLA = vanilla
         generar.build(work / "es")
-        say("3/3 Empaquetando e instalando...")
-        BACKUP.mkdir(exist_ok=True)
         built = {name: pack(tool, work / "es", name, work) for name in td.ARCHIVES}
-        for name in td.ARCHIVES:
+        say("3/4 Arreglando las tildes de las fuentes del menú...")
+        fonts = work / "unpacked" / thlfuente.ARCHIVE
+        run_tool(tool, "--mode=unpack-mvgl", "-i", sources[thlfuente.ARCHIVE], "-o", fonts)
+        say(f"  letras rehechas: {thlfuente.patch_dir(fonts)}")
+        built[thlfuente.ARCHIVE] = work / "dist" / f"{thlfuente.ARCHIVE}.dx11.mvgl"
+        run_tool(tool, "--mode=pack-mvgl", "-i", fonts, "-o", built[thlfuente.ARCHIVE])
+        say("4/4 Instalando...")
+        BACKUP.mkdir(exist_ok=True)
+        for name in ALL:
             cur = archive_file(game, name)
             if sha256(cur) not in installed:  # lo que hay es el original: se respalda antes de pisarlo
                 shutil.copyfile(cur, BACKUP / cur.name)
@@ -230,7 +241,7 @@ def cmd_install(args):
 def cmd_uninstall(args):
     game = find_game(args.game)
     installed = read_installed()
-    for name in td.ARCHIVES:
+    for name in ALL:
         cur = archive_file(game, name)
         orig = BACKUP / cur.name
         if sha256(cur) in installed and orig.exists():
@@ -245,7 +256,7 @@ def cmd_status(args):
     game = find_game(args.game)
     say(f"Juego: {game}")
     installed = read_installed()
-    for name in td.ARCHIVES:
+    for name in ALL:
         h = sha256(archive_file(game, name))
         if h in installed:
             state = "traducción instalada"

@@ -9,8 +9,10 @@ ROOT = Path(__file__).resolve().parent.parent
 TRANSLATION = ROOT / "translation"
 VANILLA = ROOT / "build" / "vanilla"  # inglés original (scripts/extract.sh)
 JAPANESE = ROOT / "build" / "jp"  # japonés original (scripts/extract.sh)
-ARCHIVES = ("app_text01", "patch_text01")  # en orden de prioridad creciente: patch pisa a app
-JP_ARCHIVES = ("app_text00", "patch_text00")
+# En orden de prioridad creciente: patch pisa a app. Los _steam traen los textos propios de la versión de PC
+# (opciones gráficas, "Salir del juego"...), con nombres de archivo distintos a los del resto.
+ARCHIVES = ("app_text01", "app_steam_text01", "patch_text01", "patch_steam_text01")
+JP_ARCHIVES = ("app_text00", "app_steam_text00", "patch_text00", "patch_steam_text00")
 TEXT_COL = {"message": 2, "text": 1}  # columna con el texto visible (la misma en inglés, japonés y español)
 TSV_HEADER = ["id", "huella_jp", "es"]
 

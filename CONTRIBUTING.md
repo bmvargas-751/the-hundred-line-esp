@@ -33,7 +33,8 @@ scripts/thldatos.py     lectura del original y de la traducción (lo usa thl.py)
 scripts/thlchecks.py    chequeos automáticos
 scripts/extract.sh      textos originales del juego -> build/vanilla y build/jp
 scripts/generar.py      original + traducción -> build/es (lo usa build.sh)
-scripts/build.sh        build/es -> dist/*.mvgl
+scripts/build.sh        build/es -> dist/*.mvgl, y app_1 con las fuentes del menú arregladas
+scripts/thlfuente.py    rehace á é í ó ú ñ ü ¿ ¡ de las fuentes del menú con el ancho de las demás letras
 scripts/install.sh      instala dist/ en el juego (respalda los originales en backup/)
 scripts/uninstall.sh    quita la traducción restaurando los originales
 scripts/get-tools.sh    descarga MVGLToolsCLI v2.2.0 (Linux) en tools/
@@ -48,6 +49,8 @@ Cada `.tsv` tiene una línea por fila traducida del juego, con tres columnas sep
 - `es`: el texto en español, con los saltos de línea como `\n`. Vacío = la línea queda como el original (nombres, siglas, símbolos).
 
 Archivos de texto del juego: `app_text01.dx11.mvgl` y `patch_text01.dx11.mvgl` (inglés), `app_text00` y `patch_text00` (japonés).
+La versión de Steam suma `app_steam_text01` y `patch_steam_text01` (y `_text00` en japonés) con los textos propios de PC: opciones gráficas, *Salir del juego*, avisos del sistema.
+Fuentes del menú: `commonfont.bin` y `commonfont2.bin`, dentro de `app_1.dx11.mvgl`. Son japonesas y sus letras con tilde son más anchas que las demás; `thlfuente.py` las rehace en la copia de cada persona al instalar. Las fuentes no se suben al repositorio.
 `patch` pisa a `app`: si un archivo está en los dos, el juego usa el de `patch`. `build.sh` pone la traducción en los dos.
 Texto visible: en `message/`, columna `string 2`; en `text/`, `string 1`.
 

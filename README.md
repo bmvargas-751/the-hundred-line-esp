@@ -12,16 +12,16 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 
 | Fase | Sección | Traducidas | Total | % |
 |---|---|---:|---:|---:|
-| 1 | Interfaz | 14.917 | 14.917 | 100,0 % |
+| 1 | Interfaz | 14.984 | 14.984 | 100,0 % |
 | 2 | Primera partida | 18.293 | 18.293 | 100,0 % |
 | 3 | Partidas posteriores | 103.496 | 103.496 | 100,0 % |
 | 4 | Eventos y charlas | 3.817 | 3.817 | 100,0 % |
-| | **Total** | **140.523** | **140.523** | **100,0 %** |
+| | **Total** | **140.590** | **140.590** | **100,0 %** |
 <!-- /progress -->
 
 ## Instalar
 
-La traducción reemplaza el idioma **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras.
+La traducción reemplaza el idioma **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras. También ajusta las fuentes del menú para que las letras con tilde, la ñ y los signos ¿ ¡ tengan el mismo ancho que las demás.
 Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada más ni clonar el repositorio.
 
 1. Descarga el paquete de tu sistema desde la [última release](https://github.com/bmvargas-751/the-hundred-line-esp/releases/latest):
