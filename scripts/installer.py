@@ -275,7 +275,10 @@ def main():
         say(f"\nError: {e}")
         code = 1
     if args.pause:
-        input("\nPulsa Enter para cerrar...")
+        try:
+            input("\nPulsa Enter para cerrar...")
+        except EOFError:
+            pass
     sys.exit(code)
 
 
