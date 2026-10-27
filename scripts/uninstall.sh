@@ -8,7 +8,7 @@ GAME_DIR="${THL_GAME_DIR:-/mnt/c/Steam/steamapps/common/The Hundred Line -Last D
 G="$GAME_DIR/gamedata"
 BACKUP="$ROOT/backup"
 INSTALLED="$BACKUP/installed.sha256"
-ARCHIVES=(app_text01 patch_text01)
+ARCHIVES=(app_text01 app_steam_text01 patch_text01 patch_steam_text01 app_1)  # app_1: fuentes del menú
 
 [[ -d "$G" ]] || { echo "No encuentro el juego en: $GAME_DIR (define THL_GAME_DIR)" >&2; exit 1; }
 
