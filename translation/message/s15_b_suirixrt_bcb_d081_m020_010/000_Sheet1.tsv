@@ -8,8 +8,8 @@ id	huella_jp	es
 70	1d9d1485	{fc(57e4f1)Shizuhara caminó en silencio hacia el cuerpo de Kawana.}
 80	cfb20d96	{fc(57e4f1)Allí se detuvo, levantó la sábana,\ndio vuelta el cuerpo y alzó la camisa de Kawana.}
 90	b349e79f	El número de antes, ¿eh?\n¿Qué pasa con él?
-100	fa5cfc66	Esto se llama {fc(ff635b)"número mortuorio"}.
-110	1b0e4685	¿{fc(ff635b)"Número mortuorio"}...?
+100	fa5cfc66	Esto se llama {fc(ff635b)"código de livor mortis"}.
+110	1b0e4685	¿{fc(ff635b)"Código de livor mortis"}...?
 120	f9859441	Es el número propio que aparece en la espalda de un integrante de la unidad\ncuando pierde casi toda la criptoglobina del cuerpo.
 130	12e5bf20	Aunque solo aparece en los miembros del Grupo 1...
 140	51466af1	¿Dónde conseguiste esa información?
@@ -33,16 +33,16 @@ id	huella_jp	es
 320	9c8391bc	Eh... el contorno de la herida es muy afilado...como cortado con algo como un bisturí...
 330	f4a72a8b	
 340	767d5fa9	Ah, así que era eso...\n¡Por la posición, encaja perfecto, no hay duda!
-350	03e18e98	¡A las cuatro les cortaron de la espalda la parte del número mortuorio!
+350	03e18e98	¡A las cuatro les cortaron de la espalda la parte del código de livor mortis!
 360	6576392c	Exacto.
 370	1d71c9f2	Entonces, ¿quizás también a Mojiro...?
-380	8692c9a7	¿Estabas escuchando lo que dije?\nEl número mortuorio solo aparece en el Grupo 1.
+380	8692c9a7	¿Estabas escuchando lo que dije?\nEl código de livor mortis solo aparece en el Grupo 1.
 390	3bea4637	Mojiro es del Grupo 2, ¿no?\nPor supuesto, su espalda está intacta.
 400	87838c06	{fc(57e4f1)Dicho eso, Shizuhara devolvió todos los cuerpos a su lugar.}
 410	e08f74fb	Pero... ¿por qué X haría eso...?
-420	06abd97f	Seguramente no quería que supiéramos\nque existe el número mortuorio...
+420	06abd97f	Seguramente no quería que supiéramos\nque existe el código de livor mortis...
 430	1db04be3	Si dejaba los cuerpos tal cual, algún día alguien podía notar\nque en la espalda aparecen números.
-440	4b93cfe3	Por eso, para ocultarlo,\ncortó la parte del número mortuorio.
+440	4b93cfe3	Por eso, para ocultarlo,\ncortó la parte del código de livor mortis.
 450	e880d137	Entonces, ¿por qué sacó los corazones?
 460	0e40cd60	Seguramente para disimular. Piénsalo.
 470	db453637	Si a varios cuerpos les faltara un trozo redondo de la espalda,\n¿tú qué pensarías?
@@ -57,30 +57,30 @@ id	huella_jp	es
 560	a2e3910c	Ya veo...
 570	1b58f9db	Aun así, queda una duda, una sola...
 580	9c1ea334	¿...?
-590	fb09b62a	Después te explicaré, pero...el objetivo de X era "conocer los números mortuorios".
+590	fb09b62a	Después te explicaré, pero...el objetivo de X era "conocer los códigos de livor mortis".
 600	2d369a45	Como dije, cortó la parte de la espalda con el número...
-610	c7bc8bac	porque no quería que supiéramos que existen los números mortuorios,\nno porque coleccione piel.
+610	c7bc8bac	porque no quería que supiéramos que existen los códigos de livor mortis,\nno porque coleccione piel.
 620	87e583ff	Ahora bien, si es así...
 630	506627a4	surge la duda de por qué X hizo ese montaje, ¿no?
 640	d473f688	Porque si el objetivo de X era "conocer el número",\nbastaba verlo y deshacerse del cuerpo.
 650	f0dd4d44	Arrojarlo al Muro de Fuego, enterrarlo en el bosque...\npero X no lo hizo. ¿Por qué?
 660	63259aad	No sé el motivo...pero tal vez era necesario dejar aquí los cuerpos.
 670	fa62b792	Exacto.\nX necesitaba dejar los cuerpos aquí a toda costa.
-680	aad317e3	Pero si no hacía nada,\ndescubriríamos la existencia del número mortuorio...
+680	aad317e3	Pero si no hacía nada,\ndescubriríamos la existencia del código de livor mortis...
 690	3c3b8d8d	Por eso se tomó el trabajo de cortar la piel y sacar el corazón,\ncon un engorroso encubrimiento y montaje.
 700	1f2b8ef4	Pero, ¿para qué necesitaba dejar aquí los cuerpos...?
 710	52053597	¡Por eso mismo te digo que no lo sé!
 720	b4c10a3f	{fc(57e4f1)...\n...}
-730	51b8cbaa	Entonces, dejemos eso por ahora...\n¿por qué X quiere saber los números mortuorios?
+730	51b8cbaa	Entonces, dejemos eso por ahora...\n¿por qué X quiere saber los códigos de livor mortis?
 740	3775bd52	Eso tiene que ver con el {fc(ff635b)"transmisor de petición de rescate"}.
 750	dfddbc41	¿Ese que mencionó el niño de la llama eterna?
 760	3a60b7c7	Me enteré hace poco de que en algún lugar de esta academia hay,\nal parecer, un {fc(ff635b)"transmisor de petición de rescate"}.
 770	7e06f9eb	El propósito de ese aparato es...rescatar a uno de los {fc(ff635b)"Grupo 1"} que quede último con vida.
 780	586956a8	Cuando el sobreviviente ingresa un {fc(ff635b)"número establecido"} en el aparato,\nse envía literalmente una petición de rescate al Satélite Artificial.
 790	ca3f0270	Ah, ya veo, así que es eso...
-800	10884755	¿El {fc(ff635b)"número establecido"} que dijo el niño\nes el {fc(ff635b)"número mortuorio"}?
+800	10884755	¿El {fc(ff635b)"número establecido"} que dijo el niño\nes el {fc(ff635b)"código de livor mortis"}?
 810	abf165b6	Sí. El Grupo 1 tiene 10 integrantes en total, ¿no?\n¡Si se ingresan los números de 9 de ellos, se puede llamar a la nave de rescate!
-820	bfcec864	Porque saber los números mortuorios de los 9\nprueba la {fc(ff635b)"muerte total"} de los 9...
+820	bfcec864	Porque saber los códigos de livor mortis de los 9\nprueba la {fc(ff635b)"muerte total"} de los 9...
 830	7b28103f	¿{fc(ff635b)"Muerte total"}...?
 840	4fb70a36	El estado de muerte completa: sin posibilidad de revivir.
 850	dad97517	Pero, ¿cómo sabes tú eso?
@@ -89,13 +89,13 @@ id	huella_jp	es
 880	ff6ee6bd	Sí. Cuando tenga tiempo te lo cuento.\nAhora es más urgente desenmascarar a X...
 890	5de2526b	...\n...
 900	097dfdef	En fin... ahora ya lo entiendes, ¿no?
-910	0b7e3b53	Por qué dije que "el objetivo de X era conocer los números mortuorios".
+910	0b7e3b53	Por qué dije que "el objetivo de X era conocer los códigos de livor mortis".
 920	2d502e58	¡¿Entonces X quiere llamar a la nave de rescate?!
 930	35378397	Creo...
 940	f226548e	¡¿Para escapar de esta academia?!
 950	e51622cf	Probablemente...
 960	60a42707	Si es así, X sabe dónde está el transmisor de petición de rescate, ¿verdad?
-970	f6bc4ff9	Porque si no lo supiera,\nconfirmar los números mortuorios no serviría...
+970	f6bc4ff9	Porque si no lo supiera,\nconfirmar los códigos de livor mortis no serviría...
 980	15d52e28	Así es. ...¿Y eso qué significa?
 990	721e14bf	¡Que si averiguamos dónde está el transmisor,\nquizás encontremos pistas de X!
 1000	0af8f9d3	{fc(57e4f1)Cuando se lo dije, Shizuhara asintió con firmeza y dijo:}
