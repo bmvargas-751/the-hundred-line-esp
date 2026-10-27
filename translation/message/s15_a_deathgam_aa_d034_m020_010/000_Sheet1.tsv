@@ -1,0 +1,55 @@
+id	huella_jp	es
+10	112fce48	¡¿Qué?!
+20	b1bc7669	{fc(57e4f1)La superficie de la cápsula de escape\nestaba llena de agujeros.}
+30	34bb3096	¿Qué le pasó...?\n¡¿La acribillaron con una ametralladora?!
+40	b7d3cd8b	Uy, reacción de quien lo ve por primera vez...\nde verdad no tienes memoria.
+50	034904fd	¡Dímelo ya...!\n¡¿Quién dejó así la cápsula de escape?!
+60	3f140f4e	No, nadie la dejó así.\nFueron las bacterias...
+70	82d4e953	¿Bacterias...? Son esos seres vivos diminutos, ¿no?\n¿Ellas dejaron tan destrozada la cápsula de escape?
+80	103fe328	Parece que la corrosión la causa la {fc(ff635b)"bacteria subatómica"}.
+90	66036c08	Es tan pequeña, literalmente a nivel subatómico,que jamás se ve a simple vista...
+100	dee2be1f	En todo caso, se multiplica comiendo metal.\nAh, "comer" no es exacto...
+110	cc37a830	Para ser estricta, usa la energía de oxidación del metal\npara multiplicarse.
+120	331e7aa3	Aunque se llama bacteria,en realidad no es un ser vivo, sino una existencia cuántica...
+130	11fe3c1c	Es un factor fenomenológico que surge de repente en el espacio,sin aviso... y no se sabe más.
+140	6d36f1b4	¿No se puede reparar...?
+150	22718f90	Repararla ahora no sirve.\nPrimero hay que exterminar las bacterias subatómicas...
+160	fd2dfcd5	¿Cómo?
+170	81c1c0ef	{fc(57e4f1)Cuando se lo pregunté, Kawana sacó una foto...}
+180	95e67d5d	Lo necesario es esto: el {fc(ff635b)"QB Liquid"}.\nSolo este líquido puede aniquilar las bacterias subatómicas.
+190	940ede39	Pero no sé dónde está...
+200	03fa59c7	¿Y la sala de biofármacos?
+210	b2a90469	La busqué, pero no estaba.\nEs un líquido rarísimo; no creo que lo haya en esta academia...
+220	6555ff16	Quizás la única forma sea salir a explorar y encontrarlo...
+230	c11b79aa	Encontrar un líquido raro mientras sobrevivimos al juego...\nparece una valla muy alta.
+240	9ad3194f	{fc(57e4f1)Tarde o temprano habrá que reparar la cápsula sin falta,\npero activarla pronto es, hay que decirlo, muy difícil...}
+250	809115ab	¿Entendiste la situación?
+260	095bb3cc	Entonces, teniendo en cuenta esta dura realidad,\nquiero que Sumino decida de nuevo la política futura.
+270	e0643fce	Tienes dos opciones.
+280	45e274dc	Seguir con la Caza de Invasores o derrotar al patrocinador.\nVamos, ¿cuál eliges?
+290	f4a72a8b	
+300	1a9dcca9	{fc(57e4f1)Se me plantearon dos caminos para elegir.\nY yo elijo...}
+310	8b4b58a7	...Elijo, de todos modos, la tercera opción.
+320	4b2e874a	Activar esta cápsula de escape cuanto antes\ny huir de este juego.
+330	7e155e61	¿Seguro? La valla que hay que superar es altísima.
+340	ecb0a4f6	La valla es altísima sea cual sea el camino, ¿no?\nEntonces hay que ir por el camino que uno quiere.
+350	1ae64c8e	Busquemos el QB Liquid entre nosotros. En cuanto lo encontremos,\neliminaremos las bacterias y taparemos estos agujeros.
+360	18a80a44	Cuando la reparación termine, seguirá la activación.
+370	6de28bf5	¡Activamos pronto la cápsula de escape y todos escapamos al Satélite Artificial!
+380	85834d9a	Escape temprano en la cápsula de escape...\n¿esa es la política que decidió Sumino?
+390	c202bfe7	Entendido, respetaré la decisión del líder.\n¿Tú también estás de acuerdo, Tsubasa?
+400	910c6c13	Sí, si Sumino decidió eso, lo seguiré.
+410	a1741227	Yo ya lo decidí...\nque seguiré siendo aliada de Sumino.
+420	dc141555	Por haberle hecho cosas horribles a Sumino y aislarlo hasta ahora,\nde aquí en adelante apoyaré con todas mis fuerzas lo que Sumino quiera hacer.
+430	6c6cf200	Kawana...
+440	4fd747d7	{fc(57e4f1)Algo me apretó el pecho.}
+450	0f0da044	{fc(57e4f1)Gracias a que ellos dos están a mi lado,\npor muy mala que sea la situación no pierdo la esperanza.}
+460	5f80fdfb	Pero, Kawana... ¿está bien que estés con nosotros?\n¡Tú también eres parte del equipo de Kirifuji...!
+470	0fc2dec8	...Del otro equipo,\ndecidí salirme formalmente.
+480	62eebbcf	Lo siento por Kirifuji y las demás,\npero ahora para mí Sumino y los suyos son más importantes...
+490	c45ae9ce	{fc(ff635b)"Importantes"}{fc(57e4f1)... en cuanto me lo dijo,\nestuve a punto de llorar de alegría.}
+500	68741ebf	{fc(57e4f1)Hay quien me aprecia a mí, un odiado.\nSolo con eso siento que puedo ir a cualquier parte.}
+510	80b09289	{fc(57e4f1)¡Hasta al Satélite Artificial, en el cielo lejano!}
+520	8ffc52bb	Bien, reparemos la cápsula de escape entre nosotros.
+530	661392ee	¡Y escapemos todos al Satélite Artificial, en el cielo!
+540	0f27ac68	{fc(57e4f1)Con el nuevo objetivo, salimos de inmediato afuera a explorar\npara encontrar el QB Liquid.}

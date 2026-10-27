@@ -1,0 +1,807 @@
+id	huella_jp	es
+10111	0183613d	Estiré la mano con cuidado...\n¡y conseguí la flor pequeña sin problemas!
+10112	bf29e677	Estiré la mano con cuidado...\n¡y de entre los pétalos salió una abeja!\nA {chr} le picó un insecto...
+10121	eb1ff543	Podría ser venenosa.\nMejor ignorarla y seguir.
+10122	1e2a9a42	Podría ser venenosa.\nLa ignoré y di un rodeo...\n¡y por mala suerte me topé con un invasor!
+10211	ff0f6f81	Tapándome la nariz, logré sacar una hoja.\nMejor seguir rápido.
+10212	6c290d58	Tapándome la nariz, logré sacar una hoja.\nQuise seguir rápido, pero...\n¡{chr} tropezó con una raíz y se torció el tobillo!
+10221	5f04bf31	Logré sacar la flor gigante.\nPero el olor nos revolvió el estómago\ny todos vomitamos ahí mismo...
+10222	19d55ba8	¡La saqué con habilidad!\nConseguí la flor gigante sin problemas.
+10231	3d8ccc95	Con la técnica que fui ganando hasta ahora,\nsaqué la flor gigante con destreza.\n¡Parece que será un material valioso!
+10311	cd1638ce	Estiré la mano con miedo hacia el hongo morado...\nTiene mala pinta, ¡pero huele muy bien!\nParece que servirá como material.
+10312	9ecc0957	Recogí el hongo morado sin problemas, pero...\n¡una bestia escondida en el tronco me atacó de pronto!\nMe tomó por sorpresa y salí herido...
+10321	5c0a22a9	Recogí el hongo rosado.\nDe pronto miré a un lado y vi una bestia muerta\nque se lo había comido. Parece que es venenoso...
+10322	a2ccfb61	Recogí el hongo rosado y lo probamos...\npero parece que era venenoso.\nTodos estuvimos un buen rato con diarrea...
+10411	30f2f015	¡Logré vencer a la planta carnívora!\nParece que dejó caer algún material.
+10412	e71fb2ae	Las lianas no me dejaban contraatacar bien... Al final\npude vencerla, pero la planta carnívora me mordió...
+10421	a2fd9852	Le eché un objeto cualquiera en la boca...\n¡y parece que quedó satisfecha!\nLa planta carnívora soltó algo y se fue.
+10422	d7824188	Le eché un objeto cualquiera en la boca...\n¡no le gustó y lo escupió junto con sus jugos gástricos!\n{chr} quedó bañado en jugos gástricos...
+10511	e84a93f8	Estiré la mano con cuidado...\n¡y pude recoger la flor sin problemas!
+10512	7a6a07cc	Al arrancarla, se le cayeron los pétalos...\nPor desgracia, ya no sirve...
+10521	79be7fcd	Corté las lianas que la enredaban\ny conseguí una calabaza grande.\nParece que será un material valioso.
+10522	cacafcde	Mientras me costaba cortar las lianas de la calabaza,\n¡salió un perro callejero de la casa vacía!\nLo espanté, pero mordió a {chr}...
+10611	98fd0047	Pude sacar la miel sin que las abejas se dieran cuenta.\nEs una miel dorada preciosa.
+10612	f16d4ea6	¡Me caí y las abejas se dieron cuenta!\nTerminé perseguido por un enjambre...
+10621	c9a70f20	Logré sacar a las abejas de la colmena.\nAproveché para juntar mucha miel.
+10622	d3321434	¡De la colmena salió un montón de abejas!\nConseguí algo de miel, pero salí muy mal parado...
+10711	b0e66b92	Parece que los insectos se juntaban por la savia.\nQuizá sirva como algún material.
+10712	b4e46099	¡Encontré una savia de olor muy particular!\nEspanté a los insectos para recogerla,\npero en eso me picaron la mano...
+10721	aed6e610	Son insectos de lo más comunes.\nNo parece que sirvan como material...
+10722	4eaec152	¡Los insectos notaron que nos acercábamos\ny nos atacaron todos a la vez!
+10811	bcd569b6	Estiré la mano hacia la calabaza más grande...\n¡y sentí un dolor agudo en la punta de los dedos!\nParece que las lianas tenían espinas...
+10812	2ac697b9	Conseguí la calabaza más grande.\n¡Parece que será un buen material!
+10821	e0e8388b	Al estirar la mano para tomar\nuna calabaza pequeña... ¡descubrí detrás\nuna calabaza que brillaba como el oro!\nIncreíble... Esto es... algo bueno...
+10822	82fad3b2	Cocinamos la calabaza pequeña y la probamos, pero...\nparece que todavía no estaba madura,\ny todos terminamos intoxicados...
+10911	69d3402b	Caí de la peor manera.\nLogré atrapar una semilla, pero me torcí el tobillo...
+10912	1ef7f486	¡Buena atrapada!\nQuizá sirva como material.
+10921	ce8e34b6	¡Pisé una semilla!\nSe rompió, y encima me caí y me lastimé...\nTodo me sale mal...
+10922	4ec7b343	Recogí una semilla del suelo.\nQuizá sirva como material.
+11011	f42db6e8	¡De pronto la cabaña se vino abajo!\nQuedé atrapado en el derrumbe y salí herido...
+11012	4aa84946	¡La desarmé de forma impecable!\nConseguí unos buenos trozos de madera.
+11021	0bbf60bc	Al entrar,\n¡un invasor escondido en la cabaña me atacó!
+11022	0806273f	Dentro de la cabaña había un mapa de la zona.\nDice qué materiales se pueden conseguir por aquí.
+11111	1812addb	Gracias a que quedé más liviano,\nlogré salir del pantano sin fondo...
+11121	27f8c973	¡Mientras forcejeaba, mi mano se enganchó en una rama!\n¡Gracias a eso, pude salir del pantano sin fondo!
+11122	3deca558	¡Mientras forcejeaba, mi mano se enganchó en una rama!\n...Pero apenas la agarré, se partió.\nLogré salir, pero creí que me moría...
+11211	97600862	Corté las hojas del nabo y me las llevé. Aunque\nsea solo esto, parece que servirá como material.
+11221	f4ee87c6	¡Upa!\n¡Tiré con todas mis fuerzas y saqué el nabo grande!
+11222	f70b77e8	Las hojas que agarré se rompieron\ny me caí de sentón...
+11231	8138c755	Con mi resistencia, ¡un nabo así no es nada!\nLo saqué sin ningún esfuerzo.
+11311	c3cd44b0	Con cuidado de las espinas, estiré la mano...\nCorté una rosa roja como la sangre.
+11312	ab1de66d	¡Ay!\nMe clavé una espina de la rosa...
+11321	bcedef2e	Corté una lavanda de aroma fresco.\nSu aroma floral me tranquiliza...
+11322	17cdb559	El aroma dulce me dio sueño... y\nme quedé profundamente dormido.\nAl despertar, el lugar se veía distinto...
+11331	a5b6cde4	Aprovechando mis dotes de investigación,\nencontré y recogí una flor rara que crecía escondida.
+11411	650da3d0	Me abrí paso entre las lianas hasta el fondo...\ny encontré una orquídea preciosa en flor.
+11412	732b6796	Me abrí paso entre las lianas, pero... no encontré nada.\nAl final, solo me quedó el cansancio...
+11421	ee4c673c	Explorar aquí parece agotador.\nEsta vez preferí pasar de largo.
+11422	5217fbc4	Quise dar un rodeo, pero...\nun invasor escondido entre las plantas me atacó.
+11511	31161555	Un trébol normal también debería servir como material.\nYa que estoy, recogí uno.
+11512	383e4ba1	Recogí tréboles normales. Pero de pronto\nme di cuenta... ¡de que faltaban mis cosas!\nQuizá se me cayeron en algún lado...
+11521	408d22c3	No encontré ningún trébol de cuatro hojas...\nNi modo, recogí uno normal.
+11522	e4a3d61e	Encontré un trébol de cuatro hojas.\n¡Qué suerte!
+11611	eeb325ce	Observé con calma la mariposa que atrapé.\n¡Ahora sé más de biología! ...Creo.
+11612	5462bfc9	Se me escaparon revoloteando\ny no pude atrapar ninguna...
+11621	5c458db4	Siguiendo a las mariposas, encontré una flor rara.\nYa que estoy, me la llevo.
+11622	29aa8247	Al final del camino había... ¡un invasor!\nNos vio y nos atacó.
+11711	c428f48a	¡Conseguí una flor de dibujo extraño!\nQuizá sea un buen material.
+11712	a170d0e8	¡El capullo era una flor devoradora de hombres!\nMe mordió y salí herido...
+11721	8a7b4c79	Conseguí la hierba siniestra.\n¡Parece que será un buen material!
+11722	442d5524	Al arrancar la hierba, se oyó un grito espantoso...\n¡¿Qué es esta hierba? ¿Está viva...?!
+11811	37977ee2	Recogí los brotes que crecían al pie del bambú.\nSe ven tan frescos... ¡Parece que serán un buen material!
+11812	79324112	Me metí en el bosque para buscar brotes de bambú...\n¡y me atacó un perro callejero muy bravo!
+11821	a7a1b43e	Recogí los hongos que crecían al pie de un árbol.\nHuelen muy bien... ¡Parece\nque serán un buen material!
+11822	2ea72c50	Me metí en el bosque para buscar hongos...\n¡y me atacó un perro callejero muy bravo!
+11831	e3515fde	Meterse en el bosque parece peligroso.\nEsta vez mejor paso de largo.
+11832	e5f8c71f	Di un rodeo al bosque...\n¡y por mala suerte me topé con un invasor!
+11911	7721aff5	Corté el bambú para poder pasar.\nParece que servirá como material.
+11912	9eb392ff	Cortar el bambú costó más de lo que pensaba,\ny terminé agotado...
+11921	43e55cbc	¡Me abrí paso entre el bambú a la fuerza!\nMe lastimé un poco, pero logré pasar.
+11922	12ad2faf	Me abrí paso entre el bambú... ¡y logré pasar!\nAl darme cuenta, tenía hojas de\nbambú pegadas por todo el cuerpo.
+12011	1d111bbe	El ciervo se asustó y huyó...\nLa corteza a medio comer parece\nque servirá como material.
+12012	4eaa4b17	¡Al acercarme, el ciervo me atacó!\nLogré espantarlo, pero me mordió la mano...\nMe llevo como material la corteza que comía.
+12021	606ccbc0	Le tiré los frutos que había recogido y se acercó.\nMientras le acariciaba la cabeza, todo tierno...\n¡agarró un objeto de la bolsa con la boca y huyó!
+12022	f66d5f1c	Parece que quedó satisfecho y se fue.\nMe llevo como material la corteza que comía.
+12111	3c29913c	Lo simple es lo mejor. Recogí hierbas normales.
+12112	e16910dc	El olor a medicina me mareó, pero...\nlogré recoger hierbas normales.
+12121	8354fe4f	Apenas olí la hierba morada...\nme dio un mareo.\nParece que era una hierba venenosa...
+12122	9eb8b35c	Recogí la hierba morada.\n¿Eh...? Mirándola bien,\n¿no es la hierba multiusos que vi en una enciclopedia?
+12131	ce921860	Con mi capacidad de observación, distinguí cuáles\neran medicinales... ¡y encontré\nuna hierba medicinal muy eficaz!
+12211	814f780b	¡Dulce y deliciosa!\nComer algo tan rico\n¡me llenó de ganas!
+12212	6b68eedb	...¡Q-Qué picante!\n¿Qué es esta fruta...?\nEra tan mala que me desanimé...
+12221	87a1b793	...¡Q-Qué dura!\nParece que todavía no estaba madura...\nComí algo que me va a caer pesado...
+12222	c9f6f0dc	¡Deliciosa!\nHacía mucho que no comía una fruta tan rica.\nYa que estoy, me llevo unas cuantas más.
+12311	0d1a914a	¡Fiuuu!\nEl hacha se me escapó de las manos\n¡y le dio a {chr}!
+12312	254dfced	¡Logré talar un árbol grande!\n¡Conseguí madera resistente!
+12321	86a2ee67	...Por más hachazos que le di, no pude talar\nel árbol. Tanto esfuerzo inútil me dejó agotado...
+12322	521d7314	Talé con cuidado...\n¡y logré derribar el árbol!\nMe cansé, pero conseguí una madera estupenda.
+12411	5e426960	¡A la una, a las dos... salto!\nPero no pude pasar por encima del tronco gigante...\ny salí volando por los aires.
+12412	2d43b8b8	¡A la una, a las dos... salto!\n¡Logré saltar el tronco!\nMe lo llevo como material.
+12421	2a3b0db4	Bajé corriendo la cuesta...\n¡y logré escapar del tronco!
+12422	c4d635be	¡Bajé corriendo la cuesta!\nY el tronco chocó con una roca\na mitad de camino y se hizo pedazos.
+12511	08e18072	Apenas toqué el fruto negro...\n¡sentí un dolor como de quemadura en la palma!\n¿Qué es esta fruta...?
+12512	dc8010ce	Recogí los frutos negros con cuidado.\nTienen mala pinta, pero quizá sirvan como algún material.
+12521	0db38cd7	Me animé a probarlos...\n¡y eran dulces y deliciosos!\n¡Me siento con más energía!
+12522	48877010	Me animé a probarlos...\n...Puaj, qué malos.\nNo debí comer esto...
+20111	24c62227	El peluche tenía la tela rota y estaba destrozado.\nLo remendé con lo que tenía a mano...\n¡y quedó bastante bien!
+20112	5ac2e481	El peluche empezó a moverse\ncomo un ser vivo...\n¡Esto es un invasor...!
+20121	504a9468	El peluche quedó hecho pedazos.\nParece que los restos servirán como material.
+20122	cc8d2162	Del peluche salió un lamento lleno de rencor.\nConseguí materiales, pero...\nsiento que me maldijo.
+20211	eb28f085	Seguí sin darle importancia\ny encontré una tela negra a un lado del camino.\nAsí que era esta tela, volando con el viento...
+20212	f48e8192	Seguí sin darle importancia y no pasó nada en particular.
+20221	f7826704	Lo perseguí y le arranqué la capa negra...\n¡y debajo había un invasor!
+20222	56bf7846	¡Perseguí la capa negra y la atrapé!\n...Pero era solo una tela.\nNada más una tela negra volando con el viento...
+20231	51a8d06f	Lo perseguí a toda prisa, pero no lo encontré\npor ningún lado... De pronto miré al suelo y\nvi una rosa artificial clavada en la tierra.\n¿Será un regalo del misterioso personaje...?
+20232	b823aa80	Lo perseguí a toda prisa... ¡y una\nrosa salió volando como una flecha\ny se clavó en la pierna de {chr}!\n¡Maldito enmascarado... algún día te voy a atrapar!
+20311	23c39f60	Debajo de la tela solo había escombros.\nParece que vi mal.
+20312	ea103290	¡Al levantar la tela, hubo una\ngran explosión que lo arrasó todo!\nParece que era una trampa...
+20321	d3203502	Me daba curiosidad qué había debajo de la tela, pero...\npreferí hacer como que no la vi.
+20322	2a6d369a	Quise seguir esquivando la tela...\n¡pero de pronto salió un invasor de debajo!
+20411	4af10e92	¡Me siento renovado!\nParece que voy a juntar materiales con muchas ganas.
+20412	dfa0f3a2	Quise quitarle la ropa a la fuerza...\n¡y el maniquí se me cayó encima!
+20421	c4bb6023	¡Me dieron ganas de trabajar a tope!\nParece que voy a juntar materiales con muchas ganas.
+20422	150c8668	Quise quitarle la ropa a la fuerza...\n¡y el maniquí se me cayó encima!
+20431	4ff2c79c	¡Me siento de lo más alegre!\nParece que voy a juntar materiales con muchas ganas.
+20432	dfa0f3a2	Quise quitarle la ropa a la fuerza...\n¡y el maniquí se me cayó encima!
+20511	8bdc6434	Las cabras se asustaron y huyeron...\nYo que quería abrazarlas... Qué lástima...
+20512	eeee3a18	¡El pelo de las cabras era más elástico de lo que pensaba!\nRebotó contra mí y me lastimé un poco...
+20521	59aed8e3	Me acerqué a escondidas y logré abrazar una.\nQué esponjosa...
+20522	eca2b99e	¡La cabra se dio cuenta y nos\npateó con las patas de atrás!\n{chr} salió volando y se lastimó...
+20611	cfa45309	Trepé al árbol y me asomé al nido con cuidado...\n¡y encontré unas plumas que brillaban\ncon los colores del arcoíris!
+20612	fb534342	Se me resbaló el pie y me caí del árbol.\nNo debí hacer algo a lo que\nno estoy acostumbrado...
+20621	0469aad3	¡En el nido que cayó al suelo encontré una pluma!\nPero parece que se ensució con la caída...
+20622	61a652e2	Sacudí el árbol...\n¡y desde arriba me cayó un invasor!
+20711	a4344287	¡Me moví a la fuerza y rompí la telaraña!\nEscapar fue más fácil de lo que pensaba.
+20712	98a386a7	En cambio, los hilos se me enredaron\npor todo el cuerpo... Al final logré escapar,\npero parte de mis cosas quedó atrapada en la telaraña.
+20721	de508153	Me quité la ropa enredada en los hilos\n¡y logré escapar de la telaraña!\nClaro que después recuperé la ropa.
+20722	4b0e5243	¡Me quité la ropa enredada y escapé de la telaraña!\nPero quedarme desnudo al aire\nlibre fue tan vergonzoso que me dejó un trauma...
+20811	5d3f66b6	No está particularmente sucia...\nAl menos como material parece que sirve.
+20812	42d59770	Está sucísima...\nNo creo que sirva como material...
+20821	e44a69b1	Huele a nueva.\nQuizá sirva como material.
+20822	57e72a66	Huelen horrible... Me sentí mal...
+20911	de79702d	Decidí llevarme solo el talismán.\nCon solo tenerlo en la mano, siento un poder místico...
+20912	7c65e1b1	Quise despegar el talismán...\n¡y de la caja salió humo negro!\nNos dio mala espina y nos alejamos rápido.
+20921	9028299a	Abrí la caja... y no había nada.\nQuizá alguien ya lo había sacado.
+20922	72ea1d65	Apenas despegué el talismán y quise abrir la caja...\n¡{chr} se mareó de golpe y se desplomó!\nAsustados, nos alejamos de ahí a toda prisa...
+21011	159e08d8	La gasa de adentro parece que servirá como material.\nMe llevo solo esto.
+21012	443d4d56	Todas las gasas están muy sucias.\nNo creo que sirvan como material...
+21021	4515c282	Me puse gasas en las heridas de manos y pies.\nSiento que el dolor bajó un poco.
+21022	cc911032	Me puse gasas en las heridas de manos y pies.\n¡Arde muchísimo...!\n¿Estarían empapadas en algún medicamento raro...?
+21111	e7eea4fc	Encontré una bandera con una calavera.\nEste barco... ¿era un barco pirata?
+21112	4bf6924a	La cubierta tiene musgo y está resbalosa...\n{chr} se resbaló y se cayó del barco.
+21121	31591687	¡Encontré un esqueleto en el camarote del capitán!\nEl esqueleto agarraba con fuerza un mapa raído.
+21122	ddde65a4	En el camarote del capitán, un\nesqueleto se reía castañeteando...\n...¡No, hay un invasor escondido detrás del esqueleto!
+21211	fbf9fa20	Casi todo era basura inservible, pero\neste trapo quizá sirva como material.
+21212	3c27c7af	En el bote de basura encontré un trapo que puede servir.\nPero el olor a basura es horrible...\nMe empezó a doler la cabeza...
+21221	f5b958b8	Hurgar en la basura ya es demasiado. Mejor no...
+21311	ea540fa8	Me acerqué al invasor por la\nespalda... ¡y lo vencí por sorpresa!\n¡Conseguí una capa genial!
+21312	d9918554	Me acerqué al invasor por la\nespalda... ¡y le arrebaté la capa!\nPero el invasor se enojó y nos atacó.
+21321	286dda14	Desafié al invasor a un duelo a muerte por la capa...\n¡y logré ganar!\nEsta capa le queda mejor al ganador...
+21322	0783750c	Desafié al invasor a un duelo a muerte por la capa.\nTras una lucha feroz, logré ganar, pero...\ntodos terminamos destrozados.
+21411	9c7d1e24	Con un manejo impecable de la garra,\nconseguí un peluche.
+21412	7ef0e9d9	El peluche se escurrió\nde la garra...
+21421	742d685d	Rompí la máquina de garra\ny saqué el peluche de adentro.
+21422	f7101cc1	Rompí la máquina de garra...\n¡y el peluche de adentro empezó a sacudirse!\nParece que se había colado un invasor.
+21511	e8790969	Logré atrapar la basura que venía volando.\nEs una tela raída... Quizá sirva como material.
+21512	7a169c0c	No pude atraparla y la basura se me pegó en la cara.\n¡Cof, cof...!
+21521	b9e2c4eb	Logré esquivar la basura que venía volando.\nSigamos adelante.
+21522	e73d5686	No pude esquivarla y la\nbasura se me pegó en la cara.\n¡Cof, cof...!
+21611	ee5d36f6	¡Rompí la cerradura y logré abrir la maleta!\nAdentro hay un traje fino de lana.\n¡Esto parece un material muy bueno!
+21612	efbac5e7	¡Después de mucho esfuerzo, logré abrir la maleta!\nAdentro hay un traje de lana fino.\nPero abrirla me dejó sin fuerzas...
+21621	f2184c6d	Giré la combinación al azar...\n¡y de pronto sonó una alarma ensordecedora!\nAsí que suena si te equivocas...
+21622	02d92dc5	¡Clic! La maleta se abrió\ny conseguí el traje fino que había adentro.
+21711	dc8b1624	Me acerqué por la espalda... ¡y lo vencí por sorpresa!\nMe quedo con el sombrero vaquero como botín.
+21712	1e664476	¡El invasor nos vio! ¡Ahora no queda más que pelear!
+21721	1c37d7ca	Si no nos vio, no hace falta pelear.\nDecidí alejarme sin hacer ruido.
+21722	5146e76a	¡El invasor nos vio!\nNos persiguió sin parar,\npero logramos escapar...
+21811	cd2a86a5	La gran tela era una alfombra mágica.\nNos subimos y disfrutamos de un viaje muy cómodo.
+21812	6d3138d2	¡La gran tela era una alfombra mágica!\nPero no pude controlarla mientras\nvolaba de un lado a otro,\ny me tiró...
+21821	a83a2746	La gran tela era la capa de un superhéroe.\nAl ponérmela... ¡me fue llenando de valor!
+21822	e4fead12	La gran tela era la capa de un superhéroe.\nMe la puse y salí... y ahí había un invasor.\nUn héroe no pierde contra el mal... ¡A pelear!
+21831	01d6ddd3	La gran tela era...\nuna bandera pirata con una calavera.\nTiene un diseño bastante genial...
+21832	72382409	La gran tela era...\nuna bandera pirata con una calavera.\nPero está llena de agujeros... No sirve como material.
+21911	fd50ec82	Recogí el muñeco de paja... y no pasó nada.\nQué bueno que no me maldijo...
+21912	66b539ab	Apenas recogí el muñeco de paja...\nsentí los hombros pesados.\nQuizá me maldijo...
+21921	8b1810b9	El muñeco de paja ardió y quedó hecho cenizas...\nEn ese momento, el ambiente del lugar cambió.\n¿Se habrá ido la maldición y se\nhabrá purificado la tierra...?
+22011	cb78ecf1	Me acerqué poco a poco... ¡y levanté la caja de golpe!\n...Pero no había nada adentro.\n¿Solo la movía el viento...?
+22012	be5dcfb8	Me acerqué poco a poco... ¡y levanté la caja de golpe!\n¡Y de adentro salió un gato!\nEl gato arañó a {chr} y se fue corriendo...
+22021	fdb0ef2b	¡Corrí y pateé la caja!\nEn ese instante, todo se llenó de\nluz... y retumbó una explosión.\nParece que adentro había una bomba...
+22022	163c0b45	¡Corrí y pateé la caja!\n...Pero no había nada adentro.\n¿Solo la movía el viento...?
+22111	efce4005	Si me pongo a hacerles caso a los letreros,\nno termino nunca. Decidí ignorarlo y seguir.
+22112	45e67432	Seguí sin darle importancia\ny salí a un camino desolado.\nPor el camino pude recoger materiales,\npero el trayecto fue muy duro...
+22121	f77a33e6	Seguí la dirección de la flecha...\n¡y {chr} cayó en un pozo!\nParece que era una trampa...
+22122	a022844e	Seguí la dirección de la flecha...\n¡y encontré materiales valiosos!\nParece que el letrero indicaba dónde había materiales.
+22131	ee33de08	Este letrero no es una simple indicación... ¡Es un código!\nCon mis dotes de lectura descifré el código\ny encontré dónde estaba el tesoro.
+22211	25f2d832	Junté los pelos esparcidos.\nCansó más de lo que pensaba...\nPero estos pelos parece que servirán como algún material.
+22212	a4008c65	Junté los pelos esparcidos.\nEstán sucios, pero parece que sirven como material.
+22221	08376163	Mientras juntaba colmillos,\npisé excremento de animal...\nSe me fueron todas las ganas... Ya no puedo más...
+22222	b2120ed8	Junté los colmillos esparcidos.\nEstán rotos, pero parece que sirven como material.
+22231	284cf2c5	Seguí el rastro...\n¡y encontré colmillos rotos!
+22311	3c6fe929	¡El pájaro se enojó y nos atacó!\nLe picoteó la cabeza a {chr}\ny lo dejó herido.
+22312	c0c72abd	El pájaro se fue volando asustado, pero...\nparece que soltó algunas plumas.\nEstán un poco sucias, pero me las llevo.
+22321	233f0ab8	Me esforcé por trepar al árbol...\n¡pero se me resbaló la mano y me caí!
+22322	53446a5f	Trepé con esfuerzo hasta llegar a la copa.\nEl pájaro ya se había ido volando, pero...\n¡dejó una pluma que brillaba con los colores del arcoíris!
+22331	e3fd1890	Seguí al pájaro que se fue volando...\n¡y encontré su nido!\n¡Me asomé y adentro había una\npluma de colores del arcoíris!
+22411	821c18c2	Apenas la toqué... ¡la pared empezó a desmoronarse!\nLos escombros le cayeron en la cabeza a {chr}\ny lo dejaron herido...
+22412	bafcedd8	El grafiti no estaba pintado directamente en la pared:\nparece que estaba en una tela grande.\nMe llevo esta tela como material.
+22421	875fcf6b	¡Pum!\n¡Al golpearla, la pared se vino abajo!\n¡Y le cayó encima a {chr}...!
+22422	e321081c	La pared se vino abajo en escombros\ny {chr} salió herido.\nMe llevo los escombros como material.
+22431	cf16d35d	Este grafiti tiene que ser un código.\nCon mis dotes de lectura, lo descifré...\n¡y encontré dónde estaba el tesoro!
+22511	503b7cf4	Mejor no despertar a una fiera.\nVoy a alejarme sin hacer ruido.
+22512	778b107d	Cuando me iba sin hacer ruido...\nvi una camisa con estampado de tigre en el suelo.\n¿Este tigre colecciona cosas\ncon estampado de tigre...?
+22521	5037c8ea	Me acerqué de puntillas al tigre, pero...\n¡oyó mis pasos!\nLe desgarró la espalda a {chr} con las garras.
+22522	ac833574	Me acerqué de puntillas... ¡y me le eché\nencima de golpe! ...¡Lo vencí sin problemas!
+30111	c5cc8e09	Dejé la estatua reluciente.\nDe pronto, la piedra del ojo se soltó y se cayó.\nQué piedra tan bonita... Me la llevo como recompensa.
+30112	886f9212	Dejé la estatua reluciente. No sirvió para nada,\npero hacer el bien se siente bien.
+30121	276e7e9c	Apenas la toqué para acariciarla,\nla estatua se hizo pedazos.\nYa estaba a punto de romperse...
+30122	cd1793c5	Al tocar la estatua...\nsonó una alarma parecida al ladrido de un perro.\n¡Al oírla, unos invasores nos atacaron!
+30131	45f24f26	Apenas quise hacerle garabatos...\n¡la estatua se hizo pedazos de golpe!\nLos pedazos salieron volando y me lastimaron...
+30132	77b96ef4	Me divertí pintándole cejas gruesas a la estatua.\nMirándola bien, en los ojos tiene\nincrustadas piedras bonitas.\nYa que estoy, me las llevo.
+30211	086e923c	¡Partí la piedra sagrada!\nJusto después, el cielo se oscureció de pronto...\n¡y un rayo le cayó directo a {chr}!
+30212	32fd4a79	Partí la piedra sagrada, pero no pasó nada.\nQué bueno que no nos cayó una maldición...
+30221	39647d23	Le dejé una ofrenda a la piedra sagrada...\n¡la piedra se estremeció y soltó una piedra bonita!\nParece que le gustó la ofrenda.
+30222	1763931c	Le dejé una ofrenda a la piedra sagrada...\n¡y nos llovieron piedras encima y salí herido!\nParece que la ofrenda no le gustó...
+30231	f59ab711	¡¡Zas!!\n¡La Espada Sagrada Jumonji de Magadori partió la\npiedra sagrada junto con el espíritu maligno!
+30311	74a5ae40	Encontré una piedra transparente.\nParece que servirá como material.
+30312	107b2b84	¡Al entrar en la tienda se\nactivó el sistema de seguridad!\n¡Una bala disparada por una\nmáquina le dio a {chr}...!
+30321	2850db98	Quizá el sistema de seguridad siga funcionando.\nMejor no entrar sin pensarlo.
+30322	81de0a09	¡De pronto se abrió la puerta de la tienda!\n¡Un invasor escondido adentro nos atacó!
+30331	41bf85a8	Sin que nadie se diera cuenta, Maruko\nhabía sacado joyas de la tienda.\nPor supuesto, se las confiscamos.
+30411	c5e7fa15	Tiré de la tapa con todas mis\nfuerzas... ¡y rompí la cerradura!\nY adentro había... ¡un diamante!
+30412	889f95a0	¡Tiré de la tapa con todas mis fuerzas!\n...Pero no se movió ni un poco.\nGasté fuerzas para nada...
+30421	cf29df26	Forcé la cerradura con las herramientas que tenía...\n¡y logré abrirla!\nY adentro había... ¡un diamante!
+30422	29b0ffcc	Forcé la cerradura con las herramientas que tenía...\n¡y logré abrirla!\nPero adentro no había nada...
+30511	78824ee0	Cavé con paciencia en la pared de roca con el pico.\n¡Y encontré mineral de cobre!
+30512	949dd29c	Cavé con paciencia en la pared\nde roca con el pico, pero...\npor desgracia, no encontré nada.
+30521	fd70f4fe	¡¡¡¡BUUUUUM!!!!\n¡Al volar la pared de roca, encontré un mineral raro!
+30522	343cc076	¡¡CATAPLÚN!!\nLa dinamita era demasiado potente\ny el techo se vino abajo...
+30531	ec0e2765	Oosuzuki cavó la pared de roca con\nla pala de su arma de clase...\n¡y nos encontró un mineral raro!
+30611	71b74816	Es una piedra de lo más común.\nNo parece que valga mucho, pero servirá como material.
+30612	8ff9109d	Apenas toqué las piedras apiladas...\nse vinieron abajo de golpe\ny {chr} salió herido...
+30621	b809a631	Presioné un interruptor que encontré...\n¡y los equipos del laboratorio se pusieron\nen marcha y crearon un mineral raro!
+30622	ced191f5	Presioné un interruptor que encontré...\n¡y los robots de seguridad del\nlaboratorio nos atacaron todos a la vez!
+30631	5860967b	\n¡De pronto, los equipos del\nlaboratorio se pusieron en marcha...\ny el objeto que eché se convirtió en una piedra dorada!
+30632	7056eb52	Apenas eché el objeto, se oyó un ruido raro...\n¡y justo después el equipo explotó!\nLos pedazos que salieron volando le dieron a {chr}.
+30711	90222464	En el fondo del agujero había pedazos de asfalto.\nQuizá sirvan como algún material.
+30712	29e5a5fb	En el fondo del agujero había pedazos de asfalto.\nMientras los juntaba, tropecé con uno y me caí.
+30721	c2ac5812	Apenas quise asomarme al agujero...\n¡el borde se desmoronó y me caí!\n{chr} se torció el tobillo.
+30722	9bc67fb2	En el fondo del agujero encontré raciones\nde emergencia. Parece que todavía se pueden comer.
+30811	b98cf638	Decidí tomar otro camino, pero fue un rodeo enorme.\nCaminé tanto que me cansé...
+30812	012a9490	No hace falta correr riesgos,\nasí que decidí tomar otro camino.
+30821	d165ca33	El camino estaba lleno de piedras\ny tropecé muchas veces...\nAun así, parece que estas piedras sirven como material.
+30822	f4931703	El camino está lleno de piedras.\nQuizá sirvan como material.\nVoy a juntar algunas.
+30911	18b7e130	Parece que la decisión rápida dio resultado.\nLogramos escapar.
+30912	4ffc6edc	No puedo correr bien en el desierto...\n¡No logré escapar y la tormenta de arena me atrapó!
+30921	403aba4b	Logramos aguantar la tormenta de arena.\nAl salir, encontré minerales\nque había arrastrado la tormenta.
+30922	7c8c6019	La tormenta de arena me arrastró\njunto con los escombros...\nAl despertar, encontré minerales\nque había arrastrado la tormenta.
+31011	309c17f0	Gracias a que quedé más liviano,\nlogré salir de las arenas movedizas.
+31021	5e05ca44	Me aferré a una roca cercana\ny logré salir de las arenas movedizas.
+31022	5a48bb04	¡Me aferré con desesperación a una roca cercana...!\n...Pero al cargar mi peso, la roca se partió.\nLogré salir, pero casi me muero...
+31111	089e482b	No había flores que sirvieran como material,\npero encontré piedra pómez de jardinería.
+31112	4187d54f	Mirar las flores tan bonitas\nme ayudó a relajarme un poco.
+31121	901a78bc	No es momento de mirar flores.\nDecidí pasar de largo y seguir.
+31211	b20b80b3	Al tomar la piedra de brillo azul, se me calentó la\npalma. Esto... seguro... es un material increíble. Creo.
+31212	85415809	Al levantar la piedra de brillo azul,\nsu luz azul se hizo más intensa... ¡y de pronto explotó!
+31221	a27510c9	¡Apenas tomé la piedra amarilla, me\ndio una descarga eléctrica en la mano!\nSin querer, se me cayó en el pie...
+31222	a3d08d4c	¡Apenas tomé la piedra amarilla, me\ndio una descarga eléctrica en la mano!\nSiento un poder místico en esta piedra...
+31311	72d75c17	¡Como una montaña rusa,\nla vagoneta recorrió la cueva a toda velocidad!
+31312	1c321673	¡La vagoneta se descontroló\ny chocó con una roca enorme!\nSalí herido, pero\nen la roca del choque encontré un mineral valioso.
+31321	d8cf4705	¡La vagoneta arrancó y chocó con una roca enorme!\n¡¡En la roca partida encontré un mineral valioso!!
+31322	20745cbf	La vagoneta arrancó y desapareció en el fondo de la cueva.\nNunca volvió...
+31411	549c2b94	No tiene nada raro... Parece que fue mi imaginación.\nPero es una armadura bastante buena.\nQuizá sirva como algún material.
+31412	fecfb95e	Examiné la armadura...\n¡y adentro había un invasor escondido!
+31421	e27c9c4f	¡Con un pequeño grito, la armadura se hizo pedazos!\nParece que adentro había un invasor escondido.\nLa armadura se rompió, pero pude vencer al invasor.
+31422	b5ebd873	¡La armadura perdió el equilibrio y se nos vino\nencima! Logré sostenerla, ¡pero {chr} se lastimó!
+31511	10865a1f	Me escondí debajo de la mesa hasta que pasara el temblor.\nSalí del terremoto sin problemas.
+31512	2d024b78	Me escondí debajo de la mesa hasta que pasara el temblor.\nPero... el terremoto se hizo más\nfuerte y el techo se vino abajo.
+31521	c22be4dd	Justo al salir, el edificio se derrumbó.\nSi hubiera tardado en decidirme, quizá no la cuento...
+31522	b10d3e57	Logré salir del edificio, pero...\nuna maceta que cayó de una ventana\nme dio de lleno en la cabeza...
+31611	f4d1482f	Me lancé de golpe a una cueva lateral\n¡y logré esquivar la roca gigante!\nParece que, al pasar la roca, el lugar cambió...
+31612	a3b9db94	Es inútil... ¡No tengo adónde huir!\nPor perder el tiempo, la roca gigante me aplastó...
+31621	d859a077	Bajé corriendo la cuesta\n¡y logré escapar de la roca gigante!
+31622	3576a815	Bajé la cuesta corriendo a toda prisa, pero...\nla roca gigante me alcanzó a\nmitad de camino y me aplastó...
+31631	ed3fa96a	¡¡PUM!! ¡La bola de hierro de Mojiro le dio\nde lleno a la roca gigante! La roca se hizo añicos.
+31711	70a0b2ac	¡Sabía que era un invasor!\nEl invasor que tiró la piedra\nnos atacó con sus compañeros.
+31712	0289b0e2	¡Sabía que era un invasor!\nLo perseguí con todo, pero se escapó.\nGasté fuerzas para nada...
+31721	d8ffab30	Cuando quise seguir,\nun mono nos tiró piedras y se fue.\nQuizá este es el territorio de ese mono...
+31722	372bc792	Quizá esta piedra pómez sirva como material.\nMe la quedo y sigo adelante.
+31811	398f36a8	Valió la pena buscar con tanto esfuerzo:\n¡encontré un vidrio bonito!\nParece que será un buen material.
+31812	261ddba8	Mientras buscaba vidrios sin romper...\n{chr} se resbaló, se cayó y salió herido...
+31821	24fac087	¡Auch!\nMe corté un poco la mano...
+31822	1fee17b4	Recogí un pedazo que había a mis pies.\nEstá roto, pero parece que sirve como material.
+31911	b6d076f0	Caminando por la playa, encontré una concha grande.\nAl abrirla... ¡adentro había una perla preciosa!
+31912	204945d0	Recorrí la playa,\npero solo encontré vidrios rotos.\nTanto esfuerzo inútil me dejó agotado...
+31921	80c26702	Me animé a lanzarme al mar. Abrí una concha que encontré\nen el fondo... ¡y adentro había una perla preciosa!
+31922	cbb1b638	Me animé a lanzarme al mar.\n¡Nadando, por mala suerte me topé con un tiburón!\nMe persiguió hasta que salí a tierra...
+32011	8eec5361	¡El corcho dio en el premio!\nConseguí el juguete de hojalata.
+32012	8cbd7426	El corcho falló... ¡y le dio a una bomba que había al lado!\nLa explosión me alcanzó y salí herido...
+32021	7c7e1612	¡Apunté a la joya y disparé una y otra vez!\nTodos los disparos dieron en\nel blanco: ¡gané el premio!
+32022	f3d765f0	La joya ni se movió...\n¡y el corcho rebotó y le dio de lleno a {chr}!
+32031	c24b72aa	¡Le di! Conseguí los dulces.\nYa que estoy,\nme como los dulces y descanso un rato.
+32032	448ee37e	¡Qué lástima! El corcho salió\nvolando para cualquier lado...\nLo intento otra vez en otra ocasión.
+32111	8f926b23	Me da mala espina...\nDecidí dejar este mineral.
+32112	a5c20a7b	¡Al tirar el mineral, hubo una pequeña explosión!\nHice bien en tirarlo...
+32121	518fe0c2	Caminando con el mineral en el bolsillo...\n¡de pronto me explotó el bolsillo!
+32122	80707548	Quizá sirva como material,\nasí que al final me lo llevo.
+32131	3d943aaa	Rompí el mineral...\n¡y adentro había un mineral de brillo rojo!
+32211	35e8c253	Parece un agujero muy profundo...\nNo se ve el fondo para nada.
+32212	3bd76805	Me asomé demasiado\n¡y me caí en el agujero!
+32221	54ba2822	Metí la mano en el agujero...\n¡Pinchazo! ¡Algo se me clavó en la punta de los dedos!\nParece que en el fondo hay piedras puntiagudas...
+32222	79e6f8e7	En el agujero había una piedra negra.\nParece que será un buen material.
+32231	7eac9185	Hice una antorcha improvisada\ncon los árboles de alrededor.\nIluminé el agujero con la antorcha...\n¡y en el fondo había un mineral raro!
+32311	12984cc7	Gracias al agua tan rica,\n¡me llené de ganas!\n¡A explorar con todo!
+32312	74ed668e	Apenas tomé el agua del manantial,\nme empezó a gruñir la panza.\nParece que no se podía tomar...
+32321	69f83341	Me lavé la cara con el agua fría del manantial.\n¡Qué fresco!\n¡Me sentí renovado!
+32322	456b83f1	Me lavé la cara con el agua que brotaba...\n¡Auch...! ¡Algo me pegó en la cara!\nParece que, con el agua, también salían piedras.
+32331	41d27573	Cavé en el suelo de donde brotaba el agua...\n¡y encontré un mineral azul!
+32411	984d3686	Encontré una escalera que lleva a la superficie, pero...\npisé una tabla podrida, la atravesé\ny me lastimé el pie.
+32412	139527a3	A mitad de la escalera que lleva a la superficie\nhabía un mineral raro.
+32421	c92ea302	Seguí explorando el sótano, pero...\nno encontré nada que valiera la\npena y solo me quedó el cansancio.
+32422	4717df08	Decidí seguir explorando el sótano.\nEstaba oscuro y me caí muchas veces, pero...\nvalió la pena: encontré un mineral raro.
+32431	5c9a5a5c	Con los escombros, pude hacer una escalera improvisada.\n¡Y entre los escombros que usé para la escalera\napareció un mineral raro!
+32511	2ee98ed2	Me metí a la fuerza y pasé por el agujero.\n...Pero al otro lado no había nada.\nGasté fuerzas para nada...
+32512	cb0addcd	Me metí a la fuerza y pasé por el agujero.\nAl otro lado había un mineral raro.
+32521	4b6b30c7	Quise agrandar el agujero raspando el borde, pero...\nse derrumbó y ya no se puede pasar...
+32522	23262f43	Agrandé el agujero raspando el borde.\n¡Ahora sí se puede pasar!
+40111	57f855fb	Corté un cable al azar\ny el temporizador de la bomba se detuvo.\nParece que la bomba desactivada será un buen material.
+40112	446671b4	Corté un cable al azar...\n¡¡¡¡BUM!!!!\nLa bomba explotó...
+40121	71653f05	Decidí alejarme de la bomba lo más rápido posible.\nCorrí con todo y me salvé de la explosión.
+40122	bcd8bb31	Parece que tardé un poco en decidir.\nLa onda expansiva me alcanzó y me quemé...
+40131	0fee36fb	¡Kawana, que sabe de máquinas,\ndesactivó la bomba con destreza!\nMe llevo la bomba desactivada como material.
+40132	de67cc59	Kawana se puso tan nerviosa que vomitó sobre la bomba.\n¡¡¡¡BUM!!!!\nSe acabó el tiempo y la bomba explotó...
+40211	4a6bbfe9	Clac, clac... ¡pop!\nSalieron unas piezas de chatarra.
+40212	1550f16f	Clac, clac... ¡pop!\nSalieron unas piezas de chatarra algo raras.
+40221	08c9db18	¡Pum, pum... pop!\nCon la patada, salieron unas piezas de chatarra.
+40222	3f05693c	¡Pum, pum... pop!\n¡Con la patada, salió un invasor!
+40311	7c04c631	Entré con cuidado y revisé el edificio.\nAdentro encontré piezas de máquinas que pueden servir.
+40312	4b82d2ce	¡Encontré piezas de máquinas que pueden servir!\nPero mientras exploraba, el\nsuelo empezó a derrumbarse...\ny {chr} salió herido.
+40321	c6aec619	Un edificio a punto de derrumbarse es peligroso.\nDecidí alejarme de inmediato.
+40322	1a64bf61	El edificio ya había empezado a derrumbarse.\nLos escombros le cayeron encima a {chr}...
+40411	2369fdfe	A los pies del asiento del\nconductor había una pieza rota.\nMe la llevo como material.
+40412	816141bf	Apenas forcé la puerta del conductor...\n¡Bzz...! ¡Me recorrió una descarga eléctrica!\nParece que la seguridad seguía funcionando...
+40421	3dc11bbe	El maletero estaba lleno de piezas rotas.\nMe las llevo como material.
+40422	64245cb1	En el maletero...\n¡había un invasor escondido!
+40431	5ffd8583	Kawana reparó el auto.\nAnduvo un rato y luego dejó de funcionar del todo.
+40511	82dc7c74	Entré en la cabina y presioné botones al azar.\n¡Esto... se mueve!\nEl robot gigante se puso de pie y dio unos pasos.
+40512	1e7e5f8a	Entré en la cabina y presioné botones al azar.\nEl cañón vulcan de la cabeza abrió fuego y barrió los escombros.\n...Ahora se ve todo mejor y es más fácil explorar.
+40521	7f32aaf6	No entiendo para nada cómo funciona, pero parece\nun reactor increíble. Me lo llevo como material.
+40522	aec86ad0	Cuando quise revisar el reactor...\n¡por algún motivo se activó el código de autodestrucción!\nEl robot gigante explotó...
+40611	090307a1	La lavadora tenía un motor casi roto.\nParece que todavía funciona:\nquizá sirva como material.
+40612	d1daa4bb	Abrí la tapa de la lavadora...\n¡y salió un olor horrible!\nEra tan fuerte que {chr} vomitó un poco...
+40621	48449245	Mientras lo desarmaba, me\nfui sintiendo cada vez peor.\nParece que se estaba escapando gas...
+40622	7b137723	Lo desarmé de forma impecable.\nMe llevo las piezas que pueden servir.
+40631	aefd2617	La placa de la computadora todavía parece servir.\nLa desarmé con cuidado y logré sacarla intacta.
+40711	5b9e1d99	Desarmé el auto a control\nremoto y le saqué el motor.\n¡Parece que será un buen material!
+40712	a16dc7c0	Cuando quise desarmar el auto a control remoto...\n¡de pronto las ruedas empezaron a girar como locas!\nSe me enganchó la mano y me lastimé...
+40721	4cc0c7b0	Desarmé el robot en miniatura y le saqué el motor.\nParece que servirá como material.
+40722	9e6d0482	Cuando quise desarmar el robot en miniatura...\n¡de pronto el robot se puso como loco!\nLe dio un golpe en la cara a {chr} y lo dejó herido.
+40811	f60ed096	Empezó a sonar música relajante.\nLa música suave me reconfortó.
+40812	eb90ed8f	¡Sonó un ruido ensordecedor...!\nApagué el radiocasete enseguida,\npero me zumban los oídos...
+40821	73923e6f	Me da mala espina.\nDecidí ignorarlo y seguir.
+40822	2ec17fd6	Cuando quise ignorarlo y seguir...\n¡el radiocasete se encendió solo!\nLos invasores oyeron el sonido y se nos echaron encima.
+40911	757aee88	Eché la línea y esperé un rato... ¡y picó algo!\nPero lo que saqué fue basura...
+40912	23ac6e1b	Eché la línea y esperé un rato, pero no picó nada.\nParece que aquí no se pesca nada.
+40921	a74ac28b	Salí mar adentro en un bote,\neché la línea... ¡y picó!\nEnrollé con todas mis fuerzas y\nsaqué un material de calidad.
+40922	2d250f5b	Salí mar adentro en un bote,\neché la línea... ¡y picó!\nPero me apuré tanto que me resbalé en el bote\ny me caí al mar...
+41011	45c2f0de	Pude avanzar mucho más rápido que de costumbre.\nDe vez en cuando, andar en bicicleta no está mal.
+41012	fb608867	Mientras andaba, la bicicleta se desarmó por completo.\nParece que ya estaba a punto de romperse...
+41021	5ef078b5	Andar en ella parecía peligroso,\nasí que la desarmé para aprovechar las piezas.
+41022	1faa5b75	Quise desarmarla para llevarme solo las piezas, pero...\nnada, está llena de óxido.\nEsto no sirve como material...
+41111	035299b3	Me colé en la base sin que el enemigo se diera cuenta.\nY en la habitación del fondo\n¡logré robar un equipo electrónico raro!
+41112	1449e10b	Sin querer hice ruido\ny los invasores me descubrieron.
+41121	b3d976f9	¡Atravesé la base barriendo a los invasores!\nCon ese impulso llegué a la habitación del fondo...\n¡y me llevé un equipo electrónico raro!
+41122	2f7c422c	Intenté entrar de frente, pero...\npor más invasores que derrotaba, no se acababan nunca.\nNo hay caso, mejor retirarse...
+41211	7b6e58d4	Avancé por los puntos ciegos de la cámara. ¡Me infiltré\ncon éxito! Encontré un equipo electrónico raro.
+41212	9cfb577e	Sin querer, aparecí en la cámara.\nSonó una alarma y los invasores se nos vinieron encima.
+41221	c8d0a6b2	Con esta vigilancia, entrar va a ser difícil.\nMejor me rindo y doy media vuelta.
+41231	d59fc7ef	Kako destruyó la cámara de vigilancia con su rifle.\nGracias a eso, pude entrar en la base sin peligro.
+41311	39097f29	¡Zum, zum! ¡Pop!\nSalió volando una pila.
+41312	51d10f91	¡Zum, zum! ¡Pum! Sacudí el control\ncon tanta fuerza que le di a {chr}.\nCon el golpe, salió volando una pila.
+41321	142b891f	Silencio... No pasa nada. Pero parece que está\nencendido. Revisé adentro y encontré pilas.
+41322	dfd570fc	¡BUM!\n¡El control explotó...!\nParece que era una trampa...
+41411	07fa6204	¡Buena atrapada!\nDesarmé el dron que atrapé\ny conseguí materiales.
+41412	ce651195	¡Buena atrapada! Pero se me enganchó\nla mano en las hélices y me lastimé...
+41421	ffdac7c4	El dron me persiguió sin parar, pero...\nal final aterrizó a tropezones y dejó de moverse.\nYa que estoy, me lo llevo como material.
+41422	984d5e97	No pude escapar y el dron chocó contra {chr}.\nY siguió volando hacia quién sabe dónde...
+41511	445a9a7c	Todas las piezas del reloj estaban rotas,\npero quizá sirvan como material.
+41512	ff239ee5	Las piezas del reloj estaban totalmente oxidadas.\nNo creo que sirvan como material...
+41521	7d6ff7af	Desarmé el reloj grande... ¡y\nsalió un engranaje estupendo!\nParece que será un buen material.
+41522	91c55930	Mientras desarmaba el reloj grande...\n¡de pronto sonó la campana!\nLos invasores oyeron el sonido y se nos echaron encima.
+41611	bb98a32c	¡Lo esquivé por un pelo!\nEl camión se estrelló contra las ruinas y quedó destrozado.
+41612	5aef37e7	Me tiré a un lado... ¡pero no llegué a tiempo!\nEl camión me mandó a volar...
+41621	0cc92cf1	El camión desbocado se desvió solo\ny se estrelló contra un edificio.\nParece que tuve suerte. Me salvé...
+41622	ae827ae4	Claro que no le iba a ganar a un camión...\nSalí volando por los aires...
+41711	ec590dd7	Para evitar un incendio,\narranqué el cable a toda prisa.
+41712	9e5cd406	Para evitar un incendio, arranqué el cable a toda prisa.\nPero parece que toqué la parte con la fuga...\ny {chr} se electrocutó.
+41721	962550dc	Bajé el interruptor para cortar la luz\ny, ya seguro, arranqué el cable.
+41722	e248ec2c	No encuentro el tablero eléctrico...\nMientras perdía el tiempo, el cable empezó a arder...\ny el edificio quedó envuelto en llamas...
+41811	6d28095a	Trepé bien al árbol y recuperé el dron.\nEstá casi roto, pero parece que sirve como material.
+41812	c1d54435	Se me resbaló el pie y me caí del árbol.\nNo hay que hacer locuras...
+41821	4ad4e538	¡Le di! Recogí el dron que cayó al suelo.\nEstá casi roto, pero parece que sirve como material.
+41822	beaa3c35	Tiré casi 100 piedras...\ny por fin logré bajar el dron.\nTiré tantas que me duelen el hombro y el codo...
+41911	da250264	Lavé la ropa sucia en una lavadora de última generación.\n¡Qué fresco!\nParece que voy a explorar con ánimos renovados.
+41921	c0f0540a	En el refrigerador había bebidas frías.\nJusto tenía sed. Voy a descansar aquí un rato.
+41922	7e4d1a6c	Abrí el refrigerador...\n¡y adentro apareció un invasor!
+41931	76eee80a	La encendí, pero solo se ve estática.\nComo televisión no sirve, pero...\n¡esta pantalla parece que será un buen material!
+41932	d53444fd	Apenas la encendí...\n¡la pantalla explotó!
+42011	af6310df	Dentro del piano había un radiocasete.\nParece que el sonido salía de ahí.
+42012	de9882e3	Por más que busqué, no supe de dónde salía el sonido.\nEntonces, ¿qué es este sonido...?\nMe dio miedo y salí huyendo.
+42021	4d4a35c9	¡Debajo del piano había un invasor escondido!\nParece que movía las teclas con un alambre fino.\n¡Por asustarnos, le voy a dar su merecido!
+42022	de9882e3	Por más que busqué, no supe de dónde salía el sonido.\nEntonces, ¿qué es este sonido...?\nMe dio miedo y salí huyendo.
+42111	f64c7899	Las máquinas estaban completamente rotas,\n¡pero encontré piezas que se pueden reutilizar!
+42112	8ff6a60c	Examiné las máquinas rotas...\n¡Bzz! Me dio una descarga y se me entumeció el cuerpo.
+42121	b8abe476	Desarmé las máquinas rotas...\n¡Bzz! Me dio una descarga y se me entumeció el cuerpo.
+42122	3374f243	Desarmé las máquinas rotas...\n¡y encontré piezas que se pueden reutilizar!
+42131	1f2e7837	Combiné las piezas de las máquinas rotas...\n¡y logré armar un altavoz!
+42211	4a6bd76f	Busqué de dónde salía el canto...\ny encontré un altavoz.\nParece que la canción salía de ahí.
+42212	ecc012a5	Busqué de dónde salía el canto...\ny encontré un gramófono.\nParece que la canción salía de ahí.
+42221	c8791cf4	¡De pronto dejé de sentir el suelo!\n...Cuando me di cuenta, había caído al fondo de un pozo.\nCon unas risitas, el canto dejó de oírse...
+42222	623630a5	Tenía curiosidad por saber de quién era la voz,\npero decidí ignorarla y seguir.
+42231	01ffcf6f	¡Al canto se le responde cantando!\nMe acerqué al origen del canto cantando a todo pulmón...\ny encontré un gramófono.
+42311	bb24bc29	Desarmé el robot\ny decidí reutilizar las piezas que sirven.
+42312	0039731d	¡De pronto el robot empezó a moverse!\n...Y enseguida se detuvo.\nParece que no estaba roto del todo.
+42321	dd73f585	Apenas terminé de repararlo...\n¡el robot nos atacó!\nQué robot tan malagradecido...
+42322	e87b457b	¡Reparé el robot!\n...Me sobró un tornillo, pero no pasa nada, ¿verdad?
+42411	6f6b1ce0	Saqué el libro blanco de la estantería...\n¡Clonc!\n¡Desde arriba cayó un tornillo enorme!
+42412	d1e28970	Saqué el libro blanco de la estantería...\n¡Clonc! Desde arriba cayó un tornillo enorme\ny me dio de lleno en la cabeza...
+42421	f78dbdaf	Abrí el libro negro...\ny tenía un mapa detallado de la zona.
+42422	f7419449	Saqué el libro negro de la estantería...\n¡BUM!\nDe pronto, el laboratorio explotó.
+42431	497da38a	Moví la estantería...\n¡y en la pared de atrás había un agujero grande!\nAdentro había materiales valiosos escondidos.
+42511	41e83d78	Desarmé la bomba con cuidado\n¡y recuperé materiales!
+42512	404d7b81	Desarmé la bomba con cuidado y recuperé materiales.\nLos nervios me dejaron agotado...
+42521	c09ed7de	Aunque sea una bomba sin explotar, nada garantiza\nque no explote. ¡Salí corriendo de ahí a toda velocidad!
+42522	1fdb7c57	Aunque sea una bomba sin explotar,\nnada garantiza que no explote.\nDi media vuelta enseguida y me alejé de la bomba.
+50111	fc0a5e65	Aparté los escombros con todas mis fuerzas...\n¡y apareció una piedra de brillo rojo!\nPero, mientras luchaba con los escombros,\nparece que el lugar cambió.
+50112	495df812	Aparté los escombros con todas mis fuerzas...\n¡y apareció una piedra de brillo rojo!\nPero me cansé tanto apartándolos que quedé agotado...
+50121	76d7d8ba	Metí la mano entre los escombros...\n¡y atrapé con la punta de los\ndedos una piedra de brillo rojo!
+50122	0ca45e1d	Metí la mano entre los escombros\n¡y conseguí la piedra brillante!\nPero de pronto los escombros se derrumbaron...\ny salí muy herido.
+50131	6c950927	Gracias a que Ginzaki quitó los escombros,\n¡pude conseguir el cristal que había al fondo!
+50211	c254e416	¡Pum!\n...El resultado fue regular.
+50212	14dc45e1	¡Paf!\n...Quizá golpeé mal,\nporque me lastimé el puño.
+50221	ead35ad5	La máquina hizo sonar una alarma...\n¡y los invasores acudieron al oírla!
+50222	f8fa1785	¡¡¡¡PUM!!!!\n¡Saqué la puntuación máxima de la máquina!
+50231	e17101fc	¡¡¡¡PUM!!!!\n¡El golpe de Mojiro sacó la puntuación máxima!
+50232	62d7efd9	¡¡¡¡BUM!!!!\nEra tanta fuerza que la máquina explotó.\nUn desastre que no se arregla con un "perdoncito"...
+50311	2aa40ecd	¡Salté con éxito\ny pude seguir adelante!
+50312	78136c38	¡Por muy poco no llegué a la otra orilla!\nMe caí al río...\n¡pero en el fondo encontré una piedra de brillo rojo!
+50321	4c33d4f2	Decidí cruzar el río a nado.\nA mitad de camino casi me ahogo, pero...\n¡en el fondo del río encontré\nuna piedra de brillo rojo!
+50322	51649da4	Casi me ahogo varias veces por el camino,\npero logré cruzar el río sin problemas.
+50411	61f9428b	Al final del camino había un cofre del tesoro.\nPero delante del cofre hay invasores bloqueando el paso.
+50421	44b83313	Más adelante encontré un manantial de agua\ncristalina. Vamos a descansar aquí un rato.
+50511	e76b30c9	Tilín, tilín, tilín...\nSalieron tres cerezas.\nLa máquina soltó un montón de fichas.
+50512	501ecede	Tilín, tilín, tilín...\nSolo salieron dos cerezas...
+50521	f89e8c4d	Tilín, tilín, tilín...\nSalieron tres corazones.\nLa máquina soltó un montón de bebidas energéticas.
+50522	8f9df2f2	Tilín, tilín, tilín...\nSolo salieron dos corazones.
+50531	5f1b47c5	Tilín, tilín, tilín...\nSalieron tres guantes, y la\nmáquina soltó unos guantes.\n¡Parece que servirán para juntar materiales!
+50532	105f092f	Tilín, tilín, tilín...\nSolo salieron dos guantes.
+50611	1b50b564	Presioné el interruptor junto a\nla puerta y se encendió la luz.\nGracias a la luz,\npude encontrar un joyero.
+50612	b84f9249	Presioné el interruptor junto a la puerta...\n¡Bzzz...! ¡Me recorrió una\ndescarga por todo el cuerpo!\nParece que había una fuga eléctrica...
+50621	f04f0fee	Abrí las cortinas y entró la luz de afuera.\nGracias a la luz,\npude encontrar un joyero.
+50622	346e4519	Abrí las cortinas buscando luz...\n¡y crucé la mirada con un invasor que rondaba afuera!
+50711	7eee8699	¡Fush! Encendí la antorcha de la pared.\nAl fondo del pasadizo iluminado\nvi una piedra de brillo rojo.
+50712	4bf1cada	Encendí la antorcha de la pared...\n¡¡¡¡BUM!!!! ¡Hubo una gran explosión!\nParece que era una trampa...
+50721	d8c1d76b	Avancé a tientas por el pasadizo...\ny mi mano tocó algo parecido a una piedra.
+50722	9dd6871a	Avancé a tientas por el pasadizo...\n¡y algo me mordió la mano!\n¡En la oscuridad me esperaba un invasor!
+50811	dbb88bbf	Metí la mano en la boca de la\nfiera y saqué la piedra brillante.\nQué bueno que no era una trampa...
+50812	8d53775d	Apenas metí la mano... ¡la boca de la fiera se cerró!\nSabía que era una trampa.\nMe mordió la mano y salí herido...
+50821	f0fa111e	Esto es sospechoso a más no poder...\nEsta vez mejor lo dejo y sigo adelante.
+50831	1256a96d	¡El bumerán de Eva trazó un arco\ny le arrebató el material de la boca a la fiera!
+50911	def8e837	Rastrillé el fondo con una red que encontré...\n¡y salió una ficha de bronce!
+50912	527e4533	Rastrillé el fondo con una red que encontré, pero...\nno encontré nada.
+50921	c2302dbf	¡Me animé a lanzarme al estanque!\nValió la pena:\nencontré una ficha de bronce hundida en el fondo.
+50922	d2ebfc8c	Me lancé a buscar materiales...\npero no encontré nada.\nTardé tanto en buscar\nque parece que el lugar cambió.
+51011	0469dbb4	El puente empezó a romperse mientras lo cruzaba,\n¡pero logré llegar al otro lado!
+51012	b432cdf5	¡El puente se rompió y caí al río!\nPero en el fondo del río\nencontré una piedra de brillo rojo.
+51021	782ded60	Cruzar este puente es peligroso.\nMejor dar media vuelta y buscar otro camino.
+51031	a0f4a189	Ima desplegó las alas y voló sin\nesfuerzo a la otra orilla...\n¡y nos encontró un material raro!
+51111	6852a338	Logré recuperar las cosas que se me cayeron.\n...¡¡Achís!!\nEl agua estaba tan fría que parece que me resfrié...
+51112	65573b01	Logré recuperar las cosas que se me cayeron.\n¡Y encima, en el fondo encontré un material raro!
+51121	90e9e764	Quién sabe qué hay en el estanque.\nMejor doy las cosas por perdidas.
+51211	11f8e2a0	Perseguí al pájaro y encontré su nido.\nAsí que en ese nido guarda sus tesoros.
+51212	57edbb27	Perseguí al pájaro corriendo,\npero lo perdí de vista a mitad de camino...
+51221	d90565a4	¡La piedra que tiré dio en el blanco!\nEl pájaro soltó la piedra que llevaba.
+51222	24e72057	La piedra no dio en el blanco...\n¡y le dio de lleno a un\ninvasor que estaba lejos!
+51231	5d561925	Kako derribó al pájaro con su rifle.\nGracias a eso, pude recuperar el\nmaterial que llevaba en el pico.
+51311	159cc071	Decidí rematarlo de una vez.\nEl oso tenía incrustado en el\ncuerpo un cristal pequeño...
+51312	c4d5166c	Quise rematarlo de una vez, pero...\n¡el oso se puso furioso, como en\nun último intento por resistir!
+51321	9e0980d0	No hay tiempo para ocuparse del oso.\nMejor ignorarlo y seguir.
+51322	9acb40f8	Quise ignorarlo y seguir, pero...\n¡sin darme cuenta, estaba rodeado de invasores!\nParece que el oso estaba peleando contra los invasores.
+51331	b2ad4019	Kirifuji lo curó y el oso volvió al bosque.\nJusto antes de irse, el oso soltó una piedra brillante.\nEsto... ¿será su forma de dar las gracias?
+51411	9e64d5a4	Volví a ser niño y me columpié como loco.\nPero poco a poco me fui sintiendo vacío.\nA mi edad, ¿qué estoy haciendo...?
+51412	ea73d9c7	Volví a ser niño y me columpié como loco.\nMe dio un poco de nostalgia.
+51421	2f16038f	Volví a ser niño y me puse a cavar en la arena como\nloco... ¡y del fondo salió una piedra de brillo rojo!
+51422	c0a2799a	Volví a ser niño y terminé un castillo de arena,\ntotalmente concentrado.\nMe quedó bastante bien, modestia aparte...\nSe me llenó el pecho de satisfacción.
+51511	05f25b39	La momia tenía puesto un anillo precioso.\nComo parece que sirve como material, me lo llevé.
+51512	ee6e6ded	La momia tenía puesto un anillo precioso.\nCuando quise sacárselo... ¡la momia se me echó encima!
+51521	d5a90d79	Cuando quise enterrarla...\n¡la momia soltó un chillido de golpe!\n¡Sus lamentos llenos de rencor retumban por toda la zona!
+51522	8b85276e	Cavé un hoyo y enterré a la momia con respeto.\nDe pronto vi que a mis pies había una piedra roja.\nEsto... ¿será un agradecimiento de la momia?
+51611	6388c5a5	¡Oh, qué suerte!\n¡Encontré una lata de jugo!\n¿Alguien la olvidó? Me la llevo, gracias.
+51612	f9f1beaf	No encontré nada.\nBueno, no siempre se tiene tanta suerte...
+51621	633b663f	¡Oh, qué suerte!\n¡Encontré una ficha!
+51622	f9f1beaf	No encontré nada.\nBueno, no siempre se tiene tanta suerte...
+51631	633b663f	¡Oh, qué suerte!\n¡Encontré una ficha!
+51632	67f675e3	¡De debajo de la máquina salió un animalito!\nDel susto, me caí...
+51711	4d026632	Adentro del barril había un montón de bananas.\nMe las comí con gusto.
+51712	a9225e14	¡Adentro del barril que rompí\nhabía un invasor escondido!\nEl invasor llamó a sus compañeros y nos atacó.
+51721	45183507	El barril se fue rodando...\n¡y chocó contra un invasor!\nParece que el invasor soltó algún material.
+51722	df325c41	El barril se fue rodando...\n¡y chocó contra una roca y explotó con todo!\nParece que tenía explosivos adentro...
+51811	c11022a5	¡En la vasija había una ficha!
+51812	b0ec1d4e	Los pedazos de la vasija rota salieron volando\ny me lastimé...
+51821	b887dbcc	Adentro de la vasija había una\nsemilla que se veía deliciosa.\nAl comérmela, ¡subió mi "destreza"!\n...O eso me pareció.
+51822	ee731b6c	No salió nada.\nParece que la vasija estaba vacía.
+51911	63748dfc	Quizá no sirva de nada,\npero hacer el bien me hizo sentir bien.
+51921	278264e3	Ya que está, me la quedo.\n...Me quedó un poco de culpa.
+52011	7aadcfee	Con solo tocarla, me chupa las fuerzas...\n¡pero no me voy a rendir!\nDespués de mucho forcejear, ¡logré sacar la espada!
+52021	5ece7b57	Esa espada es peligrosa... No hay que tocarla\na la ligera. Eso me dice mi sexto sentido.
+52111	b8bafe94	Sobre el altar había fragmentos rojos en fila.\n¿Serán joyas ofrendadas a los dioses?\nDecidí llevarme algunos.
+52112	5eb65bb0	Justo cuando quise llevarme\nlos adornos del altar...\n¡un rayo cayó sobre {chr}!\n¿Será una maldición...?
+52121	5ba065eb	Justo cuando quise destruir el altar...\n¡un rayo cayó sobre {chr}!\n¿Será una maldición...?
+52122	626e9cd0	Al destruir el altar,\nadentro apareció una piedra bonita.\n¿Se usaría como adorno?
+52131	2f4e7b50	En cuanto empecé a bailar,\n¡del altar salió volando un cristal rojo!
+52211	a5a19a78	Le recé a la estatua de piedra.\n...\n...No pasó nada en particular.
+52212	2f417b2f	Le recé a la estatua de piedra...\n¡Pum!\nUna piedra cayó del cielo y\nme dio de lleno en la cabeza.
+52221	b68a3a82	Le ofrecí un objeto cualquiera...\n¡y los ojos de la estatua empezaron a brillar!\nPero no pasó nada.
+52222	841c1a6a	Le ofrecí un objeto cualquiera...\n¡y cayó un cristal rojo del cielo!
+52231	e7ceaecc	Al destruir la estatua,\n¡de adentro salió un cristal pequeño!
+52311	0d8c7c02	Corrí a meterme en unas ruinas\npara refugiarme de la lluvia.\nEn el piso de las ruinas había una ficha tirada.
+52312	94b2ade3	Me refugié en unas ruinas... ¡y el techo se derrumbó!\nDel techo derrumbado salió una ficha.
+52321	af3e842a	Mientras caminaba, la lluvia paró,\npero me quedé helado y me resfrié...
+52322	3183edf8	Mientras caminaba, la lluvia paró.\nDe pronto miré a mis pies...\n¡y del suelo embarrado salió una ficha de oro!
+52331	57f24042	Algo brilla al otro lado de la lluvia.\nCaminé hacia la luz...\n¡y ahí había una ficha de oro tirada!
+52411	c0385d8c	Nada... no puedo leerlo.\nMejor dejo de descifrar y sigo adelante.
+52412	0d22c582	No sé qué dice, pero...\nmirando la estela, por algún motivo\nme entraron ganas de seguir.
+52421	6fc18088	¡De la estela salió un cristal rojo!
+52422	24193cbf	Al atacarla, la estela se hizo pedazos con estruendo...\n¡y los fragmentos le dieron a {chr}!\nDe adentro de la estela salió un cristal rojo.
+52431	0951be9f	Le recé a la estela...\n¡y cayó un cristal rojo del cielo!
+52511	0466c33c	Seguí al fuego fatuo con cuidado, pero...\npor desgracia, lo perdí de vista.
+52512	4317d7f5	Seguí al fuego fatuo... ¡y aproveché para atraparlo!\nEl fuego fatuo era en realidad un cristal rojo.\n¡¿La piedra estaba flotando en el aire...?!
+52521	e9d8ec23	Perseguí al fuego fatuo a toda velocidad, pero...\n¡Plaf!\nMe di un porrazo tremendo...
+52522	73268adb	Lo perseguí a toda velocidad...\n¡y me le eché encima!\nEl fuego fatuo era en realidad un cristal enorme.\n¡¿La piedra estaba flotando en el aire...?!
+60111	d87896e9	¡Mmm, delicioso!\nMe quitó un poco el hambre.
+60112	d80856d8	Uf... tiene un sabor raro.\nParece que estaba podrido.
+60121	b60d5086	Mejor no comer cosas del suelo. Decidí seguir adelante.
+60211	939a9d75	¡Por fin llegué al oasis!\nAhora podré calmar la sed...
+60212	5895e914	Por fin llegué al oasis...\n¡pero ahí me esperaban los invasores!
+60221	0de646f5	No puede ser que justo aparezca un oasis...\nSeguro es un espejismo creado por mis ganas...\n
+60311	af31d857	¡Encontré una pomada para heridas!\nMejor usarla mientras sirve.
+60312	5b2518c2	¡Crash, crash, clang!\nUna estantería se le vino encima a {chr}.
+60321	7a565bd0	Aunque sean ruinas, robar está mal.\nMejor paso de largo y sigo adelante.
+60411	a33be25f	Gracias al baño termal,\n¡se me pasó el cansancio de la exploración!
+60412	8f3318f8	El agua caliente me quitó el cansancio...\n¡pero mientras me bañaba, me robaron cosas de la bolsa!
+60421	7ef2a44a	Estamos explorando:\nno hay tiempo para bañarse en aguas termales.
+60511	d8436672	Trepé por el tronco y arranqué una manzana.\n¡Qué dulce y deliciosa...!
+60512	18dcd32a	Trepé por el tronco para alcanzar las manzanas...\n¡Pum!\nSe me resbaló la mano y me caí del árbol.
+60521	8b91ff34	Sacudí el tronco con fuerza...\n¡y de una rama cayó una manzana!
+60522	0be5fb48	Sacudí el tronco con fuerza...\n¡y de una rama cayó una serpiente!
+60531	367b91e9	Shizuhara blandió su hacha...\n¡Pum!\nPartió el tronco de un solo\ntajo y conseguimos manzanas.
+80111	ac314903	Me escondí detrás de una roca\nhasta que pasó la niebla.\nGracias al descanso, recuperé fuerzas.
+80112	8765a04d	No encontraba dónde esconderme...\nDe tanto andar sin rumbo,\nla niebla me dejó empapado de pies a cabeza.
+80121	7c6541c9	Seguí explorando\ny la niebla se disipó: ahora se ve mejor.\nAsí será más fácil buscar materiales.
+80122	f60aed1a	Seguí explorando sin preocuparme...\n¡y de la niebla salió un invasor!
+80211	aa78e458	¡Bibidi babidi bu...!\nAl recitar el hechizo, el círculo mágico empezó a brillar.\nParece que recibí algún tipo de protección espiritual.
+80212	b73f4409	¡Eloim, Essaim...!\nAl recitar el hechizo, ¡apareció un invasor!
+80221	b8a94e1c	Ofrecí un objeto cualquiera...\n¡y del círculo mágico salió una luz cegadora!\nParece que recibí algún tipo de protección espiritual.
+80222	c4dca95d	Ofrecí un objeto cualquiera... ¡y del círculo\nmágico salió una bola de fuego que me quemó!
+80231	89aef19d	Kako, que sabe de ocultismo, recitó el hechizo...\n¡y el círculo mágico empezó a brillar!\nParece que recibí algún tipo de protección espiritual.
+80311	43bb3783	¡Clic!\nAl presionar el botón, se encendió.\nParece que esta terminal es un detector de materiales.
+80312	67835bbb	Presioné un botón de la terminal...\n¡y sonó una alarma fuerte\nque atrajo a los invasores!
+80321	b35dc02b	¡Paf!\nCon el golpe, se encendió.\nParece que esta terminal es un detector de materiales.
+80322	ef347cc9	¡Paf!\nLe di con todas mis fuerzas,\npero la terminal no dio señales de vida.
+80331	90fd9f1a	Conecté la terminal a la computadora\nde la base y analicé sus datos.\nParece que esta terminal es un detector de materiales.
+80411	d463e5fd	¡La cerradura electrónica se desbloqueó y pude entrar!\nAdentro encontré un detector de metales.
+80412	0b4d9e5a	¡Error!\nParece que la contraseña era incorrecta.
+80421	d463e5fd	¡La cerradura electrónica se desbloqueó y pude entrar!\nAdentro encontré un detector de metales.
+80422	368beaf2	¡Error!\nParece que la contraseña era incorrecta.
+80431	84801452	¡La autenticación biométrica de\nEva desbloqueó la cerradura!\nAl entrar, encontré un detector de metales.
+80511	28b6ddf3	¡Qué gusto! Gracias a sudar corriendo,\n¡estoy rebosante de energía!
+80512	39856026	¡Plaf!\nMe entusiasmé tanto que me caí...
+80521	15687fe1	¡Fortalecí los músculos de los brazos!\nSi aprovecho bien esta fuerza,\npodré juntar materiales con más eficiencia.
+80522	f0d8e95e	¡Ugh...!\n¡Se me cayó la mancuerna en el pie...!
+80531	00673904	¡Fortalecí los músculos de todo el cuerpo!\nSi aprovecho bien esta fuerza,\npodré juntar materiales con más eficiencia.
+90111	103cd3a2	¡El cuerpo empieza a bailar solo...!\n¡Parece que la máscara se apoderó de mi cuerpo!
+90112	2b10ddbb	Apenas me puse la máscara,\nde pronto me quedé sin energía...
+90121	64b9bf84	¡No hay que andar cargando una máscara tan sospechosa!\nLa tiré bien lejos.
+90122	4039f74b	¡Lancé la máscara con todas mis fuerzas!\nPero volvió como un bumerán...\n¡y me dio en plena cara!
+90211	2c0d6ded	Le recé al altar, pero...\nno pasó nada en particular.
+90212	088bdf07	Le recé al altar...\n¡y la estatua soltó una luz siniestra!\nDe pronto siento el cuerpo pesado...
+90221	89085238	Dejé un objeto en el altar...\n¡y la estatua empezó a brillar!\nSiento que recibí una protección espiritual.
+90222	83f47f73	Dejé un objeto en el altar, pero...\nno pasó nada en particular.
+90231	a430d4c9	Me llevé la piedra que había en el altar.\nParece que será un buen material.
+90232	0863c117	Me llevé los materiales del altar...\n¡y de pronto hubo un gran terremoto!\nMe caí y me lastimé...
+90311	c12f9b5a	Logré escapar sin que me atrapara el tornado.
+90312	109643ac	No pude escapar y el tornado me atrapó.
+90321	f1bf3673	Me refugié bajo los escombros\ny logré esperar a que pasara el tornado.\nParece que el tornado cambió los alrededores.
+90322	fb9fac49	El tornado me levantó junto con los escombros.\nY encima, parece que cambió los alrededores.
+90411	4cf89046	¡Siento el cuerpo más liviano!\n¡Seguro la estrella cumplió mi deseo!
+90412	c711d988	De pronto siento el cuerpo pesado...\n¿No sería una estrella de mal agüero...?
+90421	69174074	¡Siento que voy a encontrar materiales!\n¡Seguro la estrella cumplió mi deseo!
+90422	0441329c	Me dio un mal presentimiento y revisé la bolsa...\nLas cosas que había juntado ya no estaban.\n¿No sería una estrella de mal agüero...?
+90431	58b045f8	¡Siento que mi destino cambió!\n¡Seguro la estrella cumplió mi deseo!
+90432	5ef13992	¡Siento que los alrededores cambiaron!\n¡Seguro la estrella cumplió mi deseo!
+90511	adc18681	Me costó, pero aparté la roca...\ny brotó con fuerza agua termal\nque inundó todos los alrededores.
+90512	6959a259	Me costó, pero aparté la roca...\n¡y brotó con fuerza agua termal!\nMe di un baño termal y renové cuerpo y mente.
+90521	5cf06e1e	Destruí la roca con mi arma de clase...\n¡y brotó con fuerza agua termal!\nMe di un baño termal y renové cuerpo y mente.
+90522	fb1835eb	Destruí la roca con mi arma de clase...\n¡y me lastimaron los pedazos\nde roca que salieron volando!
+1020111	a742878e	¡Yakushiji le dio a la bola con el centro del bate!\n¡¡¡¡CRAC!!!!\nFue un jonrón espectacular y se ganó un premio.
+1020112	e2f5137e	Yakushiji falló el golpe y solo cortó el aire.\nHizo un swing tan exagerado que el bate se le soltó\ny le dio a {chr}.
+1020121	7b1dde44	La bola rodó por buen lugar y fue un hit. No fue\nun jonrón, pero le dieron el premio al esfuerzo.
+1020122	9a378b05	Buscó el contacto, pero la\nbola fue un elevado fácil.\nTerminó con un resultado decepcionante.
+1020131	fffa6418	¡Gracias a su vista entrenada, Yakushiji\nvio venir un lanzamiento fácil! ¡¡¡¡CRAC!!!!\nFue un jonrón espectacular y se ganó un premio.
+1020211	4c5d7d01	Apenas cambió el motor,\n¡la moto se descontroló y\nsalió hacia donde no debía!\n¡Esperaaa!
+1020212	6ea0d411	El motor nuevo echó fuego,\ny no es una forma de decir. Nadie salió herido,\npero parece que se nos chamuscaron algunas cosas.
+1020221	1fdaa48d	¡Las llantas modificadas\nvan triturando el suelo como una perforadora!\nBajo el suelo destrozado encontramos materiales enterrados.
+1020222	ca513c47	¡Las llantas modificadas\ndestruyen sin control los edificios cercanos!\nLos escombros les cayeron encima a mis compañeros.
+1020231	d81e9f9a	Con el manubrio nuevo, la moto\nexplora los alrededores por su cuenta.\nY hasta encontró un lugar con materiales valiosos.
+1020232	5f5cdf4e	Con el manubrio nuevo, la moto\nexplora los alrededores por su cuenta.\nPero atrajo la atención de los invasores cercanos.
+1020311	7fa05150	Me comí el pan con flan en lugar de carne.\n...¿Eh? No está nada mal.
+1020312	9c630f1b	Me comí el pan con flan en lugar de carne.\nEl jugo de carne y el kétchup no pegan nada con el flan.\nMe sentí mal.
+1020321	a994ac4f	Curry y flan: lo mejor combinado con lo mejor\nen un plato definitivo. De milagro, quedó riquísimo.
+1020322	93480690	Curry y flan: lo mejor\ncombinado con lo mejor en un plato definitivo.\n...Como era de esperarse, no había quién se lo comiera.
+1020331	bd0bccaf	El flan es mejor solo. Yakushiji no parecía\nmuy contento, pero nos comimos el flan con gusto.
+1020332	d0034710	Quise quitarle el flan, pero\nYakushiji se resistió\ny el flan terminó en el suelo.
+1030111	e028ff8a	Shizuhara estaba sacando\nmateriales de una planta rara.\nComo si hubiera sabido desde el principio\nque aquí había materiales.
+1030112	ffc3d354	Mientras buscaba a Shizuhara,\nlos invasores me descubrieron.\nShizuhara oyó el alboroto y vino corriendo.
+1030121	91f553bf	A veces Shizuhara también querrá estar sola.\nUnos minutos después, Shizuhara volvió.\nParece que recogió materiales por el camino.
+1030122	a3e43dd6	Unos minutos después, Shizuhara volvió.\nParece que fue a buscar materiales,\npero no encontró nada.
+1030211	030e9914	Shizuhara aniquiló a los invasores casi ella sola.\nEntre los restos despedazados encontramos materiales.
+1030212	968a64d0	Shizuhara blandió el hacha con tanta fuerza\nque se derrumbaron los escombros de alrededor\ny nos aplastaron, junto con los invasores.
+1030221	b4c68342	Hay que evitar las peleas inútiles.\nConvencí a Shizuhara y nos fuimos de ahí.
+1030222	90927c1b	Discutí con Shizuhara, que insistía\nen que hay que exterminar las plagas. Hicimos\ntanto ruido que los invasores nos descubrieron.
+1030311	d848e82d	Me fui agarrando de las ramas y subí al árbol.\nLo que brillaba era un fruto raro.
+1030312	108ebc93	Pisé mal y me caí del árbol.
+1030321	459dc5e6	Sacudí el árbol con fuerza\ny desde arriba cayó un fruto.
+1030322	e52e718b	Sacudí el árbol con fuerza y desde\narriba cayeron montones de orugas.
+1030331	fb67e695	Shizuhara blandió su hacha enorme y taló el árbol.\nGracias a ella, podemos sacar\nel material sin peligro.
+1040111	31101ebe	{chr} perdió en piedra, papel o tijera y no tuvo más remedio\nque meter la mano. Con el brazo herido,\nlogró sacar la joya del fondo.
+1040121	11366305	No hay garantía de que sea algo valioso.\nDecidí que no valía la pena el riesgo\ny me fui.
+1040131	013f620a	Esto lo vi en la segunda película de cierta saga\nde juegos mortales. Amemiya metió la mano sin dudar\nen la pila de jeringas y, al parecer, sacó la joya\nsin un rasguño. ...Así que el impulso importa, ¿eh?
+1040211	597678b0	Cañón en la sien... y a apretar el gatillo.\n...Clic.\nTras salir con vida, me siento extrañamente seguro.\nAhora creo que podré explorar con más eficiencia.
+1040212	08e20f21	Cañón en la sien... y a apretar el gatillo.\n...¡¡BANG!!\nLa cabeza de {chr} voló en pedazos.
+1040221	bdb9bfbf	No quiero desperdiciar la vida en un juego. Calmé a\nAmemiya, que no estaba nada contenta, y nos fuimos.
+1040222	114129d0	Amemiya, enfurruñada, tiró el revólver...\n...¡¡BANG!!\nEl revólver se disparó al golpear el suelo.
+1040311	71f8a5b5	Poner veneno en una de dos copas y que el otro elija.\nJugar a este juego mortal rapidito animó a Amemiya.
+1040312	de6da032	Poner veneno en una de dos copas y que el otro elija.\nJugar a este juego mortal rapidito animó a Amemiya.\nEl que se llevó el veneno fue Sumino.
+1040321	4a1df57e	Gracias al polvo blanco (polvo de golosina feliz),\nAmemiya se puso feliz por un rato.\n...Ojalá no cree adicción.
+1040322	4652abea	Amemiya aspiró demasiado polvo blanco\n(polvo de golosina feliz), se puso demasiado feliz\ny se fue por ahí. ...Vamos a buscarla.
+1050111	9686071a	Asé el hongo y lo probé.\nE-Esto... ¡¡está buenísimo!!
+1050112	ed2692d4	Asé el hongo y lo probé.\nE-Esto... tengo el cuerpo\nentumecido y no puedo moverme.\nParece que era un hongo venenoso.
+1050121	b84e979c	Comer algo que no conozco es peligroso.\nDesistí de comer el hongo y me fui.
+1050131	329c0c30	Parece que Aotsuki vio este hongo en un libro.\nAl parecer, es de los comestibles.\nAsamos el hongo y estaba delicioso.
+1050132	4821a1d0	Parece que Aotsuki vio este hongo en un libro.\nEs venenoso, pero procesado sirve como material valioso.\nPor si acaso, lo recolecté.
+1050211	d9de999b	Parece que es el tipo de juego que mejor\nse le da a Aotsuki. Movió los bloques\ncon decisiones precisas y batió el récord.
+1050212	07a102a9	Parece que es el tipo de juego que mejor se le da\na Aotsuki. Movió los bloques con decisiones precisas\ny no paraba de batir el récord. Pero sumó tantos puntos\nque el contador se desbordó y la máquina se rompió.
+1050221	2c3ecff4	Parece que a Aotsuki le encantó este juego.\nExterminó humanos a gusto y batió el récord por goleada.
+1050222	0d39de55	Parece que a Aotsuki le encantó este juego.\nSe concentró tanto que no se dio cuenta\nde que los invasores nos habían rodeado.
+1050231	83696842	Parece que no es el tipo de juego que le gusta a Aotsuki.\nAun así, lo superó sin problemas y batió el récord.
+1050232	ff4753f6	Parece que no es el tipo de juego que le gusta a Aotsuki.\nAntes de batir el récord,\nse aburrió del juego.
+1050311	2f9a0507	Tiene un mapa de esta zona.\nPude entender el terreno de los alrededores,\nasí que podremos avanzar sin problemas.
+1050321	705510ab	Trae fotos de los minerales que\nse pueden recolectar cerca.\nCon esto, la exploración será más fácil.
+1050331	233a01c2	Me quedé embobado mirando los dibujos y,\ncuando me di cuenta, había pasado un buen rato.\nHay que volver rápido a explorar.
+1060111	a67571e1	Kawana maneja la excavadora\ny va picando las rocas de alrededor.\nEntre las rocas encontramos minerales valiosos.
+1060112	e1ea1c65	Kawana maneja la excavadora\ny va picando las rocas de alrededor.\nDe entre las rocas salieron unos invasores.
+1060121	f9f760c9	Si la toco sin cuidado y provoco un derrumbe, sería grave.\nMejor la ignoro y sigo adelante.
+1060211	fd583576	El auto viejo arrancó sin problemas.\nParece que nos servirá para movernos.
+1060212	8a62d57d	Parece que era demasiado viejo.\nAl subirnos, empezó a salir humo negro.\nAl escapar, se me cayeron algunas cosas.
+1060221	588c3fe9	No es momento de jugar.\nMejor lo ignoro y sigo adelante.
+1060311	16ecca55	El cachivache resultó ser un detector de metales.\nParece que servirá para recolectar materiales.
+1060312	0875aaff	El cachivache que parecía una aspiradora explotó.\nParece que la reparación salió mal.
+1060321	a2ffa950	El cachivache resultó ser un sillón de masajes.\nCon esto se nos va a pasar el cansancio de explorar.
+1060322	998cef73	El cachivache que parecía una silla explotó.\nParece que la reparación salió mal.
+1060331	7a827ba8	El cachivache resultó ser una cortadora de césped.\nParece que servirá para recolectar materiales.
+1060332	353d96cc	El cachivache que parecía una carretilla explotó.\nParece que la reparación salió mal.
+1070111	e80f7675	Nos comimos una hamburguesa doble con queso enorme\ny quedamos llenos.
+1070112	5269b969	Me cayó mal al estómago.\nParece que la carne molida estaba vencida.
+1070121	27a050ec	Picamos entre todos las papas fritas crujientes.\nEstaban deliciosas.
+1070122	f2566ac8	Me cayó mal al estómago.\nParece que el aceite que usó estaba viejo.
+1070211	e06f023f	Saqué tierra del río.\nAl quitar la grava, pude sacar unos granos dorados.\nNo es polvo de oro, pero parece que servirá como material.
+1070212	b59a4a7d	Saqué tierra del río.\nEstuve un buen rato buscando en el agua,\npero no encontré polvo de oro. Y encima me resfrié.
+1070221	635bd288	Seguro que Maruko se dejó cegar por el oro\ny vio visiones. Mejor lo ignoro y sigo adelante.
+1070311	070995af	Al rato, Maruko volvió.\nParece que lo que vio era un póster pegado en una pared.
+1070312	e955b511	Al rato, Maruko volvió.\nParece que lo vienen persiguiendo unos invasores.
+1070321	2d11e161	Andar solo es peligroso.\nLe hice una llave por la espalda\na Maruko y logré detenerlo.
+1070322	f4999e9c	Andar solo es peligroso.\nCuando quise detener a Maruko, se resistió y me caí.\nMe lastimé...
+1080111	964658e9	Siento que mi cuerpo creció una talla.\nAhora podría cargar cualquier\ncosa, por pesada que sea.
+1080121	88cdb7a2	Pica... pica demasiado.\nCreí que iba a escupir fuego.\nMe llevo esta flor como material.
+1080131	702c69f1	Mi cuerpo brilla y siento que me volví invencible.\nAhora podría correr lejos sin\npreocuparme por los enemigos.
+1080211	80d9cee9	A pesar de las ráfagas, llegué a lo alto de la torre.\nRecuperé la bandera grande sin problemas.
+1080212	ca88aceb	Mientras subía,\nuna ráfaga de viento me hizo caer de la torre.
+1080221	daba3055	Escalar una torre tan alta\nsin ningún plan es peligroso.\nMejor la ignoro y sigo adelante.
+1080231	286f7b4c	Ima desplegó las alas y se posó sin esfuerzo\nen lo alto de la torre.\nRecuperó la bandera grande sin problemas.
+1080311	bf8fb9f3	Si uno piensa que es arroz con pollo sin pollo,\nse puede comer. Estaba bastante rico.
+1080312	c05a8eb0	Les echó una cantidad anormal de kétchup y mayonesa\na las bolas de arroz.\nCasi no se sentía el sabor del arroz.
+1080321	620f8b8e	Además, Ima les echó jarabe de arce.\nSorprendentemente, el arroz quedó más dulce\ny combinó de maravilla con la\nacidez de las fresas: ¡riquísimo!
+1080322	e453ee1b	Las fresas tienen un sabor demasiado fuerte...\nSolo le gustaron a Ima.
+1080331	b65b84d1	Ima parecía decepcionado, pero hizo caso.\nNos comimos las bolas de arroz tal como estaban.
+1090111	649ce7d8	Cerré los ojos y le envié un mensaje mental al ovni.\nQuizá la telepatía funcionó, porque el ovni\nlanzó un rayo tractor y nos teletransportó suministros.
+1090112	ed3d1626	Cerré los ojos y le envié un mensaje mental al ovni.\nQuizá se me coló algún pensamiento raro,\nporque el ovni nos atacó con un rayo misterioso.
+1090121	9a0e5c09	Elegí una de mis cosas al azar y\nla puse justo debajo del ovni.\nEl ovni lanzó un rayo tractor\ny a cambio nos teletransportó suministros.
+1090122	8d2d1fbc	Elegí algo de la bolsa al azar y\nlo puse justo debajo del ovni.\nEl ovni lanzó un rayo tractor\ny a cambio nos teletransportó un invasor.
+1090131	358d6882	Ventra, ventra, gente del espacio.\nComo respondiendo a la llamada, el ovni\nlanzó un rayo tractor y nos teletransportó suministros.
+1090132	61b66848	Ventra, ventra, gente del espacio.\nComo respondiendo a la llamada, el ovni\nlanzó un rayo tractor y nos teletransportó un invasor.
+1090211	9794bbef	Esta forma coincide con la pata de un invasor mediano.\nKako lo dedujo y, por la dirección\nde las huellas, supo adónde fue.\nLogramos acorralar al culpable.
+1090212	349a05ec	Son huellas que nunca había visto.\nAsí no podemos saber quién fue.
+1090221	5875e4d1	Estos pelos tienen que ser de un animalito, como un ratón.\nCon esa deducción, Kako atrajo al culpable con un cebo\nque le gustaría y encontró su madriguera.
+1090222	f656e77e	Es un tipo de pelo que nunca había visto.\nAsí no podemos saber quién fue.
+1090231	800b50ef	Al revisar los bolsillos, aparecieron las cosas\nque creíamos robadas. Se habían metido ahí\nsin que nos diéramos cuenta. Y de paso,\nencontré unos ahorros escondidos.
+1090232	94814a7a	En el bolsillo interior de la bolsa no hay nada.\nAsí no podemos saber quién fue.
+1090311	8b54478e	Salimos a toda prisa de las ruinas.\nA nuestras espaldas vimos cómo las\nviejas ruinas se venían abajo.
+1090312	adcc5ec3	Salimos a toda prisa de las ruinas. En el camino,\nse me enredaron los pies y me di un buen golpe.
+1090321	4ca9472a	No pasó nada en particular.\nParece que la premonición de Kako falló.
+1090322	354c51c1	Las viejas ruinas se derrumbaron.\nDebimos hacerle caso a la premonición de Kako.
+1100111	845272be	Sacamos a Ginzaki del agujero.\nSiento que superar esta dificultad unió más al grupo.
+1100112	0b6f05fc	Quise sacar a Ginzaki del agujero,\npero sin querer yo también me caí.
+1100121	c994bedb	Le di ánimos a Ginzaki,\nque se motivó y salió del agujero de un salto.
+1100211	cc043086	No encontramos al animalito,\npero sí lo que parece su madriguera.\nAdentro encontramos un material que podría servir.
+1100212	6319aa73	Vi una sombra que parecía de un animalito y la perseguí,\npero era un invasor.
+1100221	bbd4a80d	No podemos correr riesgos por un capricho de Ginzaki.\nMejor ignoramos al animalito y seguimos adelante.
+1100311	ffe21b12	Al pasar por el pasillo, salieron\npúas y láseres de las paredes.\nLogré esquivarlos y conseguir los suministros.
+1100312	46de12fb	Al pasar por el pasillo, salieron\npúas y láseres de las paredes.\nMe dieron de lleno, pero logré conseguir los suministros.
+1100321	4927669c	Quién sabe qué trampas se activarán.\nMejor no arriesgarse y dar media vuelta.
+1100331	d64f12d2	Al pasar por el pasillo, salieron púas y láseres de las\nparedes. Ginzaki se asustó un poco, pero los aguantó\ncon su enorme defensa y consiguió los suministros.
+1110111	16ed64d0	Descansé un poco y me sentí mejor. Sigamos explorando.
+1110112	3155e7c9	Mientras descansábamos, nos descubrieron unos invasores.
+1110121	fb93d303	Esto no es nada.\nSeguí explorando a pura fuerza de voluntad.
+1110122	87b11524	Quise seguir explorando a pura fuerza de voluntad,\npero me sentí aún peor.
+1110131	9500a780	Gracias a los cuidados de Kirifuji,\nme recuperé por completo.\n¡Y además me volvieron las ganas!
+1110211	04f98313	Quedó lista una bebida energética.\nCon esto podríamos seguir explorando\ndos o tres noches sin dormir.
+1110212	0e348a6c	La mezcla explotó.\nParece que la preparación salió mal.
+1110221	716707e3	Quedó listo un acelerador de crecimiento para plantas.\nParece que servirá para recolectar materiales.
+1110222	0e348a6c	La mezcla explotó.\nParece que la preparación salió mal.
+1110231	88ce2142	Quedó lista una sustancia que brilla\ncon los colores del arcoíris.\nAcabamos creando algo tremendo...
+1110232	1641e855	La mezcla provocó una explosión tremenda.\nParece que la preparación salió mal.
+1110311	b390c0a4	Quedarse mucho tiempo aquí es peligroso,\nasí que decidimos descansar solo un poco.
+1110312	058dae63	Íbamos a descansar solo un poco y sin bajar la guardia,\npero los invasores nos encontraron primero.
+1110321	72067712	Tomamos también el suplemento y recuperamos bien las fuerzas.
+1110322	4e621c64	Nos quedamos demasiado tiempo\ny los invasores nos encontraron.
+1110331	672f5086	No, todavía no hace falta descansar.\nSigamos adelante rápido.
+1110332	d8b4fc17	No le hice caso y seguimos, pero a mitad de camino\nllegamos al límite y todos caímos rendidos.
+1120111	30f24a3d	Con fruta rallada como ingrediente secreto,\nquedó un curry de dulzor suave.
+1120112	69c617f9	En el curry de la familia Oosuzuki,\nel fuego es lo más importante.\nMientras el curry se cocinaba a fuego lento,\nlos invasores nos atacaron.
+1120121	938aa129	Quedó un curry estimulante con especias nuevas.\nPicaba de verdad, pero me despejó la cabeza.\nParece que podremos explorar con más eficiencia.
+1120122	69c617f9	En el curry de la familia Oosuzuki,\nel fuego es lo más importante.\nMientras el curry se cocinaba a fuego lento,\nlos invasores nos atacaron.
+1120131	5a2863d6	No es momento de preparar curry.\nSigamos adelante rápido.
+1120211	d189f754	Logré recuperar la máscara, que iba rodando.\nCon la máscara de vuelta, Oosuzuki\ntiene más ganas que nunca.
+1120212	7c1df8c1	La máscara rueda hacia un agujero en el suelo.\nNo pude frenar a tiempo y me\ncaí al agujero junto con ella.
+1120221	d7af264a	Le hice agujeros a una bolsa de\npapel y se la puse a Oosuzuki.\nParece que se recuperó un poco.\nAprovechemos para ir a buscar la máscara de verdad.
+1120222	85a52e78	Dejar así a Oosuzuki es peligroso.\nLe puse en la cabeza un cono de tránsito\nque había cerca. Se enojó y me dio un golpe.
+1120311	13e119c5	Desarmé el lanzacohetes y me quedé\ncon el mecanismo de disparo.
+1120312	54342fb4	El lanzacohetes se disparó solo y me alcanzó la explosión.
+1120321	a8ccda40	Le arranqué el blindaje al vehículo blindado.\nConseguí piezas que pueden servir.
+1120322	f9c5625e	Por algún motivo, el motor arrancó\ny el vehículo blindado se descontroló y me arrolló.
+1120331	45a1ca07	Saqué el procesador de la computadora\nque controla el misil teledirigido.
+1120332	74212999	Por un error, el misil se disparó.\nY ahora, descontrolado, viene cayendo hacia nosotros...
+1130111	d93a4ba4	"¡Florece en frenesí, Espada Sagrada Jumonji!".\n...No pasó nada en particular, pero\nle salió con estilo, así que\nMagadori está satisfecha.
+1130112	7ee77b33	Parece que la Espada Sagrada\nJumonji está de mal humor:\nMagadori la llamó y no le hizo caso.
+1130121	ead9de90	A Magadori se le agudizaron los sentidos y creyó ver\nel hilo que marcaba la trayectoria de su corte...\npero solo era una telaraña que se le había pegado.
+1130122	c99e095d	Por probar una técnica de respiración\na la que no está acostumbrada, Magadori se atragantó.
+1130131	512a4eaa	Para el estilo de tres espadas, hacen falta más espadas.\nMagadori se puso en la boca una rama que encontró\npor ahí. ...No parece que vaya a servir en combate.
+1130132	006ea507	Intentó sostener de verdad la espada con la boca. Le\ndolieron tanto los dientes que no aguantó ni un segundo.
+1130211	24a8b2c8	Magadori se animó: mientras no sea de grado especial,\npuede derrotarlo ella misma.\nGracias a eso, pudimos explorar la mansión a fondo.
+1130212	a5566dd2	Magadori se acobardó: como no fue a la Escuela Técnica,\ncon los espíritus malditos no puede.\nMientras dudaba, nos descubrieron unos invasores.
+1130221	bbf821f0	Gogogogogo...\nUna tensión misteriosa recorre a Magadori.\nGracias a eso, exploramos la mansión\nsin que nos viera el enemigo.
+1130222	4b9df999	Los Stands solo los pueden ver los usuarios de Stand...\n¿Acaso la Espada Sagrada Jumonji es un Stand?\nMientras Magadori estaba confundida,\nnos descubrieron unos invasores.
+1130311	00bf1ace	Justo cuando iba a buscarla,\nme topé con Magadori, que volvía.\nTrajo materiales que encontró por el camino.
+1130312	1c85ef9b	Encontré a Magadori entre los pastizales y la llamé.\nParece que estaba haciendo sus necesidades...\nDe la vergüenza, agarró la espada y se puso como loca.
+1130321	f3612563	Esperamos un rato y Magadori volvió.\nParece que había ido al baño.\nTrajo materiales que encontró por el camino.
+1130322	1d4c0ddb	Esperamos un rato, pero Magadori no volvía.\nYa preocupado, fui a ver qué pasaba\ny encontré a Magadori atacada por invasores.
+1140111	18f2782d	Se me van soltando los nudos del cuerpo...\nContra lo que esperaba, fue un masaje normal.
+1140112	82346f8a	Crac, crac, crac...\nSiento que me está presionando puntos que no debería.\nOmokage se ve muy contento.
+1140121	24bedf93	Tuve un mal presentimiento\ny rechacé el masaje casi huyendo.
+1140211	87c715af	Omokage le arrancó la piel al duende con destreza.\nEs asqueroso, pero parece que servirá como material.
+1140212	a6a8e738	Durante la disección, salpicó la sangre\ndel duende. Donde cayó, huele a quemado.\nParece un líquido ácido.
+1140221	53815a61	Omokage le arrancó el ojo al murciélago con destreza.\nEs asqueroso, pero parece que servirá como material.
+1140222	2d2344f6	Durante la disección, de repente\ncrucé la mirada con el ojo.\nPor algún motivo, el cuerpo se me paralizó un buen rato.
+1140231	67710ccb	Omokage le arrancó las hojas a la planta con destreza.\nEs asqueroso, pero parece que servirá como material.
+1140232	7c76ed0e	Durante la disección, la planta salpicó un líquido\nverde. Es un ácido peligroso que lo disuelve todo.
+1140311	d295786f	No tiene sentido dejarlo vivo,\nasí que lo rematé de una vez.
+1140312	5543ebe6	Cuando quise rematarlo,\nel invasor se autodestruyó como último acto de resistencia.
+1140321	54affd77	Matarlo así me dejaría mal sabor\nde boca, así que lo dejé ir.\nNo sé si en agradecimiento, pero\nel invasor soltó materiales.
+1140322	e51b4ab7	Matarlo así me dejaría mal sabor\nde boca, así que lo dejé ir.\nAl rato, volvió con sus compañeros.\n¡Será malagradecido...!
+1140331	07a42581	Omokage empezó a torturarlo encantado.\nUnos minutos después, el invasor\nentregó los materiales que escondía\ny se quitó la vida.
+1150111	70ab43e9	Dicen que dormir mucho es bueno hasta para la belleza.\nAprovechamos el descanso\npara dormir una siesta todos juntos.
+1150112	778018ed	Dicen que dormir mucho es bueno hasta para la belleza.\nAprovechamos el descanso\npara dormir una siesta todos juntos...\npero mientras dormíamos, nos atacaron unos invasores.
+1150121	8aa7f4fe	Con los ingredientes que teníamos,\nMojiro nos preparó su guiso chanko especial.
+1150122	152bc32d	Con los ingredientes que teníamos, Mojiro nos preparó\nsu guiso chanko especial. Comí tanto que me cayó mal.
+1150131	6a2f3263	Mojiro hizo sparring conmigo.\nSudé un montón y siento que gané confianza.
+1150132	598de98b	Mojiro hizo sparring conmigo.\nMe dio una paliza sin que yo pudiera hacer nada.
+1150211	d07fd69f	Mojiro se despertó de buen humor\ny parece estar en plena forma.\nAsí que podemos esperar mucho\nal recolectar materiales.
+1150212	dfc02c58	Justo en ese momento, Mojiro se giró\ndormida y su puño me dio en la cara.
+1150221	7024c2c6	Descansamos un poco más al ritmo de Mojiro.\nGracias a eso, recuperé energía.
+1150222	ce9dd778	Descansamos un poco más al ritmo de Mojiro.\nPor quedarnos tanto tiempo en el mismo lugar,\nnos descubrieron unos invasores.
+1150311	19f8e548	¡¡¡¡Lo logróóó!!!!\nSu brainbuster vertical de remate dio de lleno\ny el invasor quedó fuera de combate.
+1150312	4f3d171a	Le aplicó su gigante swing de remate.\nEl invasor salió volando por los aires\ny cayó justo encima de nosotros.
+1150321	f5a0feb2	Pelear sola es peligroso.\nFui a ayudar a Mojiro, pero al invasor\ntambién le llegaron refuerzos.
+1150331	2e2cd963	No conviene gastar energías aquí.\nDetuve a Mojiro y volvimos por donde vinimos.
+1150332	04f25c32	No conviene gastar energías aquí.\nDetuve a Mojiro y volvimos por donde vinimos.\nPero nos atacaron unos invasores\nque estaban escondidos detrás.
+1160111	fc1cb126	Eva se fue a quién sabe dónde a buscar materiales.\nAl rato, volvió\ncon materiales raros.
+1160112	edf0d56e	Eva se fue a quién sabe dónde a buscar materiales.\nComo tardaba en volver, fui a buscarla\ny la encontré peleando contra unos invasores.
+1160121	39f42dbc	Eva detectó la presencia de\ninvasores y salió disparada.\nSu ataque por sorpresa funcionó\ny logró aniquilar a los invasores.
+1160122	e29e3979	Eva detectó la presencia de\ninvasores y salió disparada.\nPor atacar sin necesidad, los\ninvasores nos descubrieron.
+1160211	f86245b6	Quizá tenga mala circulación.\nDecidí darle golpecitos en los hombros.\nParece que está un poco mejor que antes.
+1160212	3c529109	Quise darle golpecitos en los hombros para la circulación,\npero de pronto Eva se puso violenta.\nAl rato, parece que se le pasó el dolor de cabeza.
+1160221	bb20c6c7	Hipnoticé a Eva con un péndulo.\nLogré que se durmiera.\nY además, la hipnosis despertó su potencial oculto.
+1160222	863b2afd	Hipnoticé a Eva con un péndulo.\nPero el que quedó hipnotizado y dormido fui yo.\nAl despertar, Eva se había recuperado,\npero mientras dormía, nos descubrieron unos invasores.
+1160311	7a18f020	Eva encontró materiales valiosos\nescondidos en el fondo de la base.
+1160312	7498e8c2	Quizá por tener los recuerdos borrosos,\nEva activó un sensor de seguridad.\nSonó una alarma y llegó una oleada de invasores.
+1160321	6a062a71	Eva manejó las máquinas de la base\ny desactivó el sensor de seguridad.\nGracias a eso, recuperamos los materiales sin peligro.
+1160322	650afbaa	Eva manejó las máquinas de la base,\npero quizá se equivocó en algún paso,\nporque se activó una trampa de láseres.

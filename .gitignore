@@ -1,0 +1,18 @@
+# Textos extraídos del juego, artefactos y archivos de trabajo (no se suben)
+build/
+dist/
+# Herramientas descargadas
+tools/
+# Originales del juego que guarda install.sh
+backup/
+# Caché de Python
+__pycache__/
+
+# Tabla JP/EN/ES para revisar (texto del juego: solo local)
+table/
+
+# Material de trabajo local (se respalda con scripts/backup-local.sh)
+.claude/
+PLAN.md
+TESTS.md
+PENDING-REVIEW.md

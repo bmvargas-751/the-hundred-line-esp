@@ -1,0 +1,83 @@
+id	huella_jp	es
+10	36e19b15	Este pasadizo... parece una ruina bastante antigua.\nTiene rastros de haber sido reforzado muchas veces.
+20	b9e0a840	De no haberse expuesto la entrada con un bombardeo,\nno lo habríamos encontrado.
+30	eea72d24	¡Miren! ¿Esto es... una puerta?
+40	d2bc99b6	Pero tiene llave...
+50	6763ff9d	Hay una cerradura...\n¿Puedes abrirla, Kawana?
+60	859bdff3	Creo que no puedo.
+70	3bf5f320	Entonces busquemos primero otro pasaje.
+80	abd30aa0	¡Okey! ¡Vamos!
+90	9820655d	{fc(57e4f1)Y al avanzar un rato...}
+100	6c9c24b3	Huele como a azufre.
+110	40744690	¿Gas tóxico...?
+120	198625a5	No, creo que no es eso...
+130	6d351a25	{fc(57e4f1)Kako tenía razón.\nLo que había allí era...}
+140	b20e78c2	¡¿Unas termas subterráneas?!\n¿Un centro de salud en un lugar así...?
+150	a78e5833	Quizás antes era un parque de ocio subterráneo,\ny lo reconvirtieron para guardar las cajas.
+160	7544765f	Entonces, solo queda una cosa por hacer.
+170	777768d8	...Sí.
+180	4000d74f	¿Una cosa...?
+190	2247d287	{fc(57e4f1)¿Por qué... estamos así?}
+200	e4df995d	{fc(57e4f1)No lograba asimilar la situación frente a mí.\n¿Será esto también un ataque mental de un comandante?}
+210	2251a7ca	No mires a todos lados.\nTú también llevas traje de baño.
+220	7866621b	¡Eso, eso! ¡Estoy al límite del cansancio!\n¡Si no descansamos aquí, ¿cuándo?!
+230	5ec8ce4d	Yo nunca me había metido en unas termas así...
+240	9da34c6b	No hace falta que te pongas tenso, Sumino.\nSi tienes pensamientos indecentes, no sales con vida.
+250	3e1d2430	¡Lo sé!\nY además, ¡estamos en un calabozo!
+260	6460082d	El deseo de un chico de preparatoria tiene\ninfinitas posibilidades que superan toda lógica.
+270	57817c38	...Eso solo suena a provocación.
+280	d62beb81	Pero de verdad es un buen baño...\nOjalá hubiéramos podido traer a los demás.
+290	a0f697d2	Oye... ya que estamos, quería preguntarte:¿por qué te obsesionas tanto con las cajas, Kako?
+300	f4a72a8b	
+310	da3ed084	Yo siempre viví como mi hermano decía...\nQuiero hallar la caja y encontrar algo que sea solo mío.
+320	65cc097b	Pero... a veces siento que me adelanto en todo\ny les causo problemas a todos...
+330	bcdf9391	Pensar así se me hizo más frecuente...
+340	c0ac0e1e	No creo que causes problemas.\nLos demás tampoco son gran cosa.
+350	05c46ee9	Tu predicción nos salvó a todos,\ny el objetivo de conseguir las cajas tiene sentido.
+360	a10bd1e7	Yo también lo creo. Todos recibimos ayuda de Kako.\n¡Vayamos hasta donde se pueda!
+370	76cf31e7	Sí... gracias.
+380	bba81f21	¡Bien, ya que estamos, te lavo la espalda, Kako!
+390	3190c42f	¿Eh...? Pero...
+400	ff9f853d	Sumino, tú ve al vestidor a tomar leche con café.\nTienes diez segundos para salir.
+410	f7b7036e	...Si no, pasarás el resto de tu vida escolar\ncomo eunuco.
+420	81ca965d	¡Salgo, salgo enseguida, salgo y tomo leche con café!\n¡Hasta luego!
+430	d023cc55	{fc(57e4f1)Y justo cuando me iba...}
+440	b203f3a1	Ah... está.
+450	257ff880	...¿Eh?
+460	d586b956	Estaba hundida en las termas.
+470	1cf71394	¡Eso es una llave!
+480	d3e3da73	Sí, parece que sí.\nLlevémosla.
+490	ee21a6d6	Seguro que con esa llave de antes...
+500	b6581d3d	¿Podremos abrir esta puerta?
+510	f415a2b9	Ojalá...
+520	e29de283	Probémoslo.
+530	ac21f9d4	{fc(57e4f1)Kako insertó la llave en la puerta y la giró, clic, y...}
+540	2af506d0	{fc(57e4f1)la puerta se abrió sin ruido y...}
+550	3dcb6b76	{fc(57e4f1)al fondo...}
+560	68ee7ee1	¡Lo logramos! ¡Es una caja!
+570	b6fbdbb1	Los dibujos de la caja son cinco.\nParece que no hay duda.
+580	497a1c02	{fc(57e4f1)Pero en el instante siguiente...}
+590	5be6eec5	¡Todos, al suelo!
+600	29be7a88	{fc(57e4f1)Una luz plateada pasó rozando donde estaban nuestras cabezas.\n¡Un ataque! ¿Quién...?}
+610	becb6ddb	Vaya... esquivaron mi primer tajo.\nAsí debe ser, hijos de las estrellas.
+620	de699792	Pero esa caja es sagrada para nosotros.\n¡No permitiré que la pisoteen más!
+630	afca5761	¡¿Un comandante?! ¡Imposible, derrotamos a todos...!
+640	b5882c2d	Mi nombre es Dahl'xia...
+650	3ab46479	¡Soy distinto de quienes han derrotado hasta ahora!\n¡Prepárense!
+660	811e740e	{fc(57e4f1)Cruzamos espadas.\nPero no teníamos ninguna posibilidad...}
+670	aec60214	S-Es fuerte...
+680	5861908a	¡Nuestros ataques no le hacen nada!\n¡Esto es trampa!
+690	0e763b65	No hay remedio...\nHabrá que elegir el último recurso.
+700	9b6de06d	...¿El último recurso?
+710	17fe4e3b	¡Esto!
+720	5c037c32	{fc(57e4f1)Sin dudar, Shizuhara lanzó la caja recién recuperada\nhacia la espalda del comandante.}
+730	4f51d8c2	¡Gh!\n¡Maldición, la caja!
+740	fbc48edf	¡Ahora! ¡Huyamos!\n¡A toda velocidad!
+750	15b71d14	¡¿Y la caja?!
+760	3b11c841	Como exploramos el pasadizo,\n¡ese comandante la custodiará!
+770	1884bf73	¡Entonces otro día lo mato a golpes y se la quitamos!
+780	b929fb86	No sé si saldrá bien, pero¡estoy de acuerdo con huir! ¡Ah... voy a vomitar...!
+790	c4be8410	¡Corre aunque vomites!
+800	1105f94b	{fc(57e4f1)Así salimos a la superficie por los pelos.}
+810	fb296544	{fc(57e4f1)¡Por suerte, parece que logramos escapar...!}
+820	44a6a8d5	{fc(57e4f1)Pero ¿qué hacemos con un comandante\nal que no le sirven los ataques...?}

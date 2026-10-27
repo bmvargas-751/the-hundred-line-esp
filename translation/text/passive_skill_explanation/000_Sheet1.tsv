@@ -1,0 +1,108 @@
+id	huella_jp	es
+11	ab284bd8	Permite usar "Repetir batalla" y "Repetir WAVE"
+12	9d046a92	Ataque +1 por cada aliado que muere en la WAVE
+21	3425a8f3	Armadura +1 por cada casilla que recorre
+31	a61f94ab	Ataque +1 por cada enemigo que derrota en el turno
+41	7a6ad8b4	Con fatiga, cambian los efectos de sus habilidades
+51	ded0195d	Al actuar, obtiene una mejora aleatoria
+52	ded0195d	Al actuar, obtiene una mejora aleatoria
+61	0e490d81	No sufre Fatiga
+71	375156d5	Ataque +1 con 100 % o más de VOLTAGE
+72	375156d5	Ataque +1 con 100 % o más de VOLTAGE
+81	28e7561f	Ataque +2 si Kako Tsukumo está en agonía
+82	28e7561f	Ataque +2 si Kako Tsukumo está en agonía
+91	7c18de1d	Ataque +3 si ataca sin moverse
+101	132401c3	Inmune a estados alterados / Ataque +1 por cada ataque recibido en el turno anterior
+111	e7a4c5a5	Al actuar, los aliados en las 8 casillas de alrededor recuperan 1 HP
+121	3bfe23cd	Al actuar, los objetos en las 8 casillas de alrededor recuperan 3 HP
+131	cd23fb83	Ataque +2 contra enemigos Aislados
+141	16ddd075	Ataque +2 contra enemigos con estados alterados
+151	21a88f37	Ataque +1 por cada ataque recibido en el turno anterior
+161	bd89d35f	Ataque +2 si se mueve y ataca
+1002	b7b8df3c	Al ser derrotado, daña las 4 casillas adyacentes
+1004	3875d0f7	Aturde al atacar
+1005	0c0f977b	Al atacar, empuja y reduce el movimiento
+1006	65f3993a	Al atacar, reduce el ataque
+1007	48db1926	Armadura +2 cada vez que recibe daño
+4000	1d07dea6	No sufre Sangrado
+4001	e6b7d44d	No sufre Aturdimiento
+4002	24c48fcc	No sufre estados alterados
+4003	ba20bfeb	Se mueve sin que le afecten el terreno ni otras unidades
+4004	cb226b2e	Genera niebla que bloquea la visión
+4005	3967c624	Emite ondas sonoras que causan alucinaciones
+4006	60919a19	Sus habilidades pasivas están anuladas
+4007	bf884ce3	Tras actuar obtiene armadura y recibe menos daño
+4008	0ce342f6	No recibe daño mientras haya niebla
+4009	4ab989d9	Usuario: Movimiento -3, HP reducido
+4010	f1aeaa39	El cariño de Shion por sus compañeros le impide actuar
+4011	7e06f753	Obtiene armadura tras actuar
+4012	895be54a	Actúa dos veces seguidas
+4013	4ab989d9	Usuario: Movimiento -3, HP reducido
+4014	b6026fb0	Sus sentimientos por Sumino le oprimen el pecho y no puede sacar fuerzas
+4015	3d9c2cfe	Usuario: Ataque +1
+4016	ac5e354b	Anula la perforación de armadura
+4017	44e38e5d	Su confianza en sus compañeros fortalece su hemoánima
+4018	bf884ce3	Tras actuar obtiene armadura y recibe menos daño
+5000	9391ae24	AP +1 al derrotar a un enemigo
+5010	cd6bd1d7	Sus ataques tienen Perforación de armadura
+20101	3d9c2cfe	Usuario: Ataque +1
+20204	59e6a9f9	Al inicio del turno aliado, intercepta a los enemigos en alcance
+20206	59e6a9f9	Al inicio del turno aliado, intercepta a los enemigos en alcance
+20207	59e6a9f9	Al inicio del turno aliado, intercepta a los enemigos en alcance
+20209	59e6a9f9	Al inicio del turno aliado, intercepta a los enemigos en alcance
+20211	59e6a9f9	Al inicio del turno aliado, intercepta a los enemigos en alcance
+20216	59e6a9f9	Al inicio del turno aliado, intercepta a los enemigos en alcance
+20301	b4647e35	Contraataca al recibir un ataque enemigo
+20302	b4647e35	Contraataca al recibir un ataque enemigo
+20303	b4647e35	Contraataca al recibir un ataque enemigo
+20305	b4647e35	Contraataca al recibir un ataque enemigo
+20308	b4647e35	Contraataca al recibir un ataque enemigo
+20310	b4647e35	Contraataca al recibir un ataque enemigo
+20312	b4647e35	Contraataca al recibir un ataque enemigo
+20313	b4647e35	Contraataca al recibir un ataque enemigo
+20314	b4647e35	Contraataca al recibir un ataque enemigo
+20315	b4647e35	Contraataca al recibir un ataque enemigo
+20317	810ba506	Contraataca al recibir daño de un enemigo
+20401	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20402	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20403	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20404	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20405	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20406	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20407	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20408	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20409	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20410	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20411	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20412	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20413	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20414	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20415	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20416	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20501	47e2456b	En agonía: Ataque +2
+30001	c0d23731	Con 0 HP, explota y ataca a los enemigos de las 8 casillas de alrededor
+60001	81744c0d	Ataque +1 contra enemigos Aislados
+60002	cd23fb83	Ataque +2 contra enemigos Aislados
+80001	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80002	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80003	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80004	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80005	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80006	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80007	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80008	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80009	9d5aa967	Absorbe la hemoánima de sus compañeros y se fortalece
+80011	ee492770	Lanza el golpe final, capaz de atravesar incluso las Llamas Eternas
+81001	e44a61d4	El poder de FB mejora sus capacidades
+81002	1527de60	El poder que dejó Kirifuji mejora mucho sus capacidades
+90003	0cb2d97e	Al inicio del turno aliado, intercepta a los enemigos en alcance
+4000201	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000202	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000203	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000204	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000205	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000206	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000207	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000208	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000209	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000210	4f892226	Al recibir daño, aturde las 12 casillas de alrededor

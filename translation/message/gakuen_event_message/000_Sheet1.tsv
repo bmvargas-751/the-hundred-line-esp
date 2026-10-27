@@ -1,0 +1,282 @@
+id	huella_jp	es
+101	a8eeea8b	Ejecutar el evento de la academia
+102	c36e39dd	No ejecutar el evento de la academia
+201	00755d2b	Sumino, ¿vamos de paseo en moto?
+202	be6e1a31	Ir de paseo{is60}{image(ui_icon_f_choice)}
+203	477850ca	Mejor no
+211	ceefa9d5	Jeje, nada mal.
+212	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+213	477850ca	Mejor no
+221	79353f26	No lo perdono... no lo perdono por nada...
+222	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+223	477850ca	Mejor no
+231	cd0e4945	¿Tú también vienes por el Gift-O-Matic?
+232	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+233	477850ca	Mejor no
+241	5d26efdb	Qué soso... demasiado soso...
+242	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+243	477850ca	Mejor no
+251	2c1e3456	¿Tú también viniste a hacer manualidades?
+252	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+253	477850ca	Mejor no
+301	f4a72a8b	
+302	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+303	7223c008	Dejarla en paz
+311	f4a72a8b	
+312	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+313	477850ca	Mejor no
+321	5c6d5140	¿Tú también viniste a nadar en la piscina?
+322	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+323	477850ca	Mejor no
+331	f4a72a8b	
+332	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+333	a9b12717	Dejarla tranquila
+341	f4a72a8b	
+342	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+343	477850ca	Mejor no
+351	f4a72a8b	
+352	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+353	477850ca	Mejor no
+401	fcf05426	¡¡Buaaaaaaaaaaaaaaah!!
+402	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+403	7223c008	Dejarla en paz
+411	57895885	¡Oye, Takumi, veamos una película juntos!
+412	f0baba3e	Ver la película juntos{is60}{image(ui_icon_f_choice)}
+413	477850ca	Mejor no
+421	4e26c336	¡Oye, Takumi, juguemos juntos!
+422	d8314ab2	Jugar{is60}{image(ui_icon_f_choice)}
+423	477850ca	Mejor no
+431	ccb56bb0	¡Oye, Takumi!\n¡Actúa en mi película!
+432	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+433	2e844e2d	Ignorarla
+441	7d35725b	Haaa~... qué calma...
+442	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+443	477850ca	Mejor no
+451	e00d18d5	¿Tú también comes bocadillos con Darumi?
+452	15f42531	Comer bocadillos{is60}{image(ui_icon_f_choice)}
+453	477850ca	Mejor no
+501	39d94e5e	Takumi, ¿estudiamos juntos?
+502	98699733	Estudiar{is60}{image(ui_icon_f_choice)}
+503	477850ca	Mejor no
+511	e3c023ba	¡Tarará, tarará~! ♪
+512	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+513	477850ca	Mejor no
+521	f532497c	¡Hola! ¿Tú también viniste a leer, Takumi?
+522	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+523	477850ca	Mejor no
+531	f4a72a8b	
+532	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+533	477850ca	Mejor no
+541	f4a72a8b	
+542	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+543	477850ca	Mejor no
+551	f4a72a8b	
+552	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+553	477850ca	Mejor no
+601	18f7ffed	Uuuh... quiero saber... quiero saberlo...
+602	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+603	477850ca	Mejor no
+611	debf6e04	Jeje.
+612	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+613	477850ca	Mejor no
+621	57cbf7b0	Sumino... tengo algo que consultarte...
+622	aef1d3e1	Aconsejar{is60}{image(ui_icon_f_choice)}
+623	477850ca	Mejor no
+631	92fcba8e	¿Tú también viniste a usar\nel Gift-O-Matic, Sumino?
+632	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+633	477850ca	Mejor no
+641	dbab547a	Oye, Sumino, si estás libre, ¿me ayudas con el trabajo?
+642	5e27336b	Ayudar con el trabajo{is60}{image(ui_icon_f_choice)}
+643	2d0cc45e	Rechazar
+651	858471d0	¡Ah, ¿en serio?!\n¡Jeje, sabes muchas cosas!
+652	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+653	477850ca	Mejor no
+701	e74cb206	¡Sumino! ¡Hagamos una fiesta!
+702	e30e6d78	Escuchar{is60}{image(ui_icon_f_choice)}
+703	477850ca	Mejor no
+711	a00d9580	Oye, Sumino... ¿me escuchas una preocupación?
+712	75de0ee3	Escuchar su preocupación{is60}{image(ui_icon_f_choice)}
+713	21003db7	Ignorarlo
+721	5ef8745a	Oye, Sumino... ¿qué día y de qué mes es hoy?
+722	f250400e	Responder{is60}{image(ui_icon_f_choice)}
+723	477850ca	Mejor no
+731	99db632f	Oye, Sumino... ¿no quieres oír mi reseña de comida?
+732	df4fb5e7	Escuchar la reseña{is60}{image(ui_icon_f_choice)}
+733	21003db7	Ignorarlo
+741	2ce854dd	Mmm... algo no cuadra...\nMmmmmmmm...
+742	b29b8544	Hablarle{is60}{image(ui_icon_f_choice)}
+743	7223c008	Dejarlo en paz
+751	3efe4edb	U-Uuuh... uuuuuuh...
+752	b29b8544	Hablarle{is60}{image(ui_icon_f_choice)}
+753	7223c008	Dejarlo en paz
+801	3ec0afb3	¿El Sr. Sumino también vino a comer?
+802	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+803	477850ca	Mejor no
+811	d4a143e6	Haaa... qué felicidad...
+812	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+813	477850ca	Mejor no
+821	23a0e0da	Sr. Sumino, ¿no quiere quedarse\na oír mi música?
+822	b3c22dae	Escuchar la música{is60}{image(ui_icon_f_choice)}
+823	477850ca	Mejor no
+831	66e6b0bc	¿El Sr. Sumino también sale?
+832	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+833	477850ca	Mejor no
+841	efb33b72	¿El Sr. Sumino también vino a hacer manualidades?
+842	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+843	477850ca	Mejor no
+851	4dfb4ab2	¿El Sr. Sumino también viene por el Gift-O-Matic?
+852	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+853	477850ca	Mejor no
+901	f4a72a8b	
+902	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+903	a9b12717	Dejarla tranquila
+911	5fe9006a	Sumino senpai... ¿jugamos a la ruleta?
+912	f6fd89c5	Jugar juntos{is60}{image(ui_icon_f_choice)}
+913	477850ca	Mejor no
+921	b7e16a88	Sumino senpai, ¿hablamos de amor?
+922	ae608c69	Hablar de amor{is60}{image(ui_icon_f_choice)}
+923	477850ca	Mejor no
+931	99bfa4f4	Sumino senpai...\n¿vemos una película entre todos?
+932	4b1f9456	Ver la película{is60}{image(ui_icon_f_choice)}
+933	477850ca	Mejor no
+941	196b180b	Qué envidia... yo también quiero manejar...
+942	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+943	477850ca	Mejor no
+951	02be796a	Mmmmmmm...
+952	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+953	477850ca	Mejor no
+1001	f4a72a8b	
+1002	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1003	477850ca	Mejor no
+1011	91390f8c	¡Jeje! ¡Jajajajaja!
+1012	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1013	477850ca	Mejor no
+1021	19dde6d7	Sumino... tengo algo\nque quisiera que escuchara...
+1022	e30e6d78	Escuchar{is60}{image(ui_icon_f_choice)}
+1023	2d0cc45e	Rechazar
+1031	537931de	Fuu... fuu... fuu... fuu...
+1032	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1033	477850ca	Mejor no
+1041	450fdb87	Fuu... fuu... haa... ¡haa...!
+1042	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1043	477850ca	Mejor no
+1051	34237dcb	Ah, Sumino...
+1052	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1053	2a850973	Hacer como que no lo vi
+1101	76944e6f	Sumino, ¿comemos juntos?
+1102	e143faf6	Comer juntos{is60}{image(ui_icon_f_choice)}
+1103	477850ca	Mejor no
+1111	2ec5513f	¡Jeje, jaja!
+1112	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1113	477850ca	Mejor no
+1121	0396e172	¿Tú también viniste a usar\nel Gift-O-Matic, Sumino?
+1122	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1123	477850ca	Mejor no
+1131	22d246e2	No puede ser... ¡así no sirve para nada...!
+1132	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1133	7223c008	Dejarla en paz
+1141	8a58f340	Sumino, ¿descansamos un rato en la azotea?
+1142	53f27fcb	Descansar un rato{is60}{image(ui_icon_f_choice)}
+1143	477850ca	Mejor no
+1151	f4a72a8b	
+1152	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1153	a9b12717	Dejarla tranquila
+1201	47f40015	¿Tanto quieres ayudarme a hacer el curry?\nQué remedio, solo por esta vez.
+1202	6c6c81d8	Ayudar con el curry{is60}{image(ui_icon_f_choice)}
+1203	477850ca	Mejor no
+1211	3cb053ab	¡Vaya, Sumino, llegaste en buen momento!
+1212	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1213	477850ca	Mejor no
+1221	f5e2f697	No lo perdono... no lo perdono...
+1222	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1223	477850ca	Mejor no
+1231	6bcf9659	¡Sumino! ¡Acompaña\nmi entrenamiento!
+1232	9d2e065e	Acompañar el entrenamiento{is60}{image(ui_icon_f_choice)}
+1233	477850ca	Mejor no
+1241	b85332e2	¿Eh? ¿Tú también viniste a fabricar armas?
+1242	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1243	477850ca	Mejor no
+1251	972d3394	No lo perdono... no lo perdono por nada...
+1252	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1253	477850ca	Mejor no
+1301	b689d215	¡Don Sumino! ¡Leamos Jump\njuntos!
+1302	53aedf5c	Leer Jump juntos{is60}{image(ui_icon_f_choice)}
+1303	477850ca	Mejor no
+1311	0ba042ed	¡Don Sumino! ¡Quisiera que me acompañe\nen mi entrenamiento con la espada!
+1312	0064cec0	Acompañar el entrenamiento{is60}{image(ui_icon_f_choice)}
+1313	477850ca	Mejor no
+1321	e4ec8272	¡Don Sumino!\n¡Desde hoy esta servidora vive en esta sala!
+1322	afd876a5	Preguntar el motivo{is60}{image(ui_icon_f_choice)}
+1323	7223c008	Dejarla en paz
+1331	b2f9afe1	¡Don Sumino!\n¿Qué tal un bocadillo juntos?
+1332	15f42531	Comer bocadillos{is60}{image(ui_icon_f_choice)}
+1333	477850ca	Mejor no
+1341	917e820f	¿Don Sumino también vino a lavar ropa?
+1342	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1343	477850ca	Mejor no
+1351	a3ea859b	¡Don Sumino!\n¡Vayamos juntos de cacería!
+1352	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1353	477850ca	Mejor no
+1401	ec4aa776	Sumino... ven para acá.\nTe mostraré algo bueno.
+1402	f6ba16d7	Dejar que me muestre{is60}{image(ui_icon_f_choice)}
+1403	21003db7	Ignorarlo
+1411	38678609	Ah... qué nostalgia...\nJejejejeje...
+1412	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1413	477850ca	Mejor no
+1421	f4a72a8b	
+1422	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1423	477850ca	Mejor no
+1431	8e282833	Sumino, ¿cocinamos juntos?
+1432	94ab7c7f	Cocinar juntos{is60}{image(ui_icon_f_choice)}
+1433	477850ca	Mejor no
+1441	ebf0bfb0	¡Buenas muertes, Sumino! ¡Qué coincidencia!
+1442	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1443	23110059	Huir
+1451	10fd692b	U-Uuuh... uuuuh...
+1452	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1453	477850ca	Mejor no
+1501	b6536199	¡Sumino, entrenemos juntos!
+1502	9d2e065e	Acompañar el entrenamiento{is60}{image(ui_icon_f_choice)}
+1503	2d0cc45e	Rechazar
+1511	9fd6329e	¡Vaya, qué coincidencia verte aquí!
+1512	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
+1513	477850ca	Mejor no
+1521	7c781636	¡Sumino, nademos juntos,\nlet's swimming!
+1522	56c0c521	Nadar juntos{is60}{image(ui_icon_f_choice)}
+1523	477850ca	Mejor no
+1531	470d6654	¡Sumino, hagamos manualidades juntos!
+1532	8174326a	Hacer manualidades juntos{is60}{image(ui_icon_f_choice)}
+1533	477850ca	Mejor no
+1541	50fd535b	Sumino, ¿no quieres oír mi estilo de trabajo?
+1542	e30e6d78	Escuchar{is60}{image(ui_icon_f_choice)}
+1543	41baacb3	Prefiero no
+1551	61ed1322	Sumino... hay algo que quiero advertirte.
+1552	09ce8afd	Escuchar la advertencia{is60}{image(ui_icon_f_choice)}
+1553	2e844e2d	Ignorarla
+1601	2279e142	Deme órdenes, por favor.\nSin órdenes, no puedo moverme.
+1602	491581ab	Dar una orden{is60}{image(ui_icon_f_choice)}
+1603	7223c008	Dejarla en paz
+1611	2279e142	Deme órdenes, por favor.\nSin órdenes, no puedo moverme.
+1612	491581ab	Dar una orden{is60}{image(ui_icon_f_choice)}
+1613	477850ca	Mejor no
+1621	b473a9a4	Yeeah.\n¿Están animados?
+1622	afd876a5	Preguntar el motivo{is60}{image(ui_icon_f_choice)}
+1623	7223c008	Dejarla en paz
+1631	f4a72a8b	
+1632	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1633	477850ca	Mejor no
+1641	2279e142	Deme órdenes, por favor.\nSin órdenes, no puedo moverme.
+1642	491581ab	Dar una orden{is60}{image(ui_icon_f_choice)}
+1643	477850ca	Mejor no
+1651	f4a72a8b	
+1652	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1653	477850ca	Mejor no
+1661	f4a72a8b	
+1662	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
+1663	a9b12717	Dejarlo tranquilo
+1671	c9cb2a18	Sumino, tengo algo que consultarte...
+1672	aef1d3e1	Aconsejar{is60}{image(ui_icon_f_choice)}
+1673	477850ca	Mejor no
+1681	aa24d2aa	Sumino, ¿me enseñas a usar\nel Gift-O-Matic?
+1682	95fb99c0	Enseñar{is60}{image(ui_icon_f_choice)}
+1683	477850ca	Mejor no

@@ -1,0 +1,224 @@
+id	huella_jp	es
+10001	b0f51691	Pon el cursor sobre un personaje y presiona {keyhelp(27)} para {fc(ff0000)Actuar}.
+13701	d50974ff	Al elegir Actuar, se abre la lista de habilidades. Para empezar, elige {fc(ff0000)Side Slash}.
+13711	5db15d53	Al elegir Actuar, se abre la lista de habilidades.
+11801	e01509ea	Las casillas básicas son estas:\n　{fc(00ff00)Casillas verdes}: zona a la que puedes moverte\n　{fc(ff0000)Casillas rojas}: zona que puedes atacar
+11802	c9f6f065	Después de elegir una habilidad, si eliges una {fc(ff0000)casilla roja}, {fc(ff0000)te mueves y atacas a la vez}.
+11803	5010f231	Las {fc(ffff00)casillas amarillas} son el {fc(ff0000)área de ataque} de Side Slash. Pon el cursor sobre la {fc(00ff00)marca !} y ataca a cinco enemigos a la vez.
+11813	03ca1ee9	Las {fc(ffff00)casillas amarillas} son el {fc(ff0000)área de efecto} de la habilidad. Intenta alcanzar a la mayor cantidad posible de enemigos.
+10101	d4318aea	Al usar una habilidad, gastas {fc(ff0000)AP}, que se ven arriba a la izquierda. Durante el turno puedes actuar todas las veces que quieras {fc(ff0000)hasta quedarte sin AP}.
+10102	c4c291d9	Los AP {fc(ff0000)se recuperan cada turno} y también se obtienen al derrotar a ciertos enemigos.
+10103	df453829	Además, un personaje que ya actuó queda con {fc(ff0000)Fatiga} y solo puede moverse {fc(ff0000)1 casilla}.
+10201	6cfab33d	Los enemigos llegan uno tras otro. Los {fc(ff0000)enemigos pequeños} se mueven mucho y llegan con facilidad al objetivo de defensa: elimínalos primero.
+10301	34ebd0ab	Con {keyhelp(30)} o desde el menú de {keyhelp(90)}, puedes {fc(ff0000)terminar el turno}.
+10302	14b58006	Los AP que sobren {fc(ff0000)pasan al turno siguiente}. {fc(ff0000)Si tus ataques no alcanzan a los enemigos}, guarda los AP para después.
+10401	7aa4d10c	Al pelear con los enemigos, se acumula {fc(ff0000)VOLTAGE}. Con 100 % o más, puedes usar el {fc(ff0000)Ataque especial}.
+10402	c5b0067b	El Ataque especial es un poderoso as bajo la manga que {fc(ff0000)no gasta AP}. A cambio, el personaje sufre {fc(ff0000)Aturdimiento} y {fc(ff0000)no puede actuar hasta el final del turno siguiente}.
+10403	120fc925	Pon el cursor sobre el personaje y presiona {keyhelp(73)} para usar el {fc(ff0000)Ataque especial}.
+10413	87b12d27	Si pones el cursor sobre un personaje y presionas {keyhelp(73)}, puedes usar el {fc(ff0000)Ataque especial}.
+10501	c879576c	Con 100 % o más de VOLTAGE, además del Ataque especial, puedes usar {fc(ff0000)Potenciar hemoánima}.
+10502	92eadc35	{fc(ff0000)Potenciar hemoánima} fortalece a los aliados de distintas formas, y el efecto {fc(ff0000)dura toda la batalla}.
+10601	e44b1550	En una batalla defensiva, si destruyen el {fc(ff0000)generador de barrera} que crea la barrera defensiva, {fc(ff0000)pierdes}. Protégelo bien y acaba con los enemigos.
+10701	049428ec	Después de elegir una habilidad, si eliges una {fc(00ff00)casilla verde}, puedes {fc(ff0000)decidir adónde moverte antes de atacar}.
+10702	7b3f9f5e	Así puedes {fc(ff0000)elegir el área de ataque después de moverte}, algo útil en los ataques a distancia cuando {fc(ff0000)no quieres acercarte al enemigo}.
+10801	adba3289	Después de elegir una habilidad, puedes cambiar la dirección del ataque con {keyhelp(84)}.
+10901	ac28246d	Durante tu turno, puedes girar la cámara con {keyhelp(72)}.
+11001	c3d54baa	Cuando a un aliado le quedan {fc(ff0000)5 HP o menos}, queda {fc(ff0000)en agonía} y puede usar el {fc(ff0000)Último recurso}.
+11002	197f15fd	El {fc(ff0000)Último recurso} es un ataque especial poderoso que {fc(ff0000)se lanza a cambio de la vida}. Aunque mueran, todos reviven en la siguiente WAVE, así que {fc(ff0000)¡a morir sin miedo!}
+11101	752a25ef	Si le das el {fc(ff0000)golpe de gracia} a un comandante y absorbes su poder, {fc(ff0000)se potencian los ataques especiales y la tasa de obtención de VOLTAGE}.
+11201	c81d8fc1	Ya puedes usar los {fc(ff0000)materiales estratégicos}. Hay {fc(ff0000)dispositivos defensivos}, que protegen la base, y {fc(ff0000)fármacos}, que te fortalecen.
+11202	983ed1a6	Los materiales estratégicos se usan {fc(ff0000)sin gastar AP} y no causan fatiga. Además, {fc(ff0000)se reponen por completo en cada batalla}.
+11203	787537ed	Los Darumarr y los Tubrillas {fc(ff0000)atacan primero los objetos colocados}. Las vallas metálicas {fc(ff0000)son más eficaces si las colocas para proteger la base}. Para empezar, coloca una y frena el avance enemigo.
+11211	666744a0	Entre los materiales estratégicos hay {fc(ff0000)dispositivos defensivos}, que protegen la base, y {fc(ff0000)fármacos}, que te fortalecen.
+11212	983ed1a6	Los materiales estratégicos se usan {fc(ff0000)sin gastar AP} y no causan fatiga. Además, {fc(ff0000)se reponen por completo en cada batalla}.
+11213	f449ddb6	Los Darumarr y los Tubrillas {fc(ff0000)atacan primero los objetos colocados}. Las vallas metálicas {fc(ff0000)son más eficaces si las colocas para proteger la base}.
+11301	1c22891f	Al absorber la criptoglobina del bebé, se desbloqueó la habilidad de especialista de Sumino, {fc(ff0000)Revancha especial}. Cada vez que muere un aliado, su ataque sube durante la WAVE.
+11401	3408102c	Si ya superaste una batalla parecida en otra ruta, puedes saltarla y {fc(ff0000)ver solo el evento}.
+11501	ed1b3c5a	Con {keyhelp(74)} ya puedes usar la {fc(ff0000)Shion Bomb}. Se lanza {fc(ff0000)gastando 300 % de VOLTAGE}.\n*Solo se puede usar en ciertas batallas.
+11601	820b6eb7	Nozomi Kirifuji no logra controlar bien su hemoánima, así que {fc(ff0000)no puede participar en el golpe de gracia}.
+12001	95dde2d0	Al repetir una batalla, puedes recibir una bonificación de reintento.
+12101	50f8d64b	La {fc(ff0000)armadura} es una {fc(ff0000)resistencia temporal} que recibe el daño en lugar del HP y solo dura ese turno.
+12201	1df70939	Cada miembro de la Unidad de Defensa Especial tiene una habilidad única llamada {fc(ff0000)habilidad de especialista}. Conoce la de cada uno y aprovéchalas en combate.
+12301	59bb3c83	Las habilidades con {fc(ff0000)Perforación de armadura} dañan {fc(ff0000)tanto la armadura como el HP}.
+13001	7f4835e0	Cuando un enemigo derrota a un aliado, {fc(ff0000)el enemigo se fortalece} y muta en una forma terrible. Es un rival duro, pero si lo derrotas, {fc(ff0000)obtienes mucho VOLTAGE}.
+13101	017e771c	Cuando un Darumarr se acerca al generador de barrera, {fc(ff0000)se autodestruye y le causa mucho daño}. No dejes que se acerquen al generador.
+13201	211fcdc1	La reducción de ataque o de movimiento {fc(ff0000)se quita con Postura defensiva, entre otras formas}, y {fc(ff0000)se anula con efectos que suben los atributos}.
+13301	81eb7a04	Con {fc(ff0000)Aturdimiento}, el personaje {fc(ff0000)no puede hacer nada} {fc(ff0000)hasta que termine el turno siguiente}. Hay pocas formas de quitarlo, así que pelea con cuidado.
+13401	a42faa60	Con {fc(ff0000)Sangrado}, el personaje {fc(ff0000)recibe 2 de daño al final del turno siguiente}. {fc(ff0000)Se quita con Postura defensiva, entre otras formas}.
+13501	c3dc1f62	Un personaje {fc(ff0000)Enfurecido} {fc(ff0000)ataca primero a quien lo enfureció}. Sirve para proteger a los aliados y al objetivo de defensa.
+13601	792ff018	Con {fc(ff0000)Lavado de cerebro}, el personaje {fc(ff0000)no se puede controlar} y, en el turno enemigo, {fc(ff0000)ataca a sus aliados}.
+13801	ff126b6f	Cuando un enemigo usa una {fc(ff0000)habilidad cargada}, aparecen {fc(ff0000)casillas moradas de aviso} y ataca en el turno siguiente.
+13802	a95b634a	Si {fc(ff0000)reduces a 0 la armadura} del enemigo, {fc(ff0000)evitas que lance la habilidad cargada}.
+13901	d554f037	[HUNDRED LINE]\nDisfruta al máximo de las batallas del juego.\nRecomendado para quienes juegan por primera vez.
+13902	a5679158	[SAFETY]\nUn modo para disfrutar de la historia.\nEn las batallas, al final de cada turno, los aliados recuperan todo su HP y se curan de los estados alterados.
+13903	2caad7d4	[EXTREME & DESPAIR]\n・Ataque especial y Último recurso: 2 AP\n・Daño que reciben los aliados: 100\n　*Con armadura: daño normal\n　*No se aplica en las batallas de tutorial
+15001	0fa68ebe	Lanza un ataque sorpresa antes de que el enemigo te descubra. Si {fc(ff0000)acabas con todos los enemigos en 1 turno}, llegarán menos refuerzos en la siguiente WAVE.
+15002	7f250f43	Al bajar su HP a 0, los explosivos dañan {fc(ff0000)las 8 casillas de alrededor}, {fc(ff0000)sin distinguir entre enemigos y aliados}. Úsalos bien y cuida que no alcancen a tus aliados.
+15101	09244c7b	En una batalla de recuperación, {fc(ff0000)ganas al destruir el generador de barrera} que protege el enemigo. Sortea su ofensiva y deja su HP en 0.
+15201	512f2629	Dos de tus compañeros cayeron en manos de los guardias de V'ehxness. ¡Concentra tus fuerzas y rescátalos {fc(ff0000)en 1 turno}!
+15301	38df1ab9	Entre las copias de Aotsuki se esconde {fc(ff0000)el verdadero Eito Aotsuki}. Derrótalo junto con el jefe.
+15401	3cb31bce	Ahora puedes {fc(ff0000)colocar la trampa de veneno} con {keyhelp(74)}. Se activa cuando el jefe está cerca de la {fc(ff0000)trampa de veneno}, así que colócala después de eliminar a los enemigos de alrededor. Puedes cambiarla de lugar todas las veces que quieras.
+15501	d9fc14c9	El dispositivo del centro está protegido por Llamas Eternas y no puedes acercarte. Primero destruye todos los {fc(ff0000)misiles} de alrededor y detén el ataque en todas direcciones.
+15502	75829d47	En esta batalla {fc(ff0000)no se puede usar el Último recurso}. Además, {fc(ff0000)se desactiva el modo de batalla SAFETY}.
+15601	3e42428b	Con {keyhelp(77)} ya puedes {fc(ff0000)Absorber criptoglobina}. Takumi Sumino puede hacerlo al acercarse a un aliado con 0 HP. Hereda la voluntad de tus compañeros caídos.
+15701	89faa025	Mientras haya niebla, {fc(ff0000)no puedes ver a los enemigos ni atacarlos}.
+15702	7427e752	Pero {fc(ff0000)sí puedes atacar a los enemigos que estén cerca de tus aliados u objetos colocados}, así que refuerza tu defensa {fc(ff0000)con vallas metálicas y otros dispositivos defensivos}.
+15703	9a37862a	Si derrotas a todos los enemigos que generan la niebla, esta desaparece.
+15801	e01f6225	Las ondas sonoras de los enemigos te provocan alucinaciones. Tus sentidos se alteran de muchas formas y {fc(ff0000)los enemigos se ven distintos de como son en realidad}: no te dejes engañar por su aspecto.
+15901	8fc785d4	Gracias a {fc(ff0000)Absorber criptoglobina}, las capacidades de Takumi Sumino mejoraron muchísimo. Seguirán aumentando cada vez que uses {fc(ff0000)Absorber criptoglobina}. Con el poder que heredaste de tus compañeros, detén el lanzamiento de los misiles.
+16001	655c1663	El {fc(ff0000)retroceso temporal} {fc(ff0000)devuelve a tus aliados a como estaban un turno antes}.\n・Vuelven a su posición anterior\n・Se anula Potenciar hemoánima\n・Desaparecen los objetos colocados
+11701	7b411797	Al absorber la criptoglobina del bebé, el ataque especial de Takumi Sumino cambió de Asalto carmesí a {fc(ff0000)Bombardeo azur}.
+11702	0722805b	{fc(ff0000)Bombardeo azur} tiene un gran alcance vertical y efecto de perforación, y puede arrasar con enemigos más lejanos.
+11901	e864b443	Cuando muere un aliado, {fc(ff0000)obtienes 100 % de VOLTAGE} y sube la {fc(ff0000)tasa de obtención de VOLTAGE} de todo el equipo.
+11902	60fbe621	Además, cada muerte de un aliado cuenta como {fc(ff0000)Nice DEATH} y {fc(ff0000)aumenta la recompensa} al ganar. Ningún sacrificio es en vano. {fc(ff0000)¡Pelea sin miedo a la muerte!}
+18001	5dc0baff	Takumi Sumino es un personaje fácil de usar, con un buen equilibrio entre {fc(ff0000)poder y área de ataque}.
+18002	917de8d0	Su habilidad de especialista es {fc(ff0000)Repaso especial}.\nDesde el menú de {keyhelp(90)}, puede {fc(ff0000)repetir la batalla}.
+18101	b962d26b	Takemaru Yakushiji es un hostigador que combina {fc(ff0000)gran movilidad y resistencia}.
+18102	078bc5f8	Su habilidad de especialista es {fc(ff0000)Frenesí especial}.\nAl actuar, gana {fc(ff0000)Armadura +1 por cada casilla que recorre}.
+18201	4c695d90	Hiruko Shizuhara es una atacante\nque {fc(ff0000)destaca en ataques feroces}.
+18202	1633ffe6	Su habilidad de especialista es {fc(ff0000)Disciplina especial}.\nEn cada turno, gana {fc(ff0000)Ataque +1 por cada enemigo que derrota (máx. +3)}.
+18301	c343f4b1	Darumi Amemiya es una luchadora de apoyo que destaca en {fc(ff0000)ataques de apoyo} a media distancia y {fc(ff0000)obtiene mucho VOLTAGE}.
+18302	a3026939	Su habilidad de especialista es {fc(ff0000)Ausencia especial}.\n{fc(ff0000)Con Fatiga, entra en Bajón y cambian los efectos de sus habilidades}.
+18401	7dfee89f	Eito Aotsuki es un atacante que obtiene {fc(ff0000)una mejora aleatoria} cada vez que actúa.
+18402	19dff000	Su habilidad de especialista es {fc(ff0000)Adivinación especial}.\nCada vez que actúa, obtiene {fc(ff0000)Ataque +1, Armadura +1 o cura de fatiga} {fc(ff0000)al azar}.
+18501	eed5b694	Tsubasa Kawana es una luchadora de apoyo {fc(ff0000)especializada en el movimiento}.
+18502	0899586f	Su habilidad de especialista es {fc(ff0000)Mecánica especial}.\nPor más que actúe, {fc(ff0000)nunca sufre fatiga}.
+18601	07f97d19	Gaku Maruko es un atacante de media distancia que {fc(ff0000)destaca en arrasar zonas amplias}.
+18602	cad29ee2	Su habilidad de especialista es {fc(ff0000)Vibra especial}.\n{fc(ff0000)Con 100 % o más de VOLTAGE, obtiene Ataque +1}.
+18701	a493fe17	Ima Tsukumo frena el avance enemigo con {fc(ff0000)Push} y atraviesa a los enemigos con {fc(ff0000)Vuelo}: es un atacante {fc(ff0000)con mucha movilidad}.
+18702	efe41a77	Su habilidad de especialista es {fc(ff0000)Mala conducta especial}.\n{fc(ff0000)Si Kako queda en agonía, obtiene Ataque +2}.
+18801	6dacbace	Kako Tsukumo es una atacante a distancia que {fc(ff0000)destaca como francotiradora}.
+18802	3cfc595f	Su habilidad de especialista es {fc(ff0000)Buena conducta especial}.\n{fc(ff0000)Si ataca sin moverse, obtiene Ataque +3}.\n¡Espera con paciencia y acaba con el enemigo de un disparo!
+18901	11b30f7d	Shouma Ginzaki es un defensor {fc(ff0000)especializado en proteger a sus compañeros}. Atrae los ataques enemigos con {fc(ff0000)Enfurecer} y devuelve 1 de daño con {fc(ff0000)Reflejo}.
+18902	c045330b	Su habilidad de especialista es {fc(ff0000)Encierro especial}.\nEs {fc(ff0000)inmune a los estados alterados} y, además, {fc(ff0000)obtiene Ataque +1 por cada ataque que recibió en el turno anterior}.\n¡Resiste la ofensiva enemiga y lanza un Ataque especial devastador!
+19001	28381601	Nozomi Kirifuji es una luchadora de apoyo {fc(ff0000)especializada en curar y asistir a sus aliados}. Puede curar HP, estados alterados y fatiga, y es la única que {fc(ff0000)puede curar el Aturdimiento}.
+19002	5d498ba7	Su habilidad de especialista es {fc(ff0000)Salud especial}.\nCada vez que actúa, {fc(ff0000)cura 1 HP a los aliados de las 8 casillas de alrededor}.
+19101	0bbd9830	Kurara Oosuzuki es una defensora {fc(ff0000)especializada en defender la base}. Cada turno puede {fc(ff0000)colocar construcciones que actúan solas}.
+19102	dea527a5	Su habilidad de especialista es {fc(ff0000)Taller especial}.\nCada vez que actúa, {fc(ff0000)repara 3 HP de los objetos colocados en las 8 casillas de alrededor}.\n¡Repara el {fc(ff0000)generador de barrera} y protege la base hasta el final!
+19201	35f5d298	Kyoshika Magadori es una atacante que causa {fc(ff0000)mucho daño a los enemigos aislados}.\nAislado: sin otros enemigos en las casillas contiguas en cruz.
+19202	8937436a	Su habilidad de especialista es {fc(ff0000)Bushido especial}.\n{fc(ff0000)Si ataca a un enemigo Aislado, obtiene Ataque +2}.
+19301	678808cd	Yugamu Omokage es un atacante {fc(ff0000)especializado en estados alterados}.
+19302	fbac1ef5	Su habilidad de especialista es {fc(ff0000)Biología especial}.\n{fc(ff0000)Si ataca a un enemigo con un estado alterado, obtiene Ataque +2}.
+19401	dda0ae0e	Moko Mojiro tiene un gran equilibrio entre ataque y defensa, y {fc(ff0000)mucha fuerza para pelear sola}.
+19402	a278f6b7	Su habilidad de especialista es {fc(ff0000)Lucha libre especial}.\n{fc(ff0000)Obtiene Ataque +1 por cada ataque que recibió en el turno anterior}.
+19501	e9393c9f	Eva es una atacante a distancia que {fc(ff0000)destaca en atacar mientras se mueve}.
+19502	8deacabd	Su habilidad de especialista es {fc(ff0000)Gimnasia especial}.\n{fc(ff0000)Si se mueve y ataca, obtiene Ataque +2}.
+20001	fff925f3	Con {keyhelp(96)} puedes {fc(ff0000)moverte}, y si mantienes {keyhelp(91)}, puedes {fc(ff0000)correr}.
+20101	3a5cb0cf	En las habitaciones, con {keyhelp(99)} {fc(ff0000)mueves la mira} por la pantalla y con {keyhelp(100)} {fc(ff0000)examinas personas y lugares}.
+20102	f8ed0b4a	Al examinar los lugares marcados con {is48}{image(ui_icon_f_target_01)}, {fc(ff0000)avanza la historia}. A la derecha de la pantalla aparece la guía de la historia: si no sabes qué hacer, consúltala.
+20103	1e2beb28	Además, con {keyhelp(81)} puedes ver qué lugares se pueden examinar. Examina todo lo que te llame la atención.
+21001	e50bff14	Presiona {keyhelp(43)} para abrir el {fc(ff0000)menú}. Desde el menú puedes consultar todo tipo de información del juego y {fc(ff0000)guardar o cargar}, entre otras cosas.
+21002	cebbad71	Si {fc(ff0000)guardas durante un evento}, al cargar {fc(ff0000)retomarás desde el inicio del evento o desde antes de él}.
+21101	8e65429e	Abre el mapa y elige adónde quieres ir para hacer un {fc(ff0000)viaje rápido}.
+21102	a4d9b369	Pero no puedes hacer un viaje rápido a {fc(ff0000)lugares que aún no se desbloquearon} ni mientras se vea la {fc(ff0000)marca de acceso bloqueado}.
+21103	fda3c958	En el mapa también puedes ver {fc(ff0000)tu destino actual} y {fc(ff0000)dónde está cada personaje}. Si te pierdes, consulta el mapa.
+21201	e49e74df	Se desbloqueó la {fc(ff0000)selección de capítulo}. Con ella puedes {fc(ff0000)ir al inicio de cada día o a justo antes o después de cada decisión}.
+21202	eae099e5	Puedes usar la selección de capítulo desde el {fc(ff0000)menú}. Aprovéchala para completar todas las historias.
+22001	309f9daf	En el {fc(ff0000)tiempo libre} puedes hacer muchas cosas, como {fc(ff0000)mejorar tu arma de clase} o {fc(ff0000)pasar tiempo con tus compañeros}.
+22002	3d28cccb	El tiempo libre se divide en {fc(ff0000)dos partes, mañana y tarde}, y avanza al hacer ciertas actividades.
+22003	ff19a295	Si no quieres hacer nada, examina {fc(ff0000)la cama de tu habitación} para dejar pasar el tiempo.
+22004	ea266572	Para empezar, ve a la {fc(ff0000)sala de entrenamiento} o al {fc(ff0000)vestíbulo}, que se desbloquearon en el recorrido por la escuela.
+22006	f194c007	Haz distintas actividades según la situación.
+22101	40ddfc20	Dentro de la escuela, cada personaje pasa el tiempo a su manera.
+22102	efbad87e	Con los personajes que tienen una marca sobre la cabeza puedes hacer {fc(ff0000)actividades estudiantiles}: ¡habla con ellos!
+22103	8df8b646	También puedes ver dónde está cada personaje {fc(ff0000)en el mapa}.
+22201	eef80200	Con el entrenamiento VR obtienes {fc(ff0000)BP}, que sirven para {fc(ff0000)mejorar tu arma de clase}.
+22202	c3e3c75c	Mejora tu arma de clase para {fc(ff0000)subir de nivel tus habilidades} y prepárate para las batallas defensivas que vendrán.
+22301	5ed206be	Se desbloqueó el {fc(ff0000)garaje} y ya puedes {fc(ff0000)desarrollar habilidades nuevas}.
+22302	c01d915e	Aprovecha bien el tiempo libre para desarrollar habilidades poderosas.
+22303	bd041162	Además, desde ahora puedes mejorar tu arma de clase tanto en la sala de entrenamiento VR como en el garaje.
+22401	becdea54	Se desbloquearon el {fc(ff0000)taller metalúrgico} y el {fc(ff0000)laboratorio biológico}, donde puedes desarrollar {fc(ff0000)dispositivos defensivos y fármacos}, respectivamente.
+22402	57b43036	Te darán ventaja en las batallas defensivas, así que aprovecha el tiempo libre para avanzar en su desarrollo.
+22601	13839b1c	Si examinas el extintor del vestíbulo, puedes {fc(ff0000)explorar} fuera de la escuela. Explorar toma todo el día, así que {fc(ff0000)solo puedes hacerlo por la mañana}.
+22602	ddec12b8	A medida que avances en la exploración, podrás obtener {fc(ff0000)más BP y materiales}. Para más detalles, consulta el {fc(ff0000)Manual} junto al vestíbulo.
+22701	c832d95d	Subió tu {fc(ff0000)nivel de extinción}, así que ya puedes ir a zonas nuevas al explorar.
+22702	ca7ed72c	Cada zona de exploración da materiales distintos. Para más detalles, consulta el {fc(ff0000)Manual} junto al vestíbulo.
+22801	5638e7ad	Se desbloqueó la {fc(ff0000)sala de recreo} y ya puedes crear {fc(ff0000)regalos}.
+22802	e08df276	Si le das a cada personaje {fc(ff0000)un regalo que le guste}, {fc(ff0000)tus calificaciones subirán más que con las actividades estudiantiles}. Regala cosas distintas para descubrir sus gustos.
+22803	52690adc	Para crear regalos se usan {fc(ff0000)BP y materiales}. Además, algunos regalos requieren conseguir {fc(ff0000)objetos clave}.
+22804	2bbe02a7	Los objetos clave se consiguen en las {fc(ff0000)casillas de cofre} de la exploración y {fc(ff0000)al avanzar en la historia}.
+22901	0da16ad4	Cada personaje tiene una {fc(ff0000)lista de deseos}: si le regalas algo de ella, {fc(ff0000)tus calificaciones suben más que con cualquier otra cosa}.
+22902	6a72f610	Puedes ver la lista de deseos en el {fc(ff0000)Registro}, y {fc(ff0000)se agregan pistas cada vez que haces actividades estudiantiles}.
+22903	628dcb70	Además, el primer regalo de cada tipo da una {fc(ff0000)bonificación de primera vez}, así que reúne pistas y crea regalos variados.
+23001	9762b6d6	Se desbloquearon los {fc(ff0000)eventos de vínculo}.
+23002	6456f710	Los eventos de vínculo son eventos especiales que ocurren al subir tu {fc(ff0000)rango de vínculo} con un personaje.
+23003	3f14061b	A partir de ahora, al {fc(ff0000)regalarle} algo a un personaje, sube su {fc(ff0000)afinidad}, y cuando la afinidad llega a cierto nivel, sube tu {fc(ff0000)rango de vínculo}.
+23004	be689eed	Si con las {fc(ff0000)actividades estudiantiles} averiguas qué hay en su {fc(ff0000)lista de deseos} y se lo regalas, la afinidad sube mucho más. ¡Fortalece tus vínculos con tus compañeros!
+23101	0a0f3f0f	Ahora Shion aparece en el tiempo libre. Desde ahora también puedes hablar y hacer actividades estudiantiles con él.
+23102	0fdffbbd	Además, aunque a Shion no se le pueden dar regalos, {fc(ff0000)si le hablas en ciertos momentos, ocurre un evento de vínculo}.
+23201	6b098155	Las actividades estudiantiles suben las {fc(ff0000)calificaciones} de Sumino.
+23202	71040818	Hay cinco calificaciones, {fc(ff0000)Lengua, Matemáticas, Ciencias, Estudios sociales y Educación física}, y hacen falta en muchas situaciones.
+23203	70b28e01	{fc(ff0000)Cada personaje sube una calificación distinta}, así que haz actividades estudiantiles con personajes variados.
+23301	c43417dc	A medida que sube el nivel de las habilidades, además de BP se piden {fc(ff0000)calificaciones} y {fc(ff0000)materiales}.
+23302	01a45ae3	Se consiguen con las {fc(ff0000)actividades estudiantiles} y la {fc(ff0000)exploración}, respectivamente, así que haz distintas actividades según lo que necesites.
+23401	daf840a9	Presiona {keyhelp(26)} para {fc(ff0000)filtrar los regalos}.
+23402	88618a6f	Con las pistas de las actividades estudiantiles, filtra lo que quiere cada personaje por {fc(ff0000)palabra clave} y {fc(ff0000)categoría}.
+23501	3836b0b5	Se desbloqueó la {fc(ff0000)biblioteca} y ya puedes hacer el {fc(ff0000)estudio en la biblioteca}.
+23502	ad320e58	En el estudio en la biblioteca, lees libros de cada materia y {fc(ff0000)subes la calificación que prefieras}.
+23503	e0f480ca	Te permite subir justo la calificación que necesitas, así que úsalo cuando haga falta.
+23601	893206b7	En el estudio en la biblioteca, si {fc(ff0000)lees el mismo libro dos veces}, lo terminas y {fc(ff0000)la calificación sube mucho}.
+23602	8a0d4071	{fc(ff0000)Un libro que ya terminaste tiene menos efecto}, así que combina bien la lectura con las actividades estudiantiles y los regalos.
+23701	3e3d48e6	Al principio, todas las pistas de la lista de deseos están ocultas.
+23702	d999bac8	Para obtener pistas, haz {fc(ff0000)actividades estudiantiles} con cada personaje y consigue {fc(ff0000)palabras clave}.
+23703	10dac92a	Si {fc(ff0000)consigues la misma palabra clave varias veces}, se van revelando las pistas de la lista de deseos de cada personaje.
+23801	573001b4	Las {fc(ff0000)palabras clave} sirven para crear regalos. ¡Crea regalos variados!
+30001	74931940	A partir de aquí, según lo que {fc(ff0000)decida} Sumino, la historia se {fc(ff0000)ramificará} mucho.
+30002	b0f022f6	Más adelante podrás ver también la opción que no elijas. Decide qué hacer con Aotsuki.
+30003	5bbd1b2a	Más adelante podrás ver también la opción que no elijas.
+30101	c29b9721	Para convencer a Kawana, le darás un {fc(ff0000)regalo} hecho con cariño. Primero, pregunta a los demás personajes qué deberías regalarle.
+30102	e5615c18	Además, puede que tengas que salir a explorar para reunir los materiales del regalo. ¡Haz todo lo posible por convencer a Kawana!
+30103	e59b767e	Para convencer a la otra persona, le darás un {fc(ff0000)regalo} hecho con cariño. Primero, {fc(ff0000)pregunta a los demás personajes} qué deberías regalarle.
+30104	b813ff38	Además, a veces puede que tengas que salir a explorar para reunir los materiales del regalo. ¡Haz todo lo posible por convencer a la otra persona!
+30201	4c3b86d0	Kawana te contará lo que le preocupa: dile las palabras adecuadas para que se decida a luchar.
+30202	86589c19	Elige qué decirle a Kawana presionando {keyhelp(101)} {fc(ff0000)dos veces}. Puede que aparezcan más opciones con el tiempo.
+30203	b403e370	Si eliges las palabras adecuadas, sube la {fc(ff0000)tasa de persuasión}. Si la barra llega al 100 %, la convences.
+30204	dd5d4440	Si fallas, podrás repetir desde justo antes. No tengas miedo de equivocarte y prueba distintas respuestas.
+30205	cc32577d	La otra persona te contará lo que le preocupa: dile las palabras adecuadas para que se decida a luchar.
+30206	6fd28490	Elige qué decir presionando {keyhelp(101)} {fc(ff0000)dos veces}. Puede que aparezcan más opciones con el tiempo.
+30301	ae2ae87e	Vas a explorar para buscar los ingredientes de la cura. En esta exploración, si {fc(ff0000)regresas a mitad de camino} o {fc(ff0000)aniquilan a tu equipo}, la exploración {fc(ff0000)termina de inmediato}.
+30302	551a9752	Si en la exploración {fc(ff0000)visitas todos los destinos}, {fc(ff0000)sube la probabilidad de éxito} al preparar la cura.
+30303	babefdb4	Tienes {fc(ff0000)3 días} para terminar. Si fallas, la historia sigue igual, pero intenta terminar la exploración dentro del plazo.
+30401	86c7b4e5	Vas a explorar para buscar los materiales del telescopio astronómico. En esta exploración, si {fc(ff0000)regresas a mitad de camino} o {fc(ff0000)aniquilan a tu equipo}, la exploración {fc(ff0000)termina de inmediato}.
+30402	a4392195	Aunque la exploración termine antes de tiempo, al explorar al día siguiente {fc(ff0000)se conserva tu avance hacia los destinos}. Además, según cómo avances, pueden agregarse destinos.
+30403	babefdb4	Tienes {fc(ff0000)3 días} para terminar. Si fallas, la historia sigue igual, pero intenta terminar la exploración dentro del plazo.
+30501	ed74bad7	Completa el {fc(ff0000)entrenamiento VR} que te encargó SIREI. Tienes {fc(ff0000)3 días}.
+30502	ed459d77	Puedes entrenar cuando quieras dentro del plazo. Si no te sientes listo, explora o mejora tu arma de clase.
+30601	515db1f6	Por un tiempo, vas a usar el {fc(ff0000)tiempo libre} para {fc(ff0000)resolver las tareas de cada personaje}.
+30602	a8e227f6	Los personajes con una tarea aparecen en el {fc(ff0000)mapa}. Las tareas son variadas: entrenamientos, exploraciones, preguntas y más.
+30603	c0118f30	Al {fc(ff0000)completar una tarea}, {fc(ff0000)termina ese bloque de tiempo libre}. Completa las tareas de todos dentro del plazo.
+31101	98227a2c	Llegaste al Bloqueo de historia 1. Si no cumples ciertas {fc(ff0000)condiciones de desbloqueo}, no puedes seguir adelante. Por ahora, avanza por otras ramas.
+31102	1529333b	[Condiciones de desbloqueo]\nLlegar a los finales 34, 36, 72 y 76.\nLlegar al Bloqueo de historia 3.
+31201	3e60894a	Llegaste al Bloqueo de historia 2. Si no cumples ciertas {fc(ff0000)condiciones de desbloqueo}, no puedes seguir adelante. Por ahora, avanza por otras ramas.
+31202	4118c1b1	[Condiciones de desbloqueo]\nLlegar al final 100.
+31301	f0e1c883	Llegaste al Bloqueo de historia 3. Si no cumples ciertas {fc(ff0000)condiciones de desbloqueo}, no puedes seguir adelante. Por ahora, avanza por otras ramas.
+31302	24059c3c	[Condiciones de desbloqueo]\nLlegar al Bloqueo de historia 2.
+40001	80fe97fc	Para la {fc(ff0000)exploración}, puedes elegir {fc(ff0000)hasta 3 acompañantes}. Los personajes oscurecidos no se pueden elegir.
+40101	de38b913	En la {fc(ff0000)exploración} puedes {fc(ff0000)reunir BP y materiales}. {fc(ff0000)Elige una de las cartas de pasos} que te tocan y avanza por las casillas.
+40102	cb70d839	Estos son los principales tipos de casillas:\n{fc(ff0000)Casilla de material}: obtienes el material del ícono\n{fc(ff0000)Casilla de batalla}: empieza una batalla\n{fc(ff0000)Casilla ?}: ocurren eventos variados
+40103	309ecf89	El color de cada casilla indica {fc(ff0000)cuánto riesgo y recompensa} tiene.
+40104	58215476	También hay casillas con efectos especiales: si alguna te llama la atención, detente en ella.
+40201	9848f7c3	Al llegar a un {fc(ff0000)punto de control} nuevo, podrás elegirlo como {fc(ff0000)punto de partida} en las próximas exploraciones.
+40202	049970e2	Además, puedes {fc(ff0000)moverte entre puntos de control}, así que intenta llegar a los que aún no desbloqueaste.
+40301	613e9440	Para cruzar una {fc(ff0000)casilla de Llamas Eternas}, necesitas el {fc(ff0000)nivel de extinción} que pide esa casilla. El nivel de extinción sube al avanzar en la historia.
+40302	9662f3c3	Al cruzar las casillas de Llamas Eternas, puedes {fc(ff0000)llegar a zonas nuevas}. Cuando suba tu nivel de extinción, revisa qué casillas ya puedes cruzar.
+40401	17959b29	Al llegar a la {fc(ff0000)casilla de destino} del mapa, avanza la historia.
+40402	b6f63608	Si no sabes dónde está la casilla de destino, mira los alrededores con {keyhelp(11)}.
+40501	e17bb5aa	Cada personaje tiene una {fc(ff0000)habilidad de exploración}. Elige a los personajes según la situación: por ejemplo, {fc(ff0000)forma el equipo según los materiales que quieras reunir}.
+40502	1efddbed	Con {keyhelp(103)} haces una {fc(ff0000)exploración rápida}: {fc(ff0000)te saltas la exploración y obtienes materiales al azar}. Pero en la exploración rápida no se activan los efectos de las habilidades.
+40601	e4920f17	Si {fc(ff0000)todo el equipo queda con 0 HP} durante la exploración, esta termina de inmediato y {fc(ff0000)pierdes la mitad de los objetos}.
+40602	6ef4a564	Si la cosa se pone difícil, retírate con {fc(ff0000)Terminar exploración} desde el menú o un punto de control.
+40701	5cc8e3fb	Ahora aparecen {fc(ff0000)casillas de cofre} en la exploración. Si te detienes en una, consigues lo necesario para desbloquear un {fc(ff0000)regalo}: un {fc(ff0000)objeto clave}.
+40702	9add0b17	Al conseguir el objeto clave de un cofre, {fc(ff0000)puedes crear regalos nuevos en el Gift-O-Matic}.
+40703	3487e45b	Entre los regalos que se crean con objetos clave, {fc(ff0000)a veces hay algunos de la lista de deseos de los personajes}, así que intenta detenerte en las casillas de cofre.
+40801	e662676f	En la {fc(ff0000)exploración libre}, sin destino, aparecen {fc(ff0000)casillas de bonificación}: si te detienes en ellas, obtienes {fc(ff0000)materiales valiosos}.
+40802	5f6a0605	Mira los alrededores con {keyhelp(11)} y ve hacia las casillas de bonificación.
+41001	f074914b	Los objetos que consigas se {fc(ff0000)convierten en materiales} al terminar la exploración.
+41002	455858d9	Además, solo puedes llevar {fc(ff0000)hasta 9 objetos}. Cuando estés al límite, retírate con {fc(ff0000)Terminar exploración} desde el menú o un punto de control.
+50001	ca439a4e	Una {fc(ff0000)ruleta} decide si la cura sale bien. Con {keyhelp(1)}, {fc(ff0000)haces girar y detienes} la ruleta.
+50002	92c54044	Si la cura sale bien, avanza la historia. Si fallas, puedes volver a explorar mientras quede tiempo. La {fc(ff0000)probabilidad de éxito de la ruleta sube al completar exploraciones}.
+50101	803fbc7a	En el {fc(ff0000)sigilo}, {fc(ff0000)llega al destino evitando a los enemigos}. Si un enemigo te toca, vuelves al punto de partida.
+50102	13b30099	Si presionas {keyhelp(100)} frente a una habitación, puedes {fc(ff0000)esconderte en ella} y evitar a los enemigos.
+50103	2a782d98	Los enemigos se mueven siguiendo un patrón: escóndete, observa sus movimientos y, cuando veas la oportunidad, cruza de una vez.
+50201	846f6144	Usa el dron para investigar el interior de la Penúltima Academia. {fc(ff0000)Llega al destino evitando a los enemigos}. Si un enemigo te toca, vuelves al punto de partida.
+50202	fb6e3cf3	Con {keyhelp(100)} el dron puede {fc(ff0000)subir y bajar} para esquivar a los enemigos que se acercan.
+50203	a1376bd1	Pero el dron {fc(ff0000)no puede esconderse en las habitaciones}, así que lee rápido los movimientos de los enemigos y avanza.

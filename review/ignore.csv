@@ -1,0 +1,483 @@
+check,key,motivo
+falta_apertura,text/gallery_bgm_name/000_gallery_bgm_name#3200,Título de canción en leet: los ! son letras
+falta_apertura,text/gallery_bgm_name/000_gallery_bgm_name#3201,Título de canción en leet: los ! son letras
+falta_apertura,text/gallery_bgm_name/000_gallery_bgm_name#3202,Título de canción en leet: los ! son letras
+sin_traducir,text/gallery_bgm_name/000_gallery_bgm_name#940,Nombre de canción: va en inglés (decisión de glosario)
+vosotros,text/battle_item_name_bug/000_battle_item_name#502,"nombre deformado a propósito (efecto de glitch): el ""os"" es un pedazo de ""poderosa"""
+vosotros,text/battle_trap_name_bug/000_battle_trap_name#305,"nombre deformado a propósito (efecto de glitch): el ""os"" es un pedazo de ""explosiva"""
+vosotros,text/battle_trap_name_bug/000_battle_trap_name#308,"nombre deformado a propósito (efecto de glitch): el ""os"" es un pedazo de ""explosiva"""
+comillas,text/ui_archive_explanation/000_ui_archive_explanation#78,"traducido del japonés, que no usa las comillas que agregó el inglés"
+largo,text/field_present_explanation/000_field_present_explanation#21304,"traducido del japonés, más largo que el resumen del inglés; entra en tres renglones"
+largo,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_Aa_d100_m020_010_02_0020,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+largo,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_B0_d072_m070_020_02_0020,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+largo,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_Bb_d092_m020_020_02_0010,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+largo,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_Bb_d092_m020_020_02_0020,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+largo,text/field_chapter_detail/000_field_chapter_detail#12300410,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+largo,text/field_chapter_detail/000_field_chapter_detail#18108410,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+largo,text/field_chapter_detail/000_field_chapter_detail#18108420,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+largo,text/field_chapter_detail/000_field_chapter_detail#9508520,opción traducida del japonés; el inglés la había reducido a Sí/No. Entra en el ancho de las opciones más largas del inglés
+comillas,text/sugoroku_event_select_name/000_sugoroku_event_select_name#5192,el japonés no lleva comillas: es lo que piensa Takumi
+comillas,text/sugoroku_event_select_result_name/000_sugoroku_event_select_result_na#1130222,el japonés lo cuenta sin cita
+largo,message/r00_0_1sttruer_00_d001_m020_060/000_Sheet1#100,el inglés omite la mitad de la frase japonesa (edad y curso)
+inconsistente,text/common_message/000_Sheet1#6240,Modo de batalla en mayúsculas como el japonés; la canción de la galería con el mismo japonés va como título (Hundred Line)
+inconsistente,text/option_dialog_name/000_option_dialog_name#101,Modo de batalla en mayúsculas como el japonés; la canción de la galería con el mismo japonés va como título (Hundred Line)
+falta_apertura,text/help_tutorial_text/000_help_tutorial_text#11803,El ! es la marca que se ve en la cuadrícula
+falta_apertura,text/help_tutorial_text/000_help_tutorial_text#40102,El ? es el nombre de la casilla (Casilla ?)
+codigos,text/help_tutorial_text/000_help_tutorial_text#23004,El japonés marca dos términos; el inglés partió uno en dos colores
+ancho,text/system_message/000_Sheet1#3917,El nombre de Eva es el más corto: los demás avisos iguales tienen renglones más largos y caben
+ancho,text/battle_win_lose_conditions/000_Sheet1#2001240,Las condiciones de victoria comparten recuadro y en inglés llegan a 55 caracteres (#2001921)
+ancho,text/battle_win_lose_conditions/000_Sheet1#2001613,Las condiciones de victoria comparten recuadro y en inglés llegan a 55 caracteres (#2001921)
+ancho,text/battle_win_lose_conditions/000_Sheet1#30420131,Las condiciones de victoria comparten recuadro y en inglés llegan a 55 caracteres (#2001921)
+ancho,text/battle_win_lose_conditions/000_Sheet1#5031,Las condiciones de victoria comparten recuadro y en inglés llegan a 55 caracteres (#2001921)
+espacios,text/battle_win_lose_conditions/000_Sheet1#30610110,El arma secreta ??? como en el glosario: el nombre está oculto
+espacios,text/battle_win_lose_conditions/000_Sheet1#30610120,El arma secreta ??? como en el glosario: el nombre está oculto
+falta_apertura,text/battle_win_lose_conditions/000_Sheet1#30610110,Los ??? son el nombre oculto del arma: no es una pregunta
+falta_apertura,text/battle_win_lose_conditions/000_Sheet1#30610120,Los ??? son el nombre oculto del arma: no es una pregunta
+inconsistente,text/battle_win_lose_conditions/000_Sheet1#1002310,Condición de victoria en imperativo (Repite); en el menú va en infinitivo (Repetir)
+espacios,text/skill_name/000_Sheet1#5000004,El arma secreta ??? como en el glosario: el nombre está oculto
+espacios,text/skill_name/000_Sheet1#5000007,El arma secreta ??? como en el glosario: el nombre está oculto
+falta_apertura,text/skill_name/000_Sheet1#5000004,Los ??? son el nombre oculto del arma: no es una pregunta
+falta_apertura,text/skill_name/000_Sheet1#5000007,Los ??? son el nombre oculto del arma: no es una pregunta
+inconsistente,text/skill_name/000_Sheet1#5000001,El inglés de esta habilidad dice The Secret Weapon (El arma secreta); en los menús dice Shion Bomb (glosario)
+inconsistente,text/skill_name/000_Sheet1#5000006,El inglés de esta habilidad dice The Secret Weapon (El arma secreta); en los menús dice Shion Bomb (glosario)
+codigos,text/passive_skill_explanation/000_Sheet1#21,El %d del inglés es un error (+%d1); el japonés no tiene código
+codigos,text/passive_skill_explanation/000_Sheet1#31,El %d del inglés es un error (+%d1); el japonés no tiene código
+inconsistente,text/common_message/000_Sheet1#2108,En el menú va en infinitivo (Repetir); la condición de victoria en imperativo (Repite)
+inconsistente,text/common_message/000_Sheet1#429,En los menús el inglés dice Shion Bomb (glosario); el nombre de la habilidad dice The Secret Weapon
+inconsistente,text/help_tutorial_name/000_help_tutorial_name#115,En los menús el inglés dice Shion Bomb (glosario); el nombre de la habilidad dice The Secret Weapon
+inconsistente,text/key_help_text/000_Sheet1#74,En los menús el inglés dice Shion Bomb (glosario); el nombre de la habilidad dice The Secret Weapon
+inconsistente,text/char_name/000_char_name#332,Nombre de quien habla (Silueta); en la decisión es la opción de ir hacia la silueta (A la silueta)
+inconsistente,text/field_player_profile/000_field_player_profile#1106,En el perfil es lo que no le gusta (Los hospitales); en el mapa es un lugar (Hospital)
+japones,text/ui_archive_name/000_ui_archive_name#67,El japonés explica la sigla: TL (línea temporal)
+comillas,text/ui_archive_explanation/000_ui_archive_explanation#57,El japonés no usa comillas; las agregó el inglés
+japones,text/ui_archive_explanation/000_ui_archive_explanation#57,Calamidad traduce 災厄 (la desgracia que trae la caja); la caja sigue siendo Caja de la Desdicha
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_0_BoknOclt_00_d022_m080_010_02_0020,Opción de la decisión (A la silueta); el nombre de quien habla es Silueta
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d002_m100_020_02_0010,Rematarlo / Rematarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d021_m190_015_02_0010,Rematarlo / Rematarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d057_m190_025_02_0010,Matarlo / Matarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d057_m190_025_02_0020,Matarlo / Matarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s15_A_DeathGam_Aaa_d056_m160_020_02_0010,Matarlo / Matarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s15_A_DeathGam_Aaa_d056_m160_020_02_0020,Matarlo / Matarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s15_A_DeathGam_Aaaaab_d092_m070_020_02_0010,Matarlo / Matarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s15_A_DeathGam_Aaaaab_d092_m070_020_02_0020,Matarlo / Matarla según a quién se refiere la decisión
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s11_0_SeisyunR_Aa_d065_m150_020_02_0020,断る: Negarme (a recibir o permitir algo) / Rechazarla (una confesión)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_00_d048_m030_010_02_0020,断る: Negarme (a recibir o permitir algo) / Rechazarla (una confesión)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_A0_d048_m020_010_02_0020,断る: Negarme (a recibir o permitir algo) / Rechazarla (una confesión)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_B0_d073_m030_010_02_0020,断る: Negarme (a recibir o permitir algo) / Rechazarla (una confesión)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bb_d096_m020_010_02_0020,断る: Negarme (a recibir o permitir algo) / Rechazarla (una confesión)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_0_BoknOclt_00_d022_m080_010_02_0010,Opción de la decisión (A Kako / A la silueta); en otras listas es solo el nombre
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s15_A_DeathGam_Aaaaa_d083_m010_040_02_0020,Opción de la decisión (El patrocinador); el nombre de quien habla es Patrocinador
+comillas,text/event_decideselect_message/000_event_decideselect_message#s09_A_BoukenRt_Aa_d099_m230_010_03_0040,El japonés usa 『』: comillas simples como en el glosario ('La dicha va sola')
+ancho,text/event_decideselect_message/000_event_decideselect_message#msg_7,Texto de prueba del juego que no se muestra
+inconsistente,text/char_name/000_char_name#276,Nombre de quien habla (Patrocinador); en la decisión es la opción (El patrocinador)
+largo,text/field_chapter_detail/000_field_chapter_detail#17307510,El diagrama repite la pregunta de la decisión (glosario); se verifica en el juego con los avisos ancho
+largo,text/field_chapter_detail/000_field_chapter_detail#17307530,El diagrama repite la pregunta de la decisión (glosario); se verifica en el juego con los avisos ancho
+inconsistente,text/sugoroku_event_select_name/000_sugoroku_event_select_name#1012,Ignorarlas / Ignorarlo según el género de lo que se ignora
+inconsistente,text/sugoroku_event_select_name/000_sugoroku_event_select_name#106022,Ignorarlas / Ignorarlo según el género de lo que se ignora
+inconsistente,text/sugoroku_event_select_name/000_sugoroku_event_select_name#1091,¡Saltar y atraparlas! / atraparlo según el género de lo que se atrapa
+inconsistente,text/sugoroku_event_select_name/000_sugoroku_event_select_name#4141,¡Saltar y atraparlo! / atraparlas según el género de lo que se atrapa
+inconsistente,text/sugoroku_event_select_name/000_sugoroku_event_select_name#103012,Dejarla / Dejarlo según a quién se deja (Shizuhara / Maruko / un animal)
+inconsistente,text/sugoroku_event_select_name/000_sugoroku_event_select_name#107031,Dejarla / Dejarlo según a quién se deja (Shizuhara / Maruko / un animal)
+inconsistente,text/sugoroku_event_select_name/000_sugoroku_event_select_name#5132,Dejarla / Dejarlo según a quién se deja (Shizuhara / Maruko / un animal)
+peninsular,text/sugoroku_event_select_result_name/000_sugoroku_event_select_result_na#1090221,ratón el animal (no el de la computadora)
+falta_apertura,message/r00_0_1sttruer_00_d000_m010_025/000_Sheet1#10,Día ???: los signos son el número oculto del día
+largo,message/r00_0_1sttruer_00_d001_m030_070/000_Sheet1#340,El inglés lo resume en tres palabras; el japonés es la frase entera
+largo,message/r00_0_1sttruer_00_d001_m070_010/000_Sheet1#120,El inglés recorta la explicación; el japonés es igual de largo
+peninsular,message/r00_0_1sttruer_00_d001_m140_010/000_Sheet1#60,pasta la comida (no el dinero)
+codigos,message/r00_0_1sttruer_00_d002_m130_010/000_Sheet1#380,Dos resaltados como el japonés; el inglés deja uno solo
+codigos,message/r00_0_1sttruer_00_d002_m130_015/000_Sheet1#330,Dos resaltados como el japonés; el inglés deja uno solo
+codigos,message/r00_0_1sttruer_00_d003_m010_010/000_Sheet1#120,Tres segmentos de color como el japonés; el inglés los junta
+largo,message/r00_0_1sttruer_00_d002_m220_010/000_Sheet1#540,La frase repetida diez veces, como el japonés
+peninsular,message/r00_0_1sttruer_00_d002_m040_010/000_Sheet1#10,venga: subjuntivo de venir (lo que venga)
+peninsular,message/r00_0_1sttruer_00_d004_m020_010/000_Sheet1#240,venga: subjuntivo de venir (venga a impedirlo)
+codigos,message/r00_0_1sttruer_00_d008_m030_010/000_Sheet1#80,Tres segmentos de color como el japonés; el inglés los junta
+largo,message/r00_0_1sttruer_00_d011_m130_010/000_Sheet1#290,El inglés recorta la frase; el japonés es igual de largo
+largo,message/r00_0_1sttruer_00_d007_m110_020/000_Sheet1#90,El inglés recorta la frase; el japonés es igual de largo
+codigos,message/r00_0_1sttruer_00_d015_m070_010/000_Sheet1#30,El japonés lo pinta del color del narrador; el inglés perdió el código
+codigos,message/r00_0_1sttruer_00_d015_m080_010/000_Sheet1#30,El japonés lo pinta del color del narrador; el inglés perdió el código
+largo,message/r00_0_1sttruer_00_d012_m040_010/000_Sheet1#50,El inglés recorta la frase; el japonés es igual de largo
+largo,message/r00_0_1sttruer_00_d013_m060_010/000_Sheet1#90,El inglés recorta la frase; el japonés es igual de largo
+largo,message/r00_0_1sttruer_00_d013_m070_010/000_Sheet1#110,El inglés recorta la frase; el japonés es igual de largo
+largo,message/r00_0_1sttruer_00_d013_m070_020/000_Sheet1#10,El inglés recorta la frase; el japonés es igual de largo
+largo,message/r00_0_1sttruer_00_d014_m070_010/000_Sheet1#1640,El inglés recorta la frase; el japonés es igual de largo
+largo,message/r00_0_1sttruer_00_d014_m070_010/000_Sheet1#1760,El inglés recorta la frase; el japonés es igual de largo
+largo,message/r00_0_1sttruer_00_d014_m070_010/000_Sheet1#1900,El inglés recorta la frase; el japonés es igual de largo
+peninsular,message/r00_0_1sttruer_00_d013_m020_010/000_Sheet1#140,vale: verbo valer (no la muletilla)
+peninsular,message/r00_0_1sttruer_00_d014_m070_010/000_Sheet1#1150,vale: verbo valer (no la muletilla)
+peninsular,message/r00_0_1sttruer_00_d016_m010_010/000_Sheet1#260,vale: verbo valer (no la muletilla)
+peninsular,message/r00_0_1sttruer_00_d017_m020_070/000_Sheet1#10,vale: verbo valer (no vale nada)
+peninsular,message/r00_0_1sttruer_00_d019_m010_010/000_Sheet1#120,vale: verbo valer (no vale la pena)
+peninsular,message/r00_0_1sttruer_00_d019_m030_020/000_Sheet1#10,venga: subjuntivo de venir (quizás venga aquí)
+codigos,message/r00_0_1sttruer_00_d020_m060_010/000_Sheet1#60,El japonés no tiene color: es diálogo de Takumi; el inglés lo pintó como pensamiento
+codigos,message/r00_0_1sttruer_00_d028_m010_010/000_Sheet1#110,Colores como el japonés; el inglés los reordenó
+codigos,message/r00_0_1sttruer_00_d028_m060_010/000_Sheet1#100,Colores como el japonés; el inglés los reordenó
+codigos,message/r00_0_1sttruer_00_d028_m060_010/000_Sheet1#20,El japonés no tiene color; el inglés agregó uno
+codigos,message/r00_0_1sttruer_00_d028_m060_010/000_Sheet1#200,Colores como el japonés; el inglés los reordenó
+codigos,message/r00_0_1sttruer_00_d028_m140_020/000_Sheet1#30,Colores como el japonés; el inglés los movió a otra línea
+codigos,message/r00_0_1sttruer_00_d028_m140_020/000_Sheet1#40,Colores como el japonés; el inglés los movió a otra línea
+codigos,message/r00_0_1sttruer_00_d028_m140_020/000_Sheet1#50,Colores como el japonés; el inglés los movió a otra línea
+codigos,message/r00_0_1sttruer_00_d030_m050_070/000_Sheet1#30,Colores como el japonés; el inglés no marcó el término
+largo,message/r00_0_1sttruer_00_d028_m140_050/000_Sheet1#10,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/r00_0_1sttruer_00_d029_m010_010/000_Sheet1#360,El inglés es corto; el largo sigue al japonés y entra en el recuadro
+vosotros,message/r00_0_1sttruer_00_d028_m030_010/000_Sheet1#290,samuráis: plural de samurái
+codigos,message/r00_0_1sttruer_00_d033_m050_010/000_Sheet1#100,Colores como el japonés (marca las dos palabras); el inglés marcó una
+peninsular,message/r00_0_1sttruer_00_d035_m140_010/000_Sheet1#50,vale: verbo valer (no vale la pena)
+codigos,message/r00_0_1sttruer_00_d038_m050_010/000_Sheet1#1030,El japonés no tiene color en esta línea; el inglés lo agregó
+codigos,message/r00_0_1sttruer_00_d038_m050_010/000_Sheet1#1040,El japonés no tiene color en esta línea; el inglés lo agregó
+peninsular,message/r00_0_1sttruer_00_d039_m020_010/000_Sheet1#60,vale: más vale (expresión neutra)
+codigos,message/r00_0_1sttruer_00_d046_m060_010/000_Sheet1#30,Colores como el japonés; el inglés quitó uno
+codigos,message/r00_0_1sttruer_00_d046_m060_010/000_Sheet1#540,Colores como el japonés; el inglés no marcó el término
+codigos,message/r00_0_1sttruer_00_d046_m060_010/000_Sheet1#880,Colores como el japonés; el inglés no marcó el término
+codigos,message/r00_0_1sttruer_00_d046_m060_010/000_Sheet1#990,Colores como el japonés; el inglés no marcó el término
+peninsular,message/r00_0_1sttruer_00_d045_m050_010/000_Sheet1#240,vale: verbo valer (vale la pena)
+peninsular,message/r00_0_1sttruer_00_d046_m060_010/000_Sheet1#1160,vale: verbo valer (no vale la pena)
+peninsular,message/r00_0_1sttruer_00_d051_m020_010/000_Sheet1#10,vale: verbo valer (vale la pena)
+codigos,message/r00_0_1sttruer_00_d053_m020_010/000_Sheet1#110,Colores como el japonés; el inglés unió los dos tramos
+peninsular,message/r00_0_1sttruer_00_d071_m020_010/000_Sheet1#30,venga es el imperativo de venir con usted (Kako al Sr. Sumino)
+codigos,message/r00_0_1sttruer_00_d072_m080_030/000_Sheet1#560,Resaltado como el japonés; el inglés cambia el orden de los colores
+codigos,message/r00_0_1sttruer_00_d072_m190_010/000_Sheet1#130,Resaltados como el japonés; el inglés cambia el orden de los colores
+codigos,message/r00_0_1sttruer_00_d072_m190_010/000_Sheet1#140,Resaltado como el japonés; el inglés lo quita
+codigos,message/r00_0_1sttruer_00_d075_m030_010/000_Sheet1#190,Resaltado como el japonés; el inglés cambia el orden de los colores
+peninsular,message/r00_0_1sttruer_00_d072_m110_010/000_Sheet1#200,"Es el verbo valer (lo mismo vale para), no la muletilla"
+ancho,message/r00_0_1sttruer_00_d075_m030_010/000_Sheet1#120,El salto del inglés no está en el japonés; los diálogos se ajustan solos
+peninsular,message/r00_0_1sttruer_00_d078_m030_010/000_Sheet1#300,vale: verbo valer (lo que vale tu sueldo)
+peninsular,message/r00_0_1sttruer_00_d081_m110_010/000_Sheet1#870,venga: subjuntivo de venir (lo que venga)
+peninsular,message/r00_0_1sttruer_00_d087_m010_010/000_Sheet1#160,vale: más vale prevenir
+peninsular,message/r00_0_1sttruer_00_d089_m030_010/000_Sheet1#30,venga: subjuntivo de venir (que no venga)
+peninsular,message/r00_0_1sttruer_00_d090_m040_020/000_Sheet1#10,vale: verbo valer (lo que vale esta Tierra)
+codigos,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#90,Colores como el japonés; el inglés agrega un tramo al principio
+peninsular,message/r00_0_1sttruer_00_d094_m040_010/000_Sheet1#240,vale: más vale prevenir
+peninsular,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#680,vale: verbo valer (no vale más que)
+codigos,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#90,Colores como el japonés; el inglés agrega un tramo al principio
+peninsular,message/r00_0_1sttruer_00_d094_m040_010/000_Sheet1#240,vale: más vale prevenir
+peninsular,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#680,vale: verbo valer (no vale más que)
+peninsular,message/r00_0_1sttruer_00_d100_m040_010/000_Sheet1#90,venga: subjuntivo de venir (que venga ningún enemigo)
+codigos,message/s00_0_2ndtruer_00_d002_m040_010/000_Sheet1#130,Sigue el orden de colores del japonés
+codigos,message/s00_0_2ndtruer_00_d002_m120_010/000_Sheet1#310,Sigue el orden de colores del japonés
+codigos,message/s00_0_2ndtruer_00_d004_m030_010/000_Sheet1#570,Sigue el orden de colores del japonés
+largo,message/s00_0_2ndtruer_00_d002_m010_010/000_Sheet1#110,La frase repetida diez veces, como el japonés
+largo,message/s00_0_2ndtruer_00_d002_m040_010/000_Sheet1#520,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d002_m100_010/000_Sheet1#490,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d002_m120_010/000_Sheet1#290,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d003_m010_010/000_Sheet1#110,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d003_m010_010/000_Sheet1#70,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d003_m020_020/000_Sheet1#320,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d003_m040_090/000_Sheet1#240,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d004_m020_020/000_Sheet1#30,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d005_m020_030/000_Sheet1#70,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s00_0_2ndtruer_00_d008_m030_010/000_Sheet1#170,"Venga" es el verbo venir (subjuntivo), no la muletilla
+peninsular,message/s00_0_2ndtruer_00_d008_m070_010/000_Sheet1#650,"Vale" es el verbo valer, no la muletilla
+largo,message/s00_0_2ndtruer_00_d007_m120_010/000_Sheet1#20,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d007_m180_010/000_Sheet1#140,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d010_m010_010/000_Sheet1#100,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s00_0_2ndtruer_00_d013_m020_010/000_Sheet1#70,"pasta = el plato de comida, no dinero"
+largo,message/s00_0_2ndtruer_00_d032_m010_010/000_Sheet1#100,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d032_m010_020/000_Sheet1#110,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s00_0_2ndtruer_00_d039_m050_010/000_Sheet1#30,"venga = verbo venir (venga Kirifuji), no la interjección"
+peninsular,message/s00_0_2ndtruer_00_d041_m020_010/000_Sheet1#1060,"tío = pariente (el tío que la acogió), no el tratamiento"
+peninsular,message/s00_0_2ndtruer_00_d041_m020_010/000_Sheet1#1070,"tío = pariente (el tío que la acogió), no el tratamiento"
+peninsular,message/s00_0_2ndtruer_00_d046_m020_010/000_Sheet1#30,"venga = verbo venir (venga V'ehxness)"
+largo,message/s00_0_2ndtruer_00_d049_m040_005/000_Sheet1#1020,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d049_m040_005/000_Sheet1#660,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d049_m040_005/000_Sheet1#90,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d049_m180_010/000_Sheet1#290,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d049_m190_010/000_Sheet1#170,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d050_m030_010/000_Sheet1#90,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d057_m170_010/000_Sheet1#20,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s00_0_2ndtruer_00_d057_m190_030/000_Sheet1#140,"venga = verbo venir (lo que venga después)"
+largo,message/s00_0_2ndtruer_00_d061_m020_010/000_Sheet1#110,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s00_0_2ndtruer_00_d062_m030_010/000_Sheet1#130,"venga = verbo venir (no venga)"
+largo,message/s00_0_2ndtruer_00_d067_m070_020/000_Sheet1#120,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d067_m070_030/000_Sheet1#390,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d071_m020_020/000_Sheet1#620,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+codigos,message/s00_0_2ndtruer_00_d072_m290_020/000_Sheet1#140,El inglés usa otra secuencia de colores; el español sigue la del japonés
+peninsular,message/s00_0_2ndtruer_00_d072_m250_010/000_Sheet1#120,"vale la pena = locución neutra"
+largo,message/s00_0_2ndtruer_00_d079_m020_010/000_Sheet1#470,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d082_m050_010/000_Sheet1#110,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d083_m030_010/000_Sheet1#300,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s00_0_2ndtruer_00_d087_m050_020/000_Sheet1#100,"vale la pena = locución neutra"
+largo,message/s00_0_2ndtruer_00_d092_m080_010/000_Sheet1#10,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s00_0_2ndtruer_00_d098_m060_010/000_Sheet1#170,"venga = verbo venir (me venga a la cabeza)"
+largo,message/s00_0_2ndtruer_00_d100_m070_010/000_Sheet1#250,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s00_0_2ndtruer_00_d100_m190_020/000_Sheet1#190,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+codigos,message/s02_0_aotukino_00_d087_m020_010/000_Sheet1#220,El japonés abre y cierra los códigos distinto del inglés; el español sigue al japonés
+codigos,message/s02_0_aotukino_00_d087_m020_030/000_Sheet1#390,El japonés abre y cierra los códigos distinto del inglés; el español sigue al japonés
+codigos,message/s02_0_aotukino_00_d088_m010_020/000_Sheet1#610,El japonés abre y cierra los códigos distinto del inglés; el español sigue al japonés
+largo,message/s02_0_aotukino_00_d087_m020_030/000_Sheet1#130,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s02_0_aotukino_00_d088_m010_020/000_Sheet1#720,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+peninsular,message/s03_0_dokusair_a0_d092_m020_010/000_Sheet1#470,"tía" es el parentesco (tía de sangre), no el tratamiento de amiga
+largo,message/s03_0_dokusair_a0_d093_m030_110/000_Sheet1#140,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s03_0_dokusair_a0_d099_m040_080/000_Sheet1#120,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s04_0_ivachanr_00_d064_m020_010/000_Sheet1#30,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s05_0_ninshiki_00_d061_m050_010/000_Sheet1#160,Frase repetida a propósito; el largo sigue al japonés y entra en el recuadro
+largo,message/s05_0_ninshiki_00_d061_m050_010/000_Sheet1#190,Frase repetida a propósito; el largo sigue al japonés y entra en el recuadro
+codigos,message/s04_0_ivachanr_00_d078_m020_010/000_Sheet1#250,El japonés abre con el código de color y el inglés no; el español sigue al japonés
+peninsular,message/s06_0_jigokurt_00_d087_m120_010/000_Sheet1#30,"vale la pena" es la locución, no el vale de España
+peninsular,message/s06_0_jigokurt_00_d097_m100_010/000_Sheet1#80,"vale la pena" es la locución, no el vale de España
+largo,message/s06_0_jigokurt_b0_d100_m010_010/000_Sheet1#110,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s07_0_panicxrt_00_d034_m040_010/000_Sheet1#200,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+ancho,message/s07_0_panicxrt_aabaaaa_d037_m040_010/000_Sheet1#20,Puntos suspensivos largos: el renglón sigue al japonés
+ancho,message/s07_0_panicxrt_aabaab_d035_m010_010/000_Sheet1#225,Puntos suspensivos largos: el renglón sigue al japonés
+peninsular,message/s07_0_panicxrt_aabaaa_d036_m020_010/000_Sheet1#660,"vale la pena" es la locución, no el vale de España
+largo,message/s08_0_mattarir_00_d035_m020_010/000_Sheet1#50,El inglés recortó la frase; el largo sigue al japonés y entra en el recuadro
+largo,message/s10_a_yakusitk_00_d017_m020_010/000_Sheet1#210,línea del japonés más larga que el inglés
+peninsular,message/s10_a_yakusitk_00_d044_m020_010/000_Sheet1#200,"venga" es subjuntivo de venir ("dificultad que venga")
+largo,message/s10_a_yakusitk_00_d044_m050_010/000_Sheet1#290,silencio largo (puntos suspensivos) del japonés
+largo,message/s10_a_yakusitk_00_d044_m050_010/000_Sheet1#310,silencio largo (puntos suspensivos) del japonés
+peninsular,message/s10_a_yakusitk_00_d047_m060_010/000_Sheet1#100,"vale" es del verbo valer (la vida de Sumino vale más)
+largo,message/s10_a_yakusitk_a0_d052_m050_010/000_Sheet1#270,el japonés tiene dos frases; el inglés resume
+largo,message/s10_b_kawanatk_00_d015_m010_010/000_Sheet1#180,el japonés tiene dos frases; el inglés resume
+largo,message/s10_b_kawanatk_00_d015_m040_010/000_Sheet1#540,el japonés tiene más texto que el inglés
+peninsular,message/s10_b_kawanatk_00_d021_m010_010/000_Sheet1#1020,"vale" es del verbo valer (eso vale incluso entre aliados)
+peninsular,message/s10_b_kawanatk_00_d021_m010_010/000_Sheet1#980,"vale" es del verbo valer (lo prohibido no vale nada)
+largo,message/s11_0_seisyunr_a0_d055_m020_010/000_Sheet1#80,el japonés tiene dos frases; el inglés resume
+largo,message/s11_0_seisyunr_a0_d055_m050_010/000_Sheet1#340,el japonés cita dos frases; el inglés resume
+largo,message/s12_0_fantasyr_00_d008_m010_010/000_Sheet1#120,el japonés tiene más texto que el inglés
+largo,message/s12_0_fantasyr_00_d008_m190_010/000_Sheet1#260,el japonés tiene más texto que el inglés
+largo,message/s12_0_fantasyr_00_d009_m010_010/000_Sheet1#360,el japonés tiene más texto que el inglés
+sin_traducir,message/s09_a_boukenrt_aa_d073_m010_040/000_Sheet1#10,El japonés está vacío (línea sin texto)
+largo,message/s09_a_boukenrt_baa_d098_m040_010/000_Sheet1#140,El inglés de esta línea es más corto
+largo,message/s09_a_boukenrt_bab_d098_m040_010/000_Sheet1#140,El inglés de esta línea es más corto
+largo,message/s09_b_occultrt_20_d039_m010_010/000_Sheet1#180,El inglés de esta línea es mucho más corto
+largo,message/s09_b_occultrt_b0_d049_m030_010/000_Sheet1#90,El inglés de esta línea es mucho más corto
+largo,message/s09_b_occultrt_aa_d091_m010_010/000_Sheet1#110,línea larga en el original
+largo,message/s09_b_occultrt_aa_d091_m010_010/000_Sheet1#340,línea larga en el original
+largo,message/s09_b_occultrt_aa_d091_m010_010/000_Sheet1#420,línea larga en el original
+largo,message/s09_b_occultrt_aa_d091_m010_010/000_Sheet1#610,línea larga en el original
+largo,message/s09_b_occultrt_bb_d079_m010_010/000_Sheet1#130,línea larga en el original
+sin_traducir,message/s09_b_occultrt_aa_d100_m010/000_Sheet1#20,onomatopeya de timbre igual al original
+largo,message/s13_0_sftolove_00_d003_m060_010/000_Sheet1#220,línea larga en el original
+largo,message/s13_0_sftolove_00_d008_m020_010/000_Sheet1#10,aburrimiento repetido como el original
+largo,message/s13_0_sftolove_00_d009_m040_010/000_Sheet1#480,línea larga en el original
+largo,message/s13_a_sfsfsfsf_00_d010_m090_010/000_Sheet1#140,línea larga en el original
+largo,message/s13_a_sfsfsfsf_00_d010_m210_010/000_Sheet1#1330,línea larga en el original
+largo,message/s13_a_sfsfsfsf_00_d010_m210_010/000_Sheet1#1980,línea larga en el original
+largo,message/s13_a_sfsfsfsf_00_d010_m210_010/000_Sheet1#2510,línea larga en el original
+largo,message/s13_a_sfsfsfsf_00_d012_m060_010/000_Sheet1#1200,línea larga en el original
+largo,message/s13_a_sfsfsfsf_00_d012_m060_010/000_Sheet1#780,línea larga en el original
+japones,message/s13_a_sfsfsfsf_00_d015_m080_010/000_Sheet1#200,TL Asesino Zombi es otro nombre
+largo,message/s13_a_sfsfsfsf_00_d016_m200_010/000_Sheet1#190,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d032_m040_010/000_Sheet1#470,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d032_m070_010/000_Sheet1#80,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d034_m060_010/000_Sheet1#110,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d035_m030_010/000_Sheet1#10,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d037_m010_010/000_Sheet1#20,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d038_m060_010/000_Sheet1#220,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d038_m060_010/000_Sheet1#280,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d038_m060_010/000_Sheet1#70,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d040_m030_010/000_Sheet1#100,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d040_m070_010/000_Sheet1#70,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d042_m010_010/000_Sheet1#140,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d042_m030_010/000_Sheet1#40,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d043_m010_010/000_Sheet1#50,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d045_m070_010/000_Sheet1#50,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_00_d045_m080_010/000_Sheet1#60,línea larga en el original
+largo,message/s13_a_sfsfsfsf_a0_d051_m020_010/000_Sheet1#330,línea larga en el original
+largo,message/s13_a_sfsfsfsf_aa_d074_m020_020/000_Sheet1#620,línea larga en el original
+largo,message/s13_a_sfsfsfsf_ab_d074_m020_010/000_Sheet1#700,línea larga en el original
+ancho,message/s13_a_sfsfsfsf_aa_d073_m060_010/000_Sheet1#220,los codigos de color inflan el ancho
+largo,message/s13_a_sfsfsfsf_aab_d088_m100_010/000_Sheet1#240,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_aab_d094_m030_010/000_Sheet1#180,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_aab_d094_m030_010/000_Sheet1#230,línea larga en el original
+largo,message/s13_a_sfsfsfsf_aab_d099_m050_212/000_Sheet1#20,línea larga en el original
+largo,message/s13_a_sfsfsfsf_aab_d100_m110_030/000_Sheet1#20,línea larga en el original
+largo,message/s13_a_sfsfsfsf_aaba_d100_m080_010/000_Sheet1#80,línea larga en el original
+largo,message/s13_a_sfsfsfsf_baba_d099_m050_212/000_Sheet1#20,línea larga en el original
+largo,message/s13_a_sfsfsfsf_ab_d073_m030_010/000_Sheet1#320,línea larga en el original
+largo,message/s13_a_sfsfsfsf_ab_d074_m010_010/000_Sheet1#20,línea larga en el original
+largo,message/s13_a_sfsfsfsf_b0_d050_m090_020/000_Sheet1#160,línea larga en el original
+vosotros,message/s13_a_sfsfsfsf_ba_d098_m040_010/000_Sheet1#70,línea larga en el original
+codigos,message/s13_a_sfsfsfsf_bab_d098_m030_010/000_Sheet1#230,el japonés tiene tres tramos y el inglés dos
+largo,message/s13_a_sfsfsfsf_bb_d073_m020_010/000_Sheet1#90,línea larga en el original
+largo,message/s13_a_sfsfsfsf_bb_d074_m010_010/000_Sheet1#20,línea larga en el original
+largo,message/s13_a_sfsfsfsf_bb_d074_m020_010/000_Sheet1#10,línea larga en el original
+largo,message/s13_b_lovelove_00_d009_m010_010/000_Sheet1#20,línea larga en el original
+largo,message/s13_b_lovelove_00_d048_m010_010/000_Sheet1#160,línea larga en el original
+largo,message/s13_b_lovelove_a0_d048_m010_010/000_Sheet1#10,línea larga en el original
+codigos,message/s13_b_lovelove_b0_d049_m010_010/000_Sheet1#90,el japonés tiene dos tramos y el inglés tres
+largo,message/s13_b_lovelove_b0_d053_m010_030/000_Sheet1#90,línea larga en el original
+largo,message/s13_b_lovelove_b0_d064_m020_010/000_Sheet1#170,línea larga en el original
+largo,message/s13_b_lovelove_b0_d067_m010_010/000_Sheet1#410,línea larga en el original
+largo,message/s13_b_lovelove_b0_d073_m010_010/000_Sheet1#150,línea larga en el original
+largo,message/s13_b_lovelove_bb_d073_m010_010/000_Sheet1#200,línea larga en el original
+largo,message/s13_b_lovelove_bb_d078_m010_010/000_Sheet1#150,línea larga en el original
+largo,message/s13_b_lovelove_bb_d090_m010_010/000_Sheet1#250,línea larga en el original
+codigos,message/s13_b_lovelove_bb_d089_m020_010/000_Sheet1#200,el japonés tiene tres tramos de color y el inglés dos
+largo,message/s13_b_lovelove_bb_d096_m010_010/000_Sheet1#550,línea larga en el original
+largo,message/s13_b_lovelove_bba_d096_m010_010/000_Sheet1#10,línea larga en el original
+largo,message/s13_b_lovelove_bbba_d098_m010_010/000_Sheet1#20,línea larga en el original
+largo,message/s14_a_splatter_00_d017_m020_010/000_Sheet1#720,línea larga en el original
+largo,message/s14_a_splatter_aa_d074_m010_010/000_Sheet1#40,línea larga en el original
+largo,message/s14_a_splatter_aa_d074_m010_010/000_Sheet1#40,el japonés es largo y el inglés lo resumió
+peninsular,message/s14_a_splatter_a0_d065_m010_010/000_Sheet1#140,"venga" es imperativo de venir (usted)
+largo,message/s14_a_splatter_aa_d099_m140_010/000_Sheet1#170,línea larga en el original
+largo,message/s14_a_splatter_ab_d099_m120_030/000_Sheet1#180,línea larga en el original
+largo,message/s14_a_splatter_aa_d099_m140_010/000_Sheet1#170,grito largo del original
+largo,message/s14_a_splatter_ab_d099_m120_030/000_Sheet1#180,grito largo del original
+largo,message/s14_a_splatter_ab_d080_m020_010/000_Sheet1#50,línea larga en el original
+largo,message/s14_a_splatter_ab_d085_m020_010/000_Sheet1#120,línea larga en el original
+peninsular,message/s14_a_splatter_ab_d085_m020_010/000_Sheet1#100,pasta de frijol (anko) no es peninsular
+peninsular,message/s14_a_splatter_ab_d085_m020_010/000_Sheet1#230,pasta de frijol (anko) no es peninsular
+largo,message/s14_a_splatter_ab_d085_m020_010/000_Sheet1#120,el inglés resumió
+codigos,message/s14_a_splatter_ab_d100_m020_010/000_Sheet1#140,el inglés tiene un grupo de color menos que el japonés
+largo,message/s14_a_splatter_abb_d100_m040_010/000_Sheet1#440,línea larga en el original
+largo,message/s14_a_splatter_abb_d100_m040_010/000_Sheet1#670,línea larga en el original
+largo,message/s14_a_splatter_abb_d100_m040_010/000_Sheet1#440,el inglés resumió
+largo,message/s14_a_splatter_abb_d100_m040_010/000_Sheet1#670,el inglés resumió
+largo,message/s14_a_splatter_b0_d055_m050_010/000_Sheet1#170,línea larga en el original
+largo,message/s14_a_splatter_b0_d055_m050_010/000_Sheet1#170,grito largo del original
+largo,message/s14_a_splatter_bbb_d100_m030_010/000_Sheet1#120,línea larga en el original
+largo,message/s14_b_comedyrt_00_d017_m050_010/000_Sheet1#200,línea larga en el original
+largo,message/s14_a_splatter_bbb_d100_m030_010/000_Sheet1#120,el inglés resumió
+largo,message/s14_b_comedyrt_00_d017_m050_010/000_Sheet1#200,el inglés resumió
+largo,message/s14_b_comedyrt_00_d027_m010_010/000_Sheet1#60,línea larga en el original
+largo,message/s14_b_comedyrt_00_d027_m010_010/000_Sheet1#60,el inglés resumió
+largo,message/s14_b_comedyrt_00_d038_m030_010/000_Sheet1#6000,opcion de quiz
+codigos,message/s14_b_comedyrt_a0_d055_m020_010/000_Sheet1#100,el inglés tiene un grupo de color menos
+largo,message/s14_b_comedyrt_b0_d048_m030_010/000_Sheet1#370,línea larga en el original
+largo,message/s14_b_comedyrt_b0_d058_m010_010/000_Sheet1#50,línea larga en el original
+largo,message/s15_0_deathsui_00_d007_m030_030/000_Sheet1#120,línea larga en el original
+largo,message/s15_0_deathsui_00_d024_m070_010/000_Sheet1#210,línea larga en el original
+codigos,message/s15_0_deathsui_00_d024_m050_010/000_Sheet1#130,el japonés tiene un solo par de códigos (el inglés, dos)
+peninsular,message/s15_0_deathsui_00_d024_m060_010/000_Sheet1#200,"venga = subjuntivo de usted (Eva), no la interjección"
+largo,message/s15_a_deathgam_00_d025_m010_010/000_Sheet1#30,línea larga en el original
+largo,message/s15_a_deathgam_00_d025_m010_010/000_Sheet1#500,línea larga en el original
+peninsular,message/s15_a_deathgam_00_d025_m010_010/000_Sheet1#270,"vale = verbo valer"
+peninsular,message/s15_a_deathgam_00_d026_m030_010/000_Sheet1#540,"vale = verbo valer"
+peninsular,message/s15_a_deathgam_a0_d027_m010_010/000_Sheet1#170,"vale = verbo valer"
+largo,message/s15_a_deathgam_a0_d028_m030_020/000_Sheet1#170,línea larga en el original
+largo,message/s15_a_deathgam_a0_d028_m030_020/000_Sheet1#310,línea larga en el original
+largo,message/s15_a_deathgam_a0_d029_m040_110/000_Sheet1#80,línea larga en el original
+largo,message/s15_a_deathgam_a0_d029_m060_010/000_Sheet1#340,línea larga en el original
+peninsular,message/s15_a_deathgam_a0_d029_m070_010/000_Sheet1#850,"venga = subjuntivo"
+vosotros,message/s15_a_deathgam_a0_d029_m040_410/000_Sheet1#10,"grito alargado, no es vosotros"
+largo,message/s15_a_deathgam_aa_d031_m040_410/000_Sheet1#40,línea larga en el original
+largo,message/s15_a_deathgam_aa_d031_m060_010/000_Sheet1#60,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d032_m020_010/000_Sheet1#110,línea larga en el original
+codigos,message/s15_a_deathgam_a0_d030_m010_010/000_Sheet1#170,"el japonés tiene dos códigos, el inglés tres"
+codigos,message/s15_a_deathgam_aa_d031_m050_010/000_Sheet1#30,"estructura de códigos del japonés"
+codigos,message/s15_a_deathgam_aa_d031_m060_010/000_Sheet1#260,"el japonés no tiene códigos (voz de ???)"
+peninsular,message/s15_a_deathgam_a0_d030_m010_030/000_Sheet1#260,"venga = subjuntivo"
+peninsular,message/s15_a_deathgam_aa_d030_m050_010/000_Sheet1#170,"venga = subjuntivo"
+largo,message/s15_a_deathgam_aa_d033_m040_060/000_Sheet1#40,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d034_m020_010/000_Sheet1#540,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d035_m040_010/000_Sheet1#190,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d036_m020_010/000_Sheet1#410,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d036_m030_010/000_Sheet1#10,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d039_m010_010/000_Sheet1#30,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d040_m030_010/000_Sheet1#10,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d041_m010_010/000_Sheet1#1130,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d041_m030_010/000_Sheet1#10,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d042_m010_010/000_Sheet1#100,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d043_m010_040/000_Sheet1#30,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d043_m010_050/000_Sheet1#120,línea larga en el original
+codigos,message/s15_a_deathgam_aa_d041_m010_010/000_Sheet1#750,"estructura de códigos del japonés"
+peninsular,message/s15_a_deathgam_aa_d035_m020_010/000_Sheet1#30,"venga = subjuntivo"
+peninsular,message/s15_a_deathgam_aa_d036_m020_010/000_Sheet1#110,"venga = subjuntivo"
+largo,message/s15_a_deathgam_aa_d043_m010_050/000_Sheet1#280,línea larga en el original
+largo,message/s15_a_deathgam_aa_d044_m020_010/000_Sheet1#440,línea larga en el original
+largo,message/s15_a_deathgam_aaa_d047_m060_130/000_Sheet1#10,línea larga en el original
+largo,message/s15_a_deathgam_aaa_d048_m010_010/000_Sheet1#460,línea larga en el original
+largo,message/s15_a_deathgam_aaa_d048_m010_010/000_Sheet1#530,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d043_m010_050/000_Sheet1#280,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d043_m040_010/000_Sheet1#10,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d044_m040_010/000_Sheet1#1190,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d044_m040_010/000_Sheet1#1210,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#280,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#300,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#320,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#370,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#390,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#420,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#440,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#520,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#560,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#580,línea larga en el original
+codigos,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#400,"el japonés deja un código sin cerrar"
+codigos,message/s15_a_deathgam_aa_d045_m010_010/000_Sheet1#340,"el japonés deja un código sin cerrar"
+largo,message/s15_a_deathgam_aaa_d056_m020_010/000_Sheet1#150,línea larga en el original
+largo,message/s15_a_deathgam_aaaa_d057_m070_010/000_Sheet1#140,línea larga en el original
+largo,message/s15_a_deathgam_aaaa_d058_m020_035/000_Sheet1#60,línea larga en el original
+largo,message/s15_a_deathgam_aaaa_d058_m020_040/000_Sheet1#70,línea larga en el original
+vosotros,message/s15_a_deathgam_aa_d043_m010_050/000_Sheet1#300,línea larga en el original
+codigos,message/s15_a_deathgam_aaa_d052_m040_010/000_Sheet1#150,"el código {fs72} está en el japonés"
+codigos,message/s15_a_deathgam_aaa_d056_m160_010/000_Sheet1#1130,"el japonés deja un código sin cerrar"
+peninsular,message/s15_a_deathgam_aaaa_d058_m020_035/000_Sheet1#170,"vale = verbo valer"
+largo,message/s15_a_deathgam_aaaa_d062_m050_020/000_Sheet1#150,línea larga en el original
+codigos,message/s15_a_deathgam_aaaa_d061_m050_010/000_Sheet1#670,"estructura de códigos del japonés"
+peninsular,message/s15_a_deathgam_aaaa_d062_m010_010/000_Sheet1#310,"tía = parentesco"
+largo,message/s15_a_deathgam_aaaa_d069_m030_010/000_Sheet1#160,línea larga en el original
+largo,message/s15_a_deathgam_aaaa_d072_m080_010/000_Sheet1#110,línea larga en el original
+largo,message/s15_a_deathgam_aaaa_d075_m010_010/000_Sheet1#170,línea larga en el original
+codigos,message/s15_a_deathgam_aaaa_d065_m010_015/000_Sheet1#40,"estructura de códigos del japonés"
+largo,message/s15_a_deathgam_aaaa_d075_m060_010/000_Sheet1#1460,línea larga en el original
+largo,message/s15_a_deathgam_aaaaa_d076_m030_010/000_Sheet1#100,línea larga en el original
+largo,message/s15_a_deathgam_aaaaa_d076_m030_010/000_Sheet1#600,línea larga en el original
+largo,message/s15_a_deathgam_aaaaa_d076_m030_010/000_Sheet1#950,línea larga en el original
+largo,message/s15_a_deathgam_aaaaa_d076_m030_010/000_Sheet1#990,línea larga en el original
+largo,message/s15_a_deathgam_aaaaaa_d087_m010_010/000_Sheet1#40,línea larga en el original
+largo,message/s15_a_deathgam_aaaaab_d083_m010_010/000_Sheet1#400,línea larga en el original
+largo,message/s15_a_deathgam_aaaaab_d083_m020_010/000_Sheet1#530,línea larga en el original
+largo,message/s15_a_deathgam_aaaaab_d083_m020_010/000_Sheet1#540,línea larga en el original
+largo,message/s15_a_deathgam_aaaaab_d086_m020_030/000_Sheet1#810,línea larga en el original
+largo,message/s15_a_deathgam_aaaaab_d091_m040_010/000_Sheet1#560,línea larga en el original
+codigos,message/s15_a_deathgam_aaaaab_d086_m020_010/000_Sheet1#80,Estructura de códigos del JP
+codigos,message/s15_a_deathgam_aaaaab_d088_m010_010/000_Sheet1#260,Estructura de códigos del JP
+codigos,message/s15_a_deathgam_aaaaaba_d093_m030_010/000_Sheet1#60,Estructura de códigos del JP
+largo,message/s15_a_deathgam_aaaaab_d086_m020_030/000_Sheet1#810,El JP es más largo que el EN
+largo,message/s15_a_deathgam_aaaaab_d091_m040_010/000_Sheet1#560,El JP es más largo que el EN
+peninsular,message/s15_a_deathgam_aaaaab_d086_m030_010/000_Sheet1#440,venga subjuntivo
+peninsular,message/s15_a_deathgam_aaaaab_d090_m010_010/000_Sheet1#110,venga subjuntivo
+largo,message/s15_a_deathgam_aaaab_d078_m040_010/000_Sheet1#110,línea larga en el original
+largo,message/s15_a_deathgam_b0_d026_m030_010/000_Sheet1#30,línea larga en el original
+codigos,message/s15_a_deathgam_aaaab_d078_m040_010/000_Sheet1#130,Estructura de códigos del JP
+codigos,message/s15_a_deathgam_ab_d030_m020_010/000_Sheet1#380,Estructura de códigos del JP
+largo,message/s15_a_deathgam_aaaab_d078_m040_010/000_Sheet1#110,El JP es más largo que el EN
+largo,message/s15_a_deathgam_b0_d026_m030_010/000_Sheet1#30,El JP es más largo que el EN
+peninsular,message/s15_a_deathgam_b0_d026_m010_010/000_Sheet1#20,venga subjuntivo
+largo,message/s15_b_suirixrt_00_d026_m040_010/000_Sheet1#70,línea larga en el original
+largo,message/s15_b_suirixrt_00_d039_m030_010/000_Sheet1#150,línea larga en el original
+largo,message/s15_b_suirixrt_00_d039_m030_010/000_Sheet1#90,línea larga en el original
+largo,message/s15_b_suirixrt_00_d026_m040_010/000_Sheet1#70,El JP es más largo que el EN
+largo,message/s15_b_suirixrt_00_d039_m030_010/000_Sheet1#150,El JP es más largo que el EN
+largo,message/s15_b_suirixrt_00_d039_m030_010/000_Sheet1#90,El JP es más largo que el EN
+largo,message/s15_b_suirixrt_00_d039_m130_010/000_Sheet1#470,línea larga en el original
+largo,message/s15_b_suirixrt_00_d039_m180_010/000_Sheet1#20,línea larga en el original
+codigos,message/s15_b_suirixrt_00_d039_m130_010/000_Sheet1#240,Estructura de códigos del JP
+largo,message/s15_b_suirixrt_00_d039_m130_010/000_Sheet1#470,Grito largo
+largo,message/s15_b_suirixrt_00_d039_m180_010/000_Sheet1#20,El JP es más largo que el EN
+largo,message/s15_b_suirixrt_a0_d050_m010_010/000_Sheet1#1060,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#2400,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#2580,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#2600,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#2680,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#2910,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#2980,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#2990,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#3310,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#3500,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#3520,línea larga en el original
+largo,message/s15_b_suirixrt_b0_d050_m020_010/000_Sheet1#3700,línea larga en el original
+largo,message/s15_b_suirixrt_bc_d075_m020_010/000_Sheet1#1370,línea larga en el original
+largo,message/s15_b_suirixrt_bc_d075_m020_010/000_Sheet1#3420,línea larga en el original
+largo,message/s15_b_suirixrt_bc_d075_m020_010/000_Sheet1#880,línea larga en el original
+largo,message/s15_b_suirixrt_bcbb_d084_m010_010/000_Sheet1#1130,línea larga en el original
+largo,message/npc_chr004daru_33_01/000_Sheet1#10,línea larga en el original
+vosotros,message/npc_chr003hiru_32_01/000_Sheet1#10,línea larga en el original
+vosotros,message/npc_chr006tuba_32_01/000_Sheet1#10,línea larga en el original
+vosotros,message/npc_chr006tuba_33_01/000_Sheet1#10,línea larga en el original
+vosotros,message/npc_chr007gaku_32_01/000_Sheet1#10,línea larga en el original
+vosotros,message/npc_chr009kako_32_01/000_Sheet1#10,línea larga en el original
+vosotros,message/npc_chr011nozo_32_01/000_Sheet1#10,línea larga en el original
+vosotros,message/npc_chr012kura_32_01/000_Sheet1#10,línea larga en el original
+peninsular,message/npc_chr004daru_07_01/000_Sheet1#10,valer
+peninsular,message/npc_chr007gaku_34_01/000_Sheet1#10,valer
+peninsular,message/npc_chr008ima_07_02/000_Sheet1#20,venga subjuntivo
+peninsular,message/npc_chr013kyo_05_01/000_Sheet1#10,venga subjuntivo
+vosotros,message/npc_chr014yuga_32_01/000_Sheet1#10,línea larga en el original
+peninsular,message/npc_chr015moko_07_01/000_Sheet1#10,venga subjuntivo
+largo,message/g_chr005eito_04/000_Sheet1#20,línea larga en el original
+largo,message/g_chr005eito_04_02/000_Sheet1#20,línea larga en el original
+largo,message/g_chr012kura_01/000_Sheet1#20,línea larga en el original
+vosotros,message/field_common_message/000_Sheet1#201080014,línea larga en el original
+peninsular,message/field_common_message/000_Sheet1#201030106,marcapáginas es válido

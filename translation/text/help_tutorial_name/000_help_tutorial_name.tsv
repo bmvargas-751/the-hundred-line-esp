@@ -1,0 +1,109 @@
+id	huella_jp	es
+100	0a5385d1	Controles básicos
+101	d7459127	AP y fatiga
+102	6803f1c6	Refuerzos
+103	0eb02957	Terminar turno
+104	85258cee	Ataque especial
+105	35d4d26c	Potenciar hemoánima
+106	dc41fb9a	Batallas defensivas
+107	0f373a3a	Elegir el destino
+108	b9917dc3	Ajustar la dirección del ataque
+109	761dc5d4	Girar la cámara
+110	d459b8c5	Agonía y Último recurso
+111	d0da4729	Golpe de gracia a los comandantes
+112	39eeeb3a	Materiales estratégicos
+113	bd50235f	Efectos de la criptoglobina [pasiva]
+114	6590b0ff	Saltar batallas
+115	af7a1589	Shion Bomb
+116	e60e5bb0	Kirifuji y el golpe de gracia
+117	05268005	Efectos de la criptoglobina [ataque especial]
+118	c1bb54df	Habilidades
+119	82c3472b	Muerte de aliados
+120	eb0da902	Bonificación de reintento
+121	03b68bfc	Armadura
+122	4ee2bdaa	Habilidades de especialista
+123	13ee2779	Perforación de armadura
+130	4212cb7f	Mutación de los enemigos
+131	679a2d9a	Autodestrucción de los Darumarr
+132	8c4251eb	Estado alterado: reducción de atributos
+133	2d2c2f71	Estado alterado: Aturdimiento
+134	7a800f42	Estado alterado: Sangrado
+135	7beb75be	Estado alterado: Enfurecido
+136	9002c035	Estado alterado: Lavado de cerebro
+137	0b35f9eb	Actuar
+138	4b0b1691	Habilidades cargadas
+139	a5c0a975	Modo de batalla
+150	0556d073	Ataques sorpresa
+151	41e0eaff	Batallas de recuperación
+152	6725b3fe	Rescates
+153	efdd65b6	El verdadero Aotsuki
+154	56eeb794	Trampa de veneno
+155	c4fbc972	Emergencia
+156	d09ff55a	Absorber criptoglobina
+157	056ed40d	Niebla
+158	aebf4bbe	Ondas alucinógenas
+159	fbb98cd2	Poder heredado
+160	25346771	Retroceso temporal
+180	612f47fb	Takumi Sumino
+181	bb87dd7f	Takemaru Yakushiji
+182	78220f0e	Hiruko Shizuhara
+183	3eca99cc	Darumi Amemiya
+184	acbd76da	Eito Aotsuki
+185	5df22d1e	Tsubasa Kawana
+186	eec02b1b	Gaku Maruko
+187	581c3b8d	Ima Tsukumo
+188	fe32d3ea	Kako Tsukumo
+189	8437dc24	Shouma Ginzaki
+190	ea12e5f9	Nozomi Kirifuji
+191	5250aaf9	Kurara Oosuzuki
+192	df411a38	Kyoshika Magadori
+193	005d1887	Yugamu Omokage
+194	31ee5cfc	Moko Mojiro
+195	283d4541	
+200	444bf65b	Controles básicos: pasillos
+201	746dfea0	Controles básicos: habitaciones
+202	d131ab3e	Moverse por el mapa
+210	8f99b5f7	Menú
+211	c6c15fb8	Viaje rápido
+212	21dbf43b	Selección de capítulo
+220	42583beb	Tiempo libre
+221	5414007f	Actividades estudiantiles
+222	286953ff	Sala de entrenamiento VR
+223	841a4470	Garaje
+224	13a59f3f	Taller metalúrgico y laboratorio biológico
+226	2918633a	Exploración
+227	20383f0d	Aumento del nivel de extinción
+228	683b56c0	Crear regalos
+229	a3cd3d59	Lista de deseos
+230	16d82b0e	Eventos de vínculo
+231	829c9672	Eventos de vínculo con Shion
+232	b65af422	Notas
+233	7c7b74d3	Mejorar el arma de clase
+234	79c495cc	Filtrar regalos
+235	699336a7	Biblioteca
+236	7b06ffb4	Estudio en la biblioteca
+237	7228f23c	Pistas de la lista de deseos
+238	c19648e5	Palabras clave
+300	c06376b3	Decisiones
+301	0cf7b2e1	Preparar una misión de persuasión
+302	a2062272	Misiones de persuasión
+303	042071da	Preparar la cura
+304	16be3515	Construir el telescopio astronómico
+305	cabb186c	Tareas especiales de SIREI
+306	b45e103b	Ayudar con las tareas de cada uno
+311	adaf374c	Bloqueo de historia 1
+312	12f960b4	Bloqueo de historia 2
+313	df383353	Bloqueo de historia 3
+400	2ccabbe4	Formar el equipo
+401	04d84bba	Exploración: lo básico
+402	8c5ad937	Puntos de control
+403	b188bacf	Muro de Llamas Eternas
+404	d6bb2469	Exploraciones de la historia
+405	2504c87f	Habilidades de exploración y exploración rápida
+406	2f70928b	Terminar exploración
+407	e3687653	Cofres del tesoro
+408	eed6afa5	Exploración libre
+410	dde38c2e	Materiales y objetos
+500	1ddf5c03	Ruleta de la cura
+501	45cbf170	Sigilo
+502	28bdb5ff	Sigilo con el dron

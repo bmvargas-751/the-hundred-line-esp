@@ -1,0 +1,44 @@
+id	huella_jp	es
+100	262750f3	Obtener Poción de ataque
+101	1234e0e9	Poción de ataque Lv1 → Lv2
+102	7b3bf7c5	Poción de ataque Lv2 → Lv3
+103	395e707e	Poción de ataque Lv3 → Lv4
+104	1e8eaa27	Poción de ataque Lv4 → Lv5
+105	0e8d56c4	Poción de ataque Lv5 → Lv6
+106	79a139e3	Poción de ataque Lv6 → Lv7
+107	262b23ea	Poción de ataque Lv7 → Lv8
+108	139848df	Poción de ataque Lv8 → Lv9
+109	5adb0edb	Poción de ataque Lv9 → MAX
+200	4cd1167d	Obtener Poción de agilidad
+201	2ca3eece	Poción de agilidad Lv1 → Lv2
+202	1d834401	Poción de agilidad Lv2 → Lv3
+203	822cdeb3	Poción de agilidad Lv3 → Lv4
+204	4d09677b	Poción de agilidad Lv4 → Lv5
+205	a8b8da77	Poción de agilidad Lv5 → Lv6
+206	5aa1c5f9	Poción de agilidad Lv6 → Lv7
+207	c2c8d974	Poción de agilidad Lv7 → Lv8
+208	f97001a2	Poción de agilidad Lv8 → Lv9
+209	19c54f1b	Poción de agilidad Lv9 → MAX
+300	714d5aa5	Obtener Poción de defensa
+301	c3d6af40	Poción de defensa Lv1 → Lv2
+302	27cd4366	Poción de defensa Lv2 → Lv3
+303	db1a60e9	Poción de defensa Lv3 → Lv4
+304	33dce2a1	Poción de defensa Lv4 → Lv5
+305	336cc79d	Poción de defensa Lv5 → Lv6
+306	cfc5c279	Poción de defensa Lv6 → Lv7
+307	a39e9b42	Poción de defensa Lv7 → Lv8
+308	f0b4ccb2	Poción de defensa Lv8 → Lv9
+309	fe4fdaa4	Poción de defensa Lv9 → MAX
+400	f93b8c6d	Obtener Poción de desesperación
+401	70195d29	Poción de desesperación Lv1 → Lv2
+402	6777448f	Poción de desesperación Lv2 → Lv3
+403	3b697714	Poción de desesperación Lv3 → Lv4
+404	a3808bc1	Poción de desesperación Lv4 → Lv5
+405	820e38f2	Poción de desesperación Lv5 → Lv6
+406	e9df2192	Poción de desesperación Lv6 → Lv7
+407	7ab0bcfb	Poción de desesperación Lv7 → Lv8
+408	3d293bda	Poción de desesperación Lv8 → Lv9
+409	3227755c	Poción de desesperación Lv9 → MAX
+500	c9c58aa1	Obtener Panacea poderosa
+501	a7a0d3f7	Panacea poderosa Lv1 → Lv2
+502	b799479b	Panacea poderosa Lv2 → MAX
