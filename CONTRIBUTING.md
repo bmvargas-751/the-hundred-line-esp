@@ -7,6 +7,11 @@ Todo cambio entra por pull request y lo aprueba la persona que mantiene el repos
 La traducción está en `translation/`, por ID de línea, y guarda **solo nuestro texto**: el japonés y el inglés salen de la copia del juego de cada persona (`scripts/extract.sh`).
 `table/` (japonés, inglés y español de cada línea, para revisar) se genera en local con `python3 -I scripts/thl.py table` y **no se sube**: tiene el texto del juego.
 
+## Instalador
+
+`scripts/installer.py` (`install`, `uninstall`, `status`) hace en Python y sin dependencias lo mismo que `extract.sh` + `build.sh` + `install.sh`, y funciona en Windows y en Linux. Es lo que usan los paquetes de las releases. Los `.sh` siguen para trabajar con las traducciones (también extraen el japonés).
+Los dos comparten `backup/installed.sha256`, así que se pueden mezclar.
+
 ## Estructura
 
 ```
@@ -21,6 +26,7 @@ scripts/build.sh        build/es -> dist/*.mvgl
 scripts/install.sh      instala dist/ en el juego (respalda los originales en backup/)
 scripts/uninstall.sh    quita la traducción restaurando los originales
 scripts/get-tools.sh    descarga MVGLToolsCLI v2.2.0 (Linux) en tools/
+scripts/installer.py    instalador multiplataforma (install, uninstall, status)
 ```
 
 Cada `.tsv` tiene una línea por fila traducida del juego, con tres columnas separadas por tabulador:

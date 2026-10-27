@@ -10,8 +10,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import thldatos as td  # noqa: E402
 
 
-def main():
-    dest = Path(sys.argv[1])
+def build(dest):
+    dest = Path(dest)
     shutil.rmtree(dest, ignore_errors=True)
     translated = 0
     for arch in td.ARCHIVES:
@@ -32,7 +32,8 @@ def main():
                     translated += 1
             td.save(out, header, rows.values())
     print(f"filas traducidas (app y patch): {translated}")
+    return translated
 
 
 if __name__ == "__main__":
-    main()
+    build(sys.argv[1])
