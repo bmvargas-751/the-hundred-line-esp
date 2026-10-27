@@ -12,6 +12,17 @@ La traducción está en `translation/`, por ID de línea, y guarda **solo nuestr
 `scripts/installer.py` (`install`, `uninstall`, `status`) hace en Python y sin dependencias lo mismo que `extract.sh` + `build.sh` + `install.sh`, y funciona en Windows y en Linux. Es lo que usan los paquetes de las releases. Los `.sh` siguen para trabajar con las traducciones (también extraen el japonés).
 Los dos comparten `backup/installed.sha256`, así que se pueden mezclar.
 
+## Publicar una release
+
+```
+python3 -I scripts/make-release.py v0.1.1      # -> dist/release/THL-ESP-v0.1.1-windows.zip y -linux.tar.gz
+```
+
+Cada paquete se descomprime dentro de la carpeta del juego y trae el instalador, la traducción, MVGLTools (con su licencia) y los lanzadores
+`INSTALAR` / `DESINSTALAR` (Windows trae también Python embebido). No incluye el juego ni los `.mvgl` traducidos: el instalador los arma con la copia de cada persona.
+Las descargas (MVGLTools, Python) se verifican contra los hashes fijados en el script. Se suben con `gh release create` / `gh release upload`.
+Antes de publicar, probar `INSTALAR` y `DESINSTALAR` en Windows y en Steam Deck.
+
 ## Estructura
 
 ```
@@ -27,6 +38,7 @@ scripts/install.sh      instala dist/ en el juego (respalda los originales en ba
 scripts/uninstall.sh    quita la traducción restaurando los originales
 scripts/get-tools.sh    descarga MVGLToolsCLI v2.2.0 (Linux) en tools/
 scripts/installer.py    instalador multiplataforma (install, uninstall, status)
+scripts/make-release.py arma los paquetes de Windows y Linux de una release
 ```
 
 Cada `.tsv` tiene una línea por fila traducida del juego, con tres columnas separadas por tabulador:
