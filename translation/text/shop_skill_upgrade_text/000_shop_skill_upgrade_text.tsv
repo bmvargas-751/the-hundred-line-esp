@@ -1,15 +1,15 @@
 id	huella_jp	es
-1001111	55a6fe44	 {fc(67ffe0)Side Slash disponible}
+1001111	55a6fe44	 {fc(67ffe0)Tajo lateral disponible}
 1001112	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1001113	1753be93	 {fc(67ffe0)Movimiento +1}
 1001114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1001115	8df0abf9	 {fc(67ffe0)Ataque +1}
-1001121	0eea325c	 {fc(67ffe0)Impact Stab disponible}
+1001121	0eea325c	 {fc(67ffe0)Estocada de impacto disponible}
 1001122	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1001123	1753be93	 {fc(67ffe0)Movimiento +1}
 1001124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1001125	8df0abf9	 {fc(67ffe0)Ataque +1}
-1001131	04e5f3b8	 {fc(67ffe0)Air Blade disponible}
+1001131	04e5f3b8	 {fc(67ffe0)Cuchilla de aire disponible}
 1001132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1001133	471a8774	 {fc(67ffe0)Alcance +1}
 1001134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -74,22 +74,22 @@ id	huella_jp	es
 1005133	1753be93	 {fc(67ffe0)Movimiento +1}
 1005134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1005135	8df0abf9	 {fc(67ffe0)Ataque +1}
-1006111	a9b43507	 {fc(67ffe0)Death Drive disponible}
+1006111	a9b43507	 {fc(67ffe0)Pulsión de muerte disponible}
 1006112	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1006113	1753be93	 {fc(67ffe0)Movimiento +1}
 1006114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1006115	8df0abf9	 {fc(67ffe0)Ataque +1}
-1006121	b11f50fc	 {fc(67ffe0)Accelerate disponible}
+1006121	b11f50fc	 {fc(67ffe0)Acelerar disponible}
 1006122	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1006123	1753be93	 {fc(67ffe0)Movimiento +1}
 1006124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1006125	7875480c	 {fc(67ffe0)Movimiento +10 → +15}
-1006131	81410961	 {fc(67ffe0)Decelerate disponible}
+1006131	81410961	 {fc(67ffe0)Desacelerar disponible}
 1006132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1006133	1753be93	 {fc(67ffe0)Movimiento +1}
 1006134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1006135	ee029dff	 {fc(67ffe0)Ataque +1 → +2\nArmadura +3 → +4}
-1007111	e67417fc	 {fc(67ffe0)Crazy Shot disponible}
+1007111	e67417fc	 {fc(67ffe0)Disparo loco disponible}
 1007112	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1007113	1753be93	 {fc(67ffe0)Movimiento +1}
 1007114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -99,7 +99,7 @@ id	huella_jp	es
 1007123	1753be93	 {fc(67ffe0)Movimiento +1}
 1007124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1007125	f67a74a0	 {fc(67ffe0)Ataque +1 → +2\nVOLTAGE: grande → enorme}
-1007131	6955966d	 {fc(67ffe0)Blood Hunting disponible}
+1007131	6955966d	 {fc(67ffe0)Cacería de sangre disponible}
 1007132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1007133	1753be93	 {fc(67ffe0)Movimiento +1}
 1007134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -119,17 +119,17 @@ id	huella_jp	es
 1008133	1753be93	 {fc(67ffe0)Movimiento +1}
 1008134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1008135	8df0abf9	 {fc(67ffe0)Ataque +1}
-1009111	fe2852d0	 {fc(67ffe0)Energy Sniper disponible}
+1009111	fe2852d0	 {fc(67ffe0)Francotirador de energía disponible}
 1009112	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1009113	471a8774	 {fc(67ffe0)Alcance +1}
 1009114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1009115	8df0abf9	 {fc(67ffe0)Ataque +1}
-1009121	6b2574c5	 {fc(67ffe0)Spirit Rain disponible}
+1009121	6b2574c5	 {fc(67ffe0)Lluvia espiritual disponible}
 1009122	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1009123	471a8774	 {fc(67ffe0)Alcance +1}
 1009124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1009125	8df0abf9	 {fc(67ffe0)Ataque +1}
-1009131	3cc264bd	 {fc(67ffe0)Hellfire disponible}
+1009131	3cc264bd	 {fc(67ffe0)Fuego infernal disponible}
 1009132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1009133	1753be93	 {fc(67ffe0)Movimiento +1}
 1009134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -144,7 +144,7 @@ id	huella_jp	es
 1010123	1753be93	 {fc(67ffe0)Movimiento +1}
 1010124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1010125	07456d92	 {fc(67ffe0)Armadura +2 → +3}
-1010131	2e1ba3e3	 {fc(67ffe0)Omega Punch disponible}
+1010131	2e1ba3e3	 {fc(67ffe0)Puñetazo Omega disponible}
 1010132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1010133	1753be93	 {fc(67ffe0)Movimiento +1}
 1010134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -164,7 +164,7 @@ id	huella_jp	es
 1011133	471a8774	 {fc(67ffe0)Alcance +1}
 1011134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1011135	7fcd9af2	 {fc(67ffe0)Ataque +1 → +2\nMovimiento +5 → +6}
-1012111	ec5c552e	 {fc(67ffe0)Oosuzuki Nightmare disponible}
+1012111	ec5c552e	 {fc(67ffe0)Pesadilla Oosuzuki disponible}
 1012112	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1012113	1753be93	 {fc(67ffe0)Movimiento +1}
 1012114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}

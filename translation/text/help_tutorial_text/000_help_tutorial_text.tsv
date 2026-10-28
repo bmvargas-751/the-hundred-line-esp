@@ -1,10 +1,10 @@
 id	huella_jp	es
 10001	b0f51691	Pon el cursor sobre un personaje y presiona {keyhelp(27)} para {fc(ff0000)Actuar}.
-13701	d50974ff	Al elegir Actuar, se abre la lista de habilidades. Para empezar, elige {fc(ff0000)Side Slash}.
+13701	d50974ff	Al elegir Actuar, se abre la lista de habilidades. Para empezar, elige {fc(ff0000)Tajo lateral}.
 13711	5db15d53	Al elegir Actuar, se abre la lista de habilidades.
 11801	e01509ea	Las casillas básicas son estas:\n　{fc(00ff00)Casillas verdes}: zona a la que puedes moverte\n　{fc(ff0000)Casillas rojas}: zona que puedes atacar
 11802	c9f6f065	Después de elegir una habilidad, si eliges una {fc(ff0000)casilla roja}, {fc(ff0000)te mueves y atacas a la vez}.
-11803	5010f231	Las {fc(ffff00)casillas amarillas} son el {fc(ff0000)área de ataque} de Side Slash. Pon el cursor sobre la {fc(00ff00)marca !} y ataca a cinco enemigos a la vez.
+11803	5010f231	Las {fc(ffff00)casillas amarillas} son el {fc(ff0000)área de ataque} del Tajo lateral. Pon el cursor sobre la {fc(00ff00)marca !} y ataca a cinco enemigos a la vez.
 11813	03ca1ee9	Las {fc(ffff00)casillas amarillas} son el {fc(ff0000)área de efecto} de la habilidad. Intenta alcanzar a la mayor cantidad posible de enemigos.
 10101	d4318aea	Al usar una habilidad, gastas {fc(ff0000)AP}, que se ven arriba a la izquierda. Durante el turno puedes actuar todas las veces que quieras {fc(ff0000)hasta quedarte sin AP}.
 10102	c4c291d9	Los AP {fc(ff0000)se recuperan cada turno} y también se obtienen al derrotar a ciertos enemigos.
@@ -34,7 +34,7 @@ id	huella_jp	es
 11213	f449ddb6	Los Darumarr y los Tubrillas {fc(ff0000)atacan primero los objetos colocados}. Las vallas metálicas {fc(ff0000)son más eficaces si las colocas para proteger la base}.
 11301	1c22891f	Al absorber la criptoglobina del bebé, se desbloqueó la habilidad de especialista de Sumino, {fc(ff0000)Revancha especial}. Cada vez que muere un aliado, su ataque sube durante la WAVE.
 11401	3408102c	Si ya superaste una batalla parecida en otra ruta, puedes saltarla y {fc(ff0000)ver solo el evento}.
-11501	ed1b3c5a	Con {keyhelp(74)} ya puedes usar la {fc(ff0000)Shion Bomb}. Se lanza {fc(ff0000)gastando 300 % de VOLTAGE}.\n*Solo se puede usar en ciertas batallas.
+11501	ed1b3c5a	Con {keyhelp(74)} ya puedes usar la {fc(ff0000)Bomba Shion}. Se lanza {fc(ff0000)gastando 300 % de VOLTAGE}.\n*Solo se puede usar en ciertas batallas.
 11601	820b6eb7	Nozomi Kirifuji no logra controlar bien su hemoánima, así que {fc(ff0000)no puede participar en el golpe de gracia}.
 12001	95dde2d0	Al repetir una batalla, puedes recibir una bonificación de reintento.
 12101	50f8d64b	La {fc(ff0000)armadura} es una {fc(ff0000)resistencia temporal} que recibe el daño en lugar del HP y solo dura ese turno.
@@ -85,7 +85,7 @@ id	huella_jp	es
 18502	0899586f	Su habilidad de especialista es {fc(ff0000)Mecánica especial}.\nPor más que actúe, {fc(ff0000)nunca sufre fatiga}.
 18601	07f97d19	Gaku Maruko es un atacante de media distancia que {fc(ff0000)destaca en arrasar zonas amplias}.
 18602	cad29ee2	Su habilidad de especialista es {fc(ff0000)Vibra especial}.\n{fc(ff0000)Con 100 % o más de VOLTAGE, obtiene Ataque +1}.
-18701	a493fe17	Ima Tsukumo frena el avance enemigo con {fc(ff0000)Push} y atraviesa a los enemigos con {fc(ff0000)Vuelo}: es un atacante {fc(ff0000)con mucha movilidad}.
+18701	a493fe17	Ima Tsukumo frena el avance enemigo con {fc(ff0000)Empuje} y atraviesa a los enemigos con {fc(ff0000)Vuelo}: es un atacante {fc(ff0000)con mucha movilidad}.
 18702	efe41a77	Su habilidad de especialista es {fc(ff0000)Mala conducta especial}.\n{fc(ff0000)Si Kako queda en agonía, obtiene Ataque +2}.
 18801	6dacbace	Kako Tsukumo es una atacante a distancia que {fc(ff0000)destaca como francotiradora}.
 18802	3cfc595f	Su habilidad de especialista es {fc(ff0000)Buena conducta especial}.\n{fc(ff0000)Si ataca sin moverse, obtiene Ataque +3}.\n¡Espera con paciencia y acaba con el enemigo de un disparo!

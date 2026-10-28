@@ -1,19 +1,19 @@
 id	huella_jp	es
-1001111	94b9ae3e	Obtener Side Slash
-1001112	cd401d45	Side Slash Lv1 → Lv2
-1001113	fb42a49c	Side Slash Lv2 → Lv3
-1001114	0392f78f	Side Slash Lv3 → Lv4
-1001115	bdb7b0d0	Side Slash Lv4 → MAX
-1001121	f0df9382	Obtener Impact Stab
-1001122	9f88a7b8	Impact Stab Lv1 → Lv2
-1001123	b57c174a	Impact Stab Lv2 → Lv3
-1001124	9cf211ab	Impact Stab Lv3 → Lv4
-1001125	bf60e83f	Impact Stab Lv4 → MAX
-1001131	06402680	Obtener Air Blade
-1001132	c5949413	Air Blade Lv1 → Lv2
-1001133	f84634bd	Air Blade Lv2 → Lv3
-1001134	02df937d	Air Blade Lv3 → Lv4
-1001135	934c1b48	Air Blade Lv4 → MAX
+1001111	94b9ae3e	Obtener Tajo lateral
+1001112	cd401d45	Tajo lateral Lv1 → Lv2
+1001113	fb42a49c	Tajo lateral Lv2 → Lv3
+1001114	0392f78f	Tajo lateral Lv3 → Lv4
+1001115	bdb7b0d0	Tajo lateral Lv4 → MAX
+1001121	f0df9382	Obtener Estocada de impacto
+1001122	9f88a7b8	Estocada de impacto Lv1 → Lv2
+1001123	b57c174a	Estocada de impacto Lv2 → Lv3
+1001124	9cf211ab	Estocada de impacto Lv3 → Lv4
+1001125	bf60e83f	Estocada de impacto Lv4 → MAX
+1001131	06402680	Obtener Cuchilla de aire
+1001132	c5949413	Cuchilla de aire Lv1 → Lv2
+1001133	f84634bd	Cuchilla de aire Lv2 → Lv3
+1001134	02df937d	Cuchilla de aire Lv3 → Lv4
+1001135	934c1b48	Cuchilla de aire Lv4 → MAX
 1002111	fb860b6d	Obtener ¡Fuera de mi camino!
 1002112	de10ddcf	¡Fuera de mi camino! Lv1 → Lv2
 1002113	10c7f6fe	¡Fuera de mi camino! Lv2 → Lv3
@@ -74,36 +74,36 @@ id	huella_jp	es
 1005133	1271794f	Verdugo Lv2 → Lv3
 1005134	61e8fecb	Verdugo Lv3 → Lv4
 1005135	d701fba3	Verdugo Lv4 → MAX
-1006111	5502ea3a	Obtener Death Drive
-1006112	7b20949d	Death Drive Lv1 → Lv2
-1006113	e49ceac4	Death Drive Lv2 → Lv3
-1006114	10cf0d08	Death Drive Lv3 → Lv4
-1006115	030915de	Death Drive Lv4 → MAX
-1006121	7743f017	Obtener Accelerate
-1006122	efc26992	Accelerate Lv1 → Lv2
-1006123	7109b3e2	Accelerate Lv2 → Lv3
-1006124	e26763ac	Accelerate Lv3 → Lv4
-1006125	07d86fe7	Accelerate Lv4 → MAX
-1006131	237db654	Obtener Decelerate
-1006132	8c796292	Decelerate Lv1 → Lv2
-1006133	f1873951	Decelerate Lv2 → Lv3
-1006134	c5178a64	Decelerate Lv3 → Lv4
-1006135	593bb311	Decelerate Lv4 → MAX
-1007111	714d7880	Obtener Crazy Shot
-1007112	7d73b420	Crazy Shot Lv1 → Lv2
-1007113	4817f2cc	Crazy Shot Lv2 → Lv3
-1007114	2e438924	Crazy Shot Lv3 → Lv4
-1007115	5d5620d8	Crazy Shot Lv4 → MAX
+1006111	5502ea3a	Obtener Pulsión de muerte
+1006112	7b20949d	Pulsión de muerte Lv1 → Lv2
+1006113	e49ceac4	Pulsión de muerte Lv2 → Lv3
+1006114	10cf0d08	Pulsión de muerte Lv3 → Lv4
+1006115	030915de	Pulsión de muerte Lv4 → MAX
+1006121	7743f017	Obtener Acelerar
+1006122	efc26992	Acelerar Lv1 → Lv2
+1006123	7109b3e2	Acelerar Lv2 → Lv3
+1006124	e26763ac	Acelerar Lv3 → Lv4
+1006125	07d86fe7	Acelerar Lv4 → MAX
+1006131	237db654	Obtener Desacelerar
+1006132	8c796292	Desacelerar Lv1 → Lv2
+1006133	f1873951	Desacelerar Lv2 → Lv3
+1006134	c5178a64	Desacelerar Lv3 → Lv4
+1006135	593bb311	Desacelerar Lv4 → MAX
+1007111	714d7880	Obtener Disparo loco
+1007112	7d73b420	Disparo loco Lv1 → Lv2
+1007113	4817f2cc	Disparo loco Lv2 → Lv3
+1007114	2e438924	Disparo loco Lv3 → Lv4
+1007115	5d5620d8	Disparo loco Lv4 → MAX
 1007121	4d67c86b	Obtener ¡Acábalos!
 1007122	fc17deac	¡Acábalos! Lv1 → Lv2
 1007123	76b0b024	¡Acábalos! Lv2 → Lv3
 1007124	8e09df13	¡Acábalos! Lv3 → Lv4
 1007125	2f0b7607	¡Acábalos! Lv4 → MAX
-1007131	15289ceb	Obtener Blood Hunting
-1007132	7ed9efac	Blood Hunting Lv1 → Lv2
-1007133	9edba9cb	Blood Hunting Lv2 → Lv3
-1007134	66be4965	Blood Hunting Lv3 → Lv4
-1007135	a35fd32b	Blood Hunting Lv4 → MAX
+1007131	15289ceb	Obtener Cacería de sangre
+1007132	7ed9efac	Cacería de sangre Lv1 → Lv2
+1007133	9edba9cb	Cacería de sangre Lv2 → Lv3
+1007134	66be4965	Cacería de sangre Lv3 → Lv4
+1007135	a35fd32b	Cacería de sangre Lv4 → MAX
 1008111	0384ec3c	Obtener Martillo de un ala
 1008112	d5c106e8	Martillo de un ala Lv1 → Lv2
 1008113	e5bf22b9	Martillo de un ala Lv2 → Lv3
@@ -119,21 +119,21 @@ id	huella_jp	es
 1008133	c0fc1025	Enfrentamiento aéreo Lv2 → Lv3
 1008134	bb87b9a1	Enfrentamiento aéreo Lv3 → Lv4
 1008135	0e391506	Combate aéreo Lv4 → MAX
-1009111	d90d9583	Obtener Energy Sniper
-1009112	f4c63284	Energy Sniper Lv1 → Lv2
-1009113	ec5d23f9	Energy Sniper Lv2 → Lv3
-1009114	d37914d2	Energy Sniper Lv3 → Lv4
-1009115	87c1d413	Energy Sniper Lv4 → MAX
-1009121	e840ea46	Obtener Spirit Rain
-1009122	8933b36f	Spirit Rain Lv1 → Lv2
-1009123	37d154dc	Spirit Rain Lv2 → Lv3
-1009124	f0af835d	Spirit Rain Lv3 → Lv4
-1009125	dc3288ad	Spirit Rain Lv4 → MAX
-1009131	0974bea0	Obtener Hellfire
-1009132	08ff5341	Hellfire Lv1 → Lv2
-1009133	2a8559e5	Hellfire Lv2 → Lv3
-1009134	a63fd20e	Hellfire Lv3 → Lv4
-1009135	c39a2c12	Hellfire Lv4 → MAX
+1009111	d90d9583	Obtener Francotirador de energía
+1009112	f4c63284	Francotirador de energía Lv1 → Lv2
+1009113	ec5d23f9	Francotirador de energía Lv2 → Lv3
+1009114	d37914d2	Francotirador de energía Lv3 → Lv4
+1009115	87c1d413	Francotirador de energía Lv4 → MAX
+1009121	e840ea46	Obtener Lluvia espiritual
+1009122	8933b36f	Lluvia espiritual Lv1 → Lv2
+1009123	37d154dc	Lluvia espiritual Lv2 → Lv3
+1009124	f0af835d	Lluvia espiritual Lv3 → Lv4
+1009125	dc3288ad	Lluvia espiritual Lv4 → MAX
+1009131	0974bea0	Obtener Fuego infernal
+1009132	08ff5341	Fuego infernal Lv1 → Lv2
+1009133	2a8559e5	Fuego infernal Lv2 → Lv3
+1009134	a63fd20e	Fuego infernal Lv3 → Lv4
+1009135	c39a2c12	Fuego infernal Lv4 → MAX
 1010111	0a127712	Obtener Modo defensa
 1010112	bdfdd389	Modo defensa Lv1 → Lv2
 1010113	32a4aa1a	Modo defensa Lv2 → Lv3
@@ -144,11 +144,11 @@ id	huella_jp	es
 1010123	fce52e28	Señal de agresión Lv2 → Lv3
 1010124	2d89d22a	Señal de agresión Lv3 → Lv4
 1010125	fa3de976	Señal de agresión Lv4 → MAX
-1010131	0d84b869	Obtener Omega Punch
-1010132	bf0e78d0	Omega Punch Lv1 → Lv2
-1010133	ad504354	Omega Punch Lv2 → Lv3
-1010134	71b140da	Omega Punch Lv3 → Lv4
-1010135	caf3c2e0	Omega Punch Lv4 → MAX
+1010131	0d84b869	Obtener Puñetazo Omega
+1010132	bf0e78d0	Puñetazo Omega Lv1 → Lv2
+1010133	ad504354	Puñetazo Omega Lv2 → Lv3
+1010134	71b140da	Puñetazo Omega Lv3 → Lv4
+1010135	caf3c2e0	Puñetazo Omega Lv4 → MAX
 1011111	d8a56648	Obtener Bala de rescate
 1011112	b77acc89	Bala de rescate Lv1 → Lv2
 1011113	418ebcd7	Bala de rescate Lv2 → Lv3
@@ -164,11 +164,11 @@ id	huella_jp	es
 1011133	efe88db0	Bala de refuerzo Lv2 → Lv3
 1011134	a1fae619	Bala de refuerzo Lv3 → Lv4
 1011135	8b41b57c	Bala de refuerzo Lv4 → MAX
-1012111	4fe1d764	Obtener Oosuzuki Nightmare
-1012112	f1875bcc	Oosuzuki Nightmare Lv1 → Lv2
-1012113	544f1768	Oosuzuki Nightmare Lv2 → Lv3
-1012114	09f24464	Oosuzuki Nightmare Lv3 → Lv4
-1012115	410271c8	Oosuzuki Nightmare Lv4 → MAX
+1012111	4fe1d764	Obtener Pesadilla Oosuzuki
+1012112	f1875bcc	Pesadilla Oosuzuki Lv1 → Lv2
+1012113	544f1768	Pesadilla Oosuzuki Lv2 → Lv3
+1012114	09f24464	Pesadilla Oosuzuki Lv3 → Lv4
+1012115	410271c8	Pesadilla Oosuzuki Lv4 → MAX
 1012121	408c9de3	Obtener Construir torreta montada
 1012122	f9abc20c	Construir torreta montada Lv1 → Lv2
 1012123	f7c14699	Construir torreta montada Lv2 → Lv3
