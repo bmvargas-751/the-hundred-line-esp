@@ -1,91 +1,91 @@
 id	huella_jp	es
-10	c8d91db4	Shouma, ¿es cierto que te volviste a acordar de algo?
-20	d5c142d5	Ah, eh...
-30	1fd1af4e	Oigan, ¿no era que al final era solo un sueño? El Sr. Ginzaki también estuvo de acuerdo con eso.
-40	2bfcdbc9	Eso... es que...
-50	54c66905	En ese momento es cierto que quedó así, pero Shouma no estaba convencido...
-60	f61c57c8	Parece que solo les siguió la corriente a todos. Porque así se evitaba una discusión.
-70	c0734c48	¿Ah? ¡¿Qué es eso?!
-80	70c60793	¡P-Perdón! ¡Es que no quería discutir con ustedes... y lo hice sin pensar!
-90	21be1d6e	...Es que odio las peleas más de lo que odio comer tres veces al día.
-100	e2a01005	Bueno, me lo imaginaba... ¿Pero "comer tres veces al día" no es algo bueno?
-110	56bb4531	Entonces... ¿lo que contó antes tampoco era un sueño? ¿Pasó de verdad...?
-120	29dc5d57	Los sueños... en cuanto te despiertas, te das cuenta enseguida de que eran un sueño, ¿no?
-130	41efadaf	Los sueños y los recuerdos son las dos {fc(ff635b)"imágenes que aparecen en la cabeza"}, pero hay una diferencia clara entre ellos...
-140	1183b9e6	Creo que ustedes sienten lo mismo. Y teniendo eso en cuenta, la imagen que me apareció en la cabeza...
-150	f09b226d	...no tengo dudas. No puedo pensar que sea otra cosa que un recuerdo.
-160	af3db6f3	Oigan, ¿de qué hablan hace rato?
-170	c0d66eb8	Cállate... nosotros tampoco entendemos.
-180	cc7f2d1d	Entonces... ¿de qué te acordaste, Shouma? Por ahora, cuéntanos eso.
-190	c9234ecf	Lo de antes era... que estabas en algún hospital y te metieron en un aparato misterioso, ¿no?
-200	77f7b79a	Creo que... ¿Hospital General Kamukura, dijiste?
-210	5b8d7982	¿Eh?
-220	db35b5f4	...¿Doña Nozomi? ¿Le ocurre algo?
-230	adb96c84	Ah, no... no es nada.
-240	7c39ecec	Y encima, ese aparato misterioso es igual a los aparatos misteriosos de esta academia, ¿no?
-250	d44cd4ab	Sí. Ese fue el primer recuerdo que me vino.
-260	7d0394fc	No sé por qué en ese hospital y en esta academia hay los mismos aparatos, pero...
-270	0fbe9d8a	...¿y ahora de qué te acordaste?
-280	544b6c00	S-Sí. De lo que me acordé tiene que ver justamente con eso...
-290	dbfd7b2e	Es el motivo por el que me metieron en ese aparato en el Hospital General Kamukura. Por fin me acordé de eso...
+10	c8d91db4	¿Es cierto, Shouma? ¿Recordaste algo?
+20	d5c142d5	B-Bueno, yo...
+30	1fd1af4e	Pensé que habíamos quedado en que los sueños del señor Ginzaki no eran para preocuparse. Él mismo lo dijo.
+40	2bfcdbc9	Bueno, yo...
+50	54c66905	La primera vez fue fácil descartarlo como una casualidad. Pero ahora volvió a pasar. Shouma tiene más que decir.
+60	f61c57c8	Quiere que todos lo escuchen para que estemos en igualdad de condiciones y no peleemos por esto después.
+70	c0734c48	¿Esa es su excusa para hacernos perder el tiempo?
+80	70c60793	¡Perdón! Pero no quiero que parezca que le oculto esto a nadie. Guardar secretos siempre lleva tarde o temprano a conflictos...
+90	21be1d6e	¡Y odio los conflictos más de lo que odio comer tres comidas al día!
+100	e2a01005	Sí, se nota... ¿Pero "tres comidas al día" no se supone que es algo {fc(ff635b)bueno}?
+110	56bb4531	Entonces, ¿tu sueño de antes en realidad no era un sueño? ¿Pasó de verdad?
+120	29dc5d57	Normalmente, cuando uno despierta de un sueño, se da cuenta enseguida de que ERA un sueño...
+130	41efadaf	Los recuerdos no son así... O sea, ambos son {fc(ff635b)imágenes en nuestra mente}, pero hay una diferencia clara entre los dos.
+140	1183b9e6	Estoy seguro de que todos pueden distinguir entre sueños y recuerdos, y yo también.
+150	f09b226d	Por eso puedo decir con certeza... que esto fue un recuerdo.
+160	af3db6f3	¿Les importaría ponernos al tanto de la historia?
+170	c0d66eb8	¡Cállate y escucha! Nosotros tampoco entendemos...
+180	cc7f2d1d	¿Qué has recordado hasta ahora, Shouma? Quizás convenga repasarlo.
+190	c9234ecf	La última vez dijiste que estabas conectado a una máquina rara en un hospital extraño.
+200	77f7b79a	¿Cómo se llamaba...? ¿Kamukura?
+210	5b8d7982	¿Eh...?
+220	db35b5f4	¿Doña Nozomi? ¿Le ocurre algo?
+230	adb96c84	O-Oh, no es nada...
+240	7c39ecec	Y esas máquinas son las mismas que tenemos aquí, ¿no? Las que no logramos hacer funcionar.
+250	d44cd4ab	Sí. Creo que eso cubre todo lo de mi último recuerdo.
+260	7d0394fc	Todavía no sabemos para qué sirven esas máquinas, ni por qué estaban tanto en el hospital como aquí en la escuela...
+270	0fbe9d8a	¿Recordaste algo que pueda ayudar con eso?
+280	544b6c00	Sí... Creo que lo que recordé esta vez podría explicar mucho de eso.
+290	dbfd7b2e	Esta vez... recordé por qué me metieron en esas máquinas en el Hospital General Kamukura.
 300	10e58171	Era... algún tipo de experimento.
-310	d5a1521b	Parece que yo era el sujeto de prueba de {fc(ff635b)"cierta investigación"} que hacían en el Hospital General Kamukura.
-320	1e44a6cc	¿Cierta... investigación?
-330	14d31368	En ese momento tenía la conciencia nublada, así que no lo entendí muy bien, pero...
-340	92c1ac85	unos investigadores con bata blanca me miraban mientras estaba dentro del aparato.
-350	1e8f43c6	Y parecía que hablaban de mi sangre...
-360	d32fe2b4	...¿Sangre?
-370	8246c1d3	Sí. Algo sobre la {fc(ff635b)"sangre especial"} que tengo en el cuerpo... Alcancé a oír que hablaban de eso.
-380	f99399c3	¿No me digas que esa sangre especial es... la hemoánima?
-390	706b960b	Pero se suponía que la hemoánima convierte toda la sangre del cuerpo en poder cuando te clavas el Infuser, ¿no...?
-400	930a4ce1	Lo de la sangre especial no tendría nada que ver... en teoría.
+310	d5a1521b	El hospital estaba haciendo una investigación sobre... {fc(ff635b)algo}. Y-Y yo era un sujeto de investigación.
+320	1e44a6cc	¿Qué investigaban?
+330	14d31368	Esa parte todavía está algo borrosa... No creo poder recordarla aún.
+340	92c1ac85	Pero... recuerdo que alguien con bata blanca me miraba desde fuera de la máquina.
+350	1e8f43c6	Y dijeron algo... Algo sobre mi sangre.
+360	d32fe2b4	¿Tu sangre?
+370	8246c1d3	No oía bien por el vidrio de por medio... Pero sonó como si dijeran que había algo {fc(ff635b)especial en mi sangre}.
+380	f99399c3	Sangre especial... ¿Creen que tiene algo que ver con la hemoánima?
+390	706b960b	Pero la hemoánima viene de los Infusers. Nuestra sangre es solo el medio que usa para manifestarse.
+400	930a4ce1	No debería importar si la sangre de alguien es especial o no... ¿O sí?
 410	f4a72a8b	
-420	082f6331	No entiendo mucho, pero... ¿por el cuerpo de Shouma corre sangre especial?
-430	70858f91	No lo entiendo bien... pero parece que sí.
-440	c6aeda82	¡¿Cómo que ni tú mismo lo entiendes bien?!
-450	f16cddbc	Es que... en ese momento yo también estaba medio inconsciente, y no pude escuchar bien...
-460	0d6fd64f	...Pero eso no es todo. ¿Verdad, Shouma?
-470	fa799c40	S-Sí... la verdad es que me acordé de otra cosa más...
-480	de62e717	En el Hospital General Kamukura, el que estaba metido en el aparato misterioso no era solo yo...
-490	00f817a3	también... todos los que están aquí.
-500	257ff880	...¿Eh?
-510	8f296eff	A todos ustedes también, igual que a mí, los metieron en el aparato misterioso del Hospital General Kamukura...
-520	b1f7cb89	y eran sujetos de prueba de {fc(ff635b)"cierta investigación"}. Cierta investigación... sobre la {fc(ff635b)"sangre especial"} que tenemos en el cuerpo.
-530	56bf9bff	¿Q-Qué estás diciendo? ¿Que a nosotros también... nos metieron en el aparato?
-540	8a6d4927	Eso... ¿a mí también?
-550	6b022468	Sí. Creo que... estaban todos los que estamos aquí. Aunque no pude comprobarlo uno por uno.
+420	082f6331	¿O sea que tu sangre es distinta a la de la gente normal, Shouma? ¿Tienes un conteo de midiclorianos altísimo o algo así?
+430	70858f91	No sé eso... Pero parece que es distinta, al menos.
+440	c6aeda82	¿Cómo que no sabes? ¡Estamos hablando de tu propio cuerpo!
+450	f16cddbc	Como dije, el recuerdo todavía es algo borroso, y yo apenas estaba despierto en ese momento...
+460	0d6fd64f	Había otra cosa. ¿Verdad, Shouma?
+470	fa799c40	S-Sí, recordé algo más.
+480	de62e717	El hospital tenía más de una de esas máquinas. No fui el único al que metieron en una...
+490	00f817a3	Ustedes también estaban.
+500	257ff880	¿Qué...?
+510	8f296eff	Todos ustedes estaban en esas máquinas en el Hospital General Kamukura, igual que yo.
+520	b1f7cb89	Debimos ser todos sujetos de investigación del mismo {fc(ff635b)experimento}. Todos tenemos el mismo {fc(ff635b)tipo especial de sangre}...
+530	56bf9bff	Viejo, ¿de qué hablas? ¿Nosotros... en esas máquinas...?
+540	8a6d4927	¿Eso incluye también a nuestro grupo?
+550	6b022468	Sí... No vi con claridad todas las máquinas, pero estoy bastante seguro de que todos los que estamos aquí también estaban allí.
 560	f4a72a8b	
-570	7a334206	¡No, ¿qué estás diciendo?! ¡Todos nos conocimos por primera vez en esta academia!
-580	707cd9fc	¡Que antes de eso estuviéramos en el mismo hospital es imposible!
-590	8c2dce47	Parece que ustedes estaban inconscientes, así que quizás no se acuerden, pero...
-600	e873e27a	yo, no sé por qué, tenía la conciencia un poco despierta... Gracias a eso, parece que me quedó en la memoria.
-610	a02f74f4	Por eso, no hay duda. A todos nos metieron en el aparato misterioso del Hospital General Kamukura...
-620	f127f3b4	y fuimos sujetos de prueba de cierta investigación. Antes de venir a esta academia.
-630	3a861948	Pero yo nunca oí hablar del Hospital General Kamukura, y para empezar, ¿nunca estuve internada?
-640	a8905566	¡Yo tampoco! ¡Los hospitales cuestan dinero, yo no voy!
-650	818a1f45	Yo tampoco; lo mío es tener una salud de hierro y querer a mi hermana.
-660	e8fb9bfd	Lo de querer a tu hermana... no hacía falta decirlo ahora...
-670	8391ca1a	¡¿Ven?! ¡No tiene sentido! ¡¿Cuándo nos habrían metido en ese hospital?!
-680	43a97f01	No... ¿y si fue en {fc(ff635b)"aquel momento"}? Justo después de pelear contra los invasores en el Complejo Residencial de Tokio.
-690	1a0b5baf	Aquella vez, después de pelear contra los invasores, de repente perdí el conocimiento...
-700	f323a88b	...con una sensación extraña. A todos les pasó lo mismo, ¿no?
-710	a185d6bb	Y cuando nos despertamos, estábamos en un salón de esta academia...
-720	c5633199	Yo pensaba que fue justo después de desmayarme en el Complejo Residencial de Tokio, pero quizás no...
-730	5696764e	Quizás en realidad pasó una semana o un mes en el medio, y nosotros estuvimos en ese hospital todo ese tiempo...
-740	702f1d39	¡Eso lo escuché en algún juego mortal!
-750	bcec9aa8	...Pero ¿no creen que es posible? No, más bien, ¿no es lo único que tiene sentido?
-760	8e3a861a	E-Entonces... ¿qué nos hicieron en ese hospital?
-770	2bd56c67	Esa es la cuestión. Una investigación sobre sangre especial... ¿tendrá que ver con la hemoánima?
-780	175608bb	Sí. Si estábamos todos los de aquí, no puede ser otra cosa...
-790	b8d26c0d	¡Ay, ya basta! ¡Se acabó!
-800	58c2de1d	{fc(57e4f1)De pronto, un grito furioso resonó en la cafetería.}
-810	ff3b3bf5	¡¿Ustedes son basura que hace ruido o qué?! Hace rato que no paran de soltar delirios estúpidos...
-820	2ac3d2f8	¡A mí me importa un carajo!
-830	8f0ea0d3	¿Eh? Pero... ¡a lo mejor podemos descubrir el secreto de la hemoánima!
-840	1f76abd4	Pero lo importante no lo recuerda, ¿no? Entonces no me parece información que sirva de algo.
-850	300f2395	Además, ¿cómo vamos a creer lo que dice alguien así? No me ensucien los oídos con delirios estúpidos.
+570	7a334206	¡Estás loco, viejo! La primera vez que vi a cualquiera de ustedes fue cuando desperté aquí en la academia.
+580	707cd9fc	¿Dices que todos nos conocimos antes y lo olvidamos?
+590	8c2dce47	En mi recuerdo, todos tenían los ojos cerrados. Creo que estaban inconscientes...
+600	e873e27a	Yo estaba apenas despierto, sin embargo. Quizás por eso pude recordarlo.
+610	a02f74f4	Pero no tengo ninguna duda de que todo esto es cierto. A todos nos metieron en esas máquinas en el hospital.
+620	f127f3b4	Todos fuimos parte de un experimento allí, en algún momento antes de llegar a esta escuela.
+630	3a861948	Pero yo nunca había oído hablar del Hospital General Kamukura. ¿Cómo pude haber ingresado ahí?
+640	a8905566	¡Igual yo, nunca voy al hospital! ¡No tengo dinero de sobra para cuentas médicas!
+650	818a1f45	Y mi robusta salud solo es superada por mi devoción a mi querida hermana.
+660	e8fb9bfd	No tenías que meterme en esto...
+670	8391ca1a	¿Ven? No cuadra. ¡No pudimos haber estado ahí!
+680	43a97f01	Espera... ¿Y si fue {fc(ff635b)después de que los invasores atacaron el complejo}? Cuando despertaron nuestros poderes por primera vez.
+690	1a0b5baf	En cuanto derroté al enemigo en mi barrio, empecé a sentirme mareado...
+700	f323a88b	Antes de darme cuenta, me había desmayado. ¿Supongo que a todos ustedes les pasó lo mismo?
+710	a185d6bb	Cuando volví en mí, estaba en la academia, sin idea de cómo llegué.
+720	c5633199	Naturalmente, supuse que nos trajeron aquí justo después de desmayarnos, pero ¿y si no fue así?
+730	5696764e	Quizás pasamos semanas, o incluso meses, en ese hospital primero, y el vacío en nuestra memoria significaría que no nos enteramos de nada.
+740	702f1d39	¡Oye, sí! ¡Ese tipo de giro pasa todo el tiempo en los juegos de matanza!
+750	bcec9aa8	Es posible, ¿no creen? Si aceptamos que los recuerdos de Shouma son ciertos, es la única explicación.
+760	8e3a861a	Entonces... ¿Qué nos HICIERON mientras estábamos allí?
+770	2bd56c67	¿Algún tipo de investigación, no...? Sangre especial... Quizás sí tenga relación con la hemoánima, después de todo.
+780	175608bb	Yo también lo creo. Es lo único que todos tenemos en común, y...
+790	b8d26c0d	¡Ay, por todos los cielos, ya basta!
+800	58c2de1d	{fc(57e4f1)La voz estridente de Kurara rompió el ánimo contemplativo que se había asentado entre nosotros.}
+810	ff3b3bf5	¡¿Interrumpieron nuestro entrenamiento por ESTO?! ¿Para oír a esta basura hablar de sus ridículas fantasías?
+820	2ac3d2f8	¡¿A quién diablos le importa nada de eso?!
+830	8f0ea0d3	P-Pero esto podría ser una pista importante. ¡Quizás podamos descubrir más sobre la hemoánima!
+840	1f76abd4	Pero Shouma no recordó ningún detalle importante. Si no podemos usar esta información, ¿para qué preocuparse?
+850	300f2395	¿Por qué siquiera le dan crédito a sus delirios? ¡Es obvio que no son más que una sarta de disparates sin sentido!
 860	f4a72a8b	
-870	1e95d595	Además, aunque descubramos el dichoso secreto de la hemoánima, ¿servirá de algo contra los invasores?
+870	1e95d595	Consideren esto: ¿entender mejor la hemoánima nos daría alguna ventaja práctica contra los invasores?
 880	8a801d2e	Lo que tenemos que hacer es defender esta academia de las manos del mal durante 100 días...
 890	4fdba6b0	¡No es momento de dejarse confundir por nimiedades!
 900	6ada2403	¿N-Nimiedades...?
