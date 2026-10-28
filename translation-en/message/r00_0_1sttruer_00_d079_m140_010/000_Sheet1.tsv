@@ -1,46 +1,46 @@
 id	huella_jp	es
-10	8efa3547	¡O-Oigan! ¡¿Qué hacemos?! ¡¿En serio no hay nada que hacer?!
-20	1af92e49	¡Si es así, hay que hacerse a la idea y matar a los tres juntos!
-30	5e77a579	¿M-Matar...? ¿A mi queridísimo... hermano...?
-40	b2fdf4cd	¡No! Sin saber si se los puede revivir, matar a nuestros compañeros...
-50	b66e3c9d	Uf, perdón por la demora.
-60	93b440f2	Uf, parece que llegué justo a tiempo. Qué bien, qué bien.
-70	a9fdea66	¡No llegaste para nada a tiempo, oye! ¡Ya no hay quien pare el giro deprimente, oye!
-80	c5dc04a6	...¿Tú crees? Todavía me queda un as bajo la manga, ¿sabes?
-90	bbfd68cd	¿U-Un as bajo la manga?
-100	7a166690	¡¿No será... ese medicamento?!
-110	977f2c73	¿Eh? ¿Ese medicamento...?
-120	9d8ef488	Es el medicamento que estuve desarrollando estos días en el laboratorio biológico. Pero no es un medicamento que funcione en nosotros...
-130	6172bdbd	Es un {fc(ff635b)"veneno"} que solo afecta a los comandantes. Lo que se dice un arma biológica.
+10	8efa3547	¡O-Oigan! ¡¿Qué hacemos?! ¡En serio nos quedamos sin opciones!
+20	1af92e49	¡Tendremos que armarnos aún más de valor y matar a los tres!
+30	5e77a579	¿M-Matar? ¿Matar a Ima...?
+40	b2fdf4cd	¡No podemos matar a nuestros amigos! Sobre todo cuando quizás no podamos traerlos de vuelta...
+50	b66e3c9d	Uf, perdón por llegar tarde.
+60	93b440f2	Parece que llegué justo a tiempo, además. Qué bien.
+70	a9fdea66	¡No llegaste a tiempo para nada! ¡Solo queda ver cómo se desarrolla la conclusión totalmente deprimente!
+80	c5dc04a6	¿Ah, sí? Todavía tengo un as bajo la manga, ¿sabes?
+90	bbfd68cd	¡¿Eh?! ¡¿Un as bajo la manga?!
+100	7a166690	¿Hablas de la droga...?
+110	977f2c73	¿Eh? ¿La droga...?
+120	9d8ef488	Así es. Llevo varios días desarrollándola en el laboratorio biológico. Pero no es como los potenciadores habituales que usamos en nosotros...
+130	6172bdbd	Es un {fc(ff635b)veneno} que solo es eficaz contra los comandantes enemigos. Lo que se podría llamar un arma biológica.
 140	f4c29cf1	¡¿U-Un arma biológica?!
-150	519e9662	Pero que solo afecte a los comandantes... ¿Cómo hiciste algo así?
-160	109dd84d	Analicé el ADN de comandante que conseguí con los aparatos del laboratorio biológico y, basándome en esos datos, mezclé un montón de virus y bacterias.
-170	fcf22a4b	¿Que conseguiste...? ¿ADN de comandante...?
-180	6a7276b1	...De la prisionera. Cuando le puse el transmisor, de paso me quedé con un poco de sus fluidos.
-190	db7d575b	¡¿Los fluidos... de la prisionera?!
-200	47882216	Me da curiosidad de dónde y cómo sacaste esos fluidos, pero por ahora mejor no pregunto...
-210	53d2f870	Investigando, descubrí que el ADN de los comandantes tiene unas células raras, claramente distintas de las de un humano normal...
-220	df0a71ae	Y logré preparar un veneno que ataca esas células. Se podría decir que es un arma biológica que solo afecta a los comandantes.
-230	1f3ee71d	¡¿En serio?! ¡Eso es increíble!
-240	8c0d2ed8	...Aunque fue gracias a que me ayudó Nozomi. Parece que tiene experiencia investigando medicamentos, y fue de gran ayuda.
-250	ba4b65be	...¿Investigando medicamentos? Es la primera vez que lo oigo.
-260	0a8c76fa	S-Sí... bueno, es solo un poco.
-270	f39fb7e5	¿Y si usamos ese medicamento podemos dañar solo al comandante, sin lastimar a esos tres?
-280	da20a83c	...Eso sí, este medicamento tiene un problema de muerte. Para que haga efecto seguro, hay que tomar una dosis enorme por vía oral...
-290	554f8093	...Hay que hacerle tragar todo esto.
-300	698f9e63	¡¿T-Todo esto?! ¡¿Cómo se lo hacemos tragar?!
-310	bb4f3dda	Tampoco podemos pedirles a esos tres que se lo tomen. Siguen inconscientes...
-320	da2b1d86	¡Entonces, al final, no sirve para nada!
+150	519e9662	¿Y afecta exclusivamente a los comandantes...? ¿Cómo hiciste algo así?
+160	109dd84d	Usé el equipo del laboratorio biológico para analizar el ADN de comandante que obtuve y compuse diversos virus y bacterias a partir de esos datos.
+170	fcf22a4b	¿Obtuviste ADN de comandante...?
+180	6a7276b1	De nuestra prisionera. Cuando le pegué el transmisor, también me serví una muestra de sus fluidos.
+190	db7d575b	¡¿F-F-Fluidos?!
+200	47882216	Tengo curiosidad por cómo obtuviste esa "muestra", pero por ahora me abstendré de preguntar...
+210	53d2f870	Investigué y descubrí que el ADN de comandante tiene unas células raras que son claramente distintas de las de los humanos normales...
+220	df0a71ae	Logré formular un veneno que ataca esas células. Llámalo un arma biológica que solo funciona con comandantes.
+230	1f3ee71d	¡¿En serio?! ¡Eso es una locura, viejo!
+240	8c0d2ed8	Le debo muchísimo a la encantadora Nozomi. Tiene algo de experiencia en investigación médica, así que fue de enorme ayuda.
+250	ba4b65be	¿Investigación médica? Nunca mencionó eso.
+260	0a8c76fa	B-Bueno, no es nada de lo que presumir...
+270	f39fb7e5	¿Entonces si usamos esa droga, podemos dañar al comandante sin lastimar a nuestros amigos?
+280	da20a83c	En realidad hay un problema mortal con esta droga. Para que sea eficaz con seguridad, hay que tomarla por vía oral en una dosis grande...
+290	554f8093	Tenemos que hacer que el comandante se trague... todo esto.
+300	698f9e63	¡¿Tanto?! ¿Cómo vamos a hacerlo?
+310	bb4f3dda	Eh, no podemos hacer que ninguno de nuestros amigos la tome. Siguen inconscientes...
+320	da2b1d86	¡Entonces es totalmente inútil! ¡Yupi!
 330	f4a72a8b	
-340	e0eedf1e	...Basta con meter el medicamento dentro del cuerpo del comandante, ¿no? Entonces lo hago yo.
-350	57c811bd	¿Eh...?
-360	7012c0cd	Voy a encontrar la forma de rescatarlos a todos. Seguro que... esto es algo que solo yo puedo hacer.
-370	e05e7679	...¿Algo que solo tú puedes hacer?
-380	dd772f16	Yugamu, ¿me das el medicamento?
-390	4700e090	Bueno... pero el medicamento es solo ese, así que úsalo con muchísimo cuidado.
-400	2ef74ed0	...Sí, ya lo sé.
-410	522124d2	{fc(57e4f1)Respondiendo con firmeza, Nozomi recibió el medicamento de manos de Yugamu.}
-420	b406d7bd	Para empezar... ¿es seguro que ese medicamento funciona? No lo probaste de verdad, ¿no?
-430	2e031cae	Bueno... si tuviéramos a la prisionera, la habría usado de sujeto de prueba, pero, por desgracia, va a ser sin ensayo previo.
-440	9c5e26af	No pasa nada. Yo confío en Yugamu. Bueno, allá voy.
-450	43c4338f	{fc(57e4f1)Apenas lo dijo, Nozomi salió corriendo hacia el comandante.}
+340	e0eedf1e	Solo tenemos que meter la droga dentro del cuerpo del comandante, ¿no? Entonces lo haré yo.
+350	57c811bd	¡¿Qué?!
+360	7012c0cd	Encontraré la manera y los salvaré. Esto es algo que solo yo puedo hacer... Estoy segura.
+370	e05e7679	¿Algo que solo tú puedes hacer?
+380	dd772f16	Yugamu, ¿podrías darme la droga?
+390	4700e090	Claro, pero ten cuidado. Este único juego es todo lo que tengo. Intenta no romperlo.
+400	2ef74ed0	Entendido.
+410	522124d2	{fc(57e4f1)Con un enérgico asentimiento, Nozomi tomó el veneno de manos de Yugamu.}
+420	b406d7bd	¿Seguro de que funcionará? En realidad no la has probado, ¿verdad?
+430	2e031cae	Si nuestra prisionera aún estuviera aquí, podría haberla usado de conejillo de indias, pero tal como están las cosas, tendremos que dar un salto de fe.
+440	9c5e26af	Está bien. Confío en tus habilidades, Yugamu. Voy a hacerlo.
+450	43c4338f	{fc(57e4f1)En cuanto lo dijo, Nozomi echó a correr hacia el comandante.}
