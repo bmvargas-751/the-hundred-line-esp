@@ -1,0 +1,45 @@
+id	huella_jp	es
+10	c4e19abe	Parece una ruina antiquísima.\nEstaba enterrada bajo tierra...
+20	4416eefc	Cerca había algo como un cráter,\nquizás una bomba enorme explotó y abrió la entrada.
+30	ccd282b7	Una bomba subterránea anti-fortaleza...\nParece que había una base militar cerca.
+40	48038520	Los documentos antiguos dicen que hay cajas bajo tierra...\n¿No será suficiente con esta ruina?
+50	87493823	Miren esto. ¿No es una puerta?
+60	f93fb061	Tiene cerradura.\nEsto no se abre con una ganzúa corriente.
+70	a3fa065d	¿O sea que hay que buscar la llave?
+80	b3b8fc7f	Bien, sigamos por el pasaje.
+90	9820655d	{fc(57e4f1)Y al avanzar un rato...}
+100	cb219d17	¡Lo logramos! ¡Esa es sin duda la llave de la puerta!
+110	f6dbb0dc	No puede ser otra cosa.\nLlevémosla.
+120	88902fda	
+130	e1a78d87	Bien...
+140	e4372448	Entonces, ¿la pruebo?
+150	0af21ec8	{fc(57e4f1)Cuando Yakushiji giró la llave, la puerta se abrió sin ruido.\n¡Y en ese instante...!}
+160	fb061dc3	¡¡...!!
+170	867785b8	{fc(57e4f1)Una flecha salida de la pared pasó rozando a Kirifuji\ny la dejó clavada contra la pared...}
+180	986f5c39	¡Mala cosa, es una trampa!\n¡Y yo no la noté...!
+190	e0d33919	¡No se muevan con prisa!\n¡Podría venir una segunda ola...!
+200	6a293777	¡Maldición, pensar que abrimos la última puerta y era una trampa!\n¡Qué retorcido, maldita sea!
+210	70fb70be	¡Y-Yo estoy bien...!\n¡Todos, cuidado...!
+220	0b5c69c0	{fc(57e4f1)Por suerte, Kirifuji no tenía ni un rasguño.}
+230	5f29b178	{fc(57e4f1)Desactivamos con cuidado las trampas restantes...}
+240	c0f6e430	{fc(57e4f1)bajamos a Kirifuji, que estaba clavada a la pared,\ny nos volvimos hacia el centro de la sala.}
+250	28890ba1	{fc(57e4f1)Qué susto... si hubiera estado un centímetro más allá...\notra vez habría visto el cadáver de Kirifuji...}
+260	4f4ee521	Por cierto... ¡hay una caja! ¡Los dibujos: cinco!
+270	adbc7de3	No parece que la caja misma sea una trampa.
+280	b2f0c88f	...Y aparte, hay algo que me intriga.
+290	d20153d9	¿Qué te intriga?
+300	c975a9ba	Mira allá.
+310	e30816d9	{fc(57e4f1)Donde señalaba Oosuzuki,\nhabía un pasillo que seguía hacia el fondo.}
+320	43e5df8a	{fc(57e4f1)Y apenas entrando se bifurcaba en una T.}
+330	9e1c252e	¿En serio? ¿Todavía hay más adentro?
+340	33920e28	Los documentos dicen que "aquí podría haber varias cajas".
+350	a3e1e636	Aunque sea solo una posibilidad...\n¿no podemos dejarlo así, verdad?
+360	fa2608eb	Pero estamos agotados.\nSeguir más adentro no me parece buena idea...
+370	242b7422	
+380	a29f6cb2	Retirémonos una vez.
+390	7f353fb6	Por haber caído en la trampa de hace poco,\nnuestra concentración seguro está al límite.
+400	97840407	No hay garantía de que la próxima sea con suerte. Volvamos a la academia,\ny planifiquemos entre todos.
+410	0c070cd3	Cierto, es más seguro.
+420	828bcc5d	Yo apoyo lo que dice Sumino.
+430	56d47b7c	{fc(57e4f1)Así, con la caja en mano, volvimos a la superficie.\n¿Qué secretos guardará el resto del calabozo?}
+440	6f5ae56d	{fc(57e4f1)La curiosidad no se acaba, pero, sinceramente,\nlo que más me alegraba era que mis compañeros estuvieran bien...}

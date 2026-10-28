@@ -1,0 +1,113 @@
+id	huella_jp	es
+1010	77348268	Mover cursor
+1011	000ac052	Mover cursor (arriba)
+1012	e8bd29f6	Mover cursor (abajo)
+1013	3ea86da8	Mover cursor (izquierda)
+1014	1800e59c	Mover cursor (derecha)
+1020	0f8e5b4d	Confirmar
+1030	269b0f92	Cancelar
+1040	14580285	Cambiar pestaña (izquierda)
+1050	8eb734ea	Cambiar pestaña (derecha)
+1060	4aaad2fb	Desplazar texto
+1061	8813799c	Desplazar texto (arriba)
+1062	ffb953bb	Desplazar texto (abajo)
+1070	e5b18779	Contraer lo desplegado
+1080	3becb047	[Decisiones] Mover cursor
+1081	68e58ef5	[Decisiones] Mover cursor (izquierda)
+1082	bf924078	[Decisiones] Mover cursor (derecha)
+1090	42d02df4	[Galería] Detener sonido / Mostrar guía
+1100	3e64a1f7	[Galería] Agrandar interfaz
+1110	aa85b6ce	[Galería] Reducir interfaz
+1120	6cbc52ae	[Galería] Restablecer posición de la imagen
+1130	c7ab3eaa	[Mapa] Mover cursor
+1131	c0151be8	[Mapa] Mover cursor (arriba)
+1132	ff21aa1f	[Mapa] Mover cursor (abajo)
+1133	b8ad4279	[Mapa] Mover cursor (izquierda)
+1134	a0e551ea	[Mapa] Mover cursor (derecha)
+1140	43e37570	Mover la mira
+1141	6defdbae	Mover la mira (arriba)
+1142	5e427b8a	Mover la mira (abajo)
+1143	f2322e0c	Mover la mira (izquierda)
+1144	cf059151	Mover la mira (derecha)
+1150	4a76edc9	[Selección de capítulo] Mover cámara
+1151	4c14ef74	[Selección de capítulo] Mover cámara (arriba)
+1152	c0a4a81b	[Selección de capítulo] Mover cámara (abajo)
+1153	bbaacb66	[Selección de capítulo] Mover cámara (izquierda)
+1154	c39e50aa	[Selección de capítulo] Mover cámara (derecha)
+1160	df62701d	[Selección de capítulo] Agrandar interfaz
+1170	bf60eb3f	[Selección de capítulo] Reducir interfaz
+1180	6e25cb95	[Selección de capítulo] Cambiar de partida
+1190	0116e12e	[Registro] Alternar habilidades y objetos
+1200	ec0dddc7	[Crear regalos] Abrir el Registro
+1210	ae4aa9e1	[Crear regalos] Configurar filtros
+1220	65aa5b74	[Opciones] Restablecer ajustes
+1230	88dfdd9b	[Exploración] Empezar a explorar
+1240	7df8b1f8	[Exploración] Empezar exploración rápida
+2010	77348268	Mover cursor
+2011	000ac052	Mover cursor (arriba)
+2012	e8bd29f6	Mover cursor (abajo)
+2013	3ea86da8	Mover cursor (izquierda)
+2014	1800e59c	Mover cursor (derecha)
+2020	d543ddec	Elegir acción
+2030	269b0f92	Cancelar
+2040	d76ad798	Abrir menú
+2050	35d4d26c	Potenciar hemoánima
+2060	39eeeb3a	Materiales estratégicos
+2070	85258cee	Ataque especial
+2080	5baecdad	Comandos de evento
+2090	0eb02957	Terminar turno
+2100	6bebe6ce	Cambiar zoom de la cámara
+2110	62dbfde9	Girar cámara (izquierda)
+2120	cca70358	Girar cámara (derecha)
+2130	a4ce4824	Lista de aliados
+2131	313d0eee	Lista de aliados (arriba)
+2132	fc58f8f9	Lista de aliados (abajo)
+2133	d2f50181	Lista de aliados (izquierda)
+2134	3029dcab	Lista de aliados (derecha)
+2140	476fb39e	Dirección de ataque/construcción
+2141	7e476a30	Dirección de ataque/construcción (arriba)
+2142	9a11b70e	Dirección de ataque/construcción (abajo)
+2143	68bcaf4c	Dirección de ataque/construcción (izquierda)
+2144	2c1b0a4a	Dirección de ataque/construcción (derecha)
+3010	710bd42e	Mover la mira / Mover personaje
+3011	e9ef2dde	Mover la mira / Cámara del pasillo (arriba)
+3012	ad515c94	Mover la mira / Cámara del pasillo (abajo)
+3013	831da61b	Mover la mira / Cámara del pasillo (izquierda)
+3014	102b5b1f	Mover la mira / Cámara del pasillo (derecha)
+3020	3681f27a	Mover cámara
+3021	5a427b77	Cámara de la habitación (arriba)
+3022	87a23b33	Cámara de la habitación (abajo)
+3023	90d8d291	Cámara de la habitación / Mover personaje (izquierda)
+3024	a2147a58	Cámara de la habitación / Mover personaje (derecha)
+3030	3001947c	Cámara del pasillo
+3031	5b70c8af	Cámara del pasillo (arriba)
+3032	242b6869	Cámara del pasillo (abajo)
+3033	49bc122e	Cámara del pasillo (izquierda)
+3034	9af2141d	Cámara del pasillo (derecha)
+3040	0ae93d17	Mover personaje
+3041	f4cb1f1f	Mover personaje (izquierda)
+3042	ab05c83b	Mover personaje (derecha)
+3050	f041bc7c	Examinar / Avanzar texto
+3060	42665295	Salir de la habitación / Correr (mantener)
+3061	e952bae1	Salir de la habitación
+3062	cc992bde	Correr (mantener)
+3070	5937aa93	Abrir menú / Saltar video (mantener)
+3080	dcfd7e4f	Abrir mapa
+3090	0915510f	Activar/desactivar avance automático
+3100	6fcc8718	Mostrar/ocultar íconos
+3110	31432dcc	Abrir historial
+4010	66af399e	Elegir carta / Elegir dirección
+4011	fd789a58	Elegir dirección (arriba)
+4012	fa11f68d	Elegir dirección (abajo)
+4013	47843943	Elegir carta / Elegir dirección (izquierda)
+4014	2ef84a23	Elegir carta / Elegir dirección (derecha)
+4020	01a1348b	Usar carta
+4030	269b0f92	Cancelar
+4040	d76ad798	Abrir menú
+4050	21bd8b68	Vista general
+4060	4f95e95c	Inventario
+4070	52d5229d	[Vista general] Mover cámara
+4071	1a029300	[Vista general] Mover cámara (arriba)
+4072	ea53f235	[Vista general] Mover cámara (abajo)
+4073	75467260	[Vista general] Mover cámara (izquierda)
+4074	caf9792d	[Vista general] Mover cámara (derecha)

@@ -1,0 +1,173 @@
+id	huella_jp	es
+10	e792e41c	{fc(1dff3d)¿Leer un libro para estudiar?\n(Pasa el tiempo)}
+20	d5eac60e	Lengua
+21	b79624b8	Matemáticas
+22	bef0afa1	Ciencias
+23	7edf9ae2	Estudios sociales
+24	82d0f5fd	Educación física
+25	18ca8614	Cancelar
+1000	5016de6a	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+1001	38ecabab	Imaginación: "Los distintos dioses de la mitología celta" (0/2){is60}{image(ui_icon_f_choice)}
+1002	60a1005b	Volver
+1010	5016de6a	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+1011	307f9163	Imaginación: "Los distintos dioses de la mitología celta" (1/2){is60}{image(ui_icon_f_choice)}
+1012	60a1005b	Volver
+1020	5016de6a	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+1021	f99a020f	Imaginación: "Los distintos dioses de la mitología celta" (2/2){is60}{image(ui_icon_f_choice)}
+1022	60a1005b	Volver
+1100	4c400303	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+1101	38ecabab	Imaginación: "Los distintos dioses de la mitología celta" (0/2){is60}{image(ui_icon_f_choice)}
+1102	60a1005b	Volver
+1110	4c400303	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+1111	307f9163	Imaginación: "Los distintos dioses de la mitología celta" (1/2){is60}{image(ui_icon_f_choice)}
+1112	60a1005b	Volver
+1120	4c400303	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+1121	f99a020f	Imaginación: "Los distintos dioses de la mitología celta" (2/2){is60}{image(ui_icon_f_choice)}
+1122	60a1005b	Volver
+1200	d816412a	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+1201	38ecabab	Imaginación: "Los distintos dioses de la mitología celta" (0/2){is60}{image(ui_icon_f_choice)}
+1202	60a1005b	Volver
+1210	d816412a	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+1211	307f9163	Imaginación: "Los distintos dioses de la mitología celta" (1/2){is60}{image(ui_icon_f_choice)}
+1212	60a1005b	Volver
+1220	d816412a	Lectura: "Historia de la literatura del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+1221	f99a020f	Imaginación: "Los distintos dioses de la mitología celta" (2/2){is60}{image(ui_icon_f_choice)}
+1222	60a1005b	Volver
+2000	8c8ccffe	Cálculo: "Teoría de la probabilidad y destino" (0/2){is60}{image(ui_icon_f_choice)}
+2001	5098c70a	Análisis: "Teoría matemática de la felicidad" (0/2){is60}{image(ui_icon_f_choice)}
+2002	60a1005b	Volver
+2010	8c8ccffe	Cálculo: "Teoría de la probabilidad y destino" (0/2){is60}{image(ui_icon_f_choice)}
+2011	88d1e97d	Análisis: "Teoría matemática de la felicidad" (1/2){is60}{image(ui_icon_f_choice)}
+2012	60a1005b	Volver
+2020	8c8ccffe	Cálculo: "Teoría de la probabilidad y destino" (0/2){is60}{image(ui_icon_f_choice)}
+2021	1ab16d7a	Análisis: "Teoría matemática de la felicidad" (2/2){is60}{image(ui_icon_f_choice)}
+2022	60a1005b	Volver
+2100	9ff8c9ab	Cálculo: "Teoría de la probabilidad y destino" (1/2){is60}{image(ui_icon_f_choice)}
+2101	5098c70a	Análisis: "Teoría matemática de la felicidad" (0/2){is60}{image(ui_icon_f_choice)}
+2102	60a1005b	Volver
+2110	9ff8c9ab	Cálculo: "Teoría de la probabilidad y destino" (1/2){is60}{image(ui_icon_f_choice)}
+2111	88d1e97d	Análisis: "Teoría matemática de la felicidad" (1/2){is60}{image(ui_icon_f_choice)}
+2112	60a1005b	Volver
+2120	9ff8c9ab	Cálculo: "Teoría de la probabilidad y destino" (1/2){is60}{image(ui_icon_f_choice)}
+2121	1ab16d7a	Análisis: "Teoría matemática de la felicidad" (2/2){is60}{image(ui_icon_f_choice)}
+2122	60a1005b	Volver
+2200	370774de	Cálculo: "Teoría de la probabilidad y destino" (2/2){is60}{image(ui_icon_f_choice)}
+2201	5098c70a	Análisis: "Teoría matemática de la felicidad" (0/2){is60}{image(ui_icon_f_choice)}
+2202	60a1005b	Volver
+2210	370774de	Cálculo: "Teoría de la probabilidad y destino" (2/2){is60}{image(ui_icon_f_choice)}
+2211	88d1e97d	Análisis: "Teoría matemática de la felicidad" (1/2){is60}{image(ui_icon_f_choice)}
+2212	60a1005b	Volver
+2220	370774de	Cálculo: "Teoría de la probabilidad y destino" (2/2){is60}{image(ui_icon_f_choice)}
+2221	1ab16d7a	Análisis: "Teoría matemática de la felicidad" (2/2){is60}{image(ui_icon_f_choice)}
+2222	60a1005b	Volver
+3000	1a025ec6	Investigación: "Sobre la metamorfosis de los insectos" (0/2){is60}{image(ui_icon_f_choice)}
+3001	c818961d	Técnica: "La biosfera del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+3002	60a1005b	Volver
+3010	1a025ec6	Investigación: "Sobre la metamorfosis de los insectos" (0/2){is60}{image(ui_icon_f_choice)}
+3011	2af60494	Técnica: "La biosfera del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+3012	60a1005b	Volver
+3020	1a025ec6	Investigación: "Sobre la metamorfosis de los insectos" (0/2){is60}{image(ui_icon_f_choice)}
+3021	093223d2	Técnica: "La biosfera del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+3022	60a1005b	Volver
+3100	ac20c0be	Investigación: "Sobre la metamorfosis de los insectos" (1/2){is60}{image(ui_icon_f_choice)}
+3101	c818961d	Técnica: "La biosfera del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+3102	60a1005b	Volver
+3110	ac20c0be	Investigación: "Sobre la metamorfosis de los insectos" (1/2){is60}{image(ui_icon_f_choice)}
+3111	2af60494	Técnica: "La biosfera del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+3112	60a1005b	Volver
+3120	ac20c0be	Investigación: "Sobre la metamorfosis de los insectos" (1/2){is60}{image(ui_icon_f_choice)}
+3121	093223d2	Técnica: "La biosfera del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+3122	60a1005b	Volver
+3200	d9400403	Investigación: "Sobre la metamorfosis de los insectos" (2/2){is60}{image(ui_icon_f_choice)}
+3201	c818961d	Técnica: "La biosfera del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+3202	60a1005b	Volver
+3210	d9400403	Investigación: "Sobre la metamorfosis de los insectos" (2/2){is60}{image(ui_icon_f_choice)}
+3211	2af60494	Técnica: "La biosfera del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+3212	60a1005b	Volver
+3220	d9400403	Investigación: "Sobre la metamorfosis de los insectos" (2/2){is60}{image(ui_icon_f_choice)}
+3221	093223d2	Técnica: "La biosfera del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+3222	60a1005b	Volver
+4000	571f2b13	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+4001	921aabee	Exploración: "Todo sobre el Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+4002	60a1005b	Volver
+4010	571f2b13	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+4011	717bd117	Exploración: "Todo sobre el Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+4012	60a1005b	Volver
+4020	571f2b13	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+4021	98e813c5	Exploración: "Todo sobre el Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+4022	60a1005b	Volver
+4100	06106f61	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+4101	921aabee	Exploración: "Todo sobre el Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+4102	60a1005b	Volver
+4110	06106f61	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+4111	717bd117	Exploración: "Todo sobre el Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+4112	60a1005b	Volver
+4120	06106f61	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+4121	98e813c5	Exploración: "Todo sobre el Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+4122	60a1005b	Volver
+4200	a8258259	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+4201	921aabee	Exploración: "Todo sobre el Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+4202	60a1005b	Volver
+4210	a8258259	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+4211	717bd117	Exploración: "Todo sobre el Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+4212	60a1005b	Volver
+4220	a8258259	Observación: "Sobre el idioma del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+4221	98e813c5	Exploración: "Todo sobre el Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+4222	60a1005b	Volver
+5000	f599c432	Resistencia: "Sobre el fortalecimiento corporal con drogas" (0/2){is60}{image(ui_icon_f_choice)}
+5001	86b91b49	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+5002	60a1005b	Volver
+5010	f599c432	Resistencia: "Sobre el fortalecimiento corporal con drogas" (0/2){is60}{image(ui_icon_f_choice)}
+5011	8afe62be	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+5012	60a1005b	Volver
+5020	f599c432	Resistencia: "Sobre el fortalecimiento corporal con drogas" (0/2){is60}{image(ui_icon_f_choice)}
+5021	1fa6bc1d	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+5022	60a1005b	Volver
+5100	a1f07576	Resistencia: "Sobre el fortalecimiento corporal con drogas" (1/2){is60}{image(ui_icon_f_choice)}
+5101	86b91b49	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+5102	60a1005b	Volver
+5110	a1f07576	Resistencia: "Sobre el fortalecimiento corporal con drogas" (1/2){is60}{image(ui_icon_f_choice)}
+5111	8afe62be	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+5112	60a1005b	Volver
+5120	a1f07576	Resistencia: "Sobre el fortalecimiento corporal con drogas" (1/2){is60}{image(ui_icon_f_choice)}
+5121	1fa6bc1d	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+5122	60a1005b	Volver
+5200	803b0337	Resistencia: "Sobre el fortalecimiento corporal con drogas" (2/2){is60}{image(ui_icon_f_choice)}
+5201	86b91b49	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (0/2){is60}{image(ui_icon_f_choice)}
+5202	60a1005b	Volver
+5210	803b0337	Resistencia: "Sobre el fortalecimiento corporal con drogas" (2/2){is60}{image(ui_icon_f_choice)}
+5211	8afe62be	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (1/2){is60}{image(ui_icon_f_choice)}
+5212	60a1005b	Volver
+5220	803b0337	Resistencia: "Sobre el fortalecimiento corporal con drogas" (2/2){is60}{image(ui_icon_f_choice)}
+5221	1fa6bc1d	Iniciativa: "Sobre los deportes del Complejo Residencial de Tokio" (2/2){is60}{image(ui_icon_f_choice)}
+5222	60a1005b	Volver
+9010	fb7abb03	Al leer el libro,\n{fc(ff635b)"Lectura"} subió %d.
+9011	82ee8897	Al terminar el libro,\n{fc(ff635b)"Lectura"} subió %d.
+9012	280f7791	Al releer el libro,\n{fc(ff635b)"Lectura"} subió %d.
+9020	dee42242	Al leer el libro,\n{fc(ff635b)"Imaginación"} subió %d.
+9021	6de70ae4	Al terminar el libro,\n{fc(ff635b)"Imaginación"} subió %d.
+9022	c0b91316	Al releer el libro,\n{fc(ff635b)"Imaginación"} subió %d.
+9030	4787d338	Al leer el libro,\n{fc(ff635b)"Cálculo"} subió %d.
+9031	3cf1e2c4	Al terminar el libro,\n{fc(ff635b)"Cálculo"} subió %d.
+9032	cca15ff4	Al releer el libro,\n{fc(ff635b)"Cálculo"} subió %d.
+9040	2ab8e6cd	Al leer el libro,\n{fc(ff635b)"Análisis"} subió %d.
+9041	fe3fbd7f	Al terminar el libro,\n{fc(ff635b)"Análisis"} subió %d.
+9042	dc221f73	Al releer el libro,\n{fc(ff635b)"Análisis"} subió %d.
+9050	3e11893b	Al leer el libro,\n{fc(ff635b)"Investigación"} subió %d.
+9051	b393aa78	Al terminar el libro,\n{fc(ff635b)"Investigación"} subió %d.
+9052	cc779578	Al releer el libro,\n{fc(ff635b)"Investigación"} subió %d.
+9060	bdb0729d	Al leer el libro,\n{fc(ff635b)"Técnica"} subió %d.
+9061	e1cfa630	Al terminar el libro,\n{fc(ff635b)"Técnica"} subió %d.
+9062	848decc0	Al releer el libro,\n{fc(ff635b)"Técnica"} subió %d.
+9070	0b6630fe	Al leer el libro,\n{fc(ff635b)"Observación"} subió %d.
+9071	aab0701f	Al terminar el libro,\n{fc(ff635b)"Observación"} subió %d.
+9072	e6939c5b	Al releer el libro,\n{fc(ff635b)"Observación"} subió %d.
+9080	1ce67fb8	Al leer el libro,\n{fc(ff635b)"Exploración"} subió %d.
+9081	c46efb4b	Al terminar el libro,\n{fc(ff635b)"Exploración"} subió %d.
+9082	3de5cafe	Al releer el libro,\n{fc(ff635b)"Exploración"} subió %d.
+9090	189e9412	Al leer el libro,\n{fc(ff635b)"Resistencia"} subió %d.
+9091	23ce1b74	Al terminar el libro,\n{fc(ff635b)"Resistencia"} subió %d.
+9092	32a94e8a	Al releer el libro,\n{fc(ff635b)"Resistencia"} subió %d.
+9100	bdf449e7	Al leer el libro,\n{fc(ff635b)"Iniciativa"} subió %d.
+9101	fca1cd1c	Al terminar el libro,\n{fc(ff635b)"Iniciativa"} subió %d.
+9102	e96bff34	Al releer el libro,\n{fc(ff635b)"Iniciativa"} subió %d.

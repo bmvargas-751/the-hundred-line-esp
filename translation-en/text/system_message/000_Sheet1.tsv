@@ -1,0 +1,195 @@
+id	huella_jp	es
+1000	845ee26d	¿Sobrescribir estos datos de guardado?
+1010	25d5ad4f	¿Cargar estos datos de guardado?
+1020	9d96f504	¿Volver a la pantalla de título?
+1030	3ba568c7	¿Restablecer todos los ajustes?\n(No cambia el modo de batalla)
+1031	a693d2cd	Se cambió el idioma,\nasí que el juego se reiniciará.
+1032	84af92bf	Presiona la tecla o el botón que quieras asignar.
+1033	125467b9	La asignación coincide con la de la acción de arriba.\n¿Quieres intercambiarlas?
+1040	658f4e59	Carga los datos de la partida completada\npara seguir con la historia.
+1050	d1f3bbf8	¿Salir del juego?
+1060	cfdc3fe9	Puedes cambiarlo en Opciones cuando quieras. Elijas el que elijas, la historia no cambia.
+1061	eb0ceba7	Disfruta al máximo de las batallas del juego. Recomendado para quienes juegan por primera vez.
+1062	b848dc19	Un modo para disfrutar de la historia.\nEn las batallas, al final de cada turno, los aliados recuperan todo su HP y se curan de los estados alterados.
+1063	52030cd5	・Ataque especial y Último recurso: 2 AP\n・Daño que reciben los aliados: 100\n　*Con armadura: daño normal\n　*No se aplica en las batallas de tutorial
+1070	4d8bccd1	Los datos de guardado del sistema estaban dañados,\nasí que se restablecieron.
+1071	c0a93066	Hay datos de guardado dañados.\nElige en [Cargar] los datos que quieras cargar.
+1072	38c423b5	Los datos de guardado elegidos están dañados.\n¿Borrarlos?
+1073	df786c7b	Se cargaron los datos de respaldo porque los datos de guardado del sistema estaban dañados.
+1080	fa3f62b0	Se encontraron datos de guardado de la demo.\nEmpezarás el juego completo con esos datos.
+1090	ec9d1ae4	¿Guardar el progreso hasta aquí?
+1100	1b03d2ae	Si guardas durante un evento, al cargar\nretomarás desde el inicio del evento o desde antes de él.
+1110	acd5a0d0	Comenzarás desde el principio de Hundred Line.
+1120	d2aabca8	Selecciona "Sí" si ya terminaste Hundred Line o conoces su historia hasta el final. De lo contrario, selecciona "No".
+1130	f2e1253e	¿Empezar el juego desde Hundred Line {fc(ff0000)2}?\n(Para empezar desde Hundred Line, selecciona "No")
+2000	4f917b1b	¿Crear %s?
+2001	2da5fa91	Se desbloquea al obtener %s
+2002	f3e3ff31	No hay regalos que cumplan estas condiciones.
+2003	4fa238d7	 {fc(67ffe0)La afinidad subió %d.}
+2004	e0d167d1	 {fc(67ffe0)%s subió %d.}
+2010	ef1f8f01	¿Desarrollar %s?
+2020	60586d46	¿Mejorar %s?
+2030	04553557	¿Empezar %s?
+2040	e4d764a9	
+2050	35d77e5d	¿Ir a explorar?
+2060	d3d7232e	Subió tu nivel de extinción para explorar.\nPruébalo en tu tiempo libre.
+2061	d012bba8	Subió tu nivel de extinción para explorar.
+2070	d75bb103	Se desbloquearon nuevos entrenamientos VR.\nPruébalos en tu tiempo libre.
+2071	ecf455b6	Se desbloquearon nuevos entrenamientos VR.
+2080	d3b774c7	Se actualizó la lista de deseos del Registro.
+2090	d8edc13d	Obtuviste 10 BP.
+2091	f964ea06	Obtuviste 5 BP.
+2092	9a784b56	Obtuviste 1 BP.
+2093	16c5691a	Perdiste 5 BP...
+2100	f7fd1c7d	Se desbloqueó la creación de regalos.\nPruébala en tu tiempo libre.
+2110	5ceb4e06	Se desbloqueó el desarrollo de dispositivos defensivos.\nPruébalo en tu tiempo libre.
+2120	cedcf363	Se desbloqueó el desarrollo de fármacos.\nPruébalo en tu tiempo libre.
+2130	7a22c836	Se desbloqueó el desarrollo de nuevas habilidades.\nPruébalo en tu tiempo libre.
+2140	4be81648	Se desbloqueó el tutorial de las actividades del tiempo libre.\nPuedes verlo en Ayuda, en el menú.
+2141	ab4c21b5	Se desbloqueó el tutorial de la exploración.\nPuedes verlo en Ayuda, en el menú.
+2142	5291eaca	Se desbloqueó el tutorial del estudio en la biblioteca.\nPuedes verlo en Ayuda, en el menú.
+2150	8fa2e78e	Se desbloqueó el estudio en la biblioteca.\nPruébalo en tu tiempo libre.
+2201	5190ea2e	Se cumplieron las condiciones para superar el Bloqueo de historia 1.
+2202	235fde57	Se cumplieron las condiciones para superar el Bloqueo de historia 2.
+2203	c26bc6ab	Se cumplieron las condiciones para superar el Bloqueo de historia 3.
+3010	58fdee13	¿Terminar el turno?
+3020	7d849498	Te quedaste sin AP.\n¿Terminar el turno?
+3021	c6cc64c6	Derrotaste a los enemigos de la zona de combate.\n¿Terminar el turno?
+3040	9ed4d9e9	¿Repetir esta WAVE desde el principio?
+3050	f1c62652	¿Repetir esta batalla desde el principio?
+3060	42441cbb	{fc(ff0000)¿Repetir los 100 días?}
+3070	be1186df	¿Abandonar la batalla y volver al menú de entrenamiento VR?
+3080	38595580	{fc(ff0000)¿Usar la bonificación de reintento?}\n・VOLTAGE +%d% al empezar la batalla\n・Objetivo de defensa: HP al máximo
+3081	e96f37f6	{fc(ff0000)¿Cambiar el modo de batalla a [SAFETY]?}\n・Los aliados se curan del todo (HP y estados) al final de cada turno\n\nPuedes cambiar el modo de batalla en Opciones cuando quieras.
+3090	9013c0fb	¿Saltar esta batalla?
+3091	5fb58d3f	¿Saltar la batalla hasta la decisión?
+3501	f38d4dac	Pon el cursor en la casilla de destino y ataca.
+3502	1d6d3480	Primero, derrota a los enemigos que llegaron como refuerzos.
+3503	952c9cda	Ahora, elige "Terminar turno".
+3504	14433c50	Usa un ataque especial\npara alcanzar a todos los enemigos.
+3505	95dcee3b	Ataca para derrotar\na todos los Darumarr.
+3601	f8264b16	Ahora que te uniste a los miembros de la Penúltima Academia de Defensa,\npuedes usar los {fc(ff0000)materiales estratégicos}.
+3611	5cac2833	El sonido de los enemigos no te deja actuar.\nTermina el turno y espera a Gaku Maruko.
+3701	6dd5b50e	En este turno solo puedes usar la {fc(ff0000)Bomba Shion}.
+3801	a273ab33	Quedan 275 segundos para el ataque en todas direcciones...
+3802	0d022057	Quedan 250 segundos para el ataque en todas direcciones...
+3803	9d561ac6	Quedan 200 segundos para el ataque en todas direcciones...
+3804	4b862899	Quedan 175 segundos para el ataque en todas direcciones...
+3805	abfd286b	Quedan 150 segundos para el ataque en todas direcciones...
+3806	ce5fb8f3	Quedan 125 segundos para el ataque en todas direcciones...
+3807	59752e37	Quedan 100 segundos para el ataque en todas direcciones...
+3808	dfa9a246	Quedan 75 segundos para el ataque en todas direcciones...
+3809	fdc025f1	Quedan 50 segundos para el ataque en todas direcciones...
+3810	6e64beca	Quedan 25 segundos para el ataque en todas direcciones...
+3811	e0641bdb	Quedan 5 segundos para el ataque en todas direcciones...
+3812	ee486bd4	Queda 1 segundo para el ataque en todas direcciones...
+3901	0385939b	Ya no puede mejorar más. ¿Continuar?
+3902	d1acf656	{fc(ff0000)¡Aumentó la hemoánima de Takumi Sumino!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3903	8f7170f9	{fc(ff0000)¡Aumentó la hemoánima de Nozomi Kirifuji!} {fc(67ffe0)\n・Curación del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3904	4e1b3a4d	{fc(ff0000)¡Aumentó la hemoánima de Takemaru Yakushiji!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3905	39c4e57b	{fc(ff0000)¡Aumentó la hemoánima de Hiruko Shizuhara!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3906	eabaacec	{fc(ff0000)¡Aumentó la hemoánima de Darumi Amemiya!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3907	90a191fb	{fc(ff0000)¡Aumentó la hemoánima de Eito Aotsuki!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3908	50016b59	{fc(ff0000)¡Aumentó la hemoánima de Tsubasa Kawana!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3909	1b64bd35	{fc(ff0000)¡Aumentó la hemoánima de Gaku Maruko!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3910	c6e95085	{fc(ff0000)¡Aumentó la hemoánima de Ima Tsukumo!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3911	5243c99b	{fc(ff0000)¡Aumentó la hemoánima de Kako Tsukumo!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3912	64b495fa	{fc(ff0000)¡Aumentó la hemoánima de Shouma Ginzaki!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3913	a2cbdc04	{fc(ff0000)¡Aumentó la hemoánima de Kurara Oosuzuki!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3914	336f6ee6	{fc(ff0000)¡Aumentó la hemoánima de Kyoshika Magadori!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3915	c9f5fc69	{fc(ff0000)¡Aumentó la hemoánima de Yugamu Omokage!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3916	9d3047c4	{fc(ff0000)¡Aumentó la hemoánima de Moko Mojiro!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+3917	faf680ea	{fc(ff0000)¡Aumentó la hemoánima de Eva!} {fc(67ffe0)\n・Poder del ataque especial +1\n・Tasa de obtención de VOLTAGE +10 %}
+4000	3cb32851	¿Terminar la exploración?
+4010	729c8a91	Las casillas volvieron a la normalidad.
+4020	eee685c4	¿Pasar a la siguiente zona?
+4030	5a5552df	¡Obtuviste un objeto!
+4040	64c49e79	¿Salir a explorar?
+4041	c3ae6b3c	¿Hacer una exploración rápida?
+4042	5bf60265	¿Saltar esta exploración?
+5000	6e45799a	Sentiste que se profundizó tu vínculo con Takemaru Yakushiji.
+5001	088e1453	Sentiste que se profundizó tu vínculo con Hiruko Shizuhara.
+5002	d294ed89	Sentiste que se profundizó tu vínculo con Darumi Amemiya.
+5003	70a376cc	Sentiste que se profundizó tu vínculo con Eito Aotsuki.
+5004	7c1193a5	Sentiste que se profundizó tu vínculo con Tsubasa Kawana.
+5005	8f0b2d67	Sentiste que se profundizó tu vínculo con Gaku Maruko.
+5006	f583be32	Sentiste que se profundizó tu vínculo con Ima Tsukumo.
+5007	78d4b21d	Sentiste que se profundizó tu vínculo con Kako Tsukumo.
+5008	035f69d8	Sentiste que se profundizó tu vínculo con Shouma Ginzaki.
+5009	c6187948	Sentiste que se profundizó tu vínculo con Nozomi Kirifuji.
+5010	874cef36	Sentiste que se profundizó tu vínculo con Kurara Oosuzuki.
+5011	5288d3a7	Sentiste que se profundizó tu vínculo con Kyoshika Magadori.
+5012	3820ff70	Sentiste que se profundizó tu vínculo con Yugamu Omokage.
+5013	dfdf9410	Sentiste que se profundizó tu vínculo con Moko Mojiro.
+5014	0e2c9e7f	Sentiste que se profundizó tu vínculo con Eva.
+5015	8f019943	Sentiste que se profundizó tu vínculo con Shion.
+6000	3d7db573	Obtuviste: Estuche elegante.
+6001	f284a4b4	Obtuviste: Agujas, Hilo, Tijeras y Algodón.
+6002	11b7f29d	Obtuviste: Collar.
+6003	ba44fd71	Obtuviste: Hierba refrescante.
+6004	93a7998a	Obtuviste: Suplemento vitamínico.
+6005	a2a85307	Obtuviste: Papel de oblea.
+6006	f4027301	Obtuviste: Gasolina.
+6007	bd7f73ce	Obtuviste: Aleación de aluminio.
+6008	e8aadcc6	Obtuviste: Caucho de silicona.
+6009	39bcd87c	Obtuviste: Motor grande.
+6010	2ef23ccf	Obtuviste: Refrigerante.
+6011	3ed89aa2	Obtuviste: Propulsor.
+6012	36ee9480	Obtuviste: Pólvora.
+6013	8cb15bd9	Obtuviste: Detonador.
+6014	8250a204	Obtuviste: Sistema de guiado.
+6015	3287864b	Obtuviste: Sistema de encendido.
+6016	6cd5207a	Obtuviste: Hierba medicinal de primera.
+6017	ea3b0d39	Obtuviste: Bebida energética.
+6018	49400386	Obtuviste: Comida saludable.
+6020	ea3b0d39	Obtuviste: Bebida energética.
+6021	49400386	Obtuviste: Comida saludable.
+6022	6cd5207a	Obtuviste: Hierba medicinal de primera.
+6024	49400386	Obtuviste: Comida saludable.
+6025	6cd5207a	Obtuviste: Hierba medicinal de primera.
+6026	ea3b0d39	Obtuviste: Bebida energética.
+6028	db889106	Obtuviste: Lente roto.
+6029	5251a89f	Obtuviste: Trípode.
+6030	9fe3e5d9	Obtuviste: Espejo de mano.
+6031	b9e8745f	Obtuviste: Vidrio.
+6032	b60fde2a	Obtuviste: Plástico reforzado.
+6033	81d7ec31	Obtuviste: Acero al carbono.
+6034	b9e8745f	Obtuviste: Vidrio.
+6035	b60fde2a	Obtuviste: Plástico reforzado.
+6036	81d7ec31	Obtuviste: Acero al carbono.
+6037	76b8a1c7	Obtuviste: Lentes negros.
+6038	ee90960c	Obtuviste: Armazón de lentes.
+6039	ed60c965	Obtuviste: Parrilla.
+6040	1595930c	Obtuviste: Carbón.
+6041	9bbde32d	Obtuviste: Cartucho de gas.
+6042	73b795f7	Obtuviste: Listones de madera.
+6043	2a5bde5b	Obtuviste: Serrucho.
+6044	73b795f7	Obtuviste: Listones de madera.
+6045	861ee48f	Obtuviste: Tela de seda.
+6046	638c8e36	Obtuviste: Fibra de caucho.
+6047	d0ba5db3	Obtuviste: Lámina de cobre.
+6048	67d0c3de	Obtuviste: Lana.
+6049	0e37da50	Obtuviste: Placa de acrílico.
+6050	a270aea4	Obtuviste: Cable eléctrico.
+6051	cf0ff85e	Obtuviste: Perfil de acero ligero.
+6052	b8121f44	Obtuviste: Botella de acero inoxidable.
+6053	bd762892	Obtuviste: Neumático viejo.
+6054	9e49a21f	Obtuviste: Lingote de plata.
+6057	15aacd36	Obtuviste: Placa rígida.
+6058	da5e3745	Obtuviste: Lámina de aluminio.
+6059	defbea32	Obtuviste: Resina vegetal.
+6060	28e71c6d	Obtuviste: Altavoz.
+6061	71329387	Obtuviste: Almohadillas para audífonos.
+6062	9314b1cf	Obtuviste: Palabra clave: Gatos.
+6063	f3185652	Obtuviste: Fósil de animal.
+6064	efdf0bd5	Obtuviste: Palabra clave: Juguetes de vinilo.
+6065	9ef7c516	Obtuviste: Sanshokupan.
+6066	1fb2ebba	Obtuviste: Globos de goma resistentes.
+6067	4521db5e	Obtuviste: θ4.
+6068	2552cd03	Obtuviste: λ7.
+6069	8b9856be	Obtuviste 300 BP.
+6070	cbfc3577	Obtuviste 500 BP.
+6071	70c28598	Obtuviste 1000 BP.
+7000	c92b4cda	Sí
+7001	f9015853	
+7002	98c438f4	Sí {is48}{image(ui_icon_f_choice)}

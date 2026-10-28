@@ -1,0 +1,123 @@
+id	huella_jp	es
+1	da39a3ee	Objeto A
+2	da39a3ee	Objeto B
+3	da39a3ee	Objeto C
+4	da39a3ee	Objeto D
+5	da39a3ee	Objeto E
+6	da39a3ee	Objeto F
+7	da39a3ee	Objeto G
+8	da39a3ee	Objeto H
+9	da39a3ee	Objeto I
+100	dd18c8f0	Desarrollar dispositivos defensivos
+101	2e894a7d	Desarrollar fármacos
+102	7c7b74d3	Mejorar el arma de clase
+103	41d7323e	Extintor
+104	bbcba134	Máquina de entrenamiento VR
+105	b515187c	
+106	7b06ffb4	Estudio en la biblioteca
+1000	50b943d0	Puerta
+1001	9c9c980f	
+1002	2853730c	Ventana
+1003	22d51c5c	Pizarrón
+1004	5d721944	Jaula de animales
+1005	69b29a87	Refrigerador gigante
+1006	d8ab7424	Autobús escolar
+1008	f3ed8b17	Aparato misterioso
+1009	3ded8bb9	Vista por la ventana
+1010	11a26551	Sistema de defensa
+1011	7ac18af4	Ametralladora
+1012	c3e0c8da	Dron recolector de cadáveres
+1013	83b06116	
+1014	c21bd718	
+1015	b0d9f2fa	Cápsula
+1016	de92f995	Cama
+1017	11e2d8bf	Aparato de lavado de cerebro
+1018	b188bacf	Muro de Llamas Eternas
+1019	b6b615dd	Dormitorio improvisado
+1020	f3ed8b17	Aparato misterioso
+1022	36f780fd	Computadora
+1023	50b943d0	Puerta
+1025	bcded40b	Entrada
+1026	fe817c0e	Aparatos de ejercicio
+1027	ec41d980	Silla de playa
+1028	e28db462	Cortina
+1029	a1b01755	Casilleros para zapatos
+1030	6ebbcd9d	Taladro
+1031	b1c78a20	Fuente
+1033	593b6246	Tragamonedas
+1034	8f50dc7b	Tablero de dardos
+1035	63806e64	Mesa de ping-pong
+1036	2720e53a	Líquido misterioso
+1037	6a1e968b	
+1038	32f3ee53	
+1039	95e9d4bb	Máquina arcade de mesa
+1040	b1d5081f	Máquina arcade
+1041	0fba3714	Mostrador
+1042	1e37ee7e	Pecera
+1100	e71e9631	Esconderse
+1201	57a5238d	Subir
+1202	83c3cfbb	Bajar
+10000	96f2bfad	Candado caído
+10001	d0e7409f	Bote de basura
+10002	a2863ab3	Trozo de papel
+10003	14e2796b	Cadáver
+10004	3d71b571	Escombros
+10005	ac59fefa	Cono de tránsito
+10006	8035bd1e	Puente peatonal derrumbado
+101020	a9fb6762	Patio
+103010	79a52714	Pasillo P3
+103013	f7097d68	Pasillo P3 (sur)
+103014	1aa2a802	Pasillo P3 (norte)
+103020	cf2708d9	Pasillo de conexión P3
+105010	ef8f7024	Azotea (sur)
+105020	7215b864	Azotea (norte)
+201010	54651b6a	Vestíbulo
+201020	a203225b	Cafetería
+201030	841a4470	Garaje
+201040	59abcefa	Taller metalúrgico
+201050	c88f3625	Habitación misteriosa
+201060	7e7c8904	Aula P1
+201070	53ba1f65	Estacionamiento
+201080	64100eb5	Gimnasio
+201300	98b03b4a	Baño de hombres P1 (norte)
+201301	2c79388e	Baño de hombres P1 (sur)
+201310	b51bb9b8	Baño de mujeres P1 (norte)
+201311	1b2f6b81	Baño de mujeres P1 (sur)
+202010	5ce98c4a	Laboratorio biológico
+202020	699336a7	Biblioteca
+202030	3406b195	Sala de entrenamiento
+202040	af6871aa	
+202200	e7dffa7a	Aula P2
+202300	2bf7e355	Baño de hombres P2 (norte)
+202301	e861a0e3	Baño de hombres P2 (sur)
+202310	875c7b6e	Baño de mujeres P2 (norte)
+202311	85014292	Baño de mujeres P2 (sur)
+203010	e7728758	Sala de Guerra
+203020	0eddb6d7	Sala de recreo
+203030	7cf34219	Sala de descanso
+203040	853e154f	Enfermería
+203050	a10cf055	Entrada de la Sala de Defensa
+203200	f3596cfa	Aula P3
+203300	861a42ec	Baño de hombres P3 (norte)
+203301	db9f347c	Baño de hombres P3 (sur)
+203310	991c7895	Baño de mujeres P3 (norte)
+203311	2d9a354a	Baño de mujeres P3 (sur)
+204010	e4564176	Sala de Defensa
+205010	371a64ce	Habitación de Takumi Sumino
+205020	1a6334f8	Habitación de Takemaru Yakushiji
+205030	eed602d1	Habitación de Hiruko Shizuhara
+205040	b7501ed8	Habitación de Darumi Amemiya
+205050	e365e0ff	Habitación de Eito Aotsuki
+205060	40ffe7fa	Habitación de Tsubasa Kawana
+205070	1da1e171	Habitación de Gaku Maruko
+205080	8d65acc3	Habitación de Ima Tsukumo
+205090	7125bf55	Habitación de Kako Tsukumo
+205100	2de4eb67	Habitación de Shouma Ginzaki
+205110	a7e6c5c3	Habitación de Nozomi Kirifuji
+205120	9965ac79	Habitación de Kurara Oosuzuki
+205130	84028077	Habitación de Kyoshika Magadori
+205140	16384405	Habitación de Yugamu Omokage
+205150	050d793d	Habitación de Moko Mojiro
+206010	6f201263	Habitación oculta
+221010	1d3971ac	Aula de la escuela abandonada
+215010	ce32108f	Habitación individual

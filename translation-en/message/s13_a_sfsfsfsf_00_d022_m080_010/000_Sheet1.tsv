@@ -1,0 +1,55 @@
+id	huella_jp	es
+10	7f7cae7b	¿Esto es... el dispositivo de petición de rescate?
+20	15a65742	¿Shion sabe qué tipo de aparato es?
+30	539c3eed	Sí, SIREI y NIGOU lo estaban comentando...
+40	48a9b66e	¿Puedes contárnoslo, por si acaso?\nQuiero comprobar si coincide con lo que sabemos.
+50	53542c2f	No hay problema.
+60	c5e2259f	Pero antes... para no confundirnos, definamos términos.
+70	438e39d5	Primero, esta academia donde estamos, la Última Academia de Defensa,\nla llamaré por comodidad {fc(ff635b)"Academia 1"} o {fc(ff635b)"1"}.
+80	395cb93a	La Penúltima será {fc(ff635b)"Academia 2"} o {fc(ff635b)"2"}.
+90	ba542ed0	Luego, los miembros del cuerpo que originalmente estaban en la 1\nserán el {fc(ff635b)"Grupo 1"}...
+100	2f572917	Y los destinados a la 2, el {fc(ff635b)"Grupo 2"}.\nAbreviémoslo así.
+110	9e2a1ad3	{fc(57e4f1)Algo parecido ya lo había oído en alguna parte...\nCreo que también fue en la TL del Misterio.}
+120	4ab86780	{fc(57e4f1)Con eso en mente, escuché el relato de Shion.\nResumido, fue más o menos así.}
+130	e7b6c1a3	{fc(57e4f1)El dispositivo de petición de rescate\nsirve para salvar a un último sobreviviente del Grupo 1.}
+140	08c76d7f	{fc(57e4f1)Si queda un solo sobreviviente,\nya no hay esperanza de ganar la guerra.}
+150	42e6460f	{fc(57e4f1)Entonces, se rescata al sobreviviente para prepararse a la siguiente ocasión.\nEse es el propósito básico del aparato.}
+160	24aa559e	{fc(57e4f1)Si el sobreviviente ingresa en el aparato los números indicados,\nse envía literalmente una petición de rescate al Satélite Artificial.}
+170	d4d3dfca	{fc(57e4f1)El Satélite Artificial que la recibe\nenvía de inmediato un bote de rescate a esta academia...}
+180	26b68e7f	{fc(57e4f1)y el sobreviviente puede subir a él y escapar al satélite.}
+190	65cf746e	Por cierto, la capacidad máxima del bote de rescate es de 2 toneladas.
+200	9a9ee388	SIREI y los demás decían que por eso\ntambién se pueden recuperar cadáveres, para que no los roben los enemigos.
+210	b5fe094e	Ah, eso es la primera vez que lo oigo...
+220	1ab2c891	Quizás haya más datos que no sabemos...\nShion, ¿sigues?
+230	57f6bcef	{fc(57e4f1)Shion asintió y volvió a hablar.}
+240	6888edcb	{fc(57e4f1)Cuando un miembro del cuerpo pierde toda su criptoglobina,\nno se puede revivir y queda en }{fc(ff635b)"estado de muerte completa"}{fc(57e4f1).}
+250	fa976a7d	{fc(57e4f1)En la espalda de un miembro en }{fc(ff635b)"muerte completa"}{fc(57e4f1)\naparece lo que se llama }{fc(ff635b)"número de lividez"}{fc(57e4f1).}
+260	6b643dab	{fc(57e4f1)Para activar el aparato, el sobreviviente debe ingresar\nlos }{fc(ff635b)"números de lividez"}{fc(57e4f1) de los otros nueve del Grupo 1.}
+270	6acf1b62	{fc(57e4f1)Esa entrada sirve como prueba de la }{fc(ff635b)"muerte completa de los otros nueve"}{fc(57e4f1)\ny hace que el aparato envíe la petición de rescate.}
+280	95a41019	La gente del satélite no pensó que el Grupo 1 y el Grupo 2\nse juntarían...
+290	901c576d	Por eso solo hace falta ingresar los números de lividez\ndel Grupo 1.
+300	46b881b9	{fc(57e4f1)Así que era eso...}
+310	eb1f8d75	¿Algo más...?
+320	5ab11ac5	Mm, dijeron que si falla el ingreso de los números...\ntodas las personas de esta sala desaparecen.
+330	ce6ec84b	De ese tanque de allá sale gas venenoso...
+340	4e01be34	Es un gas terrible que derrite todo objeto,\nconvirtiéndolo en papilla...
+350	37de937c	SIREI y los demás decían que no sirve ni con máscara de gas\nni con traje de protección.
+360	b4c10a3f	{fc(57e4f1)...\n...}
+370	55b6ce4a	Eso es lo que oí. ¿Qué tal?\n¿Hubo alguna información nueva?
+380	c137b108	{fc(57e4f1)Shizuhara y yo negamos con la cabeza...}
+390	0ce12f9a	Básicamente coincidió con lo que sabíamos.
+400	12e1032b	Salvo lo de la capacidad máxima.
+410	2557e24a	O sea que no fue de mucha ayuda...
+420	d014844d	No es así.
+430	45ee7e54	Con recordarnos la existencia de este aparato basta...
+440	2ecb5380	Ya veo, si es así, bien...
+450	14c0318f	{fc(57e4f1)Las mejillas de Shion se aflojaron un poco.}
+460	ecbdcce1	Perdón, me tengo que ir...\nHoy me quedé demasiado rato.
+470	f1863dc3	Si me quedo así, la carga de energía se verá afectada...
+480	8e7d9b41	Hasta luego.
+490	1cd34278	{fc(57e4f1)Dicho eso, Shion desapareció suavemente.}
+500	d87db7e5	Y este aparato... ¿qué hacemos?
+510	dc98ccf7	¿Qué podemos hacer, aparte de dejarlo?\nSin que mueran nueve del Grupo 1, este aparato no se usa...
+520	ccc40a22	Es verdad...\nPara nosotros no tiene sentido.
+530	b542d2c7	Nuestro objetivo es salir del bucle temporal\ny recibir riendo el día 100, todos...
+540	be9f004f	Sí, por eso no hay que preocuparse del aparato.\nPor ahora, olvidémoslo.

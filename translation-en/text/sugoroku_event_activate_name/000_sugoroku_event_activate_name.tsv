@@ -1,0 +1,45 @@
+id	huella_jp	es
+1	4c76e8bd	No pasó nada en particular
+2	028803a9	Obtuviste: [item_name].
+3	93813715	Evento vacío
+11	625f0b3e	[icon_p1]Tasa +[effect]%%
+12	da01137a	{fc(ff0000)[icon_p1]Tasa [effect]%%}
+21	836cac43	[icon_p2]Tasa +[effect]%%
+22	fdf75929	{fc(ff0000)[icon_p2]Tasa [effect]%%}
+31	7ab87d68	[icon_p3]Tasa +[effect]%%
+32	f3f9dc18	{fc(ff0000)[icon_p3]Tasa [effect]%%}
+41	41300c2e	[icon_p4]Tasa +[effect]%%
+42	1b229722	{fc(ff0000)[icon_p4]Tasa [effect]%%}
+51	20e14b28	[icon_bp]Tasa +[effect]%%
+52	1ea7f3c9	{fc(ff0000)[icon_bp]Tasa [effect]%%}
+61	dfe701b0	Tasa de obtención de todos los materiales +[effect]%%
+62	d3c96f36	{fc(ff0000)Tasa de obtención de todos los materiales [effect]%%}
+71	e060d0e9	{fc(ff0000)Perdiste: [item_name1].}
+72	2a4cce9f	{fc(ff0000)Perdiste: [item_name1] y [item_name2].}
+73	a42aa1ab	{fc(ff0000)Perdiste: [item_name1], [item_name2] y [item_name3].}
+81	a005f887	{fc(ff0000)El próximo turno tendrás [num] cartas menos en la mano}
+91	21a5b920	Moverse [num] casillas en una dirección al azar
+101	4d1e3510	Avanzar [num] casillas
+102	457e6dbf	{fc(ff0000)Retroceder [num] casillas}
+111	2d73d181	Volver a sacar [num] cartas de la mano
+121	7233b6bf	{fc(ff0000)¡Combate!}
+131	d469546e	Las casillas cercanas se vuelven casillas de BP durante [num] turnos
+132	246bb9f0	Las casillas cercanas se vuelven casillas de plantas durante [num] turnos
+133	d3488016	Las casillas cercanas se vuelven casillas de textiles durante [num] turnos
+134	28978f11	Las casillas cercanas se vuelven casillas de minerales durante [num] turnos
+135	d02d1b5f	Las casillas cercanas se vuelven casillas de máquinas durante [num] turnos
+141	ecf2165c	Volver a sortear las casillas
+151	d9f3198c	Movimiento +[num]
+152	e2f4a071	{fc(ff0000)Movimiento [num]}
+201	175d7434	{fc(ff0000)[chr] sufrió heridas. HP -[num]}
+211	760f9fde	{fc(ff0000)[chr] sufrió heridas. HP -[num]%%}
+301	175d7434	{fc(ff0000)[chr] sufrió heridas. HP -[num]}
+311	760f9fde	{fc(ff0000)[chr] sufrió heridas. HP -[num]%%}
+401	bf67ed6f	{fc(ff0000)Todo el grupo sufrió heridas. HP -[num]}
+411	19f2ffa9	{fc(ff0000)Todo el grupo sufrió heridas. HP -[num]%%}
+501	aff0d909	Las heridas de [chr] sanaron. HP +[num]
+511	71bd9c19	Las heridas de [chr] sanaron. HP +[num]%%
+601	aff0d909	Las heridas de [chr] sanaron. HP +[num]
+611	71bd9c19	Las heridas de [chr] sanaron. HP +[num]%%
+701	4deab990	Las heridas de todo el grupo sanaron. HP +[num]
+711	ade408a4	Las heridas de todo el grupo sanaron. HP +[num]%%

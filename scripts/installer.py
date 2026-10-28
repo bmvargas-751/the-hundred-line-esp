@@ -1,10 +1,12 @@
 """Instalador de la traducción al español. Funciona igual en Windows y en Linux (Steam Deck incluida).
 
-  python3 installer.py install     arma la traducción desde tu copia del juego y la instala
+  python3 installer.py install     arma la traducción desde tu copia del juego y la instala (pregunta con qué doblaje vas a jugar)
   python3 installer.py uninstall   quita la traducción y restaura los archivos originales
   python3 installer.py status      muestra qué hay instalado
 
-Opciones: --game RUTA  carpeta del juego (si no se indica, se busca sola)
+Opciones: --version jp|en  doblaje japonés (subtítulos basados en el japonés) o inglés (basados en el inglés);
+                     si no se indica, pregunta
+          --game RUTA  carpeta del juego (si no se indica, se busca sola)
           --force      sigue aunque la versión del juego no sea la traducida
           --pause      espera un Enter al terminar (para cuando se abre con doble clic)
 
@@ -31,6 +33,7 @@ ROOT = td.ROOT
 GAME_NAME = "The Hundred Line -Last Defense Academy-"
 BACKUP = ROOT / "backup"
 INSTALLED = BACKUP / "installed.sha256"  # hashes de los archivos del parche que instalamos
+INSTALLED_VERSION = BACKUP / "version.txt"  # cuál versión (jp o en) quedó instalada
 MVGL_VERSION = "v2.2.0"
 # sha256 de los archivos originales de la versión del juego que traducimos (actualización de Steam del 2026-09-17)
 SUPPORTED = {
@@ -185,9 +188,26 @@ def read_installed():
     return set(INSTALLED.read_text().split()) if INSTALLED.exists() else set()
 
 
+def choose_version(args):
+    if args.version:
+        return args.version
+    if not sys.stdin.isatty():
+        raise Fail("Indica con qué doblaje vas a jugar: --version jp (japonés) o --version en (inglés).")
+    say("¿Con qué doblaje vas a jugar?")
+    say("  1) Doblaje japonés: los subtítulos siguen el texto en japonés")
+    say("  2) Doblaje inglés: los subtítulos siguen el texto en inglés")
+    while True:
+        ans = input("Elige 1 o 2: ").strip()
+        if ans in ("1", "2"):
+            return "jp" if ans == "1" else "en"
+
+
 def cmd_install(args):
     game = find_game(args.game)
     say(f"Juego: {game}")
+    version = choose_version(args)
+    td.set_version(version)
+    say(f"Versión: {td.VERSION_NAMES[version]}")
     installed = read_installed()
     sources = {}
     for name in ALL:
@@ -232,6 +252,7 @@ def cmd_install(args):
             installed.add(sha256(built[name]))
             say(f"  instalado: {name}")
         INSTALLED.write_text("\n".join(sorted(installed)) + "\n")
+        INSTALLED_VERSION.write_text(version + "\n")
     finally:
         shutil.rmtree(work, ignore_errors=True)
     say("\nListo. Abre el juego, pon el idioma en English y verás el texto en español.")
@@ -256,6 +277,8 @@ def cmd_status(args):
     game = find_game(args.game)
     say(f"Juego: {game}")
     installed = read_installed()
+    if installed and INSTALLED_VERSION.exists():
+        say(f"Última versión instalada: {td.VERSION_NAMES.get(INSTALLED_VERSION.read_text().strip(), '?')}")
     for name in ALL:
         h = sha256(archive_file(game, name))
         if h in installed:
@@ -275,6 +298,7 @@ def main():
             pass
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("cmd", choices=["install", "uninstall", "status"])
+    ap.add_argument("--version", choices=sorted(td.VERSIONS), help="jp: doblaje japonés; en: doblaje inglés")
     ap.add_argument("--game")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--pause", action="store_true")

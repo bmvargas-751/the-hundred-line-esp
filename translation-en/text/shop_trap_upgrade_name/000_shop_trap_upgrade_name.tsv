@@ -1,0 +1,41 @@
+id	huella_jp	es
+100	c1ab9656	Obtener Valla metálica
+101	d67f7f9a	Valla metálica Lv1 → Lv2
+102	aff6960e	Valla metálica Lv2 → Lv3
+103	5127e7ce	Valla metálica Lv3 → Lv4
+104	e651b3aa	Valla metálica Lv4 → Lv5
+105	500e0e0b	Valla metálica Lv5 → Lv6
+106	f530e682	Valla metálica Lv6 → Lv7
+107	f15a8fac	Valla metálica Lv7 → Lv8
+108	408f0f67	Valla metálica Lv8 → Lv9
+109	31f3eb54	Valla metálica Lv9 → MAX
+200	faba755a	Obtener Valla electrificada
+201	041d602a	Valla electrificada Lv1 → Lv2
+202	5bbd93e6	Valla electrificada Lv2 → Lv3
+203	b8cdb007	Valla electrificada Lv3 → Lv4
+204	21c98a78	Valla electrificada Lv4 → Lv5
+205	a9470d25	Valla electrificada Lv5 → Lv6
+206	165d6d66	Valla electrificada Lv6 → Lv7
+207	d7933f5d	Valla electrificada Lv7 → Lv8
+208	bd5b8ba2	Valla electrificada Lv8 → Lv9
+209	1479d779	Valla electrificada Lv9 → MAX
+300	d2fb7a36	Obtener Mina explosiva
+301	2ab94b05	Mina explosiva Lv1 → Lv2
+302	fd963dc4	Mina explosiva Lv2 → Lv3
+303	55f8905d	Mina explosiva Lv3 → Lv4
+304	1dc728c5	Mina explosiva Lv4 → Lv5
+305	ada1d48f	Mina explosiva Lv5 → Lv6
+306	8a32d68f	Mina explosiva Lv6 → Lv7
+307	f9b39723	Mina explosiva Lv7 → Lv8
+308	cc9dfc3e	Mina explosiva Lv8 → Lv9
+309	07471417	Mina explosiva Lv9 → MAX
+400	d4c566d8	Obtener Trampa de resorte
+401	87e95081	Trampa de resorte Lv1 → Lv2
+402	1d02ae5c	Trampa de resorte Lv2 → Lv3
+403	d0123bb2	Trampa de resorte Lv3 → Lv4
+404	dd4d95b9	Trampa de resorte Lv4 → Lv5
+405	d36520f8	Trampa de resorte Lv5 → Lv6
+406	746623fb	Trampa de resorte Lv6 → Lv7
+407	5f10a9d5	Trampa de resorte Lv7 → Lv8
+408	a863a753	Trampa de resorte Lv8 → Lv9
+409	3dbe2684	Trampa de resorte Lv9 → MAX

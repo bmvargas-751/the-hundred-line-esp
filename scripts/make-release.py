@@ -63,7 +63,10 @@ Traducción no oficial, hecha por fans. No incluye el juego: se arma con TU copi
 INSTALAR
   1. Esta carpeta ({TOP}) tiene que quedar DENTRO de la carpeta del juego, junto a "gamedata".
      En Steam: clic derecho en el juego > Administrar > Explorar archivos locales.
-  2. Ejecuta {launch}.{extra}
+  2. Ejecuta {launch}.{extra} Te pregunta con qué doblaje vas a jugar:
+       1) Doblaje japonés: los subtítulos siguen el texto en japonés.
+       2) Doblaje inglés: los subtítulos siguen el texto en inglés.
+     Puedes cambiar de versión volviendo a ejecutar {launch}.
   3. Abre el juego, ve a Opciones y pon el idioma en English: el texto aparece en español.
 
 DESINSTALAR
@@ -72,7 +75,7 @@ DESINSTALAR
 
 Si el juego se actualiza, Steam pisa el parche: vuelve a ejecutar {launch}.
 Errores y comentarios (sin spoilers): https://github.com/bmvargas-751/the-hundred-line-esp/issues
-Licencias: ver LICENSE.md y translation/LICENSE. MVGLTools trae la suya en tools/.
+Licencias: ver LICENSE.md y translation/LICENSE (igual en translation-en/). MVGLTools trae la suya en tools/.
 """
 
 
@@ -92,9 +95,10 @@ def common_files(version, windows):
     files = []
     for s in SCRIPTS:
         files.append((f"scripts/{s}", (ROOT / "scripts" / s).read_bytes(), False))
-    for p in sorted((ROOT / "translation").rglob("*")):
-        if p.is_file():
-            files.append((p.relative_to(ROOT).as_posix(), p.read_bytes(), False))
+    for folder in ("translation", "translation-en"):
+        for p in sorted((ROOT / folder).rglob("*")):
+            if p.is_file():
+                files.append((p.relative_to(ROOT).as_posix(), p.read_bytes(), False))
     for d in DOCS:
         files.append((d, (ROOT / d).read_bytes(), False))
     files.append(("LEEME.txt", readme(version, windows).replace("\n", "\r\n" if windows else "\n").encode("utf-8"), False))
