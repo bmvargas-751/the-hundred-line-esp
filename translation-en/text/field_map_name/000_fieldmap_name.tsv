@@ -1,0 +1,208 @@
+id	huella_jp	es
+101010	da621426	Pasillo P1
+101011	ee830a1f	Pasillo P1 (este)
+101012	da790456	Pasillo P1 (oeste)
+101013	1f78b169	Pasillo P1 (sur)
+101014	cf666bbf	Pasillo P1 (norte)
+102010	7aa1e572	Pasillo P2
+102011	4bbcee69	Pasillo P2 (este)
+102012	2a810b14	Pasillo P2 (oeste)
+102013	6a572b48	Pasillo P2 (sur)
+102014	5aa10be0	Pasillo P2 (norte)
+103010	79a52714	Pasillo P3
+103011	1cf982ac	Pasillo P3 (este)
+103012	217ab020	Pasillo P3 (oeste)
+103013	f7097d68	Pasillo P3 (sur)
+103014	1aa2a802	Pasillo P3 (norte)
+103020	cf2708d9	Pasillo de conexión P3
+105010	ef8f7024	Azotea (sur)
+105020	7215b864	Azotea (norte)
+111010	6c6b8aec	Penúltima Academia - Pasillo P1
+111011	f962c73b	Penúltima Academia - Pasillo P1 (este)
+111012	d525c896	Penúltima Academia - Pasillo P1 (oeste)
+111013	624710fa	Penúltima Academia - Pasillo P1 (sur)
+111014	ee919d3a	Penúltima Academia - Pasillo P1 (norte)
+112010	48434b00	Penúltima Academia - Pasillo P2
+112011	815a56d7	Penúltima Academia - Pasillo P2 (este)
+112012	bf9a360e	Penúltima Academia - Pasillo P2 (oeste)
+112013	cddecd17	Penúltima Academia - Pasillo P2 (sur)
+112014	58d19cd6	Penúltima Academia - Pasillo P2 (norte)
+113010	2c153a4d	Penúltima Academia - Pasillo P3
+113011	0d4fbc42	Penúltima Academia - Pasillo P3 (este)
+113012	d9c95563	Penúltima Academia - Pasillo P3 (oeste)
+113013	96900bca	Penúltima Academia - Pasillo P3 (sur)
+113014	449ee450	Penúltima Academia - Pasillo P3 (norte)
+113020	13601372	Penúltima Academia - Pasillo de conexión P3
+115010	9b98d133	Penúltima Academia - Azotea
+121010	fdc35a61	Escuela abandonada - Pasillo P1
+121020	a71530a2	Escuela abandonada - Pasillo P2
+201010	54651b6a	Vestíbulo
+201020	a203225b	Cafetería
+201030	841a4470	Garaje
+201040	59abcefa	Taller metalúrgico
+201050	7e7c8904	Aula P1
+201060	64100eb5	Gimnasio
+201070	1cf88623	Patio de la escuela
+201080	53ba1f65	Estacionamiento
+201100	c88f3625	Habitación misteriosa
+201300	f638a020	Baño de hombres P1 (norte)
+201301	6799353a	Baño de hombres P1 (sur)
+201310	381fc175	Baño de mujeres P1 (norte)
+201311	cd44be5b	Baño de mujeres P1 (sur)
+202010	5ce98c4a	Laboratorio biológico
+202020	3406b195	Sala de entrenamiento
+202030	699336a7	Biblioteca
+202040	af6871aa	
+202050	e7dffa7a	Aula P2
+202060	a9fb6762	Patio
+202300	34a467a4	Baño de hombres P2 (norte)
+202301	d6e6aef7	Baño de hombres P2 (sur)
+202302	34a467a4	Baño de hombres P2 (norte)
+202310	1c824e41	Baño de mujeres P2 (norte)
+202311	38ecff08	Baño de mujeres P2 (sur)
+202510	a9fb6762	Patio
+203010	e7728758	Sala de Guerra
+203020	0eddb6d7	Sala de recreo
+203030	7cf34219	Sala de descanso
+203040	853e154f	Enfermería
+203050	f3596cfa	Aula P3
+203300	c076693e	Baño de hombres P3 (norte)
+203301	144c6209	Baño de hombres P3 (sur)
+203310	5377b4d5	Baño de mujeres P3 (norte)
+203311	e75a4aa4	Baño de mujeres P3 (sur)
+203500	7cf34219	Sala de descanso
+204010	a10cf055	Entrada de la Sala de Defensa
+204020	e4564176	Sala de Defensa
+204510	e4564176	Sala de Defensa
+205010	371a64ce	Habitación de Takumi Sumino
+205020	1a6334f8	Habitación de Takemaru Yakushiji
+205030	eed602d1	Habitación de Hiruko Shizuhara
+205040	b7501ed8	Habitación de Darumi Amemiya
+205050	e365e0ff	Habitación de Eito Aotsuki
+205060	40ffe7fa	Habitación de Tsubasa Kawana
+205070	1da1e171	Habitación de Gaku Maruko
+205080	8d65acc3	Habitación de Ima Tsukumo
+205090	7125bf55	Habitación de Kako Tsukumo
+205100	2de4eb67	Habitación de Shouma Ginzaki
+205110	a7e6c5c3	Habitación de Nozomi Kirifuji
+205120	9965ac79	Habitación de Kurara Oosuzuki
+205130	84028077	Habitación de Kyoshika Magadori
+205140	16384405	Habitación de Yugamu Omokage
+205150	050d793d	Habitación de Moko Mojiro
+205551	371a64ce	Habitación de Takumi Sumino
+205552	af52cff8	Habitación vacía
+206010	3194132d	Sótano - Habitación oculta
+210110	b82568ec	Penúltima Academia - Garaje
+210120	e6c85bb8	Penúltima Academia - Cafetería
+210130	1c9bff94	Penúltima Academia - Baño de hombres P1 (norte)
+210140	e2a31e2e	Penúltima Academia - Baño de hombres P1 (sur)
+210150	d47f95d3	Penúltima Academia - Gimnasio
+210160	4315d940	Penúltima Academia - Estacionamiento
+210210	54cd1618	Penúltima Academia - Sala de entrenamiento
+210220	c44bf6fa	Penúltima Academia - Baño de hombres P2 (norte)
+210230	d37135bc	Penúltima Academia - Baño de hombres P2 (sur)
+210310	2bd2c5cb	Penúltima Academia - Sala de Guerra
+210320	21d6e81c	Penúltima Academia - Enfermería
+210330	fcd8487c	Penúltima Academia - Baño de hombres P3 (norte)
+210340	b3f16617	Penúltima Academia - Baño de hombres P3 (sur)
+210410	9a416e3e	Penúltima Academia - Entrada de la Sala de Defensa
+210510	563b1789	Penúltima Academia - Habitación individual
+220010	55487c96	Alrededores de la escuela
+220020	dcce6b4f	Ciudad en ruinas
+221010	868ed4be	Escuela abandonada - Aula
+500000	da621426	Pasillo P1
+500001	7aa1e572	Pasillo P2
+500002	79a52714	Pasillo P3
+500003	48434b00	Penúltima Academia - Pasillo P2
+500004	2c153a4d	Penúltima Academia - Pasillo P3
+500005	7aa1e572	Pasillo P2
+500006	da621426	Pasillo P1
+500007	da621426	Pasillo P1
+500008	da621426	Pasillo P1
+500009	7aa1e572	Pasillo P2
+500010	79a52714	Pasillo P3
+500011	da621426	Pasillo P1
+500012	7aa1e572	Pasillo P2
+500013	79a52714	Pasillo P3
+500014	da621426	Pasillo P1
+500015	7aa1e572	Pasillo P2
+500018	7aa1e572	Pasillo P2
+500019	da621426	Pasillo P1
+500020	7aa1e572	Pasillo P2
+500021	79a52714	Pasillo P3
+500023	7aa1e572	Pasillo P2
+500024	79a52714	Pasillo P3
+500025	79a52714	Pasillo P3
+500026	7aa1e572	Pasillo P2
+500027	da621426	Pasillo P1
+500028	da621426	Pasillo P1
+500029	7aa1e572	Pasillo P2
+500030	da621426	Pasillo P1
+500031	79a52714	Pasillo P3
+500032	7aa1e572	Pasillo P2
+500033	da621426	Pasillo P1
+500034	da621426	Pasillo P1
+500035	da621426	Pasillo P1
+500036	7aa1e572	Pasillo P2
+500038	79a52714	Pasillo P3
+500040	79a52714	Pasillo P3
+500041	7aa1e572	Pasillo P2
+500042	da621426	Pasillo P1
+500043	7aa1e572	Pasillo P2
+500044	79a52714	Pasillo P3
+500045	da621426	Pasillo P1
+500046	7aa1e572	Pasillo P2
+500047	79a52714	Pasillo P3
+500048	64100eb5	Gimnasio
+700001	f7d4fc1c	Persuasión
+700102	632d8148	¿Quién mató a Kako y apuñaló a Ginzaki?
+700103	e160105b	¿Quién mató a Ginzaki?
+700104	8e67a6e0	¿Quién es X?
+700105	5595d10f	¿Quién está detrás de todo?
+802010	dcce6b4f	Ciudad en ruinas
+802020	0f4aa840	Dentro de las ruinas
+802030	b5a0f7b0	Centro de investigación
+802040	a231b916	Frente al centro de investigación
+802050	dcce6b4f	Ciudad en ruinas
+802060	dcce6b4f	Ciudad en ruinas
+802070	0f35280c	Aldea de la resistencia
+802080	039413af	Cueva
+802090	e1d3de16	Costa
+802100	68ef4c54	Montaña
+802110	ce863dbf	Túneles
+802120	5191936b	Zona residencial
+802130	dcce6b4f	Ciudad en ruinas
+802140	4ea30867	Santuario
+802150	e1d3de16	Costa
+802210	e63593dc	Dentro del autobús escolar
+802220	1e263456	Dentro de la cápsula de escape
+802310	44d08e59	Hangar
+802320	1e263456	Dentro de la cápsula de escape
+802330	dd4aeed8	Detrás de la escuela
+802340	d92836b0	Bosque
+802350	c4090f2a	Entrada principal
+802360	55487c96	Alrededores de la escuela
+802370	4308f523	Cancha de tenis
+802380	42ba27ba	Estacionamiento de bicicletas
+802390	c4090f2a	Entrada principal
+802400	44d08e59	Hangar
+802410	c4090f2a	Entrada principal
+802510	dd1740c9	Penúltima Academia - Entrada principal
+802520	dd1740c9	Penúltima Academia - Entrada principal
+802530	dd1740c9	Penúltima Academia - Entrada principal
+802560	5c334491	Museo de arte
+802570	0513a0e7	
+802580	392e9860	Casa del comandante del escuadrón 11
+802590	de3602a0	Mansión
+802600	5666ccf5	Zona de edificios
+802640	60c717d1	Base de los invasores
+802650	60c717d1	Base de los invasores
+802660	60c717d1	Base de los invasores
+802670	60c717d1	Base de los invasores
+802680	963fbdc3	Base de los invasores - Celda
+802690	60c717d1	Base de los invasores
+802710	dbfd1844	Complejo Residencial de Tokio
+802720	1cf88623	Patio de la escuela
+802730	f3255b30	Aula
+802740	e1d3de16	Costa
+802750	e1d3de16	Costa

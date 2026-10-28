@@ -2,6 +2,8 @@
 import re
 from collections import Counter
 
+import thldatos as td
+
 CODE = re.compile(r"\{[a-z]+\d*(?:\([^)]*\))?|\}|%[sd]")
 EN_WORDS = re.compile(r"\b(the|you|and|what|this|that|is|are|was|don't|I'm|it's|with|for|have|just|gonna)\b", re.I)
 VISIBLE = re.compile(r"\{[a-z]+\d*(?:\([^)]*\))?|\}")
@@ -168,7 +170,7 @@ def check_line(r):
         if m:
             out.append(("glosario", f"'{m.group(0)}' -> {fix}"))
     jp = r.get("jp", "")
-    for jp_rx, rx, fix in JP_TERMS:
+    for jp_rx, rx, fix in (JP_TERMS if td.VERSION == "jp" else ()):
         m = jp and jp_rx.search(jp) and rx.search(es)
         if m:
             out.append(("japones", f"'{m.group(0)}' -> {fix}"))

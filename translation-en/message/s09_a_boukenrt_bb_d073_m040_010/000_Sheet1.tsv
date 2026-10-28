@@ -1,0 +1,59 @@
+id	huella_jp	es
+10	fe644cea	{fc(57e4f1)Llegamos al museo.\nPero estaba en ruinas, completamente saqueado.}
+20	b841dc5e	Mm... lo saquearon hace muy poco.\nHay huellas que parecen de invasores.
+30	ef7be9f5	No siento su presencia.\n¿Habrán encontrado lo que buscaban y se fueron?
+40	de336993	Tampoco hay rastro de la caja.\n¿Se nos adelantaron?
+50	28289149	Investiguemos un poco más.\nQuizás haya alguna pista.
+60	4d2a76bf	{fc(57e4f1)Pero, por desgracia, pese a nuestra exploración,\nen el museo no hallamos ni la caja ni una sola pista.}
+70	d9bb888d	{fc(57e4f1)Parece que los invasores se lo llevaron todo.}
+80	4bc51849	{fc(57e4f1)En cambio, lo que encontramos fueron\ndocumentos esparcidos al azar.}
+90	92a5f65e	{fc(57e4f1)Y nos quedamos atónitos.\nLas palabras y letras escritas en esos documentos...}
+100	24cd709a	{fc(57e4f1)no eran del idioma de Futurum,\nsino del que usamos todos los días.}
+110	02a72086	¿Qué significa esto...?\n¿Por qué nuestro idioma en el planeta Futurum?
+120	b88099b4	Parece que dice cosas muy complicadas...
+130	4fe931da	¡En todo caso, leámoslos!
+140	ab0bce85	{fc(57e4f1)En ellos, aunque fragmentariamente,\nestaba escrito esto...}
+150	b1b5bf05	{fc(57e4f1)Informe de investigación del planeta KXK-787...}
+160	97dafaf9	{fc(57e4f1)Se consignan los resultados de la investigación de nuestra comisión,\nacompañante de la primera operación de conquista...}
+170	b01e41fd	{fc(57e4f1)KXK-787 se llama Futurum en el idioma local.\nSe considera que equivale al significado de}{fc(ff635b)"tierra"}{fc(57e4f1)}
+180	2e216a37	{fc(57e4f1)Considerando composición atmosférica, gravedad y radiación estelar,\nno cambia la conclusión de que es habitable para la humanidad.}
+190	9fafb750	{fc(57e4f1)La tecnología militar de la inteligencia nativa es muy baja,\ny los cazas orbitales y tanques de la primera flota fueron eficaces, pero...}
+200	140d5f8d	{fc(57e4f1)Con la aparición de individuos con la habilidad especial llamada}{fc(ff635b)"criptoglobina"}{fc(57e4f1)\nla primera flota de conquista fue aniquilada.}
+210	93090327	{fc(57e4f1)Nuestra nave de exploración perdió la capacidad de despegue,\ny se ejecutó la liberación indiscriminada de armas biológicas por secreto.}
+220	117c765b	{fc(57e4f1)Con armas bacteriológicas realizamos el suicidio,\ny la eliminación de testigos en decenas de kilómetros a la redonda.}
+230	7468c828	{fc(57e4f1)Este registro fue transmitido por comunicación superlumínica\na la sede general del plan de migración humana, pero}
+240	298edea3	{fc(57e4f1)se imprime por si acaso.\nEs una medida pensando en las flotas de conquista de la segunda ola en adelante.}
+250	882966cb	{fc(57e4f1)Si pensamos en la tragedia de la Tierra, atacada por el fenómeno de la}{fc(ff635b)"Muerte del Mundo"}{fc(57e4f1)\nnuestro sacrificio es insignificante.}
+260	9c179231	{fc(57e4f1)El autosacrificio es lealtad. La esperanza es un pecado.\nEl deber solo termina con la muerte.}
+270	d384ec4b	{fc(57e4f1)...Desde el principio no se esperaba regreso...\nLa primera flota de conquista... es un sacrificio desechable de la humanidad...}
+280	f6b79b35	¿Qué es esto...?\n¡¿Qué dice...?!
+290	ad4169a6	{fc(57e4f1)Del interrogatorio a prisioneros locales se infiere que la}{fc(ff635b)"criptoglobina"}{fc(57e4f1)\nes producto de un artefacto sobrenatural llamado}{fc(ff635b)"caja"}{fc(57e4f1)}
+300	6585bc1c	{fc(57e4f1)La inteligencia nativa venera las}{fc(ff635b)"cajas"}{fc(57e4f1)y la}{fc(ff635b)"criptoglobina"}{fc(57e4f1)\nlo cual es natural dadas las extrañas capacidades de la}{fc(ff635b)"criptoglobina"}{fc(57e4f1)}
+310	4897e50d	{fc(57e4f1)La }{fc(ff635b)"criptoglobina"}{fc(57e4f1) se comporta ignorando aparentemente la conservación de la masa\ny retuerce las leyes físicas interfiriendo cuánticamente con la causalidad.}
+320	9800b420	{fc(57e4f1)En un espacio dominado por}{fc(ff635b)"criptoglobina"}{fc(57e4f1)densa, la mecánica newtoniana\nno funciona y nuestro armamento existente pierde eficacia.}
+330	11e726a3	{fc(57e4f1)Un ataque de saturación con armas convencionales, considerando la longitud de las líneas de suministro,\nes una mera teoría en el papel...}
+340	36f7f479	{fc(57e4f1)Se requiere desarrollar armas de}{fc(ff635b)"criptoglobina"}{fc(57e4f1)\nDetalles: véase (Anexo B).}
+350	700cde5c	{fc(57e4f1)Al mismo tiempo, por su naturaleza, las armas de}{fc(ff635b)"criptoglobina"}{fc(57e4f1)\ndeben tener ego.}
+360	ec69bf7f	{fc(57e4f1)La}{fc(ff635b)"criptoglobina"}{fc(57e4f1)recibe direccionalidad del espíritu de un ser inteligente.\nSe juzga imposible operarla con armas robóticas.}
+370	33389a57	{fc(57e4f1)Sobre los planes de armas de}{fc(ff635b)"criptoglobina"}{fc(57e4f1)véase (Anexo D)...\nPlanes alfa a gamma, descartados...}
+380	d8c4e342	{fc(57e4f1)Se reconoce la necesidad de formar fuerzas especiales para asegurar portadores compatibles de}{fc(ff635b)"criptoglobina"}{fc(57e4f1)\nSe considera tarea de la segunda flota de conquista en adelante...}
+390	3c68259b	{fc(57e4f1)(Anexo D) Sobre el sistema de gestión de las armas de\n{fc(ff635b)"criptoglobina"}{fc(57e4f1)desarrolladas con el plan...}
+400	baa8b955	{fc(57e4f1)Considerando operaciones lejos del mando conjunto,\nconviene que el sistema de gestión sea una IA de alto nivel capaz de juzgar por sí sola.}
+410	e2c40700	{fc(57e4f1)Previendo el riesgo de rebelión contra la humanidad, la conciencia humana misma\nse conecta a la red de computadoras...}
+420	a3fb0878	{fc(57e4f1)El inconsciente colectivo extraído de las conciencias conectadas\nse integra en una gestalt de tipo Jung-Ende...}
+430	cb2df250	{fc(57e4f1)System Information\nReinforcement...}
+440	4221d8c7	{fc(57e4f1)Exalted Intelligence...\nPlan SIREI...}
+450	b906d47d	{fc(57e4f1)Se recomienda como mejor decisión estratégica actual de la humanidad\nel control indirecto de la}{fc(ff635b)"criptoglobina"}{fc(57e4f1)por SIREI...}
+460	9dffcb9a	{fc(57e4f1)Aunque se duda de la existencia real de las}{fc(ff635b)"cajas"}{fc(57e4f1)\nlo adecuado es fijarlas como objetivo secundario de SIREI...}
+470	fd1f0e21	{fc(57e4f1)Sobre el desarrollo del portaaviones espacial de asalto para operar a SIREI...\nvéase (Anexo L)...}
+480	974978af	{fc(57e4f1)No quiero... no quiero morir... no quiero morir...\n¿Por qué nosotros en esta estrella...?}
+490	7efc049f	{fc(57e4f1)Los de arriba nos mandan con pasaje de ida,\ny al final nos dicen que nos suicidemos con armas biológicas...}
+500	3ae29f5c	{fc(57e4f1)Es una locura... muérete... muérete... que se mueran ellos también...\n¿Se permite imponernos el infierno solo a nosotros...?}
+510	4d6576ba	{fc(57e4f1)Muérete muérete muérete muérete muérete muérete muérete muérete muérete\nno quiero morir no quiero morir no quiero morir no quiero morir}
+520	88902fda	
+530	26f71300	{fc(57e4f1)Los documentos esparcidos terminaban de golpe...}
+540	7b9b7bc4	{fc(57e4f1)Nos fuimos de allí en silencio.}
+550	1894c667	{fc(57e4f1)Todas las células de mi cuerpo intuían...\nque habíamos visto algo que no debíamos ver...}
+560	950686f9	{fc(ff635b)"Criptoglobina"}{fc(57e4f1) y }{fc(ff635b)"cajas"}{fc(57e4f1) están relacionadas...\ny si eso tiene que ver con nosotros...}
+570	73c7efcb	{fc(57e4f1)Que busquemos las cajas, ¿será también un destino\nplaneado por alguien...?}
+580	b531af60	{fc(57e4f1)¿Hacia dónde vamos... nosotros, la Última Academia de Defensa?}

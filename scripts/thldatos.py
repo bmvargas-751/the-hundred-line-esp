@@ -1,12 +1,18 @@
 """Acceso a los textos: originales del juego (build/), nuestra traducción (translation/) y vista unificada."""
 import csv
 import hashlib
+import os
 import re
 from fnmatch import fnmatch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-TRANSLATION = ROOT / "translation"
+# Dos versiones de la traducción: "jp" (base japonés, para jugar con el doblaje japonés) y
+# "en" (base inglés, para el doblaje inglés). Cada una tiene su carpeta.
+VERSIONS = {"jp": "translation", "en": "translation-en"}
+VERSION_NAMES = {"jp": "Doblaje japonés", "en": "Doblaje inglés"}
+VERSION = "jp"
+TRANSLATION = ROOT / VERSIONS["jp"]
 VANILLA = ROOT / "build" / "vanilla"  # inglés original (scripts/extract.sh)
 JAPANESE = ROOT / "build" / "jp"  # japonés original (scripts/extract.sh)
 # En orden de prioridad creciente: patch pisa a app. Los _steam traen los textos propios de la versión de PC
@@ -15,6 +21,17 @@ ARCHIVES = ("app_text01", "app_steam_text01", "patch_text01", "patch_steam_text0
 JP_ARCHIVES = ("app_text00", "app_steam_text00", "patch_text00", "patch_steam_text00")
 TEXT_COL = {"message": 2, "text": 1}  # columna con el texto visible (la misma en inglés, japonés y español)
 TSV_HEADER = ["id", "huella_jp", "es"]
+
+def set_version(version):
+    """Elige con qué traducción se trabaja: 'jp' o 'en'."""
+    global VERSION, TRANSLATION
+    if version not in VERSIONS:
+        raise SystemExit(f"Versión desconocida: {version} (usa jp o en)")
+    VERSION = version
+    TRANSLATION = ROOT / VERSIONS[version]
+
+
+set_version(os.environ.get("THL_VERSION", "jp"))
 
 # Grupos de archivos de diálogo, por prefijo (descripciones sin spoilers)
 GROUPS = [
@@ -157,6 +174,14 @@ def original(rel):
     return {}
 
 
+def hecho():
+    """Versión 'en': archivos ('kind/nombre') ya rehechos desde el inglés. En 'jp' no se usa."""
+    path = TRANSLATION / "hecho.txt"
+    if VERSION == "jp" or not path.exists():
+        return None if VERSION == "jp" else set()
+    return {l.strip() for l in path.read_text(encoding="utf-8").splitlines() if l.strip() and not l.startswith("#")}
+
+
 def japanese(rel):
     """Filas del japonés original para un archivo (patch sobre app)."""
     rows = {}
@@ -181,6 +206,7 @@ def lines(pattern="*"):
     if not JAPANESE.exists():
         raise SystemExit("Falta el japonés en build/jp: correr scripts/extract.sh")
     names = char_names()
+    done_files = hecho()
     out = []
     for rel, arch in files(pattern).items():
         kind = rel.parts[0]
@@ -194,12 +220,17 @@ def lines(pattern="*"):
             jp_text = jp[row_id][col] if row_id in jp else ""
             h, es = ours.get(row_id, (None, None))
             state = "pendiente" if h is None else ("original" if es == "" else "traducida")
+            seed = None
+            if done_files is not None and f"{kind}/{mbe}" not in done_files and state != "pendiente":
+                # versión 'en': el texto de la versión japonesa sirve de punto de partida, pero falta rehacerlo
+                seed = es or en
+                state = "pendiente"
             out.append({
                 "key": make_key(rel, row_id), "archive": arch,
                 "group": group(mbe) if kind == "message" else "Interfaz", "day": day(mbe),
                 "speaker": names.get(r[1], r[1]) if kind == "message" else "",
                 "jp": jp_text, "en": en,
                 "es": {"pendiente": "", "original": en, "traducida": es}[state],
-                "estado": state, "huella": h, "huella_jp": jp_hash(jp_text),
+                "estado": state, "huella": h, "huella_jp": jp_hash(jp_text), "semilla": seed,
             })
     return out

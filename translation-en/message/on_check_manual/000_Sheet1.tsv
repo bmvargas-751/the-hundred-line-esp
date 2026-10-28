@@ -1,0 +1,7 @@
+id	huella_jp	es
+10	aea701cf	Es el {fc(ff635b)[Mapa de materiales]} de fuera.\nIndica los materiales de cada zona.
+20	6d80e550	"Frente a la academia: hay {fc(ff635b)[todos los tipos]}.\nPero de baja calidad: explora otras zonas".
+30	95447e43	"Desierto: abunda la {fc(ff635b)[maquinaria]}.\nBosque: abundan las {fc(ff635b)[plantas]}".
+40	5bbe0328	"Subterráneo: abundan los {fc(ff635b)[minerales]}.\nCosta: abundan las {fc(ff635b)[fibras]}".
+110	8aff51a5	Parece que tiene información sobre la {fc(ff635b)"exploración"},\npero lo leeré otro día.
+120	d1f316fa	Parece algún documento,\npero ahora no hace falta verlo.

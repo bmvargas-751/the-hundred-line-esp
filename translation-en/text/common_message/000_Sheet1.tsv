@@ -1,0 +1,267 @@
+id	huella_jp	es
+200	b6589fc6	
+201	356a192b	
+202	da4b9237	
+203	77de68da	
+204	1b645389	
+205	ac3478d6	
+206	c1dfd96e	
+207	902ba3cd	
+208	fe5dbbce	
+209	0ade7c2c	
+210	3a52ce78	
+211	3bc15c8a	
+212	a979ef10	
+220	3bed4ea4	
+300	28ed3a79	
+301	e7064f0b	
+302	feca8e35	
+303	08ae1b68	
+304	42099b4a	
+305	a8f48fbd	
+306	a8f48fbd	
+307	570462fe	
+308	05a79f06	
+309	f334fd13	
+310	4345cb1f	
+311	67fba2f3	
+312	3bc15c8a	
+313	21606782	
+320	bc5af774	
+321	5200bdfc	
+322	bb6ccef9	
+323	23b3f245	
+324	1fa86c7d	
+325	3bf08a84	
+326	fb914d3c	
+327	1aa6e8ca	Lv
+328	03b8a126	
+329	5200bdfc	
+330	514c2b6a	
+331	662fae5f	VICTORIA
+332	8df6be46	DERROTA
+333	d205abee	
+410	5b722ab4	
+411	d37fc6a5	
+412	1eb5b779	Turno
+413	08fc3b32	Restantes
+420	8a7be776	Daño
+421	9a97fc3a	Movimiento
+422	9db509bb	Alcance
+423	72405d3e	Área de impacto
+424	f11e32f4	Efecto
+425	35d4d26c	Potenciar hemoánima
+426	39eeeb3a	Materiales estratégicos
+427	0b35f9eb	Actuar
+428	85258cee	Ataque especial
+429	af7a1589	Bomba Shion
+430	89c89608	Confirmar acción
+460	0632a8a9	Se desbloquea al quedar con 1 HP
+461	f2d16407	Turnos transcurridos
+470	759edd99	Normal
+471	a80cf40e	Crítico
+480	7d308069	Sin anomalías
+481	f5cee561	Muerte
+600	6dcd4ce2	
+601	ae4f281d	
+602	32096c2e	
+603	50c9e8d5	
+604	e0184ade	
+605	e69f20e9	
+606	a36a6718	
+607	7cf184f4	
+608	ca73ab65	
+609	58668e76	
+610	a7ee38bb	
+611	d160e098	
+612	c63ae6dd	
+613	b51a6073	
+614	08a914cd	
+615	511993d3	
+616	c3156e00	
+617	06576556	
+618	02aa629c	
+619	c2c53d66	
+620	b2c7c0ca	
+621	c9ee5681	
+622	e2415cb7	
+623	c032adc1	
+624	23eb4d3f	
+625	909f99a7	
+1010	0bdca4b6	
+1200	c19648e5	Palabras clave
+1201	50462d5f	Categoría
+1202	481a5a04	Gustos
+1203	18bfd552	Rango de vínculo
+1204	7ccb479d	¿A quién se lo doy...?
+1205	9df89f62	Filtros
+1206	228e0e09	
+1207	fd0b1288	Notas que suben
+1300	9cc22294	RANGO
+1302	f275fdb8	RESUMEN
+1303	4d6d2a6c	RECOMPENSAS
+1304	0443a555	BP obtenidos
+1305	cc693a58	Objetos obtenidos
+1306	0c1e799d	Dificultad
+1307	469124a1	Entrenamiento
+1308	4a548e78	
+1309	3f93d82a	
+1310	61d76a55	
+1311	0ee13fa4	
+1312	4ea21aa9	
+1401	7c76c8b6	Mejora
+1402	1fccfd27	Recursos necesarios
+1404	2e1e57fe	Progreso
+1405	8099b646	Desarrollo
+1408	e1e66399	Mejorado al máximo
+1409	12d470de	Detalles
+1410	db6e47b6	Personaje
+1411	8099b646	Desarrollo
+1412	659de17a	Notas actuales
+1413	a0c3ad05	Requisitos
+1414	e6ccc3f0	Usos
+1415	cb1df607	Características
+1500	9d1fece7	DÍA
+1501	fd5c0e05	Elegir destino
+1600	fa97fbbb	Altura
+1601	3193595c	Peso
+1602	b981696f	Cumpleaños
+1603	7ff384cb	Signo zodiacal
+1604	8eca6360	Le gusta
+1605	1815f886	No le gusta
+1606	d5eac60e	Lengua
+1607	b79624b8	Matemáticas
+1608	1f88be42	Ciencias
+1609	2b98d6d2	Geografía
+1610	82d0f5fd	Educación física
+1611	9e17b87b	Lectura
+1612	185470dc	Imaginación
+1613	7f452c29	Cálculo
+1614	4299b27d	Análisis
+1615	efb6cca6	Investigación
+1616	0ab4bc59	Técnica
+1617	3dabdffb	Observación
+1618	036832df	Exploración
+1619	e5ad327a	Resistencia
+1620	b3e55f55	Iniciativa
+1621	98f7db8b	Datos básicos
+1622	b65af422	Notas
+1623	a3cd3d59	Lista de deseos
+1624	99ddddd3	Episodios de vínculo
+1625	b7488b6c	
+1626	6725071b	
+1627	f1564dce	
+1628	a8f48fbd	
+1629	18bfd552	Rango de vínculo
+1630	819fd522	Comandantes absorbidos
+1631	fd0b1288	Notas que suben
+1632	42c70988	
+1700	5408c1de	Mapa
+1701	b1443dd8	Registro
+1702	21dbf43b	Selección de capítulo
+1703	c686c1a9	Archivo
+1704	05c06867	Guardar
+1705	c8382099	Cargar
+1706	d3920ccb	Ayuda
+1707	6e0510a6	Opciones
+1708	07f29f7c	Galería
+1709	5970bddd	Ir a la pantalla de título
+1800	77a2b1b6	Ir
+1900	72e6a1e8	Ilustraciones
+1901	1087a3cd	Videos
+1902	389775ae	Sonido
+1903	16d82b0e	Eventos de vínculo
+1904	fabce914	
+1905	bc7fcb7a	
+1906	b7488b6c	
+1907	f5fade5d	Lista de finales
+2000	1f093c29	
+2001	d4cb4555	
+2002	b040b417	
+2003	5b18eb66	
+2004	8c41ae88	
+2005	9bb28c0d	
+2100	0eb02957	Terminar turno
+2101	596b3fab	Repetir WAVE
+2102	621964cd	Repetir batalla
+2103	05c06867	Guardar
+2104	c8382099	Cargar
+2105	d3920ccb	Ayuda
+2106	6e0510a6	Opciones
+2107	5940ba32	Volver al menú de entrenamiento VR
+2108	d2b98f64	Repetir los 100 días
+2109	5970bddd	Ir a la pantalla de título
+2110	5408a70d	V
+2111	f00fac57	ictoria
+2120	dfc2567e	D
+2121	bf0ceb15	errota
+2200	f2d16407	Turnos transcurridos
+2201	e8d93c7e	Tasa de defensa
+2202	40c25aac	Batalla superada
+2203	323d0dfe	Enemigos derrotados
+2204	6cbae10c	Nice DEATH
+2205	0443a555	BP obtenidos
+2206	572f1b55	BP totales
+2300	621964cd	Repetir batalla
+2301	5970bddd	Ir a la pantalla de título
+2302	596b3fab	Repetir WAVE
+2310	5940ba32	Volver al menú de entrenamiento VR
+2320	9eccaf16	Repetir exploración
+3000	05c06867	Guardar
+3001	c8382099	Cargar
+3002	d3920ccb	Ayuda
+3003	6e0510a6	Opciones
+3004	5970bddd	Ir a la pantalla de título
+3100	545dfc7d	Partir
+3101	5f8a8238	Exploración rápida
+3200	537c22c4	[Bonificación de materiales]
+3300	630c0670	Ir a un punto de control
+3301	2f70928b	Terminar exploración
+3302	e0d33a85	Seguir explorando
+3400	e4d9442a	Todavía no puedo apagar estas Llamas Eternas...
+3401	4f66ed21	Lv de extinción necesario
+3500	bf9fe750	Inventario lleno
+3501	c8c9bd42	: Cambiar
+4000	140f8557	Portón de la escuela
+5000	10014a4d	Personaje
+5010	d5eac60e	Lengua
+5011	b79624b8	Matemáticas
+5012	bef0afa1	Ciencias
+5013	7edf9ae2	Estudios sociales
+5014	82d0f5fd	Educación física
+5100	50c9e8d5	
+5101	32096c2e	
+5102	ae4f281d	
+5103	6dcd4ce2	
+5104	02aa629c	
+6000	77dabea3	: Esconderse
+6001	39dd0b5e	: Salir
+6002	971bd6d5	: Bajar
+6003	938d1a97	: Subir
+6100	e3503343	SIN DATOS
+6101	9d1fece7	DÍA
+6102	9a77de95	Mañana
+6103	3ad626b4	Tarde
+6104	8198153f	Atardecer
+6105	2d8f0e9d	Noche
+6106	e7492f55	COMPLETADO:
+6107	1a7f8890	Autoguardado
+6108	d8143427	Datos de guardado dañados
+6200	dd12bcc6	Presiona cualquier botón
+6201	24786a86	Nueva partida
+6202	d0a9e9ae	Continuar
+6203	c8382099	Cargar
+6204	07f29f7c	Galería
+6205	6e0510a6	Opciones
+6230	46f00ee8	Elegir modo de batalla
+6240	96d30bca	HUNDRED LINE
+6241	be1219da	SAFETY
+6242	e4e6ab7f	EXTREME & DESPAIR
+6300	9e0b53d4	Volumen general
+6301	328fab03	Volumen de la música
+6302	288bfcd3	Volumen de efectos
+6303	6a7aa525	Volumen de voces
+6304	d7a7adc3	Subtítulos
+6305	fa1f97d8	Idioma del texto
+6390	387d7a59	
+6391	ad504890	

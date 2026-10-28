@@ -1,6 +1,6 @@
 """Arma los CSV del juego en español: cada archivo del inglés original con nuestra traducción encima.
 
-Uso: python3 -I scripts/generar.py <destino>   (lo usa scripts/build.sh, con destino build/es)
+Uso: python3 -I scripts/generar.py <destino> [jp|en]   (lo usa scripts/build.sh, con destino build/es-jp o build/es-en)
 """
 import shutil
 import sys
@@ -36,4 +36,6 @@ def build(dest):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) > 2:
+        td.set_version(sys.argv[2])
     build(sys.argv[1])

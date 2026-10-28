@@ -32,6 +32,10 @@ Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada
 3. Ejecuta el instalador de esa carpeta:
    - Windows: doble clic en **`INSTALAR.bat`**.
    - Linux: **`instalar.sh`**. En Steam Deck, en modo escritorio: clic derecho en `instalar.sh` > *Ejecutar en terminal* (o `./instalar.sh` desde una terminal).
+   El instalador te pregunta **con qué doblaje vas a jugar**:
+   - **Doblaje japonés**: los subtítulos siguen el texto en japonés (la traducción actual).
+   - **Doblaje inglés**: los subtítulos siguen el texto en inglés, para que coincidan con la voz. *En preparación: por ahora es igual a la del doblaje japonés.*
+   Puedes cambiar de versión volviendo a ejecutar el instalador.
 4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
 
 El instalador tarda unos segundos. Guarda antes los archivos originales en `THL-ESP/backup/`.

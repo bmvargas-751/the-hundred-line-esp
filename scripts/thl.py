@@ -11,6 +11,8 @@
   'message/r00_*_d000_*'  prólogo de la primera partida
   'text/*'                toda la interfaz
 
+Con --version en (antes del comando) todo trabaja sobre translation-en/ y table-en/.
+
 Cada línea de ediciones.jsonl: {"key": "...", "es": "texto nuevo", "old": "texto actual (opcional)"}.
 Con "old", la edición solo se aplica si el español actual coincide ("" si la línea está pendiente).
 "es" igual al inglés: la línea queda como el original. "es": null la vuelve a dejar pendiente.
@@ -43,9 +45,36 @@ def cmd_export(args):
         if r["jp"]:
             print(f"  JP: {r['jp']}")
         print(f"  EN: {r['en']}")
+        if r.get("semilla") is not None:
+            print(f"  ES(jp): {r['semilla']}")
         if r["estado"] != "pendiente":
             print(f"  ES: {r['es']}" + (" (como el original)" if r["estado"] == "original" else ""))
     print(f"{len(rows)} líneas", file=sys.stderr)
+
+
+def cmd_hecho(args):
+    """Versión 'en': marca como rehechos los archivos del patrón, si todas sus líneas están en los JSONL dados."""
+    if td.VERSION == "jp":
+        raise SystemExit("hecho es solo para --version en")
+    edited = set()
+    for path in args.jsonl:
+        edited |= {json.loads(l)["key"] for l in open(path, encoding="utf-8") if l.strip()}
+    todo = defaultdict(list)
+    for r in td.lines(args.pattern):
+        if r["en"].strip():
+            todo[r["key"].split("#")[0].rsplit("/", 1)[0]].append(r["key"])
+    new, missing = [], 0
+    for name, keys in sorted(todo.items()):
+        faltan = [k for k in keys if k not in edited]
+        if faltan:
+            missing += len(faltan)
+            print(f"{name}: faltan {len(faltan)} líneas (ej. {faltan[0]})")
+        else:
+            new.append(name)
+    path = td.TRANSLATION / "hecho.txt"
+    have = set(path.read_text(encoding="utf-8").split("\n")) if path.exists() else set()
+    path.write_text("\n".join(sorted((have | set(new)) - {""})) + "\n", encoding="utf-8")
+    print(f"marcados como hechos: {len(new)} archivos; sin marcar: {len(todo) - len(new)} ({missing} líneas sin tocar)")
 
 
 def cmd_apply(args):
@@ -91,8 +120,8 @@ def git(*args):
 
 
 def cmd_diff(args):
-    names = set(git("diff", "--name-only", args.rev, "--", "translation").split())
-    names |= set(git("ls-files", "--others", "--exclude-standard", "--", "translation").split())
+    names = set(git("diff", "--name-only", args.rev, "--", td.TRANSLATION.name).split())
+    names |= set(git("ls-files", "--others", "--exclude-standard", "--", td.TRANSLATION.name).split())
     changes = []
     for name in sorted(names):
         path = td.ROOT / name
@@ -223,6 +252,8 @@ def update_readme(total, done):
 
 def cmd_progress(args):
     """Solo cuentan las líneas con texto visible en el original."""
+    if args.readme and td.VERSION != "jp":
+        raise SystemExit("--readme es solo de la versión jp")
     if args.readme and (args.pattern != "*" or args.files):
         raise SystemExit("--readme cuenta todo el juego: sin patrón ni --files")
     total, done = Counter(), Counter()
@@ -245,7 +276,7 @@ def cmd_progress(args):
 
 
 # table/: cada línea con el japonés, el inglés y el español, para leer en GitHub. Es la única copia del texto del juego en el repo.
-TABLE = td.ROOT / "table"
+TABLE = td.ROOT / "table"  # con --version en: table-en/ (se fija en main)
 SECTION_DIRS = dict(zip(SECTIONS, ["interface", "first-playthrough", "later-playthroughs", "events-and-chats"]))
 PAGE_MAX = 150_000  # bytes por página: GitHub deja de mostrar las tablas muy largas
 COLOR_CODES = re.compile(r"\{[a-z]+\d*(?:\([^)]*\))?|\}")
@@ -382,6 +413,8 @@ def cmd_table(args):
 
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    p.add_argument("--version", "-V", choices=sorted(td.VERSIONS), default=None,
+                   help="jp (base japonés, por defecto) o en (base inglés); también THL_VERSION")
     sub = p.add_subparsers(dest="cmd", required=True)
     e = sub.add_parser("export")
     e.add_argument("pattern")
@@ -397,10 +430,18 @@ def main():
     v.add_argument("pattern", nargs="?", default="*")
     v.add_argument("--files", action="store_true", help="por archivo, solo los que tienen pendientes")
     v.add_argument("--readme", action="store_true", help="actualiza la tabla de avance del README")
+    h = sub.add_parser("hecho")
+    h.add_argument("pattern")
+    h.add_argument("jsonl", nargs="+")
     sub.add_parser("table")
     args = p.parse_args()
+    global TABLE
+    if args.version:
+        td.set_version(args.version)
+    if td.VERSION != "jp":
+        TABLE = td.ROOT / f"table-{td.VERSION}"
     {"export": cmd_export, "apply": cmd_apply, "diff": cmd_diff, "check": cmd_check, "progress": cmd_progress,
-     "table": cmd_table}[args.cmd](args)
+     "table": cmd_table, "hecho": cmd_hecho}[args.cmd](args)
 
 
 if __name__ == "__main__":

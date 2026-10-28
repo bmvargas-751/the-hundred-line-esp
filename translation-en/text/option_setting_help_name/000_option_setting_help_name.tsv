@@ -1,0 +1,34 @@
+id	huella_jp	es
+1	3debfca8	Ajusta la velocidad de la mira.
+2	edb8fa46	Ajusta la velocidad a la que aparece el texto.
+3	fe883ab3	Activa o desactiva el avance automático del texto.
+4	f08b08d6	Ajusta el tiempo de espera del avance automático.
+5	c73b9194	Activa o desactiva los subtítulos.
+6	6bc21068	Elige si, en los eventos, la cámara pasa al instante a quien habla.
+7	905d51c5	Elige si se pide confirmación al terminar el turno manualmente.
+8	ea378826	Ajusta la velocidad del cursor en combate.
+9	8a90bb99	Elige cómo se muestra la cuadrícula de movimiento, alcance y área al actuar.
+10	b6f5e785	Ajusta el volumen general.
+11	874063c3	Ajusta el volumen de la música.
+12	50296271	Ajusta el volumen de los efectos de sonido.
+13	810f8626	Ajusta el volumen de las voces.
+14	2fd2c1bb	Cambia el idioma del texto.
+15	d18fc081	Cambia el idioma de las voces.
+16	25805f56	Elige si se intercambian los botones de confirmar y cancelar.
+17	028aec6e	Cambia el tipo de guía de botones.
+18	44ac824b	Cambia el modo de ventana.
+19	0e998b8f	Cambia la resolución.
+20	553d3ada	Activa o desactiva la sincronización vertical.
+21	a90b6268	Ajusta el brillo.
+22	3e63ee26	Ajusta el valor gamma.
+23	7fb531dd	Ajusta el contraste.
+24	21eac977	Cambia la tasa de fotogramas.
+25	fcb2ece1	Cambia varios ajustes gráficos a la vez.
+26	a351af2e	Cambia la calidad de las texturas.
+27	5d28c9bd	Cambia la calidad de las sombras.
+28	71f2c0b7	Cambia los ajustes de antialiasing.
+29	28a058dd	Cambia los ajustes del filtrado de texturas.
+30	938b7389	Cambia los ajustes de bloom.
+31	dba83937	Cambia los ajustes de oclusión ambiental.
+101	ece3c032	Cambia la dificultad de las batallas.
+102	f3089766	Activa ajustes que hacen más visible la cuadrícula de combate.

@@ -1,0 +1,444 @@
+id	huella_jp	es
+1011	1aca0aaa	Estirar la mano.
+1012	6c1bb30a	Ignorarlas.
+1021	9f143bce	Llevarse solo las hojas.
+1022	0eb573f0	Aguantar el olor y sacar la flor.
+1023	978e849e	Sacar la flor de la forma adecuada. ([status] [status_point] o más)
+1031	1b62c963	El hongo morado de aspecto venenoso.
+1032	4c86c93d	El hongo de color rosa pálido.
+1041	0c8c8047	¡A contraatacar!
+1042	61ab08b3	Darle de comer.
+1051	3981b6e8	Las flores rosadas tan lindas.
+1052	50cbd349	Una calabaza grande.
+1061	70ccad19	Robar la miel a escondidas.
+1062	6ffc1621	Tirarle una piedra.
+1071	3fe442e9	Examinar el árbol.
+1072	e7a7e807	Examinar los insectos del árbol.
+1081	cc986672	Tomar una calabaza grande.
+1082	ea0f4300	Tomar una calabaza pequeña.
+1091	65463460	¡Saltar y atraparlas!
+1092	b8bb8a15	Recoger las semillas que caen al suelo.
+1101	6e3185b5	Desarmarla desde afuera.
+1102	8f95f37c	Desarmarla desde adentro.
+1111	5c408b93	Tirar el equipaje para quedar más liviano.
+1112	72c3ed28	Forcejear como sea para salir.
+1121	13ba65a0	Recoger solo las hojas.
+1122	ec562c94	Tirar.
+1123	1020ecd5	¡Tirar con todas las fuerzas! ([status] [status_point] o más)
+1131	d1bade60	Una rosa carmesí.
+1132	3b9d993c	Una lavanda de aroma dulce.
+1133	d7c3ae4d	Una flor que nunca había visto. ([status] [status_point] o más)
+1141	1ecea4b9	Abrirse paso entre las lianas y explorar.
+1142	8b728951	Pasar de largo.
+1151	4a73b7d3	Recoger solo tréboles normales.
+1152	7c8770c1	¡Buscar un trébol de cuatro hojas!
+1161	d305ac46	Atraparlas.
+1162	c43f4352	Seguirlas.
+1171	1ad2762a	La flor con capullos manchados.
+1172	0abf5a9e	La hierba cuya raíz parece una cara humana.
+1181	cb14191e	Recoger brotes de bambú.
+1182	7f73601b	Recoger hongos.
+1183	ae3f1e4d	Pasar de largo.
+1191	3e494c0f	Avanzar cortando el bambú.
+1192	2fb1c717	Atravesarlo a la fuerza.
+1201	ab4a28d0	Acercarse.
+1202	ed3b726d	Darle de comer.
+1211	06b8acf6	Recoger la hierba verde.
+1212	5e564e88	Recoger la hierba morada.
+1213	48441c2e	Distinguir las hierbas medicinales. ([status] [status_point] o más)
+1221	38231542	Probar la fruta roja.
+1222	ce753491	Probar la fruta azul.
+1231	8ed2e24a	Blandir el hacha con todas las fuerzas.
+1232	213958e1	Talar con cuidado.
+1241	3ee882d5	Esquivarlo de un salto.
+1242	64aae152	Huir corriendo.
+1251	50036de9	Recoger los frutos.
+1252	adf0e343	Probarlos.
+2011	59994a84	Recogerlo.
+2012	37e67c2c	Atacarlo.
+2021	1e8c346a	Seguir sin darle importancia.
+2022	31010f79	Perseguir la capa negra.
+2023	6e0eda6e	¿Será... el misterioso Antifaz Elegante?
+2031	cb9f4697	Levantar la tela.
+2032	8b728951	Pasar de largo.
+2041	5c25e84e	Tomar prestada la ropa deportiva del maniquí.
+2042	0b0011a0	Tomar prestado el traje elegante del maniquí.
+2043	2acf5641	Tomar prestado el vestido de princesa.
+2051	f4c59947	Lanzarse corriendo contra el rebaño.
+2052	85c48805	Acercarse despacito por detrás.
+2061	2dcd779c	Trepar y revisar.
+2062	133d674a	Sacudir el árbol para tirar el nido.
+2071	608b454c	Intentar abrirse paso a la fuerza.
+2072	b5dbea80	Bien, primero hay que quitarse la ropa.
+2081	73052daf	Ver si está sucia.
+2082	a9ee0992	Olerla.
+2091	61c6ef7b	Llevarse solo el talismán.
+2092	f8f078ce	Despegar el talismán y ver qué hay en la caja.
+2101	3b6a5b26	Llevársela como material.
+2102	2ee5a909	Usarla para curar las heridas.
+2111	a0e9bdfc	Examinar la cubierta.
+2112	988cc890	Explorar el interior del barco.
+2121	b9b69361	Revisar el bote de basura.
+2122	ae3f1e4d	Pasar de largo.
+2131	65b12417	Arrebatarle la capa.
+2132	9d5e369e	Desafiarlo a un duelo limpio.
+2141	98922d6f	Probar suerte.
+2142	91ac65c5	Romperla y sacar un premio.
+2151	fe4c8511	Atrapar la basura.
+2152	c504b08c	Esquivar la basura.
+2161	e521278b	Abrirla a la fuerza.
+2162	03bbf580	Girar la combinación al azar.
+2171	bf5c5521	Atacarlo por sorpresa.
+2172	eb14d3ee	Avanzar sin que nos vea.
+2181	8306cb88	Una alfombra mágica.
+2182	a6c8c5b8	La capa de un superhéroe.
+2183	38dc7538	La bandera del Rey de los Piratas.
+2191	ef685d8f	Armarse de valor y recoger el muñeco de paja.
+2192	07599d09	Quemar el muñeco de paja.
+2201	6af8f6de	Acercarse sigilosamente y levantar la caja.
+2202	54e88398	Correr hacia la caja y patearla.
+2211	1e8c346a	Seguir sin darle importancia.
+2212	00f37c14	Seguir la flecha.
+2213	cd124d58	Descifrar el código oculto del letrero. ([status] [status_point] o más)
+2221	d2a18639	Juntar pelos.
+2222	6b8fc8a7	Juntar colmillos.
+2223	dfdf1da3	Seguir las huellas del animal. ([status] [status_point] o más)
+2231	6ffc1621	Tirarle una piedra.
+2232	d7e4f312	Trepar al árbol.
+2233	65773f53	Perseguir al pájaro. ([status] [status_point] o más)
+2241	2788c43d	Examinar la pared.
+2242	03976c68	Destruir la pared.
+2243	b56162a4	Descifrar el código. ([status] [status_point] o más)
+2251	acdf46b1	Dejarlo tranquilo.
+2252	0860f634	Atacarlo por sorpresa.
+3011	b50a743d	Pulirla.
+3012	0cf0c2c4	Acariciarle la cabeza.
+3013	a931606b	Hacerle garabatos.
+3021	e95ea0dc	Destruir la piedra sagrada.
+3022	63b1115d	Dejarle una ofrenda a la piedra sagrada.
+3023	59324448	Pedirle a Magadori que la corte.
+3031	dceddf39	Entrar en la tienda.
+3032	ae3f1e4d	Pasar de largo.
+3033	5e8a2c44	Maruko se está portando raro...
+3041	cbf936f9	Abrirlo a la fuerza.
+3042	2f72778b	Forzar la cerradura.
+3051	47ff02b4	Cavar en la pared de roca con un pico.
+3052	699b0c28	Volarla con dinamita.
+3053	25deac7b	Pedirle a Oosuzuki que cave.
+3061	996a3276	Tomar las piedras apiladas en el laboratorio.
+3062	731be06e	Presionar algún interruptor.
+3063	4036ace9	Meter un objeto en un equipo de experimentos.
+3071	78ebd159	Bajar al agujero.
+3072	e950652e	Observar el agujero.
+3081	4d8a17bf	Buscar otro camino.
+3082	886dd4c9	Ignorar el letrero y seguir.
+3091	baeddbcf	Huir a toda prisa.
+3092	daf69a20	Esconderse bajo los escombros hasta que pase.
+3101	5c408b93	Tirar el equipaje para quedar más liviano.
+3102	72c3ed28	Forcejear como sea para salir.
+3111	fbe91a49	Mirar las flores.
+3112	ae3f1e4d	Pasar de largo.
+3121	c758ed50	Llevarse la piedra de brillo azul.
+3122	66c282fa	Llevarse la piedra amarilla.
+3131	413df15c	Subirse.
+3132	753e6931	Empujarla.
+3141	e698f02f	Examinar la armadura.
+3142	67e84edf	Atacar la armadura.
+3151	13a2e7e2	Esconderse debajo de una mesa.
+3152	fd025398	Salir rápido del edificio.
+3161	3139136d	Buscar dónde ponerse a salvo.
+3162	27ead8c3	Bajar la cuesta a toda prisa.
+3163	66a54524	Pedirle a Mojiro que rompa la roca.
+3171	52ba4385	Vigilar los alrededores.
+3172	1e8c346a	Seguir sin darle importancia.
+3181	9baf3f4d	Buscar vidrios sin romper.
+3182	77bf2d45	Recoger lo que esté a mano.
+3191	3d49432e	Recorrer la playa.
+3192	9f5ac8df	Lanzarse al mar.
+3201	36b358b1	Apuntar al juguete de hojalata.
+3202	00651721	Apuntar a la joya que parece pesada.
+3203	196390e5	Apuntar a la caja de dulces.
+3211	3b24f548	Tirar el mineral.
+3212	36bca3d2	Llevarse el mineral.
+3213	071f1d09	Romper el mineral. ([status] [status_point] o más)
+3221	15786607	Asomarse al agujero.
+3222	95e82642	Meter la mano en el agujero.
+3223	793d4757	Iluminar el agujero. ([status] [status_point] o más)
+3231	419ebbe7	Beber el agua del manantial.
+3232	8d7084e3	Lavarse la cara con el agua del manantial.
+3233	67bd44dd	Cavar en el suelo. ([status] [status_point] o más)
+3241	beda0f5f	Buscar la escalera.
+3242	d6028aa7	Explorar el sótano.
+3243	23ffa907	Hacer una escalera. ([status] [status_point] o más)
+3251	a5aa6c85	Pasar a la fuerza.
+3252	dc49a25c	Agrandar el agujero.
+4011	b6441a62	Intentar desactivarla.
+4012	6dd98022	Alejarse corriendo a toda velocidad.
+4013	a9b5e6f7	Pedirle a Kawana que la desactive.
+4021	d69236e3	Meterle materiales.
+4022	200ec5d1	Patear la máquina de reciclaje.
+4031	14fad7ca	Entrar en el edificio y explorar.
+4032	4813830c	Alejarse, que es peligroso.
+4041	db820681	Revisar el asiento del conductor.
+4042	f2a59144	Revisar el maletero.
+4043	6ec8fb41	Pedirle a Kawana que lo repare.
+4051	069e569a	Revisar la cabina.
+4052	33d8011b	Revisar el reactor.
+4061	f5a19ee9	Desarmar una lavadora.
+4062	bcb4dd19	Desarmar un refrigerador.
+4063	0320c1a5	Desarmar una computadora. ([status] [status_point] o más)
+4071	d98cdfa3	Desarmar un auto a control remoto.
+4072	db481162	Desarmar un robot en miniatura.
+4081	1f5b20bc	Darle a reproducir.
+4082	ae3f1e4d	Pasar de largo.
+4091	e434d224	Pescar cerca de la orilla.
+4092	873b7830	Pescar mar adentro.
+4101	60ff59fe	Subirse a probarla.
+4102	ea1d2e09	Desarmarla.
+4111	c2981acf	Avanzar a escondidas.
+4112	1f798979	¡Entrar de frente!
+4121	3137ffa4	Colarse a escondidas.
+4122	e6b544d1	Dar media vuelta.
+4123	42917893	Pedirle a Kako que rompa la cámara.
+4131	3468b22c	Sacudirlo.
+4132	50cddd24	Presionar un botón.
+4141	65463460	¡Saltar y atraparlo!
+4142	3a448d79	Huir.
+4151	d3d6e55d	Desarmar un reloj pequeño.
+4152	1c5a11b4	Desarmar un reloj grande.
+4161	ffd5354b	¡Tirarse a un lado!
+4162	fcf93df9	Aguantar el golpe de frente.
+4171	695f0097	Arrancar el cable.
+4172	52a2a625	Buscar el tablero eléctrico.
+4181	f2fda6bf	Trepar al árbol y sacar el dron.
+4182	aaf36451	Tirarle una piedra para bajarlo.
+4191	4060a1e3	Usar una lavadora.
+4192	d7d26ee6	Abrir un refrigerador.
+4193	c6f053b8	Encender una televisión.
+4201	695ca5a6	Revisar el interior del piano.
+4202	e64734af	Revisar debajo del piano.
+4211	cd0a9397	Examinar las máquinas rotas.
+4212	8308d801	Desarmar las máquinas rotas.
+4213	8bde061f	Armar algo con las piezas de las máquinas rotas. ([status] [status_point] o más)
+4221	2f357ecd	Buscar de dónde sale el canto.
+4222	8fc68d30	Ignorarlo y seguir.
+4223	7f7be83f	Contraatacar con el himno de la Última Academia de Defensa. ([status] [status_point] o más)
+4231	ca3a38ce	Desarmar el robot.
+4232	4b640d08	Repararlo.
+4241	8f2c9c58	Llevarse el libro blanco.
+4242	f2c1c2de	Llevarse el libro negro.
+4243	806dc172	Mover la estantería. ([status] [status_point] o más)
+4251	32ac849f	Desarmar la bomba.
+4252	da2219d2	Alejarse de la bomba.
+5011	83e807d1	Apartar los escombros a la fuerza.
+5012	ee4cf57c	Meter la mano entre los escombros.
+5013	7785b656	Pedirle a Ginzaki que llame a su robot.
+5021	44886760	Golpear con todas las fuerzas.
+5022	5ff5c3f0	Atacarla con el arma de clase.
+5023	3fbb5471	Pedirle a Mojiro que la golpee.
+5031	48dbb0a5	Armarse de valor y saltar.
+5032	75cef61a	Cruzar el río a nado.
+5041	7f113256	Ir a la izquierda.
+5042	3daf553a	Ir a la derecha.
+5051	59938fe9	Sacar tres cerezas.
+5052	332eb300	Sacar tres corazones.
+5053	e0592350	Sacar tres guantes.
+5061	aa8739dd	Buscar el interruptor de la luz.
+5062	4fb3f7d9	Abrir las cortinas de la ventana.
+5071	cd1c4e1a	Encender la antorcha de la pared.
+5072	8e031b8c	Avanzar a tientas.
+5081	5672d176	Meter la mano en la boca.
+5082	ae3f1e4d	Pasar de largo.
+5083	1c9dc610	Pedirle a Eva que lo saque.
+5091	bfe4987a	Rastrillar el fondo con una red.
+5092	64409136	Lanzarse al estanque.
+5101	a1035ec7	Cruzarlo corriendo.
+5102	4d8a17bf	Buscar otro camino.
+5103	3bc09b83	Pedirle a Ima que vuele.
+5111	64409136	Lanzarse al estanque.
+5112	096b726b	Dar las cosas por perdidas.
+5121	75b4ecdc	Perseguir al pájaro.
+5122	6ffc1621	Tirarle una piedra.
+5123	672e4266	Pedirle a Kako que lo derribe.
+5131	a12525c6	Rematarlo.
+5132	80e68e94	Dejarlo en paz.
+5133	f6427345	Pedirle a Kirifuji que lo cure.
+5141	925eee26	Jugar en los columpios.
+5142	7a8d844b	Jugar en el arenero.
+5151	2fc4d3a5	Llevarse los adornos.
+5152	9e7e3306	Enterrarla.
+5161	b0ef9b5f	Revisar la bandeja de salida.
+5162	0d4c6500	Revisar la ranura de las monedas.
+5163	aedc5b3b	Revisar debajo de la máquina expendedora.
+5171	af2b7c7f	Romper el barril.
+5172	cfda8ae5	Hacer rodar el barril.
+5181	dd1a159f	Romper la vasija.
+5182	543ec5dc	Poner la vasija boca abajo.
+5191	6d8fa7c9	¡Entregarla en el puesto de policía!
+5192	bcec6fff	Ya que está, quedársela...
+5201	b313bb5e	¡Sacar la espada!
+5202	30af9771	Alejarse de la espada de inmediato.
+5211	57736925	Examinar el altar.
+5212	95dca0b9	Destruir el altar.
+5213	808b1d96	Bailar frente al altar. ([status] [status_point] o más)
+5221	d43d50b3	Rezar.
+5222	97aef15b	Dejar una ofrenda.
+5223	9a594b8e	Destruir la estatua. ([status] [status_point] o más)
+5231	b28afc8c	Refugiarse de la lluvia.
+5232	503af451	Seguir de todos modos.
+5233	d13f36a0	Aguzar la vista. ([status] [status_point] o más)
+5241	2b578bd9	Descifrar las letras de la estela.
+5242	2a3e5ca1	Romper la estela.
+5243	557117f3	Rezar. ([status] [status_point] o más)
+5251	b3f14b4d	Seguirla.
+5252	472da4aa	Perseguirla corriendo.
+6011	29a457e2	Comerlo.
+6012	ae3f1e4d	Pasar de largo.
+6021	cc9e5fe5	Ir hacia el oasis.
+6022	873b0817	Seguro es un espejismo.
+6031	df058de8	Rebuscar en la tienda.
+6032	9c1775cd	Robar está mal.
+6041	b4ad6751	Darse un baño termal.
+6042	3b75ddd3	No hay tiempo para descansar.
+6051	d36c1a16	Trepar al árbol.
+6052	cbd48511	Sacudir el árbol.
+6053	af2f9df3	Pedirle a Shizuhara que corte el árbol.
+8011	f6c37fa9	Esconderse hasta que pase la niebla.
+8012	6672aa8c	Seguir explorando.
+8021	e45f5a0d	Recitar un hechizo.
+8022	029dcb2b	Hacer una ofrenda.
+8023	039f6c35	Pedirle a Kako que recite un hechizo.
+8031	f7a63360	Presionar un botón cualquiera.
+8032	f3f3b206	Golpear la terminal.
+8033	46c6b33a	Analizar la terminal. ([status] [status_point] o más)
+8041	82a3e633	Escribir "password".
+8042	27ce1188	Escribir "123456".
+8043	77fa202d	Pedirle a Eva que la abra.
+8051	e6ec5392	Usar la cinta de correr.
+8052	ed46a904	Usar las mancuernas.
+8053	35d7306e	Hacer press de banca. ([status] [status_point] o más)
+9011	d8e3cd01	Ponerse la máscara.
+9012	19d4c246	Tirar la máscara.
+9021	d43d50b3	Rezar.
+9022	1811984f	Dejar una ofrenda.
+9023	f0b0c80a	Llevarse las ofrendas.
+9041	6a9069e3	Que recuperemos fuerzas.
+9042	04093af3	Que encontremos más materiales.
+9043	884962d6	Que pase algo bueno.
+9051	b5c8b22c	Apartar las rocas.
+9052	bc789fc3	Destruir las rocas.
+102011	b86e6241	Batear con todo desde el primer lanzamiento.
+102012	c0252763	Batear corto, solo para hacer contacto.
+102013	b19f181e	Esperar un lanzamiento fácil con buen ojo. ([status] [status_point] o más)
+102021	dd05a932	Un motor de fuego infernal que todo lo consume.
+102022	ab74d449	Llantas con púas que trituran el asfalto.
+102023	72d3b56f	Un manubrio autónomo que gira solo.
+102031	e1cc3679	Hacer una hamburguesa de flan.
+102032	66757d73	Hacer curry con flan.
+102033	f40379a8	Detener a Yakushiji.
+103011	b5007cb2	Buscar a Shizuhara.
+103012	80e68e94	Dejarla tranquila.
+103021	962d17c2	Masacrar a los invasores.
+103022	e6b544d1	Dar media vuelta.
+103031	d36c1a16	Trepar al árbol.
+103032	30421ce5	Sacudir el árbol.
+103033	d058f9c2	Pedirle a Shizuhara que lo tale.
+104011	dc075b9b	Aguantar y meter la mano.
+104012	e04119bf	Desistir, que duele.
+104013	4793a18a	Dejárselo a Amemiya.
+104021	72cdd49f	Seguirle el juego a Amemiya.
+104022	90a9c0af	Mejor no.
+104031	81f642e6	Jugar a un duelo de copas envenenadas.
+104032	b1b0acb5	Hacerle aspirar polvo blanco (polvo de golosina feliz).
+105011	83fa64bf	Asarlo y comerlo.
+105012	f5eba09e	No comerlo.
+105013	51f5c4cd	Preguntarle a Aotsuki.
+105021	e892e2c8	Un rompecabezas pop de bloques que caen.
+105022	ebbc0602	Acción y supervivencia: un monstruo que mata a todos los humanos.
+105023	32c84352	Un juego de disparos para proteger a la humanidad de los alienígenas.
+105031	c93afca4	Mostrarle una revista de viajes.
+105032	37e92734	Mostrarle una enciclopedia de minerales.
+105033	1c912158	Mostrarle una revista de manga.
+106011	792141b4	Pedirle a Kawana que la maneje.
+106012	03eb7be8	Mejor no, parece peligroso.
+106021	3c8687d2	Cargarle gasolina al auto.
+106022	6c1bb30a	Ignorarlo.
+106031	accf3396	Un cachivache que parece una aspiradora.
+106032	9b749c7d	Un cachivache que parece una silla.
+106033	567bd8f4	Un cachivache que parece una carretilla.
+107011	a51ecf73	Hacer una hamburguesa doble con queso.
+107012	d231382d	Hacer papas fritas.
+107021	a32de256	Creerle a Maruko y meterse al río.
+107022	d7089e62	Seguro que vio mal.
+107031	80e68e94	Dejarlo ir.
+107032	440a2ca6	Detenerlo.
+108011	5a693a9e	El hongo rojo con manchas blancas.
+108012	b62fcb7e	La flor roja y redonda.
+108013	fcfeeaaf	La estrella de mar brillante.
+108021	c6c0ed92	Esforzarse y escalar la torre.
+108022	fba031a0	Desistir.
+108023	52b45bab	Pedirle a Ima que la traiga.
+108031	9e1956e2	Ponerles kétchup y mayonesa.
+108032	f2ca6ac3	Rellenarlas con fresas en vez de ciruela encurtida.
+108033	4430b2c0	No dejar que les cambie nada.
+109011	14f0b3e4	Concentrarse y enviar un mensaje telepático.
+109012	107e0181	Ofrecer un sacrificio para la abducción.
+109013	e45f5a0d	Recitar un hechizo.
+109021	ced9cdbb	Examinar las huellas redondas.
+109022	0ca81e31	Examinar los pelos que quedaron.
+109023	4bada13d	Revisar nuestros propios bolsillos.
+109031	1aa572f1	Alejarse de las ruinas a toda prisa.
+109032	25ec559e	Quedarse en las ruinas a propósito.
+110011	165e374d	Ayudar a Ginzaki.
+110012	d1d7e8d0	Darle ánimos a Ginzaki.
+110021	4f9edb95	Buscar al animalito.
+110022	c2dc3ce3	No buscar al animalito.
+110031	d0377607	Atravesar el pasillo corriendo de un tirón.
+110032	e6b544d1	Dar media vuelta.
+110033	7b26c30d	Dejárselo a Ginzaki.
+111011	f497cef5	Detenerse y descansar un poco.
+111012	fddfa1d7	Forzarse y seguir explorando.
+111013	7e88b056	Pedirle a Kirifuji que me revise.
+111021	7ce35e96	Preparar la mezcla con la sustancia amarilla como base.
+111022	ca736142	Preparar la mezcla con la sustancia verde como base.
+111023	510388e1	Mezclar todas las sustancias.
+111031	5f998885	Solo descansar.
+111032	f9cc7b64	Descansar y tomar también el suplemento.
+111033	c57a0a8d	Seguir a toda prisa.
+112011	36812e8d	Pedirle un curry suave.
+112012	91ce3679	Pedirle un curry superpicante.
+112013	dcb6bd37	Ahora no tengo ganas de curry.
+112021	59d262cf	Perseguir la máscara.
+112022	8b9a4170	Buscar algo que reemplace la máscara.
+112031	1b8b73ae	Desarmar el lanzacohetes.
+112032	0ac22c3a	Desarmar el vehículo blindado.
+112033	16bd61b6	Desarmar el misil teledirigido.
+113011	ed0f5e9d	Sacar el verdadero poder de la Espada Sagrada Jumonji.
+113012	a41a008f	Una técnica de respiración que fortalece el cuerpo.
+113013	01ca6b3c	El estilo de tres espadas, con una en la boca.
+113021	b61184e4	"Es un espíritu maldito".
+113022	1c14a8fa	"Es un nuevo Stand".
+113031	2cbddee1	Buscar a Magadori.
+113032	286c05b7	Esperar a que Magadori vuelva.
+114011	1b5aa381	Aceptar el masaje.
+114012	90a9c0af	Mejor no.
+114021	84db7cd5	Diseccionar al duende verde.
+114022	856c1f80	Diseccionar al murciélago de un ojo.
+114023	711de249	Diseccionar a la planta carnívora.
+114031	a12525c6	Rematarlo.
+114032	78fd6f36	Soltarlo, pobrecito.
+114033	6d62d713	Pedirle a Omokage que lo torture.
+115011	2d6cd4a9	Dormir bien.
+115012	69cbf1cc	Comer hasta llenarse.
+115013	2ba80569	Pelear muchos combates.
+115021	fd45f01e	Despertar a Mojiro.
+115022	88ae6873	Descansar un poco más.
+115031	f310f6dc	Dejárselo a Mojiro.
+115032	061d05ad	Ayudar a Mojiro.
+115033	328c9815	Detener a Mojiro y huir.
+116011	b86df176	Recolectar primero los materiales raros.
+116012	1432e28d	Liquidar invasores, y punto.
+116021	ff11d48e	Darle golpecitos en los hombros.
+116022	53328adf	Dormirla con hipnosis.
+116031	63aad0df	Pedirle que busque materiales valiosos.
+116032	1404f6be	Pedirle que primero elimine los peligros.
