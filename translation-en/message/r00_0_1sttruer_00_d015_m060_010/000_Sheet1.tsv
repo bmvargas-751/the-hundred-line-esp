@@ -1,21 +1,21 @@
 id	huella_jp	es
-10	ff8014f1	{fc(57e4f1)Esta es la habitación de Shouma. Voy a tocar el intercomunicador...}
-30	09154e27	{fc(57e4f1)Al rato, la puerta se abrió despacio desde adentro...}
-40	890986cc	Ah, perdón... Perdón porque esta basura siga viva.
-50	74f51cac	{fc(57e4f1)¿Qué clase de saludo es ese...?}
-60	ac7f56a6	Oye, lo de Hiruko: mañana vence el plazo...
-70	81449eb1	...¿Sigues sin cambiar de idea? Si esto sigue así, de verdad te pueden echar, ¿eh?
-80	22732fbc	Ya veo... Entonces no queda otra que irme.
-90	57351e57	¿De verdad te parece bien así...?
+10	ff8014f1	{fc(57e4f1)Esta es la habitación de Shouma. ¿Estará?}
+30	09154e27	{fc(57e4f1)Toqué el timbre y esperé. Al cabo de un rato, la puerta se abrió lentamente...}
+40	890986cc	Hola. Lo siento. Por favor, perdone que le arruine el día con mi existencia.
+50	74f51cac	{fc(57e4f1)Bueno, empezamos de maravilla...}
+60	ac7f56a6	Oye, Shouma. El plazo que Hiruko les puso a ustedes vence mañana, ¿sabes?
+70	81449eb1	¿Seguro que no vas a reconsiderarlo? A este paso, de verdad te va a echar.
+80	22732fbc	Sí, lo sé... Supongo que me echarán como la basura que soy.
+90	57351e57	Pero tú no quieres eso de verdad, ¿no?
 100	f4a72a8b	
-110	dc087223	...No espere nada de mí.
-120	323d1279	Yo soy un cobarde fracasado, destinado a perder desde el principio, ¿sabe?
-130	14c13a40	Además, tengo un {fc(ff635b)"cuerpo que no puede luchar"}, y no es un problema que se pueda superar...
-140	04c4bf4e	No queda otra que resignarme e irme. Perdón por todas las molestias.
-150	721a6d6e	E-Espera... ¿entiendes? Si sales del muro de fuego, quizá te mueras, ¿eh?
-160	355fea0e	Claro que lo entiendo, pero también me resigno a eso...
+110	dc087223	No debería esperar demasiado de mí...
+120	323d1279	Soy tan irremediablemente inepto que mi derrota es básicamente una conclusión inevitable, sea cual sea el conflicto.
+130	14c13a40	No se trata de una carencia física o psicológica en la que pueda trabajar y superar algún día; mi inutilidad {fc(ff635b)está grabada en mí a nivel celular}.
+140	04c4bf4e	Más vale aceptar mi destino. Mi permanencia aquí solo causaría más problemas a todos.
+150	721a6d6e	¿Entiendes lo que dices, verdad? Una vez que cruces el Muro de Fuego, probablemente morirás.
+160	355fea0e	Sí, lo sé. También lo he aceptado.
 170	f4a72a8b	
-180	e7852a12	...Perdón por decepcionarlo. Soy una basura de pies a cabeza, ¿no?
-190	71bda125	De verdad... perdón por haber nacido.
-200	e0aeecf6	{fc(57e4f1)Dicho eso, Shouma bajó la cabeza y volvió a cerrar la puerta sin hacer ruido.}
-210	86bb4f55	No hay caso... Esto ya no es cuestión de convencerlo...
+180	e7852a12	Siento decepcionarlo. Pero es mejor acabar con esto ahora para no decepcionarlo DE VERDAD más adelante.
+190	71bda125	Lamento que haya tenido que acabar aquí con alguien como yo.
+200	e0aeecf6	{fc(57e4f1)Shouma inclinó la cabeza en un gesto de profundo pesar y desapareció de nuevo en la oscuridad de su habitación.}
+210	86bb4f55	No hay caso... Es demasiado pesimista para que pueda convencerlo ahora...
