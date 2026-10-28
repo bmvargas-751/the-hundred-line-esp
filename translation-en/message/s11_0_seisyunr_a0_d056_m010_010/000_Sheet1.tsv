@@ -1,11 +1,11 @@
 id	huella_jp	es
 10	5c230751	Día 56
-20	00c7b8f9	{fc(57e4f1)Después de eso llamé a las otras chicas,\ny llevaron a Kirifuji, caída, hasta la cama.}
+20	00c7b8f9	{fc(57e4f1)Después de eso llamé a las otras chicas,\ny llevaron a Nozomi, caída, hasta la cama.}
 30	ae8dfd80	{fc(57e4f1)Y al día siguiente reuní a todos de nuevo en la cafetería...}
-40	17e5180e	{fc(57e4f1)Les expliqué a todos el rechazo de Kirifuji.}
-50	09b2af97	{fc(57e4f1)Kirifuji, que obtuvo el poder de la criptoglobina por un medio distinto al nuestro,\ncarga con la bomba del rechazo...}
+40	17e5180e	{fc(57e4f1)Les expliqué a todos el rechazo de Nozomi.}
+50	09b2af97	{fc(57e4f1)Nozomi, que obtuvo el poder de la criptoglobina por un medio distinto al nuestro,\ncarga con la bomba del rechazo...}
 60	c2bf1b94	{fc(57e4f1)pero hay una manera de contenerlo.}
-70	af31a467	...Es hacer que absorba hemoánima. ¡Así se calma el rechazo de Kirifuji!
+70	af31a467	...Es hacer que absorba hemoánima. ¡Así se calma el rechazo de Nozomi!
 80	2c251cea	¿Absorber hemoánima...?
 90	6edb5e11	¿La vez pasada fue el mismo método?
 100	1d097910	Sí, así se calmaron los síntomas. ¡Esta vez también debería mejorar!
@@ -31,7 +31,7 @@ id	huella_jp	es
 300	fdf6c499	Yo no sé bromear.
 310	658f6d63	Propuse el método más seguro y de menor riesgo.
 320	f0822f2f	Es verdad. La propuesta de Eva es la más realista.
-330	1225d461	¡¿Hasta Shizuhara?!
+330	1225d461	¡¿Hasta Hiruko?!
 340	1fd4e2f2	Solo opino considerando la probabilidad objetiva de éxito. ¿Y bien, Sumino?
 350	32077179	...No pienso aceptar ese método.
 360	91810d15	Eva también es una compañera. Jamás puedo sacrificarla.
@@ -40,23 +40,23 @@ id	huella_jp	es
 390	462c5ec1	Como {fc(ff635b)"líder"}, puedes juzgar con calma, ¿verdad?
 400	f4a72a8b	
 410	72c346df	{fc(57e4f1)Lo sé. Lo que dice SIREI es razonable.\nPensando como líder, la respuesta está decidida.}
-420	84bd1307	Ese sentimiento de Sumino, ¿hacia quién va?
+420	84bd1307	Ese sentimiento de Takumi, ¿hacia quién va?
 430	b6720288	¿Hacia mí?\n¿O hacia... Karua?
 440	602e9103	{fc(57e4f1)Pero aun así... ¡aun así...!}
-450	1ca023e2	{fc(57e4f1)¡Quiero salvar a Kirifuji!}
+450	1ca023e2	{fc(57e4f1)¡Quiero salvar a Nozomi!}
 460	f272372d	Yo... iré aunque sea solo.
 470	57c811bd	¿Eh...?
 480	b2114cf2	Una compañera sufre delante de mis ojos. ¡No puedo quedarme esperando al enemigo...!
-490	03a9aea5	¡Bien dicho, Sumino!\n¡Para ser un plebeyo, tienes agallas!
+490	03a9aea5	¡Bien dicho, Takumi!\n¡Para ser un plebeyo, tienes agallas!
 500	2244f4c8	...¿En serio? No es propio de ti, siempre tan sereno.
 510	d821abbf	Para ser solo una compañera, te implicas demasiado. ¿Qué es Nozomi para Takumi?
-520	8e520ab1	{fc(57e4f1)Qué es Kirifuji para mí.\nNo hace falta preguntármelo: la respuesta ya está decidida.}
+520	8e520ab1	{fc(57e4f1)Qué es Nozomi para mí.\nNo hace falta preguntármelo: la respuesta ya está decidida.}
 530	75a4aa2e	{fc(57e4f1)Respiré hondo una vez y pronuncié esa respuesta.}
 540	967afe29	...Una compañera importante.\nY, más que eso, una {fc(ff635b)"persona querida"}.
-550	b8201daf	Sumino...
+550	b8201daf	
 560	090d3edd	Esas palabras tan directas...¡Golpe crítico en mi corazón!
 570	eec9cec7	¡Vamos!\n¡No podemos abandonar a Nozomi!
-580	d707d2b2	Sumino... ¡hay "alma" en eso!\n¡Entonces yo también voy!
+580	d707d2b2	Takumi... ¡hay "alma" en eso!\n¡Entonces yo también voy!
 590	911a645f	¡Por supuesto, yo también! Hay un lema en la familia Oosuzuki:
 595	d263ab90	"Un acto pesa 10 veces más que mil palabras, y el dinero 100 veces más".
 600	6960757c	{fc(ff635b)"Y un amigo de verdad no se compara con nada"}.
@@ -83,7 +83,7 @@ id	huella_jp	es
 810	bd19c481	...Qué bien tú, tan animado.
 820	4ed13e04	¡Pero es mucho mejor que sacrificar a alguien!
 830	5fdfca65	Todos... gracias.
-840	c9b4acaa	Entonces mañana por la mañana, Yakushiji, Oosuzuki y Mojiro,\nreúnanse en el estacionamiento.
+840	c9b4acaa	Entonces mañana por la mañana, Takemaru, Kurara y Moko,\nreúnanse en el estacionamiento.
 850	a6bd87a1	¡Entendido, líder!\n¡A Nozomi la llevo yo!
 860	38856097	Bueno, disolvámonos por hoy. ¡Hay cosas que hacer!
 870	783f2d5a	¡Para mañana, pónganse a punto de condición!

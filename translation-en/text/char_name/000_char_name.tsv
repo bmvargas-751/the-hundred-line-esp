@@ -84,7 +84,7 @@ id	huella_jp	es
 282	d8979f9b	Niño de la aldea 2
 283	ca4faa0e	Niña futurana
 284	64438970	Patrocinador - Kako-G
-285	8d0092a5	Patrocinador - Aotsuki
+285	8d0092a5	Patrocinador - Eito
 301	4220cd2f	Todos
 302	b7488b6c	
 303	11a26551	Sistema de defensa
@@ -98,21 +98,21 @@ id	huella_jp	es
 312	b3b32ec3	Hombre joven
 313	67f67a3f	Padre
 314	27a09ee7	Toda la humanidad
-315	ad119c29	Sumino II
-316	26f7d682	Sumino III
-317	25176532	Sumino IV
+315	ad119c29	
+316	26f7d682	
+317	25176532	
 318	f9fe70b5	Carta
 319	de48d5ad	Silueta misteriosa
 320	75de3dd5	Ruido
 321	6640e4a3	Mensaje
 322	2f0913ed	Muñeca
-323	279e92d1	Sumino V
-324	59f8ee54	Shizuhara V
-325	e5475bf9	Shizuhara zombi
-326	6d82247b	Shizuhara II
+323	279e92d1	
+324	59f8ee54	
+325	e5475bf9	Hiruko zombi
+326	6d82247b	
 327	19ca9032	Los cuatro
-328	7683bbee	Sumino VI
-329	aaf02c5e	Shizuhara VI
+328	7683bbee	
+329	aaf02c5e	
 330	d530e3ec	Las dos Shizuhara
 332	1c69651c	Silueta
 333	8d4a42e1	Reina de los G'ie
@@ -120,11 +120,11 @@ id	huella_jp	es
 335	eb4fb076	Todos
 336	9e90cdfd	¿NIGOU?
 337	1fac26dd	
-338	661d1c79	Kirifuji II
-339	31fa0f9a	Sumino-G
+338	661d1c79	
+339	31fa0f9a	
 340	b49efa29	
-341	c1968880	Sumino VII
-342	767734e6	Shizuhara VII
+341	c1968880	
+342	767734e6	
 343	fac45ebf	Palabras de maldición
 344	5addc4e4	Muchacho
 345	22d9b9af	Muchacha
@@ -155,8 +155,8 @@ id	huella_jp	es
 370	1d296a87	
 371	c9881f2d	Entrevistador
 372	5de025f4	Anuncio a bordo
-373	3c97d104	¿Sumino?
-374	7fcc38a4	¿Shizuhara?
+373	3c97d104	¿Takumi?
+374	7fcc38a4	¿Hiruko?
 375	94d28f02	Patrocinador 2 (sin usar)
 376	84668aef	Patrocinador 3 (sin usar)
 377	75364372	Patrocinador 4 (sin usar)
@@ -168,18 +168,18 @@ id	huella_jp	es
 384	71b54bd0	Voz misteriosa
 385	d27866e8	V'ehxness y V'ehxness II
 386	5d65eb0f	Patrocinador - Kako-G (sin usar)
-387	af65932e	Patrocinador - Aotsuki (sin usar)
+387	af65932e	Patrocinador - Eito (sin usar)
 388	e8517b7b	Kako e Ima
 389	0f38a6f1	Ima y Kako
-390	f327178c	Yakushiji y Ginzaki
-391	6cb6148d	Kawana, Magadori y Omokage
-392	80255b3a	Oosuzuki y Kirifuji
+390	f327178c	Takemaru y Shouma
+391	6cb6148d	Tsubasa, Kyoshika y Yugamu
+392	80255b3a	Kurara y Nozomi
 393	75d20d5a	NIGOU y Eva
 394	f1b13592	Futurano 1
 395	49b02bba	Futurano 2
 396	08fa230b	Futurano 3
-397	ce242be2	Mojiro y Oosuzuki
-398	cfcbb5ce	Sumino y Shizuhara
+397	ce242be2	Moko y Kurara
+398	cfcbb5ce	Takumi y Hiruko
 1001101	b6aca014	
 1002101	ac56e5a9	
 1003101	2be766f5	

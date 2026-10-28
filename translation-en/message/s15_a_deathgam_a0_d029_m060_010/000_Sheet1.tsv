@@ -23,7 +23,7 @@ id	huella_jp	es
 230	d62bd14e	La abeja, aunque se ve imponente y fuerte,\nno tiene un cuerpo tan resistente.
 240	12d202ac	Con solo aplicar un poco de fuerza se descoyuntan las articulaciones,\ny el aguijón del trasero se quebró de un chasquido.
 250	6b6faf86	Era frágil como una maqueta barata.
-260	f9ab6408	Pero... esa abeja mató a Oosuzuki sin esfuerzo.\nNo creo que sea tan débil.
+260	f9ab6408	Pero... esa abeja mató a Kurara sin esfuerzo.\nNo creo que sea tan débil.
 270	d68788c5	Probablemente, mientras está viva, su cuerpo se refuerza\ncon un poder sobrenatural.
 280	d36a7298	Un poder sobrenatural...\nprobablemente la hemoánima.
 290	5478ab5b	{fc(57e4f1)Poder moverse 24 horas sin reabastecerse...\nabejas reforzadas con hemoánima...}
@@ -37,7 +37,7 @@ id	huella_jp	es
 370	a6a4521f	A mí también me sorprendió\nencontrarlo tan rápido.
 380	bde7ba25	Con uno real en la mano, no será difícil\ndescubrir el punto débil del traje.
 390	d1087201	Lo siento por el patrocinador, pero la Caza de Invasores\nparece que terminará nada más empezar.
-400	832f44fc	{fc(57e4f1)Que la Caza de Invasores termine...\nsuena a sueño, pero seguro que Shizuhara tiene un plan.}
+400	832f44fc	{fc(57e4f1)Que la Caza de Invasores termine...\nsuena a sueño, pero seguro que Hiruko tiene un plan.}
 410	b3a52da1	¿Hay algo en lo que podamos ayudarte\npara conseguir el repuesto?
 420	ac33985e	Muchísimo. Más bien, sin su colaboración,\nparece imposible conseguir el repuesto.
 430	67dbc059	El repuesto está en cierto lugar al sur de la academia.
@@ -45,7 +45,7 @@ id	huella_jp	es
 450	c73807ec	Si las abejas que vuelan por el cielo descubren que intento conseguir el repuesto...\ntodo podría arruinarse.
 460	0c6d4edf	O sea que el patrocinador se enteraría de nuestro plan...
 470	15c35d85	Sí, por eso hace falta un ingenio extra\npara engañar a los ojos de esas abejas.
-480	1b7ec208	{fc(57e4f1)Dicho ese preámbulo,\nShizuhara empezó a explicar el plan que había ideado.}
+480	1b7ec208	{fc(57e4f1)Dicho ese preámbulo,\nHiruko empezó a explicar el plan que había ideado.}
 490	b73ed012	El plan empieza mañana a las 7 de la mañana.
 500	1489d754	Los tres que estamos aquí más Darumi, cuatro,\nsaldremos hacia el sur de la ciudad.
 510	0c653864	Al llegar a esta zona del sur,\nempiecen el combate con los invasores.
@@ -56,13 +56,13 @@ id	huella_jp	es
 560	77bb54fe	Y cuando sepamos cómo romper el traje invencible...
 570	d3f94ccb	iremos a ajustar cuentas con el patrocinador.
 580	e16d0645	¡¡...!!
-590	3d264eca	{fc(57e4f1)El plan de Shizuhara era simple y audaz...\ny a la vez rápido.}
+590	3d264eca	{fc(57e4f1)El plan de Hiruko era simple y audaz...\ny a la vez rápido.}
 600	10761846	{fc(57e4f1)Parece que Shizuhara piensa zanjarlo mañana mismo:\nla Caza de Invasores... y el patrocinador.}
-610	cbc3beba	¿Colaborarán con este plan,\nSumino, Omokage?
-620	4a83672d	{fc(57e4f1)Con Shizuhara pidiéndolo así, no podía negarme.\nAsentí con fuerza.}
+610	cbc3beba	¿Colaborarán con este plan,\nTakumi, Yugamu?
+620	4a83672d	{fc(57e4f1)Con Hiruko pidiéndolo así, no podía negarme.\nAsentí con fuerza.}
 630	67f4441a	¡Claro que sí! Conseguiremos el repuesto del traje\ny juntos derrotaremos al patrocinador...
 640	a9ac149b	No, yo me opongo.\nNo puedo participar en ese plan.
-650	af1bf1e8	¿Omokage? ¿Qué pasa?\n¿Tienes alguna objeción al plan?
+650	af1bf1e8	¿Yugamu? ¿Qué pasa?\n¿Tienes alguna objeción al plan?
 660	1d1da7c9	No tengo objeción al plan en sí.\nEl problema son los miembros.
 670	cb84bba4	Oye, Hiruko. ¿Por qué incluyes a Darumi\nen los miembros de mañana?
 680	e032b3fc	Ella es tu pareja {fc(ff635b)"en el juego"}.\nSe supone que no pertenece a la Alianza Antipatrocinador.
@@ -75,23 +75,23 @@ id	huella_jp	es
 750	0e837c85	No: a ella la llevaré mañana sí o sí.\nHay una razón por la que debo hacerlo.
 760	00f906e7	Ah, ¿sí? ¿Cuál?
 770	f4a72a8b	
-780	970d9709	{fc(57e4f1)La discusión quedó en un paralelo total.\nNi Shizuhara ni Omokage cedían.}
+780	970d9709	{fc(57e4f1)La discusión quedó en un paralelo total.\nNi Hiruko ni Yugamu cedían.}
 790	c843899e	{fc(57e4f1)Así el plan de mañana se cancelaría...\ntengo que echar una mano.}
-800	625c72df	Shizuhara... esta vez creo que Omokage tiene razón.\nEl plan de mañana nos juega la vida.
+800	625c72df	Hiruko... esta vez creo que Yugamu tiene razón.\nEl plan de mañana nos juega la vida.
 810	aa83eeed	Es natural que se desconcierten si, en un plan tan importante,\nde golpe quieres llevar a alguien ajeno a la alianza.
 820	868e067d	Ya veo... ¿tú también dices eso?
 830	7e9ba581	{fc(57e4f1)Shizuhara desvió la vista y se mordió el labio.}
 840	9e5ef21b	Entendido... ya no contaré con ustedes.
 850	e2e26d33	El traje lo conseguiré yo sola como pueda...
 860	bd503b31	¡Espera...!\n¡Al menos dinos la razón!
-870	98be4d83	{fc(57e4f1)Le agarré la mano a Shizuhara, que iba a salir del cuarto,\npor instinto.}
+870	98be4d83	{fc(57e4f1)Le agarré la mano a Hiruko, que iba a salir del cuarto,\npor instinto.}
 880	1579c2b5	Sabemos que Shizuhara guarda algún secreto...\ny que tiene motivos para no poder contarlo.
 890	f4a72a8b	
 900	c145022a	Pero si hay algo que puedas contar, aunque sea poco,\ncuéntanoslo.
 910	45dbb321	Debe de haber una razón de peso, ¿verdad? Tú no pedirías un capricho\npor interés personal.
 920	f16e1495	...¿Por qué lo afirmas con tanta seguridad?
 930	d5a894ba	Porque tú confiaste en mí.\nPor eso yo confío en ti.
-940	28dfc77b	{fc(57e4f1)Quien creyó en mí y me sacó afuera, cuando todos me trataban de dios de la muerte,\nfue Shizuhara.}
+940	28dfc77b	{fc(57e4f1)Quien creyó en mí y me sacó afuera, cuando todos me trataban de dios de la muerte,\nfue Hiruko.}
 950	d730423f	{fc(57e4f1)¡Si ella está en problemas,\nquiero ayudarla cueste lo que cueste...!}
 960	f4a72a8b	
 970	9fea42df	{fc(57e4f1)La miré fijamente a los ojos y le rogué.\nConfía en mí, apóyate en mí, deseaba.}
@@ -105,9 +105,9 @@ id	huella_jp	es
 1050	9271e6c1	Te espero en la azotea.\nVen {fc(ff635b)"solo"}.
 1060	4f1bc9d3	{fc(57e4f1)Shizuhara dijo eso y salió del cuarto.\nQue fuera solo significaba que...}
 1070	6563dde5	Por el amor de la muerte... ¿yo estoy de más?
-1080	86e11982	Está bien, ve, Sumino.\nYo esperaré solo y triste en tu cama.
+1080	86e11982	Está bien, ve, Takumi.\nYo esperaré solo y triste en tu cama.
 1090	ce08eb54	Sí, voy un momento...\na hablar con Shizuhara.
 1100	afd52802	Y a mi cama no le pongas ni un dedo encima.
 1110	e6ab3c0b	Jeje, eso no puedo prometerlo.
 1120	ad1ccada	¡Prométemelo...!
-1130	4feef166	{fc(57e4f1)Dejé a Omokage solo en el cuarto y salí a la azotea.}
+1130	4feef166	{fc(57e4f1)Dejé a Yugamu solo en el cuarto y salí a la azotea.}

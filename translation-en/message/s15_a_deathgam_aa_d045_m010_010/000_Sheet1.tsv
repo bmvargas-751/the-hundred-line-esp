@@ -15,8 +15,8 @@ id	huella_jp	es
 140	62ff7666	{fc(57e4f1)Si ahora es la noche del día 45,\neso significa que dormí casi un día entero...}
 150	e84dd2f4	{fc(57e4f1)¿Estaba tan cansado...?\n¡¿Y por qué nadie me despertó?!}
 160	0c8a561a	{fc(57e4f1)¿Qué estarán haciendo los demás...?\nJusto entonces.}
-180	be7d14cb	Buenos días, Sumino. ¿Ya estás bien de salud?
-190	8c124e4e	{fc(57e4f1)Quien vino a mi cuarto fue Kawana.\nPor alguna razón, tenía cara de preocupación.}
+180	be7d14cb	Buenos días, Takumi. ¿Ya estás bien de salud?
+190	8c124e4e	{fc(57e4f1)Quien vino a mi cuarto fue Tsubasa.\nPor alguna razón, tenía cara de preocupación.}
 200	10818965	Perdón por esta mañana,\npor obligarte a ayudarme con el trabajo.
 210	394509c8	Pero si no te sentías bien,\nhabrías podido decírmelo...
 220	9675fc77	¿M-Me sentía mal? ¿Ayudarte con el trabajo...?
@@ -30,16 +30,16 @@ id	huella_jp	es
 300	160db4f5	¡¿Cómo es que está aquí el QB Liquid?!\n¡Con lo que lo buscamos y no apareció!
 310	41410942	...¿Por qué reaccionas como si lo vieras por primera vez?\n¿No lo encontraste tú mismo?
 320	bdd12556	¿Yo encontré el QB Liquid...?\n¡Eso no puede ser...!
-330	4250cf53	Oye, Sumino, ¿qué dices desde hace rato...?
-340	34396a82	{fc(57e4f1)Kawana se interrumpió ahí,\n{fc(ff635b)"¡Ah!"}{fc(57e4f1) y abrió los ojos de par en par.}
+330	4250cf53	Oye, Takumi, ¿qué dices desde hace rato...?
+340	34396a82	{fc(57e4f1)Tsubasa se interrumpió ahí,\n{fc(ff635b)"¡Ah!"}{fc(57e4f1) y abrió los ojos de par en par.}
 350	521f8f47	¿No será que otra vez se te borró la memoria...?
 360	5e00f1dd	Sí, parece que sí...\nNo puedo recordar nada de lo que pasó hoy.
-370	b98b259a	Dime, Kawana... ¿qué pasó?\n¡¿Por qué está aquí el QB Liquid?!
+370	b98b259a	Dime, Tsubasa... ¿qué pasó?\n¡¿Por qué está aquí el QB Liquid?!
 380	9d10457f	{fc(57e4f1)Cuando le pregunté, Kawana me explicó con detalle.\nMis acciones que yo no conocía...}
-390	f8e5691e	{fc(57e4f1)Al parecer, de madrugada visité el cuarto de Kawana\ny le entregué el QB Liquid.}
+390	f8e5691e	{fc(57e4f1)Al parecer, de madrugada visité el cuarto de Tsubasa\ny le entregué el QB Liquid.}
 400	d9312c22	{fc(57e4f1)Sorprendida, Kawana me interrogó:\n{fc(ff635b)"¿Dónde lo encontraste?"}{fc(57e4f1) me preguntó.}
 410	64195267	{fc(57e4f1)Pero mi respuesta fue confusa:\n{fc(ff635b)"No lo recuerdo bien"}{fc(57e4f1), insistí una y otra vez...}
-420	6474ce81	{fc(57e4f1)Kawana no indagó más. Lo importante era\nque habíamos conseguido el QB Liquid.}
+420	6474ce81	{fc(57e4f1)Tsubasa no indagó más. Lo importante era\nque habíamos conseguido el QB Liquid.}
 430	87866006	{fc(57e4f1)Después, Kawana y yo fuimos al hangar del subsuelo\ny, al parecer, eliminamos las bacterias subatómicas.}
 440	a85b2f2a	{fc(57e4f1)Rociamos con cuidado la cápsula de escape llena de agujeros con el QB Liquid,\npara que nunca más se agujereara.}
 450	71f2757e	La eliminación acabó rápido, pero...\nde repente te sentiste mal y volviste a tu cuarto.
@@ -48,18 +48,18 @@ id	huella_jp	es
 480	0fbd47b2	{fc(57e4f1)Aun después de oírlo, no volvía ningún recuerdo.}
 490	95957ebb	{fc(57e4f1)Es como si hubiera otro yo, uno que no conozco,\nexistiendo en alguna parte.}
 500	f4a72a8b	
-510	546026da	{fc(57e4f1)¿Habrá sido el Aotsuki que llevo dentro\nquien manejó mi cuerpo...?}
-520	f1fefdc5	{fc(57e4f1)Pero si fue obra de Aotsuki, ¿por qué se habría tomado la molestia\nde encontrar el QB Liquid?}
+510	546026da	{fc(57e4f1)¿Habrá sido el Eito que llevo dentro\nquien manejó mi cuerpo...?}
+520	f1fefdc5	{fc(57e4f1)Pero si fue obra de Eito, ¿por qué se habría tomado la molestia\nde encontrar el QB Liquid?}
 530	896b4092	{fc(57e4f1)Él deseaba que todos nosotros fuéramos aniquilados...}
 540	095dcdf2	No...
 550	b31a7398	{fc(57e4f1)Dejemos de lado por qué perdí la memoria...}
 560	db0eb130	{fc(57e4f1)Lo importante es que ahora existe aquí\nel QB Liquid.}
-570	fe366503	Kawana... dijiste antes, ¿verdad?
+570	fe366503	Tsubasa... dijiste antes, ¿verdad?
 580	7db2e90c	Que, con solo encontrar el QB Liquid, podríamos empezar\na reparar la cápsula de escape.
 590	ef79cd01	¿Qué tal? ¿Se puede reparar?
 600	c01b8a30	¿Encontraste cómo activar pronto\nla cápsula de escape del subsuelo...?
 610	4a7ca460	{fc(57e4f1)Con solo poder activar la cápsula de escape,\nterminarían nuestros sufrimientos.}
 620	5ac3f70c	{fc(57e4f1)Escapar del infierno del juego mortal\ny guiar a todos al Satélite Artificial...}
 630	154fd061	Sobre eso, Sumino...
-640	b8cc8352	{fc(57e4f1)Kawana bajó la vista con tristeza.}
+640	b8cc8352	{fc(57e4f1)Tsubasa bajó la vista con tristeza.}
 650	9f223c52	Reparar la cápsula de escape\ntomará unos cincuenta días...

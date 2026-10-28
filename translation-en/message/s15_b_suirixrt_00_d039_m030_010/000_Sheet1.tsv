@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	c0fe747c	{fc(57e4f1)Terminé el desayuno y volví a mi cuarto.\nEnseguida llegó Kawana.}
+10	c0fe747c	{fc(57e4f1)Terminé el desayuno y volví a mi cuarto.\nEnseguida llegó Tsubasa.}
 20	aa4b3789	Antes todos se veían sombríos, ¿no?\n¿Quieres saber la razón?
 30	7c35dfba	S-Sí...
 40	9c19b78f	{fc(57e4f1)Cuando respondí, Kawana sacó algo de su espalda.}
@@ -15,29 +15,29 @@ id	huella_jp	es
 140	98fca5b8	Sí. Es el número de seres vivos que hay en la academia.
 150	40065a5b	Ahora los sobrevivientes somos 13 contando a Eva...\nasí que coincide justo, ¿no?
 160	41dcad32	O sea que no hay ningún intruso en la academia...\nentonces, el culpable está entre nosotros.
-170	e060db87	Sí, eso parecen pensar todos...\nbueno, para ser exacta, "todos menos Kirifuji y yo".
+170	e060db87	Sí, eso parecen pensar todos...\nbueno, para ser exacta, "todos menos Nozomi y yo".
 180	9e36fea2	¿Tú crees que el culpable es alguien de afuera?
-190	912aba92	No sé... pero quizás el culpable apuñaló a Ginzaki\ny se escapó de la academia, ¿no?
+190	912aba92	No sé... pero quizás el culpable apuñaló a Shouma\ny se escapó de la academia, ¿no?
 200	679f505c	{fc(57e4f1)Esa posibilidad me pareció muy baja.\nPero no lo dije y me tragué las palabras.}
 210	3b527bc3	En fin, así están las cosas...\npor eso todos se pusieron sombríos.
 220	c4197da2	Resumiendo, todos se sospechan entre sí.
 230	9649885e	Esto está mal, ¿no?
 240	8f456de8	Si seguimos sin confianza como ahora,\nen la próxima defensa no podremos unirnos...
-250	ccdcc40c	Sumino, ¿no puedes hacer algo?\n¡Haré lo que pueda para ayudarte!
+250	ccdcc40c	Takumi, ¿no puedes hacer algo?\n¡Haré lo que pueda para ayudarte!
 260	5de2526b	...\n...
 270	6cb92b77	Ah, por cierto, lo que me pediste antes,\nese aparato, también lo dejé hecho.
 280	50d11b32	¿Ese aparato...?
 290	df10cba2	El transmisor de la orden de detonación de la bomba que Eva tiene en el cuerpo.
 300	e952cc44	Con la ayuda de Eva, examiné bien su cuerpo...\ny así, a duras penas, logré terminarlo.
-310	988f2a41	{fc(57e4f1)Kawana buscó en el bolsillo y sacó algo parecido a un control remoto.\nLo recibí y lo apreté firme en la palma.}
+310	988f2a41	{fc(57e4f1)Tsubasa buscó en el bolsillo y sacó algo parecido a un control remoto.\nLo recibí y lo apreté firme en la palma.}
 320	ca27bd97	Gracias, con esto estaremos tranquilos.\nCreo que en la próxima defensa podremos sumar a Eva a nuestras filas.
 330	06c0c6db	Sí, así aumentará un poco nuestra fuerza.
 340	a1cbb5e7	Pero el problema son los demás...\nojalá se pueda disipar esa desconfianza...
 350	b08db9e4	En fin, te lo encargo, ¿sí?
 360	2af9c446	{fc(57e4f1)Kawana dijo eso y salió del cuarto.}
 370	24bdfe40	Me lo encargó, pero... ¿qué hago?
-380	088b5b43	{fc(57e4f1)Kawana había dicho:}
-390	6321afb4	{fc(57e4f1)"Quizás el culpable apuñaló a Ginzaki\ny se escapó de la academia".}
+380	088b5b43	{fc(57e4f1)Tsubasa había dicho:}
+390	6321afb4	{fc(57e4f1)"Quizás el culpable apuñaló a Shouma\ny se escapó de la academia".}
 400	9070de01	{fc(57e4f1)Pero, sinceramente, yo no lo creía.\nNo tenía ninguna razón clara, pero...}
 410	726e9cd3	{fc(57e4f1)Pensando en todo lo ocurrido hasta ahora,\nsentía que el culpable tenía algún plan grande.}
 420	88902fda	
@@ -46,18 +46,18 @@ id	huella_jp	es
 450	88902fda	
 460	88902fda	
 470	88902fda	
-480	289cfc27	{fc(57e4f1)Al menos no me parecía que hubiera apuñalado a Ginzaki\npara dar todo por terminado.}
+480	289cfc27	{fc(57e4f1)Al menos no me parecía que hubiera apuñalado a Shouma\npara dar todo por terminado.}
 490	dcbe4131	{fc(57e4f1)Si es así...}
 500	ffb66782	{fc(57e4f1)El culpable está entre los 12, sin contarme a mí...}
 510	4dc9f2ec	No, no es así...
-520	b8c6996a	{fc(57e4f1)Ginzaki es víctima, y Shizuhara, Kawana, Yakushiji y Eva...\nestos cuatro están confirmados como inocentes.}
+520	b8c6996a	{fc(57e4f1)Shouma es víctima, y Hiruko, Tsubasa, Takemaru y Eva...\nestos cuatro están confirmados como inocentes.}
 530	83722889	{fc(57e4f1)Así que los sospechosos se reducen a los siete restantes.}
-540	102265e4	Amemiya, Kirifuji, Magadori, Omokage, Mojiro, Ima\ny Oosuzuki...
+540	102265e4	Darumi, Nozomi, Kyoshika, Yugamu, Moko, Ima\ny Kurara...
 550	b824d106	{fc(57e4f1)Claro que, en el fondo, no quería sospechar de mis compañeros.\nPero... no hay remedio.}
 560	d096f733	{fc(57e4f1)Mientras no descubra al verdadero culpable,\nno podré disipar las sospechas de todos.}
 570	cd3dc2b6	{fc(57e4f1)Y entonces la Unidad de Defensa Especial se desmoronará,\ny algún día los invasores nos destruirán.}
 580	376008f2	{fc(57e4f1)Para evitarlo, no había otro modo\nque esclarecer el caso.}
-590	b63c0969	En fin, Sumino, resuelve el incidente del futuro.\n¡Con tus propias manos...!
+590	b63c0969	En fin, Takumi, resuelve el incidente del futuro.\n¡Con tus propias manos...!
 600	c5e5ace7	{fc(57e4f1)Aquel niño de fuego lo dijo en aquel momento.\nEs decir, sabía que esto iba a pasar...}
 610	3b6a44c6	{fc(57e4f1)En todo caso, al no haber otro medio, no queda más remedio.}
 620	3e341be3	¡Como sea, tengo que encontrar al culpable...!

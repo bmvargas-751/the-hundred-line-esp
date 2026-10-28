@@ -3,11 +3,11 @@ id	huella_jp	es
 20	17bb23f8	{fc(57e4f1)No sentía ninguna ansiedad.}
 30	df5ea2e2	{fc(57e4f1)Saludé con la voz y el tono de siempre,\ncomo convenciéndome de eso.}
 40	2dec9c4f	Ah, buenos días. Perdón por lo de ayer, ¿eh?
-50	b54c839b	{fc(57e4f1)Kawana, que había llegado antes,\nrespondió con un tono algo juguetón.}
+50	b54c839b	{fc(57e4f1)Tsubasa, que había llegado antes,\nrespondió con un tono algo juguetón.}
 60	4214efc6	{fc(57e4f1)...Parece que está bien.}
 70	f917cbf9	{fc(57e4f1)No hay nada que deba preocuparme...}
 80	3ffd9439	...Ugh.
-90	ce8ff42f	{fc(57e4f1)Kawana, con el rostro pálido, se tapa la boca.}
+90	ce8ff42f	{fc(57e4f1)Tsubasa, con el rostro pálido, se tapa la boca.}
 100	da433626	...¡¿Estás bien?!
 110	43c0250f	Perdón... no te muevas de ahí...
 120	f4a72a8b	
@@ -16,7 +16,7 @@ id	huella_jp	es
 150	698b056c	...¿Algo feo?
 160	77b3e2b5	Por qué me dan ganas de vomitar...\nla verdad, como es cosa mía, lo sé.
 170	f4a72a8b	
-180	91f49d06	...Me dan ganas de vomitar por ti, Sumino.
+180	91f49d06	...Me dan ganas de vomitar por ti, Takumi.
 190	f4a72a8b	
 200	0106f80e	Ah, pero decir {fc(ff635b)"por tu culpa"} no es correcto.\n¿{fc(ff635b)"Culpa"}, o más bien, {fc(ff635b)"gracias a ti"}?
 210	221f65ad	No, eso tampoco... uuup.
@@ -67,5 +67,5 @@ id	huella_jp	es
 660	270a8d3a	Si lo dices así...
 670	b691f34f	{fc(57e4f1)No podía negarme.}
 680	18dd2bec	{fc(57e4f1)Además, "quiero cambiar".}
-690	653a779f	{fc(57e4f1)Kawana, al declararlo con fuerza,\nparecía una persona distinta de la débil Kawana de antes.}
+690	653a779f	{fc(57e4f1)Tsubasa, al declararlo con fuerza,\nparecía una persona distinta de la débil Tsubasa de antes.}
 700	6ffd6cdd	{fc(57e4f1)Solo le falta demostrárselo a sí misma.}

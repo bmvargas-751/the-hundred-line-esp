@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	d12d3131	{fc(57e4f1)¡Por ahora hay que esquivar el ataque...!}
-20	a40a5b09	¡Kirifuji, retrocede!
-30	8fa01a20	¡S-Sumino!
+20	a40a5b09	¡Nozomi, retrocede!
+30	8fa01a20	¡S-Takumi!
 40	52e0e1fd	{fc(57e4f1)Decidido a enfrentar al asesino,\nme puse en guardia.}
 50	bee4815a	{fc(57e4f1)Contra una sierra eléctrica, casi desarmado es una desventaja enorme...\npero no queda otra.}
 60	9ee40ebd	
@@ -9,7 +9,7 @@ id	huella_jp	es
 80	c0456125	{fc(57e4f1)¡Con el puño cerrado, me lancé\na golpear al asesino con todas mis fuerzas!}
 90	b396cc56	...¡!
 100	a6e049be	{fc(57e4f1)El asesino titubeó un instante... pero enseguida recuperó la postura\ny levantó la sierra eléctrica.}
-110	ffe428d9	¡Sumino, cuidado!
+110	ffe428d9	¡Takumi, cuidado!
 120	9ee40ebd	
 130	91160109	¡Ugh...!
 140	20cee529	{fc(57e4f1)La esquivé por un pelo, pero...}
@@ -25,9 +25,9 @@ id	huella_jp	es
 240	cabe8f7a	¡Ugh...!
 250	ec3f163d	{fc(57e4f1)Aprovechando un descuido, el asesino me pateó con fuerza\nen el abdomen.}
 260	66d6213d	{fc(57e4f1)Con un dolor intenso, me arrodillé sujetándome el estómago.}
-270	7a1fd758	¡S-Sumino!
-280	16ab7270	¡No vengas, Kirifuji...!
-290	8f3cd4e7	{fc(57e4f1)Detuve a Kirifuji, que corría hacia mí,\ne intenté ponerme de pie a toda costa. Pero...}
+270	7a1fd758	¡S-Takumi!
+280	16ab7270	¡No vengas, Nozomi...!
+290	8f3cd4e7	{fc(57e4f1)Detuve a Nozomi, que corría hacia mí,\ne intenté ponerme de pie a toda costa. Pero...}
 300	9ee40ebd	
 310	cce5a41e	{fc(57e4f1)Antes de que pudiera, el asesino levantó la hoja de la sierra eléctrica\ncontra mí.}
 320	b396cc56	...¡!
@@ -40,9 +40,9 @@ id	huella_jp	es
 390	9ee40ebd	
 400	1f1796c5	Tú, ¿qué...?
 410	76f70960	{fc(57e4f1)Justo cuando iba a preguntarle qué pretendía.}
-420	b38fc4ef	¡Aléjate de Sumino!
-430	ee1cf312	¡¿Kirifuji?!
-440	cf0fe68e	{fc(57e4f1)Sin que me diera cuenta, Kirifuji había aprovechado el descuido del asesino\ny se había puesto a su espalda.}
+420	b38fc4ef	¡Aléjate de Takumi!
+430	ee1cf312	¡¿Nozomi?!
+440	cf0fe68e	{fc(57e4f1)Sin que me diera cuenta, Nozomi había aprovechado el descuido del asesino\ny se había puesto a su espalda.}
 450	be3abdcf	{fc(57e4f1)Y, en el siguiente instante...\n¡le dio una patada voladora con todas sus fuerzas al asesino!}
 460	8252131f	...¡¡¿?!!
 470	e30ff6b4	{fc(57e4f1)Con ese impulso, el asesino rompió el vidrio de la ventana\ny salió despedido hacia afuera.}

@@ -1,9 +1,9 @@
 id	huella_jp	es
 10	c55e48b1	¡A-Alguien! ¡¿No hay nadie?!
-20	c8199630	No grites de noche, Sumino.
+20	c8199630	No grites de noche, Takumi.
 30	93bb03a9	Y nadie está despierto.\nPor eso elegí esta hora.
-40	ac10ae64	{fc(57e4f1)Kirifuji me persigue arrastrando la enorme hoz.}
-50	263c4ede	¡Alguien! ¡Por favor!\n¡Kirifuji... le pasa algo raro!
+40	ac10ae64	{fc(57e4f1)Nozomi me persigue arrastrando la enorme hoz.}
+50	263c4ede	¡Alguien! ¡Por favor!\n¡Nozomi... le pasa algo raro!
 60	4b038cfc	{fc(57e4f1)Mi voz solo resonaba en vano.}
 70	5e5798ac	{fc(57e4f1)No es hora de que haya nadie despierto.\nAunque grite, no llega a la azotea.}
 80	63f56b81	{fc(57e4f1)Así que... no vendrá ayuda.}
@@ -11,20 +11,20 @@ id	huella_jp	es
 100	3ee33584	{fc(57e4f1)Un dolor recorre mi pierna.}
 110	be6bd657	{fc(57e4f1)Parece que la hoz me rozó.\nAunque solo rozó, bastó para no poder correr.}
 120	337fb952	Dejemos el juego de perseguirse.
-130	934eba7d	K-Kirifuji... ¿por qué haces esto...?
+130	934eba7d	K-Nozomi... ¿por qué haces esto...?
 140	1ff319d1	¿Por qué... a mí...?
 150	91f47675	Podría decirte el motivo, pero seguro no lo entenderías.
 170	dbf29a2d	—
 180	0ab37543	Así que, ven, quédate quieto y muer——
 190	1044f27c	¡¡Oraaa!!
 200	1eb5c11f	——¡Gh!
-210	5cceb48f	{fc(57e4f1)En ese instante, alguien que se lanzó\nmandó a volar a Kirifuji.}
-220	21db3bff	...¡Yakushiji!
-230	39dd96ff	Oye, Sumino. Parece que llegaste a salvo por poco.
-240	145fa70e	Yakushiji... ¿por qué estás despierto?
+210	5cceb48f	{fc(57e4f1)En ese instante, alguien que se lanzó\nmandó a volar a Nozomi.}
+220	21db3bff	...¡Takemaru!
+230	39dd96ff	Oye, Takumi. Parece que llegaste a salvo por poco.
+240	145fa70e	Takemaru... ¿por qué estás despierto?
 250	89f0fb3a	No debiste oír el alboroto.
 260	a1071193	Y no soy el único que despertó.\nHay otra persona.
-270	5ec51502	...Kirifuji.\n¿Así que tú eras la culpable?
+270	5ec51502	...Nozomi.\n¿Así que tú eras la culpable?
 280	093324b9	Nos atacan por ambos lados.
 290	84a5d4ed	Pero no creerás que puedes vencerme.
 300	e667192f	No lo niegas.
@@ -32,19 +32,19 @@ id	huella_jp	es
 320	e78c300f	¿Te parece que sí?
 330	8f166a9b	Además, quienes deben temer son ustedes.\n¡Porque ahora van a morir!
 340	275d582c	Ya veo... esa es tu respuesta.
-350	49b1c4e2	Por cierto... Yakushiji se equivocó en algo.
+350	49b1c4e2	Por cierto... Takemaru se equivocó en algo.
 360	d343c3f6	¿Qué...?
 370	6c7fae04	No me desperté solo yo.
 380	7b72f552	Se despertaron todos.
 390	257ff880	...¿Eh?
 395	a582459a	{fc(57e4f1)Y entonces... ¡al instante!}
-400	0f5778e9	Kirifuji... ¿quieres saber qué fue eso?\n¡Detoné la bomba que SIREI implantó en tu cuerpo!
+400	0f5778e9	Nozomi... ¿quieres saber qué fue eso?\n¡Detoné la bomba que SIREI implantó en tu cuerpo!
 410	4b2a198c	Bueno... estás muerta.\nNo puedes oírme...
-415	4535951c	{fc(57e4f1)Ahora que lo pienso, SIREI dijo una vez:\n"También implanté una bomba en el cuerpo de Kirifuji"...}
-420	cbec3eb0	¡Oye, Sumino, ¿no estarás muerto?!
+415	4535951c	{fc(57e4f1)Ahora que lo pienso, SIREI dijo una vez:\n"También implanté una bomba en el cuerpo de Nozomi"...}
+420	cbec3eb0	¡Oye, Takumi, ¿no estarás muerto?!
 430	196e9526	¡¿Funcionó bien el detonador?!
-440	8d380368	¡Kawana, ¿hiciste algo así en secreto?!\n¡¿Estás loca, oye?!
-450	34372c11	K-Kirifuji... murió en el acto, ¿verdad...?
+440	8d380368	¡Tsubasa, ¿hiciste algo así en secreto?!\n¡¿Estás loca, oye?!
+450	34372c11	K-Nozomi... murió en el acto, ¿verdad...?
 460	f9d2ccb6	Todos... ¿por qué están aquí...?
 470	763fd6c2	...Poltergeist.
 480	0ded5105	¿Eh...?
@@ -52,7 +52,7 @@ id	huella_jp	es
 500	9c5d1706	Pareció una orden de "vayan a algún lado".\n¡Y al venir...!
 510	6517675f	...¡Tú estabas a punto de morir!\n¡Agradécelo, oye!
 520	8c132ea7	¡Tú no hiciste nada!
-530	4545fca5	¿Estás bien, Sumino?
+530	4545fca5	¿Estás bien, Takumi?
 540	352ecf4b	Sí... pero... ¿el cuarto tembló...?
 550	021fdc9b	Entonces... es como...
 560	1f8d6117	Alguien intentó salvarte.\nSeguro.

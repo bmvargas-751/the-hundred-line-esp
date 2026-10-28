@@ -193,7 +193,7 @@ id	huella_jp	es
 206100	b0da1b40	Chapter00_1-061\n・Tiempo libre
 206200	409fcbd8	Chapter00_1-062\n・Tiempo libre
 206300	0d98053b	Chapter00_1-063\n・Combate\n・Decisión: ¿Qué hacer con Eva?
-206310	cd6111ce	¿Qué hacer con Eva?\nDejárselo a Ginzaki
+206310	cd6111ce	¿Qué hacer con Eva?\nDejárselo a Shouma
 206320	c271a90a	¿Qué hacer con Eva?\nProteger a Eva
 206311	b5b185ad	
 206400	2b2c8f12	
@@ -273,7 +273,7 @@ id	huella_jp	es
 609700	e4f996f1	Chapter03_0_a-097\n・Tiempo libre
 609800	731924bd	
 609900	5606b11e	Chapter03_0_a-099\n・Combate\n・Decisión: ¿A quién salvar?
-609910	fd81b632	¿A quién salvar?\nSalvar a Kirifuji
+609910	fd81b632	¿A quién salvar?\nSalvar a Nozomi
 609920	e42f1968	¿A quién salvar?\nSalvar a Kamyuhn
 809900	e0dc7520	Chapter03_0_aa-099\n・Final 005
 909900	bdfec4d4	Chapter03_0_ab-099\n・Final 006
@@ -311,9 +311,9 @@ id	huella_jp	es
 1305900	84d5fb9b	
 1306000	2d9453d2	
 1306100	15d874e8	
-1306200	2f59079e	Chapter05_0-062\nDecisión: El undécimo Aotsuki...
-1306210	16b2bba7	El undécimo Aotsuki...\nNo está entre ellos
-1306220	d1b54c7a	El undécimo Aotsuki...\nLo encontré
+1306200	2f59079e	Chapter05_0-062\nDecisión: El undécimo Eito...
+1306210	16b2bba7	El undécimo Eito...\nNo está entre ellos
+1306220	d1b54c7a	El undécimo Eito...\nLo encontré
 1406200	0117aee5	Chapter05_0_a-062\nDecisión: ...
 1406210	10fc24d3	...\nPerdí
 1406220	bc5ea3c5	...\nTú ganas
@@ -510,9 +510,9 @@ id	huella_jp	es
 4709200	0def73da	Chapter09_A_ab-092\n・Exploración
 4709300	18b60099	Chapter09_A_ab-093\n・Combate
 4709800	838776ee	Chapter09_A_ab-098\n・Exploración
-4709900	22358dac	Chapter09_A_ab-099\n・Combate\n・Decisión: ¿Qué hacer con Aotsuki?
-4709910	0337f9df	¿Qué hacer con Aotsuki?\nDejárselo a Maruko
-4709920	3dc23911	¿Qué hacer con Aotsuki?\nEncargarme yo
+4709900	22358dac	Chapter09_A_ab-099\n・Combate\n・Decisión: ¿Qué hacer con Eito?
+4709910	0337f9df	¿Qué hacer con Eito?\nDejárselo a Gaku
+4709920	3dc23911	¿Qué hacer con Eito?\nEncargarme yo
 4809900	8ee773b1	Chapter09_A_aba-099\n・Final 027
 4909900	84664595	Chapter09_A_abb-099\n・Final 028
 5004500	0e08368d	
@@ -525,8 +525,8 @@ id	huella_jp	es
 5005800	f6f4d159	Chapter09_A_b-058\n・Exploración
 5006300	1ce26dbd	Chapter09_A_b-063\n・Combate
 5006400	d028c565	Chapter09_A_b-064\n・Decisión: ¿Con quiénes ir?
-5006410	ae245420	¿Con quiénes ir?\nIr con Ginzaki y los demás
-5006420	b19afc6e	¿Con quiénes ir?\nIr con Kirifuji y los demás
+5006410	ae245420	¿Con quiénes ir?\nIr con Shouma y los demás
+5006420	b19afc6e	¿Con quiénes ir?\nIr con Nozomi y los demás
 5106400	97efa34a	
 5106500	91b25916	Chapter09_A_ba-065\n・Exploración
 5107200	751fef9c	Chapter09_A_ba-072\n・Combate
@@ -616,8 +616,8 @@ id	huella_jp	es
 6007100	53ff4cf1	
 6007200	4238ef49	Chapter09_B_a-072\n・Combate
 6007300	d600423a	Chapter09_B_a-073\n・Decisión: ¿Con quién estar de acuerdo?
-6007310	b0b30c0f	¿Con quién estar de acuerdo?\nCon Shizuhara
-6007320	03004ee1	¿Con quién estar de acuerdo?\nCon Maruko
+6007310	b0b30c0f	¿Con quién estar de acuerdo?\nCon Hiruko
+6007320	03004ee1	¿Con quién estar de acuerdo?\nCon Gaku
 6107300	d93a3a5f	
 6107400	13c871b9	
 6107500	e77ad28c	
@@ -720,7 +720,7 @@ id	huella_jp	es
 6609200	d6463e82	
 6609300	b37d1e23	Chapter09_B_ba-093\n・Combate
 6609400	fa3dd89e	Chapter09_B_ba-094\n・Decisión: ¿Qué hacer?
-6609410	f3aa07c9	¿Qué hacer?\nResistirme a Maruko
+6609410	f3aa07c9	¿Qué hacer?\nResistirme a Gaku
 6609420	268ba904	¿Qué hacer?\nNo resistirme
 6709400	45ec83b9	Chapter09_B_baa-094\n・Final 037
 6809400	00cfa459	Chapter09_B_bab-094\n・Final 038
@@ -873,9 +873,9 @@ id	huella_jp	es
 8006200	ba06d5cd	
 8006300	5e87bb5e	
 8006400	d4572995	Chapter11_0_aa-064\n・Tiempo libre
-8006500	1919f0f3	Chapter11_0_aa-065\n・Combate\n・Decisión: ¿Recibir la hemoánima de Kirifuji?
-8006510	4a4c8fa5	¿Recibir la hemoánima de Kirifuji?\n...Está bien
-8006520	02a57857	¿Recibir la hemoánima de Kirifuji?\nNegarme
+8006500	1919f0f3	Chapter11_0_aa-065\n・Combate\n・Decisión: ¿Recibir la hemoánima de Nozomi?
+8006510	4a4c8fa5	¿Recibir la hemoánima de Nozomi?\n...Está bien
+8006520	02a57857	¿Recibir la hemoánima de Nozomi?\nNegarme
 8206500	79af1867	Chapter11_0_aaa-065\n・Final 047
 8306500	aa83ad41	Chapter11_0_aab-065\n・Final 048
 8106200	9da3492e	
@@ -974,8 +974,8 @@ id	huella_jp	es
 8609100	c3d03ebd	
 8609200	36ae33f1	
 8609300	da4faca6	Chapter12_0_a-093\n・Combate\n・Decisión: ¿Qué elegir?
-8609310	6d4f8d28	¿Qué elegir?\nTomar la mano de Amemiya
-8609320	4f090d5a	¿Qué elegir?\nRechazar a Amemiya
+8609310	6d4f8d28	¿Qué elegir?\nTomar la mano de Darumi
+8609320	4f090d5a	¿Qué elegir?\nRechazar a Darumi
 8709300	f438b375	
 8709900	4fa4687c	Chapter12_0_aa-099\n・Combate
 8710000	dce975ce	Chapter12_0_aa-100\n・Final 049
@@ -998,9 +998,9 @@ id	huella_jp	es
 9200600	1970abed	Chapter13_0-006\n・Exploración
 9200700	ec5fd4f9	Chapter13_0-007\n・Combate
 9200800	ffd987cd	Chapter13_0-008\n・Combate
-9200900	469c35e7	Chapter13_0-009\n・Tiempo libre\n・Decisión: ¿Besar a Shizuhara...?
-9200910	edfcddba	¿Besar a Shizuhara...?\nNo besarla
-9200920	f55ea002	¿Besar a Shizuhara...?\nBesarla
+9200900	469c35e7	Chapter13_0-009\n・Tiempo libre\n・Decisión: ¿Besar a Hiruko...?
+9200910	edfcddba	¿Besar a Hiruko...?\nNo besarla
+9200920	f55ea002	¿Besar a Hiruko...?\nBesarla
 9300900	2f70aed3	
 9301000	296f865f	
 9301100	33ae6ea0	Chapter13_A-011\n・Tiempo libre
@@ -1185,12 +1185,12 @@ id	huella_jp	es
 10804500	cfaabf3c	
 10804600	a0c061cf	
 10804700	db68e365	Chapter13_B-047\n・Combate
-10804800	d5e0e986	Chapter13_B-048\n・Decisión: La confesión de Oosuzuki...
-10804810	1bd8d877	La confesión de Oosuzuki...\nAceptarla
-10804820	de377503	La confesión de Oosuzuki...\nRechazarla
-10904800	c4bd945a	Chapter13_B_a-048\nDecisión: ¿Que Oosuzuki se ponga la máscara...?
-10904810	c56fb2de	¿Que Oosuzuki se ponga la máscara...?\nPermitirlo
-10904820	ac10af38	¿Que Oosuzuki se ponga la máscara...?\nNegarme
+10804800	d5e0e986	Chapter13_B-048\n・Decisión: La confesión de Kurara...
+10804810	1bd8d877	La confesión de Kurara...\nAceptarla
+10804820	de377503	La confesión de Kurara...\nRechazarla
+10904800	c4bd945a	Chapter13_B_a-048\nDecisión: ¿Que Kurara se ponga la máscara...?
+10904810	c56fb2de	¿Que Kurara se ponga la máscara...?\nPermitirlo
+10904820	ac10af38	¿Que Kurara se ponga la máscara...?\nNegarme
 11004800	17fdfb8b	Chapter13_B_aa-048\n・Final 061
 11104800	6176e38e	Chapter13_B_ab-048\n・Final 062
 11204800	5621fc5c	
@@ -1218,9 +1218,9 @@ id	huella_jp	es
 11207000	e992f2d1	
 11207100	17cd071d	
 11207200	16454bf0	Chapter13_B_b-072\n・Combate
-11207300	24d97558	Chapter13_B_b-073\n・Decisión: La confesión de Magadori...
-11207310	5ff2bd8a	La confesión de Magadori...\nAceptarla
-11207320	7228bff8	La confesión de Magadori...\nRechazarla
+11207300	24d97558	Chapter13_B_b-073\n・Decisión: La confesión de Kyoshika...
+11207310	5ff2bd8a	La confesión de Kyoshika...\nAceptarla
+11207320	7228bff8	La confesión de Kyoshika...\nRechazarla
 11307300	ae2b5822	Chapter13_B_ba-073\n・Final 063
 11407300	a0c561df	
 11407400	5b362f5b	
@@ -1245,15 +1245,15 @@ id	huella_jp	es
 11409300	929ee707	Chapter13_B_bb-093\n・Combate
 11409400	0cb49b3b	
 11409500	fe1acdb7	
-11409600	730278ec	Chapter13_B_bb-096\n・Decisión: La confesión de Kawana...
-11409610	0c05e1dd	La confesión de Kawana...\nAceptarla
-11409620	7809ece0	La confesión de Kawana...\nRechazarla
+11409600	730278ec	Chapter13_B_bb-096\n・Decisión: La confesión de Tsubasa...
+11409610	0c05e1dd	La confesión de Tsubasa...\nAceptarla
+11409620	7809ece0	La confesión de Tsubasa...\nRechazarla
 11509600	54ae32b9	Chapter13_B_bba-096\n・Final 064
 11609600	d4ab2afa	
 11609700	512d2230	
-11609800	0777e21a	Chapter13_B_bbb-098\n・Decisión: ¿Lo que siento por Kirifuji...?
-11609810	92e1da4a	Lo que siento por Kirifuji...\nAdmitirlo
-11609820	562eeabc	¿Lo que siento por Kirifuji...?\nNegarlo
+11609800	0777e21a	Chapter13_B_bbb-098\n・Decisión: ¿Lo que siento por Nozomi...?
+11609810	92e1da4a	Lo que siento por Nozomi...\nAdmitirlo
+11609820	562eeabc	¿Lo que siento por Nozomi...?\nNegarlo
 11709800	87bffc82	Chapter13_B_bbba-098\n・Final 065
 11809800	182f285a	Chapter13_B_bbbb-098\n・Decisión: ¿Al final alguna de las tres...?
 11809810	38081409	¿Al final alguna de las tres...?\nAdmitirlo
@@ -1387,8 +1387,8 @@ id	huella_jp	es
 13009800	fa4aa77b	
 13009900	252c4d25	Chapter14_A_ab-099\n・Combate
 13010000	546e328b	Chapter14_A_ab-100\n・Decisión: ¿A quién seguir?
-13010010	1764d00c	¿A quién seguir?\nSeguir a Shizuhara
-13010020	3bcafcad	¿A quién seguir?\nSeguir a Kirifuji
+13010010	1764d00c	¿A quién seguir?\nSeguir a Hiruko
+13010020	3bcafcad	¿A quién seguir?\nSeguir a Nozomi
 13110000	26e7a293	Chapter14_A_aba-100\n・Final 071
 13210000	1be4d3b5	Chapter14_A_abb-100\n・Final 072
 13304300	d2fc8baa	
@@ -1421,14 +1421,14 @@ id	huella_jp	es
 13307000	765aa1ff	
 13307100	8374b607	
 13307200	2d18bb4f	Chapter14_A_b-072\n・Combate
-13307300	7e99904a	Chapter14_A_b-073\n・Decisión: ¿Acabar con Kirifuji?
-13307310	daaa8b5e	¿Acabar con Kirifuji?\nNo acabar con ella
-13307320	a26e8447	¿Acabar con Kirifuji?\nAcabar con ella
+13307300	7e99904a	Chapter14_A_b-073\n・Decisión: ¿Acabar con Nozomi?
+13307310	daaa8b5e	¿Acabar con Nozomi?\nNo acabar con ella
+13307320	a26e8447	¿Acabar con Nozomi?\nAcabar con ella
 13407300	b9f62091	
 13409900	6095b493	
-13410000	a56aac8e	Chapter14_A_ba-100\n・Decisión: ¿Al cuello de Oosuzuki...?
-13410010	2a666fcb	¿Al cuello de Oosuzuki...?\nMorderlo
-13410020	1915478c	¿Al cuello de Oosuzuki...?\nNo morderlo
+13410000	a56aac8e	Chapter14_A_ba-100\n・Decisión: ¿Al cuello de Kurara...?
+13410010	2a666fcb	¿Al cuello de Kurara...?\nMorderlo
+13410020	1915478c	¿Al cuello de Kurara...?\nNo morderlo
 13510000	4cf68c55	Chapter14_A_baa-100\n・Final 073
 13610000	bd83c937	Chapter14_A_bab-100\n・Final 074
 13707300	5d745760	
@@ -1656,16 +1656,16 @@ id	huella_jp	es
 15502510	6c8a844f	¿La Caza de Invasores...?\nParticipar
 15502520	546869f4	¿La Caza de Invasores...?\nNo participar
 15602500	ebd4708c	
-15602600	1dede3d4	Chapter15_A-026\n・Combate\n・Decisión: ¿Formar equipo con Omokage?
-15602610	42184fc4	¿Formar equipo con Omokage?\nFormar equipo
-15602620	762138ab	¿Formar equipo con Omokage?\nNo formar equipo
+15602600	1dede3d4	Chapter15_A-026\n・Combate\n・Decisión: ¿Formar equipo con Yugamu?
+15602610	42184fc4	¿Formar equipo con Yugamu?\nFormar equipo
+15602620	762138ab	¿Formar equipo con Yugamu?\nNo formar equipo
 15702600	be563c1d	
 15702700	78889c34	Chapter15_A_a-027\n・Combate
 15702800	cf8d37c9	
 15702900	233cd94a	
-15703000	7428c2ea	Chapter15_A_a-030\n・Decisión: ¿Ayudar a Amemiya?
-15703010	dd482e84	¿Ayudar a Amemiya?\nAyudarla
-15703020	c71187da	¿Ayudar a Amemiya?\nNo ayudarla
+15703000	7428c2ea	Chapter15_A_a-030\n・Decisión: ¿Ayudar a Darumi?
+15703010	dd482e84	¿Ayudar a Darumi?\nAyudarla
+15703020	c71187da	¿Ayudar a Darumi?\nNo ayudarla
 15803000	c017d5c8	Chapter15_A_aa-030\n・Combate
 15803100	4d86806c	
 15803200	b02904b3	
@@ -1683,9 +1683,9 @@ id	huella_jp	es
 15804400	fb7af642	Chapter15_A_aa-044\n・Exploración
 15804500	9e4d8f6a	
 15804600	295cea55	
-15804700	98d7a4f5	Chapter15_A_aa-047\n・Combate\n・Decisión: ¿Dejar atrás a Mojiro?
-15804710	e0abea62	¿Dejar atrás a Mojiro?\nDejarla
-15804720	40bff20b	¿Dejar atrás a Mojiro?\nNo dejarla
+15804700	98d7a4f5	Chapter15_A_aa-047\n・Combate\n・Decisión: ¿Dejar atrás a Moko?
+15804710	e0abea62	¿Dejar atrás a Moko?\nDejarla
+15804720	40bff20b	¿Dejar atrás a Moko?\nNo dejarla
 15904700	fff26488	Chapter15_A_aaa-047\n・Combate
 15904800	350e583f	
 15904900	ef049e0d	
@@ -1771,17 +1771,17 @@ id	huella_jp	es
 17102700	70f7eef9	
 17103900	9173797c	
 17104000	bb95ed4a	Chapter15_B-040\n・Combate
-17105000	125897b8	Chapter15_B-050\n・Decisión: La persona que mató a Kako e hirió a Ginzaki es
-17105010	b46da526	La persona que mató a Kako e hirió a Ginzaki es\nRespuesta incorrecta
-17105020	2be9ca12	La persona que mató a Kako e hirió a Ginzaki es\nRespuesta correcta
+17105000	125897b8	Chapter15_B-050\n・Decisión: La persona que mató a Kako e hirió a Shouma es
+17105010	b46da526	La persona que mató a Kako e hirió a Shouma es\nRespuesta incorrecta
+17105020	2be9ca12	La persona que mató a Kako e hirió a Shouma es\nRespuesta correcta
 17205000	bbfb9f83	
 17209900	2d86d653	Chapter15_B_a-099\n・Final 093
 17305000	fbac320d	
 17305100	3a70bda7	
-17307500	70dcfdf4	Chapter15_B_b-075\n・Decisión: El culpable de la muerte de Ginzaki es...
-17307510	295f9ce8	El culpable de la muerte de Ginzaki es...\nRespuesta incorrecta
-17307520	15269585	¿Quién mató a Ginzaki?\nRespuesta incorrecta (Sumino)
-17307530	c5e3e7c0	El culpable de la muerte de Ginzaki es...\nRespuesta correcta
+17307500	70dcfdf4	Chapter15_B_b-075\n・Decisión: El culpable de la muerte de Shouma es...
+17307510	295f9ce8	El culpable de la muerte de Shouma es...\nRespuesta incorrecta
+17307520	15269585	¿Quién mató a Shouma?\nRespuesta incorrecta (Takumi)
+17307530	c5e3e7c0	El culpable de la muerte de Shouma es...\nRespuesta correcta
 17407500	f632644a	
 17410000	4fe98005	Chapter15_B_ba-100\n・Decisión: El culpable de la muerte de todos es...
 17410010	8586f5a9	El culpable de la muerte de todos es...\nMoko Mojiro

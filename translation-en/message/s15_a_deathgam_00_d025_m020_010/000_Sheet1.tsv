@@ -5,12 +5,12 @@ id	huella_jp	es
 40	7f4d687b	{fc(57e4f1)¿Qué clase de juego quería que jugáramos?\n¿O el anuncio mismo era una trampa?}
 50	259ce85e	{fc(57e4f1)No lograba descifrar sus intenciones\ny me rompía la cabeza... cuando de pronto.}
 70	d6be85f3	¿Mm? ¿Visita?
-80	8ebbb9c3	{fc(57e4f1)Al abrir la puerta, apareció Amemiya,\ncon quien había estado hasta hacía un momento.}
+80	8ebbb9c3	{fc(57e4f1)Al abrir la puerta, apareció Darumi,\ncon quien había estado hasta hacía un momento.}
 90	f4a72a8b	
-100	3eedf774	Amemiya... ¿qué pasa?
+100	3eedf774	Darumi... ¿qué pasa?
 110	f4a72a8b	
 120	9fdec90b	O-Oye... ¿por qué no dices nada?
-130	6083e82e	{fc(57e4f1)Amemiya permanecía callada,\nsin decir nada.}
+130	6083e82e	{fc(57e4f1)Darumi permanecía callada,\nsin decir nada.}
 140	f4a72a8b	
 150	f34fbbb2	{fc(57e4f1)Un minuto, dos minutos...\npasó el tiempo en silencio...}
 160	dc129b4e	Tres personas, no puede ser...
@@ -22,7 +22,7 @@ id	huella_jp	es
 220	f5b9dd3a	O sea que lo que quieres decir es que te molesta\nque haya tan pocos participantes en el juego, ¿no?
 230	2770edbd	¡Eso es lo que dije desde el principio, ¿no?!
 240	c8d17518	¡No lo dijiste!
-250	298428b9	{fc(57e4f1)Desde que se anunció el juego mortal,\nsiento que la inestabilidad emocional de Amemiya empeoró...}
+250	298428b9	{fc(57e4f1)Desde que se anunció el juego mortal,\nsiento que la inestabilidad emocional de Darumi empeoró...}
 260	24858680	La gente común siempre es así... para las fiestas deportivas y culturales\nparticipan felices... ¿por qué no se matan entre sí...?
 270	888c05ba	Porque no quieren morir...
 280	64251cf4	Ay, así se cancela el juego mortal...
@@ -40,25 +40,25 @@ id	huella_jp	es
 400	e81ae9e5	Entonces, Takumi se encarga de convencer\na Takemaru, Shouma, Ima y Kako.
 410	8274f4f9	Tu tarea es hacer que estos cuatro\ncambien al {fc(ff635b)"bando de participar"} antes de la hora de reunión.
 420	5857d79e	¡Sin falta!\n¡Haz que participen en el juego mortal, ¿eh?!
-430	dd261ea3	{fc(57e4f1)Amemiya dijo eso de manera unilateral\ny se fue de mi cuarto como un huracán.}
+430	dd261ea3	{fc(57e4f1)Darumi dijo eso de manera unilateral\ny se fue de mi cuarto como un huracán.}
 440	2702ba36	Qué pesada... ¿por qué tiene que ser tan insistente?
 450	5957f51a	{fc(57e4f1)Pero, ya que me lo pidió,\nno podía quedarme sin hacer nada.}
 460	a9232935	{fc(57e4f1)Si se cancelaba el juego, yo también quedaba mal,\nasí que decidí animar a todos a participar.}
-470	fb1eee09	Me toca convencer\na Yakushiji, Ginzaki, Ima y Kako...
-480	0f499310	{fc(57e4f1)De este grupo, el que más probablemente\nse dejaría convencer era Yakushiji.}
+470	fb1eee09	Me toca convencer\na Takemaru, Shouma, Ima y Kako...
+480	0f499310	{fc(57e4f1)De este grupo, el que más probablemente\nse dejaría convencer era Takemaru.}
 490	8f032493	{fc(57e4f1)A primera vista parece rudo,\npero en el fondo es sincero y amable.}
 500	61219199	{fc(57e4f1)Si le hablo con fervor,\nquizás me escuche.}
-510	811e5e2a	Bien... al primero que voy a convencer es a Yakushiji.
+510	811e5e2a	Bien... al primero que voy a convencer es a Takemaru.
 520	a53d86d5	{fc(57e4f1)Una vez decidido, todo fue rápido.\nPensemos en cómo hacer que se decida a participar.}
 530	d42a76dd	Si Yakushiji no quiere participar en el juego...\nes porque desconfía de lo imprevisto, ¿no?
-540	8804408d	{fc(57e4f1)Al fin y al cabo, el rival es el criminal feroz que mató a Maruko...}
+540	8804408d	{fc(57e4f1)Al fin y al cabo, el rival es el criminal feroz que mató a Gaku...}
 550	1f833755	{fc(57e4f1)Entiendo bien el deseo de evitar el enfrentamiento.\nPero...}
 560	214ecb36	¡Así nunca vamos a saber\nquién es el culpable!
 570	3dbd6c60	{fc(57e4f1)Yo no quiero eso de ninguna manera...\nQuiero atrapar, cueste lo que cueste, al que mató a mi compañero.}
-580	88899d25	{fc(57e4f1)Maruko era un adulador, tramposo\ne insoportable...}
+580	88899d25	{fc(57e4f1)Gaku era un adulador, tramposo\ne insoportable...}
 590	c561bdf7	{fc(57e4f1)¡pero no era alguien que mereciera morir!}
-600	2b59ccc8	{fc(57e4f1)No perdono al culpable que mató a Maruko... quiero atraparlo.\nYakushiji también tiene que sentir lo mismo.}
-610	19d5d342	{fc(57e4f1)Quiero que Yakushiji también recuerde.\nLo que sintió cuando asesinaron cruelmente a Maruko...}
+600	2b59ccc8	{fc(57e4f1)No perdono al culpable que mató a Maruko... quiero atraparlo.\nTakemaru también tiene que sentir lo mismo.}
+610	19d5d342	{fc(57e4f1)Quiero que Yakushiji también recuerde.\nLo que sintió cuando asesinaron cruelmente a Gaku...}
 620	1f625321	Pero... ¿cómo hago que Yakushiji\nse anime...?
 630	68fce53a	{fc(57e4f1)¿Cómo se le enciende la sangre...?\n¿Cómo se le calienta el corazón a una persona...?}
 640	611adf49	No tiene sentido darle vueltas yo solo...\nPidamos la opinión de los demás.

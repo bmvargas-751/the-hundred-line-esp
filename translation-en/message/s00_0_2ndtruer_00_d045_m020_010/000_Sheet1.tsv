@@ -1,15 +1,15 @@
 id	huella_jp	es
 10	5cbea9cd	{fc(57e4f1)Esa mañana la cafetería\ntambién estaba envuelta en un olor extraño...}
 20	79f47c65	{fc(57e4f1)Pero no era un hedor como el de ayer.\nDe hecho, siento que ya había olido este aroma.}
-30	bac51bcc	Esto... ¿es el curry de Oosuzuki?
+30	bac51bcc	Esto... ¿es el curry de Kurara?
 40	3fe43c9e	Vaya, te diste cuenta.\nTienes buena nariz.
 50	c05ac3c0	¡Así es! ¡Es su curry!\n¡Yo mismo lo recreé!
 60	6d705b1c	...¿Qué tal? ¡Tú también vas a comer, ¿no?!
 70	455932a6	No te cortes y sírvete.\nDe verdad es igualito al curry de Kurara.
 80	9d56a769	Snif... al comerlo me acuerdo sin querer\ny se me salen unas lagrimitas...
 90	a7f2fc42	Sí... es verdad...
-100	8fff69c3	¡¿Y para qué se ponen tristes?!\n¡Si comen así, Oosuzuki los insultaría!
-110	e57cbed5	Pero, ¿por qué recreaste el curry de Oosuzuki, Maruko?
+100	8fff69c3	¡¿Y para qué se ponen tristes?!\n¡Si comen así, Kurara los insultaría!
+110	e57cbed5	Pero, ¿por qué recreaste el curry de Oosuzuki, Gaku?
 120	0c3380e7	Bueno... esa tenía mal carácter,\npero el curry que hacía era buenísimo...
 130	50c5f165	Sería un desperdicio que se perdiera,\nasí que pensé en continuarlo yo.
 140	c160e4d8	Sentí que eso era lo que me tocaba hacer\na mí, que sobreviví en su lugar...
@@ -38,7 +38,7 @@ id	huella_jp	es
 370	0136a239	Por cierto, Takumi, termina el desayuno y ve a la enfermería.\nHay que continuar lo de ayer.
 380	32231cdd	S-Sí... lo sé...
 390	ffa3da4b	Yo voy primero a la enfermería.\nTómate tu tiempo.
-400	ba67c4c8	...Eh, Sumino.\nLo de ayer que continuará... es lo de Eva, ¿verdad?
+400	ba67c4c8	...Eh, Takumi.\nLo de ayer que continuará... es lo de Eva, ¿verdad?
 410	fae644ce	Eva... ¿está bien?\n¿Volverá a ser la de antes?
 420	4d4b6a8b	{fc(57e4f1)¿La de antes...? No sé ni cuál es}{fc(ff635b)"la de antes"}{fc(57e4f1)para ella...}
 430	f8a76e30	...Está bien. Pronto se pondrá bien.
@@ -46,5 +46,5 @@ id	huella_jp	es
 450	93dc4ce7	Ya no más... actos que pisoteen\nla dignidad de su alma...
 460	257ff880	...¿Eh?
 470	8b02f195	No... nada. Entonces, voy a hurgar entre las sobras de todos...
-480	e0b66626	{fc(57e4f1)Dicho eso, Ginzaki me dio la espalda.\nParece que vio a través de mi "está bien".}
+480	e0b66626	{fc(57e4f1)Dicho eso, Shouma me dio la espalda.\nParece que vio a través de mi "está bien".}
 490	60c9d550	{fc(57e4f1)Después de saborear el curry de Oosuzuki con todos,\nfui a la enfermería, como prometí.}

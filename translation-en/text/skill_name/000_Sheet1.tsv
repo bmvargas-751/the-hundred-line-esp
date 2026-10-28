@@ -171,11 +171,11 @@ id	huella_jp	es
 1005161	72c3fdcb	Carrera
 1005171	5bd79e95	Postura defensiva
 1005191	7836deb4	Habilidad de contraataque
-1006111	f9e5afa6	Pulsión de muerte
-1006112	d9fc1d82	Pulsión de muerte Lv2
-1006113	7909d059	Pulsión de muerte Lv3
-1006114	f1c8bae3	Pulsión de muerte Lv4
-1006115	bf56436d	Pulsión de muerte MAX
+1006111	f9e5afa6	Luces mortales
+1006112	d9fc1d82	Luces mortales Lv2
+1006113	7909d059	Luces mortales Lv3
+1006114	f1c8bae3	Luces mortales Lv4
+1006115	bf56436d	Luces mortales MAX
 1006121	7c50c2b9	Acelerar
 1006122	79b01972	Acelerar Lv2
 1006123	b8da7756	Acelerar Lv3
@@ -210,11 +210,11 @@ id	huella_jp	es
 1007123	9689ec6e	¡Acábalos! Lv3
 1007124	1d65ee56	¡Acábalos! Lv4
 1007125	d55018fe	¡Acábalos! MAX
-1007131	f801eba3	Cacería de sangre
-1007132	37f234cd	Cacería de sangre Lv2
-1007133	fc552bf0	Cacería de sangre Lv3
-1007134	7fe47507	Cacería de sangre Lv4
-1007135	0cbe91fc	Cacería de sangre MAX
+1007131	f801eba3	A la caza
+1007132	37f234cd	A la caza Lv2
+1007133	fc552bf0	A la caza Lv3
+1007134	7fe47507	A la caza Lv4
+1007135	0cbe91fc	A la caza MAX
 1007140	b85c897a	Gatling máxima
 1007141	468862e2	Gatling máxima Lv2
 1007142	27efd13b	Gatling máxima Lv3
@@ -1126,7 +1126,7 @@ id	huella_jp	es
 6005141	1db736ab	Cargar
 6005151	dc8f77ca	Carga fallida
 6005161	b8d92ca2	No hacer nada
-6006111	f9e5afa6	Pulsión de muerte
+6006111	f9e5afa6	Luces mortales
 6007111	ea5fd829	Disparo loco
 6007141	b85c897a	Gatling máxima
 6008111	227c82ae	Martillo de un ala

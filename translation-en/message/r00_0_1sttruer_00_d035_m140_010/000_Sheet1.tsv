@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	37752e4a	Ginzaki... ¿qué te pasa?
+10	37752e4a	Shouma... ¿qué te pasa?
 20	d01059cd	Que fui yo. El que... se comió el curry del refrigerador.
 30	d0266993	¡¿Eh?!
 40	cefe0377	Así que pueden hacer conmigo lo que quieran. Aunque me corten en pedazos, no me voy a quejar.
@@ -7,7 +7,7 @@ id	huella_jp	es
 60	f7a8c717	E-Espera. ¿De verdad lo hiciste tú?
 70	f140dd4c	...Sí. Lo hice yo. Así que, ¿por qué no dejan ya esta pelea?
 80	4cf88265	Mmm... ya veo...
-90	6279c93c	{fc(57e4f1)Oosuzuki caminó despacio hasta donde estaba Ginzaki y...}
+90	6279c93c	{fc(57e4f1)Kurara caminó despacio hasta donde estaba Shouma y...}
 100	fcc10b5a	...¿Y el sabor?
 110	5b8d7982	¿Eh?
 120	a09065ab	Te lo comiste, ¿no? ¿Qué tal sabía?
@@ -29,7 +29,7 @@ id	huella_jp	es
 280	f47cc07b	¿Eh? P-Pero...
 290	0aebe3d5	¡Bueno, empecemos ya! ¡Sal afuera de una vez, enano podrido!
 300	2c9100d6	P-Pero... es que yo...
-310	32e5bc63	¡E-Eso es trampa! ¡Si sabes que Ginzaki no puede pelear!
+310	32e5bc63	¡E-Eso es trampa! ¡Si sabes que Shouma no puede pelear!
 320	516f5ad7	...Qué cosas dices, trampa. Lo raro es que, siendo de la Unidad de Defensa Especial, no pueda pelear.
 330	e9da26c2	Entonces, ¿peleas tú en su lugar? Si prefieres una batalla por equipos, también podemos hacerlo, ¿eh?
 340	3bbbe674	¡Los voy a hacer albóndigas a todos juntos y dárselos de comer a los invasores!
@@ -54,15 +54,15 @@ id	huella_jp	es
 530	3ae69525	{fc(57e4f1)Sin darme cuenta, había gritado.}
 540	f7e24244	{fc(57e4f1)Y una vez que lo dije en voz alta, las palabras empezaron a salir solas.}
 550	ebcc92c8	¡Pelear entre compañeros está mal! ¡Eso sí que no se puede!
-560	f3af0070	...En ese caso, un combate de práctica en forma de duelo es mejor. Que lo hagan Ginzaki y Oosuzuki.
+560	f3af0070	...En ese caso, un combate de práctica en forma de duelo es mejor. Que lo hagan Shouma y Kurara.
 570	257ff880	...¿Eh?
-580	2a60c4eb	Pero... ¿Ginzaki no puede pelear?
+580	2a60c4eb	Pero... ¿Shouma no puede pelear?
 590	0ec3f1c1	Por eso, por lo menos dame tiempo. Dame tiempo para preparar a Ginzaki para que pueda pelear.
 600	ac24ffbf	¡Qué conveniente para usted! ¡¿Por qué habría que darle semejante plazo?!
 610	9f1fdd20	...Está bien.
 620	1cac1c35	¡¿Le parece bien?!
 630	48118519	...¿Y cuánto tiempo quieres?
-640	1ae02e6a	{fc(57e4f1)No creo que Ginzaki aprenda a pelear así nomás. Cuanto más tiempo, mejor, pero...}
+640	1ae02e6a	{fc(57e4f1)No creo que Shouma aprenda a pelear así nomás. Cuanto más tiempo, mejor, pero...}
 650	2f768147	Le advierto que no podemos esperar mucho. Dos días, como mucho...
 660	ed0f9a3a	...Esperaré hasta dentro de ocho días.
 670	f4e69d3b	¡¿E-Está segura, doña Kurara?! ¡Ni los mangas semanales hacen esperar tanto para el siguiente capítulo!
@@ -70,7 +70,7 @@ id	huella_jp	es
 690	05b53c1c	Pero son ocho días como máximo. Si en ese tiempo ataca el enemigo...
 700	dad76ba5	gano yo, sin discusión. ¿Te parece bien?
 710	36b25040	Parece que... no queda otra que aceptar.
-720	d995819b	Y además, esto no es un simple duelo entre Ginzaki y yo: es un {fc(ff635b)"duelo entre representantes"} de ustedes y nosotros.
+720	d995819b	Y además, esto no es un simple duelo entre Shouma y yo: es un {fc(ff635b)"duelo entre representantes"} de ustedes y nosotros.
 730	fc64fcfd	El lado ganador podrá darle cualquier orden al lado perdedor. Y esa orden se cumple sí o sí... ¿entendido?
 740	adabeca6	¡¿Eh?! ¡¿S-Sí o sí?!
 750	f41f84d7	Así es. Obediencia total a cualquier orden. Esa es mi condición.
@@ -82,11 +82,11 @@ id	huella_jp	es
 810	58cd81d6	Kijijijí, qué gracioso... Que una cucaracha de letrina como esta tenga en sus manos el destino de todos sus compañeros...
 820	f4a72a8b	
 830	8217ab92	¡Kyajajajajajajá! ¡Me muero de ganas de que llegue la obediencia total!
-840	5b6dfa13	{fc(57e4f1)Soltando esa carcajada, Oosuzuki se fue de ahí.}
+840	5b6dfa13	{fc(57e4f1)Soltando esa carcajada, Kurara se fue de ahí.}
 850	c29b71ad	¡O-Oye! ¡Espera! ¡No lo des por decidido así nomás!
 860	9c774756	Ufufu... una orden de obediencia total... Se me ocurren un montón de ideas...
 870	2c053884	¡Ugh...! ¡Si no fuera por las sumas, sería una gran matemática, se lo aseguro!
-880	448fcd01	{fc(57e4f1)Detrás de Oosuzuki, Omokage y Magadori también se fueron de la cafetería.}
+880	448fcd01	{fc(57e4f1)Detrás de Oosuzuki, Yugamu y Kyoshika también se fueron de la cafetería.}
 890	48d3c68f	E-Eh... ¿están seguros? Con esa promesa...
 900	5b15d116	¡No estamos seguros! ¡Para empezar, nosotros no prometimos nada!
 910	d452dbcc	...Pero creo que no quedaba otra que aceptar. Si no, ahí mismo se habría desatado una guerra.
@@ -98,7 +98,7 @@ id	huella_jp	es
 970	078a877f	Oye, ¿de verdad está bien? Parece que el plazo es de ocho días, pero...
 980	39694be4	No, si antes atacan los invasores, perdemos sin discusión...
 990	13628147	¡Si vamos a pelear, cuanto antes mejor! ¡Vamos a hacerle ver estrellas a esa cabeza de tomate!
-1000	6019da71	¿Hacerle ver estrellas...? ¿Se puede? ¿Qué dices, Ginzaki?
+1000	6019da71	¿Hacerle ver estrellas...? ¿Se puede? ¿Qué dices, Shouma?
 1010	888b77f2	Imposible.
 1020	026e5a0f	¡Ahora el que ve estrellas soy yo...!
 1030	204d047a	Que yo pelee es completamente imposible. Ni aunque tuviera 100 años podría.

@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	ece74549	¡Detente, no te acerques...!
 20	d3f656cc	¡Un villano como tú!\n¡No te acerques a mí...!
-30	b6e0c19f	{fc(57e4f1)Omokage se lanzó sin más sobre el patrocinador,\nlo agarró y entonces...}
+30	b6e0c19f	{fc(57e4f1)Yugamu se lanzó sin más sobre el patrocinador,\nlo agarró y entonces...}
 40	2b5c01c1	{fc(57e4f1)¡metió una pequeña bomba de Llamas Eternas\nen el agujero del traje y la detonó...!}
 50	d4853c82	¡¡¡Gaaaaaaaaaaaaaaaaaaaah...!!!
 60	e930c747	{fc(57e4f1)Las Llamas Eternas envolvieron en un instante\ntodo el cuerpo del patrocinador.}
@@ -18,7 +18,7 @@ id	huella_jp	es
 170	f4a72a8b	
 180	f4a72a8b	
 190	f4a72a8b	
-200	bd7bb2a5	{fc(57e4f1)Kawana, que esperaba en el pasillo, se nos unió,\ny los tres miramos fijamente las llamas que ardían.}
+200	bd7bb2a5	{fc(57e4f1)Tsubasa, que esperaba en el pasillo, se nos unió,\ny los tres miramos fijamente las llamas que ardían.}
 210	fdc6f50a	{fc(57e4f1)Si apartábamos la vista, en ese instante\nquizás el patrocinador resucitaría...}
 220	b86a0325	{fc(57e4f1)Presos de ese intenso temor,\nno podíamos movernos.}
 230	efc48e54	S-Seguro que murió de verdad, ¿no? Ese tipo.
@@ -30,24 +30,24 @@ id	huella_jp	es
 290	86fbc7dc	¡Oímos un "iiiih" como de uñas rasguñando un vidrio...!
 300	30a17dcb	Y también... una explosión...
 310	cc8fb56d	{fc(57e4f1)Los demás, al oír el grito de agonía del patrocinador,\nllegaron alarmados a la sala de descanso.}
-320	cadb4a88	¡Sumino, Tsubasa...!\n¡¿Qué hacen?! ¡Vengan aquí rápido!
+320	cadb4a88	¡Takumi, Tsubasa...!\n¡¿Qué hacen?! ¡Vengan aquí rápido!
 330	b48699ff	¡¡Los dos, aléjense del patrocinador...!!
-340	2f26027f	{fc(57e4f1)Parece que todos habían confundido con el patrocinador\na Omokage, que llevaba el traje.}
+340	2f26027f	{fc(57e4f1)Parece que todos habían confundido con el patrocinador\na Yugamu, que llevaba el traje.}
 350	bb7dafdb	Hola a todos. Llegaron en el momento perfecto.\nVengan a calentarse junto al fuego.
 360	17ca0d18	¿F-Fogata...? Pero se ve apenas una silueta\ncomo de persona dentro del fuego...
 370	f15487f5	¡N-No me digas que tú...!\n¡¿Quemaste a alguien y lo cremaste?!
 380	5b5d736d	¡No lo perdono...! ¡A un malvado sin entrañas como tú\nlo cortaré con la Espada Sagrada Jumonji...!
-390	7761c6ce	¡Espera, Kyoshika!\n¡¿Este patrocinador no es Omokage?!
+390	7761c6ce	¡Espera, Kyoshika!\n¡¿Este patrocinador no es Yugamu?!
 400	9807e3d6	Sí, la forma de hablar es de Omokage...\neh, un momento... ¿qué significa esto?
-410	320f8e05	O sea, el patrocinador es Omokage,\ny Omokage es el patrocinador... yo soy él y él soy yo...
-420	d0941b4e	¡¿Qué significa esto, Sumino, Kawana...?!
-430	1028e882	¡Si ese es Omokage,\n¿adónde se fue el patrocinador de verdad?!
+410	320f8e05	O sea, el patrocinador es Yugamu,\ny Yugamu es el patrocinador... yo soy él y él soy yo...
+420	d0941b4e	¡¿Qué significa esto, Takumi, Tsubasa...?!
+430	1028e882	¡Si ese es Yugamu,\n¿adónde se fue el patrocinador de verdad?!
 440	7625c94a	...Sí, eso se lo explico yo.
 450	55cd11ce	{fc(57e4f1)Les resumí cómo habíamos llegado hasta aquí.}
-460	65dd8bc9	{fc(57e4f1)Que Shizuhara me invitó,\ny en secreto nos movimos para derrotar al patrocinador.}
-470	f7da0655	{fc(57e4f1)Que Shizuhara, por alguna razón, sabía\ndónde estaba el repuesto del traje.}
-480	82e9d918	{fc(57e4f1)Que conseguimos el repuesto,\npero que en el proceso Shizuhara perdió la vida...}
-490	54c93691	{fc(57e4f1)Que con la ayuda de Kawana descubrimos el punto débil del traje\ny así acabamos con el patrocinador.}
+460	65dd8bc9	{fc(57e4f1)Que Hiruko me invitó,\ny en secreto nos movimos para derrotar al patrocinador.}
+470	f7da0655	{fc(57e4f1)Que Hiruko, por alguna razón, sabía\ndónde estaba el repuesto del traje.}
+480	82e9d918	{fc(57e4f1)Que conseguimos el repuesto,\npero que en el proceso Hiruko perdió la vida...}
+490	54c93691	{fc(57e4f1)Que con la ayuda de Tsubasa descubrimos el punto débil del traje\ny así acabamos con el patrocinador.}
 500	76587e8e	Así que ya no tienen que matarse entre ustedes.
 510	39edc1de	¡Ganamos...!
 520	d4632229	{fc(57e4f1)Pensé que todos se alegrarían.}

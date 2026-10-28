@@ -8,14 +8,14 @@ id	huella_jp	es
 70	722322a9	¡No, no es eso...!
 80	2cf53deb	¿Que no es eso...? ¿Qué cosa?
 90	a9b3bc9c	¡No es un comandante...! ¡Este cadáver es...!
-100	39984808	...Shizuhara.
+100	39984808	...Hiruko.
 110	7a31cf57	¡¿Qué?!
 120	94bf8177	¿Esa... es la compañera de ustedes que desapareció?
-130	1ee9764f	¡E-Esperen, por favor! ¿Que esta es Shizuhara...? ¡¿Por qué dicen eso?!
+130	1ee9764f	¡E-Esperen, por favor! ¿Que esta es Hiruko...? ¡¿Por qué dicen eso?!
 140	2cd4a5aa	No, yo también estaba pensando lo mismo. Porque...
 150	4a9c7d0e	miren bien lo que hay tirado alrededor.
 160	d071d238	Esos lentes... y aquel pedazo de ropa...
-170	41be214c	Sí, son iguales a lo que llevaba puesto Shizuhara. No hay duda de que son... su ropa y sus lentes.
+170	41be214c	Sí, son iguales a lo que llevaba puesto Hiruko. No hay duda de que son... su ropa y sus lentes.
 180	74396c9f	N-No puede ser... es mentira, ¿no...?
 190	5abe28d9	No, no hay duda. Por desgracia.
 200	66a355c2	Pero... ¿por qué? ¿Por qué Shizuhara... terminó así?
@@ -37,18 +37,18 @@ id	huella_jp	es
 360	701ff442	...la mató.
 370	f4a72a8b	
 380	5f9fb6d2	¿N-No será... ese famoso Comandante Supremo?
-390	cf502b3e	¡Ese le absorbió la hemoánima a Shizuhara y se volvió todavía más fuerte!
+390	cf502b3e	¡Ese le absorbió la hemoánima a Hiruko y se volvió todavía más fuerte!
 400	bcbbe377	¡Ay, no! ¡¿Qué hacemos?! ¡Estamos en un aprieto enorme!
 410	9867ea8d	¡Silencio! ¡Ni siquiera lo vimos todavía y ya pierdes la cabeza!
 420	ac35e218	Y, aunque entiendo que este cadáver los impacte, no podemos quedarnos aquí perdiendo el tiempo, ¿eh?
-430	f1fb68da	...Pero ¿qué hacemos con el cadáver de Shizuhara? ¿No hay que llevarlo a la academia?
+430	f1fb68da	...Pero ¿qué hacemos con el cadáver de Hiruko? ¿No hay que llevarlo a la academia?
 440	6582e9b0	Aunque lo llevemos, no hay nada que hacer. Ya no se la puede revivir.
 450	79ee2e07	Volver después de haber llegado hasta aquí sería una pérdida de tiempo... Tenemos que ir rápido a la Penúltima Academia de Defensa.
 460	9105cf06	Aun así, no podemos dejarla así como está...
 470	5779b706	...Enterrémosla.
 480	257ff880	...¿Eh?
-490	072d9bd6	Siento que sea en un lugar así... pero, al menos, hagámosle una tumba aquí a Shizuhara y enterrémosla.
-500	3b96d409	{fc(57e4f1)Apenas lo dijo, Kirifuji empezó a cavar en la tierra con las manos.}
+490	072d9bd6	Siento que sea en un lugar así... pero, al menos, hagámosle una tumba aquí a Hiruko y enterrémosla.
+500	3b96d409	{fc(57e4f1)Apenas lo dijo, Nozomi empezó a cavar en la tierra con las manos.}
 510	716000b0	...Yo también te ayudo.
 520	4239d49a	Es... cierto... Al menos, hagamos eso por ella.
 530	c5ff37c4	Ay, qué remedio...
@@ -57,5 +57,5 @@ id	huella_jp	es
 560	8af554e0	...Era una compañera. Solo que... no sabía demostrarlo.
 570	a6a52b6b	Entonces yo hago la lápida. Para ella, a la que mataron los invasores sin poder cumplir lo que se propuso.
 580	f4a72a8b	
-590	e4386eb1	{fc(57e4f1)Cavamos un hoyo entre todos, pusimos ahí el cadáver de Shizuhara...}
+590	e4386eb1	{fc(57e4f1)Cavamos un hoyo entre todos, pusimos ahí el cadáver de Hiruko...}
 600	398c2775	{fc(57e4f1)y le hicimos una tumba.}

@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	e7cf2245	{fc(57e4f1)Kawana y yo seguimos a Magadori hasta el salón del primer piso...\nAl entrar, lo que había allí era...}
+10	e7cf2245	{fc(57e4f1)Tsubasa y yo seguimos a Kyoshika hasta el salón del primer piso...\nAl entrar, lo que había allí era...}
 20	5bd287bc	No puede ser...
 30	d9cc406a	¿Por qué... otra vez...?
 40	e1fe7f5b	{fc(57e4f1)Era igual que el día 4.}
@@ -13,10 +13,10 @@ id	huella_jp	es
 120	43df3a5b	Ah... este... antes del desayuno...\nquise recoger la máscara de doña Kurara...
 130	bdc77de4	Ayer la lanzaron a la pasarela del techo,\ny quedó ahí, ¿no?
 140	69f3b3fd	Grrr... no te lo perdono, Kyoshika...\n¡Luego te voy a dar una paliza, seguro...!
-150	f03da317	{fc(57e4f1)Ahora Oosuzuki llevaba puesta esa máscara.\nSeguramente la recuperó antes de que llegáramos.}
+150	f03da317	{fc(57e4f1)Ahora Kurara llevaba puesta esa máscara.\nSeguramente la recuperó antes de que llegáramos.}
 160	b8901d75	Pero, ¿quién habrá hecho algo así...?
 170	47ded7a6	¡Es obvio, ¿no?!
-180	bcc50727	¡Es el mismo que escribió la carta de amenaza anterior...\nel culpable que mató a Maruko...!
+180	bcc50727	¡Es el mismo que escribió la carta de amenaza anterior...\nel culpable que mató a Gaku...!
 190	8b09344b	Mmm... ¿será?\nMe parece que la letra es distinta a la de aquella carta...
 200	3eb0826d	¡Es verdad...! ¡Qué aguda eres, queridísima hermana...!
 210	a1196053	Entonces, ¿lo habrá escrito otra persona...?
@@ -31,7 +31,7 @@ id	huella_jp	es
 300	aef2a7dc	Bueno, por ahora dejemos de lado quién lo escribió.\nMás importante, ¿qué será ese {fc(ff635b)"juego de matanza"}...?
 310	86d7bf24	¡El juego de matanza es el juego de matanza, ¿no?!\n¡O sea, un juego mortal! ¡Kyohohoho!
 320	042ff9aa	Pero con esto solo no se entiende nada...\nNo dice ni las reglas ni nada...
-330	783dda9e	{fc(57e4f1)Entonces, de repente,\nGinzaki levantó la voz.}
+330	783dda9e	{fc(57e4f1)Entonces, de repente,\nShouma levantó la voz.}
 340	59448721	¡T-Todos, miren...!\n¡Hay algo sobre el escritorio del profesor...!
 350	c4bc557a	¡Eso es una grabadora de cintas, ¿no?!
 360	7a27c107	Sí, escuchémosla.
@@ -44,18 +44,18 @@ id	huella_jp	es
 412	aeda0c20	{fc(57e4f1)"A quien se niegue... se le quitará la vida. Eso es todo".}
 416	08112f83	{fc(57e4f1)La voz se cortó con esas palabras inquietantes.}
 420	9b2ed4ff	{fc(57e4f1)Se oyó que alguien tragaba saliva con dificultad.\nTodos tenían el rostro tenso y guardaban silencio.}
-430	666847f6	{fc(57e4f1)La carta de amenaza anterior no era una broma.\nDe verdad destruyeron a SIREI y asesinaron a Maruko.}
+430	666847f6	{fc(57e4f1)La carta de amenaza anterior no era una broma.\nDe verdad destruyeron a SIREI y asesinaron a Gaku.}
 440	2da95bfb	{fc(57e4f1)No sabíamos si el culpable de esta vez era el mismo.\nPero las palabras que dejó me pesaron en el pecho.}
 450	b632f8a4	{fc(57e4f1)"A quien se niegue... se le quitará la vida".}
 460	b4c10a3f	{fc(57e4f1)...\n...}
 462	9c8fa7c1	Por cierto... hace un rato Kako dijo, ¿verdad?\nQue le parecía que la letra era distinta a la de la carta anterior...
 464	39871ad9	Pero puede que haya cambiado la letra a propósito,\nasí que creo que debemos tenerlo presente.
 466	b6162dc1	Sí, declarar que son personas distintas sería precipitado.\nNo creo que haya dos tipos que anuncien crímenes así.
-468	60b1fa38	¿Entonces volvió a moverse...?\nEl culpable que mató a Maruko... ugh.
-470	bd415d78	O sea que esto...\npodría ser un desafío del asesino de Maruko.
+468	60b1fa38	¿Entonces volvió a moverse...?\nEl culpable que mató a Gaku... ugh.
+470	bd415d78	O sea que esto...\npodría ser un desafío del asesino de Gaku.
 472	c35bd5d9	{fc(57e4f1)Si es así, quizás se revele la identidad de ese culpable\nsi participamos en el juego...}
 474	69b856b9	{fc(57e4f1)Pero eso también conlleva un gran peligro.}
-476	8437388f	{fc(57e4f1)Porque el rival es un criminal feroz\nque mató a SIREI y a Maruko.}
+476	8437388f	{fc(57e4f1)Porque el rival es un criminal feroz\nque mató a SIREI y a Gaku.}
 478	f4a72a8b	
 480	842a87a8	{fc(57e4f1)¿Participar en el juego aceptando el riesgo,\no priorizar la seguridad de todos?}
 483	a07b1dd2	{fc(57e4f1)El plazo para responder es hoy a las 19:00...\nSí había tiempo, en cierto modo, pero...}

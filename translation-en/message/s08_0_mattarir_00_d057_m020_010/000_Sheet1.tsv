@@ -1,14 +1,14 @@
 id	huella_jp	es
-10	8aec476b	{fc(57e4f1)En la sala de recreo, Yakushiji y Omokage ya estaban\nfrente a frente al otro lado de la mesa.}
-20	adb821e3	{fc(57e4f1)Eva, como una segunda en la esquina,\nestaba detrás de Yakushiji.}
+10	8aec476b	{fc(57e4f1)En la sala de recreo, Takemaru y Yugamu ya estaban\nfrente a frente al otro lado de la mesa.}
+20	adb821e3	{fc(57e4f1)Eva, como una segunda en la esquina,\nestaba detrás de Takemaru.}
 30	7bcd5a93	Qué bien que vinieras sin huir.\nJeje... me alegro.
 40	9e5f63a8	¡Ey! ¿Con quién hablas?\n¡Yo no pienso salir corriendo!
-50	f7283a53	{fc(57e4f1)La personalidad parece haber dado una vuelta completa\ny volvió al Yakushiji de siempre...}
+50	f7283a53	{fc(57e4f1)La personalidad parece haber dado una vuelta completa\ny volvió al Takemaru de siempre...}
 60	945dee1c	{fc(57e4f1)Aunque no me parece que eso signifique\nque ganará.}
 70	44cee17a	Antes del combate... confirmemos algo.
 80	0702f663	Como dije antes, yo, como asesina,\ndoy importancia a un contrato una vez sellado.
 90	c17fe69b	O sea que tú, si pierdes, serás mi conejillo de indias de tortura,\nsin ninguna clemencia.
-100	7f17650c	{fc(57e4f1)Las palabras de Omokage traían un frío que daba escalofríos.}
+100	7f17650c	{fc(57e4f1)Las palabras de Yugamu traían un frío que daba escalofríos.}
 110	7613acdf	{fc(57e4f1)Seguramente es así... aunque sea un compañero,\nlo hará sin una pizca de piedad.}
 120	32c50ba5	¡Bah, eso ya lo sé!\n¿Creías que ahora me iba a asustar?
 130	980d4e1d	No, solo lo confirmé por si acaso. ¡Entonces, la revancha de póker...
@@ -18,18 +18,18 @@ id	huella_jp	es
 170	aef48060	...¿Qué?
 180	e836b640	Qué cosas dices. ¿No es una broma impropia de ti?
 190	c32925a7	No, no es broma.
-200	7fcbcd38	Omokage, tú dijiste: ¡"En 9 días, otra vez con cartas"!
+200	7fcbcd38	Yugamu, tú dijiste: ¡"En 9 días, otra vez con cartas"!
 210	4711dd93	¡Ah...!\n¡Ahora que lo pienso, dijo algo así...!
 220	79bb56ee	...Ya veo.\nRecuerdo haberlo dicho.
 230	73e2cabf	O sea que, siendo con cartas,\ncualquier modalidad no contradice el contrato.
 240	0e6a1542	El contrato... ¿eh?\n¡Jeje, qué ángulo tan bueno has encontrado!
 250	56b10430	...De acuerdo.\nAcepto la revancha con el Descarte.
-260	6738fef3	{fc(57e4f1)Ya veo... usaron en su contra el carácter de Omokage,\nque da importancia al concepto de contrato.}
+260	6738fef3	{fc(57e4f1)Ya veo... usaron en su contra el carácter de Yugamu,\nque da importancia al concepto de contrato.}
 270	e0f3c6a3	{fc(57e4f1)Si este es el plan de Eva, en los últimos 3 días\nhabrán entrenado en secreto el Descarte.}
 280	f66c06ce	{fc(57e4f1)Se puede decir que lo llevaron\na una situación relativamente ventajosa.}
-290	48441f9a	{fc(57e4f1)Pero aun así, ¿ganará Yakushiji...?}
+290	48441f9a	{fc(57e4f1)Pero aun así, ¿ganará Takemaru...?}
 300	a260b3c7	{fc(57e4f1)El Descarte de 1 contra 1, en el extremo,\nes una pura batalla de faroles y cara de póker.}
-310	6dc91917	{fc(57e4f1)Para Yakushiji, esa parte\nsigue siendo su punto débil...}
+310	6dc91917	{fc(57e4f1)Para Takemaru, esa parte\nsigue siendo su punto débil...}
 320	0cf56742	{fc(57e4f1)Así comenzó la partida única de Descarte,\ncon el conejillo de torturas como apuesta.}
 330	515b0c99	{fc(57e4f1)Naturalmente, mientras no robes el comodín,\nlas cartas de la mano van disminuyendo.}
 340	32bd7db3	Jeje... qué buena partida.
@@ -38,49 +38,49 @@ id	huella_jp	es
 370	1733da7a	¡Bah, no sigas hablando de cosas obvias!
 380	bea6472c	¡Oye, saca una de una vez...!
 390	80791ae8	Por el amor de la muerte... qué impaciente.\nDisfrutemos con calma.
-400	281b4844	{fc(57e4f1)Los dedos de Omokage vagaban de forma ostentosa sobre las 2 cartas.\nPor supuesto, observando fijo la expresión de Yakushiji...}
+400	281b4844	{fc(57e4f1)Los dedos de Yugamu vagaban de forma ostentosa sobre las 2 cartas.\nPor supuesto, observando fijo la expresión de Takemaru...}
 410	f4a72a8b	
 420	d88b7787	{fc(57e4f1)La verdad, me sorprendió...\nno se le nota ningún cambio en la cara.}
-430	891aabdd	{fc(57e4f1)Yakushiji, que no era apto para los faroles...\n¿será fruto del entrenamiento con Eva?}
+430	891aabdd	{fc(57e4f1)Takemaru, que no era apto para los faroles...\n¿será fruto del entrenamiento con Eva?}
 440	c69de6e0	Tú, que no conocías ni la "p" de cara de póker,\nhas crecido mucho en tan poco tiempo.
 450	b953ba66	Pero... es una lástima.\nA mí no me funciona.
 460	22f6d5d3	Esta... no es el comodín, ¿verdad?
-470	b2168c3a	{fc(57e4f1)Omokage sacó una carta sin dudar...}
+470	b2168c3a	{fc(57e4f1)Yugamu sacó una carta sin dudar...}
 480	049e5949	{fc(57e4f1)y mostró de su mano dos 7 que hicieron pareja.}
-490	ae7afd5a	La verdad, yo en la expresión de Yakushiji\nno pude leer nada...
+490	ae7afd5a	La verdad, yo en la expresión de Takemaru\nno pude leer nada...
 500	0905d4d9	...Mal.\nOmokage no está mirando la expresión.
 510	3f6fd8aa	¿Eh?\n¿Qué va a mirar aparte de la expresión?
-520	54de89b0	Eva tiene razón.\nLo que miro son los músculos de Yakushiji.
+520	54de89b0	Eva tiene razón.\nLo que miro son los músculos de Takemaru.
 530	242df763	¿Músculos...? ¡¿Qué?!
 540	a45ec602	Por mucho que controles la expresión,\nhay reacciones involuntarias que la voluntad no controla...
 550	3c0f479c	Tu tensión, tus emociones, se manifiestan\nen delicados cambios de los músculos faciales.
 560	170c08cf	Yo puedo detectarlos.\nCon conocimiento médico y experiencia profesional.
 570	73188b5c	{fc(57e4f1)¡En un lugar tan irrelevante,\nsaca una habilidad nueva como de manga de batalla...!}
-580	5877f657	{fc(57e4f1)¡Pero mal! ¡Así Yakushiji no tiene posibilidades!}
+580	5877f657	{fc(57e4f1)¡Pero mal! ¡Así Takemaru no tiene posibilidades!}
 590	fe57b4b9	¡Tsk...!
 600	c33479e2	Siéntete orgulloso...\nde que hayas crecido hasta obligarme a usar esto.
 610	2621a985	Y arrepiéntete...¡de haber peleado con el peor método, el Descarte...!
-620	15120464	{fc(57e4f1)Tal como anunció, Omokage no robó el comodín ni una vez\ny las manos de ambos siguieron disminuyendo...}
-630	0ce716ee	{fc(57e4f1)Por fin quedó Yakushiji con 2 cartas, incluido el comodín,\ny Omokage con 1.}
-640	9dafbbaf	¡Ugh, si ahora Omokage saca la que no es el comodín\nse acabó...!
+620	15120464	{fc(57e4f1)Tal como anunció, Yugamu no robó el comodín ni una vez\ny las manos de ambos siguieron disminuyendo...}
+630	0ce716ee	{fc(57e4f1)Por fin quedó Takemaru con 2 cartas, incluido el comodín,\ny Yugamu con 1.}
+640	9dafbbaf	¡Ugh, si ahora Yugamu saca la que no es el comodín\nse acabó...!
 650	f4a72a8b	
 660	69c81d29	No... todavía, quizás...
 670	28d9ebda	...Está bien, sácala de una vez.
 680	5ba304ac	Jeje... sin que me lo digas.\nCon esto termino.
-690	dbe60dc0	{fc(57e4f1)La sonrisa de Omokage, segura de la victoria.}
+690	dbe60dc0	{fc(57e4f1)La sonrisa de Yugamu, segura de la victoria.}
 700	55eca503	{fc(57e4f1)Pero en cuanto vio la cara de la carta que sacó,\nesa sonrisa se congeló.}
 710	fdc9c765	¡¿Imposible... el comodín?!
 720	409f5704	¡¿Eh?! ¡¿Cómo?!
-730	8ae186ac	¡Jeh, entonces me toca sacar a mí!\n¡Allá voy, Omokage!
+730	8ae186ac	¡Jeh, entonces me toca sacar a mí!\n¡Allá voy, Yugamu!
 740	8df5f713	¡Ugh...! ¡M-Mal!
-750	df0c689b	{fc(57e4f1)La carta que Yakushiji sacó sin dudar\nse estrelló en la mesa junto a otra de su mano.}
-760	2a3c9adb	{fc(57e4f1)En la mano de Omokage solo quedó el comodín.}
+750	df0c689b	{fc(57e4f1)La carta que Takemaru sacó sin dudar\nse estrelló en la mesa junto a otra de su mano.}
+760	2a3c9adb	{fc(57e4f1)En la mano de Yugamu solo quedó el comodín.}
 770	2923dcaf	¡¡Bieeen!!\n¡¡Gané yo!!
-780	8521a27e	...Excelente, Yakushiji.
+780	8521a27e	...Excelente, Takemaru.
 790	8b1a1f11	Imposible... ¿cómo logró engañarme los ojos?
 800	009b5b97	¡Cuando puse la mano en la carta, sin duda\ntus músculos faciales mostraron dolor y agitación...!
 810	f347c5aa	Je, la razón es... esto.
-820	4a702b11	{fc(57e4f1)Yakushiji mostró la mano en la que no tenía la carta.\nDe la palma goteaba mucha sangre.}
+820	4a702b11	{fc(57e4f1)Takemaru mostró la mano en la que no tenía la carta.\nDe la palma goteaba mucha sangre.}
 830	7aeea72c	Ya veo, te autolesionaste a tiempo...\ny usaste ese dolor de camuflaje.
 840	01975699	El estratega se ahogó en su propia estrategia.
 850	93b6cdee	Pero eso solo no explica\nque sacaras de una vez la carta correcta.
@@ -95,7 +95,7 @@ id	huella_jp	es
 940	8be57c4d	¿O mejor dicho, un "amar a matar"?
 950	962b3836	Ah, esa herida de la mano...¿por qué no me dejas tratártela con dedicación?
 960	63b1b451	¡No digas cosas realmente asquerosas!
-970	0e33f8a3	{fc(57e4f1)Qué sorpresa...\nno pensé que Yakushiji de verdad ganaría.}
+970	0e33f8a3	{fc(57e4f1)Qué sorpresa...\nno pensé que Takemaru de verdad ganaría.}
 980	1689a474	{fc(57e4f1)Aunque no entendí bien el sentido,\n¿habrá acertado el entrenamiento de Eva...?}
 990	1c851acc	{fc(57e4f1)En todo caso, caso cerrado... pensé, cuando de pronto.}
 1000	7479921e	Intrusión enemiga. Intrusión enemiga.\nSe detecta un ataque enemigo en esta zona.

@@ -21,7 +21,7 @@ salvo lo que dice este archivo. Meta: que el subtítulo diga lo mismo que la voz
 ## Términos, lugares, habilidades y objetos
 
 - **Todo nombre sigue al inglés**: si el inglés cambió el nombre japonés, va el del inglés (criterio 2 de GLOSSARY.md, sin la excepción del criterio 1).
-  Ejemplos: *Deadlights* (la habilidad que el japonés llama Death Drive), *On the Hunt*, *Judge*/*Jury*/*Executioner* ya traducidos como *Juez*/*Jurado*/*Verdugo*.
+  Ejemplos: *Luces mortales* (*Deadlights*, la habilidad que el japonés llama Death Drive), *A la caza* (*On the Hunt*), *Judge*/*Jury*/*Executioner* ya traducidos como *Juez*/*Jurado*/*Verdugo*.
   Marcas y palabras inventadas quedan en inglés (*Revive-O-Matic*); palabras comunes se traducen (*Penúltima Academia de Defensa*).
 - **Las habilidades se traducen al español** (decisión del 2026-10-27): el nombre del inglés, traducido. Ejemplos: *Side Slash* → *Tajo lateral*, *Hellfire* → *Fuego infernal*.
   Una misma habilidad se escribe igual en todos los menús, tutoriales y diálogos.

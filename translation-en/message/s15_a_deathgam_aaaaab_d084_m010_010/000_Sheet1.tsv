@@ -5,7 +5,7 @@ id	huella_jp	es
 50	f67d5c09	¡Hoy también, por la gran humanidad,\nno hay penuria ni sufrimiento que nos detenga!
 60	d9f7e380	¡Protejamos hasta el final nuestra amada academia\ndel enemigo salvaje y vil!
 70	b9b5a75a	Bien, todos, hoy también empecemos la reunión.\nEl tema, por supuesto, es cómo derrotar al patrocinador.
-80	fd5aa23e	{fc(57e4f1)Le hice una seña a Omokage\npara que se encargara de dirigir la reunión.}
+80	fd5aa23e	{fc(57e4f1)Le hice una seña a Yugamu\npara que se encargara de dirigir la reunión.}
 90	e8fcb492	Para derrotar al patrocinador,\nhay que neutralizar sus tres armas.
 100	4ac220d2	La primera es el traje que lleva puesto.
 110	05cadf6c	Ese traje tiene el efecto de anular\nlos ataques con hemoánima.
@@ -39,9 +39,9 @@ id	huella_jp	es
 390	70b46349	No, esto no es una carga suicida.\n¡Tiene bastantes posibilidades de ganar!
 400	c1c6afe7	Porque, pensándolo bien, yo soy la más indicada.\n¡Yo no tengo una bomba dentro del cuerpo!
 410	bc69de17	Es verdad... Kirifuji no es miembro oficial...
-420	7be5ef1e	{fc(57e4f1)Kirifuji llegó a esta academia por voluntad propia:\nes, por decirlo así, una integrante clandestina.}
+420	7be5ef1e	{fc(57e4f1)Nozomi llegó a esta academia por voluntad propia:\nes, por decirlo así, una integrante clandestina.}
 430	e7d5d7f8	{fc(57e4f1)A ella no le implantaron una bomba\nmientras estaba inconsciente, como a nosotros.}
-440	c2a8b5b1	{fc(57e4f1)Pero, ¿está bien...?\n¿Encargarle a Kirifuji una tarea tan peligrosa...?}
+440	c2a8b5b1	{fc(57e4f1)Pero, ¿está bien...?\n¿Encargarle a Nozomi una tarea tan peligrosa...?}
 450	83dda666	{fc(57e4f1)Y aunque Kirifuji corra el riesgo y logre derrotar al patrocinador...}
 460	d771a7ad	Pelear con Nozomi como eje,\ncomo estrategia, es una opción válida.
 470	595980a1	Neutralizar una de sus cartas\nes muy valioso.
@@ -60,7 +60,7 @@ id	huella_jp	es
 600	42d35c9c	Que haya un cuerpo principal también es solo mi hipótesis.
 610	933d6c5f	Y aunque exista, no tengo idea de cómo encontrarlo...
 620	f367ebd9	¡Aaay, ya...!\n¡Qué tenaz es el patrocinador...!
-630	ad1255b4	{fc(57e4f1)Kawana alzó la voz con impaciencia.}
+630	ad1255b4	{fc(57e4f1)Tsubasa alzó la voz con impaciencia.}
 640	a742ffe3	¡Ojalá se muriera de una vez!\n¡¿Por qué el juego no se acaba?!
 650	8eb54be9	No hay remedio, Reina Tsubasa... que el juego no se acabe nunca es parte de la estética de los juegos mortales.
 660	547cccc2	¿Estética...?
@@ -71,13 +71,13 @@ id	huella_jp	es
 710	cf9d1b4e	La Caza de Invasores es un caso típico de juego mortal interminable.\nHasta por las reglas...
 720	e90b0a52	Que las {fc(ff635b)"condiciones de victoria de los participantes"} no figuren en las reglas,\nsignifica que piensan seguir para siempre... qué flojera...
 730	ad5d88da	A Darumi le gusta más un juego mortal que empieza rápido y termina rápido.\nLos últimos que recomiendo son...
-740	c82079a7	{fc(57e4f1)Amemiya siguió desarrollando su teoría de los juegos mortales,\npero yo casi no la escuchaba.}
+740	c82079a7	{fc(57e4f1)Darumi siguió desarrollando su teoría de los juegos mortales,\npero yo casi no la escuchaba.}
 750	7196804d	{fc(57e4f1)Algo que Amemiya dijo antes\nse me quedó enganchado en la cabeza...}
 760	f4a72a8b	
 770	8cc46ebb	{fc(ff635b)"Las reglas de la Caza de Invasores\nno indican las condiciones de victoria de los participantes"}
 780	3ba3dcb6	{fc(57e4f1)Es cierto... las reglas no decían nada de eso.\nAmemiya tiene razón.}
 790	fb21c764	{fc(57e4f1)Pero no sé por qué, esa frase me inquietaba.\nNi yo sé qué es lo que me inquieta...}
-800	434b5b8d	¿Qué te pasa, Sumino...?\n¿Te sientes mal?
+800	434b5b8d	¿Qué te pasa, Takumi...?\n¿Te sientes mal?
 810	79634412	No, no... solo estaba pensando en algo.
 820	cbcbf1a6	{fc(57e4f1)Dejé de lado por ahora esa extraña sensación\ny continué con la discusión.}
 830	0689e33e	Pensemos entre todos una manera de derrotar al patrocinador actual\ny de evitar que aparezca el siguiente.

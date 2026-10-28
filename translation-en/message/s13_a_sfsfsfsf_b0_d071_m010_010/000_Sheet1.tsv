@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	fb491281	Día 71
 20	4942ffff	{fc(57e4f1)El despertar fue repentino.\nAbrí despacio los ojos y allí estaba...}
-30	2e20c94b	¿Shizuhara...?
+30	2e20c94b	¿Hiruko...?
 40	f4a72a8b	
 50	640e36fe	...
 60	ed5d10a7	...
@@ -10,7 +10,7 @@ id	huella_jp	es
 90	fee96202	{fc(57e4f1)Me sobresalté con el grito y me incorporé de golpe.\nO eso creí... pero...}
 100	2e5dcf70	{fc(57e4f1)Sin fuerzas en las piernas, rodé torpemente de la cama.}
 110	d9859aae	¡¿E-Estás bien...?!
-120	6f2a2646	{fc(57e4f1)Shizuhara me sostuvo y logré ponerme de pie.\nLas piernas me temblaban como las de un cervatillo recién nacido.}
+120	6f2a2646	{fc(57e4f1)Hiruko me sostuvo y logré ponerme de pie.\nLas piernas me temblaban como las de un cervatillo recién nacido.}
 130	3ca22257	Tengo... 4 preguntas.
 140	a1fe9d03	¿Q-Qué te pasa de repente...?\n¿Y ya son 4...?
 150	0e37bf3e	Respóndeme, por favor.\nPrimero: ¿qué día es hoy?
@@ -26,7 +26,7 @@ id	huella_jp	es
 250	6070b3ec	Perdón por preocuparte...
 260	53c96a63	N-No es que me preocupara...\n¡Más que yo, los demás estaban mucho más...!
 270	a592a76c	¡Ah, es verdad...!\n¡Hay que avisarles a todos cuanto antes...!
-280	f860e571	{fc(57e4f1)Shizuhara echó a correr hacia la puerta.\nYo la detuve a toda prisa.}
+280	f860e571	{fc(57e4f1)Hiruko echó a correr hacia la puerta.\nYo la detuve a toda prisa.}
 290	be7b7804	¡Esperen...!
 300	c084915a	Todavía no terminé. Quedan dos preguntas.
 310	be2cfa2d	¿Y esas dos cuáles son?
@@ -52,7 +52,7 @@ id	huella_jp	es
 510	224e5352	{fc(57e4f1)No pude aguantar y vomité ese líquido...}
 520	2cfbe348	{fc(57e4f1)lo esparcí por todas partes.}
 530	4788178d	{fc(57e4f1)Era sangre de un rojo intenso,\nviscosa y reluciente.}
-540	814ce798	S-Sumino... tú...
+540	814ce798	S-Takumi... tú...
 550	0e8eb86c	Estoy bien... no te preocupes...
 560	437a1868	¡No mientas...!\n¡Seguro que no estás bien...!
 570	ccb51210	Entonces el trastorno PL no estaba curado...\n¡Tienes que descansar más...!
@@ -78,9 +78,9 @@ id	huella_jp	es
 770	21afb619	Si haces PL una o dos veces más con el cuerpo al desnudo,\nexpulsarás y perderás toda la criptoglobina del cuerpo.
 780	c8bf4a72	Y entonces ya no se podrá revivir.\nMorirás con seguridad.
 790	916c708c	Esa vez dijiste "una o dos veces más", ¿no...?\n¡Entonces, en el caso máximo, todavía queda una...!
-800	d7e4db31	Sumino...
+800	d7e4db31	
 810	3d2cb4cd	Tranquila... ya se me pasó el ataque, ¡te preocupas demasiado...!
-820	4f52f5fb	{fc(57e4f1)Al decírselo, Shizuhara negó con la cabeza, exasperada.}
+820	4f52f5fb	{fc(57e4f1)Al decírselo, Hiruko negó con la cabeza, exasperada.}
 830	c71f1dd9	No estás normal ahora, estás mal de la cabeza...\n¿No te dije algo así antes...?
 840	1b094917	El trastorno PL grave también afecta al cerebro.\nComo resultado, puede perderse la memoria y la razón...
 850	caa72952	¿Que ahora no soy racional?
@@ -94,7 +94,7 @@ id	huella_jp	es
 930	c188f452	Si falta uno solo, tú y yo...\nno podremos salir de este bucle infinito...
 940	1031871e	Así que, por favor... por mí también...
 950	5de2526b	...\n...
-960	8d406eee	{fc(57e4f1)Tal vez Shizuhara tenía razón.\nQuizás yo había perdido la capacidad de juzgar con calma.}
+960	8d406eee	{fc(57e4f1)Tal vez Hiruko tenía razón.\nQuizás yo había perdido la capacidad de juzgar con calma.}
 970	49d92566	{fc(57e4f1)Los demás ganaron sin mí las batallas defensivas.\nY dos veces. Dieron resultados sólidos.}
 980	b6e622b4	{fc(57e4f1)Entonces quizás no hacía falta que yo saliera a la fuerza.\nConfiar en los demás también era parte del deber de un capitán.}
 990	f78b975a	{fc(57e4f1)Pero... ¿y si solo salieron bien esas dos veces?\nNo hay garantía de que mañana también.}

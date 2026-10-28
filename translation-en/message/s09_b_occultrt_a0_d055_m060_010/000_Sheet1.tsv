@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	9c759c3c	...Eh, ¿por qué estoy en un lugar así?
 20	f6ab5628	Y tú...
-30	bffe4191	{fc(B1221A)Sumino, eso no era lo que sentías de verdad, ¿no?}
+30	bffe4191	{fc(B1221A)Takumi, eso no era lo que sentías de verdad, ¿no?}
 40	d5184b9a	Kako... ¿"eso" qué?
 50	6be55987	{fc(B1221A)Lo de ayer... dijiste "solo queda esperar que vuelva viva".\nEso dijiste.}
 60	8fb59a3c	{fc(B1221A)Pero eso es mentira, ¿verdad?\n¿En el fondo piensas que yo morí?}
@@ -20,9 +20,9 @@ id	huella_jp	es
 190	31d298cc	{fc(B1221A)¡Tú, tú, tú—!}
 200	4720bc75	—¡
 210	d78a815e	—¡mino!
-220	ea9d9b99	—¡Sumino, reacciona! ¡Sumino!
+220	ea9d9b99	—¡Takumi, reacciona! ¡Takumi!
 230	cf5c8129	{fc(57e4f1)Esta voz...}
-240	0cf865aa	¡Sumino, ¿qué haces?! ¡Cálmate!
+240	0cf865aa	¡Takumi, ¿qué haces?! ¡Cálmate!
 250	fc4f2fa4	¡M-Me ahogo...! ¡Alguien... el cuello...!
 260	59ab0372	¡Cálmate, te digo!\n¡Eres tú quien se aprieta el cuello con tus manos!
 270	290d67b5	¡Quien te estrangula eres tú mismo!\n¡Nadie te está atacando!
@@ -45,7 +45,7 @@ id	huella_jp	es
 440	697ebc8b	Esas marcas son producto de tu propia convicción.
 450	4121367e	El fenómeno de que aparezcan marcas por una emoción intensa\nse ha confirmado muchas veces desde antaño.
 460	80919597	¡Pero...!
-470	24536fd8	Primero cálmate, Sumino.\nDejemos aparte la causa de esas marcas.
+470	24536fd8	Primero cálmate, Takumi.\nDejemos aparte la causa de esas marcas.
 480	95e1b385	Ahora eres consciente de que no estás en un estado mental normal, ¿verdad?
 490	17a35c74	Cálmate. Recobra la calma como sea.
 500	60281f75	Si esas marcas vienen de la convicción, como digo yo,\ncon la calma desaparecerán.
@@ -55,7 +55,7 @@ id	huella_jp	es
 540	e7dc3145	Hace tiempo que tengo la cabeza hecha un lío...\nPero soy el líder...
 550	8444f316	Bien, vuelve al cuarto y duerme.\nO si no puedes dormir, al menos te acompaño con un té.
 560	cdfd5d83	Estoy bien. Mañana también hay que trabajar, así que dormiré.
-570	46f1bad8	Por cierto, Shizuhara... eres más amable de lo que pensaba.
+570	46f1bad8	Por cierto, Hiruko... eres más amable de lo que pensaba.
 580	4c9d1774	Yo también tengo mis cosas.
 590	a2971f4e	Bueno, buenas noches.
 600	33e41659	Sí, buenas noches...

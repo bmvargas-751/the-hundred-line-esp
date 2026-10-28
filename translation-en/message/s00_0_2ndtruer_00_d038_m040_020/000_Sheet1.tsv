@@ -1,9 +1,9 @@
 id	huella_jp	es
-10	05b2ef6b	El cuarto de Kirifuji es... este.
+10	05b2ef6b	El cuarto de Nozomi es... este.
 20	70e114b9	{fc(57e4f1)Tras confirmar el letrero con el nombre,\npresioné con ímpetu el timbre junto a la puerta.}
 40	c231d58c	{fc(57e4f1)...Ya no hay vuelta atrás.}
 50	d8ea08ac	{fc(57e4f1)Después de un rato,\nla puerta se abrió despacio, con cautela...}
-60	32f8a5a3	...¿Sumino?\n¿Qué haces a esta hora?
+60	32f8a5a3	...¿Takumi?\n¿Qué haces a esta hora?
 70	e16f6d01	Perdón por venir tan tarde...\nEs que tengo algo que quiero darte.
 80	266f88ae	...¿Algo para mí?
 90	b5a3cc4d	Eh, es esto...
@@ -23,13 +23,13 @@ id	huella_jp	es
 230	0ded5105	¿Eh...?
 240	37f71b96	C-Claro... si a ti te parece bien.
 250	626a137d	Sí, gracias...
-260	2738e6de	{fc(57e4f1)Kirifuji salió de su cuarto enseguida,\ncon el telescopio que le di en la mano...}
+260	2738e6de	{fc(57e4f1)Nozomi salió de su cuarto enseguida,\ncon el telescopio que le di en la mano...}
 270	d09dd264	{fc(57e4f1)Lo instaló en la azotea imitando lo que había visto,\ny miró el cielo nocturno a través del lente.}
 280	7b0d64f3	Qué increíble... qué hermoso.
-290	3f873bf3	{fc(57e4f1)Kirifuji lo dijo con un suspiro,\ny después se quedó callada un buen rato.}
+290	3f873bf3	{fc(57e4f1)Nozomi lo dijo con un suspiro,\ny después se quedó callada un buen rato.}
 300	6c9959e0	{fc(57e4f1)Sin decir nada,\nmiró fijamente el cielo nocturno a través del lente.}
 310	1b3e700f	{fc(57e4f1)Yo también, sin decir nada,\nmiré fijamente su espalda.}
-320	2b371e61	...Sumino, perdón.
+320	2b371e61	...Takumi, perdón.
 330	0ded5105	¿Eh...?
 340	16d031a5	{fc(57e4f1)De pronto, ella habló.\nSin dejar de mirar por el lente del telescopio.}
 350	a9315e00	Perdón... por hacerte preocuparte.
@@ -37,10 +37,10 @@ id	huella_jp	es
 370	7cdad727	En realidad... ¿no tienes algo que decirme?
 380	257ff880	...¿Eh?
 390	f712d8fc	¿No quieres... culparme?
-400	ec3b5a62	Porque por mi culpa Oosuzuki...\nNo, lo mismo con Kyoshika...
+400	ec3b5a62	Porque por mi culpa Kurara...\nNo, lo mismo con Kyoshika...
 410	8b4c68c9	...¿No me guardas rencor por eso?
 420	f4a72a8b	
-430	5de78ee9	{fc(57e4f1)Kirifuji apartó la cara del telescopio\ny se volvió hacia mí...}
+430	5de78ee9	{fc(57e4f1)Nozomi apartó la cara del telescopio\ny se volvió hacia mí...}
 440	432814a9	{fc(57e4f1)Me miró directo a los ojos y dijo.}
 450	23729939	...No te guardo rencor.\nNo había otra cosa que hacer.
 460	ba9cfda1	Si tuviera que guardarle rencor a algo... sería a mi propia impotencia.
@@ -53,16 +53,16 @@ id	huella_jp	es
 530	62c4f24d	No sé... cómo está la cosa.\nYa no lo sé...
 540	a8fec594	Esta vez decidí proteger a todos sin falta,\npero al final eso ya...
 550	2cf2d962	¡Ngh...!
-560	35310069	...¿Kirifuji? ¿Qué pasa?
+560	35310069	...¿Nozomi? ¿Qué pasa?
 570	a96981b9	Ah, no... solo me mareé un poco.\nSerá por mirar por el telescopio...
 580	5d6bbbca	Creo que solo fue un mareo al pararme.\nNo te preocupes por...
-590	26ba6705	{fc(57e4f1)Antes de que terminara la frase,\nKirifuji se dejó caer de rodillas allí mismo.}
+590	26ba6705	{fc(57e4f1)Antes de que terminara la frase,\nNozomi se dejó caer de rodillas allí mismo.}
 600	3ee77bc7	¡O-Oye! ¡¿Estás bien?!
-610	bb4abd56	{fc(57e4f1)Fui a ayudar a Kirifuji, que se había sentado en el suelo,\ny al tocarla...}
+610	bb4abd56	{fc(57e4f1)Fui a ayudar a Nozomi, que se había sentado en el suelo,\ny al tocarla...}
 620	2ceeead2	¡...! ¡Tienes mucha fiebre!
 630	a02dc3c0	{fc(57e4f1)No será que esto es...}
 640	88e889c2	¿R-Reacción de rechazo...?\n¿Por qué... p-por qué ahora...?
-650	7e23672d	{fc(57e4f1)Un instante después, Kirifuji cayó allí mismo con un {fc(cfff3f)"¡Paf!"}{fc(57e4f1) y quedó tendida en el suelo.}
-660	699fd850	¡Kirifuji!
+650	7e23672d	{fc(57e4f1)Un instante después, Nozomi cayó allí mismo con un {fc(cfff3f)"¡Paf!"}{fc(57e4f1) y quedó tendida en el suelo.}
+660	699fd850	¡Nozomi!
 670	401f43dd	{fc(57e4f1)Llamé de inmediato a las otras chicas\ny le pedí que la llevaran a la cama...}
 680	9024c8aa	{fc(57e4f1)Después, reuní a todos en la cafetería, en plena noche.}

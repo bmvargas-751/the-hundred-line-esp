@@ -1,12 +1,12 @@
 id	huella_jp	es
 101	a8eeea8b	Ejecutar el evento de la academia
-102	0c29b339	Sumino se quedó sin fuerzas...
+102	0c29b339	Takumi se quedó sin fuerzas...
 103	8cd64895	El dron se rompió...
-104	d19957c9	Kirifuji se quedó sin fuerzas...
+104	d19957c9	Nozomi se quedó sin fuerzas...
 105	9623e5b8	¡Ahora huyamos de aquí!
-106	e7504097	¡Atraeré al zombi Shizuhara!
-107	bf1b8911	¡Kirifuji debió de huir por aquí!\n¡Yo tengo que ir en otra dirección...!
-108	fdec150b	¡Amemiya debió de huir por aquí!\n¡Yo tengo que ir en otra dirección...!
+106	e7504097	¡Atraeré al zombi Hiruko!
+107	bf1b8911	¡Nozomi debió de huir por aquí!\n¡Yo tengo que ir en otra dirección...!
+108	fdec150b	¡Darumi debió de huir por aquí!\n¡Yo tengo que ir en otra dirección...!
 151	d99f731d	Así nos atraparán a los dos.\nSeparémonos y huyamos por ahora.
 152	f4eddae8	¡Yo lo atraigo aquí!\n¡Amemiya, huye tú primero!
 201	47d476f0	Gracias a esta experiencia, se me ocurrió la palabra clave\n{fc(ff635b)"#Limpio"}.
@@ -27,20 +27,20 @@ id	huella_jp	es
 216	7cc21e60	Gracias a esta experiencia, se me ocurrió la palabra clave\n{fc(ff635b)"#Audiovisual"}.
 217	4d4f8f89	Gracias a esta experiencia, se me ocurrió la palabra clave\n{fc(ff635b)"#Útil"}.
 218	5a0d70ee	Gracias a esta experiencia, se me ocurrió la palabra clave\n{fc(ff635b)"#Dulce"}.
-302	ce95e9dc	Pasar tiempo juntos\nprofundizó mi comprensión de Yakushiji.
-303	7df74adf	Pasar tiempo juntos\nprofundizó mi comprensión de Shizuhara.
-304	2f10cf03	Pasar tiempo juntos\nprofundizó mi comprensión de Amemiya.
-305	2dd2a306	Pasar tiempo juntos\nprofundizó mi comprensión de Aotsuki.
-306	f7b9207c	Pasar tiempo juntos\nprofundizó mi comprensión de Kawana.
-307	fd2c899f	Pasar tiempo juntos\nprofundizó mi comprensión de Maruko.
+302	ce95e9dc	Pasar tiempo juntos\nprofundizó mi comprensión de Takemaru.
+303	7df74adf	Pasar tiempo juntos\nprofundizó mi comprensión de Hiruko.
+304	2f10cf03	Pasar tiempo juntos\nprofundizó mi comprensión de Darumi.
+305	2dd2a306	Pasar tiempo juntos\nprofundizó mi comprensión de Eito.
+306	f7b9207c	Pasar tiempo juntos\nprofundizó mi comprensión de Tsubasa.
+307	fd2c899f	Pasar tiempo juntos\nprofundizó mi comprensión de Gaku.
 308	7023c337	Pasar tiempo juntos\nprofundizó mi comprensión de Ima.
 309	8bcec2be	Pasar tiempo juntos\nprofundizó mi comprensión de Kako.
-310	02aca64c	Pasar tiempo juntos\nprofundizó mi comprensión de Ginzaki.
-311	5b887082	Pasar tiempo juntos\nprofundizó mi comprensión de Kirifuji.
-312	d7a1330e	Pasar tiempo juntos\nprofundizó mi comprensión de Oosuzuki.
-313	e340e298	Pasar tiempo juntos\nprofundizó mi comprensión de Magadori.
-314	dedcf710	Pasar tiempo juntos\nprofundizó mi comprensión de Omokage.
-315	8170620f	Pasar tiempo juntos\nprofundizó mi comprensión de Mojiro.
+310	02aca64c	Pasar tiempo juntos\nprofundizó mi comprensión de Shouma.
+311	5b887082	Pasar tiempo juntos\nprofundizó mi comprensión de Nozomi.
+312	d7a1330e	Pasar tiempo juntos\nprofundizó mi comprensión de Kurara.
+313	e340e298	Pasar tiempo juntos\nprofundizó mi comprensión de Kyoshika.
+314	dedcf710	Pasar tiempo juntos\nprofundizó mi comprensión de Yugamu.
+315	8170620f	Pasar tiempo juntos\nprofundizó mi comprensión de Moko.
 316	7f962a5b	Pasar tiempo juntos\nprofundizó mi comprensión de Eva.
 317	2e49fcc6	Pasar tiempo juntos\nprofundizó mi comprensión de Shion.
 200000001	556e2763	Es el monitor que transmite los anuncios y alarmas de SIREI.
@@ -52,7 +52,7 @@ id	huella_jp	es
 200000007	4c79ed0a	Viendo la pantalla me dan ganas de tocarla toda...\nAunque después me arrepiento: queda llena de huellas.
 200000008	077bffbd	Hay monitores en todas partes...\n¿cuántos habrá en total?
 200000009	4abd548b	¿No se podría mejorar un poco la calidad de imagen del monitor...?\nA veces le salen interferencias y da miedo.
-200000010	c58b8c65	Me da curiosidad lo que hay dentro de este monitor.\n¿Kawana podría desarmarlo...?
+200000010	c58b8c65	Me da curiosidad lo que hay dentro de este monitor.\n¿Tsubasa podría desarmarlo...?
 200000011	4d3e3423	Hay monitores en todas partes, ¿eh?
 200000012	1b938456	El monitor está completamente oscuro...
 200000013	18d80e9e	Por aquí también hay monitores por todos lados.
@@ -93,8 +93,8 @@ id	huella_jp	es
 201020007	42d57e9b	Dentro hay ingredientes de todo tipo.\nDe verdad de todo, y no puedo mostrarlos.
 201020008	5f5ae304	No conviene pelear por los hábitos de\ncomida del otro. La comida debe ser libre.
 201020009	b9851b64	Dentro del refrigerador hace tanto frío que sale vapor del aliento.\nSi me refresco aquí en verano... ¿me resfriaré?
-201020010	5d65adb8	En el pudín del refrigerador hay un papel que dice "Yakushiji".\nEn la vida en común, es importante poner el nombre.
-201020014	8225b44d	Hay varios objetos de experimento de Omokage enfriándose...\nPreferiría que no los enfriara junto a los ingredientes.
+201020010	5d65adb8	En el pudín del refrigerador hay un papel que dice "Takemaru".\nEn la vida en común, es importante poner el nombre.
+201020014	8225b44d	Hay varios objetos de experimento de Yugamu enfriándose...\nPreferiría que no los enfriara junto a los ingredientes.
 201020015	4b504a39	¡¿K-Kako?! No... es un chocolate a tamaño real con la forma de Kako.\n¡¿Lo habrá hecho Ima...?!
 201020011	f572cfa5	Esto es... ¿un refrigerador?\n¡Nunca vi uno tan enorme!
 201020012	a3b9a7d8	Con la comida de la Penúltima Academia\nde Defensa, por ahora no hay problema.
@@ -107,13 +107,13 @@ id	huella_jp	es
 201020106	9690147e	Uomi, Uosuke, Uotaro...\nestos hoy también están llenos de energía.
 201020107	8c99e4d8	Yo nunca pesqué.\n¿Si meto un anzuelo aquí, pescaré algo?
 201020108	54998a7e	¿Carne o pescado? Difícil elegir, pero\nsi tuviera que elegir, pescado... creo.
-201020109	8d88b330	A los peces que nadan aquí\nGinzaki les da de comer.
+201020109	8d88b330	A los peces que nadan aquí\nShouma les da de comer.
 201020111	e3c0cf2e	Creí que era una ventana, pero es una pecera.
 201020112	8b3474bb	Los peces nadan, pero\nsin energía, al final seguramente morirán.
 201020201	e83af861	Es una máquina de caramelos enorme.\nQué grande es todo aquí.
 201020202	e1c4ea74	A los niños les gustan los caramelos de colores.\nYo me fijo en los colorantes.
 201020203	0d3a9f97	Veamos... ¿cuántos colores habrá en total?\n¿Los contaré para matar el tiempo?
-201020204	9850f375	Vi muchas veces a Amemiya usar la máquina de caramelos.\nSiempre come dulces, ¿no?
+201020204	9850f375	Vi muchas veces a Darumi usar la máquina de caramelos.\nSiempre come dulces, ¿no?
 201020205	1e0be04d	Estos caramelos al parecer son de fruta.\nEl caramelo de limón que comí el otro día era ácido...
 201020206	33a5d118	Probaré uno...\n¡Oh, sabor uva! Nada mal.
 201020207	9f6989de	Probaré uno...\nEsto... parece caramelo de piña.
@@ -134,16 +134,16 @@ id	huella_jp	es
 201030011	13bff14a	Parece que aquí se mejoran\nlas armas de clase. Lo probaré un día.
 201030012	3a013d3f	El aparato está detenido.\nYa no hace falta mejorar nada...
 201030101	fff92a72	El manual de este aparato.\nLeer estas cosas no se me da bien.
-201030102	27955aeb	Hay un manual, pero no entiendo ni leyéndolo.\nPara esto hace falta una especialista como Kawana...
+201030102	27955aeb	Hay un manual, pero no entiendo ni leyéndolo.\nPara esto hace falta una especialista como Tsubasa...
 201030103	ae01c0f9	Cuanto más fuertes las armas de clase, mejor.\nSi se puede mejorar, hay que mejorar todo lo posible.
 201030104	c7f6e44d	¿No se podrá mejorar el arma de clase de alguien?\nTambién sirve para conocer la fuerza de los compañeros, así que conviene revisarlo.
 201030105	fe51d4fe	Un método para mejorar mi espada hasta volverla sable de luz...\nclaro que no está escrito.
-201030106	a289dac4	En el manual hay un marcapáginas de Kawana.\nQué marcapáginas tan lindo.
+201030106	a289dac4	En el manual hay un marcapáginas de Tsubasa.\nQué marcapáginas tan lindo.
 201030111	6814d59b	El manual de este aparato.\nParece que tiene explicaciones detalladas.
 201040001	bee36f8f	Los dispositivos de barrera ayudan en las batallas.\nAprovechémoslos cuando haya tiempo.
 201040011	3196dc75	Parece que aquí se pueden fabricar dispositivos de barrera.\nLo probaré un día de estos.
 201040012	8c02377f	Ya no hace falta fabricar dispositivos de barrera...
-201040101	b9e539be	Quizás la única que entienda bien este manual\nsea Oosuzuki.
+201040101	b9e539be	Quizás la única que entienda bien este manual\nsea Kurara.
 201040102	06a59e20	Casi nadie entenderá bien este manual...
 201040103	57460d86	Es un manual lleno de letras apretadas.\nCon esto me da sueño... buaaa...
 201040104	9ddf4e19	La "valla metálica" sirve para ganar tiempo.\nCon ataques a distancia, se puede atacar sin recibir daño.
@@ -177,22 +177,22 @@ id	huella_jp	es
 201050115	4d4a2ff8	El contador ya tiene un solo dígito.\n...Falta poco.
 201080001	d56c0c3f	Es el autobús escolar. Tiene extintor,\nasí que puede cruzar el muro de fuego que no se apaga.
 201080002	504fe99e	El autobús escolar está estacionado.\nPor dentro es normal, pero se viaja bastante cómodo.
-201080003	3b30c32d	Kawana se encarga del mantenimiento del autobús.\nGracias a eso se puede usar siempre.
+201080003	3b30c32d	Tsubasa se encarga del mantenimiento del autobús.\nGracias a eso se puede usar siempre.
 201080004	74c00241	En realidad este autobús aguanta más carga de lo que parece.\nEs práctico para grandes traslados.
 201080005	2ed2462d	Bien, las llantas no están pinchadas.\nAunque aquí hay montones de llantas de repuesto.
 201080006	7def9b0e	Lamentablemente,\nlos asientos de este autobús no se reclinan...
 201080011	e4a38bdf	El autobús de la Penúltima Academia.\nGracias a él pudimos volver.
 201080012	9e927727	¡Se le escapa gasolina...\ny el extintor está roto...!
-201080013	5db775dd	El extintor roto\nlo está reparando Kawana.
+201080013	5db775dd	El extintor roto\nlo está reparando Tsubasa.
 201080014	bdf7f8c7	Está hecho polvo por la bacteria subatómica...\nhay que encontrar pronto el QB Liquid.
-201080015	4a28dc50	Kawana está reparando lo que\ndestruyó la bacteria subatómica.
-201080016	e1dbe840	Gracias a Kawana,\nquedó como nuevo.
+201080015	4a28dc50	Tsubasa está reparando lo que\ndestruyó la bacteria subatómica.
+201080016	e1dbe840	Gracias a Tsubasa,\nquedó como nuevo.
 201080101	4fa9f956	¿Un taladro de mantenimiento...?
 201080102	4c785aa7	Los taladros son geniales, ¿no? ¡Esa espiral\ntan bonita atrapa el corazón de los chicos!
 201080103	7cd53613	¡Uiiiiiiin! ¡Soy el guerrero taladro, Taladroman!...\nMe estoy dando vergüenza.
 201080104	817dcc77	Ahora que lo pienso, nadie tiene un arma de clase con forma de taladro.\n¡Si alguien la tuviera... me habría dado un poco de envidia!
 201080105	564f49e9	Un taladro tan enorme...\n¿para qué mantenimiento servirá?
-201080106	9b6cd2a3	Entre nosotros, sé que Yakushiji consultó a Kawana\nsi se podía usar este taladro como arma.
+201080106	9b6cd2a3	Entre nosotros, sé que Takemaru consultó a Tsubasa\nsi se podía usar este taladro como arma.
 201100001	c5b85fdc	¿Qué aparato será este?\nNo reacciona a nada...
 201100002	524cab32	No reacciona.\nParece solo un aparato.
 201100003	46122e1e	Es un aparato donde cabe una persona, pero...\nparece que no pasa nada aunque entre.
@@ -209,8 +209,8 @@ id	huella_jp	es
 202010001	5397016b	Los fármacos son útiles en batalla.\nProbaré a hacerlos cuando tenga tiempo.
 202010011	9a3553e7	Parece que aquí se pueden fabricar fármacos.\nLo probaré un día de estos.
 202010012	a56cd38a	Ya no hace falta fabricar fármacos...
-202010101	54d9bdfa	Quizás el único que entienda bien este manual\nsea Omokage.
-202010102	250b6a61	Según Kirifuji, el manual de aquí es educativo.\nYo no entiendo nada.
+202010101	54d9bdfa	Quizás el único que entienda bien este manual\nsea Yugamu.
+202010102	250b6a61	Según Nozomi, el manual de aquí es educativo.\nYo no entiendo nada.
 202010103	7561d3aa	Tener fármacos de curación nunca está de más.\nHagamos la "Panacea poderosa" cuando se pueda.
 202010104	61fa73bd	El ataque es la mejor defensa. Si mejoro la "Poción de ataque",\nseguro ayudará en la defensa de la academia.
 202010105	c0f00d40	La "Poción de desesperación"... qué rica está.\nSiento que me meto con algo malo... me da un poco de miedo.
@@ -224,7 +224,7 @@ id	huella_jp	es
 202020102	deafc590	Las técnicas aprendidas en el entrenamiento se aprovecharán en la batalla real.\nPractiquemos con empeño.
 202020103	17868590	Lo mejor con una técnica que no sé cómo usar es probarla.\n¡Cuando mejore un arma de clase, lo mejor es probarla primero aquí!
 202020104	c2b16356	¡No pienso leer un manual como este!\n¡Probar de verdad es más rápido! ¡Probablemente!
-202020111	5305aa76	Explica el uso y la teoría de la sala de entrenamiento.\n¿Yakushiji lo leerá con atención?
+202020111	5305aa76	Explica el uso y la teoría de la sala de entrenamiento.\n¿Takemaru lo leerá con atención?
 202020201	b8898e59	Es una cabina de entrenamiento tipo mesa.\nSolo parece una máquina arcade.
 202020211	aeca585c	¿Esto es lo que había en los salones de videojuegos\nde antes? ¿Con esto también se puede entrenar?
 202020212	e4bd9851	Parece que ya no tiene corriente...
@@ -241,10 +241,10 @@ id	huella_jp	es
 202030011	eb60f37d	Es un PC. Parece servir solo para buscar libros.\nNo tiene conexión a internet.
 202030012	3189d6fb	No enciende...\nya no se puede usar.
 202030101	281865ee	Qué cantidad de libros tan impresionante.\nVendré cuando tenga algo que investigar.
-202030102	3acf886a	Dicen que en alguna estantería hay un lugar\ndonde Maruko junta sus revistas picantes favoritas...
-202030103	d425cf9a	Según Aotsuki, aquí hay libros de valor de decenas\nde miles de yenes colocados todos revueltos.
+202030102	3acf886a	Dicen que en alguna estantería hay un lugar\ndonde Gaku junta sus revistas picantes favoritas...
+202030103	d425cf9a	Según Eito, aquí hay libros de valor de decenas\nde miles de yenes colocados todos revueltos.
 202030104	3004c068	Los libros de por aquí están escritos con letras desconocidas.\n¿Serán lo que llaman idiomas extranjeros?
-202030105	d93f29ba	El otro día Kawana dijo que prefiere los libros electrónicos, pero\nyo, sin duda, prefiero los libros de papel.
+202030105	d93f29ba	El otro día Tsubasa dijo que prefiere los libros electrónicos, pero\nyo, sin duda, prefiero los libros de papel.
 202030106	f963d798	Hay tomos de mangas muy populares.\nYo los leo en la revista, así que no compro los tomos...
 202030107	ad39708b	¿Eh? A este manga le falta justo el tomo 7...\n¿Alguien lo habrá pedido prestado?
 202030108	8de98346	En la estantería de libros académicos hay un solo manga.\n¿Quién lo guardó aquí?
@@ -263,9 +263,9 @@ id	huella_jp	es
 202060001	5dbb3f3a	Dicen que anula el poder de los seres que se meten dentro.\nMás que un gallinero, parece una celda.
 202060002	50b21b7d	Qué jaula tan imponente.\nNi una fiera podría romperla.
 202060003	d7a29aad	Si me encerraran días y días dentro de esta jaula...\nmejor no pensarlo.
-202060004	3d9f6400	El otro día Amemiya se emocionaba mirando esta jaula.\n...A ella nunca hay que darle la llave.
+202060004	3d9f6400	El otro día Darumi se emocionaba mirando esta jaula.\n...A ella nunca hay que darle la llave.
 202060011	eb9c8c60	¡¿La puerta está abierta?!\n¡¿Por qué?!
-202060012	99e35a9d	Aotsuki está encerrado.\nNo hay que bajar la guardia.
+202060012	99e35a9d	Eito está encerrado.\nNo hay que bajar la guardia.
 202060013	198b90cc	Hay un comandante enemigo encerrado.\n¿Qué habrá que hacer ahora?
 202060014	0cbc9e6e	Eva está encerrada.\n¿Qué habrá que hacer ahora?
 202060015	e5e8dcf5	Ima está encerrado.\nOjalá se calme.
@@ -297,9 +297,9 @@ id	huella_jp	es
 203010211	0ea2d3ac	Está detenida. Ya no hay nada que proteger.
 203010301	64e774ef	Según lo que averiguo, aquí hay muchos manuales,\nque sirven en momentos críticos.
 203010302	f65586f3	No sé de qué documentos son, pero hay montones.\nNo tengo ganas de leerlos uno por uno...
-203010303	befcf14d	Aotsuki se asombró de lo potente del PC,\npero yo de esas cosas no entiendo mucho.
-203010304	62979c12	El otro día Magadori lo tocó y dicen que rompió internet.\nNo puede ser.
-203010305	74949c9c	¿Mm? Quedó el historial de búsqueda...\nEl contenido... es algo grotesco que no puedo decir... seguro fue Amemiya.
+203010303	befcf14d	Eito se asombró de lo potente del PC,\npero yo de esas cosas no entiendo mucho.
+203010304	62979c12	El otro día Kyoshika lo tocó y dicen que rompió internet.\nNo puede ser.
+203010305	74949c9c	¿Mm? Quedó el historial de búsqueda...\nEl contenido... es algo grotesco que no puedo decir... seguro fue Darumi.
 203010311	ac9562c0	¿Mm? No funciona.\nParece roto... ¿por qué será?
 203010312	81c26740	No tiene energía,\nasí que seguramente ya no funciona...
 203020001	c68ab9a5	Es el Gift-O-Matic.\nUn día que tenga tiempo, fabricaré algo.
@@ -318,7 +318,7 @@ id	huella_jp	es
 203020103	f5c24d52	No soy de los que se enganchan al juego,\npero es que no siento que pueda perder.
 203020104	14bac3bf	Solo con ver girar los dibujos,\n¡siento que sube la adrenalina!
 203020105	b60f1453	¿Mm? Esta tragamonedas está abollada...\n¿Será que alguien le pegó a la máquina?
-203020106	49fde7f2	Omokage dijo que era fácil ajustar los rodillos...\nLuego le pediré que me enseñe.
+203020106	49fde7f2	Yugamu dijo que era fácil ajustar los rodillos...\nLuego le pediré que me enseñe.
 203020107	94cd1b77	¡7, 7, 7! ¡Jackpot!...\nUno quiere decirlo al menos una vez en la vida.
 203020111	746e7831	Una tragamonedas que parece de casino.\n¿Esto no era una academia, al menos en teoría?
 203020112	b4fbc294	No enciende, así que no funciona.\nNo se puede jugar.
@@ -341,8 +341,8 @@ id	huella_jp	es
 203020312	55120569	La mesa de ping-pong todavía se puede usar,\npero no estoy de humor.
 203030001	b8d47bc4	Puede servir en batalla,\nasí que quizás de vez en cuando convenga entrenar el cuerpo.
 203030002	6519af60	Las barras de pesas con las que entrenamos cada día.\nCuando se bate el récord... me alegra un poco.
-203030003	b8eaf137	Yo no logro moverla ni un poco, pero\nMojiro la levanta con facilidad...
-203030004	dc0e354d	El saco de boxeo parece bueno para desahogar el estrés.\nAntes Magadori lo golpeaba gritando nombres de técnicas...
+203030003	b8eaf137	Yo no logro moverla ni un poco, pero\nMoko la levanta con facilidad...
+203030004	dc0e354d	El saco de boxeo parece bueno para desahogar el estrés.\nAntes Kyoshika lo golpeaba gritando nombres de técnicas...
 203030005	abf35623	En realidad, una vez dejé caer una mancuerna a la piscina.\nSacarla fue todo un lío...
 203030006	6d11b179	Después de sudar aquí, suelo ir al comedor.\nUna cola helada después de entrenar: lo mejor.
 203030007	332ea4e3	¡Fuerzaaa! ¡Yaaa! ¡Tooo!...\n¡No puedo, no se levanta nada!
@@ -356,7 +356,7 @@ id	huella_jp	es
 203040001	13b98649	Esta ametralladora parece proteger\nel Revive-O-Matic.
 203040002	27f1cad6	Por esta ametralladora,\nni nosotros podemos acercarnos al Revive-O-Matic.
 203040003	fddb64b1	Si no quieres quedar hecho un colador,\nmejor no te acerques al Revive-O-Matic.
-203040004	88482140	El otro día la ametralladora se activó contra Maruko, que se acercó sin cuidado...\nParece que funciona bien.
+203040004	88482140	El otro día la ametralladora se activó contra Gaku, que se acercó sin cuidado...\nParece que funciona bien.
 203040005	3f450b75	Entiendo que quieran proteger el Revive-O-Matic, pero\nuna ametralladora es demasiado peligrosa...
 203040011	e5da2aa1	No reacciona aunque me acerque al Revive-O-Matic.\nParece completamente detenido...
 203040101	128b9cb7	Dron recolector de cadáveres: recoge de forma\ntotalmente automática a los caídos en batalla.
@@ -368,7 +368,7 @@ id	huella_jp	es
 203040201	5864e127	Aunque muramos, el Revive-O-Matic nos revive.\nEs un aparato descomunal.
 203040202	1c724222	Sin este Revive-O-Matic...\nni quiero imaginarlo.
 203040203	d0c24b35	Ver cómo reviven a una persona...\nno es nada agradable.
-203040204	a4431414	Dicen que a Ginzaki le gusta estar cerca de aquí y en los cubículos del baño.\n...Creo que no son buenos lugares.
+203040204	a4431414	Dicen que a Shouma le gusta estar cerca de aquí y en los cubículos del baño.\n...Creo que no son buenos lugares.
 203040205	063eead8	No quiero decir "total, está el Revive-O-Matic".\nSi muero muchas veces... se me puede hacer costumbre morir.
 203040211	7043a69a	Este aparato descomunal que nos revivió,\nahora que no tiene energía, ya no funciona.
 203040301	8992aee1	El manual de la enfermería.\nTiene explicaciones sobre el Revive-O-Matic y el dron.
@@ -377,7 +377,7 @@ id	huella_jp	es
 204010003	ef048317	¿Por qué será un fuego rosa...?\n¿Simbolizará algo el rosa?
 204010004	8d81f3ed	Para proteger la Sala de Defensa,\ndelante de la puerta hay fuego que no se apaga.
 204010005	32aa9d4c	Qué fuego impresionante. Aquí se asaría un camote...\n¡No, solo quema seres vivos!
-204010006	5c30a08c	Mojiro dijo que la carne ahumada con el fuego de aquí es riquísima.\n...¿En serio?
+204010006	5c30a08c	Moko dijo que la carne ahumada con el fuego de aquí es riquísima.\n...¿En serio?
 204010007	94a7df1d	El fuego que no se apaga arde con fuerza.\nEn esta academia nunca faltará fuego...
 205010001	099e832d	La cama de mi cuarto.\nSe duerme bien... mejor dicho, es de las buenas.
 205010002	00833e53	Mmm... todavía no tengo ganas de tirarme a holgazanear.

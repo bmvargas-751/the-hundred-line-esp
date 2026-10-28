@@ -4,7 +4,7 @@ id	huella_jp	es
 30	fe51e1e9	P-Perdón...\nPero ya solo queda usted...
 40	cf886b47	Para que yo pueda recordar...\nnecesito su poder.
 50	5e2ceb75	Así que... deme su poder.
-60	c4292945	G-Ginzaki, ¿qué dices?
+60	c4292945	G-Shouma, ¿qué dices?
 70	aa563d5a	¿Será que tiene que ver... ese flashback de recuerdos?
 80	4b9b416b	Yo... recordé algo terrible...\nRecordé una verdad espantosa...
 90	8fc0d1c7	¿Una verdad... espantosa?
@@ -33,7 +33,7 @@ id	huella_jp	es
 320	728b3078	Por eso, como ya no hay otros comandantes...\nsolo queda esto...
 330	4a5ff8f3	¡Eva! ¡Deme su poder!
 340	f4a72a8b	
-350	bdf18266	¡G-Ginzaki! ¡¿Sabes lo que estás diciendo?!\nEso es... a Eva...
+350	bdf18266	¡G-Shouma! ¡¿Sabes lo que estás diciendo?!\nEso es... a Eva...
 360	5fcc9e4b	¡Lo sé!\n¡Pero igual tengo que recordar!
 370	6de1cd8b	Si olvidamos esta verdad...\nnos pasará algo irreparable...
 380	d57c35ca	¡Y para evitarlo no queda más que esto!\n¡Tengo que matar a Eva!
@@ -47,18 +47,18 @@ id	huella_jp	es
 460	c3a46cb9	¡No estoy raro!\n¡No me he vuelto raro!
 470	1a0e232f	Yo tampoco quiero, pero no hay otra manera.\nPara mis recuerdos y para liberar a Eva...
 480	3f1a28b1	¡No queda más que esto...!
-490	5779c1e9	...¿Para recordar hay que potenciar la hemoánima?\n¿Fue consejo de Aotsuki?
+490	5779c1e9	...¿Para recordar hay que potenciar la hemoánima?\n¿Fue consejo de Eito?
 500	f4a72a8b	
 510	07dc4cc6	Entonces... era eso...
 520	2e8d459c	P-Pero no me engañó Aotsuki.\nSolo le pedí una opinión objetiva...
 530	50c9102b	Y llegó a mi misma conclusión.\nPor eso pensé que no hay otra manera.
 540	848d39b8	...Obedezco cualquier orden.\nPueden dejarme vivir o matarme, como ustedes quieran.
 550	78df53b0	¡N-No, Eva! ¡No lo hagas!
-560	af3579dd	¡Oye, Sumino! ¡Detenlo!
+560	af3579dd	¡Oye, Takumi! ¡Detenlo!
 570	b4a908ed	Es al revés...\nFuimos nosotros quienes pisoteamos la dignidad de su alma y la dejamos así...
 580	b989b3cf	Por eso tenemos que asumir la responsabilidad\ny ponerle fin.
 590	9c05a400	Aun así... eso es...
-600	28f8c684	Pero Ginzaki algo de razón tiene.\nNo se puede decir que a ella le haga feliz seguir así.
+600	28f8c684	Pero Shouma algo de razón tiene.\nNo se puede decir que a ella le haga feliz seguir así.
 610	c9ef9408	Que la obliguen a pelear contra los suyos, con el cerebro lavado...\nen el fondo, ¿no pensará que mejor la matemos?
 620	6043bf0c	Además, nadie sabe cuándo se descontrolará\ncomo SIREI...
 630	896239c8	Además, de todos modos, al llegar el día 100,\nEva solo puede perecer junto con la gente de este planeta, ¿no?
@@ -78,14 +78,14 @@ id	huella_jp	es
 770	0ded5105	¿Eh...?
 780	e404cb51	...Siempre fue así, ¿verdad?\nEn estos casos decidía Sumino.
 790	5dde6396	Es cierto, a estas alturas\nsolo puedes decidir tú, el líder...
-800	d6ff2649	¡Sumino, déjeme hacerlo a mí!\n¡No hay otra manera! ¡Se lo ruego!
+800	d6ff2649	¡Takumi, déjeme hacerlo a mí!\n¡No hay otra manera! ¡Se lo ruego!
 810	c5e24911	...Obedezco cualquier orden.\nDecidan con tranquilidad.
 820	1458ae5c	¿E-Está en sus cabales...?
-830	9ffb32bd	Sumino...
+830	9ffb32bd	
 840	5b626dd7	¡Por favor, libérenla ya!
 850	f4a72a8b	
 860	a1bd3968	{fc(ff635b)"Una verdad enorme"}{fc(57e4f1)...\nSaber qué nos pasó a nosotros...}
-870	204fe3f2	{fc(57e4f1)¿Será cierto?\n¿O Ginzaki solo se volvió loco?}
+870	204fe3f2	{fc(57e4f1)¿Será cierto?\n¿O Shouma solo se volvió loco?}
 880	a41c8cac	{fc(57e4f1)Y aunque sea cierto...\n¿está bien elegir un método así?}
 890	6bc50120	{fc(57e4f1)Invadimos el planeta de Eva,\ny encima le lavamos el cerebro para usarla...}
 900	dee64c2c	{fc(57e4f1)...No, quizá deberíamos dejar de hacerlo.\nTal vez, en el fondo, ella también quiera descansar.}

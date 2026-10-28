@@ -1,16 +1,16 @@
 id	huella_jp	es
-10	28293dc1	¡Bien, empecemos!\n¡La ejecución pública de Aotsuki...!
+10	28293dc1	¡Bien, empecemos!\n¡La ejecución pública de Eito...!
 20	ca46cd17	Entonces lo haré yo...
 30	1dc6c121	¡E-Esperen...!\n¡¿Por qué dan por hecho que lo vamos a matar?!
 40	78288a10	Solo hay que meterlo en la jaula, ¿no?\nEntonces de una vez...
 50	957f3670	Eh... pero... ¡esperen!
-60	ad8101b0	{fc(57e4f1)Ginzaki corrió frente al corral.}
+60	ad8101b0	{fc(57e4f1)Shouma corrió frente al corral.}
 70	b015c6dc	{fc(57e4f1)Miró el candado de la puerta y dijo.}
 80	dec12a43	¡Este candado... está cerrado con llave...!
 90	257ff880	...¿Eh?
 100	35be1cdf	{fc(57e4f1)En ese instante...}
 110	bd7b911c	Uh... uuuh...
-120	9e6e6498	{fc(57e4f1)De pronto, Shizuhara dejó escapar un gemido.\nCon la cabeza gacha y el rostro desencajado de dolor.}
+120	9e6e6498	{fc(57e4f1)De pronto, Hiruko dejó escapar un gemido.\nCon la cabeza gacha y el rostro desencajado de dolor.}
 130	f5ebc4a5	¿Q-Qué pasa...?
 140	4cd63678	{fc(57e4f1)Cuando se lo pregunté, Shizuhara alzó la cara y gritó.}
 150	42c92955	¡Ese corral no sirve...!\n¡Hay que encerrar a Aotsuki en otro lugar...!
@@ -24,7 +24,7 @@ id	huella_jp	es
 230	c4179a64	¿Q-Qué...?
 240	6887f566	¿Qué te pasa, de repente?
 250	c685b832	¡Esa es la señal de la antena de detective!\n¡Mi queridísima hermana notó algo importante!
-260	f5beca4d	Aotsuki: dijiste que "K te abrió la cerradura", ¿verdad?
+260	f5beca4d	Eito: dijiste que "K te abrió la cerradura", ¿verdad?
 270	4247c9d4	Sí, lo dije...
 280	22101339	Entonces, ¿por qué?\n¿Por qué el candado está cerrado con llave?
 290	3745724d	Eso es...
@@ -34,8 +34,8 @@ id	huella_jp	es
 330	c024a341	Yo.\nLa recibí de SIREI hace un momento.
 340	f3908854	Entonces, ¿cómo abrió K el candado?
 350	57166d5e	La llave siempre la tuvo SIREI...\n¡No hay manera de que se pudiera abrir!
-360	9b11f080	¡Es decir... K no existe!\n¡Aotsuki se escapó del corral por su cuenta!
-370	705c8f1f	{fc(57e4f1)Todos contuvieron la respiración mirando a Aotsuki.\nAl fin, Aotsuki sonrió y dijo.}
+360	9b11f080	¡Es decir... K no existe!\n¡Eito se escapó del corral por su cuenta!
+370	705c8f1f	{fc(57e4f1)Todos contuvieron la respiración mirando a Eito.\nAl fin, Eito sonrió y dijo.}
 380	c5783078	Ya veo... una deducción brillante.\nPero, aun suponiendo que sea así...
 390	940fac26	¿cómo habría podido yo salir por mi cuenta\nde este corral?
 400	efebdb34	E-Eso es...

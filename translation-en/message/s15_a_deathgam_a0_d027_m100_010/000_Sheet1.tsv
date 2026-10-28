@@ -18,11 +18,11 @@ id	huella_jp	es
 180	0451bdb2	¿Qué tengo que hacer para volver\na ser compañero de ellos...?
 190	116eb595	¿Qué hago...?
 200	067a0452	{fc(57e4f1)Y justo cuando me atormentaba solo con eso...}
-220	ae75a85c	¿Omokage...?
+220	ae75a85c	¿Yugamu...?
 230	c32ea4ab	{fc(57e4f1)Quizás venía a reunirse conmigo\npara planear la caza de mañana.}
 240	9635e52e	{fc(57e4f1)Sinceramente, no quería hablar con nadie... pero\nno podía echar a mi único compañero.}
 250	7f480141	{fc(57e4f1)Me levanté con pesadez y abrí la puerta del cuarto.\nY quien estaba allí era...}
-260	555bf363	¡S-Shizuhara...!
+260	555bf363	¡S-Hiruko...!
 270	e28ecd50	Qué lento fue en salir.\nCasi te derribo la puerta de una patada.
 280	5edf4016	¿P-Por qué estás en mi cuarto...?\n¿Y cómo es que puedes venir aquí?
 290	2901192c	Si te juntas con un ave de mal agüero como yo,\nno te traerá nada bueno...
@@ -35,10 +35,10 @@ id	huella_jp	es
 360	f738c1fd	Me persiguieron invasores de bajo nivel,\nme rodearon...
 370	3093e132	¡Casi me matan lentamente...!
 380	27ca725f	Si tú... ¡no me hubieras echado entonces,\nesto no habría pasado...!
-390	d0809336	{fc(57e4f1)Que yo estuviera a punto de morir no era culpa de Shizuhara.}
+390	d0809336	{fc(57e4f1)Que yo estuviera a punto de morir no era culpa de Hiruko.}
 400	5c6306c9	{fc(57e4f1)Lo sabía bien en la cabeza... pero\nlas palabras, una vez que cogen impulso, no se detienen tan fácil.}
 410	f4a72a8b	
-420	5621787e	{fc(57e4f1)Aunque le descargué una ira injusta,\nShizuhara no me respondió nada.}
+420	5621787e	{fc(57e4f1)Aunque le descargué una ira injusta,\nHiruko no me respondió nada.}
 430	b96147aa	Sí... yo también pienso que la actitud que tuve contigo ayer\nno fue muy buena.
 440	cd81b8a5	Debí acompañarte más, a ti, que estabas hundido porque todos te rechazaban.\nPor eso...
 450	95ece20a	te traje una prenda de reconciliación.
@@ -51,13 +51,13 @@ id	huella_jp	es
 520	8e0a7fe5	{fc(57e4f1)El cadáver de una abeja gigante.}
 530	dbf337bd	{fc(57e4f1)¿Una broma de muy mal gusto...?\nNo, esta abeja es...}
 540	feee96bd	¡Esta es una abeja del patrocinador...!\n¡¿La mataste?!
-550	46deb16d	Sí, cuando mataron a Oosuzuki, aprovechando\nel alboroto atrapé una.
+550	46deb16d	Sí, cuando mataron a Kurara, aprovechando\nel alboroto atrapé una.
 560	2484c841	Para usarla como muestra de investigación.
 570	e58eecfc	¿Investigación...? ¿Para qué?
 580	8817c2cd	¿Para qué va a ser?\nEs obvio.
 590	807a8652	Para matar al patrocinador\ny terminar este juego absurdo.
 600	e16d0645	¡¡...!!
-610	779255f3	{fc(57e4f1)Matar al patrocinador. Shizuhara lo dijo con total naturalidad,\ny me quedé sin palabras.}
+610	779255f3	{fc(57e4f1)Matar al patrocinador. Hiruko lo dijo con total naturalidad,\ny me quedé sin palabras.}
 620	a6fd4ea7	El patrocinador es invencible...\n¡Con lo que somos ahora, es imposible matarlo...!
 630	ed1aa887	No, es posible.\nSi encontramos cómo vencer sus dos armas.
 640	45d9d1f0	¿Dos... armas?
@@ -91,11 +91,11 @@ id	huella_jp	es
 920	bd8eeb08	{fc(57e4f1)Esa forma de hablar con segundas intenciones me intrigó un poco,\npero decidí no insistir por ahora.}
 930	0c02048f	El Takumi Sumino que yo conozco es, en el fondo, buena persona.\nAlguien que cuida a sus compañeros, con sentido de la justicia y madera de líder.
 940	063b45dd	Creo que es una persona digna de confianza.\nPero...
-950	74272045	Mataste a Aotsuki la noche del día 2...
+950	74272045	Mataste a Eito la noche del día 2...
 960	4ced4576	Por muy traidor que fuera,\nmataste a Aotsuki cuando aún no había hecho nada...
 970	f4a72a8b	
 980	1b72b200	Por eso nació una duda en mí.
-990	1e381e52	Que quizás el Sumino de {fc(ff635b)"ahora"}\nno es el Sumino que yo conocía...
+990	1e381e52	Que quizás el Takumi de {fc(ff635b)"ahora"}\nno es el Takumi que yo conocía...
 1000	3cdcb571	Por eso, durante todo este tiempo, manteniendo una distancia\nni cerca ni lejos, te estuve evaluando.
 1010	15022988	Si tú... el de {fc(ff635b)"ahora"}, eres digno de confianza\no no.
 1020	4a0de433	{fc(57e4f1)Ya veo... por eso, cuando fui a la Penúltima Academia de Defensa,\nse tomó la molestia de acompañarme.}
@@ -103,10 +103,10 @@ id	huella_jp	es
 1040	54b5b54b	Bueno, no hay tiempo que perder. Vámonos de una vez.
 1050	630fe5d1	La respuesta tardó en llegar...\nporque me faltaba algo decisivo para confiar en ti.
 1060	502a20d1	Pero ese día lo supe con certeza.
-1070	7bf8db14	El día en que apareció el patrocinador.\nPara salvar a Oosuzuki, que estaba a punto de morir...
+1070	7bf8db14	El día en que apareció el patrocinador.\nPara salvar a Kurara, que estaba a punto de morir...
 1080	fa017a3b	Fuiste el primero en lanzarte contra un enemigo desconocido.\nSin pensar en tu propia vida...
 1090	703b7c1a	Entonces vi una luz en ti.\nY lo supe con certeza.
-1100	200a953c	Que Sumino es el Sumino que yo conozco.
+1100	200a953c	Que Takumi es el Takumi que yo conozco.
 1110	ab87be7b	Que tiene aspecto patético y de personaje de relleno,\npero por dentro es Takumi Sumino, más atento y amable con sus compañeros que nadie.
 1120	e16d0645	¡¡...!!
 1130	937ba126	{fc(57e4f1)Estuve a punto de llorar.}
@@ -114,7 +114,7 @@ id	huella_jp	es
 1150	05a40462	Por eso, Sumino,\n¿luchas conmigo contra el patrocinador?
 1160	af2dcf9b	No me dirás que no, ¿verdad?
 1170	63f0a9ac	{fc(57e4f1)No era tan frío como para negar con la cabeza\ndespués de oír eso. Pero...}
-1180	50143ea9	Tengo muchas ganas de formar equipo contigo, pero ya hice equipo\ncon Omokage. ¿Qué hago con él...?
+1180	50143ea9	Tengo muchas ganas de formar equipo contigo, pero ya hice equipo\ncon Yugamu. ¿Qué hago con él...?
 1190	99ffad6d	Si es Omokage, es bienvenido. Como sabe de biología,\nquizás ayude a analizar esta abeja.
 1200	cd36cbd4	Pero... quizás él no quiera pelear contra el patrocinador.
 1210	c3a420d4	Con respecto a matar,\nes de los cautelosos y planificadores.
@@ -127,7 +127,7 @@ id	huella_jp	es
 1280	cab8f455	Entonces te encargo convencer a Omokage, líder.
 1290	9bdce404	Con nuestra Alianza Antipatrocinador,\nvamos a dar vuelta esta situación.
 1300	29a79121	{fc(57e4f1)Derrotar al patrocinador invencible.}
-1310	3b888d2f	{fc(57e4f1)Parece una locura, pero cuando Shizuhara dice que se puede,\nme da la impresión de que de verdad se puede, y es raro.}
+1310	3b888d2f	{fc(57e4f1)Parece una locura, pero cuando Hiruko dice que se puede,\nme da la impresión de que de verdad se puede, y es raro.}
 1320	b237dcae	{fc(57e4f1)Si logro derrotar al patrocinador...\nquizás todos me valoren de nuevo.}
 1330	29abff0c	{fc(57e4f1)¡Quizás pueda volver a ser su compañero...!}
 1340	ff19ae58	{fc(57e4f1)Con la luz de esa esperanza recién nacida en el pecho,\nesa noche dormí profundamente.}

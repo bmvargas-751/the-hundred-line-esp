@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	9a53602c	Si no recuerdo mal, por aquí...
 20	f4a72a8b	
-30	22414d51	¿Shizuhara? ¿Pasa algo?
+30	22414d51	¿Hiruko? ¿Pasa algo?
 40	47974df0	...No está.
 50	6f49ebdb	...¿Qué dijiste?
 60	c93fc83e	La caja ha desaparecido.
@@ -11,9 +11,9 @@ id	huella_jp	es
 100	9f8aa1b7	¡¿Por qué no está...?!\n¡En el momento más importante...!
 110	1cea38b4	¿Se la llevó alguien...?\n¿O se movió por otro motivo...?
 120	b240546b	...No, no es momento de pensar.
-130	afe6761e	¡Maldición, sin esa caja no podemos salvar a Kirifuji...!
+130	afe6761e	¡Maldición, sin esa caja no podemos salvar a Nozomi...!
 140	2450c83f	¿Qué hacemos...? ¿Qué hacemos...?
-150	bb6a08fb	...Cálmate, Sumino.
+150	bb6a08fb	...Cálmate, Takumi.
 160	eaa6a5fa	Es cierto que volvimos al punto de partida,\npero en realidad desde el principio no habíamos avanzado.
 170	9b7817ec	Que no esté la caja prevista es inesperado,\npero basta con volver al plan original.
 180	549685ea	O sea... ¿qué quieres decir?
@@ -23,5 +23,5 @@ id	huella_jp	es
 220	f4a72a8b	
 230	1c5f5a63	Perdón, tienes razón.\nNo es momento de impacientarse.
 240	2fa512ce	Es lo único que queda.\nEn todo caso, busquemos por separado.
-250	a414ba79	{fc(57e4f1)Ese día Shizuhara y yo seguimos buscando.}
+250	a414ba79	{fc(57e4f1)Ese día Hiruko y yo seguimos buscando.}
 260	e6e08406	{fc(57e4f1)Pero al final no encontramos nada.}

@@ -1,19 +1,19 @@
 id	huella_jp	es
-10	c56f1413	¡Ah, Sumino! ¡Llegaste en el mejor momento!
-20	d27fd052	{fc(57e4f1)Quien me recibió en el subsuelo\nno fue Kamyuhn, sino Kawana.}
-30	16248cd5	Kawana... ¿pasaste la noche en vela aquí?
+10	c56f1413	¡Ah, Takumi! ¡Llegaste en el mejor momento!
+20	d27fd052	{fc(57e4f1)Quien me recibió en el subsuelo\nno fue Kamyuhn, sino Tsubasa.}
+30	16248cd5	Tsubasa... ¿pasaste la noche en vela aquí?
 40	500794bb	Es que no podía parar de trabajar.\nFue toda la noche en blanco.
 50	090e0ca0	Pero valió la pena, ¡y ahora, ahora, ahora...!
 60	2d0497ba	¡¡La reparación de la cápsula de escape,\npor fin está terminada...!!
 70	79a4a45c	¡¿D-De verdad...?!
 80	6532458f	Terminar la placa en cinco días fue muy duro...\nfuu... estoy quemada...
-90	cd496ce1	¡Qué increíble, Kawana, buen trabajo!\n¡Quién iba a decir que de verdad se repararía en cinco días!
-100	c4563590	¡Hay que avisar a todos...!\n¡Voy a llamar a Omokage y a los demás...!
-110	ccdec5a6	¡Espera, Sumino...!
-120	88dd3ed0	{fc(57e4f1)Iba a salir corriendo del cuarto, pero...\nKawana me agarró la mano y me detuvo a la fuerza.}
+90	cd496ce1	¡Qué increíble, Tsubasa, buen trabajo!\n¡Quién iba a decir que de verdad se repararía en cinco días!
+100	c4563590	¡Hay que avisar a todos...!\n¡Voy a llamar a Yugamu y a los demás...!
+110	ccdec5a6	¡Espera, Takumi...!
+120	88dd3ed0	{fc(57e4f1)Iba a salir corriendo del cuarto, pero...\nTsubasa me agarró la mano y me detuvo a la fuerza.}
 130	75f5be3f	Antes de llamar a todos...\neste... quisiera un premio...
 140	2eea600e	¿U-Un premio...?
-150	466655ea	Sumino, antes dijiste, ¿no?\nQue serías {fc(ff635b)"formal"}...
+150	466655ea	Takumi, antes dijiste, ¿no?\nQue serías {fc(ff635b)"formal"}...
 160	41c7ad9f	Yo, en eso, soy muy formal, ¿entiendes...
 170	aba08f8f	S-Sí, creo que dije algo así...
 180	8031116f	Si vas a ser formal...\nquisiera que lo fueras ahora...
@@ -21,16 +21,16 @@ id	huella_jp	es
 200	70c61ae0	Pues, formal...
 210	f4a72a8b	
 220	f4a72a8b	
-230	251e4794	{fc(57e4f1)Kawana cerró los ojos con gesto solemne,\ny levantó un poco el mentón...}
+230	251e4794	{fc(57e4f1)Tsubasa cerró los ojos con gesto solemne,\ny levantó un poco el mentón...}
 240	0ca38155	{fc(57e4f1)Hasta yo, que soy torpe para casi todo, entiendo\nlo que Kawana me está pidiendo...}
 250	f4a72a8b	
 260	d3e190bd	{fc(57e4f1)¿Pero de verdad está bien...?\nEstando en guerra... esto...}
 270	4801640d	...¡...! ...¡...!
-280	a9db9d83	{fc(57e4f1)Al ver la expresión de Kawana, con la respiración alterada por los nervios,\nme entró un cariño enorme...}
+280	a9db9d83	{fc(57e4f1)Al ver la expresión de Tsubasa, con la respiración alterada por los nervios,\nme entró un cariño enorme...}
 290	c98ee14e	¡...!
 300	4cd3169a	{fc(57e4f1)Lo decidí en silencio...}
-310	ecb67c32	{fc(57e4f1)Lo haré: aquí, a mi relación con Kawana, la haré }{fc(ff635b)"formal"}{fc(57e4f1).}
-320	def7359b	{fc(57e4f1)Como atraído, acerqué mis labios a los de Kawana...}
+310	ecb67c32	{fc(57e4f1)Lo haré: aquí, a mi relación con Tsubasa, la haré }{fc(ff635b)"formal"}{fc(57e4f1).}
+320	def7359b	{fc(57e4f1)Como atraído, acerqué mis labios a los de Tsubasa...}
 330	132301cd	¡Qué metida de pata...!\n¡Lo hice mal...!
 340	914e5b8d	...¡¿?!
 350	914e5b8d	...¡¿?!
@@ -47,4 +47,4 @@ id	huella_jp	es
 460	b22adb09	Pues sí...
 470	b689bee0	El tanque tiene un agujero en el fondo...
 480	0c929972	y el combustible se quedó vacío...
-490	4f20bef2	{fc(57e4f1)Llamé a toda prisa a Omokage y a Kirifuji\npara compartir la situación.}
+490	4f20bef2	{fc(57e4f1)Llamé a toda prisa a Yugamu y a Nozomi\npara compartir la situación.}

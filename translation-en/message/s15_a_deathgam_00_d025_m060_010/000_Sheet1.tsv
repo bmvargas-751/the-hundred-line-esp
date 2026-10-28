@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	729a36c0	{fc(57e4f1)Poco antes de las 19:00 llegué a la sala de descanso,\ndonde estaban reunidos todos los miembros de la Unidad de Defensa Especial.}
 20	a4136dbd	Qué buena asistencia...\n¿Todos se decidieron a participar en el juego?
-30	53b2c371	En realidad no pensaba venir... pero Amemiya\ntocó el timbre de mi cuarto como diez mil veces.
+30	53b2c371	En realidad no pensaba venir... pero Darumi\ntocó el timbre de mi cuarto como diez mil veces.
 40	c4f2e493	Fue tan insistente que al final me rendí...
 50	cc7870d8	¡Yo estaba comiendo golosinas en el comedor cuando de pronto\ndoña Darumi me arrebató la Espada Sagrada Jumonji...!
 60	f31a44ed	Mientras perseguía a doña Darumi, la ladrona,\nsin darme cuenta me atrajo hasta este lugar...
@@ -13,7 +13,7 @@ id	huella_jp	es
 120	62c058ea	...Kyoshika, nos preocupamos tanto cuando desapareciste de repente\nque vinimos hasta aquí a buscarte, ¿sabes?
 130	6a001986	Kyoshika, si nos sigues preocupando tanto,\nte voy a dar un talonazo en la coronilla para regañarte.
 140	839a7cca	Por el amor de la muerte... parece que nos guiaron\ncon mucha astucia hasta este lugar.
-150	d6730b0e	{fc(57e4f1)...Parece que Amemiya usó métodos bastante forzados\npara reunir a todos aquí.}
+150	d6730b0e	{fc(57e4f1)...Parece que Darumi usó métodos bastante forzados\npara reunir a todos aquí.}
 160	07d10b67	¡Hyohyohyo!\n¡Qué pesca, qué gran pesca!
 170	01449313	Con tanta gente reunida,\n¡la matanza también será muy animada!
 180	03449040	Bueno... ya casi es la hora de empezar el juego.
@@ -21,7 +21,7 @@ id	huella_jp	es
 200	73e7b4b1	¡Ah, por cierto, Darumi trajo con cuidado\nlas espadas de infusión de todos!
 210	55dd0827	¡Así pueden estar tranquilos aunque la matanza empiece cuando sea!
 220	38787df9	¡Qué previsión... da miedo...!
-230	247af047	{fc(57e4f1)Amemiya parecía estar con ganas de matar,\npero yo no tenía intención de matar a mis compañeros.}
+230	247af047	{fc(57e4f1)Darumi parecía estar con ganas de matar,\npero yo no tenía intención de matar a mis compañeros.}
 240	1459a397	{fc(57e4f1)No dejaría morir a nadie más...\npara eso mismo había elegido participar.}
 250	47a4b6bc	Ya casi es la hora acordada.\n¿Qué clase de tipo aparecerá?
 260	7832d01d	La presentación del cerebro en las sombras...\nSiento un poco de... emoción...
@@ -36,7 +36,7 @@ id	huella_jp	es
 350	f4a72a8b	
 360	3b2ec640	{fc(57e4f1)Sinceramente, me sentí decepcionado... pero si no pasa nada peligroso,\nquizás sea lo mejor.}
 370	e0c04fda	...Ya es tarde, mejor volvamos a los cuartos.
-380	1fcc19cf	{fc(57e4f1)Justo cuando Yakushiji dijo eso,\nocurrió.}
+380	1fcc19cf	{fc(57e4f1)Justo cuando Takemaru dijo eso,\nocurrió.}
 390	75b7e954	{fc(cfff3f)"Bzzz bzzz bzzz bzzzzzzzz..."}
 400	fdaf6ad9	{fc(57e4f1)...De repente se oyó un sonido siniestro desde alguna parte.}
 410	79aef958	¡¿Q-Qué es este ruido...?!
@@ -63,7 +63,7 @@ id	huella_jp	es
 620	b8373c68	¿Será un luchador enmascarado de alguna organización?\nLas abejas dan asco, ¡pero el traje está genial!
 630	385dc7e9	No es momento de decir eso con tanta calma...\n¡Podría ser de los invasores!
 640	8b693575	¿Será que... es uno de los comandantes...?
-650	1c6ca1f5	Sumino, ¿qué dices?\n¿Estaba ese en el mundo del futuro que viste?
+650	1c6ca1f5	Takumi, ¿qué dices?\n¿Estaba ese en el mundo del futuro que viste?
 660	f772c06f	No... ese no estaba.
 670	30b42c48	{fc(57e4f1)No recordaba a ningún comandante que usara abejas.\nY mucho menos con un traje espacial...}
 680	01c9568d	¡Oiga, ¿quién es usted?!\n¡Al menos preséntese!
@@ -93,19 +93,19 @@ id	huella_jp	es
 920	3abdd5e5	¡¡Antes, responde una cosa...!!
 930	a62fa31b	{fc(57e4f1)Levanté la voz\ne interrumpí el avance del patrocinador.}
 940	bba8689e	Nuestro compañero Gaku Maruko... ¿lo asesinaste tú?
-950	a29dd90b	{fc(57e4f1)El día antes de que mataran a Maruko,\nla pizarra tenía escrita una extraña carta de amenaza.}
+950	a29dd90b	{fc(57e4f1)El día antes de que mataran a Gaku,\nla pizarra tenía escrita una extraña carta de amenaza.}
 960	b93d33c4	{fc(57e4f1)Es exactamente igual al caso de ahora.}
-970	b3b727b5	{fc(57e4f1)O sea que lo natural es pensar\nque quien mató a Maruko fue él.}
+970	b3b727b5	{fc(57e4f1)O sea que lo natural es pensar\nque quien mató a Gaku fue él.}
 980	a28b49a4	¿Qué importa a quién maté yo?
 990	cf944b3c	Total, todos ustedes, sin quedar uno,\nperderán la vida en mi juego, ¿no es así?
-1000	bcb3e2fc	¡No evadas la pregunta...! ¡Yo te pregunto\nsi mataste a Maruko o no!
+1000	bcb3e2fc	¡No evadas la pregunta...! ¡Yo te pregunto\nsi mataste a Gaku o no!
 1010	9b55f88e	¡Responde sí o no!
 1020	86f96962	Sí y no. No hay otra forma de responder.
 1030	9997aba0	Te dije que no evadas...
 1040	b143029b	{fs72}¡Lee el ambiente, Takumi~!
 1050	914e5b8d	...¡¿?!
 1060	6f00d246	{fc(57e4f1)Un grito capaz de perforar los tímpanos resonó,\ny me tapé los oídos por instinto.}
-1070	ee1bf625	A-Amemiya...
+1070	ee1bf625	A-Darumi...
 1080	4ff8a1cf	Darumi... lleva 17 años esperando este día...\n¿sabes?
 1090	96e0d0d7	Todas las noches, desde la cama, le rogaba\nal dios de los juegos mortales...
 1100	b3a59320	Que la porquería de rutina de Darumi\nse destruyera cuanto antes...
@@ -119,7 +119,7 @@ id	huella_jp	es
 1180	e37b7622	Si esperas tanto,\na mí también me dan ganas de esforzarme.
 1190	0810f540	Muy bien, entonces anunciaré las reglas...
 1200	0b1f0d66	¡No, no hace falta que expliques las reglas\nni en toda tu vida!
-1210	14810b3f	{fc(57e4f1)Y quien dio un paso al frente diciendo eso fue Oosuzuki.}
+1210	14810b3f	{fc(57e4f1)Y quien dio un paso al frente diciendo eso fue Kurara.}
 1220	d5eddf8b	No tengo intención de participar en tu juego.\nEs más, no reconozco su celebración.
 1230	a2b003c3	¿Matarse entre compañeros, dices?
 1240	8a3ff4ad	¡Yo, Kurara, jamás autorizaré la celebración\nde un juego tan vulgar!
@@ -135,26 +135,26 @@ id	huella_jp	es
 1340	d6345896	{fc(57e4f1)¡Tú también lo eres...!}
 1350	c5dfa6bf	A quienes se nieguen a participar se les quita la vida.\nSe los avisé de antemano, ¿no?
 1360	ea975be1	Sí, así es...
-1370	9a5cba7a	{fc(57e4f1)Oosuzuki bajó la vista un instante...}
+1370	9a5cba7a	{fc(57e4f1)Kurara bajó la vista un instante...}
 1380	9335c574	¡Entonces inténtalo!
 1390	cec354f3	{fc(57e4f1)¡Entró de golpe en modo de combate...!}
 1400	b4b97415	¡Abre bien los ojos y mira! ¡Te mostraré\nla técnica de boxeo ancestral de la casa Oosuzuki!
 1410	0c8c3ede	¡Te voy a dar una paliza a ti y a ese disfraz feo\nhasta que quedes tan hinchada que parezca que metiste la cabeza en tu estúpida colmena!
-1420	1736a804	{fc(57e4f1)Oosuzuki adoptó la postura de boxeo\ny fue acercándose al patrocinador poco a poco.}
-1430	fabfb0ab	¡Espera, Oosuzuki...!\n¡No pelees sola!
+1420	1736a804	{fc(57e4f1)Kurara adoptó la postura de boxeo\ny fue acercándose al patrocinador poco a poco.}
+1430	fabfb0ab	¡Espera, Kurara...!\n¡No pelees sola!
 1440	f1b7a5b3	Yo sola basto.\nNo siento nada de espíritu de lucha en este.
 1450	0ca73fdf	Es el aura típica de un plebeyo...\na un farsante como este lo dejo KO de un solo golpe.
-1460	17f0d5d4	{fc(57e4f1)Ignorando nuestras advertencias,\nOosuzuki acortaba la distancia con el patrocinador.}
+1460	17f0d5d4	{fc(57e4f1)Ignorando nuestras advertencias,\nKurara acortaba la distancia con el patrocinador.}
 1470	4edee433	¡Prueba mi noble puño!
-1480	cd1c7c55	{fc(57e4f1)Justo cuando Oosuzuki iba a lanzar su uppercut mortal...}
-1490	23415040	¡...! ¡Oosuzuki!
+1480	cd1c7c55	{fc(57e4f1)Justo cuando Kurara iba a lanzar su uppercut mortal...}
+1490	23415040	¡...! ¡Kurara!
 1500	f01b6bc5	{fc(cfff3f)"¡¡Bzzz bzzz bzzz bzzz bzzzz!!"}
 1510	6b96600c	{fc(57e4f1)Las abejas que esperaban cerca del techo\ndescendieron todas a la vez con un fuerte aleteo.}
 1520	ebdd99ba	{fc(57e4f1)Y entonces...}
 1530	45d58aa2	¡Kyaaaaaaaaah...!
-1540	3850cc9c	{fc(57e4f1)¡En un instante agarraron el cuerpo de Oosuzuki\ny se la llevaron por los aires...!}
+1540	3850cc9c	{fc(57e4f1)¡En un instante agarraron el cuerpo de Kurara\ny se la llevaron por los aires...!}
 1550	4b761f73	¡Bájenme...! ¡Bájame!\n¡¿Qué son estos bichos...?! ¡Qué asco...!
-1560	822ad047	{fc(57e4f1)¡Oosuzuki forcejeaba desesperadamente,\npero las abejas la sujetaban con fuerza sin soltarla...!}
+1560	822ad047	{fc(57e4f1)¡Kurara forcejeaba desesperadamente,\npero las abejas la sujetaban con fuerza sin soltarla...!}
 1570	a44aece5	Kurara Oosuzuki.\nTe condeno al castigo de la suspensión en el aire.
 1580	10ffad38	¿Qué tal? ¿No es buena la vista?\nDicen que a los tontos y al humo les gustan las alturas.
 1590	0f05b67e	Retuércete ahí arriba de sufrimiento un rato.\nCuando sea el momento, te daré un fin.
@@ -162,7 +162,7 @@ id	huella_jp	es
 1610	051cd062	¡Kurara...! ¿Qué hacemos...?\n¡¿Cómo recuperamos a Kurara?!
 1620	03890905	Si la subieron tan alto, ¡ni mis ataques aéreos llegan!
 1630	2d8b64b8	{fc(57e4f1)¿Qué hacemos...? ¿Qué puedo hacer?}
-1640	8eeffab3	{fc(57e4f1)¡¿Cómo rescatar a Oosuzuki,\nque se llevaron cerca del techo...?!}
+1640	8eeffab3	{fc(57e4f1)¡¿Cómo rescatar a Kurara,\nque se llevaron cerca del techo...?!}
 1650	ce93bbdb	{fc(57e4f1)El rifle de francotirador de Kako\nquizás llegue a esa altura, pero...}
 1660	bba3ef47	{fc(57e4f1)¡La Kako de este mundo\ntodavía no ha liberado su hemoánima!}
 1670	c98ee14e	¡...!
@@ -188,7 +188,7 @@ id	huella_jp	es
 1870	c996193a	Entonces sigue probando.\nYo no te pondré la mano encima.
 1880	ea8a5035	¡Qué agallas tienes, abeja de mala muerte...!
 1890	0cb5ba1c	¡Veamos cuánto tiempo\nte dura esa soberbia!
-1900	fe2a2394	¡Te apoyo, Sumino!\n¡Si juntamos fuerzas, tendremos veinte millones de poderes!
+1900	fe2a2394	¡Te apoyo, Takumi!\n¡Si juntamos fuerzas, tendremos veinte millones de poderes!
 1910	db2a17ce	¡Derrotemos todos juntos a ese...!\n¡Hay que salvar a Kurara, rápido...!
 1920	cd5c2315	¡Todos...!
 1930	9e208b16	{fc(57e4f1)¡Es verdad, solo yo no puedo, pero\nsi atacamos todos a la vez...!}
@@ -198,7 +198,7 @@ id	huella_jp	es
 1970	9d796bf3	¡Villano...!
 1980	dbbb2304	¡Yaaaaaaaaaah...!
 1990	ae290ba4	¡¡Chestooooo...!!
-2000	e65c483c	{fc(57e4f1)Yo, Yakushiji, Kirifuji, Magadori y Mojiro...\natacamos al patrocinador con todas nuestras fuerzas.}
+2000	e65c483c	{fc(57e4f1)Yo, Takemaru, Nozomi, Kyoshika y Mojiro...\natacamos al patrocinador con todas nuestras fuerzas.}
 2010	cc18c322	¡Uraaaaaaaaah...!
 2020	7132ad02	¡¡Uoooooooooooh...!!
 2030	cd2023d9	{fc(57e4f1)Golpes, patadas, cortes, mazazos...\ndescargamos toda clase de ataques.}
@@ -216,7 +216,7 @@ id	huella_jp	es
 2150	99615f71	¡Todos!\n¡Una vez más, todos a la vez...!
 2160	9e76c2a9	No, el tiempo de diversión termina aquí.
 2170	74e8d98f	¡La ceremonia de apertura terminará\ncon la muerte de Kurara Oosuzuki!
-2180	b7f31a29	{fc(57e4f1)El patrocinador lo dijo sin piedad\ny señaló a Oosuzuki, suspendida en el aire.}
+2180	b7f31a29	{fc(57e4f1)El patrocinador lo dijo sin piedad\ny señaló a Kurara, suspendida en el aire.}
 2190	2d8b1eee	¡Gah...!
 2200	af22bdc4	¡Pa-Paren, ayuda...!
 2210	d348affe	¡Gah... gh...!
@@ -226,11 +226,11 @@ id	huella_jp	es
 2250	41b0dd50	{fc(57e4f1)¡¿Será que el enjambre de abejas\nle está absorbiendo la criptoglobina...?!}
 2260	fc4d4be8	¡¡Doña Kuraraaaaa...!!
 2270	033d86d3	{fc(cfff3f)"Paf"}
-2280	39f640b1	{fc(57e4f1)Cuando las abejas absorbieron toda la criptoglobina del cuerpo de Oosuzuki,\narrojaron su cadáver al suelo...}
+2280	39f640b1	{fc(57e4f1)Cuando las abejas absorbieron toda la criptoglobina del cuerpo de Kurara,\narrojaron su cadáver al suelo...}
 2290	ac9f06ea	¡Noooooo...!\n¡Kurara, Kurara...!
 2300	e411bb53	Mentira... esto no puede ser...\n¡No es posible que doña Kurara haya muerto...!
 2310	be38a2f8	¡Aún es pronto para rendirse...!\n¡Llevémosla al Revive-O-Matic!
-2320	0a0e82c9	{fc(57e4f1)Kirifuji y los demás cargaron el cuerpo de Oosuzuki\ny salieron de la sala de descanso. Pero...}
+2320	0a0e82c9	{fc(57e4f1)Nozomi y los demás cargaron el cuerpo de Kurara\ny salieron de la sala de descanso. Pero...}
 2330	5157ec48	Ja, qué esfuerzo inútil.\nSi no queda ni una gota de criptoglobina, ningún cadáver revive.
 2340	110ceb91	Vaya... morir antes de empezar el juego, qué lástima.\nGracias a ella mis preparativos se arruinaron.
 2350	b6503cb0	No hay remedio, pospondré el inicio del juego hasta mañana por la mañana.\nVuelvan a reunirse aquí mañana, después de despertar.
@@ -244,4 +244,4 @@ id	huella_jp	es
 2430	fbe331c3	¿Cómo morirán todos?\n¿Quién será quien mate a Darumi?
 2440	f1e2ce9b	Ah... no puedo esperar.
 2450	cd0797c9	¡Kyohohohohohohohoho~!
-2460	afad4842	{fc(57e4f1)...La risa siniestra e inocente de Amemiya\nresonó con fuerza en la silenciosa sala de descanso.}
+2460	afad4842	{fc(57e4f1)...La risa siniestra e inocente de Darumi\nresonó con fuerza en la silenciosa sala de descanso.}

@@ -6,7 +6,7 @@ id	huella_jp	es
 50	dca9422c	{fc(57e4f1)Contuvimos el aliento y avanzamos con cuidado dentro de la mansión.}
 60	f4a72a8b	
 70	6dde14b2	{fc(57e4f1)¿Habrá de verdad invasores en este lugar...?\nEl corazón me latía fuerte de ansiedad y expectativa.}
-80	42858b53	{fc(57e4f1)Ojalá estén, invasores... si aquí no ganamos puntos, Kawana...}
+80	42858b53	{fc(57e4f1)Ojalá estén, invasores... si aquí no ganamos puntos, Tsubasa...}
 90	c98ee14e	¡...!
 100	9db5e364	{fc(57e4f1)Sin querer, contuve la respiración.\nEn el fondo de la mansión estaba lo que buscábamos...}
 110	6e899006	{fc(57e4f1)¡un montón de invasores...!}
@@ -17,8 +17,8 @@ id	huella_jp	es
 160	77fc0a02	¡Sí...!
 170	6bfa3903	¡Sí!
 180	e06e81a1	{fc(57e4f1)¡Nos lanzamos con todas nuestras fuerzas contra los invasores!}
-190	0cc73b0c	{fc(57e4f1)Omokage puede cazar solo,\nno necesita mi apoyo...}
-200	cd146bae	{fc(57e4f1)Pero a Kawana se le dificulta pelear afuera.\n¡Tengo que apoyarla para que gane puntos...!}
+190	0cc73b0c	{fc(57e4f1)Yugamu puede cazar solo,\nno necesita mi apoyo...}
+200	cd146bae	{fc(57e4f1)Pero a Tsubasa se le dificulta pelear afuera.\n¡Tengo que apoyarla para que gane puntos...!}
 210	1e33ee24	{fc(57e4f1)Cacé invasores como de costumbre.}
 220	e0ed6598	{fc(57e4f1)Con calma...}
 230	c8bc8097	{fc(57e4f1)Hago la tarea...}
@@ -29,7 +29,7 @@ id	huella_jp	es
 280	fa1d4c4a	¡Haa... haa... haa... haa...!
 290	585012bc	Creo que... ¡ganamos bastantes puntos...!
 300	c17df3d7	Sí, ¡pero todavía no alcanzan para nada!
-310	3651d789	{fc(57e4f1)En el puesto avanzado, Yakushiji y los suyos\nganaron muchos puntos dándole el golpe final al comandante de la Cuarta Unidad.}
+310	3651d789	{fc(57e4f1)En el puesto avanzado, Takemaru y los suyos\nganaron muchos puntos dándole el golpe final al comandante de la Cuarta Unidad.}
 320	f44da525	{fc(57e4f1)¡Para cubrir esa diferencia,\ntenemos que ganar aquí más puntos!}
 330	235626eb	{fc(57e4f1)Decidí seguir cazando sin descansar.}
 340	e0ed6598	{fc(57e4f1)Con calma...}
@@ -44,16 +44,16 @@ id	huella_jp	es
 380	72fcb3c7	{fc(57e4f1)Miré a mi alrededor, pero\nel interior de la mansión estaba en silencio.}
 390	6589e395	Parece que... los cazamos a todos.
 400	2f135ce8	¡Qué...!
-410	1cf77586	{fc(57e4f1)Esto no basta de ninguna manera...\npara salvar a Kawana hacen falta más puntos.}
+410	1cf77586	{fc(57e4f1)Esto no basta de ninguna manera...\npara salvar a Tsubasa hacen falta más puntos.}
 420	772a64ec	{fc(57e4f1)Y justo entonces.}
 430	c98ee14e	¡...!
-440	e2a3279e	{fc(57e4f1)Omokage se giró de repente con fuerza\nhacia el fondo de la mansión.}
+440	e2a3279e	{fc(57e4f1)Yugamu se giró de repente con fuerza\nhacia el fondo de la mansión.}
 450	446e954a	Cuidado, todos...\nalgo extraño se acerca desde allá.
 460	cc0694dc	¡¿Invasores?!
 470	ee4ac13d	La presencia es de invasores...\npero hay algo raro.
 480	0bccc637	¿Raro...?
 490	8b959de4	La presencia y los pasos no concuerdan.\nEstos pasos son como de...
-500	d6aa80ef	{fc(57e4f1)Justo cuando Omokage ladeó la cabeza extrañado,\n}{fc(ff635b)"esos"}{fc(57e4f1) aparecieron ante nosotros.}
+500	d6aa80ef	{fc(57e4f1)Justo cuando Yugamu ladeó la cabeza extrañado,\n}{fc(ff635b)"esos"}{fc(57e4f1) aparecieron ante nosotros.}
 510	fe89f643	¡¿Q-Qué...?!
 520	b4e6a95f	{fc(57e4f1)No podía creer lo que veían mis ojos...\nhabía algo que no debía existir.}
 530	1a511ac2	No puede ser... ¿por qué están aquí...?
@@ -71,7 +71,7 @@ id	huella_jp	es
 650	a7a9c540	¡Huyamos por ahora...!\n¡Antes de que nos ataquen!
 660	cda2a28c	{fc(57e4f1)Dimos media vuelta y nos dirigimos a la salida\npara abandonar la mansión.}
 670	772a64ec	{fc(57e4f1)Y justo entonces.}
-680	8a3dabb8	¿Seguro? Si huyes ahora,\nla pequeña Kawana morirá, ¿sabes?
+680	8a3dabb8	¿Seguro? Si huyes ahora,\nla pequeña Tsubasa morirá, ¿sabes?
 690	914e5b8d	...¡¿?!
 700	3928772e	{fc(57e4f1)Oímos una voz que no debía oírse,\ny nos detuvimos.}
 710	1786d99e	{fc(57e4f1)Al girarnos, allí estaba...}
@@ -83,7 +83,7 @@ id	huella_jp	es
 770	93babedb	Lo siento, pero no tengo tiempo para hablar contigo...\ntenemos que huir.
 780	0f5f889d	¿Por qué huyen? ¡Con tantos invasores aquí,\n¿no van a ganar puntos?!
 790	0b855b2f	¡Ya cazamos a todos los invasores...!\n¡Lo único que queda son humanos!
-800	2950c522	Sumino, ¿qué estás diciendo?\n¡Esos que están ahí...
+800	2950c522	Takumi, ¿qué estás diciendo?\n¡Esos que están ahí...
 810	1ef46a53	son invasores de verdad!
 820	fb80b531	¿Qué...?
 830	a4bc83b7	{fc(57e4f1)¿Estas personas... son invasores?}
@@ -110,14 +110,14 @@ id	huella_jp	es
 1040	cd756807	Matar... a personas... ¡ugh!
 1050	ee275e7a	...Yo soy un sicario sucio, pero\ndecidí no matar fuera del trabajo.
 1060	84c27262	Vaya. Ustedes aún conservan una ética normal.\nPero, ¿está bien? Si no los cazan...
-1070	48c5b061	¡la pequeña Kawana morirá!
+1070	48c5b061	¡la pequeña Tsubasa morirá!
 1080	c98ee14e	¡...!
-1090	e21eff13	{fc(57e4f1)Kawana morirá...\nal oírlo, me mareé y me tambaleé un poco.}
-1100	4bc4e718	¡Sumino... no le hagas caso!\n¡Yo no quiero vivir si tengo que matar gente...!
+1090	e21eff13	{fc(57e4f1)Tsubasa morirá...\nal oírlo, me mareé y me tambaleé un poco.}
+1100	4bc4e718	¡Takumi... no le hagas caso!\n¡Yo no quiero vivir si tengo que matar gente...!
 1110	183cf2b7	¡Busquemos en otro lado, Sumino!\n¡No debemos estar en un lugar así!
 1120	5995d033	¿No? En otros lugares ya no quedan invasores.\nPorque ustedes casi los cazaron todos.
 1130	4e6d7c34	Si quieren salvar a su compañera,\nno queda más que decidirse aquí.
-1140	8f81d369	¿Verdad, Sumino?
+1140	8f81d369	¿Verdad, Takumi?
 1150	c98ee14e	¡...!
 1160	9f5c8fa8	{fc(57e4f1)El patrocinador, desde el principio, apuntaba a esta situación:\nme guio hasta aquí para esto...}
 1170	af5b7dec	{fc(57e4f1)Dejar morir a una compañera, o matar humanos.\n¡Me obligaba a elegir entre las dos opciones...!}
@@ -127,19 +127,19 @@ id	huella_jp	es
 1210	aa2bfc81	{fc(57e4f1)...Aunque sean soldados,\nmatar humanos es impensable.}
 1220	2e47fdbe	{fc(57e4f1)Pero...}
 1230	d3aadf8e	{fc(57e4f1)¡No quiero perder a ninguna compañera más...!}
-1240	820ad8f3	Kawana, Omokage... cierren los ojos.
-1250	61d3ac20	No, Sumino... ¿qué piensas hacer?\n¡Para, por favor, te lo ruego!
+1240	820ad8f3	Tsubasa, Yugamu... cierren los ojos.
+1250	61d3ac20	No, Takumi... ¿qué piensas hacer?\n¡Para, por favor, te lo ruego!
 1260	d84de70a	{fc(57e4f1)Desde el momento en que llegamos aquí,\nya no tenía opciones.}
-1270	54abc431	{fc(57e4f1)Quiero proteger a Omokage, que ha estado siempre conmigo.\nY además...}
+1270	54abc431	{fc(57e4f1)Quiero proteger a Yugamu, que ha estado siempre conmigo.\nY además...}
 1280	797e8a18	{fc(57e4f1)¡¡quiero proteger a la chica de la que me enamoré de verdad...!!}
 1290	d5f4727a	...¡...! ...¡...!
 1300	edcc66c4	{fc(57e4f1)Levanté la espada sobre mi cabeza con la mano temblorosa...}
-1310	96409a23	Eso es, así está bien, Sumino.
+1310	96409a23	Eso es, así está bien, Takumi.
 1320	8c44e408	Los cuerpos base son muy frágiles.\nCon un solo mandoble tuyo se acaba todo.
 1330	75d7f845	{fc(57e4f1)Cállate... no me dejé engañar por tus palabras.}
-1340	9fb1a254	{fc(57e4f1)Esto es mi propia voluntad...\npara salvar la vida de Kawana, yo...}
-1350	f107cc77	¡No, Sumino, para...!
-1360	58840fcd	¡Detente, Sumino...!
+1340	9fb1a254	{fc(57e4f1)Esto es mi propia voluntad...\npara salvar la vida de Tsubasa, yo...}
+1350	f107cc77	¡No, Takumi, para...!
+1360	58840fcd	¡Detente, Takumi...!
 1370	d4a4199e	{fc(57e4f1)Despierta tu propia maldad...\npor esta vez me convertiré en Eito Aotsuki.}
 1380	9f1aa4a1	{fc(57e4f1)Con la voluntad de aquel que odiaba a la humanidad misma\nen el cuerpo, yo...}
 1390	aecfd862	{fc(57e4f1)la espada en alto...}

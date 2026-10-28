@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	7e99c66c	{fc(57e4f1)Habrán oído el grito...\nen la azotea estaban Shizuhara, Ginzaki, Kawana y Kirifuji: cuatro.}
+10	7e99c66c	{fc(57e4f1)Habrán oído el grito...\nen la azotea estaban Hiruko, Shouma, Tsubasa y Nozomi: cuatro.}
 20	3f149957	{fc(57e4f1)Miré alrededor.\nY lo que se veía en la lejanía de la oscuridad era...}
 30	78be899c	G-Gah...
 40	d9e67fb9	Oye... mentira...
@@ -12,21 +12,21 @@ id	huella_jp	es
 110	651a0212	¡Hii, me está mirando...!
 120	e3286310	¡Mal...!
 130	5c169e6d	¡¡Gaaaaaaaaaaaah!!
-140	8470f05f	{fc(57e4f1)Yakushiji se lanzó con un movimiento anormal,\narañando el suelo con las cuatro extremidades...}
+140	8470f05f	{fc(57e4f1)Takemaru se lanzó con un movimiento anormal,\narañando el suelo con las cuatro extremidades...}
 150	8a7e3b24	¡¡Hiiiiiiiii!!
-160	8c400c81	¡Ginzaki...!
+160	8c400c81	¡Shouma...!
 170	91160109	¡Ugh...!
-180	f8d601ab	{fc(57e4f1)Ginzaki, que intentó huir, chocó con nosotros:\nShizuhara y yo perdimos el equilibrio.}
-190	2533b80c	{fc(57e4f1)Y quien quedó empujada a la primera fila era...\nKawana.}
-200	94cad8a6	¡Kawana—!
+180	f8d601ab	{fc(57e4f1)Shouma, que intentó huir, chocó con nosotros:\nHiruko y yo perdimos el equilibrio.}
+190	2533b80c	{fc(57e4f1)Y quien quedó empujada a la primera fila era...\nTsubasa.}
+200	94cad8a6	¡Tsubasa—!
 210	9f7a74f6	¡Hii—!
 220	3596736f	¡¡Gooaaaaaaaaaah!!
-230	964f6b9a	¡Oye, Kawana!
+230	964f6b9a	¡Oye, Tsubasa!
 240	301eccbd	{fc(57e4f1)Traté de adelantarme, pero no llegaba a tiempo.}
 250	3a3b9b88	¡¡Goooooooooooh!!
 260	08b0a299	—
-270	76abbd4a	{fc(57e4f1)Yakushiji se lanzó con furia contra Kawana.}
-280	e378e52b	—¡P-Perdón, Yakushiji!
+270	76abbd4a	{fc(57e4f1)Takemaru se lanzó con furia contra Tsubasa.}
+280	e378e52b	—¡P-Perdón, Takemaru!
 290	3ece2396	{fc(57e4f1)En ese instante...}
 300	f4a72a8b	
 310	f4a72a8b	
@@ -34,8 +34,8 @@ id	huella_jp	es
 330	ce8b63fe	...¿Eh?
 340	6e6f0b1b	¡¿Eh...?!
 350	8f86de73	¿Q-Qué pasó...?
-360	19995d45	El cuerpo de Yakushiji... salió volando...
-370	fe1430de	¿Q-Q-Quizás... Kawana...?
+360	19995d45	El cuerpo de Takemaru... salió volando...
+370	fe1430de	¿Q-Q-Quizás... Tsubasa...?
 380	43fec0d8	Sí...
 390	cf55bb8d	Yo...
 400	bbf9de4b	lo mandé a volar...
@@ -46,18 +46,18 @@ id	huella_jp	es
 450	f501a78c	Este control es el interruptor para detonar\nlas bombas implantadas en nuestros cuerpos...
 460	b2ba0e47	Lo fabriqué sin saber si haría falta,\ny nunca imaginé usarlo así...
 470	dbf5916b	Tú... ¿cargabas algo así...?
-480	db2b88ac	Quizás la más peligrosa del cuerpo de Defensa Especial\nsea Kawana...
-490	c61a9c19	Uuuh, perdón... ¡de verdad perdón...!\n¡Perdón, Yakushiji...!
-500	03b5df63	¡Es cierto! ¡¿Y Maruko...?!
-510	c18f76ee	{fc(57e4f1)Corrimos hacia Maruko, caído.\nRevisamos su cuerpo.}
+480	db2b88ac	Quizás la más peligrosa del cuerpo de Defensa Especial\nsea Tsubasa...
+490	c61a9c19	Uuuh, perdón... ¡de verdad perdón...!\n¡Perdón, Takemaru...!
+500	03b5df63	¡Es cierto! ¡¿Y Gaku...?!
+510	c18f76ee	{fc(57e4f1)Corrimos hacia Gaku, caído.\nRevisamos su cuerpo.}
 520	5bbff189	{fc(57e4f1)La pérdida de sangre era tan grave que supe que no se podía resucitar.}
-530	37d20488	¡Maldición! ¡Ahora también Maruko...!
+530	37d20488	¡Maldición! ¡Ahora también Gaku...!
 540	f4a72a8b	
 550	f4a72a8b	
 560	f4a72a8b	
 570	fad4e429	Oye... ¿qué es esto?
 580	b092f43d	¿Esto...?
-590	2a2393be	{fc(57e4f1)Shizuhara miraba el cuerpo de Yakushiji, hecho trizas.\nO más bien, la cabeza...}
+590	2a2393be	{fc(57e4f1)Hiruko miraba el cuerpo de Takemaru, hecho trizas.\nO más bien, la cabeza...}
 600	d399e71b	{fc(57e4f1)Yo también miré allí.}
 610	98bfdfa6	{fc(57e4f1)Entre las diversas piezas de carne esparcidas...\nmezclada entre los fragmentos del cerebro, había algo.}
 620	d2eb35ac	Ugh...
@@ -71,12 +71,12 @@ id	huella_jp	es
 700	aab65d15	No puedo asegurarlo...
 710	21cada8c	¡Giii...!
 720	96ed43db	¿Será que los incidentes de hasta ahora también fueron por esto...?
-730	f6e1acb2	Pero... ¿por qué en la cabeza de Yakushiji...?
+730	f6e1acb2	Pero... ¿por qué en la cabeza de Takemaru...?
 740	5f9491b0	Quizás lo parasitaron cuando salió a explorar...
 750	547351df	Todavía no se sabe nada claro.\nPero hay una cosa segura...
 760	9c1ea334	¿...?
 770	d7b78e7a	Esto... no debe quedar con vida.\nPor eso...
-780	e388d763	{fc(57e4f1)Dicho eso, Shizuhara a esa criatura de origen desconocido...}
+780	e388d763	{fc(57e4f1)Dicho eso, Hiruko a esa criatura de origen desconocido...}
 790	2785362a	{fc(57e4f1)la aplastó con toda su fuerza con el talón.}
 800	0ce4a217	¡¡Giiiiiiiiiiiiiiiiiiiiiii...!!
 810	a20e9239	{fc(57e4f1)La criatura soltó un siniestro chillido de agonía\ny, tras un rato... dejó de moverse.}

@@ -5,22 +5,22 @@ id	huella_jp	es
 30	81f8e4ea	Qué barbaridad, siempre atacan aunque no quieras...¡¿dónde está el comandante...?!
 40	ab96650d	Bueno, bueno... cálmate, Kurara. La prisa es mala en todo.
 50	5f82ad14	...¿Eh?\n¿Qué es esto?
-60	b7124eba	{fc(57e4f1)Lo que Mojiro recogió del suelo\nera una máquina del tamaño de una palma.}
+60	b7124eba	{fc(57e4f1)Lo que Moko recogió del suelo\nera una máquina del tamaño de una palma.}
 70	0a217639	¿Y eso?\n¡Una máquina que nunca vi!
 75	c9ded58b	Si estaba tirada en la base, ¿será un dispositivo de alerta?\n¿Algo como una cámara de vigilancia?
-80	a12a4f78	Sumino, ¿sabes qué es?
+80	a12a4f78	Takumi, ¿sabes qué es?
 90	f4a9b337	No, yo de máquinas no sé nada...
 100	67cb2584	Solo que la marca dibujada en esa máquina,\nme suena de algún lado...
 105	beeba824	A mí también me parece haberla visto en algún lado...
 110	56eefa6e	¡No sirve darle vueltas! A estas máquinas... ¡casi siempre se les da así para que funcionen!
 120	c84c9635	¡Técnica secreta de los Oosuzuki!\n¡Golpe de karate a 45 grados!
-140	4f21eeda	{fc(57e4f1)El golpe de Oosuzuki dio de lleno,\ny la máquina rodó por el suelo.}
+140	4f21eeda	{fc(57e4f1)El golpe de Kurara dio de lleno,\ny la máquina rodó por el suelo.}
 130	9a577fd0	¡¿Qué haces...?!
 145	497bf32a	{fc(cfff3f)"¡Vuuum...!"}
 150	4efd2a3c	{fc(57e4f1)Y de pronto la máquina se encendió con un zumbido.}
 160	66f24e8e	¡Miren! ¡Funcionó!
 170	a4f15e51	Fue casualidad...
-180	15425a45	¡Esperen, todos! ¡Algo se proyecta!\n¿No será, como previó Maruko, un dispositivo de grabación de imágenes?
+180	15425a45	¡Esperen, todos! ¡Algo se proyecta!\n¿No será, como previó Gaku, un dispositivo de grabación de imágenes?
 185	c9ddec5d	¡¿Qué tal mi perspicacia?!\n¡Con esto he escapado siempre de los clientes molestos del trabajo!
 187	52c8383a	Qué uso tan mezquino...
 189	397dd8b5	¡En todo caso, veamos las imágenes!\n¡Quizás nos digan algo!
@@ -53,7 +53,7 @@ id	huella_jp	es
 440	c34be236	Pero ¿por qué haría algo así?
 450	7e7f5787	{fc(57e4f1)En ese momento, un mal presentimiento me cruzó la cabeza.\nNo será que...}
 460	b6e17afd	...Quizás, solo quizás.
-470	4d5566aa	{fc(57e4f1)Lo que salió de la boca de Kirifuji\nfue exactamente lo mismo que yo imaginaba.}
+470	4d5566aa	{fc(57e4f1)Lo que salió de la boca de Nozomi\nfue exactamente lo mismo que yo imaginaba.}
 480	8e414f36	Quizás fue matando uno a uno a los comandantes aliados.\nNo para que no los robáramos nosotros...
 490	532eecb0	sino solo para quedarse con toda la criptoglobina.
 500	aef48060	...¿Qué?
@@ -71,7 +71,7 @@ id	huella_jp	es
 620	f4a72a8b	
 630	97a69ee3	{fc(57e4f1)Así es. No lo dije en voz alta, pero...\neso significa.}
 640	1755a686	No pensé que se perdería así el método de curación...
-650	7de61f62	Lo de Kirifuji también, pero...
+650	7de61f62	Lo de Nozomi también, pero...
 660	637c99d1	Si V'ehxness absorbió la criptoglobina de todos los comandantes,\n¿cuánto se habrá fortalecido?
 670	878c7a4f	Ya era monstruosa de por sí,\n¿tenemos posibilidades de ganar...?
 680	493b7e6e	{fc(57e4f1)Un aire de desesperación nos envolvió.\nLo peor sobre lo peor...}
@@ -105,7 +105,7 @@ id	huella_jp	es
 950	be4bbe87	...Tienes razón, perdón.\nNo estaba tranquila.
 960	4033d553	No te disculpes.
 965	1ff514e2	Gracias por preocuparte, Kurara.
-970	f14f1741	{fc(57e4f1)La sonrisa que Kirifuji mostró al decirlo\nfue algo forzada.}
+970	f14f1741	{fc(57e4f1)La sonrisa que Nozomi mostró al decirlo\nfue algo forzada.}
 980	78c1e8a2	{fc(57e4f1)Seguro que ahora también habla esforzándose.\nNo podemos desperdiciar su sentimiento.}
 990	c3be1361	¡Bien, todos, volvamos al autobús!\n¡Partimos de inmediato!
 1000	04da9a0b	{fc(57e4f1)Volvimos al autobús escolar\ny emprendimos enseguida el regreso a la Última Academia de Defensa.}

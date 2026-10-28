@@ -1,23 +1,23 @@
 id	huella_jp	es
-10	59fcfc0b	{fc(57e4f1)Cuando Oosuzuki y yo llegamos al comedor,\nestaban todos menos Kirifuji.}
-20	6f0153d1	{fc(57e4f1)En cuanto llegamos, Mojiro nos explicó\nqué le había pasado a Kirifuji.}
+10	59fcfc0b	{fc(57e4f1)Cuando Kurara y yo llegamos al comedor,\nestaban todos menos Nozomi.}
+20	6f0153d1	{fc(57e4f1)En cuanto llegamos, Moko nos explicó\nqué le había pasado a Kirifuji.}
 30	3e61d619	{fc(57e4f1)Unas decenas de minutos antes...}
-40	7da56060	{fc(57e4f1)Mojiro y Kirifuji comían solas en el comedor,\ncuando de repente Kirifuji empezó a sudar frío...}
+40	7da56060	{fc(57e4f1)Moko y Nozomi comían solas en el comedor,\ncuando de repente Nozomi empezó a sudar frío...}
 50	7843e299	{fc(57e4f1)se desplomó y perdió el conocimiento.}
-60	46c3612b	{fc(57e4f1)Según el diagnóstico de Omokage, la causa del desmayo es desconocida.\nKirifuji sigue durmiendo en la cama de su cuarto.}
+60	46c3612b	{fc(57e4f1)Según el diagnóstico de Yugamu, la causa del desmayo es desconocida.\nNozomi sigue durmiendo en la cama de su cuarto.}
 70	f4a72a8b	
 80	a72efbd2	{fc(57e4f1)Al oírlo lo supe de inmediato.}
 90	39b91a04	{fc(57e4f1)...Es el rechazo.}
-100	356f7a3f	{fc(57e4f1)Que Kirifuji obtuvo el poder de la criptoglobina con un experimento distinto al de nosotros,\ny que cargaba con la bomba llamada reacción de rechazo...}
+100	356f7a3f	{fc(57e4f1)Que Nozomi obtuvo el poder de la criptoglobina con un experimento distinto al de nosotros,\ny que cargaba con la bomba llamada reacción de rechazo...}
 110	09cf93f2	{fc(57e4f1)Pero, ¿por qué tan pronto?\nLa vez anterior fue mucho más tarde...}
 120	2a600d87	{fc(57e4f1)¿Será que, por venir yo del futuro, se activó también\nla hemoánima de Kirifuji y se adelantó el rechazo?}
 130	f35ac8f7	{fc(57e4f1)En todo caso...}
 140	453a5895	{fc(57e4f1)Sé cómo suprimirlo.}
-150	55ca8e4d	{fc(57e4f1)Hacer que absorba hemoánima.\nAsí se suprime el rechazo de Kirifuji.}
+150	55ca8e4d	{fc(57e4f1)Hacer que absorba hemoánima.\nAsí se suprime el rechazo de Nozomi.}
 160	5cc303eb	{fc(57e4f1)...Pero.}
 170	6fc74f5e	{fc(57e4f1)Que yo lo sepa es porque estoy repitiendo esta vida.}
 180	a558127f	{fc(57e4f1)No se lo había dicho a nadie.\nPor el bien de todos, no podía decírselo.}
-190	ef8f6076	{fc(57e4f1)Pero no podía dejar morir a Kirifuji sin hacer nada.}
+190	ef8f6076	{fc(57e4f1)Pero no podía dejar morir a Nozomi sin hacer nada.}
 200	48542ec6	{fc(57e4f1)Entonces...}
 210	a6fa79b7	...\nQuizás sepa cómo salvar a Kirifuji.
 220	7a253c97	...¿Quizás?
@@ -30,9 +30,9 @@ id	huella_jp	es
 290	0c4431e8	¡Entonces, si le hacemos absorber hemoánima como en el sueño...!
 300	a8239a47	...Hmph, qué poco realista.\n¡Al fin y al cabo es solo un sueño!
 310	0f32957e	P-Pero el sueño que tuve yo es el destino, ¡a que sí!\n¡Se hará realidad enseguida, a que sí!
-320	82bab983	¡Seguro que don Sumino despertó la capacidad\nde tener sueños premonitorios!
+320	82bab983	¡Seguro que don Takumi despertó la capacidad\nde tener sueños premonitorios!
 330	1053115c	¡Tú cállate! ¡Solo lo complicas todo!
-340	3cb393bb	Pero, suponiendo que el sueño de Sumino sea real\ny que se pueda revivir con hemoánima...
+340	3cb393bb	Pero, suponiendo que el sueño de Takumi sea real\ny que se pueda revivir con hemoánima...
 350	24ca568e	pensándolo al revés...
 360	1382c99e	hasta que lleguen los próximos invasores\nno podemos hacer nada, ¿verdad?
 370	007abb4b	¿Hasta que ataquen los invasores,\nNozomi solo sufrirá...?
@@ -43,10 +43,10 @@ id	huella_jp	es
 420	74a0e511	Antes de atacar esta academia desde su base principal,\nellos pasan por una base de relevo.
 430	0247e49d	Su ubicación... también la vi en el sueño.\nPuedo guiarlos hasta allí.
 440	a9fef89c	Ya veo. Atacar la base principal del enemigo da miedo,\npero atacar una base de relevo...
-450	bc6cfcb2	¡Esperen! ¿Por qué actúan dando por hecho\nque el sueño de Sumino es una premonición?
+450	bc6cfcb2	¡Esperen! ¿Por qué actúan dando por hecho\nque el sueño de Takumi es una premonición?
 460	aed5c72d	Aunque lleguemos al lugar que vio en el sueño,\npodría no haber nada, ¿no?
 470	1aa25378	No, la base de relevo existe.\nNunca fui, pero sé dónde está.
-480	9f069cb0	...O sea que el sueño de Sumino sí es una premonición.
+480	9f069cb0	...O sea que el sueño de Takumi sí es una premonición.
 490	87ada526	Al menos esta vez,\nes muy probable.
 500	9b49309a	¡Bien! ¡Entonces vamos ya a esa base de relevo!
 510	e44b0b66	...Mmm, no sé yo.
@@ -55,7 +55,7 @@ id	huella_jp	es
 540	50a1a9e4	¿Qué pasa si hay un ataque enemigo mientras no están?\nPor más que sea, el riesgo es demasiado alto.
 590	9cf7e289	Según el sueño de Takumi, si absorbe la hemoánima del enemigo\nNozomi se cura, ¿verdad?
 600	8891daa0	Entonces basta con esperar con calma\nal próximo ataque enemigo.
-610	c4c09801	Pero no hay ninguna garantía de que Kirifuji aguante hasta entonces...
+610	c4c09801	Pero no hay ninguna garantía de que Nozomi aguante hasta entonces...
 620	6ad6c913	Si salen de aquí no podrán beneficiarse del Revive-O-Matic,\ny más bien creo que es muy probable que haya más bajas.
 630	9605b1da	E-Eso... quizá sea cierto...\nPelear contra un comandante afuera... es demasiado peligroso...
 640	362fa548	Entonces... ¿qué tal un equipo aparte?\n¿Como cuando fuimos a la Penúltima Academia...?

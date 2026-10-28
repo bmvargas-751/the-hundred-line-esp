@@ -1,16 +1,16 @@
 id	huella_jp	es
-10	009115f1	{fc(57e4f1)Al salir al patio,\nvi a Kawana sentada en una banca.}
-20	21266573	{fc(57e4f1)Parece que charlaba amigablemente\ncon Kirifuji, las dos juntas.}
+10	009115f1	{fc(57e4f1)Al salir al patio,\nvi a Tsubasa sentada en una banca.}
+20	21266573	{fc(57e4f1)Parece que charlaba amigablemente\ncon Nozomi, las dos juntas.}
 30	082f5406	¡Ah, ahí está! ¡Kawa...!
 40	e77adcf3	{fc(57e4f1)Apenas empecé, de repente alguien me tiró del brazo\ny me arrastró detrás de un escondite.}
 50	5765ee0d	¡Ay! ¡¿Q-qué pasa?!
 60	2d1a2364	¡¿Qué pretendes hacer, tú?!
-70	a7c59e44	¿Maruko...?\n¡¿Por qué estás enojado?!
-80	f865710b	{fc(57e4f1)Maruko me gritó de pronto con una furia tremenda.\nMás bien, el que debería preguntar qué hace soy yo.}
-90	0bc8a0d5	Yo... solo tenía algo que hablar con Kawana...
+70	a7c59e44	¿Gaku...?\n¡¿Por qué estás enojado?!
+80	f865710b	{fc(57e4f1)Gaku me gritó de pronto con una furia tremenda.\nMás bien, el que debería preguntar qué hace soy yo.}
+90	0bc8a0d5	Yo... solo tenía algo que hablar con Tsubasa...
 100	5ce72a2c	¡Tonto! ¡Mira eso!\n¡¿Qué ves allá?!
 110	0e7a0c00	¿Q-qué veo? Eh, bueno...
-120	731f0444	Kawana y Kirifuji... ¿están conversando...?
+120	731f0444	Tsubasa y Nozomi... ¿están conversando...?
 130	38dae2a7	¡Idiota! ¡No es eso!\n¡Escucha: allá...
 140	0d29ba50	...¡florece un jardín de yuri!
 150	fa6c5fb4	...¿Cómo?
@@ -22,7 +22,7 @@ id	huella_jp	es
 210	5fba7802	...¿De verdad lo entendiste?\n¡Todavía tienes cara de que no te convences!
 220	b5f4f70e	¿Ese era tu personaje?\n¿Y dónde quedó el que estaba arrepentido el otro día...?
 230	49565a30	¡Una cosa es una cosa y otra cosa es otra!\n¡Qué remedio...!
-240	9b15e44a	¡Sumino, ven conmigo!\n¡Te voy a meter bien en la cabeza lo del jardín!
+240	9b15e44a	¡Takumi, ven conmigo!\n¡Te voy a meter bien en la cabeza lo del jardín!
 250	24cae57e	¡¿Eh?! ¡Oye, no me jales!
-260	85409143	{fc(57e4f1)Con un tirón fuerte del brazo, como diciendo "sin discusión",\nMaruko me llevó arrastrado...}
+260	85409143	{fc(57e4f1)Con un tirón fuerte del brazo, como diciendo "sin discusión",\nGaku me llevó arrastrado...}
 270	e2a00cd7	{fc(57e4f1)...Ahí empezó el infierno.}

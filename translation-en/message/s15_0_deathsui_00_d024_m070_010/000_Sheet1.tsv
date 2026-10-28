@@ -1,32 +1,32 @@
 id	huella_jp	es
-10	53f6abd2	Shizuhara y Omokage... ¿qué hacen en un lugar como este?
+10	53f6abd2	Hiruko y Yugamu... ¿qué hacen en un lugar como este?
 20	40976545	No hacemos nada sospechoso.\nSolo que cerca de los cadáveres me calmo...
 30	b760ba2f	Eso es sospechosísimo...
 40	68aea03f	Yo vine sin motivo en particular.
 50	de5b5db0	¿Quién viene a la morgue "sin motivo en particular"?
 60	a156bf14	Es mucho más sano que la razón de\n"cerca de los cadáveres me calmo", creo.
 70	73d0008e	Tienes razón, claro.
-80	e740da1d	{fc(57e4f1)Omokage se llevó la mano a la boca y rio por lo bajo.}
+80	e740da1d	{fc(57e4f1)Yugamu se llevó la mano a la boca y rio por lo bajo.}
 90	acb2c95d	Por cierto... ¿y tú, Sumino, a qué viniste?
-100	89a83594	{fc(57e4f1)Les dije a los dos que estaba investigando el asesinato de Maruko.}
+100	89a83594	{fc(57e4f1)Les dije a los dos que estaba investigando el asesinato de Gaku.}
 110	feee40f2	Mmm... y viniste a volver a revisar el cadáver.
 120	721f8c9f	Pero no creo que revisándolo aparezca nada.
 130	911b3a41	Puede ser. Pero por si acaso...
-140	30fdf1a7	{fc(57e4f1)Dicho eso, volví a examinar el cuerpo de Maruko.}
-150	a0233fc7	{fc(57e4f1)Pero, tal como dijo Shizuhara,\nno encontré nada que pudiera servir de pista.}
+140	30fdf1a7	{fc(57e4f1)Dicho eso, volví a examinar el cuerpo de Gaku.}
+150	a0233fc7	{fc(57e4f1)Pero, tal como dijo Hiruko,\nno encontré nada que pudiera servir de pista.}
 160	cb1194cc	¿Cuál es la causa de muerte?
 170	d302c102	Shock hemorrágico.
 180	278c341a	¿Y el arma...?
 190	f853b43b	Un objeto afilado de 30 cm de hoja...\npor la forma de la herida, creo que fue un cuchillo de sashimi o algo así.
 200	dc638db8	¿Encontraron esa arma?
 210	b0ee4ee3	No, hasta ahora no está en ningún lado...
-220	06a5bda6	E-Espera un momento...\n¿por qué Omokage hace cosas de detective?
+220	06a5bda6	E-Espera un momento...\n¿por qué Yugamu hace cosas de detective?
 230	db3c6d92	Pura curiosidad. No le hagas caso.
 240	f4a72a8b	
 250	6273cc75	Veamos, la hora estimada de muerte...\nYa nos la dijeron cuando vinieron a la Penúltima Academia de Defensa.
 260	3279a59f	Sí... entre la 1:00 y las 4:00 a. m. del día 5.
 270	ae407e67	Y, para adelantarme a la pregunta,\na esa hora yo dormía en mi cuarto.
-280	2fc2451c	¿Y Omokage...?
+280	2fc2451c	¿Y Yugamu...?
 290	257ff880	...¿Eh?
 300	2913ac6e	¿Podrías decirme qué hacías\nentre la noche del día 4 y la mañana del día 5...?
 310	1aff769d	¿Hace falta responder eso...?
@@ -36,17 +36,17 @@ id	huella_jp	es
 350	149e5eda	Ya veo...
 360	8d4daebb	Pero ¿por qué me preguntas eso?
 370	efebdb34	E-Eso es...
-380	e26c08ef	Como le cuesta decirlo, lo digo yo por él.\nOmokage... es porque eres sicario.
+380	e26c08ef	Como le cuesta decirlo, lo digo yo por él.\nYugamu... es porque eres sicario.
 390	44b8cd3a	Ya veo, por eso me sospechan...\nPero eso me parece injusto...
 400	cf904185	Yo no mato a nadie sin sentido...\nNo cualquiera puede ser mi objetivo.
-410	bcab6d81	Pero quizás Maruko\nera alguien especial para ti.
-420	2cbe75d8	Eso no.\nNi siquiera conocí a Maruko cuando estaba vivo...
+410	bcab6d81	Pero quizás Gaku\nera alguien especial para ti.
+420	2cbe75d8	Eso no.\nNi siquiera conocí a Gaku cuando estaba vivo...
 430	91ec6f45	Aunque no tengo nada con qué demostrarlo...\nasí que solo puedo decir "créeme".
 440	cd91f6af	Sí, te creo.
-450	d6856f3d	{fc(57e4f1)Respondí al instante.\nPorque había visto en la historia anterior la relación entre Omokage y Maruko...}
+450	d6856f3d	{fc(57e4f1)Respondí al instante.\nPorque había visto en la historia anterior la relación entre Yugamu y Gaku...}
 460	a97eee13	{fc(57e4f1)Era imposible pensar que se conocieran.}
 470	7bdeb975	{fc(57e4f1)Y lo de "no mato sin sentido"\nprobablemente era verdad.}
-480	f011a0a9	{fc(57e4f1)En la historia anterior, Omokage no mató a ningún aliado\nni dio señales de querer hacerlo.}
+480	f011a0a9	{fc(57e4f1)En la historia anterior, Yugamu no mató a ningún aliado\nni dio señales de querer hacerlo.}
 490	d666a539	Qué bien, me alegra que me creas.
 500	55453d85	{fc(57e4f1)Omokage dijo eso y sonrió un poco.}
 510	7cc3a0b8	Bueno, yo me voy.\nGracias por contestarme.

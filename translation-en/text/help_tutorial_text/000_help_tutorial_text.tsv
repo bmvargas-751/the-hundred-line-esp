@@ -32,7 +32,7 @@ id	huella_jp	es
 11211	666744a0	Entre los materiales estratégicos hay {fc(ff0000)dispositivos defensivos}, que protegen la base, y {fc(ff0000)fármacos}, que te fortalecen.
 11212	983ed1a6	Los materiales estratégicos se usan {fc(ff0000)sin gastar AP} y no causan fatiga. Además, {fc(ff0000)se reponen por completo en cada batalla}.
 11213	f449ddb6	Los Darumarr y los Tubrillas {fc(ff0000)atacan primero los objetos colocados}. Las vallas metálicas {fc(ff0000)son más eficaces si las colocas para proteger la base}.
-11301	1c22891f	Al absorber la criptoglobina del bebé, se desbloqueó la habilidad de especialista de Sumino, {fc(ff0000)Revancha especial}. Cada vez que muere un aliado, su ataque sube durante la WAVE.
+11301	1c22891f	Al absorber la criptoglobina del bebé, se desbloqueó la habilidad de especialista de Takumi, {fc(ff0000)Revancha especial}. Cada vez que muere un aliado, su ataque sube durante la WAVE.
 11401	3408102c	Si ya superaste una batalla parecida en otra ruta, puedes saltarla y {fc(ff0000)ver solo el evento}.
 11501	ed1b3c5a	Con {keyhelp(74)} ya puedes usar la {fc(ff0000)Bomba Shion}. Se lanza {fc(ff0000)gastando 300 % de VOLTAGE}.\n*Solo se puede usar en ciertas batallas.
 11601	820b6eb7	Nozomi Kirifuji no logra controlar bien su hemoánima, así que {fc(ff0000)no puede participar en el golpe de gracia}.
@@ -146,7 +146,7 @@ id	huella_jp	es
 23004	be689eed	Si con las {fc(ff0000)actividades estudiantiles} averiguas qué hay en su {fc(ff0000)lista de deseos} y se lo regalas, la afinidad sube mucho más. ¡Fortalece tus vínculos con tus compañeros!
 23101	0a0f3f0f	Ahora Shion aparece en el tiempo libre. Desde ahora también puedes hablar y hacer actividades estudiantiles con él.
 23102	0fdffbbd	Además, aunque a Shion no se le pueden dar regalos, {fc(ff0000)si le hablas en ciertos momentos, ocurre un evento de vínculo}.
-23201	6b098155	Las actividades estudiantiles suben las {fc(ff0000)calificaciones} de Sumino.
+23201	6b098155	Las actividades estudiantiles suben las {fc(ff0000)calificaciones} de Takumi.
 23202	71040818	Hay cinco calificaciones, {fc(ff0000)Lengua, Matemáticas, Ciencias, Estudios sociales y Educación física}, y hacen falta en muchas situaciones.
 23203	70b28e01	{fc(ff0000)Cada personaje sube una calificación distinta}, así que haz actividades estudiantiles con personajes variados.
 23301	c43417dc	A medida que sube el nivel de las habilidades, además de BP se piden {fc(ff0000)calificaciones} y {fc(ff0000)materiales}.
@@ -162,14 +162,14 @@ id	huella_jp	es
 23702	d999bac8	Para obtener pistas, haz {fc(ff0000)actividades estudiantiles} con cada personaje y consigue {fc(ff0000)palabras clave}.
 23703	10dac92a	Si {fc(ff0000)consigues la misma palabra clave varias veces}, se van revelando las pistas de la lista de deseos de cada personaje.
 23801	573001b4	Las {fc(ff0000)palabras clave} sirven para crear regalos. ¡Crea regalos variados!
-30001	74931940	A partir de aquí, según lo que {fc(ff0000)decida} Sumino, la historia se {fc(ff0000)ramificará} mucho.
-30002	b0f022f6	Más adelante podrás ver también la opción que no elijas. Decide qué hacer con Aotsuki.
+30001	74931940	A partir de aquí, según lo que {fc(ff0000)decida} Takumi, la historia se {fc(ff0000)ramificará} mucho.
+30002	b0f022f6	Más adelante podrás ver también la opción que no elijas. Decide qué hacer con Eito.
 30003	5bbd1b2a	Más adelante podrás ver también la opción que no elijas.
-30101	c29b9721	Para convencer a Kawana, le darás un {fc(ff0000)regalo} hecho con cariño. Primero, pregunta a los demás personajes qué deberías regalarle.
-30102	e5615c18	Además, puede que tengas que salir a explorar para reunir los materiales del regalo. ¡Haz todo lo posible por convencer a Kawana!
+30101	c29b9721	Para convencer a Tsubasa, le darás un {fc(ff0000)regalo} hecho con cariño. Primero, pregunta a los demás personajes qué deberías regalarle.
+30102	e5615c18	Además, puede que tengas que salir a explorar para reunir los materiales del regalo. ¡Haz todo lo posible por convencer a Tsubasa!
 30103	e59b767e	Para convencer a la otra persona, le darás un {fc(ff0000)regalo} hecho con cariño. Primero, {fc(ff0000)pregunta a los demás personajes} qué deberías regalarle.
 30104	b813ff38	Además, a veces puede que tengas que salir a explorar para reunir los materiales del regalo. ¡Haz todo lo posible por convencer a la otra persona!
-30201	4c3b86d0	Kawana te contará lo que le preocupa: dile las palabras adecuadas para que se decida a luchar.
+30201	4c3b86d0	Tsubasa te contará lo que le preocupa: dile las palabras adecuadas para que se decida a luchar.
 30202	86589c19	Elige qué decirle a Kawana presionando {keyhelp(101)} {fc(ff0000)dos veces}. Puede que aparezcan más opciones con el tiempo.
 30203	b403e370	Si eliges las palabras adecuadas, sube la {fc(ff0000)tasa de persuasión}. Si la barra llega al 100 %, la convences.
 30204	dd5d4440	Si fallas, podrás repetir desde justo antes. No tengas miedo de equivocarte y prueba distintas respuestas.

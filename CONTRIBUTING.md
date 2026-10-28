@@ -26,8 +26,7 @@ Antes de publicar, probar `INSTALAR` y `DESINSTALAR` en Windows y en Steam Deck.
 ## Dos versiones
 
 `python3 -I scripts/thl.py --version en <comando>` (o `THL_VERSION=en`) trabaja sobre `translation-en/` y `table-en/`; sin la opción, sobre `translation/` (jp).
-En `en`, un archivo cuenta como pendiente hasta que se marca rehecho con `thl.py --version en hecho <patrón> <ediciones.jsonl>…`
-(solo lo marca si todas sus líneas están en los JSONL). El export muestra `ES(jp)` como punto de partida.
+En `en`, un archivo cuenta como pendiente hasta que se marca rehecho con `thl.py --version en hecho <patrón>` (tras revisar todas sus líneas contra el inglés; `export --breve` las muestra en una línea)
 
 ## Estructura
 

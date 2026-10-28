@@ -4,8 +4,8 @@ id	huella_jp	es
 30	953f1d22	Entendido. Gracias.
 40	b4d85fd7	Uaaah... bueno, nos vemos.
 50	b1037a8b	{fc(57e4f1)Me despedí de todos\ny estaba por volver a mi cuarto cuando...}
-60	b7617c2b	{fc(57e4f1)...Kirifuji me detuvo.}
-70	73016698	Ah, Sumino... ¿tienes un momento?
+60	b7617c2b	{fc(57e4f1)...Nozomi me detuvo.}
+70	73016698	Ah, Takumi... ¿tienes un momento?
 80	8d3df0ee	¿Hm? ¿Qué pasa?\n¿Todavía te preocupa algo?
 90	3b30ce1b	¿No será... lo de ese comandante?
 100	0c076e18	Ah, sí... me sigue dando vueltas,\npero no me arrepiento de lo que hice...
@@ -17,7 +17,7 @@ id	huella_jp	es
 160	f38e7825	...Pero, si soy sincera,\nal principio me dabas un poco de miedo, Sumino.
 170	5c7c3818	Y por eso... no sabía cómo tratarte\ny sin querer fui distante...
 180	f4a72a8b	
-190	d3aa2b0b	Pero ahora que lo pienso,\nnada de lo que hiciste, Sumino, estuvo mal...
+190	d3aa2b0b	Pero ahora que lo pienso,\nnada de lo que hiciste, Takumi, estuvo mal...
 200	667d7dd0	Lo que me asustaba, lo que me angustiaba,\ntodo lo resolviste tú.
 210	c76d2bcd	Por eso... de verdad, gracias.
 220	43b7cc16	No... no hace falta agradecer...\nLo importante es que de verdad salió bien...
@@ -32,7 +32,7 @@ id	huella_jp	es
 310	ce888079	Quiero saber bien todo\nsobre nuestra relación hasta ahora.
 320	18f1abb3	{fc(57e4f1)Todo, sin dejar nada...}
 330	f4a72a8b	
-340	f03cdf87	{fc(57e4f1)Había pensado no contarle a Kirifuji lo de Karua\nhasta que todo estuviera resuelto...}
+340	f03cdf87	{fc(57e4f1)Había pensado no contarle a Nozomi lo de Karua\nhasta que todo estuviera resuelto...}
 350	f1a55108	{fc(57e4f1)Pero si me lo pide así,\nya no aguanto más.}
 360	a05a3826	{fc(57e4f1)Porque en realidad siempre quise contárselo.}
 370	af6b7e15	{fc(57e4f1)Ya no puedo seguir ocultando ese sentimiento.}
@@ -43,10 +43,10 @@ id	huella_jp	es
 420	3a1c40dc	{fc(57e4f1)Que tenía una amiga de la infancia llamada Karua Kashimiya...}
 430	013837b4	{fc(57e4f1)Ella era para mí\ntan importante como la familia.}
 440	169b6277	{fc(57e4f1)Y la que era idéntica a esa Karua en todo\nera Nozomi Kirifuji, a quien conocí en esta academia.}
-450	dc7020a9	{fc(57e4f1)Pero la propia Kirifuji\nno sabía nada de Karua ni de mí...}
+450	dc7020a9	{fc(57e4f1)Pero la propia Nozomi\nno sabía nada de Karua ni de mí...}
 460	39c9723f	{fc(57e4f1)Eso me desconcertaba.\nDesde el momento en que la conocí, estuve desconcertado todo el tiempo.}
-470	7f5fc005	{fc(57e4f1)Pero contárselo a Kirifuji solo la asustaría.\nAsí que decidí considerarlas dos personas distintas.}
-480	5304032b	{fc(57e4f1)...Hasta que presencié la muerte de Kirifuji.}
+470	7f5fc005	{fc(57e4f1)Pero contárselo a Nozomi solo la asustaría.\nAsí que decidí considerarlas dos personas distintas.}
+480	5304032b	{fc(57e4f1)...Hasta que presencié la muerte de Nozomi.}
 490	7911b33a	{fc(57e4f1)La herida en el abdomen que vi cuando murió...\nLa sensación al tocarla...}
 500	0e64881e	{fc(57e4f1)Era exactamente igual a la Karua que yo conocía.\nEntonces, quedé convencido.}
 510	9fba7247	{fc(57e4f1)De que Karua Kashimiya y Nozomi Kirifuji eran la misma persona.}
@@ -85,7 +85,7 @@ id	huella_jp	es
 840	03c33f05	A-Ah, no...\nEso es... este...
 850	4839a5fe	...Es broma, tranquilo.
 860	c5a49a18	Pero Karua y la otra yo\nseguro sienten lo mismo que tú.
-870	f33db952	Seguro que te aprecia, Sumino,\ny seguro que quiere protegerte a toda costa...
+870	f33db952	Seguro que te aprecia, Takumi,\ny seguro que quiere protegerte a toda costa...
 880	a9fac547	...Es medio romántico, ¿no?\nAunque no sea algo que deba decir como si fuera ajeno.
 890	a882e3bf	Al final, mientras estemos en esta academia\nno sabremos la verdad...
 900	92d0657f	Pero cuando nos reunamos con la humanidad después de los cien días,\nseguro que esa respuesta se aclarará...
@@ -122,6 +122,6 @@ id	huella_jp	es
 1210	887e3293	Así que, como camarada que pelea aquí contigo...\ncomo camarada que peleó aquí contigo...
 1220	3ac114ed	De nuevo, cuento contigo.\nLleguemos todos juntos al Día 100.
 1230	85c1d51e	S-Sí, claro...
-1240	0a8936a2	...Entonces, yo también vuelvo a mi cuarto.\nDescansa bien tú también, Sumino.
+1240	0a8936a2	...Entonces, yo también vuelvo a mi cuarto.\nDescansa bien tú también, Takumi.
 1250	bd369109	...Buenas noches.
-1260	b1af35c9	{fc(57e4f1)Solo pude ver, atónito,\ncómo Kirifuji se alejaba de espaldas hacia su cuarto...}
+1260	b1af35c9	{fc(57e4f1)Solo pude ver, atónito,\ncómo Nozomi se alejaba de espaldas hacia su cuarto...}
