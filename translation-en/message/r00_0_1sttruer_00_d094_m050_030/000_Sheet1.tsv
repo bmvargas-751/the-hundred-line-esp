@@ -1,109 +1,109 @@
 id	huella_jp	es
-10	22d20cd3	{fc(57e4f1)Dijo que absorber criptoglobina también era así. Entonces, el que de verdad hizo aquello...}
+10	22d20cd3	{fc(57e4f1)Ima dijo lo mismo sobre absorber criptoglobina. Entonces, ¿quién les hizo eso de verdad a Hiruko y a la prisionera...?}
 20	df35db4a	
-30	cbaf9882	"Voy a cumplir mi promesa, sin falta. También traje lo que ustedes necesitan..."
+30	cbaf9882	"Cumpliré mi promesa pase lo que pase. También traje lo que necesitan..."
 40	9f22aad8	
-50	df737daa	{fc(57e4f1)Ella sacó de entre su ropa algo parecido a un control remoto y lo manejó.}
+50	df737daa	{fc(57e4f1)El Comandante Supremo sacó de su bolsillo un objeto parecido a un control remoto y lo usó sobre... algo.}
 60	32dd4d8d	{fc(57e4f1)Al instante siguiente...}
-70	b45d7aa2	{fc(cfff3f)"¡Rrrrrrrrr...!"}
-80	11f4bb28	¿Q-Qué pasa?
-90	4dd6de47	{fc(ff635b)"Eso"}{fc(57e4f1) llegó volando bajo con un estruendo y aterrizó delante de nosotros.}
-100	5c81469b	¡¿Q-Qué es estooooo?!
-110	c88b12d1	¡Es un cohete! ¡¿Nos vamos a subir a esto?!
+70	b45d7aa2	{fc(cfff3f)*¡Rrrrrrrrr...!*}
+80	11f4bb28	¿Q-Qué...?
+90	4dd6de47	{fc(57e4f1)Ese mismo }{fc(ff635b)algo}{fc(57e4f1) llegó volando bajo con un rugido y descendió frente a nosotros.}
+100	5c81469b	¡C-CARAMBA, HERMANO!
+110	c88b12d1	¡Es un cohete! ¡¿Nos vamos a subir?!
 120	a358402a	
-130	73eb8e67	"Es el medio de transporte para llevarlos al Satélite Artificial..."
-140	1474601f	"Tiene un tratamiento especial para que no lo afecten las Llamas Eternas. Yo también vine en él, cruzando el Muro de Fuego".
+130	73eb8e67	"Este es un medio de transporte para llevarlos al Satélite Artificial..."
+140	1474601f	"Fue tratado especialmente para hacerlo inmune a las Llamas Eternas. Yo misma lo usé para sobrevolar el Muro de Fuego".
 150	3a9a05fd	
-160	8869d812	"Costó mucho fabricarlo, pero, si suben a él, podrán ir al Satélite Artificial".
-170	15d08db6	¡E-Es cierto... si subimos a esto, podemos ir al Satélite Artificial, ¿no?!
-180	d08da9d9	...Así nadie tiene que morir.
+160	8869d812	"Costó mucho esfuerzo construirlo, pero debería bastar para llevarlos al satélite".
+170	15d08db6	¡Entonces, si lo tomamos, de verdad podremos volver a casa...!
+180	d08da9d9	Y no tendremos que morir.
 190	cf202dcc	
-200	6d1107b9	"Vamos, entréguenme lo que hay dentro de la Sala de Defensa..."
+200	6d1107b9	"Ahora, entréguenme lo que hay dentro de la Sala de Defensa..."
 210	90960afd	
-220	fe5dca8d	"Lo que ustedes protegen sin saberlo es algo muy peligroso..."
-230	2c56d549	"Es un arma terrible. Destruiría todo lo que hay en este mundo..."
-240	b4b9cfc5	Destruiría todo lo que hay en este mundo... Así que era como yo pensaba.
+220	fe5dca8d	"Lo que han estado protegiendo sin saberlo es un objeto de gran peligro..."
+230	2c56d549	"Es un arma temible que destruirá la totalidad de este mundo..."
+240	b4b9cfc5	Destruir todo este mundo... Es tal como pensábamos.
 250	f4a72a8b	
 260	95ede773	
-270	2f3052fc	"Aunque ustedes la protejan hasta el final, al final esa arma también los va a matar a ustedes..."
-280	9ca2092a	"Pero ustedes no lo sabían, ¿no? Los engañaron".
-290	d38a686a	Me da rabia, pero es así... ¡Nos engañaron...!
-300	99480163	No tengo nada que decir... ¡nada de nada!
-310	2143c953	Malditos... ¿Qué se creen que son nuestras vidas?
+270	2f3052fc	"Aunque lograran defenderla, al final ustedes también morirían a manos de esa misma arma..."
+280	9ca2092a	"Pero ustedes no tenían ni idea de eso, ¿verdad? Fueron engañados".
+290	d38a686a	Por difícil que sea admitirlo, tienes razón... ¡Nos engañaron...!
+300	99480163	¡No tengo palabras!
+310	2143c953	Malnacidos... Nunca les importó ninguno de nosotros.
 320	a2a90588	
-330	0c99d2cf	"Todavía no es tarde. Todavía están a tiempo".
-340	4f509cf5	"Si sueltan esa arma y se van de esta tierra sin resistirse..."
-350	6837a82e	"ustedes y nosotros podremos sobrevivir. No habrá que seguir con esta lucha inútil..."
-360	5ed5542f	"Por favor. Esta es la última forma de resolverlo en paz".
-370	34727c03	La última... forma de resolverlo en paz...
-380	ff2504aa	No sé... lo que dice esta no tiene nada de malo...
-390	c5dbacb4	Es cierto... al final, nadie quiere pelear sin sentido...
+330	0c99d2cf	"No es demasiado tarde. Todavía hay tiempo".
+340	4f509cf5	"Si sueltan esa arma y abandonan este lugar sin ofrecer resistencia..."
+350	6837a82e	"Todos sobreviviremos. Terminaremos esto sin más batallas sin sentido..."
+360	5ed5542f	"Por favor. Esta es nuestra última solución pacífica".
+370	34727c03	Última... solución pacífica...
+380	ff2504aa	Todo lo que dice tiene toda la razón...
+390	c5dbacb4	Cierto... Nadie aquí quiere peleas temerarias...
 400	f4a72a8b	
 410	1993cc3d	
-420	af5c8f96	"Ya no quiero pelear con ustedes... No busco la guerra..."
+420	af5c8f96	"Ya no deseo pelear con ustedes. No deseo la guerra..."
 430	429d5d4a	"Solo quiero detener esa arma y proteger este mundo".
-440	1268080c	¿Proteger... este mundo?
-450	7e471c7a	Esperen. ¿No es raro? El objetivo de los invasores es hacer avanzar la Muerte del Mundo, ¿no?
-460	a55435ce	Es llevar a cabo el suicidio de la Tierra, ¿no? ¿No será "destruirlo", en lugar de "protegerlo"?
-470	f8c9d808	...¿Un error de traducción de Ima?
-480	860f6ba6	¿Eh? Si me lo dicen así, no estoy tan seguro. Es mi primera vez como intérprete.
-490	04ca63d3	¡Bueno, algún que otro error de traducción puede haber! ¡No me vengan con detallitos!
-500	faf9a256	No creo que sea... un detallito.
-510	490558bc	Para empezar, ¿no será que estaba mal la suposición de que los invasores hacen avanzar la Muerte del Mundo?
-520	b11b352c	Nozomi también estaba cuando pensamos eso; seguro que nos engañó con eso...
-530	60c1e05a	...Para hacernos pelear.
-540	278eaf72	¡Es imposible que ella haga algo así!
-550	85e86bac	De cualquier forma, no parece que tenga intención de pelear, ¿no? Eso parece seguro, ¿no?
-560	75dc9b89	Además, nos mostró su rostro. Y parece que nunca van en contra de Dios...
-570	ca4e6fba	Pero, oigan, hablando así con ella, es bastante distinta de lo que me imaginaba al principio...
-580	5881942d	SIREI decía que los invasores no eran más que monstruos, ¿eh?
-590	4625372d	Ya ven... si hablábamos, podíamos entendernos. Todos quieren la paz.
-600	0553c467	Entonces, ¿cuál era el objetivo de estos?
-610	a36d61c7	¡Eso ya da igual! ¡Más importante, digámosle adiós de una vez a esta academia!
-620	960456b1	¡Yo ya estoy harto! Me trajeron aquí a la fuerza y me obligaron a pelear...
-630	c18222cf	¡Ya estoy harto de todo!
-640	a44fe0cb	Pero... ¿de verdad está bien? ¿Está bien renunciar a la Tierra?
-650	38e3c07e	¡La Tierra da igual! ¡Si aquí ya no queda nadie de la humanidad, ¿no?!
-660	6a030fd7	Yo también... creo que, mientras estemos vivos, da igual dónde vivamos.
-670	5c713a42	Lo importante... es la vida de todos.
-680	db8e6343	Mi vida no vale más que un chicle pegado en la suela de un zapato, pero las vidas de ustedes son otra cosa...
-690	35f04793	Y-Yo... como guerrera, no le doy valor a mi vida, pero... la Espada Sagrada Jumonji... insiste en que quiere vivir...
+440	1268080c	¿Proteger este mundo...?
+450	7e471c7a	Esperen. ¿No hay algo raro? El objetivo de los invasores es hacer avanzar la Muerte del Mundo, ¿no?
+460	a55435ce	Intentan ayudar al mundo a matarse a sí mismo. Quieren destruirlo... no protegerlo.
+470	f8c9d808	Quizás Ima tradujo mal.
+480	860f6ba6	Oye, me estás quitando la confianza. Es mi primera vez trabajando como intérprete.
+490	04ca63d3	¡Es de esperar que haya algún error! ¡No nos aferremos a los detalles mínimos!
+500	faf9a256	No creo que sean tan mínimos...
+510	490558bc	¿Y si nuestra suposición de que los invasores intentaban hacer avanzar la Muerte del Mundo estuvo equivocada desde el principio?
+520	b11b352c	Nozomi estaba presente cuando lo planteamos. Seguramente intentaba confundirnos.
+530	60c1e05a	Ya saben, para motivarnos aún más a pelear.
+540	278eaf72	¡Nozomi no haría algo así!
+550	85e86bac	En todo caso, no parece que este Comandante Supremo quiera pelear... Eso al menos debe de ser verdad.
+560	75dc9b89	También reveló su verdadero rostro. Y parece que nunca desobedecen a su Dios...
+570	ca4e6fba	Además, ahora que le hablamos directamente, mi impresión cambió por completo respecto a la del principio.
+580	5881942d	SIREI siempre decía que los invasores eran simples monstruos. Ahora sabemos que no es así.
+590	4625372d	Sabía que podíamos entendernos si simplemente hablábamos. Todos solo quieren la paz.
+600	0553c467	Entonces, ¿CUÁL es su objetivo?
+610	a36d61c7	¿A quién le importa, hermano? ¡Larguémonos ya de aquí!
+620	960456b1	¡Estoy harto de todo esto! Me trajeron aquí contra mi voluntad y me obligaron a pelear...
+630	c18222cf	¡Estoy harto de todo!
+640	a44fe0cb	Pero... ¿de verdad está bien? ¿De verdad podemos renunciar a la Tierra?
+650	38e3c07e	¿A quién le importa ya la Tierra? ¿Ves algún humano por aquí además de nosotros?
+660	6a030fd7	A mí no me importa dónde viva, mientras signifique seguir con vida.
+670	5c713a42	Nuestras vidas son lo que de verdad importa aquí.
+680	db8e6343	Sé que no soy más que un chicle masticado bajo los talones de todos, pero creo que sus vidas valen algo...
+690	35f04793	Y-Yo... Como guerrera, no le doy demasiado valor a mi vida, pero... la Santa Espada Jumonji... De verdad quiere seguir viviendo...
 700	f4a72a8b	
-710	e37a0b45	Ima, dile... que aceptamos su propuesta.
-720	15ac3681	¡Le damos lo que hay dentro de la Sala de Defensa! ¡Y le damos este planeta! ¡Pero a cambio, nos vamos a quedar con ese cohete!
+710	e37a0b45	Ima, dile que ya decidimos. Dile que aceptamos su oferta.
+720	15ac3681	¡Le daremos lo que haya en la Sala de Defensa! ¡Le daremos el planeta! ¡Con tal de que nos deje usar el cohete a cambio!
 730	9487dc90	Entendido.
-740	963318b4	{fc(57e4f1)Ima se lo transmitió enseguida y ella asintió con una sonrisa amable.}
+740	963318b4	{fc(57e4f1)Ima se lo comunicó de inmediato al Comandante Supremo, quien asintió con una amable sonrisa.}
 750	aeb1838b	
-760	8ea55ea9	"Qué bien, trato hecho... Tomaron la decisión correcta".
+760	8ea55ea9	"Excelente, entonces tenemos un trato. Han tomado la decisión correcta".
 770	f4a72a8b	
-780	6f2b782b	{fc(57e4f1)¿La decisión correcta...? ¿De verdad es así? ¿Está bien esto?}
-790	4615f755	{fc(57e4f1)No lo sé... Pero ya no puedo hacer nada...}
-800	d47ebf4e	{fc(57e4f1)Pero, por lo menos... a Nozomi, que dice que se queda aquí...}
+780	6f2b782b	{fc(57e4f1)¿La decisión correcta? ¿De verdad estamos haciendo lo correcto?}
+790	4615f755	{fc(57e4f1)No lo sé... pero ya está fuera de mis manos.}
+800	d47ebf4e	{fc(57e4f1)Por lo menos... tengo que encontrar la manera de llevar a Nozomi con nosotros.}
 810	bf095dee	
-820	b5c14bcc	"El cohete se maneja con este aparato. Úsenlo como quieran".
-830	396b74b6	{fc(57e4f1)Dicho eso, ella nos lanzó el aparato parecido a un control remoto que tenía en la mano.}
-840	17ab440f	Oigan, esto... ¿de verdad va a volar bien?
-850	d26610e6	En el peor de los casos, aunque falle el lanzamiento, con la armadura de clase no nos vamos a morir...
-860	0924846d	Pero qué final tan fácil. Ya ven, las historias de juegos mortales siempre terminan desinflándose...
-870	d1359263	¡Qué importa que sea emocionante! ¡Yo voy a sobrevivir!
-880	a33835a0	¡Aunque me muera, no voy a dejar que esto termine en un final malo! ¡Aunque nadie lo quiera, lo voy a terminar con un final feliz!
-890	f410eabc	Así es... Retirémonos de una vez...
-900	46acdab3	Ya no tenemos nada que hacer aquí.
-910	3bc39bae	Con esto... se termina, ¿no? La vida en esta academia también... se termina.
-920	9aff1247	Pero, aun así... me siento un poco culpable...
-930	c52e1ec0	...No es culpa nuestra. Es culpa de los que nos obligaban a pelear.
-940	cdb98a95	Cuando vayamos al Satélite Artificial, tenemos que encontrar a esa gente y exigirles que nos digan qué pretendían...
-950	ab0fe0c4	Pase lo que pase... si estamos todos juntos, vamos a estar bien. Seguro que vamos a salir adelante.
+820	b5c14bcc	"Puedes controlar el cohete con esta máquina. Úsenla como gusten".
+830	396b74b6	{fc(57e4f1)Dicho esto, nos lanzó el objeto parecido a un control remoto que tenía en la mano.}
+840	17ab440f	Oigan, hermano, esto... ¿De verdad va a volar?
+850	d26610e6	En el peor de los casos, aunque fallemos el lanzamiento, no deberíamos morir mientras tengamos puesta la armadura de clase...
+860	0924846d	Esta es una solución muy rápida y fácil. ¿Por qué todas las historias de juegos mortales tienen finales tan flojos...?
+870	d1359263	¡¿A quién le importa si el final es emocionante o no?! ¡Vamos a vivir!
+880	a33835a0	¡No aceptaré la idea de un final malo, aunque muramos! ¡Digan lo que digan los demás, tendremos nuestro final feliz!
+890	f410eabc	Así es... Retirémonos de inmediato...
+900	46acdab3	Ya no tenemos nada más que hacer aquí.
+910	3bc39bae	Esto es todo... Nuestros días escolares aquí... se acabaron.
+920	9aff1247	Pero... igual me hace sentir un poco culpable.
+930	c52e1ec0	No es culpa nuestra. Los culpables son quienes nos hicieron pelear.
+940	cdb98a95	Cuando lleguemos al satélite, tenemos que encontrarlos y hacer que nos expliquen por qué nos hicieron esto...
+950	ab0fe0c4	Estoy seguro de que estaremos bien mientras estemos juntos. De algún modo lo lograremos.
 960	f4a72a8b	
-970	ad3b6c99	Bueno, subamos enseguida al cohete.
-980	277841d6	Pero es la primera vez que me subo a un cohete, así que estoy un poco nervioso...
-990	8861c5cc	Si te demoras, te dejamos. ¿O el pobretón piensa ir a pie?
-1000	08f922de	{fc(57e4f1)Todos, con distintas expresiones en la cara... y distintos sentimientos en el pecho...}
-1010	52b4f496	{fc(57e4f1)fueron subiendo al cohete que había preparado la Comandante Suprema.}
-1020	3aa18a16	...Takumi, vamos nosotros también.
+970	ad3b6c99	Bueno, todos a bordo del cohete.
+980	277841d6	Es mi primera vez en uno de estos... Estoy algo nervioso.
+990	8861c5cc	Te dejaremos atrás si te demoras. ¿O piensas ir caminando, pobretón?
+1000	08f922de	{fc(57e4f1)Todos teníamos expresiones distintas y emociones encontradas...}
+1010	52b4f496	{fc(57e4f1)Aun así, todos subieron al cohete que nos había preparado el Comandante Supremo.}
+1020	3aa18a16	Vamos, Takumi. Vámonos.
 1030	f4a72a8b	
-1040	13a359b8	{fc(57e4f1)Mirando la espalda de Eito, que subía al cohete, yo seguía sin poder moverme.}
-1050	533f643f	...Sr. Sumino, ¿qué le pasa? Todos lo están esperando, ¿eh?
-1060	d432fa98	{fc(57e4f1)Enseguida, levanté la voz sin pensarlo.}
-1070	f4798a99	...Espérenme. No puedo irme así como así. Yo a Nozomi...
-1080	c0a537b0	{fc(57e4f1)Fue en ese momento. De repente, empezó.}
+1040	13a359b8	{fc(57e4f1)Vi la espalda de Eito subir al cohete, pero me quedé trabado. Inmovilizado.}
+1050	533f643f	Señor Sumino, ¿qué pasa? Todos lo están esperando.
+1060	d432fa98	{fc(57e4f1)Todavía clavado en el sitio, llamé a mis amigos.}
+1070	f4798a99	¡Esperen! No puedo irme así. Tengo que llevar a Nozomi...
+1080	c0a537b0	{fc(57e4f1)Pero justo entonces, el cohete se puso en marcha...}

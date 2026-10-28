@@ -1,29 +1,29 @@
 id	huella_jp	es
 10	a6313db5	
 20	8016709d	"Me costó mucho fabricar eso..."
-30	e3525ee6	"Nosotros, que tenemos el {fc(ff635b)"poder de Dios"}, no necesitamos armas. Por eso no estamos acostumbrados a fabricarlas..."
-40	d4fbcb76	¡I-Ima! ¡¿Estás bien?!
-50	e7f92b8d	¡Maldición! ¡¡Sáquennos de aquí!!
+30	e3525ee6	"Nosotros tenemos el {fc(ff635b)poder de Dios}. No necesitamos armas. Por eso no estamos acostumbrados a desarrollarlas..."
+40	d4fbcb76	¡I-Ima! ¿Estás bien?
+50	e7f92b8d	¡Sáquennos de esta cosa, maldición!
 60	c68e2b28	
-70	94116e12	"Les agradezco lo tontos que son. No imaginé que iban a entrar tan fácilmente..."
-80	c7e74bd1	¡¿Era... una trampa...?! ¡¿Desde el principio... para engañarnos...?!
-90	abafc7a6	¿P-Por qué...? ¿No querías... evitar la pelea...?
+70	94116e12	"Pero debo agradecerles su credulidad. Jamás imaginé que entrarían ahí tan fácilmente..."
+80	c7e74bd1	Era una trampa... ¡Intentaba engañarnos desde el principio!
+90	abafc7a6	¿P-Por qué? Pensé que el otro bando ya no quería pelear...
 100	33b141df	
-110	9d808011	"¿Cómo iba yo a dejar escapar a un enemigo? Que iban a morir estaba decidido desde el principio..."
-120	aea6fe9e	"Si yo, que soy grandiosa, quiero que mueran... tienen que morir por mí".
-130	fde60878	¡¿Q-Qué es eso...?!
-140	e3ef32ed	¿Y las enseñanzas de Dios...? ¿No eran enseñanzas que no se pueden desobedecer jamás?
-150	bcd3125b	{fc(57e4f1)Cuando Ima, al que ella todavía tenía agarrado de la cabeza, se lo transmitió, ella dijo con un suspiro:}
+110	9d808011	"Jamás dejaría escapar a un enemigo. Su muerte estaba decidida desde el principio..."
+120	aea6fe9e	"Una superior como yo quiere que mueran... así que deben morir por mí".
+130	fde60878	¡¿Qué demonios?!
+140	e3ef32ed	¿Y qué pasó con las enseñanzas de Dios? ¿No decían que los invasores jamás las desobedecían?
+150	bcd3125b	{fc(57e4f1)El Comandante Supremo respondió con un suspiro. Ima, con la cabeza aún entre sus manos, tradujo por ella.}
 160	09802591	
-170	e44526cc	"Es cierto... para nosotros, Dios es absoluto..."
-180	d99691a4	"Las enseñanzas de Dios también son absolutas. Ir contra ellas jamás se perdona..."
-190	6d3ee126	"...Pero yo soy especial. Soy un ser grandioso que va a convertirse en el {fc(ff635b)"nuevo Dios"}".
-200	aef48060	...¿Qué?
+170	e44526cc	"Así es... Para nosotros, Dios es absoluto..."
+180	d99691a4	"Y también lo son sus enseñanzas. Desobedecer las enseñanzas de Dios jamás será permisible".
+190	6d3ee126	"Pero yo soy especial. Soy un ser grandioso que algún día se convertirá en el {fc(ff635b)nuevo Dios}".
+200	aef48060	¿Qué?
 210	d2bf0954	
-220	da276cdb	"El Dios que los demás adoran ciegamente no es más que una vieja ilusión..."
-230	51dcb535	"¡Yo, la grandiosa, voy a convertirme en el {fc(ff635b)"nuevo Dios"} y a terminar con esa vieja ilusión!"
-240	507375ba	"¡Cuando tenga el poder aplastante de esa arma, todos se van a postrar ante mí! ¡Hasta Dios!"
-250	e2f6cdbf	"¡Si yo, la grandiosa, quiero ser Dios! ¡Tengo que ser Dios!"
-260	7bb710af	¡¿Q-Qué está diciendo...?!
+220	da276cdb	"El Dios al que los demás adoran ciegamente no es más que una vieja ilusión desgastada..."
+230	51dcb535	"Yo soy superior. Me convertiré en el {fc(ff635b)nuevo Dios} y pondré fin a esa ilusión obsoleta".
+240	507375ba	"¡Con el poder arrollador de esa arma en mis manos, todos se arrodillarán ante mí! ¡Incluso Dios mismo!"
+250	e2f6cdbf	"¡Mi ser superior ascenderá a la divinidad! ¡Seré la gobernante indiscutible de este planeta!"
+260	7bb710af	¿Q-Qué demonios está diciendo?
 270	0b8fd1d6	
 280	b863b5f0	"Se acabó..."
