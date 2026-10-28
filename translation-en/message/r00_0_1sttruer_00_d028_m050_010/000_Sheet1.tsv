@@ -1,50 +1,50 @@
 id	huella_jp	es
-10	89d3a651	Eh, bueno... Entonces, lo cuento en orden, pero...
-20	3a70a207	{fc(57e4f1)Fue en ese momento. De pronto, una voz alegre resonó en el gimnasio.}
-30	33a579dc	Ya volví, chicos.
-40	257ff880	...¿Eh?
-50	f7a3672d	{fc(57e4f1)En cuanto oí esa voz, el corazón me dio un salto.}
-60	6c117aef	{fc(57e4f1)Porque esa voz se parecía muchísimo... a la de alguien que conozco muy bien.}
-70	4f8cc7e6	{fc(57e4f1)Enseguida miré hacia donde venía la voz. Y entonces...}
-80	4cdb0a53	{fc(57e4f1)en cuanto vi a la dueña de esa voz, el corazón me dio un salto todavía más grande.}
-90	2b14b860	...Perdón por volver tan tarde.
+10	89d3a651	Bueno, es una larga historia. Supongo que todo empezó cuando...
+20	3a70a207	{fc(57e4f1)Pero antes de que pudiera seguir, la puerta del Gimnasio se abrió de golpe y una voz alegre y radiante me interrumpió.}
+30	33a579dc	¡Hola a todos, ya volví!
+40	257ff880	¡¿Eh?!
+50	f7a3672d	{fc(57e4f1)Al oírla, se me tensó todo el cuerpo y el corazón empezó a latirme como loco.}
+60	6c117aef	{fc(57e4f1)Conocía esa voz. Hasta hace poco, la oía casi todos los días.}
+70	4f8cc7e6	{fc(57e4f1)Pero no podía ser... ¿O sí? Tenía que saberlo. Me volví hacia la puerta.}
+80	4cdb0a53	{fc(57e4f1)Cuando vi quién acababa de entrar, mi corazón latió aún más rápido, tan rápido que pensé que se me saldría del pecho.}
+90	2b14b860	Perdón por tardar tanto. Espero no haberlos preocupado.
 100	f4a72a8b	
-110	166a0819	¡¿Otra vez salió a explorar sola?! ¡Con lo mucho que le dijimos que es peligroso!
-120	71fdf2d5	Perdón... es que pensé que quizás encontraba alguna pista, aunque fuera pequeña.
-130	1982cfaf	Todavía... no me rindo. Con Moko...
+110	166a0819	¡Claro que nos preocupamos! ¿Cuántas veces te hemos dicho que no te aventures más allá de la escuela sin escolta?
+120	71fdf2d5	Lo siento... Pensé que quizás podría encontrar alguna pista, por pequeña que fuera.
+130	1982cfaf	No he renunciado a Moko todavía. Tiene que estar por ahí en algún lado...
 140	f4a72a8b	
-150	2f277dab	...¡Ay, qué susto! ¡Por fin despertaste!
-160	1d259a4b	Qué bueno, ¿ya estás bien? Como no te despertabas, estaba preocupada, ¿sabes?
+150	2f277dab	¡Ah, eres tú! ¡Vaya, por fin despertaste!
+160	1d259a4b	¿Te sientes mejor? Hemos hecho todo lo posible por cuidarte, pero empezaba a parecer que nunca recobrarías el sentido.
 170	f4a72a8b	
-180	33bff50c	...¿Takumi? ¿Qué te pasa?
-190	4d577bfb	K-Karua...
-200	2efea63d	{fc(57e4f1)Al mismo tiempo que murmuraba ese nombre, ya estaba corriendo hacia ella.}
-210	25caff3f	...¡¿Eh?!
+180	33bff50c	Eh... ¿Takumi? ¿Te pasa algo?
+190	4d577bfb	
+200	2efea63d	{fc(57e4f1)En cuanto dije su nombre, se rompió el dique. Ya no pude contenerme.}
+210	25caff3f	¡Ay...!
 220	63a5fc8e	¡Karua! ¡Estás bien!
-230	7333aef2	¡¿Qué haces en un lugar así?! ¡¿No me digas que a ti también te obligan a pelear aquí?!
-240	e313ddd3	¡O-Oye, espera!
-250	0b70b6d9	¿Q-Qué le pasa...? ¿Qué hace de repente...?
-260	257ff880	...¿Eh?
-270	7bf580dc	¿Q-Qué estás diciendo? ¿Qué te pasa, Karua...?
-280	f0210aac	P-Por eso... esa Karua...
-290	37bbbf10	...¿quién es?
+230	7333aef2	¿Qué haces aquí? ¡¿No te habrán estado obligando a pelear a ti también?!
+240	e313ddd3	¡S-Suéltame!
+250	0b70b6d9	¿Qué crees que haces, agarrándome la mano así?
+260	257ff880	¡¿Eh?!
+270	7bf580dc	¡¿Eh?! ¿Q-Q-Qué quieres decir? ¿Cuál es el problema? Solo estoy... solo estoy tan feliz de verte, Karua...
+280	f0210aac	¿Y por qué sigues llamándome Karua?
+290	37bbbf10	No tengo idea de quién es.
 300	f4a72a8b	
-310	aef48060	...¿Qué?
-320	ced32a96	Eh... creo que me confunde con otra persona. Yo no me llamo Karua...
-330	a0513b44	...Me llamo Nozomi Kirifuji. Ese es mi nombre.
-340	555e87c3	{fc(57e4f1)¿Nozomi Kirifuji...? ¿No es... Karua?}
-350	ef97608b	{fc(57e4f1)...¿Otra persona? ¿Me confundí?}
-360	69bea68a	¡N-No! ¡¿Qué estás diciendo?! ¡Si eres Karua se te mire por donde se te mire!
-370	bbd2510a	El peinado es un poco distinto, pero... ¡la voz también es igual! ¡¿Cómo te voy a confundir con otra persona?!
-380	834166ea	¡Oye, Karua...! Si estás bromeando, ya basta con...
-390	d250d800	{fc(57e4f1)Como para cortarme la palabra, me pusieron una hoja plateada contra el cuello.}
-400	3beeed5a	...Alto ahí.
+310	aef48060	¿Q-Qué...?
+320	ced32a96	Y-Yo... creo que me confundes con otra persona. No soy esa tal Karua de la que hablas.
+330	a0513b44	Me llamo Nozomi Kirifuji. ¿Ves? Ni siquiera nuestros nombres se parecen.
+340	555e87c3	{fc(57e4f1)¿Nozomi...? ¿No es Karua...?}
+350	ef97608b	{fc(57e4f1)¿Me equivoqué...?}
+360	69bea68a	¡No, eso no puede ser! ¡Eres idéntica a ella!
+370	bbd2510a	Tu peinado es un poco distinto, pero tu voz es exactamente como la recuerdo... ¿Cómo dos personas sin ninguna relación pueden ser tan parecidas? ¡Eres Karua!
+380	834166ea	Ya deja de bromear. Me atrapaste, ¿okey? Ya te divertiste, así que por favor...
+390	d250d800	{fc(57e4f1)Antes de que pudiera decir más, resonó un sonido metálico y, de pronto, alguien me apoyaba una hoja contra la garganta.}
+400	3beeed5a	Alto, señor Takumi.
 410	accf34ee	¡Ugh...!
-420	530616b5	Mi Espada Sagrada Jumonji es una espada con voluntad de justicia que se alimenta de la sangre del mal...
-430	1b0d6ec5	Por lo tanto, quien blande esta espada no soy yo, sino la espada misma.
-440	88821f9f	...Así que le pregunto a mi Espada Sagrada Jumonji: ¿este sujeto es malvado?
-450	60eb0396	Es malvado. Acaba con él.
-460	2472bc76	"¿Nos conocemos, no?" es la técnica de los cazatalentos estafadores. Esos desgraciados que se paran frente a la estación con ropa de marca.
+420	530616b5	Le advierto: mi Espada Sagrada Jumonji es una hoja sagrada que busca activamente la sangre de los malvados.
+430	1b0d6ec5	No soy yo quien decide a quién corta con ella. La espada tiene voluntad propia.
+440	88821f9f	Por lo tanto, te pregunto, Espada Sagrada Jumonji... ¿Es este joven nuestro próximo objetivo? ¿Posee un corazón malvado?
+450	60eb0396	Oh, por supuesto que sí. ¡El más malvado!
+460	2472bc76	¿No nos hemos visto antes? ¡La frase de ligue más vieja del libro! He visto a estafadores de traje barato engañar así a un montón de víctimas desprevenidas.
 470	334c68cf	¡Y encima agarrarle la mano a una chica de golpe es lo peor! ¡Seguro que le untó sus jugos!
 480	6b57da40	¡¿Q-Qué jugos?!
 490	327be90f	¡Este tipo es un yokai untajugos! ¡Yo te doy permiso, córtale la cabeza!
