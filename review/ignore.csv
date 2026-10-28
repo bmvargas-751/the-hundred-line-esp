@@ -492,3 +492,9 @@ peninsular,message/r00_0_1sttruer_00_d015_m120_030/000_Sheet1#230,"vale la pena"
 peninsular,message/r00_0_1sttruer_00_d015_m040_010/000_Sheet1#260,"vale la pena" / "más vale": locución correcta
 peninsular,message/r00_0_1sttruer_00_d015_m040_010/000_Sheet1#380,"vale la pena" / "más vale": locución correcta
 peninsular,message/r00_0_1sttruer_00_d015_m060_010/000_Sheet1#140,"vale la pena" / "más vale": locución correcta
+peninsular,message/r00_0_1sttruer_00_d028_m080_010/000_Sheet1#360,falso positivo: palabra correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d028_m120_010/000_Sheet1#70,falso positivo: palabra correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d028_m190_020/000_Sheet1#50,falso positivo: palabra correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d029_m050_010/000_Sheet1#40,falso positivo: palabra correcta en español neutro
+vosotros,message/r00_0_1sttruer_00_d028_m140_040/000_Sheet1#30,falso positivo: palabra correcta en español neutro
+vosotros,message/r00_0_1sttruer_00_d029_m040_040/000_Sheet1#80,falso positivo: palabra correcta en español neutro
