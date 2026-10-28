@@ -166,6 +166,8 @@ def check_line(r):
     if SPACING.search(visible(es)) and not SPACING.search(visible(en)):
         out.append(("espacios", "espacios o puntos de más"))
     for en_rx, rx, fix in TERMS:
+        if td.VERSION == "en" and fix == "Reina + nombre":  # el doblaje inglés dice Mistress: Ama Hiruko
+            continue
         m = en_rx.search(en) and rx.search(es)
         if m:
             out.append(("glosario", f"'{m.group(0)}' -> {fix}"))
