@@ -1,83 +1,83 @@
 id	huella_jp	es
-10	e3a381f7	{fc(57e4f1)¡¿Q-Qué es eso...?!}
-20	1a606b72	{fc(57e4f1)¡¿E-Está quemado?! ¡¿Qué pasó?! ¡¿Se quemó algo?!}
-30	9b49480b	¡Ay, no puede ser! ¡¿Qué está pasando?!
-40	dc785ba1	¡Si cuando limpié después de la barbacoa revisé bien que no quedara nada encendido!
-50	e89c809a	¿No se le habrá pasado algo?
-60	996496ff	¡Para nada! ¡Revisar el fuego es lo básico del personal de cocina! ¡¿Cómo me voy a equivocar yo, el maestro de los trabajos de medio tiempo?!
-70	d500f660	O-Oigan... ¿qué pasa? ¿Qué pasó?
-80	cc9f9cd7	No, es que...
-90	07ac1e5c	...Se quemó. Toda la comida que estaba guardada en el refrigerador... toda.
-100	4cce4e09	¡¿T-Toda?!
-110	8f5e6652	Parece que el incendio en sí lo apagaron los rociadores, pero la comida de adentro no se salvó... se quemó toda.
-120	cb3cfd01	O sea que...
-130	78b0d6cb	Vamos a tener que pasar los más de 70 días que quedan sin comida.
-140	a6e78f03	¡¿Cómo vamos a hacerlo?! ¡Antes de eso nos morimos todos de hambre!
-150	0aadfd5c	Pero Darumi y los demás somos inmortales, ¿no? No nos vamos a morir de hambre, ¿o sí?
-160	3572a2cc	¡Ah, claro! ¡Vamos a morirnos y revivir una y otra vez muertos de hambre!
-170	98f80f93	Eso suena peor que morirse sin más...
-180	e6cfe697	Pero... ¿por qué hubo un incendio? Y encima, adentro del refrigerador...
-190	571b7f56	No sabemos la causa, pero parece que se quemó ayer, mientras dormíamos...
-200	8034ddb7	...Es cierto, eso también es raro. Que todos hayamos dormido un día entero...
-210	6303f8d5	No fuimos {fc(ff635b)"todos"}... Shouma estaba despierto, ¿no?
-220	adbce23f	Ah, sí. Es cierto... Pero no me di cuenta del incendio.
-230	934ff24d	...¡¿Y no habrás sido tú?! ¡¿No le prendiste fuego al refrigerador?!
+10	e3a381f7	{fc(57e4f1)Espera, eso es...}
+20	1a606b72	{fc(57e4f1)Huele a quemado... ¡¿Y por qué está el refrigerador cubierto de ceniza?!}
+30	9b49480b	¡No puede ser, no puede ser! ¡No lo creo!
+40	dc785ba1	¡Revisé que las brasas se hubieran apagado antes de guardar la parrilla! ¡No hay manera de que se hayan vuelto a encender!
+50	e89c809a	A mí me parece que no revisó con suficiente cuidado.
+60	996496ff	¡La seguridad contra incendios es la prioridad de todo el personal de cocina! Me lo grabaron en todos los lugares donde he trabajado, ¡hasta en los antros!
+70	d500f660	Oigan... ¿Qué tan grave es el daño? ¿Cuánto perdimos?
+80	cc9f9cd7	No son buenas noticias...
+90	07ac1e5c	Lo perdimos todo. Cada pizca de comida que teníamos guardada ha quedado carbonizada.
+100	4cce4e09	¡¿Todo?!
+110	8f5e6652	Gracias a los rociadores, el fuego no se propagó, pero empezó dentro del refrigerador... No hay nada que salvar.
+120	cb3cfd01	Entonces...
+130	78b0d6cb	Tendremos que pasar los próximos 76 días sin comida. Qué inconveniente.
+140	a6e78f03	¿Inconveniente? ¡Vamos a morir todos de hambre!
+150	0aadfd5c	Pero somos inmortales aquí, ¿recuerdan? La muerte no tiene dominio sobre nosotros.
+160	3572a2cc	Podemos seguir muriendo de hambre y volver una y otra vez. ¡No hace falta comida!
+170	98f80f93	Eso es un destino peor que la muerte...
+180	e6cfe697	Más importante, ¿cómo empezó este incendio? ¿Dentro del refrigerador, de todos los lugares?
+190	571b7f56	Aún no lo hemos averiguado. Parece que ocurrió ayer, mientras todos dormíamos.
+200	8034ddb7	Eso ya es raro de por sí, ¿no? ¿Cómo pudimos dormir todos el día entero?
+210	6303f8d5	No {fc(ff635b)todos}... Shouma, TÚ estabas despierto ayer.
+220	adbce23f	S-Sí, lo estaba. Pero no noté ningún humo, ni fuego...
+230	934ff24d	No me refiero a eso. Digo que fuiste tú quien hizo esto.
 240	57c811bd	¿Eh...?
-250	a471e17c	¿Que Shouma provocó el incendio? ¡Eso no puede ser! ¿Para qué haría algo así?
-260	e6b8c009	...El que le prendió fuego también se quedaría sin comida.
-270	0050fbca	B-Bueno... no sé para qué, pero...
-280	54a15d34	¡¿Pero Ginzaki era el único que podía moverse libremente, no?! ¡Entonces se puede pensar que fue él!
-290	6cb4aee1	Es cierto... Soy una basura despreciable con cara de ladrón; con esta situación, es normal que sospechen de mí...
-300	83ecb186	...De acuerdo. Digamos que yo provoqué el incendio. Acepto cualquier castigo.
-310	9dd5dc19	No, no se trata de eso... Así no se resuelve nada.
-320	76108f74	Para empezar, ¿por qué el Sr. Ginzaki fue el único que pudo despertarse?
-330	e61c153f	En la barbacoa... fue el único que no comió... a lo mejor por eso.
-340	257ff880	...¿Eh?
-350	a99e8cbc	No sé si en la comida o en la bebida... pero ¿no les habrán puesto somníferos... algún medicamento para dormir?
-360	a7318ead	Si se quedaron dormidos todos juntos... creo que es posible...
-370	aed9b071	¿Somníferos...? ¿Y por qué habría algo así?
+250	a471e17c	¡Shouma no haría eso! ¿Cuál sería el sentido?
+260	e6b8c009	Sí, se estaría perjudicando tanto como el resto de nosotros.
+270	0050fbca	B-Bueno, quizás todavía no sepa su motivo...
+280	54a15d34	¡Pero no puedes negar que tuvo la oportunidad! ¡Era el único que pudo haberlo hecho!
+290	6cb4aee1	Gaku tiene razón... No puedo evitar atraer desdén y sospecha dondequiera que voy, así que es natural que me acusen...
+300	83ecb186	No me importa que me consideren el culpable. Aceptaré cualquier castigo que quieran darme.
+310	9dd5dc19	No puedes asumir la culpa cuando no lo hiciste. Así no resolveremos nada.
+320	76108f74	¿Quizás deberíamos considerar POR QUÉ el señor Ginzaki fue el único despierto ayer?
+330	e61c153f	Fue el único que no comió nada en la barbacoa... Quizás eso tenga algo que ver.
+340	257ff880	¿Eh...?
+350	a99e8cbc	Podría haber sido la comida o la bebida. Pero si alguien le puso algún tipo de sedante...
+360	a7318ead	Eso explicaría por qué todos dormimos tanto y Shouma no.
+370	aed9b071	¿De dónde sacaría alguno de nosotros sedantes siquiera?
 380	f4a72a8b	
 390	f4a72a8b	
-400	5cf283ff	...¿Quién sabe?
-410	5d166858	¡¿O sea que alguien puso somníferos en la comida?!
+400	5cf283ff	¿Quién sabe?
+410	5d166858	¿De verdad crees que alguien puso algo en nuestra comida?
 420	f4a72a8b	
 430	f4a72a8b	
-440	5cf283ff	...¿Quién sabe?
-450	7502c5ae	¡Gaku! ¡¿Fuiste tú, no?! ¡Tú, que estabas a cargo de cocinar, le metiste somníferos!
-460	53cb05f4	¡N-No haría algo así! ¡¿Además, para qué haría eso?!
-470	3bb163ac	A lo mejor... ya había ingredientes con somníferos preparados desde antes.
-480	a6b4550c	...¿Ingredientes con somníferos?
-490	92ff5c26	Los preparó SIREI... Así, si había algún integrante rebelde... podía dormirlo.
-500	efacf62b	¡Eso! ¡Eso es! ¡Si SIREI pensaba usarlos así, tiene sentido!
-510	5cb2626e	¡Nosotros comimos esos ingredientes sin saberlo, y por eso nos quedamos dormidos!
-520	8b45ddd8	Entonces... ¿por qué hubo un incendio?
-530	0874cafe	¡Yo apagué bien el fuego! ¡De eso no hay duda!
-540	7b9116df	Entonces, ¿al final alguien le prendió fuego?
-550	a6eb3441	No. No creo que haya sido alguno de nosotros. Quedarse sin comida nos perjudica a todos por igual.
-560	59659c91	¿Eeeh? ¿Tú crees? Fue alguno de los que están aquí.
-570	a51e5730	¡¡Lo de SIREI destruido, la desaparición de la Reina Hiruko y este lío, todo es obra de alguno de los que están aquí!!
-580	de681ca6	¡No eches leña al fuego de la desconfianza! ¡¿Solo quieres que esto parezca un juego mortal, no?!
-590	1cb722dc	¡Ah! ¡¿Me descubriste?!
-600	74680239	Pero si no fue un accidente ni obra de alguien, ¿no será de los invasores...?
-610	674377a2	{fc(57e4f1)Espera. ¿Será que...?}
-620	cd224ed8	Como sea, más que discutir la causa del incendio, ¿no hay algo que deberíamos hacer primero?
-630	257ff880	...¿Eh?
-640	965db47b	Primero tenemos que resolver lo de nuestra comida.
-650	76fe2c2a	¡Que cada uno traiga una parte de su cuerpo y nos la comemos!
-660	2aae1350	No... me refiero a conseguir comida. Dentro del muro de fuego, por supuesto, pero...
-670	02a18129	repartámonos y busquemos también fuera del muro de fuego. En la ciudad en ruinas quizás haya aunque sea comida enlatada, ¿no?
-680	9b3990b7	...Es cierto. No queda otra que repartirnos y buscar algo que se pueda comer.
-690	3994550c	¿Y los invasores no se pueden comer?
-700	bf8dfe9b	¡Qué asco! ¡No pienso comer eso nunca!
-710	dac95a54	...Ima, Kako y Shouma, ustedes encárguense de dentro del muro. Como no pueden pelear, no pueden salir.
-720	e54f5f8e	E-Está bien...
-730	48931017	Seguro que... no voy a servir de mucho, así que no esperen nada de mí...
-740	dc9ea5ab	Los demás, dividámonos en dos grupos y salgamos a explorar fuera del muro de fuego.
-750	6a53e3a0	Takumi... ¿puedes ir con Tsubasa y Gaku? Yo voy con Takemaru y Darumi.
-760	2d6f599e	Sí... de acuerdo.
-770	55f55bd9	{fc(57e4f1)En momentos así, da confianza tener a alguien que decida rápido. La verdad, creo que este sirve para líder.}
-780	ab0f15da	Bueno, salgamos ya.
-790	93367abe	¡C-Claro...! ¡Hay que encontrar algo de comer como sea...!
-800	b07633e4	Tranquilo. Afuera hay tiradas más cosas de las que crees; seguro que encontramos algo.
-810	c25404f4	¡Ustedes, a buscar con todo! ¡En marcha, carajo!
-820	4ba6dc0c	{fc(57e4f1)Y salimos corriendo hacia el vestíbulo.}
+440	5cf283ff	Quizás.
+450	7502c5ae	Muy bien, Gaku, confiesa. Tú preparaste la comida. ¿Le añadiste algún "ingrediente secreto" a ese marinado especial tuyo?
+460	53cb05f4	¡E-Eh, yo no haría eso! ¿Cuál sería el sentido? ¡No puedes acusar a alguien sin dar un motivo!
+470	3bb163ac	Quizás... lo hiciste sin saberlo. Los sedantes podrían haber estado en los ingredientes desde el principio.
+480	a6b4550c	¿Por qué habría drogas en nuestra comida?
+490	92ff5c26	SIREI pudo haberlos puesto ahí, por si alguien se salía de la línea y necesitaba una forma de someterlo.
+500	efacf62b	¡Sí, eso tiene que ser! Suena justo a lo que él haría.
+510	5cb2626e	Comimos eso sin saber que estaba drogado, y así nos durmieron. ¡Me alegra que estemos todos de acuerdo! ¡Caso cerrado!
+520	8b45ddd8	Entonces, ¿cómo explicas el incendio?
+530	0874cafe	Sé que no fue mi parrilla la que lo causó. ¡Eso es lo único de lo que estoy 100 % seguro!
+540	7b9116df	En ese caso, alguien debió de provocarlo a propósito.
+550	a6eb3441	Estoy de acuerdo... Pero no creo que ninguno de nosotros sea responsable. No cuando la falta de comida también perjudicaría al culpable.
+560	59659c91	¿Estás seguro de eso? No olvides que aquí hay alguien que ya ha hecho muchas cosas autodestructivas.
+570	a51e5730	El desgraciado que liquidó a SIREI y desapareció al Ama Hiruko obviamente no se preocupaba por las consecuencias. ¡Quienquiera que sea, también pudo haber hecho esto!
+580	de681ca6	Tú no crees eso. ¡Solo intentas volver paranoicos a todos y hacer que esto se parezca más a una de tus enfermas fantasías de juego de matanza!
+590	1cb722dc	¡Eh...! ¿L-Lo notaste?
+600	74680239	Si no fue un accidente ni uno de nosotros, eso deja solo a los invasores...
+610	674377a2	{fc(57e4f1)Espera... ¿Podría ser eso?}
+620	cd224ed8	Dejemos esta discusión por ahora. Tenemos cosas más importantes que hacer.
+630	257ff880	¿Ah, sí?
+640	965db47b	Sí. Como seguir vivos ahora que la comida se acabó.
+650	76fe2c2a	Ya lo oyeron. ¡Que cada uno se corte una pierna y a comer!
+660	2aae1350	*suspiro* Me refiero a que debemos encontrar fuentes de comida de reemplazo. Algunos podemos registrar la escuela...
+670	02a18129	Pero también quiero que formemos equipos para buscar más allá del muro. Quizás encontremos latas de conserva o algo en las ruinas de la ciudad.
+680	9b3990b7	¿Sabes qué? No es mala idea. Seguro que hay algo comestible allá afuera.
+690	3994550c	¿Se pueden comer los invasores? ¿Ustedes qué creen?
+700	bf8dfe9b	¡Puaj, qué asco! ¡Prefiero morir de hambre antes que comer esas cosas!
+710	dac95a54	Ima, Kako y Shouma, quiero que se queden en los terrenos de la escuela. No podemos arriesgarnos a que los ataquen si no pueden defenderse.
+720	e54f5f8e	Está bien...
+730	48931017	De acuerdo, pero no esperen mucho de mí. Me cuesta hasta encontrar mis zapatos por la mañana. Y duermo con ellos puestos.
+740	dc9ea5ab	El resto nos dividiremos en dos grupos y registraremos la zona fuera del Muro de Fuego.
+750	6a53e3a0	Takumi, ¿puedo pedirte que vayas con Tsubasa y Gaku? Takemaru, Darumi y yo iremos por el otro lado.
+760	2d6f599e	Claro, me parece bien.
+770	55f55bd9	{fc(57e4f1)Actuó con decisión y organizó a todos en pocos minutos. Eito de verdad sería un buen líder.}
+780	ab0f15da	Si todos están listos, deberíamos empezar de inmediato.
+790	93367abe	S-Sí, ¡hagámoslo! Ay, hombre, todo se acaba si no encontramos nada...
+800	b07633e4	Tranquilo. Hay de todo en esas ruinas, seguro que damos con algo útil.
+810	c25404f4	Muy bien, pongámonos en marcha. ¡Adelante!
+820	4ba6dc0c	{fc(57e4f1)Corrimos hacia el vestíbulo.}
