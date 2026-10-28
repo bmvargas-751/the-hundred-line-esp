@@ -2,7 +2,7 @@
 
 Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, hecha desde el japonés original, con el inglés oficial como apoyo y un glosario propio.
 
-> **Versión 0.1, en revisión.** Todo el texto está traducido, pero falta la revisión final y probarlo entero en el juego. Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
+> **Versión 0.3.0, en revisión.** La versión para el doblaje japonés está completa. La del doblaje inglés está en curso: ya cubre la primera partida (Días 0 a 100). Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
 > Es un proyecto de fans, sin relación con los creadores ni los editores del juego. **No incluye el juego ni sus archivos**: necesitas tu propia copia en Steam.
 
 ## Avance
@@ -19,6 +19,8 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 | | **Total** | **140.590** | **140.590** | **100,0 %** |
 <!-- /progress -->
 
+**Doblaje inglés (en curso):** la tabla de arriba es la del doblaje japonés. En el doblaje inglés está revisada la primera partida completa (Días 0 a 100); el resto sigue con el texto del doblaje japonés, que se revisa contra el inglés ruta por ruta.
+
 ## Instalar
 
 La traducción reemplaza el idioma **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras. También ajusta las fuentes del menú para que las letras con tilde, la ñ y los signos ¿ ¡ tengan el mismo ancho que las demás.
@@ -34,7 +36,7 @@ Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada
    - Linux: **`instalar.sh`**. En Steam Deck, en modo escritorio: clic derecho en `instalar.sh` > *Ejecutar en terminal* (o `./instalar.sh` desde una terminal).
    El instalador te pregunta **con qué doblaje vas a jugar**:
    - **Doblaje japonés**: los subtítulos siguen el texto en japonés (la traducción actual).
-   - **Doblaje inglés**: los subtítulos siguen el texto en inglés, para que coincidan con la voz. *En preparación: por ahora es igual a la del doblaje japonés.*
+   - **Doblaje inglés**: los subtítulos siguen el texto en inglés, para que coincidan con la voz. *En preparación: la primera partida (Días 0 a 100) ya sigue al inglés; el resto todavía es igual a la del doblaje japonés.*
    Puedes cambiar de versión volviendo a ejecutar el instalador.
 4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
 
