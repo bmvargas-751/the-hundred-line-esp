@@ -1,32 +1,32 @@
 id	huella_jp	es
 10	51476c67	Uf...
-20	7af6a3f4	Quién iba a pensar... que Kawana tenía un problema así...
-30	7ada35d3	{fc(57e4f1)Un cuerpo que vomita cuando se pone nerviosa...}
-40	e5678d74	{fc(57e4f1)Es cierto que pelear vomitando es imposible. No es raro que Kawana se niegue a luchar...}
-50	08bd6fd0	Pero, visto al revés... si supera eso, quizá Kawana pueda luchar...
-60	f794cc6f	{fc(57e4f1)No parece que no tenga ganas de luchar; solo falta encontrar la forma de resolver lo del vómito...}
-70	8fafb5d0	Pero ¿resolverlo... cómo? El vómito... el vómito...
-80	874a3d83	¿V-Vómito...?
-90	f8a3b372	¡¿Eito... estabas ahí?!
-100	a4cb29fe	S-Sí... vine a ver cómo iba, por si podía ayudar en algo...
-110	ae9e0289	...¿Y eso del vómito?
+20	7af6a3f4	Es duro vivir con eso...
+30	7ada35d3	{fc(57e4f1)Vomita cada vez que se pone nerviosa...}
+40	e5678d74	{fc(57e4f1)Tiene razón en que no podrá pelear si está vomitando constantemente. No puedo culparla por negarse.}
+50	08bd6fd0	Pero hay una posibilidad de que pelee si logra superar este problema.
+60	f794cc6f	{fc(57e4f1)No parecía que no quisiera pelear. Si tan solo encontrara una forma de suprimir sus náuseas...}
+70	8fafb5d0	¿Pero cómo...? Vomitar es...
+80	874a3d83	¿V-Vomitar...?
+90	f8a3b372	¡Eito! ¿Cuánto tiempo llevas ahí?
+100	a4cb29fe	Acabo de pasar a ver si podía ayudar en algo.
+110	ae9e0289	¿Entonces de qué se trata eso de vomitar?
 120	f4a72a8b	
-130	1643f32c	{fc(57e4f1)No quiero andar contando los secretos del cuerpo de otra persona, pero...}
-140	9d95d1f3	{fc(57e4f1)...solo no creo que pueda resolverlo. Voy a consultarlo con él.}
-150	1bf42420	Aotsuki, esto es un secreto, pero...
-160	f067540c	{fc(57e4f1)Y le conté a Eito lo del vómito de Tsubasa.}
-170	2036c426	Ya veo... vomita cuando se pone nerviosa... Por eso estaba sufriendo Tsubasa.
-180	04763be5	Sí, quiero ayudarla de alguna forma, pero no sé qué hacer...
-190	8ef877bc	Pero ella ya probó de todo hasta ahora y las náuseas no se le quitaron, ¿no?
-200	73556209	Entonces... ¿no es más rápido pensar soluciones dando por hecho que va a vomitar?
-210	f99ad11d	¿Dando por hecho que va a vomitar...?
-220	c263b86e	Por ejemplo, que lleve una bolsa para el mareo, ¿no? Y de las buenas.
-230	2372ac5c	¿Una bolsa para el mareo...? ¿Esas que hay en los asientos de los autobuses?
-240	25392185	Es cierto que, con esa bolsa para cuando haga falta, ya no habría que preocuparse de que vomite por todos lados...
-250	877ed7c9	Pero ¿aquí hay bolsas para el mareo? Y encima de las buenas...
-260	87fb686f	...Entonces, ¿no serviría eso? El {fc(ff635b)"Gift-O-Matic"} que había en la sala de recreo.
-270	cafe6cf9	¿Ese... Gift-O-Matic?
-280	0db2aea6	¡Sí! ¡Si aquí no hay, la creamos!
-290	fcaf9f15	Con el Gift-O-Matic de la sala de recreo parece que se puede crear casi cualquier cosa.
-300	d4d08306	Ya veo... quizá valga la pena averiguarlo...
-310	3e697ac4	{fc(57e4f1)Enseguida fui con Aotsuki a la sala de recreo y buscamos en las recetas del Gift-O-Matic...}
+130	1643f32c	{fc(57e4f1)Odio andar divulgando los problemas de salud personales de alguien.}
+140	9d95d1f3	{fc(57e4f1)Pero esto no parece algo que pueda resolver solo. Quizás pueda pedirle consejo.}
+150	1bf42420	Muy bien, pero que quede entre nosotros...
+160	f067540c	{fc(57e4f1)Le conté a Eito sobre la tendencia de Tsubasa a vomitar.}
+170	2036c426	Ya veo, así que eso es con lo que ha estado lidiando. Suena duro.
+180	04763be5	Sí, quiero ayudarla, pero no sé cómo.
+190	8ef877bc	No ha encontrado un remedio eficaz por su cuenta, ¿verdad?
+200	73556209	En ese caso, quizás sea mejor que asumamos que va a vomitar y planeemos en torno a eso.
+210	f99ad11d	¿A qué te refieres?
+220	c263b86e	Por ejemplo, que lleve una bolsa para el mareo de buena calidad o algo así.
+230	2372ac5c	¿Una bolsa para el mareo...? ¿Como las bolsas que hay en los autobuses?
+240	25392185	Supongo que si usara la bolsa cuando le hiciera falta, no tendría que preocuparse de vomitar por todas partes.
+250	877ed7c9	Pero ¿siquiera tienen bolsas para el mareo aquí? Y de buena calidad, además.
+260	87fb686f	¿Qué tal usar ese {fc(ff635b)Gift-O-Matic} de la Sala de Recreo?
+270	cafe6cf9	¿El Gift-O-Matic?
+280	0db2aea6	¡Sí! Si aquí no tienen, ¡solo hay que fabricarlas!
+290	fcaf9f15	Parece que puede hacer casi cualquier cosa.
+300	d4d08306	Vale la pena investigarlo.
+310	3e697ac4	{fc(57e4f1)Fuimos juntos a la Sala de Recreo a revisar el Gift-O-Matic.}
