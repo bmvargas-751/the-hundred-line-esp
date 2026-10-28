@@ -1,9 +1,9 @@
 id	huella_jp	es
-10	268b837a	{fc(57e4f1)La alcancé detrás del edificio, el lugar de siempre.\nShizuhara se detuvo allí, se dio vuelta y gritó:}
+10	268b837a	{fc(57e4f1)La alcancé detrás del edificio, el lugar de siempre.\nHiruko se detuvo allí, se dio vuelta y gritó:}
 20	9d70af5f	¡¿Por qué...!\n¡¿Por qué tiene que acabar así...?!
 30	a29fc238	¡Habíamos llegado tan bien hasta aquí...!\n¡Estamos vivos los 17...!
 40	2bda6ba6	¡Y aun así... por qué...!
-50	c10c83df	{fc(57e4f1)A Shizuhara se le llenaron los ojos de lágrimas.\nUna cayó rodando.}
+50	c10c83df	{fc(57e4f1)A Hiruko se le llenaron los ojos de lágrimas.\nUna cayó rodando.}
 60	4aae50f1	Entonces esto es una maldición...\nEl ciclo maldito...
 70	afbfad9b	Nosotros, para siempre, de este bucle infinito...
 80	81e44bea	¡No!
@@ -13,9 +13,9 @@ id	huella_jp	es
 120	c8f80c09	¡Porque lo prometí!
 130	01efcf60	¡Que esta TL sería la última...!\n¡Que no repetiríamos más el bucle...!
 140	82372844	¡Hoy es el día 100... todos están vivos!\n¡Solo falta construir el futuro!
-150	56292d5c	¡Un futuro en que todos podamos reír...!\n¡Contigo, Shizuhara...!
-160	d7e4db31	Sumino...
-170	165edcc2	{fc(57e4f1)Quizás mi ímpetu la intimidó:\nsin darme cuenta, las lágrimas de Shizuhara habían cesado.}
+150	56292d5c	¡Un futuro en que todos podamos reír...!\n¡Contigo, Hiruko...!
+160	d7e4db31	
+170	165edcc2	{fc(57e4f1)Quizás mi ímpetu la intimidó:\nsin darme cuenta, las lágrimas de Hiruko habían cesado.}
 180	5f5ab7eb	Sí, es verdad... lo que dices es correcto...\nYo también quisiera pensar así...
 190	5f2d7976	Pero mira la realidad, estamos acorralados...\nYa no podemos avanzar a ningún lado...
 200	2fa488cd	Como si nos rodearan...\nunos bloques altísimos...
@@ -33,7 +33,7 @@ id	huella_jp	es
 320	94d9a28a	Pero el aparato de PL de esa TL tiene un bloqueo...
 330	952fd1da	Ah... ese {fc(ff635b)"bloqueo"}... ¿acaso...?
 340	fe639c74	Sí, con eso me acordé.\nDe eso que tú dijiste...
-350	bc009f29	No sé cuándo Aotsuki III puso el bloqueo.\nSeguro fue entre el día 45 y el 49.
+350	bc009f29	No sé cuándo Eito III puso el bloqueo.\nSeguro fue entre el día 45 y el 49.
 360	f2ef37ea	En todo caso, el bloqueo se levanta a los 50 días...
 370	f70d7586	¡Aunque el bloqueo se pusiera el día 49,\n50 días después es el día 99! ¡Entonces...!
 380	23c4b014	¡El bloqueo del aparato ya está levantado...!\n¡O sea, podemos saltar a la TL de la Caza!

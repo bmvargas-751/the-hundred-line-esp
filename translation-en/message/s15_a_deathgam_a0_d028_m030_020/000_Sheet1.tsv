@@ -3,11 +3,11 @@ id	huella_jp	es
 20	18c19046	{fc(57e4f1)Normalmente a esta hora debíamos apagar las luces\ne irnos a dormir, pero...}
 30	b78ecfea	Bien, empecemos la reunión de informes.\nCada uno presentará por turnos los resultados de su investigación.
 40	ffd9a120	{fc(57e4f1)A partir de esta noche, nosotros, la Alianza Antipatrocinador,\nharíamos una reunión de informes cada noche en mi cuarto.}
-50	f9943674	Entonces, primero Sumino.\n¿Descubriste algo sobre la identidad del patrocinador?
+50	f9943674	Entonces, primero Takumi.\n¿Descubriste algo sobre la identidad del patrocinador?
 60	88b9f7e0	Sí, según lo que me contó Eva...
 70	fde09940	{fc(57e4f1)Les conté a todos los resultados de la investigación de hoy.}
 80	1400ca09	{fc(57e4f1)Que ningún invasor usa abejas.}
-90	02822010	{fc(57e4f1)Que para los invasores absorber sangre es un tabú absoluto, y que ese tipo,\nque absorbió la sangre de Oosuzuki, probablemente ni siquiera es un invasor.}
+90	02822010	{fc(57e4f1)Que para los invasores absorber sangre es un tabú absoluto, y que ese tipo,\nque absorbió la sangre de Kurara, probablemente ni siquiera es un invasor.}
 100	86403f3b	...Por eso, es muy probable que sea una tercera fuerza desconocida,\ndistinta de nosotros y de los invasores.
 110	7a25af76	Eso es todo mi informe.
 120	c0d8c319	Ya eran molestos solo los invasores, y ahora aparece una tercera fuerza...\nde verdad, esto da ganas de rendirse...
@@ -23,7 +23,7 @@ id	huella_jp	es
 230	f96944ea	Pero hay un punto muy distinto de las avispas parásitas reales.
 240	c3b829df	Normalmente, el aguijón de una avispa sirve para inyectar veneno en el cuerpo del enemigo.\nPero el aguijón de esta abeja es totalmente para succionar.
 250	bea8032a	Es como la aguja de una extracción de sangre.\nSe parece más a la estructura del aguijón de un mosquito.
-260	ff1ee30a	...De hecho, a Oosuzuki le absorbieron\nla sangre con esa aguja.
+260	ff1ee30a	...De hecho, a Kurara le absorbieron\nla sangre con esa aguja.
 270	620fa90c	Sí, la fuerza de succión parece enorme, si en unos segundos\nle absorbió toda la sangre del cuerpo.
 280	fdf648b3	Pero hay algo inexplicable al respecto.
 290	b1666c40	El cuerpo de esta abeja no tiene ningún lugar\ndonde almacenar la sangre que absorbe.
@@ -33,7 +33,7 @@ id	huella_jp	es
 330	2bec9128	Quizás los nutrientes que absorbe la abeja\nse envían directamente al estómago del patrocinador.
 340	963b44f0	...O sea que el chupar sangre de las abejas\nes la comida del patrocinador.
 350	349ddb83	Solo es una hipótesis.
-360	70916dba	{fc(57e4f1)...Si esa hipótesis es cierta, el patrocinador\nincorporó a su cuerpo la sangre de Oosuzuki.}
+360	70916dba	{fc(57e4f1)...Si esa hipótesis es cierta, el patrocinador\nincorporó a su cuerpo la sangre de Kurara.}
 370	81ad7ef4	...Tsk.
 380	9e0705fb	{fc(57e4f1)...Puede que hayan usado la sangre de una compañera como alimento.\n¡Al pensarlo, me hirvió una ira enorme...!}
 390	833039b6	Ese es mi informe. Y por último,\nescuchemos el informe de Hiruko.
@@ -42,7 +42,7 @@ id	huella_jp	es
 420	71e42570	Quizás consiga el traje de repuesto del patrocinador.\nY además, en los próximos días.
 430	84d9b43a	¿Un traje de repuesto...?\n¡¿Existe algo así?!
 440	f20ae136	Sí, ya casi tengo identificado dónde está.\nSolo falta determinar la posición exacta.
-450	d48e9161	{fc(57e4f1)Shizuhara había dicho antes que la fuente del poder invencible\ndel patrocinador era ese traje.}
+450	d48e9161	{fc(57e4f1)Hiruko había dicho antes que la fuente del poder invencible\ndel patrocinador era ese traje.}
 460	de9475bd	{fc(57e4f1)Si conseguimos uno igual...\n¡¿nosotros también seremos invencibles?!}
 470	86cf9f39	¿Dónde está el repuesto?\n¡Déjanos ir a buscarlo contigo...!
 480	af53ae60	No, eso no puede ser.\nLa búsqueda del traje la seguiré haciendo yo sola.
@@ -51,23 +51,23 @@ id	huella_jp	es
 510	94434cd1	Si alguien más que yo llegara a ese lugar...\npodrían pasar cosas aún más terribles.
 520	8d4259ca	¡Por eso no, de ninguna manera...!
 530	5c9755e9	{fc(57e4f1)Shizuhara lo afirmó con un tono que no admitía réplica.}
-540	4e9855b1	{fc(57e4f1)Que la siempre serena Shizuhara insista tanto\nsignifica que debe de haber una razón de peso.}
+540	4e9855b1	{fc(57e4f1)Que la siempre serena Hiruko insista tanto\nsignifica que debe de haber una razón de peso.}
 550	122c05a8	Está bien... no entiendo bien tus razones,\npero respetaré tu decisión.
 560	d3ed6d53	Sí... gracias.
 570	9b3a38d3	Entonces, de mañana en adelante,\n¿cómo nos movemos nosotros?
 580	9f9de2e0	¿Pueden los dos seguir con la investigación?\nPor ahora nos falta información de todo tipo.
 590	4eb95305	Por supuesto, no olviden ganar puntos en el juego.\nProcuren mantener siempre el puesto 6 o más arriba.
 600	0b8e016c	Eviten también morir de golpe a manos de invasores de bajo nivel.\nSeguridad ante todo.
-610	ce68566f	Si mueres por descuido, te mato, Sumino.
+610	ce68566f	Si mueres por descuido, te mato, Takumi.
 620	a79bfbc8	¿Por qué me nombras solo a mí...?
 630	863d40b5	Porque eres el que más probabilidades tiene\nde meter la pata, obvio.
-640	f67f4be7	...Tranquila. Omokage está conmigo,\nno cometeré ese error.
+640	f67f4be7	...Tranquila. Yugamu está conmigo,\nno cometeré ese error.
 650	b38ca39d	Cuídate tú más bien. En el mundo anterior,\nfuiste la primera en morir.
 660	786ef15c	Vaya, ¿quién crees que soy?
 670	c8bdb086	La yo de ahora es mucho más fuerte\nque la que tú conocías.
 680	13cc960e	Con Darumi en pareja,\nni a un comandante le perdemos.
 690	fc36e349	Darumi, eh...
-700	5eebfdfb	{fc(57e4f1)Y entonces, de repente, Omokage frunció el ceño.}
+700	5eebfdfb	{fc(57e4f1)Y entonces, de repente, Yugamu frunció el ceño.}
 710	302c9d41	Oye, Hiruko. ¿Por qué se te ocurrió formar equipo\ncon Darumi?
 720	e63eaa96	Si te soy sincero, no veo con buenos ojos\nque tú y Darumi formen equipo.
 730	9467a17a	Si esta fanática de los juegos mortales descubre el plan,\nes evidente que nos hará obstáculos.
@@ -79,5 +79,5 @@ id	huella_jp	es
 790	3cc963c9	No te lo puedo decir.
 800	666e6c62	¿Por qué? Somos compañeros.\nNecesitamos que compartas la información en lo posible.
 810	f4a72a8b	
-820	ba477ac1	{fc(57e4f1)Por más que Omokage insistió después,\nShizuhara no explicó por qué forma equipo con Amemiya.}
+820	ba477ac1	{fc(57e4f1)Por más que Yugamu insistió después,\nHiruko no explicó por qué forma equipo con Darumi.}
 830	02c8baa7	{fc(57e4f1)Al final, la reunión de informes de esta noche\nterminó con un ambiente algo incómodo.}

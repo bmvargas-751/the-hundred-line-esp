@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	de287724	"No dije la verdad"...\nO sea, te pusiste de acuerdo con Kirifuji y nos mentiste.
+10	de287724	"No dije la verdad"...\nO sea, te pusiste de acuerdo con Nozomi y nos mentiste.
 20	53b9735d	...¿Quiere decir que Nozomi también está en el complot?
 30	5978750f	Entonces ¿todo su pasado y su origen que explicó antes\ntambién será mentira?
 40	1f8a17da	Para empezar, "se coló sin permiso\ny se unió al cuerpo" es sospechosísimo...
@@ -23,14 +23,14 @@ id	huella_jp	es
 220	d6c99796	Sí. Así puede hacer como si predijera los ataques,\ny hacer que todos le crean...
 230	93cd4a6c	Y diciendo que "el futuro empezó a desviarse" a mitad de camino,\ncontrola fácilmente los movimientos del cuerpo.
 240	019e772b	N-No... no es así...
-250	a8d990fc	Se puso de acuerdo con Kirifuji, nos engañó a todos...\ny con la mentira del "viaje en el tiempo" manejó las acciones del cuerpo.
+250	a8d990fc	Se puso de acuerdo con Nozomi, nos engañó a todos...\ny con la mentira del "viaje en el tiempo" manejó las acciones del cuerpo.
 260	bfaa4329	Y además, en el Gift-O-Matic\nqueda el historial del "tatuaje adhesivo".
-270	7da02dd6	Sumino, te lo repito.
+270	7da02dd6	Takumi, te lo repito.
 280	df02f67f	Tú traicionaste al cuerpo, ¿verdad?
-290	1eabc8ee	Don Sumino, no será...
-300	ccac7c50	Mentira... no puede ser, el Sr. Sumino...
+290	1eabc8ee	Don Takumi, no será...
+300	ccac7c50	Mentira... no puede ser, el Sr. Takumi...
 310	1bc3c5f4	¡Esperen un momento!
-320	9bf6dcec	Shizuhara, yo te respondí a ti nada más sobre lo que sabía,\npero...
+320	9bf6dcec	Hiruko, yo te respondí a ti nada más sobre lo que sabía,\npero...
 330	2735334f	¡no me dijeron que era para acusar así a Takumi!\n¡No es justo!
 340	50727898	...¿De verdad lo dijiste tú?
 350	3ff0fcf4	¡Es verdad, pero...!\n¡Puede que haya un malentendido!
@@ -42,7 +42,7 @@ id	huella_jp	es
 400	196e6aee	...¿No te enojas?\n¡Quizás te mintieron!
 410	f7a05b5d	Después de reconciliarse a golpes en el campamento...
 420	c0a8bbba	Yo le creo a Nozomi. ¡Esas lágrimas que mostró ese día jamás eran mentira!
-430	ad919c87	Oosuzuki...
+430	ad919c87	
 440	f9831c5b	Para empezar, esos son monstruos creados por la {fc(ff635b)"Muerte del Mundo"}, ¿no?
 450	c6f23841	¡No tiene sentido ponerse de acuerdo con esos!
 460	89360ea2	...¿De verdad sigues creyendo eso?
@@ -67,10 +67,10 @@ id	huella_jp	es
 660	c3a2bb00	En resumen, armas humanas, ¿no?
 670	04cb4fd2	Y nosotros, simples {fc(ff635b)"herramientas de guerra"}.
 680	88149875	Sí.
-690	0bbf90cd	Y si Sumino se hubiera dado cuenta de eso antes que nadie...\nmuchas cosas cuadrarían.
+690	0bbf90cd	Y si Takumi se hubiera dado cuenta de eso antes que nadie...\nmuchas cosas cuadrarían.
 710	67af504c	¿Para escapar de ser "herramientas de guerra",\nse puso de acuerdo en secreto con el enemigo?
 720	d29a0b98	...Jeje, qué agudo eres, Sumino. ¡Me gustan los inteligentes!
-730	966b96fe	Sumino... no puede ser...
+730	966b96fe	Takumi... no puede ser...
 740	ebc679a6	No, no es así...¡Créanme...!
 750	3205066d	{fc(57e4f1)Trataba de negarlo con todas mis fuerzas, pero...\nmis palabras sonaron sorprendentemente vacías.}
 830	a5ecb31f	Una vez así, ya no tenemos obligación de pelear por la humanidad...
@@ -95,22 +95,22 @@ id	huella_jp	es
 1020	19e31797	{fc(57e4f1)La discusión, con ataques mutuos,\nse fue poniendo más y más grave.}
 1030	f93751d4	{fc(57e4f1)Cuando los frenos de todos casi se soltaban...}
 1040	6dec1031	{fc(cfff3f)"¡Bang!"}
-1050	2e074260	{fc(57e4f1)Yakushiji, que hasta entonces callaba,\npateó con toda su fuerza la mesa.}
+1050	2e074260	{fc(57e4f1)Takemaru, que hasta entonces callaba,\npateó con toda su fuerza la mesa.}
 1060	7b75c521	...Ya basta.
 1070	56780b7f	{fc(57e4f1)Con una voz que enfriaba el fondo del estómago,\ntodo el lugar quedó en silencio de golpe.}
 1080	2747f1f3	Qué estupidez. ¿De qué sirve seguir con peleas verbales de niños?
 1090	5b54e3b0	De ahora en adelante, que cada uno haga lo que quiera.
-1100	8d498346	{fc(57e4f1)Dicho eso, Yakushiji se levantó.}
-1110	0c403bba	¡Y-Yakushiji!
-1120	90f2aa21	...Sumino. Yo te tenía en buen concepto.
+1100	8d498346	{fc(57e4f1)Dicho eso, Takemaru se levantó.}
+1110	0c403bba	¡Y-Takemaru!
+1120	90f2aa21	...Takumi. Yo te tenía en buen concepto.
 1130	07ce03bf	Antes de venir aquí, me peleé un montón,\npero ninguno tenía tantas agallas como tú.
 1140	6d5015be	Pensaba que eras un gran hombre...
 1150	f4a72a8b	
 1160	06a0878b	...Qué decepción.
-1170	be170f2d	{fc(57e4f1)Dejando eso dicho, Yakushiji salió de la cafetería.}
+1170	be170f2d	{fc(57e4f1)Dejando eso dicho, Takemaru salió de la cafetería.}
 1180	d1213899	{fc(57e4f1)Como siguiéndolo, los demás también fueron levantándose.}
 1190	b0e377bb	¡Esperen, todos!\n¡No se dividan por algo así...!
-1200	527ded6b	{fc(57e4f1)Pero las palabras de Aotsuki también fueron en vano...}
+1200	527ded6b	{fc(57e4f1)Pero las palabras de Eito también fueron en vano...}
 1220	1a8d6af3	¿Por qué... tenía que acabar así...?
 1230	0e6d4de0	{fc(57e4f1)Solo esas palabras llenas de rabia...}
 1240	58c5767c	{fc(57e4f1)fueron borradas por el sonido de una lluvia torrencial...}

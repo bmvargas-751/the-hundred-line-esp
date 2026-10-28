@@ -1,6 +1,6 @@
 id	huella_jp	es
-10	717b0eaa	Vaya, Oosuzuki y Magadori...\n¿qué hacen ustedes dos aquí?
-20	80923922	Ah, pues nada...\nEste es el lugar donde mataron a ese tal Maruko, ¿no?
+10	717b0eaa	Vaya, Kurara y Kyoshika...\n¿qué hacen ustedes dos aquí?
+20	80923922	Ah, pues nada...\nEste es el lugar donde mataron a ese tal Gaku, ¿no?
 30	ea824889	Y quedamos con la curiosidad y vinimos a ver.
 40	9af827be	Esta gente de la academia es una pandilla de tontos,\ny quizás se les pasó alguna prueba física.
 50	9c5a5a7a	Ya veo, entonces somos iguales.
@@ -8,7 +8,7 @@ id	huella_jp	es
 70	c7b4e7e2	Sí, ya que están aquí, ¿me ayudan?\nQuiero volver a revisar esta escena.
 80	61e350a2	{fc(57e4f1)Así empezamos a registrar la sala.\nPero no encontramos nada que pareciera una pista...}
 90	24c96d2d	Aquí también investigaron justo después del incidente, ¿no?
-100	00b7b5fa	Sí, antes de limpiar la sangre de Maruko del piso...\nPero entonces, igual que ahora, no había rastros del culpable...
+100	00b7b5fa	Sí, antes de limpiar la sangre de Gaku del piso...\nPero entonces, igual que ahora, no había rastros del culpable...
 110	278c341a	¿Y el arma...?
 120	318e1bc6	Hasta ahora no la hemos encontrado.
 130	6ac1d253	En esta aula, claro, no estaba. Y revisamos todo el edificio y el terreno,\npero no apareció en ningún lado...
@@ -33,12 +33,12 @@ id	huella_jp	es
 320	0f268c70	¿E-Esta máscara?\n¿Quieres que me la quite...?
 330	abe325a2	¡No, jamás, jamás...!\n¡Digan lo que digan, esta máscara...!
 340	299d0fe8	{fc(57e4f1)Y antes de que Oosuzuki terminara de hablar...}
-350	52ad9b23	{fc(57e4f1)Magadori le arrebató la máscara.\nOosuzuki quedó con la cara descubierta...}
+350	52ad9b23	{fc(57e4f1)Kyoshika le arrebató la máscara.\nKurara quedó con la cara descubierta...}
 360	10eaad23	{fc(57e4f1)Luego Magadori alzó la máscara sobre su cabeza\ny la lanzó hacia la pasarela del techo.}
 370	bf0f4d3d	¡Buaaah... no, no... se me perdió la máscara...!\n¡¿Dónde está mi máscara...?! ¡¿Dónde la escondieron...?!
-380	d3696e7e	{fc(57e4f1)Oosuzuki no parecía haberse dado cuenta de que la máscara fue lanzada.\nMiraba a todos lados, desconcertada.}
+380	d3696e7e	{fc(57e4f1)Kurara no parecía haberse dado cuenta de que la máscara fue lanzada.\nMiraba a todos lados, desconcertada.}
 390	8866bb33	{fc(57e4f1)Bueno, eso no importa...\nMás importante, esta cara... sin duda es...}
-400	1193ea82	Oosuzuki, ¿verdad...?
+400	1193ea82	Kurara, ¿verdad...?
 410	ca4de569	¿Fe...?
 420	ee2e7665	No, es que es la misma cara que vi en la historia anterior.
 430	0dcee9fc	¡C-Claro que sí...!\n¡Yo soy yo, siempre he vivido con esta cara...!
@@ -48,6 +48,6 @@ id	huella_jp	es
 470	e99f526c	¡Buaaah... Yakushiji, tonto...!\n¡Devuélveme mi máscara...!
 480	a34bc9ee	{fc(57e4f1)Oosuzuki salió corriendo gritando del salón.}
 490	b4a221b8	Así es más linda, tanto en aspecto como en carácter...\nLa dejaremos así un rato... jejeje...
-500	b9c2125d	{fc(57e4f1)Magadori también dijo eso y desapareció.}
+500	b9c2125d	{fc(57e4f1)Kyoshika también dijo eso y desapareció.}
 510	a219f4a6	{fc(57e4f1)Solo quedé yo.\nNo tenía sentido quedarme.}
 520	ce8bdf5d	Entonces, mejor me voy...

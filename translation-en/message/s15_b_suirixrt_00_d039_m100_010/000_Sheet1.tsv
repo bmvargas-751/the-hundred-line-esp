@@ -1,24 +1,24 @@
 id	huella_jp	es
-10	42f7a690	{fc(57e4f1)El último lugar que visité fue el gimnasio.\nAl entrar, allí estaban Kawana y Yakushiji.}
-20	0e4259c1	Ah, Kawana, Yakushiji, qué oportuno...\nquería preguntarles algo.
+10	42f7a690	{fc(57e4f1)El último lugar que visité fue el gimnasio.\nAl entrar, allí estaban Tsubasa y Takemaru.}
+20	0e4259c1	Ah, Tsubasa, Takemaru, qué oportuno...\nquería preguntarles algo.
 30	d343c3f6	¿Qué...?
 40	09401090	Antes en el garaje me mostraron el modulador de voz...\nel cambiador de voz, ¿no?
 50	572562dc	¿Todavía está en el garaje?
-60	dca4918a	Ya veo, hablaste con Ginzaki, ¿verdad?\n¿Dijo que el culpable usaba un modulador de voz?
+60	dca4918a	Ya veo, hablaste con Shouma, ¿verdad?\n¿Dijo que el culpable usaba un modulador de voz?
 70	40d68561	Sí, justo eso.
-80	00e7db55	Es lo que piensas, Sumino.\nEse aparato... desapareció.
+80	00e7db55	Es lo que piensas, Takumi.\nEse aparato... desapareció.
 90	b13b18b4	Lo sabía. ¿Lo robó el culpable?
 100	388eb027	Creo que sí.
 110	c81285d2	¿Cuándo se dieron cuenta?
-120	ae085f0e	El día 28, cuando Ginzaki recuperó la conciencia.\nHablé con él, fui al garaje y...
+120	ae085f0e	El día 28, cuando Shouma recuperó la conciencia.\nHablé con él, fui al garaje y...
 130	aefab958	¿No estaba el modulador?
 140	3f6e1439	Sí, había desaparecido sin que nos diéramos cuenta...
 150	870c023e	{fc(57e4f1)Me habían mostrado el modulador el mediodía del día 24.}
-160	fc7115b9	{fc(57e4f1)O sea que lo robaron después de eso,\ny antes de la madrugada del día 27 en que apuñalaron a Ginzaki.}
+160	fc7115b9	{fc(57e4f1)O sea que lo robaron después de eso,\ny antes de la madrugada del día 27 en que apuñalaron a Shouma.}
 170	798f06b7	Por cierto, ¿ustedes por qué están aquí...?
 180	5edb63f2	Ah, mientras dormías pensé mucho...\nsigo sin poder aceptar que Kako se haya suicidado.
 190	774605e7	Yo igual. Al principio pensaba que por la situación\nsolo podía ser suicidio, pero...
-200	87cc624c	pero oyendo a Shizuhara, empecé a pensar\nque eso era poco natural.
+200	87cc624c	pero oyendo a Hiruko, empecé a pensar\nque eso era poco natural.
 210	813e89dd	Pero si fue homicidio, queda el problema\nde cómo se escapó el culpable de aquí.
 220	e694103b	Por eso vinimos a investigarlo.
 230	a0bc03c5	Pensé que quizás haya algún pasadizo secreto\nen alguna parte de este edificio.
@@ -32,9 +32,9 @@ id	huella_jp	es
 310	04c1beb4	Ah, cierto, era eso.
 320	69270b9c	{fc(57e4f1)Así empezó la búsqueda por el edificio.}
 330	0711fd5e	{fc(57e4f1)Los tres fuimos golpeando paredes y suelo con el puño,\nescuchando con el oído por si había alguna puerta oculta.}
-340	da8bf936	{fc(57e4f1)Y poco después...\nYakushiji, que revisaba el escenario, alzó la voz de repente.}
+340	da8bf936	{fc(57e4f1)Y poco después...\nTakemaru, que revisaba el escenario, alzó la voz de repente.}
 350	d9e0231b	¡Ey, vengan! ¡Encontré algo grave!
-360	d1d92d1b	{fc(57e4f1)Era un rincón del escenario.\nKawana y yo corrimos hacia allí.}
+360	d1d92d1b	{fc(57e4f1)Era un rincón del escenario.\nTsubasa y yo corrimos hacia allí.}
 370	26489682	¡Q-Qué es esto...!
 380	5cfb2a24	Mentira... ¡de verdad había un pasadizo secreto...!\n¿O mejor dicho una {fc(ff635b)"escalera de mano oculta"}...?
 390	8ec536a2	¡Cuando revisé aquí hace un rato no había nada...!\n¡¿Cómo lo encontraste?!

@@ -6,7 +6,7 @@ id	huella_jp	es
 50	3979d736	Si te lanzas solo, te devolverán el golpe...\n¿Olvidaste lo descomunalmente fuerte que es?
 60	78c3e377	Peleemos todos uniendo fuerzas.\nAsí seguro que hasta a ella le ganamos.
 70	b85b7b2f	Pero... no solo está V'ehxness,\nquedan otros comandantes, ¿no?
-80	220b06cc	Según Sumino, los que quedan son...
+80	220b06cc	Según Takumi, los que quedan son...
 90	3b76c66c	¿El que hace copias, el que devuelve el tiempo\ny el que muestra alucinaciones con sonido...?
 100	6ae6db9b	Sí, esos son todos.
 110	835ec4ac	Es una gran ventaja conocer la habilidad del rival.\nPodemos prepararnos de antemano y no entrar en pánico en el momento.
@@ -22,8 +22,8 @@ id	huella_jp	es
 210	50a35481	{fc(57e4f1)Ahora que lo pienso,\n¿qué estará haciendo Eito?}
 220	43cbd554	{fc(57e4f1)Seguro que trama algo...\nNo es de los que se desvanecen sin más...}
 230	f48af67b	{fc(57e4f1)Mientras pensaba en eso,\nalguien me habló en voz baja.}
-240	6a8b302a	Eh, Sumino... ¿tienes un momento?
-250	6d9c1c02	Ginzaki... ¿qué pasa?
+240	6a8b302a	Eh, Takumi... ¿tienes un momento?
+250	6d9c1c02	Shouma... ¿qué pasa?
 260	02b4e9ea	Es que... es sobre Eva.\nNo puedo evitar preocuparme por ella...
 270	0bed47e1	En realidad, ayer fui un rato a la enfermería\na ver cómo estaba.
 280	7faae70d	No me dejaron entrar... pero desde el otro lado de la puerta\noí a Eva gritando de forma extraña.
@@ -34,6 +34,6 @@ id	huella_jp	es
 330	928585aa	Además... para que Eva viva no queda otra que esto.\nA estas alturas no podemos dejarla ir.
 340	551258a1	Sí... es verdad...
 350	ff02b26e	Entendido... perdón.\nUn pedazo de basura inútil como yo no debería preocuparse de más.
-360	8ee2497e	{fc(57e4f1)Dicho eso, Ginzaki me dio la espalda\ny volvió a un rincón de la cafetería.}
+360	8ee2497e	{fc(57e4f1)Dicho eso, Shouma me dio la espalda\ny volvió a un rincón de la cafetería.}
 370	769212ba	{fc(57e4f1)Es comprensible que se preocupe...\nDe verdad, hoy sí tengo que resolverlo.}
 380	1374b262	{fc(57e4f1)Terminé el desayuno viendo de reojo a todos con la moral en alto,\ny fui solo a la enfermería.}

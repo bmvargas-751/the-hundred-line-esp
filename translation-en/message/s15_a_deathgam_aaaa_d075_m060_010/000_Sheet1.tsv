@@ -1,7 +1,7 @@
 id	huella_jp	es
-10	cead6892	Oye, Amemiya... explícanos bien.\n¿Qué quisiste hacer en realidad...?
-20	fbe5783d	{fc(57e4f1)Después del combate con Dahl'xia, nos reunimos en el cuarto de Amemiya\npara preguntarle su verdadera intención.}
-30	4d6f4fe5	¿Por qué me protegiste...?\n¡Dime la razón, Amemiya...!
+10	cead6892	Oye, Darumi... explícanos bien.\n¿Qué quisiste hacer en realidad...?
+20	fbe5783d	{fc(57e4f1)Después del combate con Dahl'xia, nos reunimos en el cuarto de Darumi\npara preguntarle su verdadera intención.}
+30	4d6f4fe5	¿Por qué me protegiste...?\n¡Dime la razón, Darumi...!
 40	8664fce4	Dinos tu verdadera intención con palabras...
 50	f6c0eff3	¿Eh? ¿Qué verdadera intención?\n¡Darumi solo quiere matarse con ustedes!
 60	5b38c4f5	¡Que un comandante me robe mi presa, jamás!\n¡Por eso solo hoy les eché una mano!
@@ -10,7 +10,7 @@ id	huella_jp	es
 90	f4a72a8b	
 100	f4a72a8b	
 110	f4a72a8b	
-120	16148fd8	Amemiya... ¿por qué no dejamos ya de fingir?
+120	16148fd8	Darumi... ¿por qué no dejamos ya de fingir?
 130	205f315a	Oye, Darumi...
 140	8062a7b5	Tú nos seguías estos días, en realidad,\npara ayudarnos, ¿verdad?
 150	d0b1ac01	¿Qué...? ¿Ayudarlos a ustedes para qué?\n¡No digas cosas al azar sin pruebas!
@@ -21,15 +21,15 @@ id	huella_jp	es
 195	1ce370bb	Oye, Darumi, ¿qué significa eso?
 200	f4a72a8b	
 210	ee4f96aa	Por el amor de la muerte... se queda callada.\nEntonces expondremos nuestra hipótesis.
-220	33e3df2d	{fc(57e4f1)Omokage empezó a hablar.}
-230	e048702b	{fc(57e4f1)La reflexión sobre la verdadera intención de Amemiya,\nque debatimos entre todos hace un rato...}
+220	33e3df2d	{fc(57e4f1)Yugamu empezó a hablar.}
+230	e048702b	{fc(57e4f1)La reflexión sobre la verdadera intención de Darumi,\nque debatimos entre todos hace un rato...}
 240	fddddd49	Desde que empezó la Caza de Invasores,\nDarumi se mantuvo siempre arriba en el ranking.
 250	8cea8107	Desde que llegó al primer puesto a mitad del primer juego,\nno se lo cedió a nadie.
 260	84733f5c	Pero pensándolo con frialdad,\neso es bastante raro, ¿no?
 270	27dc0392	No es raro... es que Darumi es excelente...
 280	e27dac95	No, es raro.
 290	258cfc34	Porque Darumi, a mitad del primer juego,\nperdió el conocimiento y se ausentó cuatro días del juego, ¿sabes?
-300	830e83d6	{fc(57e4f1)Amemiya, tras absorber la criptoglobina de Shizuhara, perdió el conocimiento\ny tardó un buen rato en despertar.}
+300	830e83d6	{fc(57e4f1)Darumi, tras absorber la criptoglobina de Hiruko, perdió el conocimiento\ny tardó un buen rato en despertar.}
 310	08bd8acf	{fc(57e4f1)Normalmente, en ese tiempo el puesto habría bajado muchísimo.}
 320	5c516a93	Y en la última parte del segundo juego,\ntú sola no participaste en el asalto al puesto avanzado.
 330	99d8e782	Dejaste pasar sola la oportunidad de ganar muchos puntos,\ny aun así mantuviste el primer puesto.
@@ -40,19 +40,19 @@ id	huella_jp	es
 380	bc43f25a	{fc(57e4f1)Un objetivo de puntos altísimos.\nEs decir...}
 390	0eb9dfde	Hiruko Shizuhara era un objetivo de la Caza de Invasores.
 400	0a561629	No solo Hiruko... probablemente todos nosotros\nsomos objetivos de este juego.
-410	d7c1c8d6	{fc(57e4f1)Al matar a Shizuhara por necesidad a mitad del primer juego,\nAmemiya seguramente se dio cuenta.}
+410	d7c1c8d6	{fc(57e4f1)Al matar a Hiruko por necesidad a mitad del primer juego,\nDarumi seguramente se dio cuenta.}
 420	49be0c13	{fc(57e4f1)De que nosotros mismos también\nsomos objetivos de la Caza de Invasores...}
-430	e2361bec	Amemiya... tú descubriste antes que nadie\nla regla oculta del juego.
+430	e2361bec	Darumi... tú descubriste antes que nadie\nla regla oculta del juego.
 440	b8ae4a87	Por eso nos atacabas afuera y nos provocabas tanto, ¿no...?
 450	13d3e61d	¡Para que nosotros te {fc(ff635b)"matáramos"}\ny ganáramos una enorme cantidad de puntos...!
-460	01115e36	{fc(57e4f1)Amemiya no estaba trastornada.\nMás bien era la más cuerda... y la más cariñosa...}
-470	75527e27	Oye, Amemiya... ¿por qué te esforzaste tanto\npor salvarnos?
+460	01115e36	{fc(57e4f1)Darumi no estaba trastornada.\nMás bien era la más cuerda... y la más cariñosa...}
+470	75527e27	Oye, Darumi... ¿por qué te esforzaste tanto\npor salvarnos?
 480	e19527e6	¡Dinos la razón, Amemiya...!
 490	f4a72a8b	
-500	2493b128	{fc(57e4f1)Amemiya, interrogada, mantuvo un rato el silencio, pero...}
+500	2493b128	{fc(57e4f1)Darumi, interrogada, mantuvo un rato el silencio, pero...}
 510	ed85c2fa	Quería ser como la Reina Hiruko...
 520	74124260	{fc(57e4f1)Con voz pequeña, Amemiya por fin habló.}
-530	c9e86ae5	¿Querías ser como Shizuhara...?
+530	c9e86ae5	¿Querías ser como Hiruko...?
 540	d4ebc62c	La Reina Hiruko era una verdadera santa, ¿no...?
 550	ae043e47	Pensaba que, para salvar a todos,\nestaba dispuesta a morir...
 560	05380b76	De hecho, al final se sacrificó\ny salvó la vida de todos...
@@ -61,14 +61,14 @@ id	huella_jp	es
 590	7f7ca093	O sea que querías morir por nosotros...
 600	8200b68a	Si Darumi salva a ustedes cuatro con su propia vida,\n¿no sería ya una digna Reina Hiruko...?
 610	f4a72a8b	
-620	d5af7a4a	{fc(ff635b)"Quería morir como Shizuhara"}
+620	d5af7a4a	{fc(ff635b)"Quería morir como Hiruko"}
 630	4782d3df	{fc(57e4f1)Un principio de acción simple\ny poderoso a la vez...}
-640	0bc3dd74	{fc(57e4f1)Lo que hizo que Amemiya quisiera reproducir así la muerte de Shizuhara\nseguramente fue...}
+640	0bc3dd74	{fc(57e4f1)Lo que hizo que Amemiya quisiera reproducir así la muerte de Hiruko\nseguramente fue...}
 650	12324734	Eso es lo que quería contar de Darumi.
 660	f23dbd92	Bueno, ya terminó la charla: mátenme rápido de una vez.\nPor supuesto, afuera de la academia.
 670	4c4b1c9b	Ah, y el papel de darme la herida mortal que le toque a Tsubasa.
 680	183fb534	Tú eres la última, así que\nsi no ganas puntos, estás mal.
-690	e4f2e460	¡C-Cómo voy a matar a mi salvadora...!\n¡Yo quiero que Amemiya viva...!
+690	e4f2e460	¡C-Cómo voy a matar a mi salvadora...!\n¡Yo quiero que Darumi viva...!
 700	9ea46c36	No, Darumi no quiere vivir más.\nY vivir no trae nada bueno.
 710	807d7082	¡¿Cómo sabes que no trae nada bueno?!\n¡Nadie sabe el futuro!
 720	7a0190e8	Se sabe, por experiencia, más o menos.
@@ -85,14 +85,14 @@ id	huella_jp	es
 830	7e49941f	Pero la Reina Hiruko ya no está en este mundo...\nporque Darumi le chupó la sangre y se la comió...
 840	2589b963	Darumi, que mató a la Reina Hiruko,\nno merece vivir...
 850	ce6e4b84	¡¡Debe ser asesinada igual que ella...!!
-860	9dde234c	Amemiya...
-870	4a476dfa	{fc(57e4f1)Seguramente Amemiya siempre quiso expiar,\narrepentida profundamente de haber matado a Shizuhara...}
+860	9dde234c	
+870	4a476dfa	{fc(57e4f1)Seguramente Amemiya siempre quiso expiar,\narrepentida profundamente de haber matado a Hiruko...}
 880	5ae79414	Más bien, simplemente quiero morir...\nvivir sin la Reina Hiruko de verdad es imposible...
 890	156a067f	Si me iba a sentir así,\nno habría debido hacer amigos desde el principio...
 900	f7cfb029	Entonces...
-910	83fd80f1	{fc(57e4f1)Kawana le tomó la mano a Amemiya con fuerza.}
+910	83fd80f1	{fc(57e4f1)Tsubasa le tomó la mano a Darumi con fuerza.}
 920	cd7226cc	¡Yo seré tu amiga, Amemiya...!
-930	180d0838	Claro, no puedo ser tan confiable\ncomo Shizuhara, pero...
+930	180d0838	Claro, no puedo ser tan confiable\ncomo Hiruko, pero...
 940	ee2616b3	¡pero estar a tu lado sí puedo...!
 950	ea260608	¿Qué...? ¿Tú, mi amiga?\n¿Podrías no mentir por un impulso del momento?
 960	4412a271	Eso es lo que más molesta.
@@ -108,29 +108,29 @@ id	huella_jp	es
 1060	a493e04a	¡Qué prejuicio es ese...!\n¡Yo también tengo decisión!
 1070	fcf4e37d	¡Quiero proteger con mi vida a Amemiya,\nque me salvó con la suya...!
 1080	06aefd06	Con la boca se dice cualquier cosa, ñuro~.\nNo pierdas tiempo y mata ya a Darumi, ñuro~.
-1090	b7237f5b	{fc(57e4f1)Amemiya se negaba con terquedad\na tomar la mano que Kawana le tendía...}
+1090	b7237f5b	{fc(57e4f1)Darumi se negaba con terquedad\na tomar la mano que Tsubasa le tendía...}
 1100	c98ee14e	¡...!
 1110	72b7cdb5	Muy bien... entendido.\nSi tanto insistes, te lo mostraré.
 1120	413aa4e2	¡Te mostraré lo que es mi {fc(ff635b)"decisión"}...!
-1130	10ee5051	{fc(57e4f1)Kawana extendió las dos manos hacia el rostro de Amemiya...}
+1130	10ee5051	{fc(57e4f1)Tsubasa extendió las dos manos hacia el rostro de Darumi...}
 1140	c466a1c7	...¡¿Mmmh...?!
-1150	456b16b9	¡K-Kawana...!
-1160	7b249698	{fc(57e4f1)¡Kawana, casi a la fuerza,\napretó sus labios contra los de Amemiya...!}
+1150	456b16b9	¡K-Tsubasa...!
+1160	7b249698	{fc(57e4f1)¡Tsubasa, casi a la fuerza,\napretó sus labios contra los de Darumi...!}
 1170	557f0558	...Mm... ¡mmm...!
 1180	0ebbcde5	...Mm... mmm... ¡¿mmmh...?!
 1190	f0745b7b	¡Ay, ay, ay, ay, ay...!
 1200	ee11544a	¡Esto es bueno... los puntos artísticos son altísimos!
 1210	c98ee14e	¡...!
 1220	2d779e04	{fc(57e4f1)Fue un beso largo e intenso...}
-1230	334430f2	{fc(57e4f1)Amemiya al principio se resistió un poco,\npero a mitad de camino aceptó por completo los labios de Kawana.}
+1230	334430f2	{fc(57e4f1)Darumi al principio se resistió un poco,\npero a mitad de camino aceptó por completo los labios de Tsubasa.}
 1240	013d26a6	{fc(57e4f1)Las dos mantuvieron los labios juntos más de un minuto...}
 1250	8e968e59	¡Puaj...!
 1260	87f56a53	Haah... haah...
 1270	836c71f9	{fc(57e4f1)Separó los labios cuando le llegó el límite de capacidad pulmonar.}
 1280	9ae61f01	¿Qué tal mi primer beso...?\n¿Sabía a decisión de doncella?
-1290	10e617ac	¿Ahora me crees...? ¡Estoy decidida a hacerme daño\npor Amemiya, de verdad...!
+1290	10e617ac	¿Ahora me crees...? ¡Estoy decidida a hacerme daño\npor Darumi, de verdad...!
 1300	f4a72a8b	
-1310	650088ad	O-Oye... ¿Amemiya?
+1310	650088ad	O-Oye... ¿Darumi?
 1320	f4a72a8b	
 1330	9e5a547f	¡D-Di algo, aunque sea...!\n¡Me va a dar vergüenza!
 1340	159a3c97	Reina Tsubasa...
@@ -145,16 +145,16 @@ id	huella_jp	es
 1430	bff7d71f	¡Otra vez! ¡Otra vez!\n¡Otra vez! ¡Otra vez!
 1440	1f7b0f8c	¡Aaay, qué molestia, qué molestia...!\n¡Yo me voy! ¡No me sigas!
 1450	ec814682	¡Hyohyohyo~!\n¡La seguiré adonde sea~!
-1460	a1c9a07c	{fc(57e4f1)Amemiya salió corriendo a toda velocidad\ndetrás de Kawana, que se fue del cuarto.}
+1460	a1c9a07c	{fc(57e4f1)Darumi salió corriendo a toda velocidad\ndetrás de Tsubasa, que se fue del cuarto.}
 1470	f4a72a8b	
 1480	563342fc	{fc(57e4f1)Yo vi esa persecución de las dos,\nboquiabierto y sin poder decir nada.}
-1490	74d2d67c	{fc(57e4f1)La realidad cambiaba tan vertiginosamente que mi cabeza no lograba seguirla...\nKawana... ¿besó...?}
-1500	f796ef37	Oye, Sumino.
-1510	74e2d1c4	{fc(57e4f1)Omokage me puso la mano\nen el hombro.}
+1490	74d2d67c	{fc(57e4f1)La realidad cambiaba tan vertiginosamente que mi cabeza no lograba seguirla...\nTsubasa... ¿besó...?}
+1500	f796ef37	Oye, Takumi.
+1510	74e2d1c4	{fc(57e4f1)Yugamu me puso la mano\nen el hombro.}
 1520	8533e0a4	Como tardas, Sumino,\n¡te quitaron el primer beso de Tsubasa!
 1530	41cb63a5	Cállate...
 1540	3a9e6ecb	¿Qué tal si competimos y nos besamos nosotros...?
 1550	d29ed741	¡Te dije que te calles...!
-1560	32692bd1	{fc(57e4f1)La verdad, el beso de Kawana me dejó muy impactado, pero...}
+1560	32692bd1	{fc(57e4f1)La verdad, el beso de Tsubasa me dejó muy impactado, pero...}
 1570	92173c0f	{fc(57e4f1)bueno, ya que las dos recuperaron el ánimo,\ndiremos que el resultado fue bueno.}
 1580	0cb2ae6d	{fc(57e4f1)Solo que el problema es...}

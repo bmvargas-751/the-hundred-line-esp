@@ -1,10 +1,10 @@
 id	huella_jp	es
-10	fc81169a	{fc(57e4f1)En el garaje adonde me llamó Shizuhara...}
+10	fc81169a	{fc(57e4f1)En el garaje adonde me llamó Hiruko...}
 20	f48be238	¿E-Esto es...?
 30	83e7d132	{fc(57e4f1)La puerta de entrada del garaje estaba hecha un desastre,\ncomo si hubiera pasado un tornado.}
 40	f82161db	{fc(57e4f1)Había rastros de que la habían atacado\ncon una insistencia obsesiva.}
 50	dcd8e45e	Despertar y ver rastros de destrucción...\nPero el impacto es un poco flojo.
-60	3080f523	¡¿Amemiya?!\n¿Estás bien de salud?
+60	3080f523	¡¿Darumi?!\n¿Estás bien de salud?
 70	7cdcd9e2	Ah, tranquilo, estoy bien. ¡Para pelear no, pero sí puedo moverme!
 80	9331bd75	Además, con esta destrucción\nen estos tiempos falta impacto, ¿no?
 90	8b2454f0	¡Al despertar, debería haber como diez cadáveres masacrados!
@@ -20,7 +20,7 @@ id	huella_jp	es
 190	efc6ccd7	O sea que pudo hacerlo cualquiera.
 200	4391a9c9	¿El daño es solo en esta puerta?\n¿Las otras máquinas están bien?
 210	550f40ea	Tendría que revisarlas para saber...\nOjalá no pase nada.
-220	260ef73d	¡Oye, Aotsuki, tú!
+220	260ef73d	¡Oye, Eito, tú!
 230	4afe52e7	¿Qué pasa? No grites de repente. ¡Tu voz es desagradable y no soporto tu olor!
 240	e9846c50	¡Te haces el tonto! ¡Fuiste tú!
 250	0807bfdf	¿Yo? ¿Tienes alguna prueba de que fui yo?
@@ -31,7 +31,7 @@ id	huella_jp	es
 300	c84cec74	Eso, eso. Antes de pelear,\nprimero hay que revisar los daños y repararlos.
 310	809e0bc2	Queremos terminar pronto,\nasí que ¿les pedimos ayuda a todos?
 320	a6fef89f	Pero... ¿para qué haría esto el culpable? Si fuera para destruir todo a fondo lo entendería, pero tampoco parece eso.
-330	e07fc5dc	¡Qué importa! El culpable es Aotsuki. ¡Lo que él piensa no hay quien lo entienda!
+330	e07fc5dc	¡Qué importa! El culpable es Eito. ¡Lo que él piensa no hay quien lo entienda!
 340	07114768	Mm... hasta que no queden claros el motivo y el objetivo,\ntodavía no se puede afirmar quién fue...
 350	22ac91f0	Eso, eso. Con esa cara de grava,\nno le busques peros a la deducción de mi queridísima hermana.
 360	9fccad43	¡¿Quién tiene cara de grava?!
@@ -49,7 +49,7 @@ id	huella_jp	es
 480	bbcbe8c1	¡Decídanlo aunque sea con una ruleta!\n¡Lo ruso no hace falta!
 490	96aecfcc	Es fácil... basta con pedir la limpieza\na alguien que seguro no tenía necesidad de hacer esto.
 500	0ac592c5	¿Eh? Eso es...
-510	c522264f	...Tú, Kawana.
+510	c522264f	...Tú, Tsubasa.
 520	6642fb1e	¿Y-Yo?
 530	f35fdd56	Tú usas el garaje a diario, ¿verdad?\n¿No tendrías razón para destruirlo...?
 540	2707d80d	Y si quisieras colar algo,\npodrías hacerlo sin esto y sin que nadie te viera.
@@ -57,20 +57,20 @@ id	huella_jp	es
 560	15611807	...No puedo ordenar todo yo sola. ¿No hay otros que ayuden?
 570	6079ea55	Entonces, ¿qué tal Takumi?
 580	d8b3bda6	¿Eh? ¿Yo...?
-590	754ba838	¿Puedes asegurar que Sumino no sea el culpable?\n¡Hasta hace poco sospechaban de él!
+590	754ba838	¿Puedes asegurar que Takumi no sea el culpable?\n¡Hasta hace poco sospechaban de él!
 600	bd47a094	Precisamente por eso, Takumi se esforzaba\npor recuperar la confianza. ¿Haría algo así en este momento?
-610	dc3548f2	Yo ya confío en Sumino.\nPor eso creo que él no es el culpable.
+610	dc3548f2	Yo ya confío en Takumi.\nPor eso creo que él no es el culpable.
 620	979c99dd	Entonces el Sr. Sumino está bien, ¿no? Es el líder, después de todo.
 630	43764614	Cuento contigo... líder...
 640	7ce6fccd	¿Eh? Oigan, ustedes...
 650	258c6f3e	Takumi puede con esto fácil, ¿no?\n¡Repara pronto el garaje!
-660	03fe8096	Ah, hasta Amemiya...
+660	03fe8096	Ah, hasta Darumi...
 670	d935d86b	Como a Takumi sí le tienen confianza,\na diferencia de a mí, se puede dejar tranquilo.
 680	8656ddde	Tú no digas nada...
 690	d5a22440	Entonces, dejemos esto a ellos\ny nosotros empecemos los preparativos de la batalla defensiva.
-700	c8f5e79b	{fc(57e4f1)Dicho eso, dejándonos a Kawana, a SIREI y a mí,\ntodos se fueron cruzando la puerta rota del garaje.}
+700	c8f5e79b	{fc(57e4f1)Dicho eso, dejándonos a Tsubasa, a SIREI y a mí,\ntodos se fueron cruzando la puerta rota del garaje.}
 710	a6aaaef7	Se nos quitaron de encima con muy buenas formas...
-720	7932a534	Perdona, Sumino...¡Pero si ayudas, de verdad me salvas!
+720	7932a534	Perdona, Takumi...¡Pero si ayudas, de verdad me salvas!
 730	d91f003f	Bueno... lo haré.\nPero para dos esto es un trabajo enorme...
 740	159504f7	...Takumi. Sinceramente, esta oficial cree\nque el culpable de este incidente es Eito.
 750	3992c354	Bueno... el más sospechoso es él, sin duda.

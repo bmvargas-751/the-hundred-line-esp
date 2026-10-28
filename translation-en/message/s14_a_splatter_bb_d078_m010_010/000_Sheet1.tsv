@@ -7,11 +7,11 @@ id	huella_jp	es
 60	ae76bdff	No aguanto este aburrimiento.\n¡Kyoshika, tráguese la espada y sáquela por el trasero!
 70	d7062fbf	¡Eso es una locura, por mi honor!\n¡Meterla tal vez, pero sacarla nunca lo he hecho!
 80	7b2f62f3	Eh... haré como que no oí.
-90	19a5ff3b	Por cierto, Kawana.\n¿Qué estás leyendo desde hace rato?
+90	19a5ff3b	Por cierto, Tsubasa.\n¿Qué estás leyendo desde hace rato?
 100	33dd8076	Ah, ¿esto? Es un pergamino antiguo.
 120	e4cab959	Lo encontré en la biblioteca y me lo llevé\ncuando huimos del taller metalúrgico.
 130	a1612d2a	Pensé que, aunque sea, quizá aparezca\nuna pista sobre los zombis.
-140	b6c22302	Es verdad... aunque Oosuzuki está bien,\nigual me preocupa el efecto de las mordidas.
+140	b6c22302	Es verdad... aunque Kurara está bien,\nigual me preocupa el efecto de las mordidas.
 150	0412f642	La probabilidad más alta es que, en primer lugar,\n"morder no convierta en zombi", ¿no?
 160	254a4147	¿Eh? ¿Que no se vuelven zombis?
 170	2481b08d	Eso de "al morder se vuelven zombis" también lo imaginamos nosotros\npor las típicas películas de zombis...
@@ -38,17 +38,17 @@ id	huella_jp	es
 380	43682f27	Quedarnos escondidos no nos hace avanzar...
 390	98d93417	Depende de qué plan, pero yo también estoy de acuerdo.\nSi hay una pista, hay que hacerlo.
 400	3d1d3ae0	S-si ustedes lo dicen, por mí no hay problema...
-410	8ee6bf72	Y tú, Sumino, ¿qué dices?
+410	8ee6bf72	Y tú, Takumi, ¿qué dices?
 420	f4a72a8b	
 430	2e8ce529	Me da igual.
 440	03f2624a	¡Deja de lloriquear de una vez!
 450	ba3aa554	...No pienso decirte eso.\nTu dolor solo lo conoces tú.
-460	fc1ca30e	Pero... si no hubieras matado a Kirifuji en ese momento,\nMagatori estaría muerta, ¿no?
-470	ba796b81	¡Yakushiji!
+460	fc1ca30e	Pero... si no hubieras matado a Nozomi en ese momento,\nMagatori estaría muerta, ¿no?
+470	ba796b81	¡Takemaru!
 480	f2c7101b	Cuando te deprimes así,\n¿no ves que Magatori también se deprime contigo?
 490	a4de66f2	Piensa: "Sumino sufre por haberme salvado".
 500	e16d0645	¡¡...!!
-510	e0aa5a3f	{fc(57e4f1)Las palabras de Yakushiji me abrieron los ojos.}
+510	e0aa5a3f	{fc(57e4f1)Las palabras de Takemaru me abrieron los ojos.}
 520	efcc71c9	{fc(57e4f1)No quiero hacer que Magatori cargue con ese sentimiento.}
 530	19f95e61	{fc(57e4f1)Es que no puedo olvidar la sensación de entonces, los ojos...\ny no me perdono a mí mismo...}
 540	5ae54e0a	Si no puedes levantarte por ti,\nlevántate por Magatori.
@@ -78,6 +78,6 @@ id	huella_jp	es
 780	b1edf2cd	Llora como la chica a la que le tocó sentarse a mi lado.
 790	73f30070	¿Hiciste llorar a Kyoshika?\n¡Como disculpa, discúlpate de rodillas sobre la espada!
 800	423f7d56	Eso, por favor, no...
-810	ba76c57c	¡Bien! Si está decidido, ¡empecemos ya!\n¡Vengaré a Kirifuji!
+810	ba76c57c	¡Bien! Si está decidido, ¡empecemos ya!\n¡Vengaré a Nozomi!
 820	07e74279	...¡Sí!
-830	cffef6ec	{fc(57e4f1)Cambiamos el ánimo y enseguida empezamos a preparar\nel plan que propuso Yakushiji.}
+830	cffef6ec	{fc(57e4f1)Cambiamos el ánimo y enseguida empezamos a preparar\nel plan que propuso Takemaru.}

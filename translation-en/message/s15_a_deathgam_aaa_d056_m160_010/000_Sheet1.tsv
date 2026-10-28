@@ -1,11 +1,11 @@
 id	huella_jp	es
 10	fa1d4c4a	¡Haa... haa... haa... haa...!
-20	5aeec6b6	¡¿Dónde estás, Kirifuji...?!
+20	5aeec6b6	¡¿Dónde estás, Nozomi...?!
 30	629d0ca0	{fc(57e4f1)Busqué a Kirifuji\nrecorriendo la base a toda velocidad.}
 40	f845c3fd	{fc(57e4f1)Y, en un espacio del fondo...}
 50	7e52ec0d	¡Eva...! ¡Eva...!\n¡Aguanta, Eva...!
 60	ab1611fa	U-Uuh...
-70	6be0a970	{fc(57e4f1)Kirifuji cuidaba a Eva,\nque parecía semiinconsciente.}
+70	6be0a970	{fc(57e4f1)Nozomi cuidaba a Eva,\nque parecía semiinconsciente.}
 80	240b43cc	{fc(57e4f1)No puede ser... que de verdad esté Eva aquí...}
 90	0dfd359a	Uuh... mmm...
 100	2fa27496	¿Dónde... estoy...?
@@ -15,7 +15,7 @@ id	huella_jp	es
 140	8a529bc9	Cuando abrí los ojos, Nozomi...
 150	8e1962b4	Un momento... ¡¿Nozomi?!
 160	918062bb	{fc(57e4f1)Eva parecía haber despertado por completo,\ny se sobresaltó al ver el rostro de Kirifuji.}
-170	c3b6cd8f	Y también Sumino...\n¡¿por qué están ustedes en un lugar como este...?!
+170	c3b6cd8f	Y también Takumi...\n¡¿por qué están ustedes en un lugar como este...?!
 180	1d5cc913	Eso es lo que debería preguntar yo...\n¿por qué estás en el puesto avanzado?
 190	1e84bb38	Por mala suerte, me encontraron los del ejército\ny me llevaron...
 200	aea24f30	Como soy una traidora que no se suicidó y se volvió prisionera,\nme interrogaron sin piedad...
@@ -23,28 +23,28 @@ id	huella_jp	es
 220	055096dd	No hay remedio... estamos en guerra.\nMás importante, ¿ustedes por qué están aquí...?
 230	ece4d121	¿Cómo que por qué? Obvio.\n¡Vinimos a verte, Eva!
 240	8e713b58	Qué bien... volver a verte.\nCon eso me basta.
-250	686d6c8a	{fc(57e4f1)A Kirifuji ya no le quedaban\nganas de vivir...}
+250	686d6c8a	{fc(57e4f1)A Nozomi ya no le quedaban\nganas de vivir...}
 260	77e6cfa2	{fc(57e4f1)Seguramente se hartó\nde esta cadena de matanzas.}
 270	4c8af3f4	Ya... ya veo... viniste a verme...
 280	9da7fdd5	Por cierto, Nozomi... más al fondo de aquí hay una enfermería...
 290	07696cbc	¿Podrías traerme vendas y calmantes?\n¡Me duele todo el cuerpo... uh, uuh...!
 300	0fdb5136	Sí, entendido...\n¡enseguida los traigo, espérame!
-310	77dbd999	{fc(57e4f1)Kirifuji salió corriendo apresurada...}
+310	77dbd999	{fc(57e4f1)Nozomi salió corriendo apresurada...}
 320	a46ee147	{fc(57e4f1)En cuanto Kirifuji desapareció,\nEva me miró a mí.}
 330	3e0a7f65	Y bien... ¿por qué vinieron en realidad?\n¡Cuéntame los detalles!
 340	5224e380	Sí... la verdad es que...
 350	7884a371	{fc(57e4f1)Decidí contárselo todo a Eva.}
-360	a0270edc	{fc(57e4f1)Que Kirifuji está ahora en el último lugar de la Caza de Invasores.}
+360	a0270edc	{fc(57e4f1)Que Nozomi está ahora en el último lugar de la Caza de Invasores.}
 370	8afd89da	{fc(57e4f1)Que vinimos aquí para dar un vuelco, derrotamos a Quenzelle,\ncomandante de la Cuarta Unidad, pero...}
-380	98355173	{fc(57e4f1)Que Kirifuji renunció\na dar el golpe final a Quenzelle.}
-390	555a8a5d	Seguramente Quenzelle ya habrá sido matado\npor Yakushiji y los suyos...
-400	34fe1a2f	Ellos no tienen razón para esperar el golpe final.\nEl último lugar de Kirifuji es prácticamente un hecho...
+380	98355173	{fc(57e4f1)Que Nozomi renunció\na dar el golpe final a Quenzelle.}
+390	555a8a5d	Seguramente Quenzelle ya habrá sido matado\npor Takemaru y los suyos...
+400	34fe1a2f	Ellos no tienen razón para esperar el golpe final.\nEl último lugar de Nozomi es prácticamente un hecho...
 410	a46db131	E-Entonces... ¡Nozomi...!
 420	963767db	...Mañana a las 12 de la noche será ejecutada.
 430	fa38f075	No puede ser... ¡Nozomi, morir!\n¿¡No se puede detener la ejecución?!
 440	36c8d4e8	No se puede... el patrocinador es demasiado fuerte.
 450	ad4d240b	Ya es fuerte de por sí,\ny no sabemos ni cuántos cuerpos tiene...
-460	0bb7ebad	{fc(57e4f1)Omokage parece haber encontrado cómo derrotar al patrocinador,\npero dijo que la preparación aún tomaría tiempo.}
+460	0bb7ebad	{fc(57e4f1)Yugamu parece haber encontrado cómo derrotar al patrocinador,\npero dijo que la preparación aún tomaría tiempo.}
 470	bdd60356	No puede ser...\n¡No es posible que Nozomi muera!
 480	ce5c286c	¿Por qué es tan valiente esa niña...?
 490	cad86dea	Cree que si alguien va a salir herido,\nmejor que sea ella...
@@ -55,7 +55,7 @@ id	huella_jp	es
 540	3e6ff944	{fc(cfff3f)"¡Pum! ¡Pum! ¡Pum!"}
 550	97f43570	{fc(57e4f1)Eva golpeaba el suelo una y otra vez con el puño cerrado,\nestallando de ira...}
 560	1f5fcaba	{fc(57e4f1)No lo soportaba, seguramente...}
-570	ae310ab0	{fc(57e4f1)Ese destino irracional que le impone la muerte a Kirifuji...\nlos adultos que la criaron }{fc(ff635b)"de esa manera"}{fc(57e4f1)...}
+570	ae310ab0	{fc(57e4f1)Ese destino irracional que le impone la muerte a Nozomi...\nlos adultos que la criaron }{fc(ff635b)"de esa manera"}{fc(57e4f1)...}
 580	7c1dd1f6	...¡...! ...¡...! ...¡...!
 590	8b81d2c1	{fc(57e4f1)Eva respiraba agitada, mirando al cielo.\nCon cara de querer llorar... como ofreciendo una plegaria al cielo.}
 600	f4a72a8b	
@@ -108,13 +108,13 @@ id	huella_jp	es
 1070	442a5ff7	
 1080	772a64ec	{fc(57e4f1)Y justo entonces.}
 1090	6cd37b1f	¡Perdón por tardar!
-1100	607fea3b	{fc(57e4f1)Kirifuji volvió con los brazos llenos de vendas y frascos de medicinas.}
+1100	607fea3b	{fc(57e4f1)Nozomi volvió con los brazos llenos de vendas y frascos de medicinas.}
 1110	52983580	Oye, ¿cuál será el calmante?\nNo pude leer las etiquetas y traje de todo.
 1120	243e396c	{fc(57e4f1)Eva me miró y asintió una sola vez, en silencio.}
 1130	14af521a	{fc(57e4f1)Sus ojos lo decían...\n{fc(ff635b)"Vamos, hazlo"}{fc(57e4f1) decían.}
 1140	f4a72a8b	
-1150	cdc38175	{fc(57e4f1)Si mato aquí a Eva,\nKirifuji ganará una enorme cantidad de puntos.}
+1150	cdc38175	{fc(57e4f1)Si mato aquí a Eva,\nNozomi ganará una enorme cantidad de puntos.}
 1160	91c4f0bc	{fc(57e4f1)Pero... ¿de verdad estaba bien así?}
-1170	10623be0	{fc(57e4f1)Pero, si Kirifuji mata con sus propias manos a Eva, a quien quiere como a una madre,\nquizás ya no pueda levantarse...}
+1170	10623be0	{fc(57e4f1)Pero, si Nozomi mata con sus propias manos a Eva, a quien quiere como a una madre,\nquizás ya no pueda levantarse...}
 1180	52027c48	{fc(57e4f1)Y, para empezar, ¿está permitido matar a Eva...?\nAlguien que estuvo siempre con nosotros, casi una compañera.}
 1190	c8d26b0f	{fc(57e4f1)Yo... a Eva...}

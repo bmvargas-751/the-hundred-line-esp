@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	0bd6e82b	Día 73
 20	b04bb81d	{fc(57e4f1)Al día siguiente de la batalla de defensa...}
-30	fce22ef4	{fc(57e4f1)Fui al cuarto de Omokage\npara que me revisara el cuerpo.}
+30	fce22ef4	{fc(57e4f1)Fui al cuarto de Yugamu\npara que me revisara el cuerpo.}
 40	044939d2	Jiji... por fin podré hacer el diagnóstico.\nLo esperaba con ganas...
 50	31cd9d7c	...Hazme un diagnóstico normal, ¿sí?\n¿Que no me hagas disecciones ni modificaciones?
 60	67e0facb	Para que no te pusieras en guardia, elegí mi cuarto en lugar del sospechoso laboratorio biológico.
@@ -10,16 +10,16 @@ id	huella_jp	es
 90	1cd000aa	¡¿Y en qué parte de esa frase está la tranquilidad?!
 100	f91701da	Bueno, bueno, relájate.\nVeamos... empecemos por la palpación...
 110	0d575a4a	¡Oye! ¡¿Tú, dónde me estás tocando...?!\n¡P-Para...! ¡¡SUÉLTAME!!
-120	0259c675	{fc(57e4f1)Después de una hora, por fin terminó el diagnóstico de Omokage.}
+120	0259c675	{fc(57e4f1)Después de una hora, por fin terminó el diagnóstico de Yugamu.}
 130	f4a72a8b	
 140	54e197b8	P-por fin terminó...\nY entonces... ¿descubriste algo?
-150	3c8bebc7	Sí... lo descubrí, Sumino...
+150	3c8bebc7	Sí... lo descubrí, Takumi...
 160	d2630a64	Que, como sospechaba, es un problema más serio de lo que pensaba.
 170	bcf0fab1	¡¿Qué?!
 180	d5850857	{fc(57e4f1)Al ver el rostro serio de Omokage,\nmi corazón se aceleró y sudé frío.}
 190	debdbf80	{fc(57e4f1)¿Q-qué le pasa a mi cuerpo...?}
 200	488e7b7c	Lo vi en unos documentos de las instalaciones de esta academia, pero no pensé que ese terrible caso existiera de verdad...
-210	884a9062	Sumino, escucha sin asustarte.\nLos síntomas que tienes en el cuerpo son...
+210	884a9062	Takumi, escucha sin asustarte.\nLos síntomas que tienes en el cuerpo son...
 220	eec4ae95	...el Síndrome del Súper Remate.
 230	f4a72a8b	
 240	a9af342f	...¿Cómo dices?
@@ -39,7 +39,7 @@ id	huella_jp	es
 380	0e0023be	¡¡¡Esperaaaaaa un momento!!!
 390	2cfff814	¡De pronto apareció una sentencia de muerte!\n¡Y más bien, qué es una explosión por ataque!
 400	de7c341c	¡¿Quieres decir que, con la probabilidad de sacar el mejor rareza en un gacha, explotaré y moriré?!
-410	23ee6edd	Cálmate, Sumino... si haces remates con tanta frecuencia, no habrá vidas que te alcancen, ¿sabes?
+410	23ee6edd	Cálmate, Takumi... si haces remates con tanta frecuencia, no habrá vidas que te alcancen, ¿sabes?
 420	a3bea69b	Yo, al contrario, no puedo ocultar mi asombro\n¡de que leas esos síntomas con tanta calma...
 430	e48974e6	Bueno, aquí tenemos el Revive-O-Matic, pero de ahora en adelante conviene no hacer remates sin cuidado...
 440	d28cde4b	¿Qué es eso de no hacer remates sin cuidado?\nNormalmente no se hacen tantos remates.
@@ -49,6 +49,6 @@ id	huella_jp	es
 480	1f8a9a63	{fc(57e4f1)Quizá por hacer tantos remates últimamente,\nse me pegó la manía sin querer.}
 490	271ad6af	{fc(cfff3f)"Ding, dong..."}
 500	a1bfb0a2	...¿Eh? Parece que vino alguien.
-510	824f544d	Sumino, perdón, pero...por pereza, ¿puedes atender tú en mi lugar?
+510	824f544d	Takumi, perdón, pero...por pereza, ¿puedes atender tú en mi lugar?
 520	bfb1ee68	¡No me endoses cosas por pereza!
 530	dbcc1a01	{fc(57e4f1)...Ya lo hice otra vez sin querer.\nMejor atiendo obedientemente.}

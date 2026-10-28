@@ -1,10 +1,10 @@
 id	huella_jp	es
-10	f22e457b	¿Cómo encender el corazón de Yakushiji...?
+10	f22e457b	¿Cómo encender el corazón de Takemaru...?
 20	8f40f18f	Pero si Yakushiji siempre está encendido.\n¿Hay momentos en que esté frío?
 30	bc38ac86	Pero... últimamente, ¿no está un poco demasiado cauteloso?
 40	ccce707e	El de siempre habría sido el primero en declarar que participa,\nincluso en la Caza de Invasores.
-50	9e278e42	Es natural que Yakushiji sea cauteloso...\n¿cuántos compañeros han muerto hasta ahora?
-60	81a442c4	Murió Aotsuki... murió Maruko...\ny además...
+50	9e278e42	Es natural que Takemaru sea cauteloso...\n¿cuántos compañeros han muerto hasta ahora?
+60	81a442c4	Murió Eito... murió Gaku...\ny además...
 70	7e79a268	Hasta SIREI terminó así, ¿no?
 80	afcb22a9	¡¿P-Por qué están aquí los restos de SIREI?!
 90	a0849f67	Conecté los restos de SIREI a la PC de la Sala de Guerra\ny estoy rescatando los datos.
@@ -16,8 +16,8 @@ id	huella_jp	es
 140	f90c9ed2	{fc(57e4f1)Mirar los restos de SIREI\nme apretó el corazón.}
 150	0dc71b83	{fc(57e4f1)No perdono al culpable que dejó a SIREI así...\n¡No podemos dejarlo suelto!}
 160	940482cc	{fc(57e4f1)Una ira intensa me hervía todo el cuerpo.}
-170	c8829852	Kawana... ¿me prestas estos restos un momento?
+170	c8829852	Tsubasa... ¿me prestas estos restos un momento?
 180	a58d1568	No hay problema... pero ¿para qué los quieres?
-190	4797b5a1	Se los voy a mostrar... a Yakushiji.
-200	e1011792	{fc(57e4f1)El culpable que dejó a SIREI así\nprobablemente es el mismo que mató a Maruko.}
-210	a9c6d055	{fc(57e4f1)Si se los muestro, quizás Yakushiji recuerde.\nLa ira hacia el culpable...}
+190	4797b5a1	Se los voy a mostrar... a Takemaru.
+200	e1011792	{fc(57e4f1)El culpable que dejó a SIREI así\nprobablemente es el mismo que mató a Gaku.}
+210	a9c6d055	{fc(57e4f1)Si se los muestro, quizás Takemaru recuerde.\nLa ira hacia el culpable...}

@@ -1,17 +1,17 @@
 id	huella_jp	es
-10	7a3ba769	{fc(57e4f1)Cuando Oosuzuki y yo llegamos a la cafetería, estaban todos,\nsalvo SIREI, GOTOH y Aotsuki.}
+10	7a3ba769	{fc(57e4f1)Cuando Kurara y yo llegamos a la cafetería, estaban todos,\nsalvo SIREI, GOTOH y Eito.}
 20	ce8633cd	¿Qué les pasa? Nos citan y son los últimos en llegar:\nqué atrevimiento.
 30	74fb2501	...Perdón.
 40	f50424f6	Más importante, ¿qué es lo que tienes que decir?\nExplícalo rápido.
 50	0fd7432e	Por esa cara tan seria,\n¿será algo importante?
-60	571a0dd2	Además, que Oosuzuki sea quien nos cita...\nno es muy de ella.
-70	cb9093f2	Es verdad, si fuera Sumino quien nos reúne,\ntodavía.
+60	571a0dd2	Además, que Kurara sea quien nos cita...\nno es muy de ella.
+70	cb9093f2	Es verdad, si fuera Takumi quien nos reúne,\ntodavía.
 80	14cd18d1	Solo me dio curiosidad cómo se siente ser esclava.
 90	69406a6e	...¿Normalmente soy un esclavo?
 100	152e6996	Oye, ¿y SIREI y NIGOU?\n¿No los llamaron?
 110	ed8dfce1	NIGOU tiene algo urgente que hacer,\nasí que no la llamé.
 120	43f8b1c1	SIREI...
-130	8f2f9f93	{fc(57e4f1)Oosuzuki me mira de reojo.}
+130	8f2f9f93	{fc(57e4f1)Kurara me mira de reojo.}
 140	e1db55f7	{fc(57e4f1)Tomando esa señal,\nyo digo:}
 150	766728e9	SIREI no va a venir...
 160	9c051213	No, no puede venir.
@@ -19,18 +19,18 @@ id	huella_jp	es
 180	c729f246	¿Se fue de viaje a algún lado?
 190	e7f3b8d4	{fc(57e4f1)Lo digo con sinceridad.}
 200	39a9e8aa	Anoche lo engañé para citarlo...\ny lo rompí.
-210	c79fb226	Igual que hizo Aotsuki en los 100 días anteriores.
+210	c79fb226	Igual que hizo Eito en los 100 días anteriores.
 220	5a99b1c3	...¡¿Qué?!
 230	438a0fc4	...¿Lo rompió?
 240	10f5d2a2	...Lo entiendo. No es creíble.\nPero es verdad.
 250	92ef72aa	Si quieren, después puedo mostrarles los restos de SIREI.
-260	6cc79c48	¿Qué? ¿Oosuzuki también es cómplice?
+260	6cc79c48	¿Qué? ¿Kurara también es cómplice?
 270	de4f44d7	¡E-Esperen! ¡¿Qué es eso de romper?!
-280	d06a081d	¿Sumino y Oosuzuki también se volvieron raros,\ncomo Aotsuki...?
+280	d06a081d	¿Takumi y Kurara también se volvieron raros,\ncomo Eito...?
 290	d92dc468	...Tendrán un motivo, ¿verdad?
 300	d54c8d6c	En realidad...
 310	d302b643	{fc(57e4f1)Les conté a todos, sin ocultar nada,\nlo ocurrido en estos 3 días.}
-320	30f7aadc	{fc(57e4f1)Solo Shizuhara se quejó, igual que yo,\nde que se le iba la cabeza.}
+320	30f7aadc	{fc(57e4f1)Solo Hiruko se quejó, igual que yo,\nde que se le iba la cabeza.}
 330	f5cb1fee	{fc(57e4f1)Le ofrecí la pastilla por si quería,\ny ella la tomó sin dudar.}
 340	acbb011d	Entonces, por último, esto...
 350	12deeeb1	{fc(57e4f1)El lavado de cerebro sobre la razón de pelear\nque les habían hecho a todos...}
@@ -61,13 +61,13 @@ id	huella_jp	es
 600	e3e1c82a	{fc(cfff3f)"Silencio"}
 610	a2c7f79c	{fc(57e4f1)El silencio se tensó como hielo fino.}
 620	b23558c5	Oye...
-630	748af249	{fc(57e4f1)Como pisándolo despacio para agrietarlo,\nKirifuji habló.}
+630	748af249	{fc(57e4f1)Como pisándolo despacio para agrietarlo,\nNozomi habló.}
 640	7479fe17	...Yo todavía tengo mis dudas.
 650	3200d6dd	Porque, que nuestras razones para pelear\nsean un lavado de cerebro...
 660	80c0ceea	Pero creo que es una historia que vale la pena creer.
 670	335d4bc4	Hay cosas que solo cierran si se cree...
 680	e15870da	Pero...
-690	93fd168b	{fc(57e4f1)Kirifuji tragó saliva y continuó.}
+690	93fd168b	{fc(57e4f1)Nozomi tragó saliva y continuó.}
 700	47c319ff	Aunque nuestras razones para pelear fueran falsas,\n¿está bien dejar de pelear...?
 710	f4a72a8b	
 720	c952c671	No sé cómo decirlo...
@@ -78,7 +78,7 @@ id	huella_jp	es
 770	b338d144	...Nozomi.
 780	fe6f5e77	...Yo no quiero desperdiciarlo.
 790	4a19e687	...No quiero pensar que fue en vano, de ninguna manera.
-800	d8b4793c	{fc(57e4f1)...Es lo mismo que cuando convencí a Oosuzuki.}
+800	d8b4793c	{fc(57e4f1)...Es lo mismo que cuando convencí a Kurara.}
 810	f690f42b	{fc(57e4f1)No quiere desperdiciar las batallas de hasta ahora.\nNo quiere pensar que fueron en vano.}
 820	728e8c23	{fc(57e4f1)...Entiendo su sentimiento hasta el dolor.}
 830	86456134	{fc(57e4f1)Pero justamente por entenderlo...}

@@ -4,11 +4,11 @@ id	huella_jp	es
 30	e975a696	{fc(57e4f1)Salí corriendo, fuera de mí.}
 40	0c2d3a03	{fc(57e4f1)Las lágrimas me nublaban la vista.}
 50	ea7622ff	{fc(57e4f1)...No, ¿por qué? ¿Por qué estoy llorando?}
-60	8a79db67	{fc(57e4f1)¡Kirifuji no puede morir! ¡No puede morir en un lugar así!}
+60	8a79db67	{fc(57e4f1)¡Nozomi no puede morir! ¡No puede morir en un lugar así!}
 70	cf39111f	{fc(57e4f1)¡No puede terminar así...!}
-80	699fd850	¡¡Kirifuji!!
-90	98d24e34	{fc(57e4f1)Corrí hacia Kirifuji, que estaba tirada y cubierta de sangre, y la tomé en mis brazos.}
-100	2017ce45	Kirifuji... ¡resiste!
+80	699fd850	¡¡Nozomi!!
+90	98d24e34	{fc(57e4f1)Corrí hacia Nozomi, que estaba tirada y cubierta de sangre, y la tomé en mis brazos.}
+100	2017ce45	Nozomi... ¡resiste!
 110	f8226bcc	Sumi...no...
 120	1fd87097	E-Estás bien... ¡te vas a salvar! ¡Seguro... que te vas a salvar!
 130	f5ac9965	¡Te voy a salvar... sí o sí!
@@ -30,7 +30,7 @@ id	huella_jp	es
 290	c135e7e4	M-Me acordé...
 300	257ff880	...¿Eh?
 310	2eb729f8	Pero... ¿por qué? ¿Por qué... me había olvidado...?
-320	f9634d8e	¿Kirifuji...? ¿Qué pasa...?
+320	f9634d8e	¿Nozomi...? ¿Qué pasa...?
 330	ef76c7b6	Yo... sí que te conocía de antes...
 340	aef48060	...¿Qué?
 350	ac36fa61	Hablamos juntos... de tantas cosas... ¿Cómo pude... olvidarlo?
@@ -39,7 +39,7 @@ id	huella_jp	es
 380	7cd3d306	Takky... ¿no?
 390	1163fdbb	¡¿P-Por qué... me llamas así...?!
 400	fe12d74d	De verdad... por... qué...
-410	df979fe6	¡O-Oye! ¡¿Kirifuji?!
+410	df979fe6	¡O-Oye! ¡¿Nozomi?!
 420	f4a72a8b	
 430	579742bf	¡N-No...! ¡Abre... los ojos...!
 440	dadb8cc7	¡E-Eso es... tengo que parar la sangre...! ¡Si paro la sangre... seguro que...!
@@ -48,8 +48,8 @@ id	huella_jp	es
 470	7b44a80d	¿Eh? E-Esta herida...
 480	ee86599d	¿Es... la cicatriz de una operación?
 490	3b226530	¿Por... qué...?
-500	25e6f431	{fc(57e4f1)Porque... Kirifuji es Kirifuji, y Karua es Karua... se supone.}
-510	fccb864c	{fc(57e4f1)Se supone que son personas distintas, entonces, ¿por qué... Kirifuji tiene la misma herida que Karua?}
+500	25e6f431	{fc(57e4f1)Porque... Nozomi es Nozomi, y Karua es Karua... se supone.}
+510	fccb864c	{fc(57e4f1)Se supone que son personas distintas, entonces, ¿por qué... Nozomi tiene la misma herida que Karua?}
 520	1e0fbfe4	Entonces, lo que dijo hace un momento...
 530	667ddf1a	Que me conocía de antes... Que hablamos de muchas cosas...
 540	f11fa8de	Que se había olvidado... de algo importante...
@@ -80,7 +80,7 @@ id	huella_jp	es
 790	c9adb606	¡E-Es culpa nuestra! ¡Todo porque no escuchamos la advertencia de doña Nozomi!
 800	0c7d1950	¡I-Imaaa! ¡Queridísimo hermanooo!
 810	3b5eb683	¡Cálmese, Kako!
-820	821c58ec	Con Kirifuji y con Ima... no se puede usar el Revive-O-Matic, ¿no? ¿Quiere decir que de verdad se murieron...?
+820	821c58ec	Con Nozomi y con Ima... no se puede usar el Revive-O-Matic, ¿no? ¿Quiere decir que de verdad se murieron...?
 830	1559f046	Qué tragedia...
 840	081b8fff	¡M-Maldición! ¡Hijos de...!
 850	4c52f705	Todos nos morimos algún día, pero... esto deprime un poco.
@@ -88,18 +88,18 @@ id	huella_jp	es
 870	a023f38d	{fc(57e4f1)Murió...}
 880	6ef57846	{fc(57e4f1)De verdad murió...}
 890	004d429e	{fc(57e4f1)De verdad, de verdad... murió. Por protegernos.}
-900	207ef128	{fc(57e4f1)Karua y Kirifuji... murieron.}
+900	207ef128	{fc(57e4f1)Karua y Nozomi... murieron.}
 910	137d3fbf	{fc(57e4f1)Entonces, yo...}
 920	87e73500	...No voy a dejar que sea en vano.
 930	c5a451f2	Esta vida que protegiste arriesgando la tuya... no la voy a desperdiciar.
 940	8bde3432	{fc(57e4f1)Para eso, lo que ahora podemos hacer es...}
 950	a3e9d4c4	...¡Todos, a pelear!
 960	0ded5105	¿Eh...?
-970	338e01ea	Por Kirifuji, que nos protegió arriesgando la vida, lo que tenemos que hacer...
+970	338e01ea	Por Nozomi, que nos protegió arriesgando la vida, lo que tenemos que hacer...
 980	7df364b8	¡no es huir ni bajar la cabeza! ¡Es pelear contra el enemigo que nos tendió la trampa!
 990	989d950e	Si nos matan así, sin poder hacer nada... si nos quitan esta academia...
 1000	b3b0ee5a	¡lo que hizo ella para protegernos no habrá servido de nada!
-1010	484e1a14	¡Así que vamos a pelear! ¡Por Kirifuji también, vamos a pelear contra ellos!
+1010	484e1a14	¡Así que vamos a pelear! ¡Por Nozomi también, vamos a pelear contra ellos!
 1020	c9397d0e	Es cierto... tienes razón...
 1030	68bcd33c	¡Vamos a vengar a Nozomi! ¡Vamos a matar a todos esos invasores!
 1040	d69c5b1a	Los voy... a hacer pedazos...

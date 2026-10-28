@@ -13,7 +13,7 @@ id	huella_jp	es
 120	03b58239	Esa estructura grande de madera...\n¿También se usa en el asado?
 130	bb4645e8	Jeje... eso, eso mismo.\nEl toque final de la preparación... ¡es eso!
 140	3c8a6526	¡Entonces, allá voy!
-150	89f33376	{fc(57e4f1)Maruko prendió con un encendedor un papel arrugado\ny lo arrojó dentro de la enorme estructura de madera.}
+150	89f33376	{fc(57e4f1)Gaku prendió con un encendedor un papel arrugado\ny lo arrojó dentro de la enorme estructura de madera.}
 160	253ccc89	{fc(57e4f1)Enseguida, las llamas se contagiaron a la estructura...}
 170	e61a9dfe	{fc(57e4f1)y pronto una enorme columna de fuego\niluminó de rojo el cielo nocturno.}
 180	0b6ba6c5	¡Guau... qué hermoso...! ¿Qué es esto...?
@@ -34,7 +34,7 @@ id	huella_jp	es
 330	dcb32971	Tiene sentido, si estaba dentro del Satélite Artificial.\nUn incendio sería una catástrofe...
 340	c43b4880	¡Exacto! ¡O sea que la humanidad de allá\nnunca ha hecho una fogata de campamento!
 350	86d864a8	¡Es un privilegio de nosotros, los que estamos aquí!\n¡¿Qué tal?! ¡¿Les da envidia?!
-360	3b795e07	{fc(57e4f1)Maruko gritaba con todas sus fuerzas\nhacia el Satélite Artificial en el cielo.}
+360	3b795e07	{fc(57e4f1)Gaku gritaba con todas sus fuerzas\nhacia el Satélite Artificial en el cielo.}
 370	d9f8805a	De verdad, qué impresión de fuerza...\nNunca había visto algo así.
 380	8fb77ff3	¡Yo tampoco he visto algo así desde el death match\nde plancha para el perdedor!
 390	788942fd	Bueno, eso también es un recuerdo falso.
@@ -65,7 +65,7 @@ id	huella_jp	es
 670	42c72cc3	Por supuesto habrá cosas duras y tristes,\npero seguro eran recuerdos hermosos que les dieron razón de vivir...
 680	360a5149	Pero los míos son distintos.\nNo tuvieron nada de amor ni afecto: solo odio y rencor.
 690	4013d691	Con esos sentimientos negativos como motor,\nmis días eran un tormento...
-700	b23bfe6e	Aotsuki...
+700	b23bfe6e	
 710	2e92f2ce	Y cuando supe que todo había sido fabricado...\ncuando supe que el odio que me carcomía era mentira...
 720	cad31ba9	quise morir de verdad.\nQuise liberarme de ese sufrimiento.
 730	45763d9e	Me cansé de seguir odiando.
@@ -82,28 +82,28 @@ id	huella_jp	es
 840	f4a72a8b	
 850	6ccdaba9	No les pido que me crean.\nSolo que me permitan pelear con ustedes...
 860	53f8af8d	Para que algún día pueda ponerme a su lado.
-870	9249f2fc	{fc(57e4f1)Escuchamos en silencio\nlas palabras de Aotsuki.}
+870	9249f2fc	{fc(57e4f1)Escuchamos en silencio\nlas palabras de Eito.}
 880	716b377b	{fc(57e4f1)Las palabras de Aotsuki eran directas\ny al menos a mí me llegaron hondo.}
 900	b52dbf0b	Oigan, todos...\nHa pasado de todo hasta ahora, pero...
-910	daa6c298	creo que este ya no es el Aotsuki de antes.\nQuizá ya sea hora de reconocerlo...
+910	daa6c298	creo que este ya no es el Eito de antes.\nQuizá ya sea hora de reconocerlo...
 920	f6ed9f63	...Después de oír una larga charla sobre sí mismo,\nfue una pérdida de tiempo, en serio.
-930	fca3b30f	¡O-Oye, Shizuhara...!
-940	59557a0e	Además, esta fogata de campamento\nes un evento por Aotsuki, ¿verdad?
+930	fca3b30f	¡O-Oye, Hiruko...!
+940	59557a0e	Además, esta fogata de campamento\nes un evento por Eito, ¿verdad?
 950	ce8b63fe	...¿Eh?
-960	afe413e9	...¿Es cierto, Maruko?
-970	c98b3a7d	M-Me lo pidió... Sumino.\nYo solo planifiqué la fogata...
+960	afe413e9	...¿Es cierto, Gaku?
+970	c98b3a7d	M-Me lo pidió... Takumi.\nYo solo planifiqué la fogata...
 980	d9206ba2	Si llegaron hasta ahí... no hay remedio.\nNo voy a ser yo quien les ponga trabas.
 990	69f675a8	¿Eh? Entonces...
 1000	02887dba	...Lo que sea, pero tengo hambre.\nComamos ya.
 1010	ac50a93c	...Sí, tienes razón. Comamos juntos, bellos todos.
 1020	740851cb	Eh, bueno... ¿yo también puedo estar?
 1030	066977c6	¿Necesitas que te lo explique todo?\nPensé que eras más despierto.
-1040	9080acca	...Aotsuki, parece que está bien.
+1040	9080acca	...Eito, parece que está bien.
 1050	636ac09c	Gracias...
 1055	d79ea7db	Gracias, feos todos.
 1060	1bf745fb	{fc(57e4f1)Ese modo de hablar se le quedó pegado.\nBueno, ya me rindo.}
 1070	10e42d00	¡Muy bien! ¡Empecemos!\n¡Una divertida fogata de campamento!
-1080	2269bad7	{fc(57e4f1)Apenas Maruko dijo eso,\nnos repartimos alrededor del enorme fuego.}
+1080	2269bad7	{fc(57e4f1)Apenas Gaku dijo eso,\nnos repartimos alrededor del enorme fuego.}
 1090	6c2bfa0e	Vaya, pensaba que era bárbaro,\npero comer así, rodeando el fuego, no está nada mal.
 1100	4bbbcd38	El fuego... suena cuando arde...\nQué buen sonido.
 1110	a7164349	Además, es hermoso...\nEs la primera vez que veo fuego de verdad.
@@ -127,14 +127,14 @@ id	huella_jp	es
 1290	d55a8d48	De Kei Kanno, de quince años, residente del Complejo Residencial de Tokio,\nrecibimos un mensaje para todos ustedes...
 1300	de715f2c	¡Basta! ¡Justo cuando me estoy divirtiendo\ny olvidando tantas cosas!
 1310	9af6a24d	{fc(57e4f1)Cuando me aparté un poco del círculo de conversación\nalrededor del fuego para ir por algo de beber...}
-1320	9ffb32bd	Sumino...
-1330	1c097ce9	{fc(57e4f1)Kirifuji me llamó por la espalda.}
-1340	e36893ba	Ah, Kirifuji...\n¿Qué tal? ¿Te estás divirtiendo?
+1320	9ffb32bd	
+1330	1c097ce9	{fc(57e4f1)Nozomi me llamó por la espalda.}
+1340	e36893ba	Ah, Nozomi...\n¿Qué tal? ¿Te estás divirtiendo?
 1350	ce86441c	Sí, muchísimo.
 1360	0c549afb	Entonces... ¿te acuerdas de lo que dije antes?\nQue quería hablar contigo a solas.
 1370	8dddd33c	S-Sí... ¿qué pasa?
 1380	e741dd2c	Eh, voy a decírtelo de golpe...
-1390	fef02ffa	{fc(57e4f1)Kirifuji lo dijo con expresión tensa,\nmirando hacia abajo.}
+1390	fef02ffa	{fc(57e4f1)Nozomi lo dijo con expresión tensa,\nmirando hacia abajo.}
 1400	05ce7d3c	Cuando termine esta batalla y volvamos a una vida normal...\n¿te gustaría que saliéramos juntos a alguna parte?
 1410	257ff880	...¿Eh?
 1420	abf95c80	A un karaoke, al cine, a comer, a pasear...\nNo, o también sin hacer nada...
@@ -143,7 +143,7 @@ id	huella_jp	es
 1450	f555311c	P-Perdón por decirlo tan de golpe...\nEs que... quería tener algo que esperar para cuando volvamos.
 1460	350beacc	Así siento que podré superar también la batalla que viene.
 1470	92a4e713	...La respuesta dámela después. Piénsalo, ¿sí?
-1480	b44999a9	{fc(57e4f1)Dijo eso con una sonrisa, como disimulando,\ny Kirifuji volvió a paso rápido al círculo de los demás.}
+1480	b44999a9	{fc(57e4f1)Dijo eso con una sonrisa, como disimulando,\ny Nozomi volvió a paso rápido al círculo de los demás.}
 1490	242b7422	
 1500	f83d3616	{fc(57e4f1)Después, los temas no se agotaron\ny charlamos y charlamos a nuestro antojo.}
 1510	d34c8f02	{fc(57e4f1)Desde tonterías hasta, a veces,\nconversaciones serias sobre el futuro...}

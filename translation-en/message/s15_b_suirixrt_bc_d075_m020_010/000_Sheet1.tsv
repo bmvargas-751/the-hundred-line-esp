@@ -1,10 +1,10 @@
 id	huella_jp	es
 10	fc78891b	¿P-Por qué dice que soy la culpable...?
 20	c2045468	Para explicarlo,\nprimero hay que aclarar el procedimiento del crimen.
-30	f0cb6499	El cuerpo de Ginzaki se encontró en esa jaula de ahí.\nApuñalado a mansalva.
+30	f0cb6499	El cuerpo de Shouma se encontró en esa jaula de ahí.\nApuñalado a mansalva.
 40	0aa54292	Es decir, Eva...\ntú, de algún modo, entraste en esa jaula.
 50	a4416138	Pero la puerta de la jaula estaba cerrada con llave...
-60	a86e39ef	Y la llave para abrirla la tenía el Sr. Sumino...
+60	a86e39ef	Y la llave para abrirla la tenía el Sr. Takumi...
 70	9af87635	Sí, es cierto, yo la tenía.
 80	489d34cf	Por eso tú no usaste la llave.
 90	0a61404a	Entraste a la jaula por otro método.
@@ -51,7 +51,7 @@ id	huella_jp	es
 500	d52c3b0d	¿No habrá movido la jaula...?
 510	35f93392	¡Eso, eso! ¡Levantaste la jaula\ny entraste desde abajo...!
 520	c9e2cb8e	Es broma, ¿sabes?
-530	eb9f1e0c	Sr. Sumino... ¿qué pretende?
+530	eb9f1e0c	Sr. Takumi... ¿qué pretende?
 540	ac40282a	Después de acusarme de culpable,\n¿me sale con que era una broma...?
 550	378db019	P-Perdón... fue mala mía...
 560	a5e3078f	No es algo que se resuelva con una disculpa...
@@ -64,7 +64,7 @@ id	huella_jp	es
 630	f4a72a8b	
 640	f1f5e836	De cualquier modo...\n¡Eva es la culpable, sin duda!
 650	e45edc2b	Porque eso sale así, y eso sale asá...
-660	4229b434	¿Q-Qué dice, Sr. Sumino...?
+660	4229b434	¿Q-Qué dice, Sr. Takumi...?
 670	05da2c04	No es posible, por muy...\n¡levantar un pedazo de hierro tan macizo!
 680	01e14ead	Sí, es verdad.\nLa jaula pesa una tonelada.
 690	f582f909	No importa cuánto te esfuerces,\nno es algo que se mueva con las manos desnudas.
@@ -75,13 +75,13 @@ id	huella_jp	es
 740	c011c758	¡Usaste magnetismo!
 750	a0091b5b	¿Magnetismo...?
 760	3451c1ec	¡Instalaste un enorme electroimán en el techo\ny con su fuerza magnética levantaste la jaula de hierro!
-770	0e6b11f7	Cuando encontraron el cuerpo de Ginzaki...no había ningún aparato de electroimán...
+770	0e6b11f7	Cuando encontraron el cuerpo de Shouma...no había ningún aparato de electroimán...
 780	0d99d8c2	Y no creo que Eva pudiera fabricar uno...
 790	d2c9fae8	¡Usaste telequinesis!
 800	6d9eee3d	¿T-Telequinesis...?
 810	460459f3	Tú eres de la raza del lado de los invasores.
 820	27c73ce8	No sería raro que pudieras usar poderes sobrenaturales, ¿verdad?
-830	65766c12	Si pudiera usar ese poder,\nsería más rápido estrangular a Ginzaki desde fuera de la jaula, ¿no?
+830	65766c12	Si pudiera usar ese poder,\nsería más rápido estrangular a Shouma desde fuera de la jaula, ¿no?
 840	e4501d2b	O lanzar el cuchillo con la telequinesis...
 850	2e47aed9	¡Usaste flotabilidad!
 860	ae6d150d	¿F-Flotabilidad...?
@@ -101,7 +101,7 @@ id	huella_jp	es
 1000	a4acbcce	¡Ajajajajajajajaja...!
 1010	6ed10f55	Ay, perdón...fue una deducción tan ridícula que no pude evitarlo...
 1020	f4a72a8b	
-1030	f0c23923	Sr. Sumino, ¿no sabe lo tremenda que es la presión del agua?
+1030	f0c23923	Sr. Takumi, ¿no sabe lo tremenda que es la presión del agua?
 1040	a6c0da77	Aunque cerrara los mamparos de todas partes\ny llenara este espacio de agua...
 1050	7ed45cef	¡seguro se filtraría agua por todos lados!\n¡Porque soporta una presión descomunal...!
 1060	83a165e8	No, es que... no se filtra.\nPor la estructura, es así.
@@ -110,16 +110,16 @@ id	huella_jp	es
 1090	1fe69c32	¿Qué fin es ese?
 1100	bb31826f	¡No diga cosas al azar!
 1110	beef9677	Este lugar parece que fue un biotopo.\n¡Para la investigación del desarrollo espacial...!
-1120	087e0ef1	Por eso Kawana dijo que\n"soporta presiones de decenas de atmósferas".
+1120	087e0ef1	Por eso Tsubasa dijo que\n"soporta presiones de decenas de atmósferas".
 1130	6158d405	Sí, eso es cierto...
 1140	91160109	¡Ugh...!
 1150	fcaf8e2e	Por eso, de este espacio no se filtra agua.
 1160	9fdc1d22	Después de un rato, se llenaría de agua.
 1170	1a190987	Calculando por el caudal de la fuente...
 1180	b817b618	para que el agua llegue al borde superior de la jaula,\ntardaría unas tres horas, más o menos.
-1190	75bcb593	Mataron a Ginzaki a las 4 de la madrugada, así que, contando hacia atrás,\nempezaste a llenar de agua alrededor de la 1.
+1190	75bcb593	Mataron a Shouma a las 4 de la madrugada, así que, contando hacia atrás,\nempezaste a llenar de agua alrededor de la 1.
 1200	f671eaac	Este lugar parece que fue una piscina gigante.\n¡Para la investigación del buceo en aguas profundas...!
-1210	087e0ef1	Por eso Kawana dijo que\n"soporta presiones de decenas de atmósferas".
+1210	087e0ef1	Por eso Tsubasa dijo que\n"soporta presiones de decenas de atmósferas".
 1220	1a15ca48	Eh... no dije eso...
 1230	c56102ce	Jeje...
 1240	0369dfc0	Este lugar parece que fue antes un pañal.\n¡Para la raza de gigantes extragrandes...!
@@ -156,26 +156,26 @@ id	huella_jp	es
 1550	0dab31c1	¡Eva lo comió y aumentó de golpe su masa muscular!\n¿Es eso?
 1560	6cd978a5	Sí, dicho de otra manera, se infló: ¡se podría decir que infló sus músculos!
 1570	f4a72a8b	
-1580	99b77807	¿No habrán inflado los mochi\nque tenía don Ginzaki?
+1580	99b77807	¿No habrán inflado los mochi\nque tenía don Shouma?
 1590	35c63936	¿Mochi?
-1600	fba80b34	Una vez oí que en la mochila de don Ginzaki\nhabía una gran cantidad de mochi...
+1600	fba80b34	Una vez oí que en la mochila de don Shouma\nhabía una gran cantidad de mochi...
 1610	c9a50d7b	¡Es eso...!
 1620	fea3a6b7	¡Si se inflan todos, la flotabilidad aumentaría muchísimo...!
-1630	334fb821	Sr. Sumino, lo siento mucho, pero...lo que dice es demasiado disparatado...
+1630	334fb821	Sr. Takumi, lo siento mucho, pero...lo que dice es demasiado disparatado...
 1640	ba292bfa	Ya basta...
 1650	c51f52c9	Seguir así no tiene sentido...
 1660	01aacc04	Sí, es cierto...
 1670	535c5cca	Estoy perdiendo la confianza...
-1680	b52ddfb1	¡O-Oye, Sumino...!\n¡No te rindas tan fácil!
+1680	b52ddfb1	¡O-Oye, Takumi...!\n¡No te rindas tan fácil!
 1690	a894b44f	E-Está bien...\n¡entonces reordenemos otra vez el camino de la deducción!
 1700	d9f35eef	Esto sale así y eso sale asá...\neste... este...
 1710	f34041ba	No, todavía no...
 1720	98297e88	¡No voy a dejarlo aquí...!
-1730	299ddb15	¡Ánimo, don Sumino...!
+1730	299ddb15	¡Ánimo, don Takumi...!
 1740	86de7ba6	Una vez, con calma...\n¡voy a reordenar el camino de la deducción!
 1750	d9f35eef	Esto sale así y eso sale asá...\neste... este...
 1760	f4a72a8b	
-1770	729df25d	Este... Sr. Sumino, ¿me está escuchando?
+1770	729df25d	Este... Sr. Takumi, ¿me está escuchando?
 1780	fd3eb4c4	Escucho, escucho...\nEstaba reordenando el camino de la deducción.
 1790	d9f35eef	Esto sale así y eso sale asá...\neste... este...
 1800	656e727f	¡Inflar cien globos así en tan poco tiempo\nes imposible!
@@ -204,26 +204,26 @@ id	huella_jp	es
 2030	b010039e	V-Ya veo...
 2040	64b6603d	Es cierto que así quizás se pudo levantar\nla jaula bajo el agua.
 2050	9d2daba0	Pero eso es un poco raro, ¿no?
-2060	491dbd9d	Si la jaula hubiera quedado completamente sumergida,\nel Sr. Ginzaki, que estaba dentro, se habría ahogado.
+2060	491dbd9d	Si la jaula hubiera quedado completamente sumergida,\nel Sr. Shouma, que estaba dentro, se habría ahogado.
 2070	26649781	Pero en el monitor de análisis del Revive-O-Matic\nla causa de muerte era choque hemorrágico...
 2080	3373b1fe	¿Por qué será?\n¿No es raro?
-2090	ec2eb604	Según su deducción, Sr. Sumino,\nel Sr. Ginzaki se habría ahogado antes de que lo apuñalaran...
+2090	ec2eb604	Según su deducción, Sr. Sumino,\nel Sr. Shouma se habría ahogado antes de que lo apuñalaran...
 2100	9dbaa051	¿No habrá aguantado la respiración a toda costa?
 2110	54b1303e	El récord mundial de apnea es de 24 minutos.
 2120	1286a564	Eso basta de sobra.\nY mientras tanto tú levantaste la jaula y entraste...
 2130	91dacc9f	No, ese récord es respirando oxígeno puro...\n¿de una concentración del 100 %?
-2140	16272433	Y además Ginzaki seguramente se resistió muchísimo...
+2140	16272433	Y además Shouma seguramente se resistió muchísimo...
 2150	2505ef95	¿No habrá estado sin respirar menos de unos minutos?
 2160	4bccd9f6	S-Sí, es verdad...\n¡Eso mismo pensaba!
 2170	f4a72a8b	
-2180	8065329e	Seguramente Ginzaki respiraba\nel aire acumulado dentro de los globos.
+2180	8065329e	Seguramente Shouma respiraba\nel aire acumulado dentro de los globos.
 2190	87f07a00	¿Desatando el nudo del globo?
 2200	fe91176c	Hacer eso mientras uno nada a duras penas de pie en el agua...\nme parece que tiene sus dificultades...
 2210	f4a72a8b	
 2220	ea559c83	La jaula no estaba completamente sumergida.
 2230	8c2848dc	El nivel final del agua seguramente estaba\nalgo por debajo del borde superior de la jaula.
 2240	1b13835e	Porque el volumen de agua desplazada por la propia jaula\ntambién actúa como flotabilidad.
-2250	9cfda216	Seguramente Ginzaki respiraba con la cara fuera del agua,\nabriendo y cerrando la boca.
+2250	9cfda216	Seguramente Shouma respiraba con la cara fuera del agua,\nabriendo y cerrando la boca.
 2260	8b9d4013	Como una carpa...
 2270	a4d99c53	Y tú te sumergiste, levantaste la jaula,\nentraste y lo apuñalaste varias veces.
 2280	f4a72a8b	
@@ -232,11 +232,11 @@ id	huella_jp	es
 2310	fb12514d	¿Puedo considerar que gané?
 2320	a45bd2d1	Después, el agua acumulada en el patio...\n¿qué se hizo?
 2330	a56577ea	Claro que se evacuó.\nAbriendo el mamparo del desagüe...
-2340	0ae0edfa	¡Entonces, cuando encontraron el cuerpo de Ginzaki,\nel patio tendría que haber estado empapado!
+2340	0ae0edfa	¡Entonces, cuando encontraron el cuerpo de Shouma,\nel patio tendría que haber estado empapado!
 2350	31fcf9d8	¿Estaba así?\n¡No estaba así, ¿verdad?!
 2360	c572b0ba	Seguramente en realidad\ntodo estaba empapado.
 2370	0f45a0de	Pero por una especie de proyección,\nen este espacio se proyectó una imagen de paisaje seco.
-2380	caee7824	Sr. Sumino... no bromee.
+2380	caee7824	Sr. Takumi... no bromee.
 2390	ca583dc8	¿De verdad cree que con eso se puede disimular\nque todo estuviera empapado?
 2400	f4a72a8b	
 2410	cc3adb79	Lo secaste con aire caliente.
@@ -246,12 +246,12 @@ id	huella_jp	es
 2450	b9490dc5	Con esa función\nse puede inyectar aire caliente en este espacio.
 2460	e8e8aa72	Tras evacuar el agua, tú activaste ese aparato\ny secaste de golpe todo el patio.
 2470	60c15242	Claro que no había mucho tiempo,\nasí que quizás no quedó completamente seco.
-2480	9d6ef936	Cuando encontraron el cuerpo de Ginzaki,\nel patio seguramente estaba un poco húmedo.
-2490	05dc4073	Pero aun así bastó.\n¡Porque nosotros estábamos conmocionados por el cuerpo de Ginzaki!
+2480	9d6ef936	Cuando encontraron el cuerpo de Shouma,\nel patio seguramente estaba un poco húmedo.
+2490	05dc4073	Pero aun así bastó.\n¡Porque nosotros estábamos conmocionados por el cuerpo de Shouma!
 2500	39042da5	Por eso pasamos por alto\nque el ambiente estaba un poco mojado.
-2510	c5d669b8	Solo noté una cosa...que el cuerpo de Ginzaki estaba húmedo.
+2510	c5d669b8	Solo noté una cosa...que el cuerpo de Shouma estaba húmedo.
 2520	c572b0ba	Seguramente en realidad\ntodo estaba empapado.
-2530	d41069f8	Pero nosotros estábamos conmocionados\npor el cuerpo de Ginzaki.
+2530	d41069f8	Pero nosotros estábamos conmocionados\npor el cuerpo de Shouma.
 2540	10884352	Por eso no nos dimos cuenta de las anomalías a nuestro alrededor.
 2550	837bc67a	No, eso me parece demasiado forzado, ¿no?
 2560	6eb50edf	¡Si todo alrededor hubiera estado empapado,\ncualquiera se habría dado cuenta!
@@ -272,21 +272,21 @@ id	huella_jp	es
 2710	f4a72a8b	
 2720	f4a72a8b	
 2730	f4a72a8b	
-2740	19ccdd6a	¡Sumino, ¿no la detienes?!
+2740	19ccdd6a	¡Takumi, ¿no la detienes?!
 2750	13d588ea	N-No, no puede ser...\n¡Eva es la culpable, seguro!
 2760	e45edc2b	Porque eso sale así y eso sale asá...
 2770	0dca8377	Haa... bueno, está bien.\nAunque sea una tontería monumental...
 2780	ee45e6f1	En fin, Sr. Sumino, quiere decir esto, ¿no?
-2790	e9f0eeed	Que yo me sumergí, levanté la jaula,\ny apuñalé a mansalva al Sr. Ginzaki, que asomaba la cara.
+2790	e9f0eeed	Que yo me sumergí, levanté la jaula,\ny apuñalé a mansalva al Sr. Shouma, que asomaba la cara.
 2800	1ec5a454	Luego volví a sumergirme, giré la manivela bajo el agua\ny abrí el mamparo del desagüe...
-2810	ed2d1901	Pero, Sr. Sumino...\n¡yo no soy ni pescadora de perlas ni sirena!
+2810	ed2d1901	Pero, Sr. Takumi...\n¡yo no soy ni pescadora de perlas ni sirena!
 2820	77160eb3	Aunque respirara a ratos...
 2830	f8ff016a	¡una tarea tan difícil bajo el agua\nes imposible para una persona común!
 2840	6ac10006	¡Pensándolo con realismo, ¿cree que es posible?!
 2850	46e8f0ad	Sí, es posible.
 2860	239e0c51	¡Con tu máscara, Eva!
 2870	accf34ee	¡Ugh...!
-2880	d44c0904	Antes me lo dijo Kawana.
+2880	d44c0904	Antes me lo dijo Tsubasa.
 2890	784833df	Que la máscara de Eva tiene función\nde máscara de gas hermética.
 2900	7c23b222	Que tiene un pequeño tanque de aire integrado...
 2910	9ac845bb	y que con él se puede respirar unos 30 minutos,\naislado del aire exterior, según me dijo Kawana.
@@ -302,7 +302,7 @@ id	huella_jp	es
 3010	46e8f0ad	Sí, es posible.
 3020	f67d5f27	¡Si tienes garra y agallas, Eva!
 3030	f4a72a8b	
-3040	5ea99e73	Sumino... ¿lo dices en serio?
+3040	5ea99e73	Takumi... ¿lo dices en serio?
 3050	5ac0e815	Si es así, es de una mentalidad bien de la vieja escuela...
 3060	f4a72a8b	
 3070	f4a72a8b	
@@ -316,7 +316,7 @@ id	huella_jp	es
 3150	ba37dff2	¡Sí, seguro que es eso!\n¡No puede ser otra cosa!
 3160	90f537e5	Eva, no te resistas más...\n¿por qué no lo admites ya?
 3170	02088071	Esa máscara está hecha a medida con el molde de la cabeza,\nes una pieza única, ¿no?
-3180	6474bacc	Por eso Kawana también dijo:\n"nadie más que Eva puede ponérsela".
+3180	6474bacc	Por eso Tsubasa también dijo:\n"nadie más que Eva puede ponérsela".
 3190	91160109	¡Ugh...!
 3200	12236fb2	Eva, como tú misma dijiste, ¡este crimen es imposible para una persona común!
 3210	71ee2f1a	¡A menos que sea una pescadora de perlas, una sirena...\no quien lleve esa máscara!
@@ -324,7 +324,7 @@ id	huella_jp	es
 3230	7fda5725	¡Y quien pudo hacerlo es una sola persona!
 3240	82ac3db7	¡La que está ahora frente a mis ojos...!
 3250	0fe1658d	¡En resumen, Eva...si no eres tú...!
-3260	dcc6ff13	¡no se podía matar a Ginzaki!
+3260	dcc6ff13	¡no se podía matar a Shouma!
 3270	a05f3893	Uuu... uuuuh...
 3280	14be4e4f	No puede ser... no puede ser... no puede ser...
 3290	1de22853	¡¡¡UAAAAAAAAAAAAAAH!!!

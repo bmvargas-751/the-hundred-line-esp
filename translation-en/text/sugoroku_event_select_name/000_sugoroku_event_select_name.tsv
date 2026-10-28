@@ -116,15 +116,15 @@ id	huella_jp	es
 3013	a931606b	Hacerle garabatos.
 3021	e95ea0dc	Destruir la piedra sagrada.
 3022	63b1115d	Dejarle una ofrenda a la piedra sagrada.
-3023	59324448	Pedirle a Magadori que la corte.
+3023	59324448	Pedirle a Kyoshika que la corte.
 3031	dceddf39	Entrar en la tienda.
 3032	ae3f1e4d	Pasar de largo.
-3033	5e8a2c44	Maruko se está portando raro...
+3033	5e8a2c44	Gaku se está portando raro...
 3041	cbf936f9	Abrirlo a la fuerza.
 3042	2f72778b	Forzar la cerradura.
 3051	47ff02b4	Cavar en la pared de roca con un pico.
 3052	699b0c28	Volarla con dinamita.
-3053	25deac7b	Pedirle a Oosuzuki que cave.
+3053	25deac7b	Pedirle a Kurara que cave.
 3061	996a3276	Tomar las piedras apiladas en el laboratorio.
 3062	731be06e	Presionar algún interruptor.
 3063	4036ace9	Meter un objeto en un equipo de experimentos.
@@ -148,7 +148,7 @@ id	huella_jp	es
 3152	fd025398	Salir rápido del edificio.
 3161	3139136d	Buscar dónde ponerse a salvo.
 3162	27ead8c3	Bajar la cuesta a toda prisa.
-3163	66a54524	Pedirle a Mojiro que rompa la roca.
+3163	66a54524	Pedirle a Moko que rompa la roca.
 3171	52ba4385	Vigilar los alrededores.
 3172	1e8c346a	Seguir sin darle importancia.
 3181	9baf3f4d	Buscar vidrios sin romper.
@@ -174,14 +174,14 @@ id	huella_jp	es
 3252	dc49a25c	Agrandar el agujero.
 4011	b6441a62	Intentar desactivarla.
 4012	6dd98022	Alejarse corriendo a toda velocidad.
-4013	a9b5e6f7	Pedirle a Kawana que la desactive.
+4013	a9b5e6f7	Pedirle a Tsubasa que la desactive.
 4021	d69236e3	Meterle materiales.
 4022	200ec5d1	Patear la máquina de reciclaje.
 4031	14fad7ca	Entrar en el edificio y explorar.
 4032	4813830c	Alejarse, que es peligroso.
 4041	db820681	Revisar el asiento del conductor.
 4042	f2a59144	Revisar el maletero.
-4043	6ec8fb41	Pedirle a Kawana que lo repare.
+4043	6ec8fb41	Pedirle a Tsubasa que lo repare.
 4051	069e569a	Revisar la cabina.
 4052	33d8011b	Revisar el reactor.
 4061	f5a19ee9	Desarmar una lavadora.
@@ -232,10 +232,10 @@ id	huella_jp	es
 4252	da2219d2	Alejarse de la bomba.
 5011	83e807d1	Apartar los escombros a la fuerza.
 5012	ee4cf57c	Meter la mano entre los escombros.
-5013	7785b656	Pedirle a Ginzaki que llame a su robot.
+5013	7785b656	Pedirle a Shouma que llame a su robot.
 5021	44886760	Golpear con todas las fuerzas.
 5022	5ff5c3f0	Atacarla con el arma de clase.
-5023	3fbb5471	Pedirle a Mojiro que la golpee.
+5023	3fbb5471	Pedirle a Moko que la golpee.
 5031	48dbb0a5	Armarse de valor y saltar.
 5032	75cef61a	Cruzar el río a nado.
 5041	7f113256	Ir a la izquierda.
@@ -262,7 +262,7 @@ id	huella_jp	es
 5123	672e4266	Pedirle a Kako que lo derribe.
 5131	a12525c6	Rematarlo.
 5132	80e68e94	Dejarlo en paz.
-5133	f6427345	Pedirle a Kirifuji que lo cure.
+5133	f6427345	Pedirle a Nozomi que lo cure.
 5141	925eee26	Jugar en los columpios.
 5142	7a8d844b	Jugar en el arenero.
 5151	2fc4d3a5	Llevarse los adornos.
@@ -302,7 +302,7 @@ id	huella_jp	es
 6042	3b75ddd3	No hay tiempo para descansar.
 6051	d36c1a16	Trepar al árbol.
 6052	cbd48511	Sacudir el árbol.
-6053	af2f9df3	Pedirle a Shizuhara que corte el árbol.
+6053	af2f9df3	Pedirle a Hiruko que corte el árbol.
 8011	f6c37fa9	Esconderse hasta que pase la niebla.
 8012	6672aa8c	Seguir explorando.
 8021	e45f5a0d	Recitar un hechizo.
@@ -336,30 +336,30 @@ id	huella_jp	es
 102031	e1cc3679	Hacer una hamburguesa de flan.
 102032	66757d73	Hacer curry con flan.
 102033	f40379a8	Detener a Yakushiji.
-103011	b5007cb2	Buscar a Shizuhara.
+103011	b5007cb2	Buscar a Hiruko.
 103012	80e68e94	Dejarla tranquila.
 103021	962d17c2	Masacrar a los invasores.
 103022	e6b544d1	Dar media vuelta.
 103031	d36c1a16	Trepar al árbol.
 103032	30421ce5	Sacudir el árbol.
-103033	d058f9c2	Pedirle a Shizuhara que lo tale.
+103033	d058f9c2	Pedirle a Hiruko que lo tale.
 104011	dc075b9b	Aguantar y meter la mano.
 104012	e04119bf	Desistir, que duele.
-104013	4793a18a	Dejárselo a Amemiya.
+104013	4793a18a	Dejárselo a Darumi.
 104021	72cdd49f	Seguirle el juego a Amemiya.
 104022	90a9c0af	Mejor no.
 104031	81f642e6	Jugar a un duelo de copas envenenadas.
 104032	b1b0acb5	Hacerle aspirar polvo blanco (polvo de golosina feliz).
 105011	83fa64bf	Asarlo y comerlo.
 105012	f5eba09e	No comerlo.
-105013	51f5c4cd	Preguntarle a Aotsuki.
+105013	51f5c4cd	Preguntarle a Eito.
 105021	e892e2c8	Un rompecabezas pop de bloques que caen.
 105022	ebbc0602	Acción y supervivencia: un monstruo que mata a todos los humanos.
 105023	32c84352	Un juego de disparos para proteger a la humanidad de los alienígenas.
 105031	c93afca4	Mostrarle una revista de viajes.
 105032	37e92734	Mostrarle una enciclopedia de minerales.
 105033	1c912158	Mostrarle una revista de manga.
-106011	792141b4	Pedirle a Kawana que la maneje.
+106011	792141b4	Pedirle a Tsubasa que la maneje.
 106012	03eb7be8	Mejor no, parece peligroso.
 106021	3c8687d2	Cargarle gasolina al auto.
 106022	6c1bb30a	Ignorarlo.
@@ -395,10 +395,10 @@ id	huella_jp	es
 110022	c2dc3ce3	No buscar al animalito.
 110031	d0377607	Atravesar el pasillo corriendo de un tirón.
 110032	e6b544d1	Dar media vuelta.
-110033	7b26c30d	Dejárselo a Ginzaki.
+110033	7b26c30d	Dejárselo a Shouma.
 111011	f497cef5	Detenerse y descansar un poco.
 111012	fddfa1d7	Forzarse y seguir explorando.
-111013	7e88b056	Pedirle a Kirifuji que me revise.
+111013	7e88b056	Pedirle a Nozomi que me revise.
 111021	7ce35e96	Preparar la mezcla con la sustancia amarilla como base.
 111022	ca736142	Preparar la mezcla con la sustancia verde como base.
 111023	510388e1	Mezclar todas las sustancias.
@@ -427,7 +427,7 @@ id	huella_jp	es
 114023	711de249	Diseccionar a la planta carnívora.
 114031	a12525c6	Rematarlo.
 114032	78fd6f36	Soltarlo, pobrecito.
-114033	6d62d713	Pedirle a Omokage que lo torture.
+114033	6d62d713	Pedirle a Yugamu que lo torture.
 115011	2d6cd4a9	Dormir bien.
 115012	69cbf1cc	Comer hasta llenarse.
 115013	2ba80569	Pelear muchos combates.

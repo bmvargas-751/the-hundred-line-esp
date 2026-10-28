@@ -74,11 +74,11 @@ id	huella_jp	es
 1005133	1271794f	Verdugo Lv2 → Lv3
 1005134	61e8fecb	Verdugo Lv3 → Lv4
 1005135	d701fba3	Verdugo Lv4 → MAX
-1006111	5502ea3a	Obtener Pulsión de muerte
-1006112	7b20949d	Pulsión de muerte Lv1 → Lv2
-1006113	e49ceac4	Pulsión de muerte Lv2 → Lv3
-1006114	10cf0d08	Pulsión de muerte Lv3 → Lv4
-1006115	030915de	Pulsión de muerte Lv4 → MAX
+1006111	5502ea3a	Obtener Luces mortales
+1006112	7b20949d	Luces mortales Lv1 → Lv2
+1006113	e49ceac4	Luces mortales Lv2 → Lv3
+1006114	10cf0d08	Luces mortales Lv3 → Lv4
+1006115	030915de	Luces mortales Lv4 → MAX
 1006121	7743f017	Obtener Acelerar
 1006122	efc26992	Acelerar Lv1 → Lv2
 1006123	7109b3e2	Acelerar Lv2 → Lv3
@@ -99,11 +99,11 @@ id	huella_jp	es
 1007123	76b0b024	¡Acábalos! Lv2 → Lv3
 1007124	8e09df13	¡Acábalos! Lv3 → Lv4
 1007125	2f0b7607	¡Acábalos! Lv4 → MAX
-1007131	15289ceb	Obtener Cacería de sangre
-1007132	7ed9efac	Cacería de sangre Lv1 → Lv2
-1007133	9edba9cb	Cacería de sangre Lv2 → Lv3
-1007134	66be4965	Cacería de sangre Lv3 → Lv4
-1007135	a35fd32b	Cacería de sangre Lv4 → MAX
+1007131	15289ceb	Obtener A la caza
+1007132	7ed9efac	A la caza Lv1 → Lv2
+1007133	9edba9cb	A la caza Lv2 → Lv3
+1007134	66be4965	A la caza Lv3 → Lv4
+1007135	a35fd32b	A la caza Lv4 → MAX
 1008111	0384ec3c	Obtener Martillo de un ala
 1008112	d5c106e8	Martillo de un ala Lv1 → Lv2
 1008113	e5bf22b9	Martillo de un ala Lv2 → Lv3

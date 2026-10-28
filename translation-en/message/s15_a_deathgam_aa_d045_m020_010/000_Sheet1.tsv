@@ -10,7 +10,7 @@ id	huella_jp	es
 90	49da10b7	Rehacer la placa, por más que lo calcule, llevaría cincuenta días...\nperdón, si tuviera más habilidad...
 100	5e579d0f	¡No, no es algo por lo que debas disculparte, Tsubasa!
 110	592352cf	¡Así es! Si no fuera por Kawana,\nno habríamos podido ni empezar a reparar la cápsula, ¿sabes?
-120	47006077	{fc(57e4f1)Kirifuji tenía razón... esta situación no es culpa de nadie.\nEs el resultado de varios infortunios juntos.}
+120	47006077	{fc(57e4f1)Nozomi tenía razón... esta situación no es culpa de nadie.\nEs el resultado de varios infortunios juntos.}
 130	efd50653	...Ahora que se perdió la esperanza de escapar pronto,\nsolo nos quedan dos caminos.
 140	3b3128cd	O seguir con la Caza de Invasores hasta el día 95,\ncuando termine la reparación...
 150	dc6f4ab7	o derrotar al patrocinador\ny terminar la Caza de Invasores ahora mismo.
@@ -34,12 +34,12 @@ id	huella_jp	es
 330	33440560	{fc(57e4f1)Que nuestra situación estaba sin salida...}
 340	772a64ec	{fc(57e4f1)Y justo entonces.}
 350	482f34e3	Se puede matar al patrocinador.
-360	fbeccad2	{fc(57e4f1)Omokage dijo de repente algo inesperado...}
-370	16e5e413	Omokage... ¿qué dijiste?
+360	fbeccad2	{fc(57e4f1)Yugamu dijo de repente algo inesperado...}
+370	16e5e413	Yugamu... ¿qué dijiste?
 380	2733db48	Que se puede matar, te digo.\nAl patrocinador, a todos, sin que quede uno.
 390	a4c4bf9c	No es una broma, ¿verdad...?\n¿Es de esos "en serio" que se leen "en serio de verdad"?
 400	625d98d4	En serio de verdad, muy en serio. Desde hace tiempo\ntenía una idea de cómo derrotar al patrocinador.
-410	e52050bc	Era una hipótesis de "quizás se pueda matar así",\npero al ver la escena de la ejecución de Ginzaki, lo confirmé.
+410	e52050bc	Era una hipótesis de "quizás se pueda matar así",\npero al ver la escena de la ejecución de Shouma, lo confirmé.
 420	8dad66a9	Con este método, sin duda,\npuedo acabar con él.
 430	345bd88a	¡S-Si de verdad hay un método así,\n¿por qué lo callaste hasta ahora...?!
 440	61c74665	...Porque no es mi estilo.\nHabría preferido no usar un método así.
@@ -49,8 +49,8 @@ id	huella_jp	es
 480	11baca95	¿O invocar una barrera que lleve tus técnicas innatas a su máximo nivel?
 490	bfc9d281	¡Arrastrará al patrocinador a su dominio innato\ny lo aniquilará de un golpe!
 500	f7907115	Kyoshika, ¿podrías ir un rato para allá...?
-510	1ce72427	¡Dime, Omokage...! ¡Yo quiero vengar\na Kurara!
-520	5d83230b	{fc(57e4f1)Todos contuvieron el aliento\nesperando las siguientes palabras de Omokage.}
+510	1ce72427	¡Dime, Yugamu...! ¡Yo quiero vengar\na Kurara!
+520	5d83230b	{fc(57e4f1)Todos contuvieron el aliento\nesperando las siguientes palabras de Yugamu.}
 530	3fa049db	{fc(57e4f1)¡El método para matar al patrocinador era...!}
 540	71356c26	{fc(57e4f1)...Pero.}
 550	f767e91e	No. Es un secreto para todos.
@@ -64,14 +64,14 @@ id	huella_jp	es
 630	96b0e0db	{fc(57e4f1)Es cierto que quizás convenga que pocos sepan el secreto, pero...}
 640	1151c01e	Pero... ¿de verdad puedes matarlo tú solo?
 650	c4c47ed8	Tú también sabes lo fuerte que es el patrocinador, ¿no?
-660	967d99ff	Y cada vez se hace más fuerte,\nabsorbiendo la criptoglobina de Oosuzuki y de Ginzaki...
+660	967d99ff	Y cada vez se hace más fuerte,\nabsorbiendo la criptoglobina de Kurara y de Shouma...
 670	52684062	Justamente por eso.
 680	80d1fa9c	¿Por eso...?
 690	48c1f635	Se hizo más poderoso absorbiendo criptoglobina...\npor eso puedo derrotarlo.
 700	0a708898	El {fc(ff635b)"caos"} es fuerte justamente por ser insondable.\nSi tiene un punto fuerte claro, se arruina.
 710	15bcae56	Bueno, déjenmelo todo a mí.\nLo mataré sin falta.
 720	f4a72a8b	
-730	58bf6422	{fc(57e4f1)Otros no sé, pero Omokage, un sicario,\nno diría tonterías sobre matar.}
-740	a8c0aa53	Entendido... confío en ti, Omokage.
+730	58bf6422	{fc(57e4f1)Otros no sé, pero Yugamu, un sicario,\nno diría tonterías sobre matar.}
+740	a8c0aa53	Entendido... confío en ti, Yugamu.
 750	f626df2b	{fc(57e4f1)En ese instante, la política de la Alianza Antipatrocinador\ncambió por tercera vez.}
-760	f238a12c	{fc(57e4f1)El asesinato del patrocinador quedó en manos de Omokage,\ny lo que debíamos hacer los demás era...}
+760	f238a12c	{fc(57e4f1)El asesinato del patrocinador quedó en manos de Yugamu,\ny lo que debíamos hacer los demás era...}

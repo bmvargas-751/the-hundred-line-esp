@@ -21,7 +21,7 @@ id	huella_jp	es
 200	fe0e03c5	¿Eh...? BMX es la sigla de Bicycle Motocross...\n¿una bicicleta, no?
 210	5c5ff094	¿Dice que yo le hice beber una bicicleta a Kako?
 220	a814b7a9	¡Si se bebe eso, uno se muere!
-230	f268663d	¡Por eso estamos diciendo que así la mató!\n¿Verdad, Sumino?
+230	f268663d	¡Por eso estamos diciendo que así la mató!\n¿Verdad, Takumi?
 240	ca000f11	N-No... quizás me equivoqué...
 250	990ac342	O sea... este... eso era eso...
 260	d5df9367	Era como algo así, un tipo de cosa que hace eso...
@@ -56,7 +56,7 @@ id	huella_jp	es
 550	52777e35	El conducto iba en zigzag, con muchos quiebres,\nhacia el edificio.
 560	c8f6e31b	Los quiebres eran extremadamente estrechos...
 570	4f6eddc9	y sin un cuerpo como de niño de primaria,\nes imposible pasar por ahí.
-580	79419515	¡O sea que quien puede pasar por ese espacio estrecho...\neres solo tú, Ginzaki!
+580	79419515	¡O sea que quien puede pasar por ese espacio estrecho...\neres solo tú, Shouma!
 590	5ebbbb75	¡E-Eso no se puede afirmar!
 600	172242e4	¡Una mujer con el cuerpo flexible\nquizás pasaría con esfuerzo...!
 610	77f8c210	No, es imposible... sin duda.
@@ -69,7 +69,7 @@ id	huella_jp	es
 680	36b7820b	¡No, no estoy bromeando!
 690	31c54b08	Entonces lo de antes, ¿qué fue?
 700	efebdb34	E-Eso es...
-710	aca30357	¡Eso es! ¡Tienes razón, Ginzaki!
+710	aca30357	¡Eso es! ¡Tienes razón, Shouma!
 720	5169bbf6	¡Quería relajarte para que te resultara más fácil confesar!
 730	1c07319b	¿E-En serio?
 740	f4a72a8b	
@@ -81,20 +81,20 @@ id	huella_jp	es
 800	a78a4f93	Pues, nada menos que... ¡un cabello azul!
 810	35eee340	¿Eh... qué es eso...?\n¡Entonces la culpable sería Darumi!
 820	ab44843a	O yo, quizás... aunque mi pelo es azul solo en parte...
-830	4f00612a	¡Sumino, no digas cosas al azar!\n¡En el conducto no había pelo azul!
+830	4f00612a	¡Takumi, no digas cosas al azar!\n¡En el conducto no había pelo azul!
 840	446aa87b	¿Eh...? ¿No lo había?
 850	f4b7c582	Concéntrate, por favor...
 860	f4a72a8b	
 870	3f7566a8	Es esto. Un trozo de tela de 2 cm por lado.\n¡Como ven, es verde!
-880	587325bd	De todos nosotros, los que usan algo verde\nson solo Oosuzuki, Yakushiji y Ginzaki...
-890	28086623	Pero el cabeza de tomate de Oosuzuki no es de tela,\nasí que no tiene que ver con este trozo.
-900	52103720	La chaqueta de Yakushiji también es de un tono más claro\ny más fino que esta tela.
+880	587325bd	De todos nosotros, los que usan algo verde\nson solo Kurara, Takemaru y Shouma...
+890	28086623	Pero el cabeza de tomate de Kurara no es de tela,\nasí que no tiene que ver con este trozo.
+900	52103720	La chaqueta de Takemaru también es de un tono más claro\ny más fino que esta tela.
 910	f4a72a8b	
-920	81759ba1	Ginzaki, date la vuelta.
+920	81759ba1	Shouma, date la vuelta.
 930	c3bc92da	¡¿P-Por qué?!
 940	1912efef	¡Hazlo!
 950	f4a72a8b	
-960	a996b7e4	Acabo de revisar la espalda de Ginzaki...\n¡una parte de su mochila estaba rota!
+960	a996b7e4	Acabo de revisar la espalda de Shouma...\n¡una parte de su mochila estaba rota!
 970	09dd4c5d	La parte rota coincide totalmente con el trozo de tela.
 980	2b8c66dd	Mm... yo también lo comprobé, ¡y encaja a la perfección!
 990	91160109	¡Ugh...!
@@ -114,9 +114,9 @@ id	huella_jp	es
 1130	e06b5df0	Oye, espera un momento...\n¿qué quieres decir con eso...?
 1140	f4a72a8b	
 1150	f4a72a8b	
-1160	42e938b6	Sumino, ¿qué te pasa...?\nEn el conducto no había nada de eso, ¿no?
+1160	42e938b6	Takumi, ¿qué te pasa...?\nEn el conducto no había nada de eso, ¿no?
 1170	ad41a5db	Ah, quizás tengas razón...
-1180	b869a2f5	Sumino... ¿estás bien?
+1180	b869a2f5	Takumi... ¿estás bien?
 1190	f4a72a8b	
 1200	f4a72a8b	
 1210	3fff2a21	Si se queda callado... ¡es que no había ningún rastro!
@@ -125,7 +125,7 @@ id	huella_jp	es
 1240	45bf96ec	En fin... ¿pueden darme tiempo...?\nLo pensaré otra vez...
 1250	031f49d8	Por favor, basta ya, de verdad...
 1260	25201bdb	A partir de aquí es una conjetura mía...
-1270	54e6ae95	Ginzaki, ¿no pensabas matar\ntambién a Ima en realidad?
+1270	54e6ae95	Shouma, ¿no pensabas matar\ntambién a Ima en realidad?
 1280	b2aafc9c	Pero el plan se torció,\ny al gimnasio solo vino Kako.
 1290	2609ba24	Entonces, sin más remedio, mataste solo a Kako...
 1300	91160109	¡Ugh...!
@@ -181,7 +181,7 @@ id	huella_jp	es
 1800	d2820a60	No, es posible. Se puede.
 1810	5cc51f9c	¡Si te inyectas ese anestésico tremendamente potente,\nel {fc(ff635b)Gammaphiel}!
 1820	accf34ee	¡Ugh...!
-1830	1f169982	Omokage lo dijo:
+1830	1f169982	Yugamu lo dijo:
 1840	0479155d	Que ese fármaco, bien dosificado, puede paralizar solo la sensibilidad del cuerpo\ny el miedo, sin hacer perder el conocimiento.
 1850	f40fbba4	Sí, es totalmente cierto.
 1860	f4a72a8b	
@@ -189,9 +189,9 @@ id	huella_jp	es
 1880	2f9e1ea3	No, espera...
 1890	b0e46237	Seguramente te tomaste o te inyectaste\nalguna clase de fármaco.
 1900	9a309ef7	Por el efecto de ese fármaco,\nte fue posible apuñalarte a mansalva...
-1910	0adf794c	Lo que dijo Sumino ahora no fue muy convincente, ¿verdad?
+1910	0adf794c	Lo que dijo Takumi ahora no fue muy convincente, ¿verdad?
 1920	a93c3503	Sí... es cierto...
-1930	040fb0d3	Sumino, ¿por qué no lo dejamos ya?
+1930	040fb0d3	Takumi, ¿por qué no lo dejamos ya?
 1940	b578d4eb	Seguir así no sirve de nada...
 1950	90b9b049	Ah, quizá tengas razón...
 1960	bef0a2c7	¡¿Creíste que diría eso, bastardo de mierda?!
@@ -245,7 +245,7 @@ id	huella_jp	es
 2440	8fb2b005	Seguramente la jeringa te la comiste.
 2450	9ab9e5c2	Porque eres un glotón...
 2460	94a1c124	¿E-Está en sus cabales, Sumino?
-2470	6726748a	¿E-Está en sus cabales, Sumino?
+2470	6726748a	¿E-Está en sus cabales, Takumi?
 2480	f4a72a8b	
 2490	865ebdbb	Exacto, yo no tenía jeringa.
 2500	89676588	¿Sabe por qué?
@@ -267,7 +267,7 @@ id	huella_jp	es
 2660	7c71a582	D-Don Takumi, siento que aquí alguien se pasó con el champán,\n¡pero seguro que no fue don Shouma!
 2670	070e3a77	Sí... Creo que todo el estrés por fin le está pasando factura.
 2680	e8cd635a	Un avión de papel doblado.
-2690	01307849	Cuando lo desdoblé, tenía escritas con sangre\nlas palabras "Fue Ginzaki".
+2690	01307849	Cuando lo desdoblé, tenía escritas con sangre\nlas palabras "Fue Shouma".
 2700	9a22f076	¿Qué mejor prueba hay de que fuiste tú?
 2710	aa807640	Eh... Takumi, ¿necesitas acostarte un rato o algo?
 2720	84eed2b5	Definitivamente se le zafaron unos cuantos tornillos...
@@ -281,7 +281,7 @@ id	huella_jp	es
 2800	edf9200b	Ya es suficiente...
 2810	6bfd9da3	Todos están atónitos...\n¡por lo absurdas que son sus deducciones, Sumino!
 2820	f4a72a8b	
-2830	d79dcafe	¿No será que el culpable es usted, Sumino?
+2830	d79dcafe	¿No será que el culpable es usted, Takumi?
 2840	77edbcfd	¡Ah, seguro que sí, sin duda!
 2850	16b66e8b	¡Quiso hacerme pasar por culpable siendo yo inocente...!\n¡Es eso, ¿verdad?!
 2860	0fb38acb	¡No, no es así...!
@@ -303,21 +303,21 @@ id	huella_jp	es
 3020	9353f28f	¡Y hasta eso podría haberlo dejado otra persona\npara inculparme...!
 3030	be5b3d4d	En resumen, lo que dice Sumino\nes solo que "yo también pude hacerlo".
 3040	fd5746a6	¡Eso no prueba\nque "solo yo pude hacerlo"!
-3050	cf3b16b5	Ginzaki... ya no sirve de nada hacerte el desentendido.
+3050	cf3b16b5	Shouma... ya no sirve de nada hacerte el desentendido.
 3060	33f0db49	En realidad hay una prueba más... decisiva.
 3070	257ff880	...¿Eh?
 3080	5a789b7e	El frasco de TTX que Kako tenía agarrado...
 3090	faeddcb2	¡Se detectaron tus huellas dactilares en él!
 3100	f4a72a8b	
 3110	640e36fe	
-3120	cf3b16b5	Ginzaki... ya no sirve de nada hacerte el desentendido.
+3120	cf3b16b5	Shouma... ya no sirve de nada hacerte el desentendido.
 3130	33f0db49	En realidad hay una prueba más... decisiva.
 3140	257ff880	...¿Eh?
 3150	5a789b7e	El frasco de TTX que Kako tenía agarrado...
 3160	faeddcb2	¡Se detectaron tus huellas dactilares en él!
 3170	f4a72a8b	
 3180	640e36fe	
-3190	cf3b16b5	Ginzaki... ya no sirve de nada hacerte el desentendido.
+3190	cf3b16b5	Shouma... ya no sirve de nada hacerte el desentendido.
 3200	33f0db49	En realidad hay una prueba más... decisiva.
 3210	257ff880	...¿Eh?
 3220	5a789b7e	El frasco de TTX que Kako tenía agarrado...
@@ -342,7 +342,7 @@ id	huella_jp	es
 3410	9c15f3e0	¡Digo, no...!
 3420	db85fdb0	Ah... este... es que...
 3430	bcf27ac7	¡Es que... en todo caso, yo...!
-3440	1482b127	Ríndete, Ginzaki...
+3440	1482b127	Ríndete, Shouma...
 3450	f510b446	Lo diré otra vez...
 3460	73305c9a	El culpable que envenenó a Kako con TTX...
 3470	d3de5a77	es Shouma Ginzaki...

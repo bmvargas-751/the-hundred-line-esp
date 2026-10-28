@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	4c71ff3c	Eh... ¿puedo hacer una pregunta imprudente?
 20	0d6ac15c	¿Hm? ¿Qué pasa?
-30	8296c2fe	Es que... don Sumino...
+30	8296c2fe	Es que... don Takumi...
 40	17728cec	...¿le gusta doña Nozomi?
 50	6f1122aa	¡Cof! ¡Cof! ¡Cof!
 60	6d6abf4e	¡Lo sabía! ¡Esa reacción es de dar en el clavo!
@@ -14,19 +14,19 @@ id	huella_jp	es
 130	cce0410d	¿Flotando? ¿Quieres decir exaltado?
 140	da6f9fe2	No, "flotando" es correcto.
 150	6b856210	Yo también, cuando estoy con don Sumino,\nme siento como flotando...
-160	a3a2d1de	Pensé que quizás don Sumino siente por doña Nozomi...\nlo que yo siento por don Sumino.
+160	a3a2d1de	Pensé que quizás don Takumi siente por doña Nozomi...\nlo que yo siento por don Takumi.
 170	f4a72a8b	
 180	863cf063	{fc(57e4f1)Lo que dice Magatori suena como algo con fundamento,\npero solo suena.}
-190	4980e741	{fc(57e4f1)Yo no estoy enamorado de Kirifuji.}
+190	4980e741	{fc(57e4f1)Yo no estoy enamorado de Nozomi.}
 200	fe690c21	{fc(57e4f1)Si lo estuviera, no me habría metido en este}{fc(ff635b)"juego"}{fc(57e4f1)...}
-210	be302f46	Son impresiones tuyas. Oosuzuki también tuvo\nun malentendido parecido, pero no es así.
+210	be302f46	Son impresiones tuyas. Kurara también tuvo\nun malentendido parecido, pero no es así.
 220	abec111c	...¿Ah, sí?
 230	5f1524f0	Pero entonces...\n¿puedo hacerle unas preguntas?
 240	89457732	¿Preguntas? Si puedo responderlas...
 250	0c44e572	¿Don Sumino prefiere el tipo lindo o el tipo hermoso?
 260	f4a72a8b	
 270	8f944050	{fc(57e4f1)Seguro pretende deducir mi verdad preguntando mis gustos, pero...}
-280	3a2dc3bf	{fc(57e4f1)...¿Quién es del tipo lindo y quién del tipo hermoso,\nMagatori o Kirifuji?}
+280	3a2dc3bf	{fc(57e4f1)...¿Quién es del tipo lindo y quién del tipo hermoso,\nMagatori o Nozomi?}
 290	48943ba5	{fc(57e4f1)¿Cómo las clasifica Magatori en su cabeza?}
 300	79ae6fb3	{fc(57e4f1)No, no hace falta acertar la}{fc(ff635b)"respuesta correcta"}{fc(57e4f1)\naquí. Basta con responder con sinceridad.}
 310	3287220d	{fc(57e4f1)Pero...}
@@ -41,7 +41,7 @@ id	huella_jp	es
 400	447e812c	E-Entonces, paso a la siguiente pregunta.
 410	bca5ecd6	¡¿H-Hay más?!
 420	8891d5dd	¡Hay más, y más, y más,\ny más y más y más!
-430	3081c479	¡Voy a dejar en cueros el tipo de chica que le gusta a don Sumino,\nque ni él mismo conoce, así que prepárese!
+430	3081c479	¡Voy a dejar en cueros el tipo de chica que le gusta a don Takumi,\nque ni él mismo conoce, así que prepárese!
 440	d70a261f	Haah... haah...
 450	bebb7af7	Mmm, con esto debería bastar...
 460	feff6c61	F-Por fin terminó...
@@ -59,7 +59,7 @@ id	huella_jp	es
 580	7a619f11	...Ya que estamos, ¿puedo preguntar yo?\n¿Qué tipo de hombre te gusta, Magatori?
 590	bc85f436	Eso no hace falta preguntarlo...
 600	f9fab89d	¿Eh? ¿Por qué?
-610	df62c8c0	Porque mi tipo es don Sumino...
+610	df62c8c0	Porque mi tipo es don Takumi...
 620	f4a72a8b	
 630	0335b6c5	Ah... ya veo...
 640	49679f24	{fc(57e4f1)...Es cierto.}

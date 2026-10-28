@@ -5,7 +5,7 @@ id	huella_jp	es
 40	91160109	¡Ugh...!
 50	1b850e7e	{fc(57e4f1)Apreté los dientes y dije:}
 60	c0e318d3	Entonces... ¿qué es eso que recordaste?
-70	1d9d1485	{fc(57e4f1)Shizuhara caminó en silencio hacia el cuerpo de Kawana.}
+70	1d9d1485	{fc(57e4f1)Hiruko caminó en silencio hacia el cuerpo de Tsubasa.}
 80	cfb20d96	{fc(57e4f1)Allí se detuvo, levantó la sábana,\ndio vuelta el cuerpo y alzó la camisa de Kawana.}
 90	b349e79f	El número de antes, ¿eh?\n¿Qué pasa con él?
 100	fa5cfc66	Esto se llama {fc(ff635b)"código de livor mortis"}.
@@ -14,9 +14,9 @@ id	huella_jp	es
 130	12e5bf20	Aunque solo aparece en los miembros del Grupo 1...
 140	51466af1	¿Dónde conseguiste esa información?
 150	553524fb	Para contar eso no bastarían tres días con sus noches, así que otro día.\nSolo te diré que es una información de altísima fiabilidad.
-160	8cf4a75d	{fc(57e4f1)Dicho eso, Shizuhara fue al cuerpo de Ginzaki.\nLevantó la sábana, lo dio vuelta y lo puso boca abajo.}
+160	8cf4a75d	{fc(57e4f1)Dicho eso, Shizuhara fue al cuerpo de Shouma.\nLevantó la sábana, lo dio vuelta y lo puso boca abajo.}
 170	be6b2cbf	{fc(57e4f1)Y allí había un agujero vacío abierto...}
-180	a029d8c5	¡¿Eh... también Ginzaki?!
+180	a029d8c5	¡¿Eh... también Shouma?!
 190	4df9af47	Sí... seguramente lo hizo X.
 200	bc968c6f	¡¿Cuándo?! ¡Desde que murió Ginzaki,\ntodos actuaban siempre en grupo...!
 210	c57212d1	Es cierto, pero hubo una única oportunidad.
@@ -25,7 +25,7 @@ id	huella_jp	es
 240	4047333c	Todos perdimos el conocimiento por la onda de choque de la explosión.
 250	819477e7	Despertamos a la mañana siguiente.\nSeguramente X despertó antes que los demás y...
 260	5de2526b	...\n...
-270	be200e71	{fc(57e4f1)Luego Shizuhara me mostró los agujeros de Aotsuki y de Maruko,\ny por último dio vuelta el cuerpo de Kako.}
+270	be200e71	{fc(57e4f1)Luego Hiruko me mostró los agujeros de Eito y de Gaku,\ny por último dio vuelta el cuerpo de Kako.}
 280	95aca76d	Bien... con esto serían cuatro.
 290	30297a46	La forma de las heridas es siempre igual...\nX le sacó el corazón por la espalda a las cuatro personas del mismo modo.
 300	7203f24d	Parece que sí...
@@ -35,10 +35,10 @@ id	huella_jp	es
 340	767d5fa9	Ah, así que era eso...\n¡Por la posición, encaja perfecto, no hay duda!
 350	03e18e98	¡A las cuatro les cortaron de la espalda la parte del código de livor mortis!
 360	6576392c	Exacto.
-370	1d71c9f2	Entonces, ¿quizás también a Mojiro...?
+370	1d71c9f2	Entonces, ¿quizás también a Moko...?
 380	8692c9a7	¿Estabas escuchando lo que dije?\nEl código de livor mortis solo aparece en el Grupo 1.
-390	3bea4637	Mojiro es del Grupo 2, ¿no?\nPor supuesto, su espalda está intacta.
-400	87838c06	{fc(57e4f1)Dicho eso, Shizuhara devolvió todos los cuerpos a su lugar.}
+390	3bea4637	Moko es del Grupo 2, ¿no?\nPor supuesto, su espalda está intacta.
+400	87838c06	{fc(57e4f1)Dicho eso, Hiruko devolvió todos los cuerpos a su lugar.}
 410	e08f74fb	Pero... ¿por qué X haría eso...?
 420	06abd97f	Seguramente no quería que supiéramos\nque existe el código de livor mortis...
 430	1db04be3	Si dejaba los cuerpos tal cual, algún día alguien podía notar\nque en la espalda aparecen números.
@@ -98,7 +98,7 @@ id	huella_jp	es
 970	f6bc4ff9	Porque si no lo supiera,\nconfirmar los códigos de livor mortis no serviría...
 980	15d52e28	Así es. ...¿Y eso qué significa?
 990	721e14bf	¡Que si averiguamos dónde está el transmisor,\nquizás encontremos pistas de X!
-1000	0af8f9d3	{fc(57e4f1)Cuando se lo dije, Shizuhara asintió con firmeza y dijo:}
+1000	0af8f9d3	{fc(57e4f1)Cuando se lo dije, Hiruko asintió con firmeza y dijo:}
 1010	5cefd1eb	Por eso quiero ir a buscar el transmisor ahora.\n¿Me acompañas?
 1020	7faf3316	Ya casi es medianoche...
 1030	d2f59dd6	¿Y qué importa? ¿Eres un niño de primaria?

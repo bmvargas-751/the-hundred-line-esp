@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	c1aff3b9	Día 58
-70	4f3e2c41	Oye, Shizuhara.\n¿Para qué me llamaste a un lugar tan alejado?
+70	4f3e2c41	Oye, Hiruko.\n¿Para qué me llamaste a un lugar tan alejado?
 80	88d88aab	Vaya, ¿no querías oír mi explicación?
 90	58ba7e28	Aun así, no hacía falta llamarme a un rincón del edificio...
 100	ac4c50a6	Todos están ya muy tensos,\nes mejor estar dentro del edificio.
@@ -15,7 +15,7 @@ id	huella_jp	es
 190	2c258fcf	¡Dices que no es maldición, pero entonces\ntú pudiste proponer juntarnos y estar alerta!
 200	9d252351	Eso... tiene relación con lo que voy a explicar ahora.
 210	1b3c502d	Veamos... eh... ¿por dónde lo explico...?
-220	c2d76abe	Sumino. ¿Por qué crees que murió Ima?\nCuento esto precisamente porque Ima murió.
+220	c2d76abe	Takumi. ¿Por qué crees que murió Ima?\nCuento esto precisamente porque Ima murió.
 230	b867fd3c	¿Por qué...?
 240	a1250254	...Como sospechaba, quizás sea una maldición.\nLa situación es demasiado inexplicable.
 250	26cb07b6	Que muriera dentro de una jaula cerrada con llave\nno significa necesariamente que sea obra de un fantasma.
@@ -28,7 +28,7 @@ id	huella_jp	es
 320	2dc06f8a	Pero... yo también lo pensé.
 330	5b8d7982	¿Eh?
 340	a16a5027	Cuando vi el cadáver de Ima, aunque sabía que lógicamente era imposible,\nla palabra "suicidio" me cruzó la mente.
-350	399a3248	Oye, Sumino... Kako no está muerta.
+350	399a3248	Oye, Takumi... Kako no está muerta.
 360	498e439e	...Al menos, en esta historia.
 370	6e45d807	¿Qué...? ¿Historia...?
 380	3b991ba7	Fui yo quien hizo desaparecer a Kako.
@@ -55,10 +55,10 @@ id	huella_jp	es
 590	b8f2a01f	Pero no recuperé por completo los recuerdos de esas historias...
 600	ff26b792	A veces... los recuerdo de repente.\nFragmentos... recuerdos sin hilo...
 610	f4a72a8b	
-620	b8464dfb	Yo también viví una historia muy parecida a esta.\nEl curso hasta el día 23... hasta que Kirifuji fue atacada por alguien...
+620	b8464dfb	Yo también viví una historia muy parecida a esta.\nEl curso hasta el día 23... hasta que Nozomi fue atacada por alguien...
 630	b5ffe85c	En esa historia, tú te lanzaste contra el culpable\ny quedaste gravemente herido e inconsciente.
 640	8e6f06b8	Después, en los 100 días nos fueron matando de a uno...\ny al final... supimos quién era el culpable.
-650	f31d2693	La persona de la guadaña que te atacó a ti y a Kirifuji.
+650	f31d2693	La persona de la guadaña que te atacó a ti y a Nozomi.
 660	7da81b86	Su identidad es... Kako.
 670	a0bcff71	{fc(57e4f1)Qué raro...\npero al oírlo no me sorprendí.}
 680	aa6bdd10	{fc(57e4f1)Como si lo hubiera sabido desde el principio...}
@@ -103,7 +103,7 @@ id	huella_jp	es
 1070	6622d1c1	¿Qué pasa para que Kako termine así,\natacando con una guadaña...?
 1080	7c8961b0	Seguramente...
 1090	b526bb28	Porque abrió la caja del santuario.
-1100	c257ca04	{fc(57e4f1)Dicho eso, Shizuhara se fue.}
+1100	c257ca04	{fc(57e4f1)Dicho eso, Hiruko se fue.}
 1110	7f2f3600	La caja... la caja, ¿eh...?
 1120	cb9e45dd	{fc(57e4f1)Esa caja... ¿qué será...}
 1130	b4c10a3f	{fc(57e4f1)...\n...}

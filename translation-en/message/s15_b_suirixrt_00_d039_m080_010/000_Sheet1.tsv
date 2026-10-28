@@ -1,16 +1,16 @@
 id	huella_jp	es
-10	3e1b06d4	Shizuhara... también viniste a esta sala antes.\n¿Por qué estás aquí...?
+10	3e1b06d4	Hiruko... también viniste a esta sala antes.\n¿Por qué estás aquí...?
 20	c2ed3253	Vine a examinar otra vez el cuerpo de Kako.\n¿Y tú?
 30	0cbd56a3	Yo igual. Vine para investigar el caso...
 40	cd1ba0b4	No creo que alguien torpe como tú\npueda resolver el caso, pero...
 50	fcba9815	¡Qué pesada!
-60	e6b8b4c9	{fc(57e4f1)Cuando se lo dije, Shizuhara bajó la voz y dijo:}
+60	e6b8b4c9	{fc(57e4f1)Cuando se lo dije, Hiruko bajó la voz y dijo:}
 70	922a7f93	Alguien torpe... como túuu...
 80	4bc12302	¡No quise decir eso!
 90	f4a72a8b	
 100	70543738	Entonces, ¿ya examinaste el cuerpo de Kako?
 110	a3d5a2ec	Sí, junto con los otros dos.
-120	9573dc8c	¿Eh...? ¿También Aotsuki y Maruko?\n¡El cuerpo de Maruko lo comprobamos el día 24!
+120	9573dc8c	¿Eh...? ¿También Eito y Gaku?\n¡El cuerpo de Gaku lo comprobamos el día 24!
 130	522659a6	Sí, pero hizo falta verificarlo otra vez.
 140	cb21defe	Porque al examinar el cuerpo de Kako\ndescubrí dos hechos sorprendentes.
 150	beeb93e1	¿Dos... hechos sorprendentes?
@@ -21,7 +21,7 @@ id	huella_jp	es
 200	310bf405	Y cuando la criptoglobina casi se había escurrido, lo trajeron de vuelta aquí.
 210	750017f3	¿Cuándo...?
 220	0504c432	Esa pregunta te la contesto después.\nAntes, el segundo hecho...
-230	15363863	{fc(57e4f1)Shizuhara se acercó al cuerpo de Kako\ny levantó con suavidad la sábana que lo cubría.}
+230	15363863	{fc(57e4f1)Hiruko se acercó al cuerpo de Kako\ny levantó con suavidad la sábana que lo cubría.}
 240	7575793a	{fc(57e4f1)Luego dio vuelta el cuerpo.\nY en la espalda de Kako había algo increíble...}
 250	f5c0fce9	¡¿Q-Qué es esto...?!
 260	00ddab65	La marca de que le robaron el corazón.
@@ -29,16 +29,16 @@ id	huella_jp	es
 280	7be42206	Alguien abrió un agujero en la espalda de Kako,\nle rompió las costillas y le... sacó el corazón.
 290	c6f47993	¡¿P-Por qué tengo que hacer eso...?!
 300	ffc3e9d0	Antes, mira también los otros dos.
-310	320404be	{fc(57e4f1)Hice lo que me pidió y di vuelta los cuerpos de Aotsuki y Maruko.\nLas marcas eran iguales.}
+310	320404be	{fc(57e4f1)Hice lo que me pidió y di vuelta los cuerpos de Eito y Gaku.\nLas marcas eran iguales.}
 320	be16c2a2	{fc(57e4f1)En la espalda de los dos había un agujero vacío...}
 330	9a4f3439	¡Espera... espera!\n¡¿Qué significa esto?!
 340	ebb3975a	Quién sabe... ¿qué significará?
 350	743b934d	¡¿Cómo puedes estar tan tranquila?!\n¡A los tres cuerpos les sacaron el corazón!
 360	04b39d13	Lo sé, eso ya lo sé...\n¿no fui yo quien lo dijo?
 370	b0748adf	¡¿Cuándo fue que les robaron el corazón...?!
-380	c4b26c84	Cuando examinamos el cuerpo de Maruko el día 24...\n¡en aquel momento su espalda no tenía ni un rasguño...!
+380	c4b26c84	Cuando examinamos el cuerpo de Gaku el día 24...\n¡en aquel momento su espalda no tenía ni un rasguño...!
 390	fa839dec	El día 27 también era así.
-400	8e0dc0d0	Cuando traje el cadáver de Kako a esta sala,\nrevisé los cuerpos de Aotsuki y de Maruko.
+400	8e0dc0d0	Cuando traje el cadáver de Kako a esta sala,\nrevisé los cuerpos de Eito y de Gaku.
 410	c160f306	En ese momento no tenían ningún agujero en la espalda.
 420	168bc1d3	O sea que fue... después de la noche del día 27...
 430	0225aec8	Así es. ¿No habrán hecho a los tres a la vez?\n¡Seguro que ahí también le sacaron la criptoglobina a Kako!

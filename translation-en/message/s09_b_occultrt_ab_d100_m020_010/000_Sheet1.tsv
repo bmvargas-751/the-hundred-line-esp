@@ -1,12 +1,12 @@
 id	huella_jp	es
 10	08dedb3a	{fc(57e4f1)En el patio ya había aparecido\nla cápsula de escape.}
-20	4194ba0a	{fc(57e4f1)Frente a ella estaban reunidos los sobrevivientes,\nsalvo Maruko.}
+20	4194ba0a	{fc(57e4f1)Frente a ella estaban reunidos los sobrevivientes,\nsalvo Gaku.}
 30	fc3bc81d	Visto ahora, fue sorprendentemente fácil.
 40	850113a8	De verdad admiro que puedas decirlo así...
 50	29f67b5f	Yo todavía arrastro el cansancio de ayer...
-60	37a3a180	Yakushiji peleó con todo,\nes normal...
+60	37a3a180	Takemaru peleó con todo,\nes normal...
 70	2f9fe516	Todavía se te nota el cansancio en la cara.
-80	420a9997	Hablando de eso, Kirifuji, ¿estás bien?\n¿Se te ve más pálida que antes.
+80	420a9997	Hablando de eso, Nozomi, ¿estás bien?\n¿Se te ve más pálida que antes.
 90	1abb27dd	Es que, al oír que vamos a volar,\nme puse un poco nerviosa, nada más.
 100	774e545a	Sí, estoy bien, estoy bien...
 110	adf9a98f	Ya terminó todo,\nde ahora en adelante debería estar bien...
@@ -17,7 +17,7 @@ id	huella_jp	es
 160	16109238	{fc(57e4f1)No colaboré con ellos. Aunque fuera por el ritual,\nme mantuve a distancia.}
 170	ae325e70	{fc(57e4f1)Aunque la puerta de la cápsula no se cierre,\nsubir no va a reconciliarnos.}
 180	e7d3a0ea	{fc(57e4f1)Nuestra relación se cortó por completo——}
-190	7cbf9ef8	Oye, Sumino.\n¿Por qué esa cara tan sombría?
+190	7cbf9ef8	Oye, Takumi.\n¿Por qué esa cara tan sombría?
 200	b44ca961	Es que... al mirar atrás, me pregunto\nsi hice lo correcto...
 210	680abf68	Si no habría habido una forma mejor...
 220	cdcf208d	Qué aficionado eres a darle vueltas a las cosas.
@@ -33,6 +33,6 @@ id	huella_jp	es
 320	33e85733	...Jaja, ¿adónde te habías ido?\n¿Eso estabas haciendo?
 330	07a32baa	Bien, si perdemos el embarque no tiene gracia.\n¡Subamos ya a la cápsula!
 340	c9b87d58	Aun en el Satélite Artificial,\nhabrá que seguir con exorcismos y rituales.
-350	8af7e750	¡Cuento contigo de ahora en adelante, Sumino!
-360	e374465a	{fc(57e4f1)Choqué mi puño contra el puño\nque Maruko me extendió.}
-370	46497895	¡Sí, claro!\n¡Cuento contigo, Maruko!
+350	8af7e750	¡Cuento contigo de ahora en adelante, Takumi!
+360	e374465a	{fc(57e4f1)Choqué mi puño contra el puño\nque Gaku me extendió.}
+370	46497895	¡Sí, claro!\n¡Cuento contigo, Gaku!

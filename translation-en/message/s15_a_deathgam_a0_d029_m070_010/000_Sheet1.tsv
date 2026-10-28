@@ -1,8 +1,8 @@
 id	huella_jp	es
-10	865107b5	¿Eh, Shizuhara...?
+10	865107b5	¿Eh, Hiruko...?
 20	bd1f1d4f	{fc(57e4f1)Había dicho que me esperaba en la azotea,\npero no se la veía por ningún lado.}
 30	5f5ecc1b	{fc(57e4f1)No habrá vuelto a su cuarto...}
-40	594f449b	Por aquí, Sumino.
+40	594f449b	Por aquí, Takumi.
 50	9014c9e7	{fc(57e4f1)Oí la voz, me giré y la vi\nsentada en el borde de la azotea.}
 60	f4a72a8b	
 70	8a2981b8	{fc(57e4f1)Shizuhara miraba con atención un punto.\nY hacia donde miraba...}
@@ -18,7 +18,7 @@ id	huella_jp	es
 170	7775ba95	Hay casos en que el hogar no es un lugar al que se quiera volver.\nSeguramente tú ni lo imaginas.
 180	d36338b1	{fc(57e4f1)Es verdad, no lo imaginaba...}
 190	e5ebd1bf	{fc(57e4f1)Yo, que solo pensaba en volver a sentarme a la mesa\ncon mi padre, mi madre y Karua...}
-200	20e37a35	Oye, Sumino.\n¿Sabes por qué a Darumi le gustan los juegos mortales?
+200	20e37a35	Oye, Takumi.\n¿Sabes por qué a Darumi le gustan los juegos mortales?
 210	095dcdf2	
 220	69bd525f	La respuesta es simple. Porque el entorno de su propio hogar\nes, en sí mismo, una situación de juego mortal.
 230	fb6a14c2	Si bajas la guardia aunque sea un poco,\nsus padres o profesores le hacen cosas terribles.
@@ -26,7 +26,7 @@ id	huella_jp	es
 250	c70cb646	Ninguno de los adultos que debían protegerla\nquiso nunca tenderle la mano.
 260	7a26ccde	¿Ves? Es un juego mortal en sí.
 270	242b7422	
-280	38b2e9c5	{fc(57e4f1)Algo había sospechado del mal ambiente familiar de Amemiya...\npero no pensé que fuera tanto.}
+280	38b2e9c5	{fc(57e4f1)Algo había sospechado del mal ambiente familiar de Darumi...\npero no pensé que fuera tanto.}
 290	644b60d4	Unos parásitos a los que dejan vivir ahí y encima son violentos... Igualito que el maldito de mi hermano...
 300	631e7c86	Te entiendo... En mi casa también ignoró la intervención de las autoridades y siguió con la violencia...
 310	067b48cf	Papá... los domingos al mediodía ve las carreras de caballos y, cuando pierde, se enoja y le pega a Darumi...
@@ -45,7 +45,7 @@ id	huella_jp	es
 450	71a2938f	Pero... por alguna razón del destino, ese deseo\nse volvió realidad.
 460	73154dfb	¡Porque apareció él...!
 470	d0d142fb	{fc(57e4f1)El patrocinador de un juego mortal,\nque un día aparece de repente desde el cielo.}
-480	16de95fd	{fc(57e4f1)Para Amemiya eso significaba el cumplimiento\nde un sueño de la infancia...}
+480	16de95fd	{fc(57e4f1)Para Darumi eso significaba el cumplimiento\nde un sueño de la infancia...}
 490	25ab438a	Ahora Darumi está en un estado de ensueño.\nPorque su sueño se cumplió.
 500	00518eab	Ella juega a sus anchas en el sueño,\ny luego...
 510	590dd646	va a morir dentro del sueño.
@@ -67,28 +67,28 @@ id	huella_jp	es
 670	311a95ea	Si muere aunque sea una sola persona, todo esto no sirve...
 680	f4a72a8b	
 690	2567d044	{fc(57e4f1)Me quedé sin palabras.}
-700	74705fb0	{fc(57e4f1)Shizuhara va en serio...\nde verdad quiere salvar la vida de todos.}
+700	74705fb0	{fc(57e4f1)Hiruko va en serio...\nde verdad quiere salvar la vida de todos.}
 710	d0e7d76f	{fc(57e4f1)Es verdad... ahora que lo pienso,\nya era así en el mundo anterior.}
 720	2249d457	...Mi objetivo es ganar esta guerra. Cueste lo que cueste, con los medios que sean.
 730	11395784	Eso sí, esa victoria...
 740	21d68cad	incluye también {fc(ff635b)"sobrevivir todos"}.
 750	7b83d291	{fc(57e4f1)No dejar caer a nadie. Si alguien está al borde de la muerte,\ntenderle la mano arriesgando la vida.}
-760	0c0930db	{fc(57e4f1)A Amemiya y también a mí...\nShizuhara nos salvó.}
+760	0c0930db	{fc(57e4f1)A Darumi y también a mí...\nShizuhara nos salvó.}
 770	e16d0645	¡¡...!!
-780	74880cb8	{fc(57e4f1)En cuanto conocí la determinación de Shizuhara,\nun escalofrío me recorrió el cuerpo.}
+780	74880cb8	{fc(57e4f1)En cuanto conocí la determinación de Hiruko,\nun escalofrío me recorrió el cuerpo.}
 790	318ff9aa	{fc(57e4f1)¿Qué es esta...?\n¡Es una heroína de verdad...!}
 800	c15b9078	Perdón con Darumi, que está feliz con el juego,\npero yo quiero terminar este juego cuanto antes.
 810	0a73e155	Hay que acabar con ese falso sueño pronto...\no Darumi no despertará.
-820	f9646078	Por eso te lo pido, Sumino...\n¿me ayudarás mañana?
+820	f9646078	Por eso te lo pido, Takumi...\n¿me ayudarás mañana?
 830	b4be870a	¡Claro que sí...!
 840	22f12d4c	{fc(57e4f1)Con una heroína tan genial pidiéndome ayuda,\nno era tan frío como para negarme.}
-850	d92b01cb	A Omokage lo convenzo yo. Si le cuento la situación,\nseguro aceptará que Amemiya venga.
+850	d92b01cb	A Yugamu lo convenzo yo. Si le cuento la situación,\nseguro aceptará que Amemiya venga.
 860	c700517e	Mañana salgamos los cuatro a la ciudad.\n¡Y detengamos la Caza de Invasores!
 870	0a251ce3	{fc(57e4f1)Shizuhara y yo extendimos la mano a la vez\ny nos dimos un firme apretón.}
-880	0419924d	{fc(57e4f1)Quiero proteger la amable determinación de Shizuhara.\nSolo pensaba en eso.}
+880	0419924d	{fc(57e4f1)Quiero proteger la amable determinación de Hiruko.\nSolo pensaba en eso.}
 890	8ba64d8a	{fc(57e4f1)Con seguridad, derrotaremos al patrocinador... y luego.}
 900	c0af9b9d	¡Apuntaremos todos a un día 100 inmejorable!
 910	7b2501db	{fc(57e4f1)Pero... quizás nosotros éramos ingenuos.}
 920	1df85b60	{fc(57e4f1)Quizás no deberíamos haber llevado amabilidad\nal campo de batalla.}
 930	31390f0a	{fc(57e4f1)Porque...}
-940	a4f7888a	{fc(57e4f1)Por esa amabilidad, Shizuhara...}
+940	a4f7888a	{fc(57e4f1)Por esa amabilidad, Hiruko...}

@@ -44,18 +44,18 @@ r00_0_1stTrueR_00_d100_m060_060_01_0010	fdb1aed3	¿De verdad volver al pasado?
 r00_0_1stTrueR_00_d100_m060_060_02_0010	0b11b53e	Volver al pasado
 r00_0_1stTrueR_00_d100_m060_060_02_0020	51a7585c	No volver
 r00_0_1stTrueR_00_d100_m060_060_03_0010	6baec99f	¿Por qué no lees los mangas del maestro F.?
-r00_0_1stTrueR_00_d100_m060_060_03_0020	991036cd	De todos modos, lo que es seguro es que...\nel único que puede rehacer el pasado es Sumino.
+r00_0_1stTrueR_00_d100_m060_060_03_0020	991036cd	De todos modos, lo que es seguro es que...\nel único que puede rehacer el pasado es Takumi.
 r00_0_1stTrueR_00_d100_m060_060_03_0030	54787770	Eso... es injusto.\n¡No eres el único que se va a quedar tranquilo...!
 r00_0_1stTrueR_00_d100_m060_060_03_0040	8a71abe2	Eso... quiere decir que nos vas a abandonar, ¿eh?
 r00_0_1stTrueR_00_d100_m060_060_03_0050	b7642a94	...Aun así, ¿vas a irte?\n¿Aunque abandones a quienes luchamos contigo hasta hoy?
 r00_0_1stTrueR_00_d100_m060_060_03_0060	ea39b628	Oye, ¿no deberías pensarlo mejor?\nYa no hace falta luchar...
 r00_0_1stTrueR_00_d100_m060_060_03_0070	ec67396e	Olvídalo ya... y vamos todos al Satélite Artificial.\nAllá podemos vivir en paz.
-r00_0_1stTrueR_00_d100_m060_060_03_0080	cf10be3d	Sumino, responde claro otra vez.\nSegún lo que digas... no te lo voy a dejar pasar.
+r00_0_1stTrueR_00_d100_m060_060_03_0080	cf10be3d	Takumi, responde claro otra vez.\nSegún lo que digas... no te lo voy a dejar pasar.
 s00_0_2ndTrueR_00_d002_m100_020_01_0010	2c287723	¿Qué hacer con Eito Aotsuki?
 s00_0_2ndTrueR_00_d002_m100_020_02_0010	5b468555	Rematarlo
 s00_0_2ndTrueR_00_d002_m100_020_02_0020	f085d489	Detenerlo
 s00_0_2ndTrueR_00_d002_m100_020_03_0010	8ef88ce5	Eso lo sé yo mejor que nadie,\nporque volví del futuro...
-s00_0_2ndTrueR_00_d002_m100_020_03_0020	31e0db19	Pero... también es cierto que "este Aotsuki"\ntodavía no hizo nada...
+s00_0_2ndTrueR_00_d002_m100_020_03_0020	31e0db19	Pero... también es cierto que "este Eito"\ntodavía no hizo nada...
 s00_0_2ndTrueR_00_d002_m100_020_03_0030	755d881f	Y sobre todo... no es un invasor:\nes un humano, igual que yo.
 s00_0_2ndTrueR_00_d002_m100_020_03_0040	db8326bf	Aun así, ¿debo matarlo aquí?\n¿Es eso lo correcto?
 s00_0_2ndTrueR_00_d002_m100_020_03_0050	9dbc187e	Tengo que... decidirlo yo.\nEsta vez, el futuro lo elijo yo.
@@ -102,7 +102,7 @@ s00_0_2ndTrueR_00_d015_m150_015_02_0030	df411a38	Kyoshika Magadori
 s00_0_2ndTrueR_00_d015_m150_015_03_0010	57c811bd	¿Eh...?
 s00_0_2ndTrueR_00_d015_m150_015_03_0020	d3902760	Soy una samurái... Desde que pisé el campo de batalla,\nestoy preparada para morir...
 s00_0_2ndTrueR_00_d015_m150_015_03_0030	3fe2f508	¡Morir por mis compañeros\nes mi mayor deseo! ¡Iré yo!
-s00_0_2ndTrueR_00_d015_m150_015_03_0040	457be5a0	N-No te adelantes... El que decide... es Sumino, ¿no?
+s00_0_2ndTrueR_00_d015_m150_015_03_0040	457be5a0	N-No te adelantes... El que decide... es Takumi, ¿no?
 s00_0_2ndTrueR_00_d015_m150_015_03_0050	6ae7ee55	Uuh... uuuh...
 s00_0_2ndTrueR_00_d015_m150_015_03_0060	dd34715d	...No queda otra que decidir.\nSolo yo puedo tomar esta decisión cruel.
 s00_0_2ndTrueR_00_d015_m150_015_03_0070	aca126bf	Que esto haya pasado... es mi responsabilidad.
@@ -111,8 +111,8 @@ s00_0_2ndTrueR_00_d021_m190_015_01_0010	9854191f	¿Qué hacer con Eva?
 s00_0_2ndTrueR_00_d021_m190_015_02_0010	5b468555	Rematarla
 s00_0_2ndTrueR_00_d021_m190_015_02_0020	21b4f761	Hacerla prisionera
 s00_0_2ndTrueR_00_d021_m190_015_03_0010	b3d56bc3	Es lo más cruel, así que es lo peor.
-s00_0_2ndTrueR_00_d021_m190_015_03_0020	432758df	S-Sumino... ¿De verdad lo va a hacer?\nNo hace falta... matarla...
-s00_0_2ndTrueR_00_d021_m190_015_03_0030	5937297c	Sumino... ¿qué vas a hacer?
+s00_0_2ndTrueR_00_d021_m190_015_03_0020	432758df	S-Takumi... ¿De verdad lo va a hacer?\nNo hace falta... matarla...
+s00_0_2ndTrueR_00_d021_m190_015_03_0030	5937297c	Takumi... ¿qué vas a hacer?
 s00_0_2ndTrueR_00_d021_m190_015_03_0040	aab02172	¡Mátala! ¡Remátala!
 s00_0_2ndTrueR_00_d021_m190_015_03_0050	df2ae73c	¡P-Por favor! ¡Se lo ruego!\n¡No me maten, por favor!
 s00_0_2ndTrueR_00_d021_m190_015_03_0060	53cf0bcc	Ira, tristeza, compasión, súplica, miedo...\nMe miraban con todo tipo de sentimientos.
@@ -122,7 +122,7 @@ s00_0_2ndTrueR_00_d031_m020_015_01_0010	9850b47b	¿Dejar que destruya a NIGOU?
 s00_0_2ndTrueR_00_d031_m020_015_02_0010	f6220179	Dejar que lo destruya
 s00_0_2ndTrueR_00_d031_m020_015_02_0020	dcb3541f	Impedírselo
 s00_0_2ndTrueR_00_d031_m020_015_03_0010	24142cfc	Si dejo que destruya a NIGOU,\nseguro que pasará algo grave.
-s00_0_2ndTrueR_00_d031_m020_015_03_0020	a4664f2e	Shizuhara dijo que el estado de Eva era algo\nimportante que también tenía que ver conmigo...
+s00_0_2ndTrueR_00_d031_m020_015_03_0020	a4664f2e	Hiruko dijo que el estado de Eva era algo\nimportante que también tenía que ver conmigo...
 s00_0_2ndTrueR_00_d031_m020_015_03_0030	3369ebd1	Seguro que tiene que ver con lo que dijo\nde que "yo estaba raro"...
 s00_0_2ndTrueR_00_d031_m020_015_03_0040	590ac8b8	No puede ser, pensaba, pero en el fondo\nde mi cabeza "algo" no terminaba de encajar.
 s00_0_2ndTrueR_00_d031_m020_015_03_0050	5eba9ea5	No sabía qué era ese "algo", pero presentía que,\nsi lo ignoraba, pasaría algo grave.
@@ -155,19 +155,19 @@ s00_0_2ndTrueR_00_d057_m190_025_01_0010	876d5d0d	¿Matar a Eito Aotsuki?
 s00_0_2ndTrueR_00_d057_m190_025_02_0010	39b02eb4	Matarlo
 s00_0_2ndTrueR_00_d057_m190_025_02_0020	b2dde59e	No matarlo
 s00_0_2ndTrueR_00_d057_m190_025_03_0010	9971baa9	Ah, es que... pusiste una cara que daba miedo, Sumino.
-s00_0_2ndTrueR_00_d057_m190_025_03_0020	8c441a33	Yo... creo que deberías dar una respuesta\nque sea propia de ti, Sumino.
+s00_0_2ndTrueR_00_d057_m190_025_03_0020	8c441a33	Yo... creo que deberías dar una respuesta\nque sea propia de ti, Takumi.
 s00_0_2ndTrueR_00_d057_m190_025_03_0030	cffeb1e1	Sea cual sea esa respuesta,\nvoy a apoyar tu decisión.
 s00_0_2ndTrueR_00_d057_m190_025_03_0040	1ec352f3	Responder a mi manera...
 s00_0_2ndTrueR_00_d057_m190_025_03_0050	7f434199	¿A mi manera...? ¿Y cuál es mi manera?
-s00_0_2ndTrueR_00_d057_m190_025_03_0060	7718311c	Además... ¿está bien no escuchar a Aotsuki?\n¿Está bien decidir que miente... sin escucharlo antes?
+s00_0_2ndTrueR_00_d057_m190_025_03_0060	7718311c	Además... ¿está bien no escuchar a Eito?\n¿Está bien decidir que miente... sin escucharlo antes?
 s00_0_2ndTrueR_00_d057_m190_025_03_0070	48c309f1	¿Está bien... matarlo?
 s00_0_2ndTrueR_00_d057_m190_025_03_0080	d63dd5c9	¿Qué hago...?\n¿Qué es lo que quiero hacer...?
 s00_0_2ndTrueR_00_d063_m180_020_01_0010	9854191f	¿Qué hacer con Eva?
-s00_0_2ndTrueR_00_d063_m180_020_02_0010	3990a6e3	Dejárselo a Ginzaki
+s00_0_2ndTrueR_00_d063_m180_020_02_0010	3990a6e3	Dejárselo a Shouma
 s00_0_2ndTrueR_00_d063_m180_020_02_0020	4fa9beae	Proteger a Eva
 s00_0_2ndTrueR_00_d063_m180_020_03_0010	5b626dd7	¡Ya... déjenla libre, por favor!
 s00_0_2ndTrueR_00_d063_m180_020_03_0020	0e24b992	"Una verdad tremenda"...\nDice que sabremos lo que nos pasó, pero...
-s00_0_2ndTrueR_00_d063_m180_020_03_0030	06cc5db8	¿Será cierto? ¿No será que Ginzaki se volvió loco?
+s00_0_2ndTrueR_00_d063_m180_020_03_0030	06cc5db8	¿Será cierto? ¿No será que Shouma se volvió loco?
 s00_0_2ndTrueR_00_d063_m180_020_03_0040	bd56dd2a	Y aunque no sea así... ¿está bien elegir esta forma?
 s00_0_2ndTrueR_00_d063_m180_020_03_0050	8a93940d	Invadimos el planeta de Eva y, encima,\nle lavamos el cerebro para usarla...
 s00_0_2ndTrueR_00_d063_m180_020_03_0060	59c7e7ac	...No, quizá ya deberíamos dejar de hacerlo.\nPuede que ella, en el fondo, también quiera descansar.
@@ -190,7 +190,7 @@ s00_0_2ndTrueR_00_d082_m070_010_02_0020	9e841604	No sumarlo
 s00_0_2ndTrueR_00_d082_m070_010_03_0010	733ebe2a	Yo, la verdad, no tengo ganas de que me maten\ndos veces. Decide con cuidado.
 s00_0_2ndTrueR_00_d082_m070_010_03_0020	30a12220	¿Qué dices, Takumi?\n¿Esta vez sí me sumas al equipo?
 s00_0_2ndTrueR_00_d082_m070_010_03_0030	83a79bb5	Este tipo... nos traicionó...\nEn los 100 días anteriores nos engañó todo el tiempo...
-s00_0_2ndTrueR_00_d082_m070_010_03_0040	59641b0c	Destruyó a SIREI, mató a Shizuhara, le tendió\nuna trampa a Kirifuji y, al final, a Shion...
+s00_0_2ndTrueR_00_d082_m070_010_03_0040	59641b0c	Destruyó a SIREI, mató a Hiruko, le tendió\nuna trampa a Nozomi y, al final, a Shion...
 s00_0_2ndTrueR_00_d082_m070_010_03_0050	55eea5e2	Pero ahora no es el mismo de antes.\nAhora que sabe la verdad, la situación es otra...
 s00_0_2ndTrueR_00_d082_m070_010_03_0060	22222330	Y, sobre todo...\nahora necesitamos toda la fuerza posible...
 s00_0_2ndTrueR_00_d082_m070_010_03_0070	fbac53c9	Pero ¿de verdad puedo confiar en Aotsuki?\n¿Está bien confiar en él?
@@ -198,7 +198,7 @@ s00_0_2ndTrueR_00_d082_m070_010_03_0080	797f0fca	¿De verdad puedo asegurar que 
 s00_0_2ndTrueR_00_d100_m050_010_01_0010	0956f88d	¿Luchar contra SIREI?
 s00_0_2ndTrueR_00_d100_m050_010_02_0010	266bd35e	Luchar
 s00_0_2ndTrueR_00_d100_m050_010_02_0020	a0658478	No luchar
-s00_0_2ndTrueR_00_d100_m050_010_03_0010	916ac9bd	Eso también hay que verlo...\nSumino, no hay tiempo que perder, ¿eh?
+s00_0_2ndTrueR_00_d100_m050_010_03_0010	916ac9bd	Eso también hay que verlo...\nTakumi, no hay tiempo que perder, ¿eh?
 s00_0_2ndTrueR_00_d100_m050_010_03_0020	2a616f81	Sí, ya sé...
 s00_0_2ndTrueR_00_d100_m050_010_03_0030	766ae07e	Ya... no quiero perder nada más...\nYa perdimos demasiado...
 s00_0_2ndTrueR_00_d100_m050_010_03_0040	c61c491e	Si solo pensamos en sobrevivir,\nlo mejor es seguir obedeciendo a SIREI.
@@ -218,15 +218,15 @@ s03_0_DokusaiR_00_d087_m020_030_03_0060	7e8c86bf	Los recibiremos en este planeta
 s03_0_DokusaiR_00_d087_m020_030_03_0070	4691ae69	Nuestro apoyo les dará fuerza.
 s03_0_DokusaiR_00_d087_m020_030_03_0080	45833d02	¿Qué dicen?
 s03_0_DokusaiR_A0_d099_m050_020_01_0010	9705216b	¿A quién salvar?
-s03_0_DokusaiR_A0_d099_m050_020_02_0010	475f93f8	Salvar a Kirifuji
+s03_0_DokusaiR_A0_d099_m050_020_02_0010	475f93f8	Salvar a Nozomi
 s03_0_DokusaiR_A0_d099_m050_020_02_0020	a5c51e00	Salvar a Kamyuhn
 s03_0_DokusaiR_A0_d099_m050_020_03_0010	db51f587	Tienes que elegir tú, líder.
 s03_0_DokusaiR_A0_d099_m050_020_03_0020	0efed8b6	Tengo que decidirlo yo.
 s03_0_DokusaiR_A0_d099_m050_020_03_0030	d4c29685	A quién salvar y a quién dejar morir.
-s03_0_DokusaiR_A0_d099_m050_020_03_0040	5be5ee2d	Si dejo morir a Kirifuji, ¿para qué viajé en el tiempo?
+s03_0_DokusaiR_A0_d099_m050_020_03_0040	5be5ee2d	Si dejo morir a Nozomi, ¿para qué viajé en el tiempo?
 s03_0_DokusaiR_A0_d099_m050_020_03_0050	b6d533df	¡¿Está bien dejar morir a Kamyuhn...?!
 s03_0_DokusaiR_A0_d099_m050_020_03_0060	66f48276	¡Decide rápido...!\n¡Si no, no se salvará ninguna de las dos!
-s03_0_DokusaiR_A0_d099_m050_020_03_0070	aaef16d1	Kirifuji o Kamyuhn.
+s03_0_DokusaiR_A0_d099_m050_020_03_0070	aaef16d1	Nozomi o Kamyuhn.
 s03_0_DokusaiR_A0_d099_m050_020_03_0080	bc745bd3	A quien voy a salvar es...
 s04_0_IvaChanR_00_d098_m010_020_01_0010	2acd6fa7	¿Ir a ayudar a la Última Academia de Defensa?
 s04_0_IvaChanR_00_d098_m010_020_02_0010	fd64e75c	Ir a ayudar
@@ -239,7 +239,7 @@ s04_0_IvaChanR_00_d098_m010_020_03_0050	7e5da3a7	No quiero perder este momento d
 s04_0_IvaChanR_00_d098_m010_020_03_0060	90e9081f	Pero... ¿está bien así? ¿Qué debo hacer?
 s04_0_IvaChanR_00_d098_m010_020_03_0070	b44b996e	En este momento, tengo delante la última decisión.
 s04_0_IvaChanR_00_d098_m010_020_03_0080	498c3667	¿Vivo como me dicta el corazón...? ¿O...?
-s05_0_Ninshiki_00_d062_m020_010_01_0010	a26244c7	El undécimo Aotsuki...
+s05_0_Ninshiki_00_d062_m020_010_01_0010	a26244c7	El undécimo Eito...
 s05_0_Ninshiki_00_d062_m020_010_02_0010	d40e6f78	No está aquí
 s05_0_Ninshiki_00_d062_m020_010_02_0020	eacd314a	Lo encontré
 s05_0_Ninshiki_00_d062_m020_010_03_0010	cefacacf	Bueno, por fin llegó el día.
@@ -355,9 +355,9 @@ s07_0_PanicxRt_Aabaaa_d036_m030_010_02_0020	f4a72a8b
 s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0010	b338d144	
 s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0020	10d2aed6	...Yo no quiero que todo sea en vano.
 s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0030	4a19e687	...No quiero pensar que fue inútil, de ninguna manera.
-s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0040	f2c32dde	...Es igual que cuando convencí a Oosuzuki.
+s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0040	f2c32dde	...Es igual que cuando convencí a Kurara.
 s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0050	7319d371	No quiero que todas las batallas hayan sido en vano.\nNo quiero pensar que fueron inútiles.
-s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0060	1aaa9a35	...Entiendo lo que siente Kirifuji tan bien que duele.
+s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0060	1aaa9a35	...Entiendo lo que siente Nozomi tan bien que duele.
 s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0070	248e16f0	Pero justamente porque lo entiendo...
 s07_0_PanicxRt_Aabaaa_d036_m030_010_03_0080	3f743b72	Lo que hicimos...
 s08_0_MattariR_00_d099_m030_010_01_0010	8886c41d	¿La realidad o el sueño?
@@ -390,7 +390,7 @@ s09_A_BoukenRt_00_d045_m020_010_03_0020	00bd1784	Uno es donde encontramos la pri
 s09_A_BoukenRt_00_d045_m020_010_03_0030	d2b1b0f9	Si es así, tengo una propuesta.\nDividámonos en equipos.
 s09_A_BoukenRt_00_d045_m020_010_03_0040	77ed4eec	¿O sea, dividirnos en un grupo\nde exploración y uno de defensa?
 s09_A_BoukenRt_00_d045_m020_010_03_0050	78cbe726	Así es. Por mucho que haya Llamas Eternas,\nno podemos dejar la Última Academia de Defensa\nsola todo el tiempo para buscar tesoros.
-s09_A_BoukenRt_00_d045_m020_010_03_0060	89df5c56	Veamos... En exploración, Kawana, Maruko, los hermanos\nTsukumo y yo. ¿Y los demás en defensa?
+s09_A_BoukenRt_00_d045_m020_010_03_0060	89df5c56	Veamos... En exploración, Tsubasa, Gaku, los hermanos\nTsukumo y yo. ¿Y los demás en defensa?
 s09_A_BoukenRt_00_d045_m020_010_03_0070	46177d55	¿Y yo...?
 s09_A_BoukenRt_00_d045_m020_010_03_0080	1bd134c8	Tú eres un caso especial: puedes elegir.
 s09_A_BoukenRt_A0_d064_m040_010_01_0010	291a340d	¿A qué grupo unirse?
@@ -400,8 +400,8 @@ s09_A_BoukenRt_A0_d064_m040_010_03_0010	5d8d4c6e	Se largó y se robó un montón
 s09_A_BoukenRt_A0_d064_m040_010_03_0020	13a6f31c	¿Qué hacemos? ¿Vamos todos tras Aotsuki?
 s09_A_BoukenRt_A0_d064_m040_010_03_0030	4895ae5f	Para eso no hay tiempo.\nNosotros también tenemos que buscar las cajas...
 s09_A_BoukenRt_A0_d064_m040_010_03_0040	27c33799	No podemos dejar la academia con poca gente,\nasí que dividamos la exploración en dos equipos.
-s09_A_BoukenRt_A0_d064_m040_010_03_0050	9052cf88	¿No es más fácil separarnos en chicos y chicas?\nKawana, Kako y yo, y los demás.
-s09_A_BoukenRt_A0_d064_m040_010_03_0060	5f284000	¡Ah, pero yo me sentiría más segura con Sumino!
+s09_A_BoukenRt_A0_d064_m040_010_03_0050	9052cf88	¿No es más fácil separarnos en chicos y chicas?\nTsubasa, Kako y yo, y los demás.
+s09_A_BoukenRt_A0_d064_m040_010_03_0060	5f284000	¡Ah, pero yo me sentiría más segura con Takumi!
 s09_A_BoukenRt_A0_d064_m040_010_03_0070	aa96130e	¡No, no, así solo quedamos Ima y yo!\n¡Nos falta fuerza y ni de qué hablar tenemos!
 s09_A_BoukenRt_A0_d064_m040_010_03_0080	5daa94ab	De todos modos, la decisión es tuya, líder.
 s09_A_BoukenRt_Aa_d099_m230_010_01_0010	38b4e560	¿Qué cajas abrir?
@@ -415,27 +415,27 @@ s09_A_BoukenRt_Aa_d099_m230_010_03_0050	bd81e455	No abrir estas cajas no es una 
 s09_A_BoukenRt_Aa_d099_m230_010_03_0060	c02480c6	El problema es resolver el misterio de las cajas.\n¿Qué quiere decir "sola"?
 s09_A_BoukenRt_Aa_d099_m230_010_03_0070	bca01c37	Lo que tienen en común siete de las 13 cajas.\nLo que significa la palabra "sola"...
 s09_A_BoukenRt_Aa_d099_m230_010_03_0080	3745724d	Eso...
-s09_A_BoukenRt_Ab_d099_m230_010_01_0010	f3719733	¿Qué hacer con Aotsuki?
-s09_A_BoukenRt_Ab_d099_m230_010_02_0010	2ee26a9e	Dejárselo a Maruko
+s09_A_BoukenRt_Ab_d099_m230_010_01_0010	f3719733	¿Qué hacer con Eito?
+s09_A_BoukenRt_Ab_d099_m230_010_02_0010	2ee26a9e	Dejárselo a Gaku
 s09_A_BoukenRt_Ab_d099_m230_010_02_0020	8a35e9d0	Encargarme yo
 s09_A_BoukenRt_Ab_d099_m230_010_03_0010	49ca0837	Tengo una idea...\n¿Me dejas esto a mí?
 s09_A_BoukenRt_Ab_d099_m230_010_03_0020	896f07ee	¿Dejártelo...? ¿Qué piensas hacer?
 s09_A_BoukenRt_Ab_d099_m230_010_03_0030	6bdf33eb	Hasta ahora fui puro cuento...\nCreo que fui un tipo patético de verdad...
 s09_A_BoukenRt_Ab_d099_m230_010_03_0040	fb7e36d8	Pero... ¡ahora es distinto!\n¡Creo que ya encontré ese algo del que hablabas!
-s09_A_BoukenRt_Ab_d099_m230_010_03_0050	12d26661	Maruko dijo que tenía una idea.\nNo sé qué será.
+s09_A_BoukenRt_Ab_d099_m230_010_03_0050	12d26661	Gaku dijo que tenía una idea.\nNo sé qué será.
 s09_A_BoukenRt_Ab_d099_m230_010_03_0060	84ba15c8	Pero en los ojos de Maruko ardía una confianza enorme.
-s09_A_BoukenRt_Ab_d099_m230_010_03_0070	163ca71a	¿Debería dejárselo todo a Maruko...?\n¿O encargarme yo solo...?
-s09_A_BoukenRt_Ab_d099_m230_010_03_0080	091aa34b	¿Confío en Maruko...?\n¿O... en mí mismo...?
+s09_A_BoukenRt_Ab_d099_m230_010_03_0070	163ca71a	¿Debería dejárselo todo a Gaku...?\n¿O encargarme yo solo...?
+s09_A_BoukenRt_Ab_d099_m230_010_03_0080	091aa34b	¿Confío en Gaku...?\n¿O... en mí mismo...?
 s09_A_BoukenRt_B0_d064_m040_010_01_0010	3157b172	¿Con quiénes ir?
-s09_A_BoukenRt_B0_d064_m040_010_02_0010	6a87f9fd	Ir con Ginzaki y los demás
-s09_A_BoukenRt_B0_d064_m040_010_02_0020	052db446	Ir con Kirifuji y los demás
+s09_A_BoukenRt_B0_d064_m040_010_02_0010	6a87f9fd	Ir con Shouma y los demás
+s09_A_BoukenRt_B0_d064_m040_010_02_0020	052db446	Ir con Nozomi y los demás
 s09_A_BoukenRt_B0_d064_m040_010_03_0010	8c83d7fa	Los sensores de la academia tampoco detectan nada.\n¿No será que ya no está aquí?
 s09_A_BoukenRt_B0_d064_m040_010_03_0020	27c33799	No podemos dejar la academia con poca gente,\nasí que dividamos la exploración en dos equipos.
-s09_A_BoukenRt_B0_d064_m040_010_03_0030	dcabc69f	Veamos... Ginzaki, Oosuzuki y Mojiro en el equipo A,\ny Kirifuji, Yakushiji y Omokage en el equipo B.
+s09_A_BoukenRt_B0_d064_m040_010_03_0030	dcabc69f	Veamos... Shouma, Kurara y Moko en el equipo A,\ny Nozomi, Takemaru y Yugamu en el equipo B.
 s09_A_BoukenRt_B0_d064_m040_010_03_0040	31d8fe03	Y que Kako vaya en el equipo al que no te unas.
 s09_A_BoukenRt_B0_d064_m040_010_03_0050	fd423128	...¿Está bien que vuelva a explorar? Si puedo avanzar\nmatando enemigos, me voy a sentir de maravilla, pero...
 s09_A_BoukenRt_B0_d064_m040_010_03_0060	23c2b56a	Quieres ir, ¿no? Entonces así es más fácil.
-s09_A_BoukenRt_B0_d064_m040_010_03_0070	dd34b24c	Entonces, Sumino... ¿qué vas a hacer?\n¿Vas con Ginzaki? ¿O con Kirifuji?
+s09_A_BoukenRt_B0_d064_m040_010_03_0070	dd34b24c	Entonces, Takumi... ¿qué vas a hacer?\n¿Vas con Shouma? ¿O con Nozomi?
 s09_A_BoukenRt_B0_d064_m040_010_03_0080	6870ccdd	¿Voy con Ginzaki y los demás,\no con Kirifuji y los demás...? A ver, ¿qué hago...?
 s09_A_BoukenRt_Ba_d094_m030_010_01_0010	b6b1141f	¿Qué decirle?
 s09_A_BoukenRt_Ba_d094_m030_010_02_0010	4aab2196	Enfrenta lo que sientes
@@ -457,16 +457,16 @@ s09_A_BoukenRt_Bb_d099_m230_010_03_0030	df37fc4c	Como no las tenemos todas, si a
 s09_A_BoukenRt_Bb_d099_m230_010_03_0040	1621fbd6	Abrirlas ahora a la ligera está descartado, claro.\nPero... ¿está bien destruirlas?
 s09_A_BoukenRt_Bb_d099_m230_010_03_0050	636463d0	No sabemos nada... No llegamos a la verdad...\nO sea, tampoco sabemos qué pasará si las destruimos.
 s09_A_BoukenRt_Bb_d099_m230_010_03_0060	efc86705	Podría salirnos el tiro por la culata, ¿eh...?\nPero eso también podría pasar si las sellamos, ¿no?
-s09_A_BoukenRt_Bb_d099_m230_010_03_0070	a00e2662	En todo caso, apoyo hacer como que nunca las vimos.\nNo quiero acabar como Aotsuki o V'ehxness.
+s09_A_BoukenRt_Bb_d099_m230_010_03_0070	a00e2662	En todo caso, apoyo hacer como que nunca las vimos.\nNo quiero acabar como Eito o V'ehxness.
 s09_A_BoukenRt_Bb_d099_m230_010_03_0080	91cb82d8	Líder, decide tú qué hacer con las cajas.\nTe lo... dejo a ti.
 s09_B_occultRt_00_d023_m050_010_01_0010	17975a05	¿Qué hacer?
 s09_B_occultRt_00_d023_m050_010_02_0010	906c27d3	Lanzarse sobre el desconocido
 s09_B_occultRt_00_d023_m050_010_02_0020	3d7552f6	Darme vuelta hacia la voz
 s09_B_occultRt_00_d023_m050_010_03_0010	31e2083a	¡Detrás de mí, la voz de alguien más...!
 s09_B_occultRt_00_d023_m050_010_03_0020	9661f4dd	¡¿Qué hago?!
-s09_B_occultRt_00_d023_m050_010_03_0030	01a6267e	La silueta está a punto de atacar a Kirifuji.\n¡¿Me lanzo sobre ella...?!
+s09_B_occultRt_00_d023_m050_010_03_0030	01a6267e	La silueta está a punto de atacar a Nozomi.\n¡¿Me lanzo sobre ella...?!
 s09_B_occultRt_00_d023_m050_010_03_0040	689eed23	¡¿Quién me habló desde atrás?!\n¡¿Tengo tiempo de mirar atrás?!
-s09_B_occultRt_00_d023_m050_010_03_0050	946560b7	¡¿Y si mientras tanto matan a Kirifuji?!
+s09_B_occultRt_00_d023_m050_010_03_0050	946560b7	¡¿Y si mientras tanto matan a Nozomi?!
 s09_B_occultRt_00_d023_m050_010_03_0060	d6f3d265	¡¿Pero puedo ganarle a esa silueta si peleo así?!
 s09_B_occultRt_00_d023_m050_010_03_0070	df60aee4	¡¿Y quién es ese tipo, para empezar?!
 s09_B_occultRt_00_d023_m050_010_03_0080	6b9d5e8a	¡¡¿Qué debería hacer?!!
@@ -482,12 +482,12 @@ s09_B_occultRt_20_d049_m040_010_03_0060	158d0e9d	¿Más importante que ayudar a 
 s09_B_occultRt_20_d049_m040_010_03_0070	449da902	...Por favor.
 s09_B_occultRt_20_d049_m040_010_03_0080	1850574a	¿Qué hago...? ¿A cuál de los dos le hago caso...?
 s09_B_occultRt_A0_d073_m030_010_01_0010	5b8a4a22	¿Con quién estar de acuerdo?
-s09_B_occultRt_A0_d073_m030_010_02_0010	af3c4650	Con Shizuhara
-s09_B_occultRt_A0_d073_m030_010_02_0020	69c36e0c	Con Maruko
-s09_B_occultRt_A0_d073_m030_010_03_0010	60a4ab93	¡Estamos malditos! ¡Por la Caja de la Desdicha!\n¡Por Eva, por Oosuzuki y por los demás que murieron!
+s09_B_occultRt_A0_d073_m030_010_02_0010	af3c4650	Con Hiruko
+s09_B_occultRt_A0_d073_m030_010_02_0020	69c36e0c	Con Gaku
+s09_B_occultRt_A0_d073_m030_010_03_0010	60a4ab93	¡Estamos malditos! ¡Por la Caja de la Desdicha!\n¡Por Eva, por Kurara y por los demás que murieron!
 s09_B_occultRt_A0_d073_m030_010_03_0020	dc659fdd	¡Todo, todo es obra de los fantasmas,\ny lo que necesitamos es un exorcismo!
 s09_B_occultRt_A0_d073_m030_010_03_0030	96f19693	Esa forma de pensar no la voy a aceptar, obviamente.
-s09_B_occultRt_A0_d073_m030_010_03_0040	e4140103	¡A ti no te pregunté!\n¡¿Qué dices, Sumino?!
+s09_B_occultRt_A0_d073_m030_010_03_0040	e4140103	¡A ti no te pregunté!\n¡¿Qué dices, Takumi?!
 s09_B_occultRt_A0_d073_m030_010_03_0050	0dfc1c57	¡Si seguimos así, la maldición nos va a\nmatar a todos! ¡Hay que hacer un exorcismo!
 s09_B_occultRt_A0_d073_m030_010_03_0060	b6e82311	Aunque todavía no lo entendamos,\nno hay que renunciar a una explicación racional.\nUn exorcismo es lo más inútil que hay.
 s09_B_occultRt_A0_d073_m030_010_03_0070	9cad7805	Yo...
@@ -496,7 +496,7 @@ s09_B_occultRt_Aa_d100_m020_010_01_0010	6ae3db4c	¿Qué hago?
 s09_B_occultRt_Aa_d100_m020_010_02_0010	3bfdf8e3	Señalar al culpable
 s09_B_occultRt_Aa_d100_m020_010_02_0020	13939d7c	No puedo señalar al culpable
 s09_B_occultRt_Aa_d100_m020_010_03_0010	3d09bb2d	O sea, tampoco hay un caso\nen que se mezclen la reina y un macho.
-s09_B_occultRt_Aa_d100_m020_010_03_0020	f9fa3246	Entonces... Sumino.\n¿Dices que sabes quién es el culpable?
+s09_B_occultRt_Aa_d100_m020_010_03_0020	f9fa3246	Entonces... Takumi.\n¿Dices que sabes quién es el culpable?
 s09_B_occultRt_Aa_d100_m020_010_03_0030	859f5395	Sí, eso...
 s09_B_occultRt_Aa_d100_m020_010_03_0040	786a82ab	Es...
 s09_B_occultRt_Aa_d100_m020_010_03_0050	c51ea3a6	La reina de los G'ie se apodera de humanos vivos.\nAl hacerlo, también obtiene sus conocimientos y recuerdos.
@@ -520,10 +520,10 @@ s09_B_occultRt_Ba_d094_m030_020_02_0020	e320fa8f	No resistirme
 s09_B_occultRt_Ba_d094_m030_020_03_0010	3745724d	Eso...
 s09_B_occultRt_Ba_d094_m030_020_03_0020	9e2df1ee	¡Mierda, mierda!\n¡No voy a dejar que me maten!
 s09_B_occultRt_Ba_d094_m030_020_03_0030	4f726bef	¡Yo... yo no me voy a morir!\n¡Uoooooooooh!
-s09_B_occultRt_Ba_d094_m030_020_03_0040	f45453a0	Maruko se lanzó hacia mí con el cuchillo en la mano.
+s09_B_occultRt_Ba_d094_m030_020_03_0040	f45453a0	Gaku se lanzó hacia mí con el cuchillo en la mano.
 s09_B_occultRt_Ba_d094_m030_020_03_0050	dfc3d8da	Mientras lo veía... pensé.
 s09_B_occultRt_Ba_d094_m030_020_03_0060	32de7298	¿Debería resistirme a Maruko?
-s09_B_occultRt_Ba_d094_m030_020_03_0070	5934f3d7	Yo no soy el culpable. ¿Entonces el culpable es\nMaruko? ¿Tiene sentido dejar que me mate?
+s09_B_occultRt_Ba_d094_m030_020_03_0070	5934f3d7	Yo no soy el culpable. ¿Entonces el culpable es\nGaku? ¿Tiene sentido dejar que me mate?
 s09_B_occultRt_Ba_d094_m030_020_03_0080	3cd1c0a6	¿Qué... debería hacer?
 s09_B_occultRt_Bb_d092_m020_020_01_0010	8af7aece	¿Qué pienso?
 s09_B_occultRt_Bb_d092_m020_020_02_0010	82c3f732	¿Eva era un espíritu maligno?
@@ -533,7 +533,7 @@ s09_B_occultRt_Bb_d092_m020_020_03_0020	ebbe7277	¿No crees que Eva era un espí
 s09_B_occultRt_Bb_d092_m020_020_03_0030	3745724d	Eso...
 s09_B_occultRt_Bb_d092_m020_020_03_0040	2a5ce43d	Por culpa de lo que Eva nos metió en la cabeza,\nte lastimaste, Sumino, y todos nos peleamos.
 s09_B_occultRt_Bb_d092_m020_020_03_0050	b4be3054	Y desde que Eva desapareció,\nno pasó ni un solo fenómeno paranormal.
-s09_B_occultRt_Bb_d092_m020_020_03_0060	e213fc2c	...¿Qué opinas, Sumino?
+s09_B_occultRt_Bb_d092_m020_020_03_0060	e213fc2c	...¿Qué opinas, Takumi?
 s09_B_occultRt_Bb_d092_m020_020_03_0070	9cad7805	Yo...
 s09_B_occultRt_Bb_d092_m020_020_03_0080	fc4818e8	Yo...
 s10_A_YakusiTk_00_d050_m090_020_01_0010	232a5a29	Le creo a...
@@ -541,7 +541,7 @@ s10_A_YakusiTk_00_d050_m090_020_02_0010	acbd76da	Eito Aotsuki
 s10_A_YakusiTk_00_d050_m090_020_02_0020	ea12e5f9	Nozomi Kirifuji
 s10_A_YakusiTk_00_d050_m090_020_03_0010	ed86a685	Creo que todos pueden hacerlo.\nAsí que, ¿por qué no confías en ellos?
 s10_A_YakusiTk_00_d050_m090_020_03_0020	a2199e52	¡Necesitamos una luz como tú, Takumi!\n¡Una luz intensa que nos guíe!
-s10_A_YakusiTk_00_d050_m090_020_03_0030	b1898a45	Sumino, ¿lo dejamos ya? Si seguimos así,\nlas cosas se van a poner cada vez más raras...
+s10_A_YakusiTk_00_d050_m090_020_03_0030	b1898a45	Takumi, ¿lo dejamos ya? Si seguimos así,\nlas cosas se van a poner cada vez más raras...
 s10_A_YakusiTk_00_d050_m090_020_03_0040	3d1a06c8	Ya es hora de que todos vuelvan a la\nnormalidad. Sigamos adelante tomados de la\nmano, como se debe.
 s10_A_YakusiTk_00_d050_m090_020_03_0050	fc1da1fa	Takumi, te amo...\nPor ti haría cualquier cosa...
 s10_A_YakusiTk_00_d050_m090_020_03_0060	0aec0819	Sigue guiándonos así...\nQueremos vivir para ti.
@@ -575,22 +575,22 @@ s11_0_SeisyunR_A0_d062_m030_010_02_0020	7d7d7a30	No aceptarla
 s11_0_SeisyunR_A0_d062_m030_010_03_0010	9dbca091	Creo que voy a morir.
 s11_0_SeisyunR_A0_d062_m030_010_03_0020	bbcff8b4	¡Claro que no se puede!\n¡¿Qué dices?!
 s11_0_SeisyunR_A0_d062_m030_010_03_0030	ad6295d3	No pienso sacrificar a más compañeros.
-s11_0_SeisyunR_A0_d062_m030_010_03_0040	5d9b7299	Kirifuji no puede esperar ni un momento más, ¿no?\nNo debe haber otra forma.
+s11_0_SeisyunR_A0_d062_m030_010_03_0040	5d9b7299	Nozomi no puede esperar ni un momento más, ¿no?\nNo debe haber otra forma.
 s11_0_SeisyunR_A0_d062_m030_010_03_0050	32c1a2c7	Quiero dejarles algo a ustedes,\nque le dieron sentido a mi vida.
 s11_0_SeisyunR_A0_d062_m030_010_03_0060	3e0c27a0	No hay forma de saber qué es mejor.\nNo hay forma de decidir qué vida importa más.
 s11_0_SeisyunR_A0_d062_m030_010_03_0070	c60a8e0d	Pero tengo que decidir.
 s11_0_SeisyunR_A0_d062_m030_010_03_0080	465c75c4	El deseo de FB... yo...
-s11_0_SeisyunR_Aa_d065_m150_020_01_0010	ed60a3e0	¿Recibir la hemoánima de Kirifuji?
+s11_0_SeisyunR_Aa_d065_m150_020_01_0010	ed60a3e0	¿Recibir la hemoánima de Nozomi?
 s11_0_SeisyunR_Aa_d065_m150_020_02_0010	497b6c98	...Está bien
 s11_0_SeisyunR_Aa_d065_m150_020_02_0020	2d0cc45e	Negarme
 s11_0_SeisyunR_Aa_d065_m150_020_03_0010	767dffd4	Tú sí puedes salvar a todos.\nSobrevivan todos.
-s11_0_SeisyunR_Aa_d065_m150_020_03_0020	6ad23173	...Usa mi hemoánima, Sumino.
+s11_0_SeisyunR_Aa_d065_m150_020_03_0020	6ad23173	...Usa mi hemoánima, Takumi.
 s11_0_SeisyunR_Aa_d065_m150_020_03_0030	7fc2b328	Tú eres especial.
 s11_0_SeisyunR_Aa_d065_m150_020_03_0040	aad2d5fc	¡No! ¡No voy a sacrificarte...!
 s11_0_SeisyunR_Aa_d065_m150_020_03_0050	8e95cc06	No es un sacrificio.\nTe lo confió.
 s11_0_SeisyunR_Aa_d065_m150_020_03_0060	d3e62e68	Además, siempre fuiste tú el que me ayudaba...\nPor lo menos al final, déjame lucirme un poco.
 s11_0_SeisyunR_Aa_d065_m150_020_03_0070	0e352481	Seguro que esta es la última vez.\nPara que todo lo que hicimos no sea un error.
-s11_0_SeisyunR_Aa_d065_m150_020_03_0080	f23303c4	Yo... la vida de Kirifuji... su hemoánima...
+s11_0_SeisyunR_Aa_d065_m150_020_03_0080	f23303c4	Yo... la vida de Nozomi... su hemoánima...
 s12_0_FantasyR_00_d041_m020_020_01_0010	21c4433b	¿Cómo revivir a Ourtsnom?
 s12_0_FantasyR_00_d041_m020_020_02_0010	f66bd447	Revivirlo tal cual
 s12_0_FantasyR_00_d041_m020_020_02_0020	1d15dafe	Revivirlo dentro de una persona
@@ -611,20 +611,20 @@ s12_0_FantasyR_A0_d093_m170_020_03_0030	179d0721	Recuerdos perfectos y cuerpos p
 s12_0_FantasyR_A0_d093_m170_020_03_0040	9ebe724e	Es verdad que no hay nada mejor que eso.
 s12_0_FantasyR_A0_d093_m170_020_03_0050	2e398d54	Pero... ¿es una forma que se puede elegir?\n¿No me estaré equivocando en algo?
 s12_0_FantasyR_A0_d093_m170_020_03_0060	ec3877b9	...No lo sé. Tengo que decidir y no sé nada.
-s12_0_FantasyR_A0_d093_m170_020_03_0070	f85a99fe	¿La que tengo delante es Amemiya?\n¿Es... la Amemiya en la que confiaba?
+s12_0_FantasyR_A0_d093_m170_020_03_0070	f85a99fe	¿La que tengo delante es Darumi?\n¿Es... la Darumi en la que confiaba?
 s12_0_FantasyR_A0_d093_m170_020_03_0080	a2d53ae2	¡Yo...!
 s12_0_FantasyR_B0_d041_m030_010_01_0010	5677014f	¿Qué hacer con Ourtsnom?
 s12_0_FantasyR_B0_d041_m030_010_02_0010	380dccc0	Atraparlo
 s12_0_FantasyR_B0_d041_m030_010_02_0020	78b52f2c	Calmarlo
 s12_0_FantasyR_B0_d041_m030_010_03_0010	bcefe038	...Oye, ¿no lo pensamos un poco más?\nSi de verdad está bien abrirlo...
 s12_0_FantasyR_B0_d041_m030_010_03_0020	2a786305	¡Kyohohoho!\n¡Palabra de hombre no tiene vuelta, ni mucho menos!
-s12_0_FantasyR_B0_d041_m030_010_03_0030	4f538809	En cuanto Amemiya abrió la bolsa,\nsalió disparado algo como una sombra negra.
+s12_0_FantasyR_B0_d041_m030_010_03_0030	4f538809	En cuanto Darumi abrió la bolsa,\nsalió disparado algo como una sombra negra.
 s12_0_FantasyR_B0_d041_m030_010_03_0040	368875a1	¿Esto es Ourtsnom...?
 s12_0_FantasyR_B0_d041_m030_010_03_0050	2d443f29	Uaaa, qué chiquito y qué lindo.\nA Darumi le encantan las cosas chiquitas y lindas.
 s12_0_FantasyR_B0_d041_m030_010_03_0060	ca31748e	...¿Eh? ¿Pero no estará asustado?
 s12_0_FantasyR_B0_d041_m030_010_03_0070	66695c1f	...No sé. A mí me parece que está a la defensiva...
 s12_0_FantasyR_B0_d041_m030_010_03_0080	96fb224c	¿Cómo... debería reaccionar? ¿Qué es lo correcto...?
-s13_0_SFtoLove_00_d009_m110_010_01_0010	779c1265	¿Besar a Shizuhara...?
+s13_0_SFtoLove_00_d009_m110_010_01_0010	779c1265	¿Besar a Hiruko...?
 s13_0_SFtoLove_00_d009_m110_010_02_0010	24cbca46	No besarla
 s13_0_SFtoLove_00_d009_m110_010_02_0020	4aa34648	Besarla
 s13_0_SFtoLove_00_d009_m110_010_03_0010	15e48749	¿Y si va en serio...? ¿Qué hago...?
@@ -644,7 +644,7 @@ s13_A_SFsfSFsf_00_d050_m070_010_03_0030	0097df99	Te pido perdón de verdad por h
 s13_A_SFsfSFsf_00_d050_m070_010_03_0040	2620a55a	Por eso, aunque antes dije muchas cosas,\nla decisión final te la dejo a ti.
 s13_A_SFsfSFsf_00_d050_m070_010_03_0050	ae72d081	Elijas lo que elijas, no me voy a oponer.\nTe seguiré sin decir nada.
 s13_A_SFsfSFsf_00_d050_m070_010_03_0060	ad974d41	Me puse a pensar.
-s13_A_SFsfSFsf_00_d050_m070_010_03_0070	9b64dc8f	¿Saltar a la TL del Asesino en Serie para curar\na Sumino II, o a la TL de la Madurez para ver\nel código de livor mortis de Amemiya?
+s13_A_SFsfSFsf_00_d050_m070_010_03_0070	9b64dc8f	¿Saltar a la TL del Asesino en Serie para curar\na Takumi II, o a la TL de la Madurez para ver\nel código de livor mortis de Darumi?
 s13_A_SFsfSFsf_00_d050_m070_010_03_0080	c3625883	Después de darle muchas vueltas,\nla conclusión a la que llegué fue...
 s13_A_SFsfSFsf_A0_d071_m070_010_01_0010	10d03000	¿Qué lado de la moneda quedó arriba?
 s13_A_SFsfSFsf_A0_d071_m070_010_02_0010	6a954390	Cara
@@ -656,12 +656,12 @@ s13_A_SFsfSFsf_A0_d071_m070_010_03_0040	5b6afcc7	Sin darme cuenta, estaba atrapa
 s13_A_SFsfSFsf_A0_d071_m070_010_03_0050	92b0ad56	Aun así, no podía dejar de pensarlo.
 s13_A_SFsfSFsf_A0_d071_m070_010_03_0060	7d6cbc71	Porque mi próxima decisión\npodía crear dos TL nuevas...
 s13_A_SFsfSFsf_A0_d071_m070_010_03_0070	c9ca894f	Oye, ¿qué te pasa? Contesta de una vez.
-s13_A_SFsfSFsf_A0_d071_m070_010_03_0080	c981a1c9	Ante la insistencia de Shizuhara... por fin me decidí.\nY la respuesta que le di fue...
+s13_A_SFsfSFsf_A0_d071_m070_010_03_0080	c981a1c9	Ante la insistencia de Hiruko... por fin me decidí.\nY la respuesta que le di fue...
 s13_A_SFsfSFsf_Aa_d085_m060_010_01_0010	4aedfdff	La tecla 4...
 s13_A_SFsfSFsf_Aa_d085_m060_010_02_0010	d0af3591	Presionarla
 s13_A_SFsfSFsf_Aa_d085_m060_010_02_0020	a1da6444	No presionarla
 s13_A_SFsfSFsf_Aa_d085_m060_010_03_0010	70262496	Así que si introduzco aquí... un "4"...
-s13_A_SFsfSFsf_Aa_d085_m060_010_03_0020	7d8911fc	Sumino, ten confianza...
+s13_A_SFsfSFsf_Aa_d085_m060_010_03_0020	7d8911fc	Takumi, ten confianza...
 s13_A_SFsfSFsf_Aa_d085_m060_010_03_0030	9de65bde	¡No hace falta que se preocupe...!
 s13_A_SFsfSFsf_Aa_d085_m060_010_03_0040	8adcc97f	¡Nosotros estamos con usted...!
 s13_A_SFsfSFsf_Aa_d085_m060_010_03_0050	ab61477f	Está bien...\n¡Allá voy!
@@ -672,10 +672,10 @@ s13_A_SFsfSFsf_Aab_d100_m130_010_01_0010	6e625d26	La decisión final...
 s13_A_SFsfSFsf_Aab_d100_m130_010_02_0010	badbb8c8	Con Shizuhara a la cápsula
 s13_A_SFsfSFsf_Aab_d100_m130_010_02_0020	1c15fa1f	Con Shizuhara al sótano
 s13_A_SFsfSFsf_Aab_d100_m130_010_03_0010	4ff7994e	Para empezar, ni hablar de dejar aquí a Shizuhara.\nAsí que solo quedan dos opciones.
-s13_A_SFsfSFsf_Aab_d100_m130_010_03_0020	a76045fa	Cargar a Shizuhara a la fuerza hasta la cápsula de escape,\no ir con ella al sótano y volar toda la academia.
+s13_A_SFsfSFsf_Aab_d100_m130_010_03_0020	a76045fa	Cargar a Hiruko a la fuerza hasta la cápsula de escape,\no ir con ella al sótano y volar toda la academia.
 s13_A_SFsfSFsf_Aab_d100_m130_010_03_0030	2121f77f	Con la primera, lo más probable es que no lleguemos a tiempo.
 s13_A_SFsfSFsf_Aab_d100_m130_010_03_0040	2900a190	Y aunque por milagro llegáramos, se\nexterminaría a todos los seres vivos de la\nsuperficie.
-s13_A_SFsfSFsf_Aab_d100_m130_010_03_0050	1d8e4ef9	En cambio, con la segunda podría salvar esas vidas.\nPero a cambio... Shizuhara y yo, sin duda...
+s13_A_SFsfSFsf_Aab_d100_m130_010_03_0050	1d8e4ef9	En cambio, con la segunda podría salvar esas vidas.\nPero a cambio... Hiruko y yo, sin duda...
 s13_A_SFsfSFsf_Aab_d100_m130_010_03_0060	e4fb496a	Dentro de 200 segundos comenzará el ataque en todas\ndirecciones. Miembros de la Unidad de Defensa\nEspecial, de inmediato...
 s13_A_SFsfSFsf_Aab_d100_m130_010_03_0070	bf0e79b4	¡¿Qué hago...?! ¡¿Qué debería hacer...?!\n¡Ya no tengo ni un segundo para pensar!
 s13_A_SFsfSFsf_Aab_d100_m130_010_03_0080	89d1e16a	¡Y la decisión que tomé entonces fue...!
@@ -683,7 +683,7 @@ s13_A_SFsfSFsf_B0_d071_m020_010_01_0010	704292f8	¿A la batalla defensiva de ma�
 s13_A_SFsfSFsf_B0_d071_m020_010_02_0010	c711642a	Salir a combatir
 s13_A_SFsfSFsf_B0_d071_m020_010_02_0020	a06af213	No salir
 s13_A_SFsfSFsf_B0_d071_m020_010_03_0010	1031871e	Por eso, por favor... también por mí...
-s13_A_SFsfSFsf_B0_d071_m020_010_03_0020	7811a9bc	Quizá... Shizuhara tenía razón. Quizá ahora había\nperdido la capacidad de juzgar con la cabeza fría...
+s13_A_SFsfSFsf_B0_d071_m020_010_03_0020	7811a9bc	Quizá... Hiruko tenía razón. Quizá ahora había\nperdido la capacidad de juzgar con la cabeza fría...
 s13_A_SFsfSFsf_B0_d071_m020_010_03_0030	220bd278	Los demás ganaron las batallas defensivas sin mí.\nY dos veces. Lograron buenos resultados.
 s13_A_SFsfSFsf_B0_d071_m020_010_03_0040	e8db2fb3	Entonces, quizá no hace falta que salga a la fuerza.\nConfiar en todos también es parte del deber del capitán.
 s13_A_SFsfSFsf_B0_d071_m020_010_03_0050	d11f62a2	Pero... ¿y si esas dos veces fueron pura suerte?\nNada aseguraba que mañana también saliera bien.
@@ -697,8 +697,8 @@ s13_A_SFsfSFsf_Ba_d098_m210_010_03_0010	5e48bd9a	No quería volver a sentir algo
 s13_A_SFsfSFsf_Ba_d098_m210_010_03_0020	701960c9	¡¡No puedo perder a Kirifuji!!
 s13_A_SFsfSFsf_Ba_d098_m210_010_03_0030	4c3bb6db	¡¡Jamás... jamás...!!
 s13_A_SFsfSFsf_Ba_d098_m210_010_03_0040	9ff9bdb4	¡¡Tengo que protegerla...!!
-s13_A_SFsfSFsf_Ba_d098_m210_010_03_0050	10447748	Me agaché para lanzarme sobre Kako-G. Pero,\nal instante siguiente, la voz de\nShizuhara...
-s13_A_SFsfSFsf_Ba_d098_m210_010_03_0060	cb5251aa	¡¡No, Sumino, no vayas...!! ¡¡No llevas puesto el traje...!!
+s13_A_SFsfSFsf_Ba_d098_m210_010_03_0050	10447748	Me agaché para lanzarme sobre Kako-G. Pero,\nal instante siguiente, la voz de\nHiruko...
+s13_A_SFsfSFsf_Ba_d098_m210_010_03_0060	cb5251aa	¡¡No, Takumi, no vayas...!! ¡¡No llevas puesto el traje...!!
 s13_A_SFsfSFsf_Ba_d098_m210_010_03_0070	261c0fce	¡¡Si haces un PL así, sin protección...!!\n¡¡Esta vez, sin duda... tú...!!
 s13_A_SFsfSFsf_Ba_d098_m210_010_03_0080	66b95215	Al oír esas palabras, yo...
 s13_A_SFsfSFsf_Bab_d099_m030_010_01_0010	6b2c1a22	¿A la última batalla defensiva...?
@@ -712,7 +712,7 @@ s13_A_SFsfSFsf_Bab_d099_m030_010_03_0050	2a1a0d4e	¡Estás mucho peor que entonc
 s13_A_SFsfSFsf_Bab_d099_m030_010_03_0060	01fd3825	La próxima vez, ahora sí, sin duda, vas a morir...\n¿Y aun así te da igual...?
 s13_A_SFsfSFsf_Bab_d099_m030_010_03_0070	7fe6e917	No había tiempo para dudar.\nEl enemigo ya estaba atacando.
 s13_A_SFsfSFsf_Bab_d099_m030_010_03_0080	9a3b2636	¡Tengo que decidir rápido...!\n¡Y la conclusión a la que llegué fue...!
-s13_B_LoveLove_00_d048_m030_010_01_0010	f837e1c6	La confesión de Oosuzuki...
+s13_B_LoveLove_00_d048_m030_010_01_0010	f837e1c6	La confesión de Kurara...
 s13_B_LoveLove_00_d048_m030_010_02_0010	754196c4	Aceptarla
 s13_B_LoveLove_00_d048_m030_010_02_0020	2d0cc45e	Rechazarla
 s13_B_LoveLove_00_d048_m030_010_03_0010	da568b32	¿Entendido? Para empezar, todavía no sé\nsi me gustas.
@@ -722,41 +722,41 @@ s13_B_LoveLove_00_d048_m030_010_03_0040	531a1fef	¡Estoy cansada! ¡Cansada, can
 s13_B_LoveLove_00_d048_m030_010_03_0050	a0fb4197	¡Dije que el amor, las batallas defensivas y\ntodo lo demás me tienen cansada, cansadísima!
 s13_B_LoveLove_00_d048_m030_010_03_0060	bba4d1d3	...Vi una película.
 s13_B_LoveLove_00_d048_m030_010_03_0070	4d37f35b	...La gente puede cambiar así de fácil, ¿eh?
-s13_B_LoveLove_00_d048_m030_010_03_0080	14d2e79b	Lo que siento por Oosuzuki es...
-s13_B_LoveLove_A0_d048_m020_010_01_0010	bd26e20c	¿Que Oosuzuki se ponga la máscara...?
+s13_B_LoveLove_00_d048_m030_010_03_0080	14d2e79b	Lo que siento por Kurara es...
+s13_B_LoveLove_A0_d048_m020_010_01_0010	bd26e20c	¿Que Kurara se ponga la máscara...?
 s13_B_LoveLove_A0_d048_m020_010_02_0010	b740f074	Permitirlo
 s13_B_LoveLove_A0_d048_m020_010_02_0020	2d0cc45e	Negarme
-s13_B_LoveLove_A0_d048_m020_010_03_0010	27be24bb	Yo también, Oosuzuki...
+s13_B_LoveLove_A0_d048_m020_010_03_0010	27be24bb	Yo también, Kurara...
 s13_B_LoveLove_A0_d048_m020_010_03_0020	29a086ae	Me gustas...
 s13_B_LoveLove_A0_d048_m020_010_03_0030	f0d3758b	Es que tú...\na Nozomi...
-s13_B_LoveLove_A0_d048_m020_010_03_0040	acc8fddd	¡No! ¡A quien quiero es a ti, Oosuzuki!
+s13_B_LoveLove_A0_d048_m020_010_03_0040	acc8fddd	¡No! ¡A quien quiero es a ti, Kurara!
 s13_B_LoveLove_A0_d048_m020_010_03_0050	e4e4acaa	Nos miramos y, sin darnos cuenta, nuestros labios...
 s13_B_LoveLove_A0_d048_m020_010_03_0060	fedbb04e	¡Esto ya es demasiado vergonzoso!\n¡Déjame ponerme la máscara!
 s13_B_LoveLove_A0_d048_m020_010_03_0070	477f25b3	¿Ya puedo ponerme la máscara...?
 s13_B_LoveLove_A0_d048_m020_010_03_0080	477f25b3	¿Ya puedo ponerme la máscara...?
-s13_B_LoveLove_B0_d073_m030_010_01_0010	f6b23934	La confesión de Magadori...
+s13_B_LoveLove_B0_d073_m030_010_01_0010	f6b23934	La confesión de Kyoshika...
 s13_B_LoveLove_B0_d073_m030_010_02_0010	754196c4	Aceptarla
 s13_B_LoveLove_B0_d073_m030_010_02_0020	2d0cc45e	Rechazarla
 s13_B_LoveLove_B0_d073_m030_010_03_0010	6290a5ed	¿Le resulto adorable, acaso?
 s13_B_LoveLove_B0_d073_m030_010_03_0020	9edfb62b	Con sus más y sus menos, al final a usted, don Takumi,\nle gustan las doncellas de pechos grandes...
 s13_B_LoveLove_B0_d073_m030_010_03_0030	742ccdf4	...Quiero una familia.
 s13_B_LoveLove_B0_d073_m030_010_03_0040	d73ccba9	L-Lo siento mucho...\nQué vergüenza...
-s13_B_LoveLove_B0_d073_m030_010_03_0050	93f91fd7	Magadori, los tres hijos que tendríamos y yo:\nun picnic en familia, los cinco...
+s13_B_LoveLove_B0_d073_m030_010_03_0050	93f91fd7	Kyoshika, los tres hijos que tendríamos y yo:\nun picnic en familia, los cinco...
 s13_B_LoveLove_B0_d073_m030_010_03_0060	534aafa0	Don Takumi, ¿no quisiera usted batirse conmigo?
 s13_B_LoveLove_B0_d073_m030_010_03_0070	15325f27	¡Don Takumi! ¡Lo quiero mucho!
-s13_B_LoveLove_B0_d073_m030_010_03_0080	bbede4fd	Lo que siento por Magadori es...
-s13_B_LoveLove_Bb_d096_m020_010_01_0010	6626fd78	La confesión de Kawana...
+s13_B_LoveLove_B0_d073_m030_010_03_0080	bbede4fd	Lo que siento por Kyoshika es...
+s13_B_LoveLove_Bb_d096_m020_010_01_0010	6626fd78	La confesión de Tsubasa...
 s13_B_LoveLove_Bb_d096_m020_010_02_0010	754196c4	Aceptarla
 s13_B_LoveLove_Bb_d096_m020_010_02_0020	2d0cc45e	Rechazarla
 s13_B_LoveLove_Bb_d096_m020_010_03_0010	cdb29a8e	No sé, solo quiero que, en estos 25 días juntos,\ntengamos buenos recuerdos, algo así.
 s13_B_LoveLove_Bb_d096_m020_010_03_0020	d8d79311	También estudié piano, pero en el escenario\ndel recital me dieron unas náuseas horribles...
 s13_B_LoveLove_Bb_d096_m020_010_03_0030	80ee524b	Gané yo.
-s13_B_LoveLove_Bb_d096_m020_010_03_0040	91f49d06	...Por tu culpa, Sumino, tengo ganas de vomitar.
+s13_B_LoveLove_Bb_d096_m020_010_03_0040	91f49d06	...Por tu culpa, Takumi, tengo ganas de vomitar.
 s13_B_LoveLove_Bb_d096_m020_010_03_0050	a4fbc628	...Pero es que quiero cambiar.
-s13_B_LoveLove_Bb_d096_m020_010_03_0060	682e07b0	¡Sí! ¡Un éxito total!\n¡Gracias! ¡Es gracias a ti, Sumino!
+s13_B_LoveLove_Bb_d096_m020_010_03_0060	682e07b0	¡Sí! ¡Un éxito total!\n¡Gracias! ¡Es gracias a ti, Takumi!
 s13_B_LoveLove_Bb_d096_m020_010_03_0070	e118be68	¡Me gustas! ¡¿Quieres salir conmigo...?!
-s13_B_LoveLove_Bb_d096_m020_010_03_0080	b36282a4	Lo que siento por Kawana es...
-s13_B_LoveLove_Bbb_d098_m020_010_01_0010	b7781faf	¿Lo que siento por Kirifuji...?
+s13_B_LoveLove_Bb_d096_m020_010_03_0080	b36282a4	Lo que siento por Tsubasa es...
+s13_B_LoveLove_Bbb_d098_m020_010_01_0010	b7781faf	¿Lo que siento por Nozomi...?
 s13_B_LoveLove_Bbb_d098_m020_010_02_0010	07cc9715	Admitirlo
 s13_B_LoveLove_Bbb_d098_m020_010_02_0020	f02525f9	Negarlo
 s13_B_LoveLove_Bbb_d098_m020_010_03_0010	49968fd1	...¿Qué habrá sido ese sueño?
@@ -771,7 +771,7 @@ s13_B_LoveLove_Bbbb_d098_m020_010_01_0010	665987f5	¿Al final alguna de las tres
 s13_B_LoveLove_Bbbb_d098_m020_010_02_0010	07cc9715	Admitirlo
 s13_B_LoveLove_Bbbb_d098_m020_010_02_0020	f02525f9	Negarlo
 s13_B_LoveLove_Bbbb_d098_m020_010_03_0010	45ce30e7	No, eso no...
-s13_B_LoveLove_Bbbb_d098_m020_010_03_0020	1d732e4c	A Kirifuji no la quiero\nen el sentido romántico.
+s13_B_LoveLove_Bbbb_d098_m020_010_03_0020	1d732e4c	A Nozomi no la quiero\nen el sentido romántico.
 s13_B_LoveLove_Bbbb_d098_m020_010_03_0030	af4d3db0	Entonces, ¿por qué...?
 s13_B_LoveLove_Bbbb_d098_m020_010_03_0040	5bc65819	Kurara, Kyoshika, Tsubasa...\nTodas eran buenas chicas, ¿no...?
 s13_B_LoveLove_Bbbb_d098_m020_010_03_0050	d52f559a	¡Ah, ya sé!
@@ -815,7 +815,7 @@ s14_A_Splatter_00_d043_m120_010_01_0010	9cad7805	Yo...
 s14_A_Splatter_00_d043_m120_010_02_0010	e775911b	Atravesar la ventana
 s14_A_Splatter_00_d043_m120_010_02_0020	e9054fad	Esquivar el ataque
 s14_A_Splatter_00_d043_m120_010_03_0010	49f6c02b	¡A estas alturas, solo nos queda escapar afuera...!
-s14_A_Splatter_00_d043_m120_010_03_0020	da6c68ad	Kirifuji y yo corrimos hacia la ventana.\nPero, al instante siguiente...
+s14_A_Splatter_00_d043_m120_010_03_0020	da6c68ad	Nozomi y yo corrimos hacia la ventana.\nPero, al instante siguiente...
 s14_A_Splatter_00_d043_m120_010_03_0030	0430be29	Sin decir nada, el asesino se nos acercaba poco a poco,\nempuñando la motosierra.
 s14_A_Splatter_00_d043_m120_010_03_0040	0481ffce	No hay escapatoria.
 s14_A_Splatter_00_d043_m120_010_03_0050	b98e0cd3	¡Si seguimos así, nos va a matar...!
@@ -828,10 +828,10 @@ s14_A_Splatter_A0_d073_m040_010_02_0020	78220f0e	Hiruko Shizuhara
 s14_A_Splatter_A0_d073_m040_010_03_0010	9e2b53ca	Ah... Es cierto, lo prometí.
 s14_A_Splatter_A0_d073_m040_010_03_0020	3e9e636a	No es justo que solo tú lo sepas.\nQuiero que estemos en igualdad de condiciones.
 s14_A_Splatter_A0_d073_m040_010_03_0030	b8e45426	Por eso... quiero saber todo,\nbien, sobre nuestra relación hasta ahora.
-s14_A_Splatter_A0_d073_m040_010_03_0040	d9cb14f0	Siempre quise hablarle a Kirifuji de Karua. Ese deseo\nsigue intacto, y quiero contárselo mientras pueda.
+s14_A_Splatter_A0_d073_m040_010_03_0040	d9cb14f0	Siempre quise hablarle a Nozomi de Karua. Ese deseo\nsigue intacto, y quiero contárselo mientras pueda.
 s14_A_Splatter_A0_d073_m040_010_03_0050	fbfc23f5	Porque... en realidad, siempre quise contárselo.
 s14_A_Splatter_A0_d073_m040_010_03_0060	6708f1ca	Ya no puedo seguir ocultando lo que siento.
-s14_A_Splatter_A0_d073_m040_010_03_0070	df412f13	Pero... ¿y Shizuhara, que me pidió que fuera a verla?\nFue cosa suya y no le prometí nada, pero...
+s14_A_Splatter_A0_d073_m040_010_03_0070	df412f13	Pero... ¿y Hiruko, que me pidió que fuera a verla?\nFue cosa suya y no le prometí nada, pero...
 s14_A_Splatter_A0_d073_m040_010_03_0080	6043d810	Después de darle vueltas, yo...
 s14_A_Splatter_Aa_d100_m040_010_01_0010	dbfe0f65	Lo que debo hacer es...
 s14_A_Splatter_Aa_d100_m040_010_02_0010	0cdb1d14	Enfrentar al asesino
@@ -845,37 +845,37 @@ s14_A_Splatter_Aa_d100_m040_010_03_0060	61725e98	¡¿Qué hago...?!\nEl Muro de 
 s14_A_Splatter_Aa_d100_m040_010_03_0070	f22274a6	¡Si freno en un lugar así,\nvan a empezar a lanzar los misiles!
 s14_A_Splatter_Aa_d100_m040_010_03_0080	590181c6	¡El asesino quiere matarnos...!\nQué debería hacer yo...
 s14_A_Splatter_Ab_d100_m040_010_01_0010	b63bb604	Evento de huida con desplazamiento lateral
-s14_A_Splatter_Ab_d100_m040_010_02_0010	f5633e5e	Seguir a Shizuhara
-s14_A_Splatter_Ab_d100_m040_010_02_0020	b7d1fd4c	Seguir a Kirifuji
+s14_A_Splatter_Ab_d100_m040_010_02_0010	f5633e5e	Seguir a Hiruko
+s14_A_Splatter_Ab_d100_m040_010_02_0020	b7d1fd4c	Seguir a Nozomi
 s14_A_Splatter_Ab_d100_m040_010_03_0010	75f4e7e4	Totalmente en contra de mi voluntad,\nmi cuerpo apuntó la motosierra hacia ellas dos.
 s14_A_Splatter_Ab_d100_m040_010_03_0020	18cc25ec	¡N-No...! ¡No te acerques!
-s14_A_Splatter_Ab_d100_m040_010_03_0030	19d5c7e2	Quizá por el miedo y la impresión,\nKirifuji temblaba a punto de llorar.
+s14_A_Splatter_Ab_d100_m040_010_03_0030	19d5c7e2	Quizá por el miedo y la impresión,\nNozomi temblaba a punto de llorar.
 s14_A_Splatter_Ab_d100_m040_010_03_0040	126a891d	Por más que intentaba alejarme de ellas,\nmi cuerpo hacía lo contrario y se les acercaba.
 s14_A_Splatter_Ab_d100_m040_010_03_0050	430a357a	Por favor.\n¡Huyan de mí, las dos...!
 s14_A_Splatter_Ab_d100_m040_010_03_0060	8febce7c	¡Si seguimos así, nos va a atrapar a las dos!\n¡Huyamos por separado!
 s14_A_Splatter_Ab_d100_m040_010_03_0070	04aa36b8	¡S-Sí...!
 s14_A_Splatter_Ab_d100_m040_010_03_0080	b31e4c3d	¡¡Te... ma-TO... te VOY a matar!!
-s14_A_Splatter_B0_d073_m050_010_01_0010	6d8fe500	¿Acabar con Kirifuji?
+s14_A_Splatter_B0_d073_m050_010_01_0010	6d8fe500	¿Acabar con Nozomi?
 s14_A_Splatter_B0_d073_m050_010_02_0010	6adc0c0f	No acabar con ella
 s14_A_Splatter_B0_d073_m050_010_02_0020	5f8aa83e	Acabar con ella
 s14_A_Splatter_B0_d073_m050_010_03_0010	641dcce9	Don... Takumi... ¡Huya, rápido!
 s14_A_Splatter_B0_d073_m050_010_03_0020	812282df	Me temblaban las manos y las piernas.
 s14_A_Splatter_B0_d073_m050_010_03_0030	991144f4	Bajé la mirada a la motosierra\nque tenía en las manos.
 s14_A_Splatter_B0_d073_m050_010_03_0040	c5008eae	¡Ugh... uuugh!
-s14_A_Splatter_B0_d073_m050_010_03_0050	f510ae05	¿Por qué dudo?\nSi sigo así, van a matar a Magadori.
+s14_A_Splatter_B0_d073_m050_010_03_0050	f510ae05	¿Por qué dudo?\nSi sigo así, van a matar a Kyoshika.
 s14_A_Splatter_B0_d073_m050_010_03_0060	8888e4c4	Yo... ¡Lo que tengo que hacer es...!
 s14_A_Splatter_B0_d073_m050_010_03_0070	9c333965	¡¡Guiiiaaaaaaaaaaah!!
 s14_A_Splatter_B0_d073_m050_010_03_0080	36d1001e	Levanté la motosierra con todas mis fuerzas.\nY...
-s14_A_Splatter_Ba_d100_m040_010_01_0010	3c468e39	¿Al cuello de Oosuzuki...?
+s14_A_Splatter_Ba_d100_m040_010_01_0010	3c468e39	¿Al cuello de Kurara...?
 s14_A_Splatter_Ba_d100_m040_010_02_0010	7b29b680	Morderlo
 s14_A_Splatter_Ba_d100_m040_010_02_0020	122840e2	No morderlo
 s14_A_Splatter_Ba_d100_m040_010_03_0010	f6ea69c4	¡Buaaaaaaa!\n¡Perdón, perdóname! ¡Perdóname!
 s14_A_Splatter_Ba_d100_m040_010_03_0020	836aea24	¿Por quÉ... por QUé...\nte asus... tas... tanto...?
 s14_A_Splatter_Ba_d100_m040_010_03_0030	42b38829	¡Por favor! Ya basta...\n¡Basta yaaaaaa!
-s14_A_Splatter_Ba_d100_m040_010_03_0040	5c960d82	No... No es eso... ¡Oosuzuki!\nYo... solo... quiero...
+s14_A_Splatter_Ba_d100_m040_010_03_0040	5c960d82	No... No es eso... ¡Kurara!\nYo... solo... quiero...
 s14_A_Splatter_Ba_d100_m040_010_03_0050	9f6ca9fd	Solo quiErO... matArte...
 s14_A_Splatter_Ba_d100_m040_010_03_0060	3e1925c1	¡Uh... Uuh...! ¡Snif...!
-s14_A_Splatter_Ba_d100_m040_010_03_0070	ed8cd9b0	Sumino... no me dejes sola...\n¡Buaaaaaa!
+s14_A_Splatter_Ba_d100_m040_010_03_0070	ed8cd9b0	Takumi... no me dejes sola...\n¡Buaaaaaa!
 s14_A_Splatter_Ba_d100_m040_010_03_0080	c3273491	Oo...suzuki...\nYo... yo... a ti...
 s14_A_Splatter_Bb_d100_m070_010_01_0010	94a0d61f	La decisión que debo tomar es...
 s14_A_Splatter_Bb_d100_m070_010_02_0010	0d256cf4	Subir los dos a la cápsula
@@ -894,7 +894,7 @@ s14_B_ComedyRt_00_d047_m140_010_02_0020	134f0f0b	Sushi
 s14_B_ComedyRt_00_d047_m140_010_03_0010	52af959c	Yo... quiero un donburi de mariscos con salsa para\ncarne asada...
 s14_B_ComedyRt_00_d047_m140_010_03_0020	82164381	¿Eso no es una ofensa para los dos...?
 s14_B_ComedyRt_00_d047_m140_010_03_0030	29fd9dd3	Nadie dijo que había que juntar las dos cosas...
-s14_B_ComedyRt_00_d047_m140_010_03_0040	30f8e302	Oye, Sumino, ¿tú qué prefieres?\n¿Carne asada? ¿O sushi?
+s14_B_ComedyRt_00_d047_m140_010_03_0040	30f8e302	Oye, Takumi, ¿tú qué prefieres?\n¿Carne asada? ¿O sushi?
 s14_B_ComedyRt_00_d047_m140_010_03_0050	4b6c8a98	¿Eh? ¿Yo?
 s14_B_ComedyRt_00_d047_m140_010_03_0060	08d65e7e	Sí, quizá lo mejor sea que decida Sumino.\nEs nuestro líder... ¿o no?
 s14_B_ComedyRt_00_d047_m140_010_03_0070	f85bfcfa	¡Don Takumi, ¿carne o pescado?!\n¡¿Qué elige usted?!
@@ -915,11 +915,11 @@ s14_B_ComedyRt_Aa_d100_m110_010_02_0010	8de05315	¡Echar a correr!
 s14_B_ComedyRt_Aa_d100_m110_010_02_0020	3d649a2b	¡Lanzar algo!
 s14_B_ComedyRt_Aa_d100_m110_010_03_0010	c0334330	¡Uajajajaja!\n¡Explosión, explosión! ¡Que todo vuele en pedazos!
 s14_B_ComedyRt_Aa_d100_m110_010_03_0020	42023b6c	¡¿E-Este tipo...\nno se habrá fundido de verdad por un cortocircuito?!
-s14_B_ComedyRt_Aa_d100_m110_010_03_0030	0943b2fb	¡¿No será... por el sumo con loción resbaladiza\nque hizo el otro día con Sumino?!
+s14_B_ComedyRt_Aa_d100_m110_010_03_0030	0943b2fb	¡¿No será... por el sumo con loción resbaladiza\nque hizo el otro día con Takumi?!
 s14_B_ComedyRt_Aa_d100_m110_010_03_0040	d437abcc	¿Q-Qué va a pasar...?\nEsto ya es... un desastre, ¿no...?
 s14_B_ComedyRt_Aa_d100_m110_010_03_0050	cc17db4c	¿Q-Q-Q-Qué hacemos...?\n¡E-Eva! ¡¿No puede hacer algo?!
 s14_B_ComedyRt_Aa_d100_m110_010_03_0060	fb19f763	...Lo pensaré. Espérenme un minuto, por favor.
-s14_B_ComedyRt_Aa_d100_m110_010_03_0070	f10b5574	¡N-No podemos! ¡Ya no hay tiempo! Sumino,\n¿qué hacemos...? ¡¿No puedes hacer algo?!
+s14_B_ComedyRt_Aa_d100_m110_010_03_0070	f10b5574	¡N-No podemos! ¡Ya no hay tiempo! Takumi,\n¿qué hacemos...? ¡¿No puedes hacer algo?!
 s14_B_ComedyRt_Aa_d100_m110_010_03_0080	c9224bc1	¡No me preguntes a mí...!
 s14_B_ComedyRt_Ab_d099_m070_010_01_0010	3a3599f6	Al final...
 s14_B_ComedyRt_Ab_d099_m070_010_02_0010	6d9a8c22	¡A todo o nada!
@@ -961,7 +961,7 @@ s14_B_ComedyRt_Bb_d099_m100_010_03_0010	b65d15f7	...¡Todavía no sabemos nada d
 s14_B_ComedyRt_Bb_d099_m100_010_03_0020	6021783d	...Oye, ¿todavía sigues con eso?
 s14_B_ComedyRt_Bb_d099_m100_010_03_0030	2bf5dd52	¡Seguro que usted, don Takumi, tan inteligente,\nya tiene la verdad de este caso!
 s14_B_ComedyRt_Bb_d099_m100_010_03_0040	b2e0c3be	¡¿Eh?! ¡¿Yo?!
-s14_B_ComedyRt_Bb_d099_m100_010_03_0050	b2624e19	¡Ay, qué remedio!\n¡Sumino, tú arréglalo!
+s14_B_ComedyRt_Bb_d099_m100_010_03_0050	b2624e19	¡Ay, qué remedio!\n¡Takumi, tú arréglalo!
 s14_B_ComedyRt_Bb_d099_m100_010_03_0060	805cfaa1	¡Aunque no lo sepas, un líder dice "¡Ya lo sé!"\ny le pone punto final a la historia!
 s14_B_ComedyRt_Bb_d099_m100_010_03_0070	8c0e3284	Eh, bueno, ya entendí.\nEntonces... la verdad... de este\ncaso... es...
 s14_B_ComedyRt_Bb_d099_m100_010_03_0080	7bd9a46d	¡¿La verdad es...?!
@@ -976,18 +976,18 @@ s15_0_DeathSui_00_d025_m040_010_03_0050	fbe4e273	¡Como sea, aquí tenemos que e
 s15_0_DeathSui_00_d025_m040_010_03_0060	dcb1b8b9	Para eso, antes que nada,\nyo, como líder, tenía que dar mi respuesta.
 s15_0_DeathSui_00_d025_m040_010_03_0070	b64cb1d4	¿Qué hago...? ¿Qué hago...? ¿Participamos en el juego,\no lo ignoramos y nos negamos...?
 s15_0_DeathSui_00_d025_m040_010_03_0080	38c04e22	Lo pensé. Le di vueltas y más vueltas.\n¡Y la conclusión a la que llegué fue...!
-s15_A_DeathGam_00_d026_m120_020_01_0010	111b575b	¿Formar equipo con Omokage?
+s15_A_DeathGam_00_d026_m120_020_01_0010	111b575b	¿Formar equipo con Yugamu?
 s15_A_DeathGam_00_d026_m120_020_02_0010	bbcc5e7d	Formar equipo
 s15_A_DeathGam_00_d026_m120_020_02_0020	800f8cde	No formar equipo
-s15_A_DeathGam_00_d026_m120_020_03_0010	b7eb9748	Sumino, ¿quieres hacer equipo conmigo?
+s15_A_DeathGam_00_d026_m120_020_03_0010	b7eb9748	Takumi, ¿quieres hacer equipo conmigo?
 s15_A_DeathGam_00_d026_m120_020_03_0020	a1c42fa9	¡Me propone formar un equipo...!
 s15_A_DeathGam_00_d026_m120_020_03_0030	25fbe9a7	...¿Por qué quieres formar equipo conmigo,\nsi todos me odian?
 s15_A_DeathGam_00_d026_m120_020_03_0040	2634877c	Como tú eres el que sobra, Sumino,\npensé que hacer pareja contigo me venía perfecto.
 s15_A_DeathGam_00_d026_m120_020_03_0050	6874cd6e	Tiene su lógica,\npero es difícil saber qué piensa de verdad.
 s15_A_DeathGam_00_d026_m120_020_03_0060	c9e7f01b	Si rechazo esta propuesta,\nde ahora en adelante tendré que cazar solo...
 s15_A_DeathGam_00_d026_m120_020_03_0070	fae09f1d	Bueno, ya es hora de que decidas.\nSi haces equipo conmigo o no.
-s15_A_DeathGam_00_d026_m120_020_03_0080	ffc969a0	¿Qué hago...?\n¿Debería formar equipo con Omokage?
-s15_A_DeathGam_A0_d030_m010_040_01_0010	d9955021	¿Ayudar a Amemiya?
+s15_A_DeathGam_00_d026_m120_020_03_0080	ffc969a0	¿Qué hago...?\n¿Debería formar equipo con Yugamu?
+s15_A_DeathGam_A0_d030_m010_040_01_0010	d9955021	¿Ayudar a Darumi?
 s15_A_DeathGam_A0_d030_m010_040_02_0010	a820ad78	Ayudarla
 s15_A_DeathGam_A0_d030_m010_040_02_0020	ee05a2da	No ayudarla
 s15_A_DeathGam_A0_d030_m010_040_03_0010	a752bacf	¿Qué hacemos...?\n¡¿Cómo salvamos a las dos?!
@@ -998,7 +998,7 @@ s15_A_DeathGam_A0_d030_m010_040_03_0050	b6dfee8f	Por lo menos, sobrevivamos noso
 s15_A_DeathGam_A0_d030_m010_040_03_0060	0b84de12	¿De verdad tiene sentido sobrevivir\na costa de abandonar a las compañeras?
 s15_A_DeathGam_A0_d030_m010_040_03_0070	1d2ba0d1	¿Debería abandonarlas, retirarme\ny esperar la próxima oportunidad?
 s15_A_DeathGam_A0_d030_m010_040_03_0080	2ce0a2d0	¿O ir a salvarlas sin pensar en lo que pase después?
-s15_A_DeathGam_Aa_d047_m030_020_01_0010	f7865d52	¿Dejar atrás a Mojiro?
+s15_A_DeathGam_Aa_d047_m030_020_01_0010	f7865d52	¿Dejar atrás a Moko?
 s15_A_DeathGam_Aa_d047_m030_020_02_0010	c9c2bfa5	Dejarla
 s15_A_DeathGam_Aa_d047_m030_020_02_0020	d7562c15	No dejarla
 s15_A_DeathGam_Aa_d047_m030_020_03_0010	22abe154	¡¿Quieres que te dejemos atrás a ti sola?!
@@ -1016,7 +1016,7 @@ s15_A_DeathGam_Aaa_d056_m160_020_03_0010	c66f1d7a	Soy Eva, madre de dos hijas.
 s15_A_DeathGam_Aaa_d056_m160_020_03_0020	ba802c51	Como madre, hay algo que debo hacer.
 s15_A_DeathGam_Aaa_d056_m160_020_03_0030	2dba1041	Tengo que enseñarle a Nozomi...\nqué es el amor verdadero.
 s15_A_DeathGam_Aaa_d056_m160_020_03_0040	53ddf927	La fuerza de un verdadero padre o madre,\nque nunca sacrifica a sus hijos.
-s15_A_DeathGam_Aaa_d056_m160_020_03_0050	a21fb952	Si matara a Eva,\nKirifuji obtendría una gran cantidad de puntos.
+s15_A_DeathGam_Aaa_d056_m160_020_03_0050	a21fb952	Si matara a Eva,\nNozomi obtendría una gran cantidad de puntos.
 s15_A_DeathGam_Aaa_d056_m160_020_03_0060	e0438026	...¿De verdad está bien eso?
 s15_A_DeathGam_Aaa_d056_m160_020_03_0070	2e5e2aa9	¿Matar a Eva es algo que se puede permitir...?
 s15_A_DeathGam_Aaa_d056_m160_020_03_0080	b9cda3d8	Yo... a Eva...
@@ -1024,11 +1024,11 @@ s15_A_DeathGam_Aaaa_d076_m010_020_01_0010	2efb6077	¿Preguntar dónde están los
 s15_A_DeathGam_Aaaa_d076_m010_020_02_0010	abb639bc	Preguntar
 s15_A_DeathGam_Aaaa_d076_m010_020_02_0020	2f739a92	No preguntar
 s15_A_DeathGam_Aaaa_d076_m010_020_03_0010	49ee7323	El demonio eres tú... ¡¡Lárgate de una vez!!
-s15_A_DeathGam_Aaaa_d076_m010_020_03_0020	08744aee	Porque si no consigues que te diga dónde están los invasores,\nKawana, que va en último lugar, va a morir.
+s15_A_DeathGam_Aaaa_d076_m010_020_03_0020	08744aee	Porque si no consigues que te diga dónde están los invasores,\nTsubasa, que va en último lugar, va a morir.
 s15_A_DeathGam_Aaaa_d076_m010_020_03_0030	3fe357b4	¡Oh, qué bien!\n¡Esa desesperación tuya es lo mejor!
 s15_A_DeathGam_Aaaa_d076_m010_020_03_0040	356ca426	Mejor no meterme con alguien así...
-s15_A_DeathGam_Aaaa_d076_m010_020_03_0050	c0642c24	Si no averiguo dónde están los invasores,\nKawana...
-s15_A_DeathGam_Aaaa_d076_m010_020_03_0060	8bb3e4df	Vamos, Sumino, ¡ruégamelo!\n"Por favor, dígame dónde están los invasores".
+s15_A_DeathGam_Aaaa_d076_m010_020_03_0050	c0642c24	Si no averiguo dónde están los invasores,\nTsubasa...
+s15_A_DeathGam_Aaaa_d076_m010_020_03_0060	8bb3e4df	Vamos, Takumi, ¡ruégamelo!\n"Por favor, dígame dónde están los invasores".
 s15_A_DeathGam_Aaaa_d076_m010_020_03_0070	7b1251c7	Y entonces te diría dónde está el mejor terreno de caza...
 s15_A_DeathGam_Aaaa_d076_m010_020_03_0080	de6268c2	¿Qué hago...?\n¿Me apoyo en este tipo, solo por esta vez?
 s15_A_DeathGam_Aaaaa_d083_m010_040_01_0010	a3215fd0	Lucharé contra...
@@ -1053,7 +1053,7 @@ s15_A_DeathGam_Aaaaab_d092_m070_020_03_0050	f8821fba	Claro que no... No hay form
 s15_A_DeathGam_Aaaaab_d092_m070_020_03_0060	59dbbed7	¿Mato al bebé y llevo a todos al Satélite Artificial?
 s15_A_DeathGam_Aaaaab_d092_m070_020_03_0070	1b5c946b	¿O enfrento de frente\nel ataque total de V'ehxness...?
 s15_A_DeathGam_Aaaaab_d092_m070_020_03_0080	625cd260	Mi decisión es...
-s15_B_SuirixRt_00_d050_m090_010_01_0010	acde318a	La persona que mató a Kako e hirió a Ginzaki es
+s15_B_SuirixRt_00_d050_m090_010_01_0010	acde318a	La persona que mató a Kako e hirió a Shouma es
 s15_B_SuirixRt_00_d050_m090_010_02_0010	612f47fb	Takumi Sumino
 s15_B_SuirixRt_00_d050_m090_010_02_0020	bb87dd7f	Takemaru Yakushiji
 s15_B_SuirixRt_00_d050_m090_010_02_0030	78220f0e	Hiruko Shizuhara
@@ -1074,11 +1074,11 @@ s15_B_SuirixRt_00_d050_m090_010_03_0010	91160109	¡Urgh...!
 s15_B_SuirixRt_00_d050_m090_010_03_0020	03b512e2	E-Está bien...\nJuro que... no le voy a poner... un dedo encima...
 s15_B_SuirixRt_00_d050_m090_010_03_0030	ff7e028e	Bueno... entonces lo voy a decir...\nLa verdad, yo tampoco quiero... decir algo así...
 s15_B_SuirixRt_00_d050_m090_010_03_0040	1779a86c	La persona que mató a Kako...
-s15_B_SuirixRt_00_d050_m090_010_03_0050	01d87867	y que hirió a Ginzaki...
+s15_B_SuirixRt_00_d050_m090_010_03_0050	01d87867	y que hirió a Shouma...
 s15_B_SuirixRt_00_d050_m090_010_03_0060	b0ef6f56	Esa persona...
 s15_B_SuirixRt_00_d050_m090_010_03_0070	17d01657	El nombre...
 s15_B_SuirixRt_00_d050_m090_010_03_0080	81d94844	...es...
-s15_B_SuirixRt_B0_d075_m060_010_01_0010	d5310a20	El culpable de la muerte de Ginzaki es...
+s15_B_SuirixRt_B0_d075_m060_010_01_0010	d5310a20	El culpable de la muerte de Shouma es...
 s15_B_SuirixRt_B0_d075_m060_010_02_0010	612f47fb	Takumi Sumino
 s15_B_SuirixRt_B0_d075_m060_010_02_0020	bb87dd7f	Takemaru Yakushiji
 s15_B_SuirixRt_B0_d075_m060_010_02_0030	78220f0e	Hiruko Shizuhara
@@ -1099,7 +1099,7 @@ s15_B_SuirixRt_B0_d075_m060_010_03_0010	31dadfc6	Porque, en esas condiciones,\ns
 s15_B_SuirixRt_B0_d075_m060_010_03_0020	94c4ee1e	¡Déjate de rodeos!\n¡Dinos de una vez quién es el culpable...!
 s15_B_SuirixRt_B0_d075_m060_010_03_0030	60932659	Está bien...
 s15_B_SuirixRt_B0_d075_m060_010_03_0040	4c7513db	Entonces... lo voy a decir...
-s15_B_SuirixRt_B0_d075_m060_010_03_0050	975fc252	El culpable de la muerte de Ginzaki...
+s15_B_SuirixRt_B0_d075_m060_010_03_0050	975fc252	El culpable de la muerte de Shouma...
 s15_B_SuirixRt_B0_d075_m060_010_03_0060	b0ef6f56	Esa persona...
 s15_B_SuirixRt_B0_d075_m060_010_03_0070	17d01657	El nombre...
 s15_B_SuirixRt_B0_d075_m060_010_03_0080	81d94844	...es...
@@ -1110,7 +1110,7 @@ s15_B_SuirixRt_Ba_d100_m040_010_02_0030	612f47fb	Takumi Sumino
 s15_B_SuirixRt_Ba_d100_m040_010_03_0010	64c01a12	¡Desperté y, no sé por qué, la celda estaba abierta...!\n¡Y al salir, me encontré con todo eso...!
 s15_B_SuirixRt_Ba_d100_m040_010_03_0020	f8572b40	¿A estas alturas, todavía sales con eso...?
 s15_B_SuirixRt_Ba_d100_m040_010_03_0030	833969b9	¡Entonces dinos quién lo hizo...!
-s15_B_SuirixRt_Ba_d100_m040_010_03_0040	4a74a01f	Era tal como decía Mojiro.
+s15_B_SuirixRt_Ba_d100_m040_010_03_0040	4a74a01f	Era tal como decía Moko.
 s15_B_SuirixRt_Ba_d100_m040_010_03_0050	523d92fc	Los únicos vivos ahora...\nson... los tres que estamos aquí...
 s15_B_SuirixRt_Ba_d100_m040_010_03_0060	50780f60	Entonces...\nel culpable... tiene que ser uno de los tres...
 s15_B_SuirixRt_Ba_d100_m040_010_03_0070	c0a351a6	¡Vamos, dilo de una vez...!\n¡¿Quién demonios mató a todos...?!

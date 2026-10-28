@@ -1,8 +1,8 @@
 id	huella_jp	es
-10	4d8c2638	{fc(57e4f1)Ginzaki no estaba en el comedor al que llegué...}
-20	1b89dab9	Ginzaki... ¿todavía no despierta?
-30	3da1113a	...Parece que no.\nAhora lo vigila Omokage.
-40	28c0848e	¿E-Estará bien? No irán a meter a Ginzaki\ndentro de SIREI ahora, ¿no?
+10	4d8c2638	{fc(57e4f1)Shouma no estaba en el comedor al que llegué...}
+20	1b89dab9	Shouma... ¿todavía no despierta?
+30	3da1113a	...Parece que no.\nAhora lo vigila Yugamu.
+40	28c0848e	¿E-Estará bien? No irán a meter a Shouma\ndentro de SIREI ahora, ¿no?
 50	2eb56145	¡Eso también sería divertido!\n¡Cada vez sería otra persona la que haga de SIREI!
 60	36400a50	...Ginzaki sí recuperó sus recuerdos, ¿verdad?\nSi no, entonces para qué matamos a Eva...
 70	32c3ad11	De todos modos, había que ocuparse de ella.\nBasta ya de arrepentirse.
@@ -11,7 +11,7 @@ id	huella_jp	es
 100	5671b15f	Tienes razón... hagámoslo.
 110	0997e4dc	{fc(57e4f1)Fui a buscar mi desayuno\ny me senté en un asiento cualquiera con la bandeja...}
 120	f7d598da	{fc(57e4f1)Justo entonces,\nalguien llegó con fuerza y se plantó frente a mí.}
-130	b4fe07f5	Oye, Sumino. Sobre lo de ayer,\nya tengo algo en lo que necesito tu ayuda...
+130	b4fe07f5	Oye, Takumi. Sobre lo de ayer,\nya tengo algo en lo que necesito tu ayuda...
 140	0f81bbec	Tengo algunas cosas que podrían servir para la reparación.\nQuiero probarlas, ¿puedes ir a buscarlas?
 150	89452315	Reunir materiales, ¿eh?\nEntendido, ¿qué tengo que traer?
 160	141cb88c	Pues... {fc(ff635b)"Vidrio"}, {fc(ff635b)"Plástico reforzado"} y {fc(ff635b)"Acero al carbono"}.\n¿Puedes traer dos de cada uno?
@@ -19,5 +19,5 @@ id	huella_jp	es
 180	03789628	Bueno, no corre prisa,\npero apúrate lo más que puedas.
 190	e189f1ec	...¿En qué quedamos?
 200	e12c90b5	Jaja, yo también voy a buscar, no solo te lo encargo a ti.\nBueno, cuento contigo.
-210	7ba528f3	{fc(57e4f1)Dijo eso con total soltura y Kawana se levantó del asiento.}
+210	7ba528f3	{fc(57e4f1)Dijo eso con total soltura y Tsubasa se levantó del asiento.}
 220	6091852d	{fc(57e4f1)Después de desayunar,\ndecidí volver primero a mi cuarto.}

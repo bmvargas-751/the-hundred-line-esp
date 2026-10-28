@@ -6,7 +6,7 @@ id	huella_jp	es
 50	9e29d3f0	Uuh... la calefacción de este autobús funciona mal.
 60	1cc88b21	¿No habrá algo para taparnos?\nVoy a mirar un momento en el maletero.
 70	24587eb5	{fc(57e4f1)Buscamos por todo el autobús algo con qué soportar el frío de la noche,\npero solo encontramos una manta...}
-80	c2b27b99	Esta, úsala tú, Kawana.
+80	c2b27b99	Esta, úsala tú, Tsubasa.
 90	e7d5b92f	¿Que la use...? ¿Y tú qué haces, Sumino?
 100	78e80b0d	Yo estoy bien.\nMe pongo la chaqueta y duermo en el asiento.
 110	4d85bae8	¡N-No, de ninguna manera...!
@@ -16,7 +16,7 @@ id	huella_jp	es
 150	f4a72a8b	
 160	f4a72a8b	
 170	29892387	{fc(57e4f1)Es cierto que así los dos entramos en calor, pero...}
-180	c193575d	O-Oye, Kawana... ¿está bien esto?
+180	c193575d	O-Oye, Tsubasa... ¿está bien esto?
 190	d415c6ba	Qué "está bien" ni qué... no hay otra opción, ¿no?
 200	fe0c8783	Pero... este... nosotros somos chico y chica, al fin y al cabo...
 210	9ec38d2f	¡N-No lo digas en voz alta...!\n¡A mí también me da vergüenza!
@@ -25,15 +25,15 @@ id	huella_jp	es
 240	f4a72a8b	
 250	e5b754e9	{fc(57e4f1)...Se suponía que era una pequeña exploración,\n¿cómo terminamos así?}
 260	f3e63106	{fc(57e4f1)Quería quedarme dormido cuanto antes...\npero con los nervios no me daba nada de sueño.}
-270	99f5c63e	{fc(57e4f1)Oía la respiración de Kawana...\nsentía su calor a través de la manta...}
+270	99f5c63e	{fc(57e4f1)Oía la respiración de Tsubasa...\nsentía su calor a través de la manta...}
 280	e044e443	{fc(57e4f1)Que me pidan dormir en este estado...}
 290	01586074	Aunque... qué bueno no tener que pasar la noche sola...
-300	fb3ae59e	{fc(57e4f1)De pronto, Kawana murmuró eso en voz baja.}
+300	fb3ae59e	{fc(57e4f1)De pronto, Tsubasa murmuró eso en voz baja.}
 310	916a3ed5	Últimamente... tengo pesadillas por la noche...
 320	525631d8	Todos van muriendo, uno tras otro, por las abejas y los comandantes...\ny sin darme cuenta me quedo completamente sola...
 330	4fab7f76	Me despierto de un salto, pero como es medianoche,\nel cuarto está a oscuras y estoy sola...
 340	7f00f2d3	Paso con mucha angustia hasta que amanece... y rezo.\nQue ojalá no hayan muerto todos...
-350	6c6cf200	Kawana...
+350	6c6cf200	
 360	01bad82e	{fc(57e4f1)Tranquila... el juego mortal ya terminó.\nYa no va a morir nadie más.}
 370	da7567a6	{fc(57e4f1)Quise decírselo, pero me pareció poco sincero\ngarantizar a la ligera un futuro brillante.}
 380	907dcb86	{fc(57e4f1)Porque quizás el juego mortal todavía continúe...}
@@ -41,21 +41,21 @@ id	huella_jp	es
 400	6a561d57	{fc(57e4f1)le pasé el brazo por el hombro, que temblaba,\ny la abracé con fuerza.}
 410	02d5a521	{fc(57e4f1)Yo mismo me sorprendí: ¡yo, sin ninguna experiencia con mujeres,\ncapaz de hacer algo tan presumido!}
 420	ae58b7b4	...¡...!
-430	2a9f2586	{fc(57e4f1)Kawana pareció sorprenderse un poco,\npero no apartó mi mano.}
+430	2a9f2586	{fc(57e4f1)Tsubasa pareció sorprenderse un poco,\npero no apartó mi mano.}
 440	6a69f334	{fc(57e4f1)Con el calor que me llegaba y la agitación de los nervios,\nmi cuerpo estaba lo bastante tibio como para sudar un poco.}
-450	fb31be69	Kawana... si no te molesta, ¿me cuentas de cuando estabas\nen el Complejo Residencial de Tokio?
+450	fb31be69	Tsubasa... si no te molesta, ¿me cuentas de cuando estabas\nen el Complejo Residencial de Tokio?
 460	4dfea549	¿Del Complejo Residencial de Tokio...?
 470	9d84a7e5	Sí, quiero escuchar tu pasado.
 480	b8c6169e	No sabemos qué habrá en el futuro,\nni si pasarán cosas buenas.
 490	8d98a98a	Pero el pasado feliz seguirá ahí sin cambiar, ¿no?\nPor eso quiero oír... cosas felices.
-500	5d522f14	{fc(57e4f1)Cuando se lo pedí, Kawana me fue contando poco a poco.\nRecuerdos con su querida familia...}
+500	5d522f14	{fc(57e4f1)Cuando se lo pedí, Tsubasa me fue contando poco a poco.\nRecuerdos con su querida familia...}
 510	73deab66	A mí me encantaba la fábrica de mi abuelo.\nDesde pequeña me pasaba allí todo el día.
 520	a89cbeec	Imitaba a mi abuelo, toqueteaba máquinas,\njugaba a ser mecánica...
 530	7da979e0	Mi favorito era trabajar con el torno.\nPara perfeccionar el tallado, acaparaba el equipo todo el día...
-540	a2e329f6	{fc(57e4f1)El rostro de Kawana al hablar de los recuerdos con su abuelo\nera inocente y feliz.}
+540	a2e329f6	{fc(57e4f1)El rostro de Tsubasa al hablar de los recuerdos con su abuelo\nera inocente y feliz.}
 550	e7f552f9	{fc(57e4f1)Con los ojos cerrados, escuchando a Kawana,\nyo también me fui sintiendo feliz.}
 560	e67d51a6	Bueno. Mi historia termina aquí.\nAhora cuéntame la tuya, Sumino.
-570	2ec0d123	{fc(57e4f1)Cuando Kawana terminó, me tocó a mí.}
+570	2ec0d123	{fc(57e4f1)Cuando Tsubasa terminó, me tocó a mí.}
 580	5110e58b	{fc(57e4f1)Le conté a Kawana mis recuerdos del Complejo Residencial de Tokio.}
 590	6020eaf8	{fc(57e4f1)De mi padre y de mi madre... y de Karua,\ncon quien pasé tanto tiempo que era como de la familia.}
 600	7114a970	{fc(57e4f1)Mientras intercambiábamos nuestros momentos felices,\nsin darnos cuenta estábamos sonriendo.}
@@ -68,4 +68,4 @@ id	huella_jp	es
 670	899e3720	{fc(ff635b)"Quiero recuperar el pasado feliz"}{fc(57e4f1)...\nese deseo parecía haberse vuelto la motivación para sobrevivir al futuro.}
 680	27400acb	Volvamos juntos... con nuestras familias.
 690	cb9fec42	Sí, juntos...
-700	2fa4d81a	{fc(57e4f1)Kawana y yo nos lo prometimos y nos dormimos.}
+700	2fa4d81a	{fc(57e4f1)Tsubasa y yo nos lo prometimos y nos dormimos.}

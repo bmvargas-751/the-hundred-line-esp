@@ -20,19 +20,19 @@ id	huella_jp	es
 190	a94860a4	{fc(57e4f1)lo dije con calma y empecé a narrar sin emoción\nlas TL que recordé anoche.}
 200	3ea0d7b2	{fc(57e4f1)Lo de los parásitos Gii...}
 210	e3a578f7	{fc(57e4f1)Las muchas muertes provocadas por los Gii...}
-220	637ff352	{fc(57e4f1)El ritual que hice con Maruko...}
-230	e3b5be80	{fc(57e4f1)Cómo subimos a la cápsula de escape con Shizuhara y Kawana\ny partimos hacia el Satélite Artificial...}
+220	637ff352	{fc(57e4f1)El ritual que hice con Gaku...}
+230	e3b5be80	{fc(57e4f1)Cómo subimos a la cápsula de escape con Hiruko y Tsubasa\ny partimos hacia el Satélite Artificial...}
 240	d6d333c3	{fc(57e4f1)En otra TL apareció un asesino en serie.}
-250	67bd692f	{fc(57e4f1)Al final resultó ser Omokage...}
-260	0def9bc2	{fc(57e4f1)Mm... ¿Omokage...?}
-270	e4d3239e	{fc(57e4f1)¿Omokage... un asesino...?}
+250	67bd692f	{fc(57e4f1)Al final resultó ser Yugamu...}
+260	0def9bc2	{fc(57e4f1)Mm... ¿Yugamu...?}
+270	e4d3239e	{fc(57e4f1)¿Yugamu... un asesino...?}
 290	88902fda	
 300	88902fda	
 310	262646cc	{fc(57e4f1)De repente sentí un dolor de cabeza intenso.\nParece que mis recuerdos están confusos.}
 320	1f3ea095	¿Estás bien...?
 330	2118c8bf	S-Sí, no es nada...
-340	f90af16d	{fc(57e4f1)Detuve a Shizuhara, que se preocupaba, con la palma,\ny seguí. Hablé de la aparición de zombis en otra TL.}
-350	bcaad604	{fc(57e4f1)Primero Omokage se convirtió en cadáver viviente...}
+340	f90af16d	{fc(57e4f1)Detuve a Hiruko, que se preocupaba, con la palma,\ny seguí. Hablé de la aparición de zombis en otra TL.}
+350	bcaad604	{fc(57e4f1)Primero Yugamu se convirtió en cadáver viviente...}
 360	f6618b2a	{fc(57e4f1)y luego los compañeros que murieron\nse volvieron zombis uno tras otro.}
 370	f62e4c75	{fc(57e4f1)Y al final yo también fui atrapado por los zombis...}
 380	88902fda	
@@ -40,7 +40,7 @@ id	huella_jp	es
 400	88902fda	
 410	082990ca	Espera un momento...\nAntes de eso... en esa TL, ¿yo también fui zombi?
 420	a8066fd4	Sí, te mataron el día 58...
-430	3b664ed8	Recuerdo eso, sí...\nAotsuki zombi me desgarró la espalda...
+430	3b664ed8	Recuerdo eso, sí...\nEito zombi me desgarró la espalda...
 440	064239e9	Pero lo que vino después ya...
 450	2edc5393	¿No recuerdas lo que pasó siendo zombi?
 460	1ed6f123	No, porque la yo de entonces... no era yo...
@@ -49,19 +49,19 @@ id	huella_jp	es
 490	0d09849e	En todo caso, esa TL la escucho luego.\nAhora lo que importa es otra cosa...
 500	42f50c4f	{fc(57e4f1)Asentí y seguí.}
 510	6e17da60	Esta será la última.\nSolo me queda una TL más que recordé.
-520	41e76ae3	{fc(57e4f1)Allí primero mataron a Maruko...\nluego encontraron a Kako, envenenada.}
-530	a8029968	{fc(57e4f1)Reuní pistas y deduje que\nquien mató a Kako fue Ginzaki.}
+520	41e76ae3	{fc(57e4f1)Allí primero mataron a Gaku...\nluego encontraron a Kako, envenenada.}
+530	a8029968	{fc(57e4f1)Reuní pistas y deduje que\nquien mató a Kako fue Shouma.}
 540	75f5f69a	{fc(57e4f1)Pero Ginzaki también murió...\nResultó que el asesino fue Eva.}
 550	4378a164	Ah, a Eva la conoces, ¿verdad?
 560	63f4f921	No hace falta que preguntes.\nSobre lo de los zombis, sé más o menos todo lo demás.
 570	e8fae05c	Ya veo, entonces sigo...\nEsa Eva al final se autodestruyó... y murió.
 580	e1d52de1	{fc(57e4f1)Pero... no terminó ahí.\nLos asesinatos continuaron.}
-590	35e27f97	{fc(57e4f1)Después murieron Kawana y Mojiro...}
-600	3680bdfc	{fc(57e4f1)Y también hallaron a Oosuzuki estrangulada.\nEn un cuarto oculto de la escuela... un sótano secreto...}
+590	35e27f97	{fc(57e4f1)Después murieron Tsubasa y Moko...}
+600	3680bdfc	{fc(57e4f1)Y también hallaron a Kurara estrangulada.\nEn un cuarto oculto de la escuela... un sótano secreto...}
 610	591fb829	Eso es todo lo que sé.
-620	131705c1	Ginzaki y Eva dijeron que había un cerebro oculto llamado {fc(ff635b)"X"},\npero no sé quién es.
-630	ab4e1d09	Creo que fue ese quien mató primero a Maruko, y a Kawana, Mojiro...\ny luego a Oosuzuki...
-640	f7be6d9b	{fc(57e4f1)Shizuhara se tocó el marco de los lentes.\nCon mirada recelosa, me preguntó.}
+620	131705c1	Shouma y Eva dijeron que había un cerebro oculto llamado {fc(ff635b)"X"},\npero no sé quién es.
+630	ab4e1d09	Creo que fue ese quien mató primero a Gaku, y a Tsubasa, Moko...\ny luego a Kurara...
+640	f7be6d9b	{fc(57e4f1)Hiruko se tocó el marco de los lentes.\nCon mirada recelosa, me preguntó.}
 650	c0314eca	¿De verdad... recordaste solo eso?
 660	19e04739	Sí, así es...
 670	d920db9c	{fc(57e4f1)Shizuhara miraba al vacío sin expresión.\nNo podía leer en qué pensaba.}

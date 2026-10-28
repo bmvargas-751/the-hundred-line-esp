@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	f315c462	{fc(57e4f1)Con una pequeña esperanza en el pecho, abrí despacio la puerta de entrada y...}
 20	408e299e	Takumi, ¿tienes un momento?
-30	a2206641	A-Ah... eres tú, Aotsuki...
+30	a2206641	A-Ah... eres tú, Eito...
 40	2dc3c891	Ah, ¿te decepcioné? Perdón...
 50	c4900d4f	No, no es eso... ¿Qué pasa?
 60	133e4014	Ah, no es que necesite nada... Es que quería hablar contigo, que hace mucho que no hablamos.
@@ -30,12 +30,12 @@ id	huella_jp	es
 290	c4064d1e	{fc(57e4f1)Una chica llamada Nozomi Kirifuji, idéntica a esa Karua...}
 300	b888287e	{fc(57e4f1)Que yo no puedo creer de ninguna manera que sean dos personas distintas.}
 310	b5f0587c	{fc(57e4f1)Pero que ella, lejos de dar alguna señal, se comporta conmigo como si fuera un completo desconocido...}
-320	3bdc02b2	{fc(57e4f1)Le conté a Aotsuki de un tirón que todo eso me tiene desconcertado.}
+320	3bdc02b2	{fc(57e4f1)Le conté a Eito de un tirón que todo eso me tiene desconcertado.}
 330	c5411816	Eso sí que es... una historia extraña.
 340	83d5a420	Pensé que quizás perdió la memoria, pero nunca la oí decir nada de eso...
 350	a78ae246	...Bueno, tampoco pude confirmarlo bien.
 360	f4a72a8b	
-370	1effebb2	...¿Aotsuki? ¿Qué pasa?
+370	1effebb2	...¿Eito? ¿Qué pasa?
 380	9fda16da	Ah, no... es que esa situación se parece a una novela de ciencia ficción que leí hace poco.
 390	18e31484	¿Una novela de ciencia ficción...?
 400	d6b31a49	Es la historia de un protagonista que termina pasando a un {fc(ff635b)"mundo paralelo"}. Un universo paralelo, como dicen.
@@ -65,7 +65,7 @@ id	huella_jp	es
 640	ed8cbb74	Sí... ya lo sé.
 650	d7677cb7	Bueno... me quedé un buen rato, pero ya me voy.
 660	f432b6fb	Buenas noches, Takumi. Descansa bien.
-670	7810dc7a	{fc(57e4f1)Dicho eso, Aotsuki se fue con una sonrisa.}
+670	7810dc7a	{fc(57e4f1)Dicho eso, Eito se fue con una sonrisa.}
 680	ec476dc0	Universos paralelos... Mundos paralelos...
 690	ce48e3dd	{fc(57e4f1)Es una idea absurda y alejada de la realidad, pero... la verdad, empiezo a sentir que no es imposible.}
 700	53844900	{fc(57e4f1)Entonces... Nozomi Kirifuji es Karua, pero no es Karua: la misma persona, pero otra...}

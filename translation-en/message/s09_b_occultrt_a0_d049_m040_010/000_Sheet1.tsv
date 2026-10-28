@@ -2,20 +2,20 @@ id	huella_jp	es
 10	db65537f	¿Qué quiere, Sr. Sumino?
 20	58bc172f	¡Es obvio!\n¡Encontré la "Caja de la Desdicha"!
 30	1c9f7fe9	...Quiero verla.
-40	2d18a582	S-Sumino...
-50	ee1b02cc	{fc(57e4f1)Desde el baño se oyó la voz de Kirifuji.}
-60	a098b7fb	¡Kirifuji! ¡¿Estás bien?!
+40	2d18a582	S-Takumi...
+50	ee1b02cc	{fc(57e4f1)Desde el baño se oyó la voz de Nozomi.}
+60	a098b7fb	¡Nozomi! ¡¿Estás bien?!
 70	39f70d4a	¡Digo que me la muestre!
 80	7d71832e	C-Cálmate...
 90	d75a80cd	Mira, esta es...
 100	fcfaf76d	¡Esto...!
 110	7d437c00	¡Si rompo esto... todo vuelve a ser como antes...!\n¡Mi queridísima hermana también lo está esperando...!
 120	8f3868d9	¡R-Rápido, dámela!
-130	feb2dc40	Intercambio por Kirifuji.
+130	feb2dc40	Intercambio por Nozomi.
 140	9eab8ba5	Entendido. Ya no la necesito.
-150	4245cb85	{fc(57e4f1)Dicho eso, Ima entró al baño\ny soltó a Kirifuji, liberándola.}
+150	4245cb85	{fc(57e4f1)Dicho eso, Ima entró al baño\ny soltó a Nozomi, liberándola.}
 160	40a63d96	{fc(57e4f1)A cambio, yo le di la caja a Ima...}
-170	a098b7fb	¡Kirifuji! ¡¿Estás bien?!
+170	a098b7fb	¡Nozomi! ¡¿Estás bien?!
 180	626e5312	S-Sí... gracias por salvarme...
 190	a8e6af56	Estoy un poco mareada,\nseguro porque estuve atada mucho tiempo...
 200	fc2c8bab	Qué bueno...
@@ -29,7 +29,7 @@ id	huella_jp	es
 280	fab3ce1b	¡Si mato a esto...!
 290	48c9c659	¡N-No lo dejes matarlo!
 300	d0266993	¡¿Eh?!
-310	d41ee07d	¡Sumino! ¡No lo dejes...!
+310	d41ee07d	¡Takumi! ¡No lo dejes...!
 320	fee26566	{fc(57e4f1)¡En todo caso, hay que moverse...!}
 330	b32f559e	¡Para, Ima!
 340	9d2fe8f3	¡¿Por qué me estorba?!
@@ -43,8 +43,8 @@ id	huella_jp	es
 430	2a2b04ed	{fc(57e4f1)¡Mal, a este paso me matan...!\n¡Pero justo cuando lo pensé...!}
 440	0e2e33cd	{fc(57e4f1)Ima se tambaleó y cayó dentro del baño.}
 450	a5c7a265	Qué cosa, ¿qué estás haciendo?
-460	ad8fd717	¡Shizuhara! ¡¿Viniste?!
-470	7dbc9783	{fc(57e4f1)Shizuhara no respondió y miró a Ima caído:}
+460	ad8fd717	¡Hiruko! ¡¿Viniste?!
+470	7dbc9783	{fc(57e4f1)Hiruko no respondió y miró a Ima caído:}
 480	d7f64011	Quizás golpeé demasiado fuerte...\nPerdió el conocimiento del todo.
 490	3a26fcc1	Mientras tanto metámoslo al corral.
 500	f4a72a8b	
@@ -58,9 +58,9 @@ id	huella_jp	es
 580	89a09902	Pero hace un rato sí lo parecía...
 590	183965fc	Oye, Kirifuji, ¿estás bien?
 600	f4ab53fc	Estuviste secuestrada 10 días.\nEs normal que te afecte la cabeza.
-605	1016286e	Kirifuji, ¿cómo está tu salud?
+605	1016286e	Nozomi, ¿cómo está tu salud?
 610	87e9be4d	S-Sí... estoy bien...
-620	ff83ed9b	Te acompaño al cuarto.\nSumino, encárgate del resto con Ima.
+620	ff83ed9b	Te acompaño al cuarto.\nTakumi, encárgate del resto con Ima.
 630	b0c71e33	Sí, entendido.
 640	4bab2cfd	{fc(57e4f1)Confiscada la navaja mariposa...\nIma, al corral...}
 650	36f0448c	{fc(57e4f1)Falta lo de la muñeca...\n¿Qué hago...?}

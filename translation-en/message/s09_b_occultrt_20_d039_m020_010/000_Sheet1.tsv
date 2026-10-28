@@ -20,7 +20,7 @@ id	huella_jp	es
 190	6c2ad667	Está bien, gracias.
 200	353403a7	Si me concentro, puedo tocar objetos.\nAdemás, mis llamas solo queman seres vivos...
 210	f8e0dffd	¿Y este libro?
-220	5edefecb	Eh, es un libro que el fantasma le pasó a Sumino.
+220	5edefecb	Eh, es un libro que el fantasma le pasó a Takumi.
 230	ded73325	Nosotros no pudimos leerlo,\npero quizás tú...
 240	aa101990	¿Qué tal? ¿Puedes leerlo?
 250	6b6e1721	...Sí. Parece que puedo.
@@ -40,7 +40,7 @@ id	huella_jp	es
 390	e2286501	¡¿Qué?!\n¡Oye, ¿no es justo lo más importante?!
 400	e45c9807	Este libro está incompleto.\nEl contenido está cortado, y el libro termina aquí.
 410	4bc3d120	Si buscamos en la biblioteca, ¿habrá continuación?
-420	3b580ec3	Pero oigan, ¿espectro?\n¿Esa mujer que vio Sumino es ese espectro?
+420	3b580ec3	Pero oigan, ¿espectro?\n¿Esa mujer que vio Takumi es ese espectro?
 430	190ecbac	¿Dicen que si abres la caja te posee?
 440	1d1710c2	¡Esto pasa por ser plebeyos!\n¡¿Dónde comiste algo del suelo?! ¡Dilo!
 450	59a409be	¡No hice nada de eso! ¡Ni recuerdo haber abierto ninguna caja!
@@ -83,23 +83,23 @@ id	huella_jp	es
 820	aa14550c	Desde ahora, todos ustedes buscarán, con todas sus fuerzas, esa cajita.
 830	95ba7523	Veamos... en 10 días.\n¡Sí, dentro de 10 días contando hoy!
 840	701b2a19	Bueno, les daré un poco de margen:\ndiremos "hasta la mañana del día 49".
-850	6cb972bd	¿Si no lo logramos, matarás a Kirifuji?\n¡Qué acción tan tonta!
+850	6cb972bd	¿Si no lo logramos, matarás a Nozomi?\n¡Qué acción tan tonta!
 860	61422f37	¡Ya me tienen harto con lo tontos que son!
 870	c948b727	Ustedes buscan la cajita.\nYo la destruyo.
 880	e43ae7f1	Así el espectro será derrotado, mi queridísima hermana volverá...\n¡y todo, todo saldrá bien...!
 890	044f4d48	¡Sí, así todo se resuelve...!\n¡Qué sencillo es, y sin embargo...!
-900	2954844e	¡Qué tontería es esa!\n¡Suelta a Kirifuji ya mismo—
-910	77e18835	Cálmate, Sumino.
+900	2954844e	¡Qué tontería es esa!\n¡Suelta a Nozomi ya mismo—
+910	77e18835	Cálmate, Takumi.
 920	f61165ee	Tiene un rehén.\nAl menos por ahora no hay jugada posible.
 930	76b3de1b	¡Pero no puedo dejar pasar algo así...!
 940	b967094a	S-Sí... ¡si quiere tomar un rehén,\ntómeme a mí, que no sirvo de nada a diario!
 950	0c11604d	¡O a mí!\n¡A mí me da igual lo que me hagan!
 960	297b6a56	¡Cállense...!
-980	2d18a582	S-Sumino...
-990	fd0a21ca	¡Kirifuji!
+980	2d18a582	S-Takumi...
+990	fd0a21ca	¡Nozomi!
 1000	8ce173e1	Estoy bien...\nPor eso cálmate, ¿sí...?
 1010	b2b56a50	Pero...
 1020	f484bfec	La charla terminó.
 1030	a90c9b5b	Está prohibido seguirme o tratar de recuperar al rehén.
 1040	3aa64651	Lo único que ustedes pueden hacer\nes buscar la "Caja de la Desdicha".
-1050	acabd816	{fc(57e4f1)Dicho eso, Ima se llevó a Kirifuji\ny entró en su cuarto.}
+1050	acabd816	{fc(57e4f1)Dicho eso, Ima se llevó a Nozomi\ny entró en su cuarto.}

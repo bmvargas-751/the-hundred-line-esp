@@ -1,11 +1,11 @@
 id	huella_jp	es
-10	3d8a0afd	{fc(57e4f1)En el Patio, tal como dijo Ginzaki,\nShizuhara y los demás acorralaban a Eva.}
+10	3d8a0afd	{fc(57e4f1)En el Patio, tal como dijo Ginzaki,\nHiruko y los demás acorralaban a Eva.}
 20	4413d217	¡Oigan! ¡¿Qué están haciendo?!
 30	0a062119	¡Ah, Takumi!
-40	3fc369a0	...Sumino, viniste.\nDe verdad, no hacía falta que vinieras.
+40	3fc369a0	...Takumi, viniste.\nDe verdad, no hacía falta que vinieras.
 50	f2a8218a	Ya basta, no estorbes.\nAhora mismo tú estás claramente raro.
 60	295b8bb7	El que está raro eres tú.\nIntentar echar a Eva así de golpe...
-70	df492bfd	Sumino... lo siento, pero yo también estoy con Shizuhara.\nNo me dan ganas de pelear junto a esta...
+70	df492bfd	Takumi... lo siento, pero yo también estoy con Hiruko.\nNo me dan ganas de pelear junto a esta...
 80	6c822f20	...¿Por qué?\nYo soy de ustedes, ¿saben?
 90	6492fcd1	¡Porque esa actitud tuya da miedo!
 100	6c89a93f	Si SIREI le hizo algo,\nhabrá que sacárselo aunque sea con tortura...
@@ -18,13 +18,13 @@ id	huella_jp	es
 170	f910aff7	Tú sí lo sabes, ¿verdad?\n¿Qué le pasó? ¿Qué le hizo SIREI?
 180	3e08cc72	E-Eso es... este...
 190	87383664	...Si no hablas, no queda más que echarla.
-200	b3fcf0b4	{fc(57e4f1)¿No será que Shizuhara apuntaba a esto desde el principio...?}
+200	b3fcf0b4	{fc(57e4f1)¿No será que Hiruko apuntaba a esto desde el principio...?}
 210	5cacf6e5	Eh... que me echen sería un problema...\nNo podría matar a los invasores.
 220	1439c0f2	¡Entonces habla de una vez!
 230	f4a72a8b	
 240	ed183dd1	No podemos dejar pasar qué le hizo SIREI a Eva...
 250	cfd97e41	Además, últimamente hay gente que anda rara.
-260	fc177df2	{fc(57e4f1)Al decir eso, Shizuhara me echó una mirada.}
+260	fc177df2	{fc(57e4f1)Al decir eso, Hiruko me echó una mirada.}
 270	38ce5220	{fc(57e4f1)Pero yo no pude decir nada\ny me quedé plantado ahí.}
 280	1254d909	{fc(57e4f1)Y es verdad que en el fondo de mi corazón\nsentía que convenía oír esa respuesta...}
 290	fc013675	¿Qué dices, NIGOU?\n¡Cuenta lo que sabes!
@@ -44,8 +44,8 @@ id	huella_jp	es
 430	d3e241a0	Por eso... si de verdad quieren saberlo,\ndestrúyanme e investiguen.
 440	93fc888c	A cambio... no maltraten a Eva.
 450	022abcb0	...Bien, entendido.
-460	be4c87be	{fc(57e4f1)Dicho eso, Shizuhara se volvió hacia NIGOU.}
-470	b8d481f5	¡O-Oye, Shizuhara...!
+460	be4c87be	{fc(57e4f1)Dicho eso, Hiruko se volvió hacia NIGOU.}
+470	b8d481f5	¡O-Oye, Hiruko...!
 480	780bba89	{fc(57e4f1)Fue entonces cuando por fin pude abrir la boca.}
 490	9074349e	...No me detengas. Es un asunto importante que también te concierne a ti.
 500	ac29197e	No, un asunto importante que nos concierne a todos.\nHay que enterarse mientras aún se puede.
@@ -53,7 +53,7 @@ id	huella_jp	es
 520	5989ba23	{fc(57e4f1)Si dejo que destruya a NIGOU así,\nseguro habrá consecuencias graves.}
 530	3287220d	{fc(57e4f1)Pero...}
 540	f4a72a8b	
-550	07e1c7c0	{fc(57e4f1)Shizuhara dijo que el estado de Eva\nera un asunto importante que también me concernía a mí...}
+550	07e1c7c0	{fc(57e4f1)Hiruko dijo que el estado de Eva\nera un asunto importante que también me concernía a mí...}
 560	18020ed4	{fc(57e4f1)Seguramente se relaciona también con eso de que "estoy raro".}
 570	d64c16de	{fc(57e4f1)Pensando que no puede ser, en lo más hondo de mi mente}{fc(ff635b)"algo"}{fc(57e4f1) me inquietaba.}
 580	8e007875	{fc(57e4f1)No sé qué es ese }{fc(ff635b)"algo"}{fc(57e4f1), pero presentía que si dejaba pasar esta incomodidad, pasaría algo grave.}
