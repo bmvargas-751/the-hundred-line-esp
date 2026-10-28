@@ -1,50 +1,50 @@
 id	huella_jp	es
-10	82a7b4ad	...¿Qué pasa? ¿Qué es lo que querías consultarme?
-20	c468e1ee	Perdón. Por llamarte de repente a un lugar así. Es que no quería que los demás lo oyeran.
-30	14371ba2	...¿Que no querías que lo oyeran?
+10	82a7b4ad	Entonces, ¿qué pasa? ¿Querías hablar conmigo?
+20	c468e1ee	Perdón por llamarte aquí de repente. De verdad no quería que nadie más lo oyera.
+30	14371ba2	¿No?
 40	b95a5c3a	Es sobre Moko...
-50	dfc3023f	Me parece que... está rara. Siento que algo no anda bien con ella.
-60	acd94a8e	¿Eh? ¿Rara?
+50	dfc3023f	Creo que algo está... raro. Siento que no es del todo ella.
+60	acd94a8e	¿Eh? ¿Raro?
 70	f4a72a8b	
-80	64df9ed1	No está bien, ¿no...? Mi amiga por fin volvió sana y salva, y yo pensando cosas como si desconfiara de ella...
-90	e60bb13e	...Pero no puedo dejar de pensarlo. Siento que Moko oculta algo.
-100	0d326da2	{fc(57e4f1)Ya veo, por eso estaba rara últimamente: le preocupaba eso...}
-110	eca698ef	...Pero ¿ocultar qué? ¿Qué crees que oculta Mojiro?
-120	b1061f12	No, eso no lo sé. Es solo una sensación...
-130	1eb5cde7	...Por eso tengo dudas. No sé si está bien preguntarle a Moko.
-140	8b9503f1	Porque, si de verdad oculta algo, es porque no quiere que se sepa, ¿no?
-150	a7f85d8b	Si me pongo a sacárselo, quizás Moko se sienta mal.
-160	ba5b3a3c	Yo... también oculto algo, por eso lo entiendo. Lo duro que es ocultarles algo a los compañeros.
-170	2cbde120	{fc(57e4f1)Así que era eso... Por eso quería saber mi opinión.}
-180	6444774a	No sé cómo es la relación entre tú y Moko, pero...
-190	e7b819f6	Mojiro es tu amiga, ¿no? Entonces, en vez de quedarte con esa inquietud sin decir nada...
-200	b7383cca	creo que es mejor que te animes y se lo preguntes de frente.
+80	64df9ed1	No está bien que dude de una amiga que acaba de volver sana y salva, pero...
+90	e60bb13e	No puedo dejar de pensarlo. Siento que oculta algo.
+100	0d326da2	{fc(57e4f1)Ya veo, eso era lo que la inquietaba. Moko está actuando raro.}
+110	eca698ef	¿Pero qué podría ocultar? ¿Tienes alguna idea?
+120	b1061f12	No, no lo he descubierto. Solo tengo una especie de presentimiento...
+130	1eb5cde7	Eso es todo, así que no sé si debería confrontar a Moko.
+140	8b9503f1	Si de verdad oculta algo, es obvio que no quiere que nadie lo sepa.
+150	a7f85d8b	Si intento sacárselo, quizás la moleste de verdad.
+160	ba5b3a3c	Y sé cómo es. Yo tengo mi propio secreto. Duele ocultarles cosas a los amigos.
+170	2cbde120	{fc(57e4f1)Así que era eso... Por eso quería preguntarme mi opinión.}
+180	6444774a	No sé mucho de ti y de Moko.
+190	e7b819f6	Pero es tu amiga, ¿no? Así que yo digo, en vez de darle vueltas...
+200	b7383cca	Deberías ser sincera con ella.
 210	f4a72a8b	
-220	35a9988e	Claro que, si ella dice que no quiere hablar, no creo que haga falta sacárselo a la fuerza...
-230	eee03568	En ese caso, ¿no basta con confiar en ella y no preguntarle más?
-240	2517e712	¿Como hiciste tú... conmigo?
-250	bc855348	No, yo no...
-260	3c80497a	Pero tienes razón. Es mejor así, ¿no?
-270	5f6efa0c	Sí, está bien. Voy a intentarlo. Voy a hablar con Moko.
-280	520205aa	Sí, creo que es lo mejor. Entre amigas, creo que lo mejor es ir de frente.
-290	20f874d7	Si te incomoda ir sola, puedo acompañarte, pero seguro que es más fácil hablar a solas, ¿no?
-300	e6b7d927	Sí. Estoy bien.
-310	69e7a4a7	Pero... si aun así no se resuelve, o te queda alguna inquietud...
-320	0426c8f1	puedes volver a consultarme cuando quieras.
-330	dd776ecc	...Gracias.
+220	35a9988e	Claro que no creo que debas presionarla si no quiere hablar.
+230	eee03568	Si eso pasa, puedes simplemente decidir confiar en ella y no volver a preguntar.
+240	2517e712	¿Como hiciste tú por mí, Takumi?
+250	bc855348	Oye, yo solo...
+260	3c80497a	Pero tienes razón. Eso es lo que debería hacer.
+270	5f6efa0c	Sí, ahora estoy segura. Intentaré hablar con ella.
+280	520205aa	Seguro que saldrá bien. Entre amigas lo mejor es hablar claro.
+290	20f874d7	Puedo acompañarte si quieres, pero probablemente sea más fácil con ustedes dos solas.
+300	e6b7d927	Gracias. Estaré bien.
+310	69e7a4a7	Pero si no sale bien y sigues sintiéndote mal...
+320	0426c8f1	Podemos hablarlo cuando quieras.
+330	dd776ecc	Gracias.
 340	f4a72a8b	
-350	74df4ef2	No sé... Sentí algo un poco raro.
-360	0e70b4a6	¿Raro...?
-370	ad524c02	La otra vez también pasó... Me di cuenta de que contigo termino contando un montón de cosas sin querer.
-380	81304e1d	Es como si... contigo hubiera hablado así desde hace mucho tiempo.
-390	0ded5105	¿Eh...?
-400	482eab87	Claro que no puede ser, pero ¿será porque esa conocida tuya se parece a mí?
-410	743b20ba	Quizás por eso yo también, sin darme cuenta, sentí que te conocía desde hace mucho.
-420	7d5a8c73	...Aunque, si por eso te meto en líos, debo ser una molestia para ti.
-430	26cba1ac	No es así, pero...
-440	ae065b39	Pero, de verdad, gracias. Por escucharme.
-450	45ca2b7c	Gracias a ti, me siento más tranquila. Voy a hablar bien con Moko.
-460	6eecc388	Sí, es lo mejor...
-470	24745fc9	{fc(57e4f1)Sigo sin saber qué relación hay entre Nozomi Kirifuji y Karua, y por ahora tampoco sé cómo averiguarlo...}
-480	56c0cbad	{fc(57e4f1)Pero yo, al revés que ella, cada vez que hablábamos, empezaba a aceptar a la chica que tenía enfrente como Nozomi Kirifuji.}
-490	821e1eb4	{fc(57e4f1)Empezaba a sentir por Nozomi Kirifuji algo distinto de lo que sentía por Karua...}
+350	74df4ef2	Ahí está otra vez... Sigo teniendo esta sensación extraña.
+360	0e70b4a6	¿Extraña?
+370	ad524c02	Pasó el otro día también. Me di cuenta de que siempre me abro contigo.
+380	81304e1d	Casi siento que hemos hablado así desde que éramos niños.
+390	0ded5105	¿Eh?
+400	482eab87	Claro que no es así. ¿Será porque me parezco a esa otra persona que conocías?
+410	743b20ba	Quizás eso me hace sentir que te conozco desde hace mucho más tiempo del que es.
+420	7d5a8c73	Pero debo de ser una verdadera molestia por arrastrarte constantemente a problemas por eso, ¿verdad?
+430	26cba1ac	Eso no es cierto...
+440	ae065b39	En serio, gracias, Takumi. Gracias por escucharme.
+450	45ca2b7c	Ya me siento mejor. Voy a hablar con Moko.
+460	6eecc388	Sí, será lo mejor.
+470	24745fc9	{fc(57e4f1)Seguía sin entender la conexión entre Nozomi y Karua, y por ahora tampoco había forma de averiguarlo.}
+480	56c0cbad	{fc(57e4f1)Al contrario de lo que Nozomi parecía pensar, cuanto más hablábamos, más empezaba yo a aceptarla como persona propia.}
+490	821e1eb4	{fc(57e4f1)Y empezaba a desarrollar por Nozomi sentimientos distintos de los que tenía por Karua.}
