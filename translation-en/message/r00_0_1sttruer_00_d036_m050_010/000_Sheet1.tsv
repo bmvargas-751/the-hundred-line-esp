@@ -1,84 +1,84 @@
 id	huella_jp	es
-10	0b697d7f	...Shouma, ¿pensaste en lo de ayer?
-20	0c5abdaa	Sí. Lo pensé bien toda la noche, como me dijeron. Y la conclusión es...
-30	e82221e0	que lo imposible es imposible. Que yo, un perdedor de nacimiento, pelee es completamente imposible.
-40	8c80494f	Bueno, era de esperar.
-50	5e5df635	¡Ay, en serio! ¡¿Y ahora qué hacemos?!
-60	042e494f	¡Si es así, no queda otra que el juego de matanza! ¡Un juego de matanza infinito de matar y revivir!
-70	2ed86888	Shouma, no te rindas así. Si te esfuerzas y le haces frente, a lo mejor algo cambia, ¿no?
-80	54563f74	¡Anímate! ¡Que también tienes compañeros!
-90	ed2a3e51	...Es cierto, si uno se esfuerza, quizás algo cambie. Para la gente normal o mejor.
-100	7c66de3d	Pero alguien de lo más bajo como yo es distinto. No esperen de mí lo que esperarían de cualquiera.
-110	a6a5316d	Para empezar, lo mío es imposible desde la raíz. Tengo un cuerpo que no puede pelear.
-120	527c0588	Eso de tu {fc(ff635b)"forma de ser"}... ¿es como lo mío, que vomito cuando me pongo nerviosa al máximo?
-130	1c4a513b	...Quizás se parezca, pero en mi caso es todavía más grave...
-140	c51800d5	...Pégame.
-150	257ff880	...¿Eh?
-160	8cb204d8	{fc(57e4f1)Takemaru se acercó a Shouma pisando fuerte y...}
-170	605709c3	Si tanto lo dices, pégame. Muéstrame qué te pasa.
+10	0b697d7f	Shouma, ¿pensaste más en lo que hablamos ayer?
+20	0c5abdaa	Sí. Pasé toda la tarde pensándolo en serio. Y llegué a una conclusión...
+30	e82221e0	De verdad no puedo hacerlo. Un eterno fracasado como yo no tiene nada que hacer en un duelo, y menos aún tratar de ganarlo.
+40	8c80494f	Vaya, te echas atrás. Qué sorpresa.
+50	5e5df635	¡Ay, vamos, viejo! ¡¿Por qué eres así?!
+60	042e494f	Supongo que no hay más opción que el Plan B, entonces. ¡Masacrarnos, revivir y repetir!
+70	2ed86888	Shouma, tienes que dejar de ser tan duro contigo mismo. Si pones empeño, verás que no eres ni de cerca tan débil como crees.
+80	54563f74	Y no tienes que hacerlo solo: ¡todos te ayudaremos como podamos!
+90	ed2a3e51	Sí, quizás podría hacerme más fuerte con suficiente esfuerzo... Si fuera una persona normal.
+100	7c66de3d	Pero soy... anormal. No, subnormal. No, ni eso, es darme demasiado crédito. En todo caso, no soy el tipo de persona que puede cambiar para mejor.
+110	a6a5316d	Mi inutilidad está grabada en mí a nivel celular. No hay manera de superar algo así.
+120	527c0588	¿Seguro? O sea, yo siempre pensé que mi problema de {fc(ff635b)vomitar} significaba que no servía para pelear, pero aquí estoy.
+130	1c4a513b	Nuestros problemas pueden parecer similares a primera vista, pero el mío es mucho más serio, más fundamental...
+140	c51800d5	Oye. Pégame.
+150	257ff880	¿Q-Qué...?
+160	8cb204d8	{fc(57e4f1)Takemaru se puso de pie y fue pisando fuerte hasta donde estaba Shouma.}
+170	605709c3	Solo pégame. A ver qué pasa.
 180	f4a72a8b	
-190	3615fc3a	...D-De acuerdo.
-200	bd129567	{fc(57e4f1)Shouma cerró el puño derecho torpemente y lo estiró directo hacia Takemaru.}
-210	dfc2e720	{fc(cfff3f)"Plic..."}
-220	63ffd76d	...Dejando de lado si eso fue un golpe o no...
-230	1cca9747	¿Qué...? Si puedes pegar perfectamente, ¿no? ¿Cuál es el problema?
+190	3615fc3a	D-De acuerdo...
+200	bd129567	{fc(57e4f1)Shouma levantó el brazo de mala gana, cerró el puño y se lanzó hacia Takemaru de forma desganada y sin energía.}
+210	dfc2e720	{fc(cfff3f)*plaf*}
+220	63ffd76d	Bien, ignoremos lo que tardaste y que apenas sentí algo.
+230	1cca9747	Lo importante es que lo hiciste. Lanzaste un puñetazo y conectó. ¿De qué te quejas?
 240	f4a72a8b	
-250	6ccea132	¡¿G-Shouma?!
+250	6ccea132	¡¿S-Shouma?!
 260	e8f638a0	{fc(57e4f1)Unos minutos después...}
-270	98be4b09	Eso... es mi condición de perdedor.
-280	d4f6f6bc	Es una condición anormal que tengo desde chico: no soporto para nada las peleas ni los conflictos.
-290	2ecf5ccc	Pelearme o pegarle a alguien, ni hablar: me da una reacción alérgica terrible...
-300	2bef6d97	Me atacan al mismo tiempo picazón en todo el cuerpo, dolor de cabeza, náuseas, escalofríos y fiebre alta, y pierdo el conocimiento al instante.
-310	25d5cc51	Así que no es que no peleas, sino que no puedes pelear...
-320	746263bb	Sí...
-330	56b751c6	{fc(57e4f1)Seguro que esa costumbre de despreciarse tanto también es para evitar los conflictos...}
-340	fd36a750	{fc(57e4f1)Si aceptas la derrota desde el principio, no te peleas con nadie... ¿será eso?}
-350	e7f55a0a	¿Ahora... me entienden? Soy así, un defectuoso que no sirve para nada.
-360	85a99518	Así que... no esperen nada más de mí.
-370	a0f90dca	...No podemos hacer eso. Porque ya quedamos en tener un duelo con esa gente.
-380	012aae15	A estas alturas no se puede echar atrás... Está en juego la orden de obediencia total...
-390	3b6f7edf	¿Qué... nos harán hacer...?
-400	7fd45a66	Nos tratarán como esclavos o como perros, y nos harán hacer cosas deprimentes de todo tipo...
-410	d5a34f9f	¡Guau! ¡Guau, guau, guau! (¡Aunque Darumi puede ser tanto esclava como perrito!)
-420	280743e2	Perdón por causarles molestias, pero yo no puedo pelear con nadie de ninguna manera...
-430	3e822ba3	Creo que es mejor que dejen de esperar algo de mí y busquen otra forma de arreglarlo entre ustedes.
+270	98be4b09	¿Ahora entienden a qué me refiero?
+280	d4f6f6bc	Soy así desde que tengo memoria. A la menor señal de conflicto, mi cuerpo simplemente se apaga.
+290	2ecf5ccc	Es como una reacción alérgica extrema. Basta un solo puñetazo para desatarla...
+300	2bef6d97	Me pica todo el cuerpo, me da dolor de cabeza, me sube la fiebre y, antes de darme cuenta, me desmayo.
+310	25d5cc51	Vaya, de verdad no exageraba cuando dijiste que no podías pelear aunque quisieras...
+320	746263bb	Traté de decírselos...
+330	56b751c6	{fc(57e4f1)Esta "alergia" a la violencia debe de ser también la razón de que Shouma tenga la autoestima por los suelos.}
+340	fd36a750	{fc(57e4f1)No es de extrañar que sienta que está destinado a fracasar en todo lo que hace...}
+350	e7f55a0a	¿Ahora lo entienden? Soy completamente defectuoso.
+360	85a99518	Nunca lograré nada. Mejor déjenme por imposible...
+370	a0f90dca	No podemos hacer eso. Tienes un duelo con Kurara la semana que viene. No hay forma de zafarse.
+380	012aae15	Y no es solo por ti. Si ganan ellos, el resto también tendremos que hacer lo que digan.
+390	3b6f7edf	¿Qué nos harán hacer...?
+400	7fd45a66	Quizás nos conviertan en sus esclavos y nos obliguen a atender todos sus caprichos... O nos humillen tratándonos como animales, quitándonos cualquier jirón de dignidad humana...
+410	d5a34f9f	¡Guau! ¡Guau, guau! ¡Auuu...! (¡Por fin un castigo que se ajusta a mis habilidades!)
+420	280743e2	Lamento mucho ponerlos en esta situación injusta... Pero de verdad no hay nada que pueda hacer.
+430	3e822ba3	Sería mejor que me olviden y aprovechen este tiempo para encontrar la forma de hacer las paces con ellos.
 440	9ae8c57b	
-450	8c003494	Entonces... como les estorbo, ya desaparezco. Si tienen ganas de pegarle a alguien, llámenme.
-460	45964940	{fc(57e4f1)Dejando esas palabras en voz baja, Shouma se fue de la cafetería.}
-470	f2d993ef	Al final... no hubo caso...
-480	344dce93	...Quedó como un sapo bañado en detergente.
-490	533d0ad9	¡¿Y ahora qué hacemos?! ¡Si perdemos, es obediencia total! ¡No sabemos qué nos van a hacer!
-500	0d64605e	¡Guau! ¡Guau, guau! (¡Al final, no queda otra que el juego de matanza!)
-510	103e3d8c	Pero es un misterio, ¿no? ¿Por qué eligieron para la Unidad de Defensa Especial al Sr. Ginzaki, con esa condición?
-520	1ee12d50	Si desde el principio saben que no puede pelear, no hay motivo para elegirlo, ¿no?
-530	3e4a44dc	Tú... tampoco puedes hablar de los demás...
-540	060c4dbc	Pero es cierto. No hay motivo para elegirlo a propósito si no puede pelear...
-550	da0d0181	¿Y si para empezar no hay ningún motivo y alguien eligió al azar?
-560	0bdb5bed	No, quizás no sea eso...
-570	38409aa8	Más bien, quizás haya algo. Un {fc(ff635b)"motivo especial"} por el que eligieron a Shouma.
-580	6c6371f7	...¿Un motivo especial?
-590	278e51a0	Un {fc(ff635b)"potencial desconocido"} del que ni el mismo Shouma se da cuenta. Quizás él tenga algo así, ¿no?
-600	c629d15a	¿Ese miedoso va a tener algo tan grandioso? Fue un simple error de selección.
-610	e43f3fa5	Aunque por casualidad tuviera algo así, ¿cómo lo encontramos...?
-620	fb0f36e0	¡El propio Shouma tiene cero ganas y ya se rindió por completo!
-630	3885b7c2	Es cierto... si por lo menos se pusiera más positivo, quizás podríamos explorar varias posibilidades...
-640	bb2da993	¡Entonces no queda otra que convencer a Ginzaki para que lo haga! ¡¿No, Takumi?!
-650	257ff880	...¿Eh?
-660	d420353e	¿Convencerlo...? ¿Como hiciste con nosotros? Con un Señor Sin Ganas así, ya es imposible...
-670	bdbf9e92	Las pocas ganas se le notan en la cara. Tiene cara de zombi muerto.
-680	60a2e431	Sí. La pobreza de espíritu se le nota en la cara; de verdad es feo por dentro y por fuera.
-690	2e96629d	¡Se están pasando de verdad!
-700	79928fae	...Takumi, ¿qué dices?
-710	0c55cf0f	Bueno, sí... voy a intentarlo. Además, parece que no queda otra.
-720	a6f68eb1	Pero él también debe tener {fc(ff635b)"algo importante"} que dejó en el Complejo Residencial de Tokio...
-730	e5b033cb	Si consigo que lo recuerde, quizás se anime.
-740	50b85414	Sí. Como nos pasó a nosotros.
-750	459ce52e	Parece que ahora no queda otra que apostar por eso. Sr. Sumino, contamos con usted.
-760	80c30663	Si yo también puedo ayudar en algo, avísame...
-770	b7d6a799	¡Sí! ¡Te ayudamos! ¡No podemos perder contra esos!
-780	9bf3f771	Te cobro por hora, pero barato.
-790	e09bcaab	No le cobres...
-800	2de01dfe	{fc(57e4f1)Quedan... siete días como mucho.}
-810	bdfdebfc	{fc(57e4f1)Pero los invasores podrían atacar, así que cuanto antes, mejor.}
-820	4c3eb77a	{fc(57e4f1)Tengo que conseguir que se ponga positivo como sea.}
-830	153be09c	{fc(57e4f1)Después de decidir qué íbamos a hacer, volvimos por un rato cada uno a su habitación.}
+450	8c003494	Ya me quito de en medio, para que no tengan que soportar más mi presencia. Siéntanse libres de llamarme si quieren golpear a alguien para desahogarse.
+460	45964940	{fc(57e4f1)Murmurando aún más comentarios de autodesprecio que de costumbre, Shouma se escabulló del grupo y salió de la cafetería.}
+470	f2d993ef	Salió más o menos como se esperaba...
+480	344dce93	Sí, mostró tanto espíritu de lucha como una babosa con sal.
+490	533d0ad9	¿Qué hacemos ahora? Ni quiero pensar en lo que nos harán esos cuando él pierda...
+500	0d64605e	¡Guau, guau! ¡Arf, guau! *gimoteo* (¡Un juego de matanza haría desaparecer todos esos problemitas!)
+510	103e3d8c	¿No es raro, sin embargo? Quien esté a cargo de todo esto debía de saber de la condición del señor Ginzaki.
+520	1ee12d50	Entonces, ¿por qué lo pusieron en esta unidad? Alguien que no puede pelear no tiene lugar en una zona de guerra como esta.
+530	3e4a44dc	No deberías ser tú quien haga ese comentario...
+540	060c4dbc	No, tienes razón. No elegirían a alguien que no pudiera pelear.
+550	da0d0181	Quizás no investigaron nada sobre nosotros. Podríamos haber sido elegidos al azar.
+560	0bdb5bed	Supongamos que sí lo sabían, sin embargo...
+570	38409aa8	Por esa lógica, la inclusión de Shouma en la unidad fue deliberada. Tiene que haber algún {fc(ff635b)motivo especial} por el que está aquí.
+580	6c6371f7	¿Un motivo especial...?
+590	278e51a0	Quizás tiene un potencial oculto que desconoce. {fc(ff635b)Algo que lo hace único}, incluso valioso.
+600	c629d15a	¿Valioso? ¿Él? Su imaginación se le desboca, señor Aotsuki. Probablemente fue solo un error administrativo.
+610	e43f3fa5	Digamos que tienes razón... Sea cual sea ese "potencial", ahora no nos sirve de nada.
+620	fb0f36e0	Si Shouma no está dispuesto a trabajar en la habilidad o el talento que pueda estar ocultando, seguirá enterrado.
+630	3885b7c2	¿Y si lográramos que pensara en sí mismo de forma más positiva? Quizás sería el primer paso para ayudarlo a superar sus limitaciones.
+640	bb2da993	Supongo que solo hay que convencerlo de ver el lado bueno. ¡Te toca, Takumi!
+650	257ff880	¡¿Qué?!
+660	d420353e	Sí, viejo, ¡eres genial convenciendo a la gente! Aunque esta vez quizás la vara esté demasiado alta...
+670	bdbf9e92	La falta de ánimo del señor Ginzaki se nota en cada rasgo de su cara. Incluso en un buen día, parece un zombi de ojos muertos.
+680	60a2e431	Cierto. La fisonomía quizás se desacreditó hace mucho, pero Shouma es el tipo de espécimen que podría hacerla resurgir.
+690	2e96629d	¡Chicos, dejen de ser tan malos!
+700	79928fae	¿Qué dices, Takumi?
+710	0c55cf0f	Muy bien... Lo haré. Es casi nuestra única esperanza, de todos modos.
+720	a6f68eb1	Seguro que Shouma tiene {fc(ff635b)algo o a alguien} en casa que quiere proteger, igual que el resto de nosotros.
+730	e5b033cb	Quizás si logro recordárselo, empiece a sentirse un poco más motivado.
+740	50b85414	Ese enfoque funcionó conmigo y con Gaku.
+750	459ce52e	Solo nos queda esperar que funcione otra vez. Ahora todo depende de usted, señor Sumino.
+760	80c30663	Avísenme si hay algo en que pueda ayudar...
+770	b7d6a799	¡Así es, estamos todos juntos en esto! ¡Mostremos a esos tontos cómo es el verdadero trabajo en equipo!
+780	9bf3f771	Claro. Hasta lo haré por el salario mínimo y sin bonificación.
+790	e09bcaab	¿Quieres que te paguen por ayudar...?
+800	2de01dfe	{fc(57e4f1)Tenemos siete días, como máximo.}
+810	bdfdebfc	{fc(57e4f1)Dependiendo de cuándo llegue el próximo ataque, quizás tenga incluso menos tiempo.}
+820	4c3eb77a	{fc(57e4f1)Tengo que hacer lo que sea para convencer a Shouma de ser positivo.}
+830	153be09c	{fc(57e4f1)Decidido el plan para la semana, la reunión se disolvió y todos volvimos a nuestras habitaciones.}

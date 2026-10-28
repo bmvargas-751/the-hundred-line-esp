@@ -1,30 +1,30 @@
 id	huella_jp	es
-10	32ac41fd	Uf... Aun sin SIREI, nos las arreglamos...
-20	ec886a51	Me estoy acostumbrando a pelear, pero poder revivir aunque te mueras es una gran ventaja.
-30	a173274b	Je, je... Inmortales de verdad. Esto es divertidísimo.
-40	a70ce4ab	Pero no tienen nada de desafío... No me digan que esto es todo, ¿no?
-50	325cc42d	...¿Mmm? ¿Hm?
-60	5479cd5b	Oigan, oigan, miren allá. Viene alguien.
-70	e8dcfd0b	¿Eh? ¿Alguien...?
+10	32ac41fd	Uf... De algún modo lo logramos, incluso sin la ayuda de SIREI.
+20	ec886a51	Parece que le estamos agarrando el truco a esto de la hemoánima. Ayuda que prácticamente no podemos morir.
+30	a173274b	Jeje... Podría acostumbrarme a esto de la inmortalidad.
+40	a70ce4ab	Fue demasiado fácil, sin embargo. ¿De verdad es todo lo que tienen?
+50	325cc42d	¿Mm? ¡Ohohoho!
+60	5479cd5b	¡Chicos, chicos! Miren allá. ¡Se acerca un nuevo retador!
+70	e8dcfd0b	¿Qué, otro monstruo...?
 80	0112b3b2	¡¿Qué...?!
-90	df8338b7	¡¿Eso es... una persona?!
-100	f76769ca	Viene caminando hacia aquí, ¿eh? ¿Quién será?
-110	e7fae1b9	¿Eso también... será un invasor? Pero nunca vi uno con forma humana.
-120	c9e29396	¡¿Y si es alguien del Complejo Residencial de Tokio, como nosotros?! ¡Se habrá perdido y habrá terminado aquí!
-130	102c27bf	{fc(57e4f1)¿Ese... es del Complejo Residencial de Tokio?}
-140	bb1da086	¿Q-Qué hacemos? Si puede ser alguien del Complejo\nResidencial de Tokio, no podemos atacarlo, ¿no?
+90	df8338b7	Pero... ¡eso es un humano!
+100	f76769ca	Viene directo hacia aquí. ¿Qué querrá?
+110	e7fae1b9	¿Podría ser también un invasor? Nunca he visto uno con complexión humana normal, pero no es descartable...
+120	c9e29396	¿Pero y si es alguien del complejo? ¡Quizás se perdió y terminó aquí por accidente!
+130	102c27bf	{fc(57e4f1)¿Será cierto? ¿De verdad esa persona podría ser del Complejo Residencial de Tokio...?}
+140	bb1da086	...¿Qué hacemos? No podemos atacar si existe la posibilidad\nde que sea una persona normal, ¿verdad?
 150	f4a72a8b	
-160	8a1cfe9d	...Si SIREI estuviera aquí, nos diría qué hacer.
-170	63e466d6	Decir eso no sirve de nada. ¡Tenemos que arreglárnoslas solos...!
-180	4ffcf941	¡Entonces, déjenmelo a mí!
-190	5c194dcb	{fc(57e4f1)Takemaru respiró hondo y...}
-200	4f0e8b81	¡Oye, tú! ¡¿Quién eres?! ¡¿Estás de nuestro lado?! ¡¿O eres un enemigo?!
-210	fa49ce39	...Qué directo, da vergüenza ajena.
-220	2a69ba5d	¡Ah! ¡Miren, miren!
-230	8b360c02	¡Levantó... las manos...!
-240	fe5c5867	¡¿Entendió lo que dije?!
-250	d680991a	¡Si podemos comunicarnos, es que es humano!
-260	5668dddb	Por ahora... acerquémonos un poco más y hablemos. No tiene armas... no debería haber problema.
+160	8a1cfe9d	En realidad ya extraño a SIREI. Seguro que él sabría qué hacer.
+170	63e466d6	Pero no está aquí. Tendremos que arreglárnoslas solos.
+180	4ffcf941	Muy bien, todos atrás. Déjenmelo a mí.
+190	5c194dcb	{fc(57e4f1)Takemaru respiró hondo y luego...}
+200	4f0e8b81	¡OYEEEEE! ¡¿Quién eres?! ¡¿De qué lado estás?! ¡¿Eres de los nuestros o de ellos?!
+210	fa49ce39	Supongo que no debería haber esperado nada demasiado complejo de ti...
+220	2a69ba5d	*jadeo* ¡Miren, miren!
+230	8b360c02	¡Levantó las manos!
+240	fe5c5867	¿Ven? ¡Entendió lo que dije!
+250	d680991a	Podemos comunicarnos con normalidad. ¡Tiene que ser humano!
+260	5668dddb	Quizás... Al menos podemos acercarnos un poco y tratar de hablar más. No parece estar armado, así que deberíamos estar bien.
 270	f4a72a8b	
-280	6e212950	{fc(57e4f1)Desconcertados por este giro inesperado, avanzamos hacia aquella figura desconocida.}
-290	25d18bce	{fc(57e4f1)Y justo después...}
+280	6e212950	{fc(57e4f1)Todavía aturdidos por la conmoción de esta novedad, dimos unos pasos titubeantes hacia la misteriosa figura.}
+290	25d18bce	{fc(57e4f1)Pero entonces...}

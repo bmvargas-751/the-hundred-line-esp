@@ -1,97 +1,97 @@
 id	huella_jp	es
-10	6b507291	Que al clavarse el Infuser, toda la sangre del cuerpo se convierte en un poder especial llamado hemoánima...
-20	076b6114	Si fuera así, cualquier persona que se clavara un Infuser podría generar hemoánima, ¿no?
-30	5a97e320	...¿No es así?
+10	6b507291	Te clavas un Infuser en el corazón, y toda tu sangre se convierte en una sustancia especial llamada hemoánima.
+20	076b6114	Pero si fuera así, cualquiera podría usar un Infuser para activar la hemoánima, ¿no?
+30	5a97e320	¿Dices que no es verdad?
 40	551d2d5e	Solo las personas especiales pueden usar la hemoánima.
-50	e771d814	Esas personas llevan una {fc(ff635b)"sangre especial"} en el cuerpo, y el Infuser solo la activa...
-60	63ffd973	Esa sangre especial es lo que de verdad es la hemoánima, y todos ustedes son personas especiales que tienen esa sangre especial.
-70	8e4c4c07	¡¿P-Personas especiales?! ¡¿Nosotros?!
+50	e771d814	Esas personas tienen una {fc(ff635b)sangre única} dentro de ellas. El Infuser solo la activa.
+60	63ffd973	Esa sangre especial es la verdadera forma de la hemoánima. Todos aquí son personas especiales con esa sangre especial.
+70	8e4c4c07	¿E-Especiales? ¡¿Nosotros?!
 80	7746a2a1	Por eso los eligieron a todos para la Unidad de Defensa Especial.
-90	4b56219f	Y... lo que investigaba mi mamá también era esa sangre especial.
-100	0ded5105	¿Eh...?
-110	74dd90f4	Mi mamá llamaba a esa sangre especial {fc(ff635b)"criptoglobina"}...
-120	466290f6	La {fc(ff635b)"criptoglobina"} es una sangre con propiedades misteriosas que ni la ciencia ni la medicina más avanzadas han podido explicar...
-130	0b93c614	Como si la sangre misma fuera un ser vivo, pasa a voluntad de líquida a sólida, una y otra vez...
-140	1822245a	y tiene la propiedad de actuar en respuesta a la agresividad y el instinto de lucha de quien la lleva.
-150	c9c4bb52	Es justamente... una {fc(ff635b)"sangre de poderes ocultos"} hecha para pelear.
-160	c066faec	Sangre de poderes ocultos... Por eso se llama {fc(ff635b)"criptoglobina"}...
-170	68742622	Mi mamá investigó la {fc(ff635b)"criptoglobina"} durante muchos años. En un lugar llamado Hospital General Kamukura.
-180	6301b7cc	¿Eh? ¿El Hospital General Kamukura...?
-190	8f296eff	A todos ustedes también, igual que a mí, los metieron en el aparato misterioso del Hospital General Kamukura...
-200	b1f7cb89	y eran sujetos de prueba de {fc(ff635b)"cierta investigación"}. Cierta investigación... sobre la {fc(ff635b)"sangre especial"} que tenemos en el cuerpo.
-210	1a3cb7f6	¡¿El hospital del que habló Shouma?! ¡¿Entonces sus recuerdos eran ciertos?!
-220	c0dd5d41	...Creo que sí. En ese momento no lo pude decir.
+90	4b56219f	Y el tema de investigación de mi madre también era esa sangre especial.
+100	0ded5105	¡¿Eh?!
+110	74dd90f4	Mi madre llamaba a esa sangre {fc(ff635b)criptoglobina}.
+120	466290f6	Es un tipo de sangre con {fc(ff635b)características extrañas} que no se pueden explicar ni siquiera con el conocimiento científico y médico más avanzado.
+130	0b93c614	La sangre es casi una criatura viva por sí misma, que alterna libremente entre estados líquido y sólido.
+140	1822245a	Tiene características que actúan en respuesta a la agresividad y la combatividad del huésped.
+150	c9c4bb52	Es {fc(ff635b)sangre sobrehumana} que parece hecha para el combate.
+160	c066faec	Sangre sobrehumana... ¿Esta {fc(ff635b)criptoglobina} es así de especial?
+170	68742622	Mi madre estudió la {fc(ff635b)criptoglobina} durante muchos años, en un centro llamado Hospital General Kamukura.
+180	6301b7cc	¿Eh? Hospital General Kamukura...
+190	8f296eff	Todos ustedes estaban en esas máquinas del Hospital General Kamukura, igual que yo.
+200	b1f7cb89	Debimos ser todos sujetos de investigación del mismo {fc(ff635b)experimento}. Todos tenemos el mismo {fc(ff635b)tipo especial de sangre}...
+210	1a3cb7f6	¡Ese es el hospital que mencionó Shouma! ¡¿Entonces sus recuerdos eran correctos después de todo?!
+220	c0dd5d41	Creo que sí. Solo que no podía decirlo en ese momento.
 230	f4a72a8b	
-240	ae41c9b4	El Hospital General Kamukura, en apariencia, es un hospital, pero en realidad es un centro de investigación de la {fc(ff635b)"criptoglobina"}...
-250	45d606ac	Ahí mi mamá investigaba cómo trasplantar la {fc(ff635b)"criptoglobina"} al cuerpo humano.
-260	ede5c270	Pero esa investigación no salía bien... Por más experimentos que hiciera, solo había reacciones de rechazo.
-270	fb0e4c7f	Si hay una reacción de rechazo, entonces...
-280	bb37ed12	Sí. Yo soy sujeto de prueba de esos experimentos de trasplante. Me trasplantaron {fc(ff635b)"criptoglobina"} en el cuerpo.
-290	1e604867	¿Esa reacción de rechazo... es la causa de que estés enferma?
-300	464e743f	Así es. Son síntomas que ya tuve muchas veces en los experimentos, así que no creo que me equivoque...
-310	0c0bde68	¿Muchas veces...?
-320	284a47ce	Sí. Cada vez que usaba el poder de la {fc(ff635b)"criptoglobina"} que me trasplantaron en los experimentos, siempre me venía la reacción de rechazo...
-330	a4d7becf	Por eso, aquí intenté usar la hemoánima lo menos posible, pero...
-340	50e283a4	como cada vez que peleábamos contra los invasores usaba un poco de poder, al final la reacción de rechazo apareció igual...
-350	d2716a8c	Pero a nosotros también nos trasplantaron esa sangre, ¿no? En ese Hospital General Kamukura.
-360	40674481	Si es así, ¿algún día nosotros también vamos a tener esa reacción de rechazo?
-370	70ecb62b	Eso no lo sé... Hasta donde sé, la única que usaba mi mamá para sus experimentos era yo.
-380	7d163394	...¿Y entonces nosotros?
-390	33fafcd6	Creo que el que les trasplantó la criptoglobina a ustedes fue otro investigador, no mi mamá.
-400	2679542e	O ese experimento salió bien... o ustedes eran {fc(ff635b)"personas realmente especiales"}...
-410	9b6af18d	Creo que es... una de las dos. Por eso ustedes pueden usar la {fc(ff635b)"criptoglobina"} a voluntad.
-420	6781ebcf	{fc(57e4f1)Pero, para empezar, yo no me acuerdo de haber pasado por ningún experimento así...}
-430	0ddf7b7d	Bueno, por ahora... dejemos de lado lo nuestro...
-440	fedeca79	...¿Qué hacemos con tu reacción de rechazo? La otra vez, ¿cómo la controlaste?
-450	eea0a047	Mi mamá me inyectaba un medicamento para neutralizarla, pero claro, aquí no hay nada parecido...
-460	fe70e805	Y tampoco sé bien qué medicamento era. Pero puede que haya una sola cosa que podamos intentar...
-470	eb46538a	...¿Qué cosa? ¿Qué hay que hacer?
-480	2641d5a0	La {fc(ff635b)"criptoglobina"} tiene otra propiedad extraña. Practica el canibalismo...
-490	5f159401	La {fc(ff635b)"criptoglobina"} se hace más fuerte absorbiendo {fc(ff635b)"criptoglobina"}.
-500	1424a932	¿Eso es... lo que les hacíamos a los comandantes?
-510	50cccfa2	¡¿Entonces el poder que usan ellos es el mismo poder de la {fc(ff635b)"criptoglobina"} que tenemos nosotros?!
-520	142bbd14	Pero... ¡¿por qué esos tipos tienen el mismo poder que nosotros?!
-530	c11bc169	Eso... tampoco lo sé. Mi mamá nunca me habló de los invasores.
+240	ae41c9b4	El Hospital General Kamukura parece un hospital normal en la superficie, pero en realidad es un centro de investigación de {fc(ff635b)criptoglobina}.
+250	45d606ac	Mi madre investigaba allí la transfusión de {fc(ff635b)criptoglobina} al cuerpo humano.
+260	ede5c270	Pero no avanzaba mucho... Hiciera lo que hiciera, sus experimentos siempre terminaban con los sujetos sufriendo síntomas de rechazo.
+270	fb0e4c7f	O sea que el hecho de que ahora tengas síntomas de rechazo...
+280	bb37ed12	Sí. Fui parte de esos experimentos de transfusión. Me transfundieron {fc(ff635b)criptoglobina} en el cuerpo.
+290	1e604867	¿Y que te rechace es por lo que estás enferma ahora...?
+300	464e743f	Sí. Ya los experimenté muchas veces antes, durante los experimentos. Por eso pude reconocer los síntomas por lo que eran...
+310	0c0bde68	¿De qué hablas?
+320	284a47ce	Bueno... Cada vez que usaba los poderes de la {fc(ff635b)criptoglobina} que me transfundieron, estos síntomas de rechazo aparecían poco después...
+330	a4d7becf	He intentado abstenerme de usar hemoánima lo más posible aquí.
+340	50e283a4	Pero como tenía que usar un poco cada vez que peleábamos contra los invasores, aparecieron de todos modos...
+350	d2716a8c	Pero a todos nos transfundieron esa sangre, ¿no? En el Hospital General Kamukura.
+360	40674481	En ese caso, ¿no experimentaremos nosotros también síntomas de rechazo con el tiempo?
+370	70ecb62b	No lo sé. Hasta donde sé, soy la única con la que experimentó mi mamá.
+380	7d163394	Entonces, ¿y nosotros...?
+390	33fafcd6	Creo que algún investigador distinto de mi madre fue responsable de sus transfusiones de criptoglobina.
+400	2679542e	O ese experimento tuvo éxito... o todos ustedes eran {fc(ff635b)personas verdaderamente especiales} desde el principio.
+410	9b6af18d	Creo que debe de ser una de esas dos opciones. Por eso todos pueden usar libremente su {fc(ff635b)criptoglobina}.
+420	6781ebcf	{fc(57e4f1)Pero para empezar no tengo ningún recuerdo de haber sido sometido a experimentos...}
+430	0ddf7b7d	Bueno, por ahora... No nos preocupemos del resto de nosotros.
+440	fedeca79	¿Qué hacemos con tus síntomas de rechazo? ¿Cómo los suprimiste antes?
+450	eea0a047	Mi mamá me administraba medicación para neutralizarlos, pero claro, aquí no tenemos nada de eso...
+460	fe70e805	Ni siquiera sé qué tipo de medicación era. Aunque quizás aún haya una cosa que podamos probar.
+470	eb46538a	¿Qué es? ¿Qué hacemos?
+480	2641d5a0	La {fc(ff635b)criptoglobina} tiene otra característica extraña. Es caníbal...
+490	5f159401	La {fc(ff635b)criptoglobina} puede ganar poder absorbiendo otra {fc(ff635b)criptoglobina}.
+500	1424a932	¿Como lo que hacíamos con los comandantes?
+510	50cccfa2	¡¿Entonces el poder que ellos usan también es {fc(ff635b)criptoglobina}?!
+520	142bbd14	¡¿Por qué tendrían el mismo poder que nosotros?!
+530	c11bc169	No lo sé... Nunca oí nada sobre los invasores de mi mamá.
 540	f4a72a8b	
-550	90253b75	{fc(57e4f1)¿Qué está pasando...? ¿Por qué nosotros y los comandantes tenemos el mismo poder...?}
-560	739486e0	{fc(ff635b)"Criptoglobina"}{fc(57e4f1)... ¿Qué es eso, en realidad?}
-570	9b972337	...No, por ahora lo importante es tu reacción de rechazo. ¿Y qué pasa con eso del canibalismo?
-580	ee39d29d	En los experimentos, cuando buscábamos una forma de frenar la reacción de rechazo, probamos algo parecido al canibalismo...
-590	e5e287cc	Me trasplantaron más criptoglobina. Y entonces... esa vez la reacción de rechazo se calmó.
-600	024b64ea	¿O sea que... absorbiendo {fc(ff635b)"criptoglobina"} se puede frenar la reacción de rechazo?
-610	6cba58df	...No es seguro. Solo lo probamos esa vez.
-620	e5111bda	Sinceramente, no sé qué va a pasar... Hasta podría empeorar la reacción de rechazo, pero...
-630	30adad7e	si me quedo quieta, solo voy a empeorar, así que creo que ahora no queda otra que apostar por eso.
-640	04a6873a	Además, no soporto quedarme quieta. Que todos estén peleando y yo sea la única que descansa...
-650	10a71432	Así no sé para qué vine aquí. Yo... quiero pelear por la humanidad, cueste lo que cueste.
-660	5e5b600e	Tengo que pelear. Para eso... vine aquí.
+550	90253b75	{fc(57e4f1)¿Qué está pasando aquí? ¿Por qué los comandantes tienen el mismo poder que nosotros?}
+560	739486e0	{fc(57e4f1)¿Qué es exactamente la }{fc(ff635b)criptoglobina}{fc(57e4f1)?}
+570	9b972337	En fin, tenemos que ocuparnos de tus síntomas de rechazo. ¿Cómo funciona ese canibalismo?
+580	ee39d29d	En los experimentos, buscábamos una forma de reducir los síntomas de rechazo, así que intentamos que la sangre se consumiera a sí misma...
+590	e5e287cc	Mi mamá me transfundió criptoglobina adicional. Y entonces los síntomas de rechazo cesaron.
+600	024b64ea	¿O sea que absorbiendo {fc(ff635b)criptoglobina} podemos mitigar el rechazo?
+610	6cba58df	No es seguro. Solo lo probamos una vez.
+620	e5111bda	Sinceramente no sé qué pasará. Es posible que el rechazo incluso empeore, pero...
+630	30adad7e	Quedarme sin hacer nada seguramente lo empeorará. Creo que tenemos que apostar por esto.
+640	04a6873a	Además, no soporto quedarme atrapada aquí. Que todos peleen y yo sea la única que descansa...
+650	10a71432	Ni siquiera sé para qué vine aquí. Quiero hacer todo lo posible por luchar por la humanidad.
+660	5e5b600e	Tengo que pelear. Esa... Esa es toda la razón por la que vine aquí.
 670	f4a72a8b	
-680	46c4f88f	{fc(57e4f1)...Por más que se lo diga, no me va a hacer caso. Siento una determinación así de fuerte.}
-690	ccdc27a0	{fc(57e4f1)Ya me había dicho que vino aquí por voluntad propia, y eso también debe tener que ver con esta determinación tan fuerte.}
-700	572e4962	{fc(57e4f1)Seguro que también... el hecho de que su madre la usara para sus experimentos.}
-710	e5f62bc4	Así que, Takumi... ¿me ayudarías a que mi {fc(ff635b)"criptoglobina"} absorba más?
-720	1227d2b6	Creo que, para poder pelear aquí, ya no me queda otra que apostar por eso.
-730	73428e9f	Y concretamente... ¿qué tengo que hacer? ¿Darte mi criptoglobina?
-740	f017e807	No. Creo que eso no sirve. No sé qué podría pasarte a ti.
-750	51e21374	Todos los comandantes a los que les absorbieron la {fc(ff635b)"criptoglobina"} terminaron como momias negras...
-760	e43c88e4	Entonces no queda otra que absorber la criptoglobina de un comandante...
-770	446c502f	Por eso, la próxima vez que nos ataque el enemigo, quiero que me dejes intentar absorber la criptoglobina.
-780	738c0189	Si es que mi cuerpo aguanta hasta entonces...
-790	51ecd799	No... si es así, puede que haya una forma de arreglarlo sin esperar el próximo ataque...
-800	71a1a8ae	...¿Eh? ¿Cómo?
-810	31edac5b	{fc(57e4f1)Y a Nozomi, que me miraba sorprendida, le conté lo de la base de los invasores que encontramos ayer...}
-820	e48c4613	¿Una base... de los invasores? ¿Ima y la prisionera están ahí?
-830	845604c1	Una base de ese tamaño seguro que tiene un comandante...
-840	9a05dae4	¡Entonces yo también voy! ¡Voy aunque no pueda absorber la {fc(ff635b)"criptoglobina"}!
-850	357cf6bb	¡Si podemos salvar a Ima, yo también voy a pelear con ustedes!
-860	76d5e965	No, pelear en ese estado ya es demasiado...
-870	ca172be7	Estoy bien. Ahora me siento tranquila. ¿Cuándo salen?
-880	9119c8b4	¿Eh? Salimos... al mediodía, pero...
-890	54f4ed29	Entendido. Me voy a preparar rápido.
-900	e1c1165f	{fc(57e4f1)Otra vez... parece que no me va a hacer caso. Pero, si necesita absorber criptoglobina, quizás sea lo mejor.}
-910	291bbea6	...Está bien. Entonces ven al estacionamiento al mediodía.
-920	a153c3cd	...Sí. Gracias. Otra vez... me ayudaste, Takumi.
-930	9738b527	...Si me vas a agradecer, que sea cuando te mejores, ¿no? Siempre agradeces demasiado pronto.
-940	722275fe	Jaja... es verdad. Entonces te lo agradezco como se debe en ese momento.
-950	610d06a9	Sí... eso.
-960	c167fdbe	{fc(57e4f1)Al salir de la habitación de Nozomi, decidí volver un rato a la mía.}
+680	46c4f88f	{fc(57e4f1)Por más que intente convencerla de lo contrario, no creo que me escuche. Su determinación es así de fuerte.}
+690	ccdc27a0	{fc(57e4f1)Me dijo antes que vino aquí por voluntad propia. Esa elección debe de estar alimentada por esta poderosa determinación.}
+700	572e4962	{fc(57e4f1)Y por haber sido experimento de su madre.}
+710	e5f62bc4	Así que, Takumi... ¿Me ayudarás a que mi {fc(ff635b)criptoglobina} absorba más?
+720	1227d2b6	Creo que es nuestra única esperanza de que pueda seguir peleando aquí.
+730	73428e9f	¿Qué tengo que hacer, exactamente? ¿Debo darte mi criptoglobina?
+740	f017e807	No, no creo que eso funcione. Y no sé qué te pasaría a ti.
+750	51e21374	Todos los comandantes cuya {fc(ff635b)criptoglobina} fue absorbida terminaron como momias ennegrecidas...
+760	e43c88e4	Entonces supongo que tenemos que lograr que absorbas la criptoglobina de un comandante.
+770	446c502f	Sí. La próxima vez que haya un ataque enemigo, quiero que me dejes dar el golpe final.
+780	738c0189	Si mi cuerpo aguanta hasta entonces, claro...
+790	51ecd799	No... Existe la posibilidad de que podamos hacer algo sin esperar al próximo ataque.
+800	71a1a8ae	¿Mm? ¿A qué te refieres?
+810	31edac5b	{fc(57e4f1)El rostro de Nozomi mostró sorpresa mientras le contaba todo sobre la base de los invasores que descubrimos ayer...}
+820	e48c4613	¿Una base de invasores...? ¿Y Ima y la prisionera están allí?
+830	845604c1	Con una base de ese tamaño, seguro hay un comandante, ¿no?
+840	9a05dae4	¡Entonces yo también voy! ¡Aunque no pueda absorber {fc(ff635b)criptoglobina}, tengo que intentarlo!
+850	357cf6bb	¡Si significa salvar a Ima, pelearé con ustedes!
+860	76d5e965	¿Qué? No puedes pelear en tu estado...
+870	ca172be7	Estoy bien. Mis síntomas han remitido un poco. ¿Cuándo salimos?
+880	9119c8b4	¿Eh? Bueno, esta tarde, pero...
+890	54f4ed29	Entendido. Me apuraré a prepararme.
+900	e1c1165f	{fc(57e4f1)Una vez más, está claro que nada de lo que diga la detendrá. Pero si necesita absorber criptoglobina, quizás sea lo mejor.}
+910	291bbea6	De acuerdo. Entonces ven al Estacionamiento por la tarde.
+920	a153c3cd	Gracias. Me ayudaste otra vez, Takumi.
+930	9738b527	No me des las gracias hasta que te recuperes, ¿de acuerdo? Siempre agradeces demasiado pronto.
+940	722275fe	Jaja, supongo que sí. Entonces volveré a agradecerte cuando llegue ese momento.
+950	610d06a9	Me parece bien.
+960	c167fdbe	{fc(57e4f1)Dejé a Nozomi por el momento y volví a mi cuarto.}

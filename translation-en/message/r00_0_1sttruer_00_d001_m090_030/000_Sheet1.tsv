@@ -1,30 +1,30 @@
 id	huella_jp	es
-10	1610f168	¿L-Los... derrotamos...?
-20	166c8acb	Je, je... ¿Eso era todo? No eran para tanto. Para qué me asusté.
-30	b2962ae3	Vaya, ¿estabas asustado...? Para lo grande que te ves, eres muy poca cosa.
-40	71585e8e	¡¿A quién le dices poca cosa?! ¡Te voy a hacer llorar, eh!
-50	1d00084f	Qué bien lo hicieron todos. Nadie diría que es su primera vez.
-60	202eb288	¿Hm? Si ya lo hicimos en el Complejo Residencial de Tokio.
-70	a952a3bd	Ah... es cierto...
-80	da3c7bab	Oye, ¿qué son en realidad esos monstruos? Ya va siendo hora de que nos digas.
-90	4bd7e941	Esos... son unos {fc(ff635b)"enemigos de la humanidad"} malvados y feroces, y punto.
-100	381586f4	Eso es demasiado vago... Explícate mejor.
-110	5464071b	¿Enemigos de otro mundo? ¿O no, una invasión del espacio? O criaturas mágicas... o todo eso junto...
-120	66e184ba	¿Un ejército de robots monstruos mágicos de una organización criminal espacial, dirigida por un gran rey demonio de otro mundo que quiere exterminar a la humanidad...?
-130	dad73d5d	Eso tiene demasiadas cosas...
-140	3ba64c9a	Todavía no sabemos bien qué son en realidad. Lo único que sabemos es que atacan esta academia...
-150	c9d25e0d	así que yo decidí llamarlos {fc(ff635b)"invasores"}.
-160	364079df	Invasores...
-170	c1a0114b	Esta academia está rodeada por las {fc(ff635b)"Llamas Eternas"}, así que normalmente los invasores no pueden acercarse, pero...
-180	9ae431c6	de alguna forma, a veces algunos logran cruzarlas. Barrer a esos es el trabajo de la Unidad de Defensa Especial.
-190	b1507392	¿Por qué esos atacan esta academia?
-200	f2d32732	Los invasores buscan {fc(ff635b)"cierta cosa"} que hay en esta academia.
-210	50f6a150	Si los invasores llegaran a quitárnosla, a la humanidad no le quedaría otra que extinguirse.
-220	d4c45db5	...¿Qué? ¿La humanidad? ¿Extinguirse?
-230	494963f1	¡¿Entonces esta es una batalla para proteger a la humanidad?! ¡Eso es increíble!
-240	d1052324	N-No... ¿no se está haciendo todo demasiado grande? ¿Qué tiene que ver esta escuela con la humanidad...?
-250	d96fc0cf	Ya no quiero explicaciones difíciles... Total, Darumi es tonta y no entiende nada...
-260	8990d46c	...¡¿Eh?! ¡¡Esperen!!
+10	1610f168	¿L-Ganamos...?
+20	166c8acb	¡Ja! ¿Eso fue todo? ¡Esperaba un desafío mayor! Me siento tonto por haberles tenido miedo.
+30	b2962ae3	¿En serio les tenías miedo? Con toda tu fanfarronería, eres tan cobarde como los demás.
+40	71585e8e	¡Oye, yo no soy ningún cobarde! ¡Te enfrento cuando quieras!
+50	1d00084f	¡Buen trabajo, tropas! Nadie diría que esta fue su primera batalla de verdad.
+60	202eb288	Pero no lo fue. Ya peleamos contra ellos una vez, allá en el complejo.
+70	a952a3bd	Ah, cierto. Por supuesto que sí.
+80	da3c7bab	¿Qué son esos monstruos, de todas formas? ¿No ya va siendo hora de que sueltes la sopa?
+90	4bd7e941	Son una raza violenta y perniciosa: el {fc(ff635b)enemigo de toda la humanidad}.
+100	381586f4	Eso es... ominoso. ¿Puedes ser un poco más específico?
+110	5464071b	¿Son como demonios de otra dimensión? ¿Alienígenas viajeros del tiempo? ¿Armas biológicas experimentales que salieron mal? Ooh, ¿y si son... todo lo anterior?
+120	66e184ba	¡Los crearon como armas vivientes pero escaparon a otra dimensión, donde una empresa militar privada controlada por entidades demoníacas los envió al pasado para destruir el futuro!
+130	dad73d5d	Esa teoría es demasiado recargada...
+140	3ba64c9a	A decir verdad, todavía no hemos podido determinar su verdadera naturaleza. Solo sabemos que están decididos a entrar en esta escuela.
+150	c9d25e0d	Por eso he decidido designarlos, por ahora, como {fc(ff635b)"invasores de la escuela"}.
+160	364079df	¿Invasores, eh...?
+170	c1a0114b	Por suerte para nosotros, las {fc(ff635b)Llamas Eternas} les impiden acercarse demasiado... La mayor parte del tiempo, al menos.
+180	9ae431c6	Pero de vez en cuando, algunos extrafuertes logran pasar. Su Unidad de Defensa Especial existe para lidiar con esos ataques cuando ocurren.
+190	b1507392	¿Pero por qué atacan la escuela en primer lugar?
+200	f2d32732	Van tras {fc(ff635b)cierta cosa especial} escondida en lo más profundo de la escuela.
+210	50f6a150	Si eso cae en manos de los invasores, la humanidad estará prácticamente extinta.
+220	d4c45db5	¿E-Extinta? ¿Como, nuestra especie entera...?
+230	494963f1	¿Entonces estamos peleando de verdad para salvar a la humanidad? ¡Amigo, eso está buenísimo!
+240	d1052324	Pero la escala no tiene sentido... Me cuesta ver cómo esta escuela y el futuro de la humanidad pueden estar conectados.
+250	d96fc0cf	Yo tampoco lo entiendo... Aunque soy una estudiante de puras reprobadas, así que hay muchas cosas que no entiendo.
+260	8990d46c	¿Mm? ¡Todos, dejen de hablar!
 270	6b13f9bd	¿Qué pasa?
-280	a51d91f6	¡Hay algo en el radar! ¡Se detectó otra vez al enemigo!
-290	29596084	¡Está muy cerca! ¡Ahí viene! ¡Y además... es grande!
+280	a51d91f6	¡Mi radar se ilumina como un espectáculo de fuegos artificiales! Todavía no estamos fuera de peligro.
+290	29596084	Tenemos otro enemigo que se acerca rápido. ¡Y es uno grande!

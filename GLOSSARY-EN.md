@@ -31,3 +31,8 @@ salvo lo que dice este archivo. Meta: que el subtítulo diga lo mismo que la voz
 ## Juegos de palabras y frases delicadas
 
 Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre delicadas y normales en cuanto a la base.
+
+## Tratamientos propios de la versión inglesa
+
+- Darumi a Hiruko: *Mistress* → **Ama Hiruko** (en la versión japonesa es *Reina Hiruko*).
+- Darumi habla de sí misma en primera persona (el inglés dice *I*), no en tercera.

@@ -1,35 +1,35 @@
 id	huella_jp	es
-10	d915ff13	{fc(57e4f1)Algo increíble... ¿Será esto? ¿Para qué sirve esto...?}
-20	8f83341d	Eso... parece que se llama {fc(ff635b)"extintor"}.
-30	d59ea17b	...¿Extintor?
-40	580033b1	El extintor es una máquina para salir de {fc(ff635b)"exploración"}.
-50	da094278	¡¿Tú otra vez...?!
-60	2c4b6185	...Explícale a Takumi lo que me explicaste hace un rato.
-70	259db8fb	¡Claro! ¡Con todo gusto!
-80	be056c85	Miren, si quieren cruzar el muro de las Llamas Eternas y salir de {fc(ff635b)"exploración"}...
-90	f66a8e4a	usen ese extintor.
-100	b7a82a8b	Usa la hemoánima de ustedes para apagar por un rato las {fc(ff635b)"Llamas Eternas"}.
-110	602a49e1	¡¿Eh?! ¡Espera un momento! ¿Apagar las {fc(ff635b)"Llamas Eternas"}...?
-120	a0d74509	Entonces, ¡¿si usamos ese extintor podemos cruzar el muro de fuego y escapar?!
-130	ccd157cb	...Eso mismo dijo Eito, todo emocionado, pero al otro lado del muro de fuego solo hay unas {fc(ff635b)"ruinas inmensas"}, ¿eh?
-140	afa9ae7c	¿Ruinas... inmensas?
-150	593ad6bf	Hay materiales y cosas que pueden servir tirados por ahí, pero solo se extiende una ciudad en ruinas, desierta y devastada...
-160	424baac2	¿Y además está llena de invasores por todas partes, eh?
-170	b9c7bff0	¿También... hay invasores?
-180	c0cfe1e7	Claro. Los invasores vienen del otro lado del muro de fuego.
-190	14fce7d1	Además, fuera del muro de fuego, si mueren no pueden revivir. Es mucho más peligroso que dentro de esta academia, ¿no?
+10	d915ff13	{fc(57e4f1)¿Qué tienen de interesante estas? ¿Para qué sirven siquiera?}
+20	8f83341d	Parece que son un modelo especial de {fc(ff635b)extintores}.
+30	d59ea17b	¿Extintores...?
+40	580033b1	¡Así es! Los puse aquí para que los usen para ir de {fc(ff635b)exploración}.
+50	da094278	¡Tú otra vez...!
+60	2c4b6185	¿Te importaría contarle a Takumi lo que me contaste a mí?
+70	259db8fb	¡Dicho y hecho!
+80	be056c85	Durante su estadía aquí, puede que haya veces en que quieran salir de los terrenos de la escuela y {fc(ff635b)explorar} los alrededores.
+90	f66a8e4a	Ahí es donde entran estos extintores.
+100	b7a82a8b	Con una pequeña ayuda de su hemoánima, pueden usarlos para abrir temporalmente un hueco en el {fc(ff635b)muro} y abrirse paso.
+110	602a49e1	¡Epa, epa, espera un momento! ¿Dices que de verdad podemos apagar las {fc(ff635b)Llamas Eternas}?
+120	a0d74509	¡¿Nada nos impide usarlos y largarnos de aquí?!
+130	ccd157cb	Sí, tu amigo Aotsuki tuvo la misma idea, pero allá afuera {fc(ff635b)solo hay ruinas}.
+140	afa9ae7c	¿Solo ruinas...?
+150	593ad6bf	Podrían encontrar fragmentos útiles entre los escombros, o incluso objetos que aún pueden usar en los pueblos antiguos.
+160	424baac2	Eso, si los invasores no los atrapan primero.
+170	b9c7bff0	¿Hay invasores allá afuera?
+180	c0cfe1e7	¡Oh, claro, el lugar está plagado! El Muro de Fuego está para mantenerlos fuera, ¿recuerdan?
+190	14fce7d1	Además, no pueden revivir si mueren fuera de los terrenos de la escuela. Es un asunto peligroso salir por la puerta hacia lo desconocido.
 200	f4a72a8b	
-210	a84f1b82	Y encima, este lugar está muy lejos del Complejo Residencial de Tokio, así que volver a pie es imposible.
-220	dbf733bc	{fc(57e4f1)Muy... lejos...}
-230	c5108381	Así que no piensen tonterías como escapar, y protejan esta academia durante 100 días.
-240	30dd538d	Así protegen a la humanidad y pueden volver a su vida pacífica...
-250	2ba52777	¡¿Ven?! ¡Un final feliz para todos! ¡Juafafafaj!
-260	b5c1eac2	{fc(57e4f1)Ruinas inmensas...}
-270	f56616e0	...Ya hay esperanza. Si podemos cruzar el muro de fuego, quizá podamos volver al Complejo Residencial de Tokio.
-280	0ad56910	¿Eh? No, ¿no oíste? Dijo que este lugar está muy lejos del Complejo Residencial de Tokio.
-290	70e1ade5	No puedo creer nada de lo que dice ese. Es más, ¿no es sospechoso que insista tanto?
-300	dd7f9d6a	Seguro que hay una forma de volver al Complejo Residencial de Tokio. Ese la está ocultando.
-310	d5a886b6	Entonces, en vez de luchar porque él lo dice, creo que es mejor buscar esa forma...
-320	801ff649	Eso de que el destino de la humanidad depende de nosotros... seguro que es mentira. No me voy a rendir. No voy a perder la esperanza.
-330	357f47d7	{fc(57e4f1)Así que él está decidido a no obedecer a SIREI.}
-340	4777da4a	{fc(57e4f1)Pero no puedo decir que esté equivocado... Qué difícil...}
+210	a84f1b82	Y estamos muuuy, muy lejos del Complejo Residencial de Tokio aquí. Nunca lo lograrían a pie, así que ni lo piensen.
+220	dbf733bc	{fc(57e4f1)Adiós a esa idea...}
+230	c5108381	Idear planes de escape solo los llevará a la desesperación. Seguro que pueden darle un uso mucho más productivo a su tiempo.
+240	30dd538d	¡Como concentrarse en proteger la escuela, y por extensión a la humanidad, durante los próximos 99 días, y asegurar un futuro pacífico y armonioso!
+250	2ba52777	Todos quieren que esta historia tenga un final feliz, ¿verdad? ¡Juafafafaj!
+260	b5c1eac2	{fc(57e4f1)Así que más allá del muro solo hay ruinas...}
+270	f56616e0	Al menos ahora tenemos esperanza. Si hay una forma de pasar las llamas, hay una forma de que volvamos a casa.
+280	0ad56910	¿Eh? ¿No estabas escuchando? SIREI dijo que estamos demasiado lejos del complejo para llegar por nuestra cuenta.
+290	70e1ade5	No pondría mucha fe en nada de lo que dice. De hecho, ¿no es un poco sospechoso que se esforzara tanto en hacérnoslo saber?
+300	dd7f9d6a	Debe de haber ALGUNA forma de volver al complejo. Él nos la está ocultando.
+310	d5a886b6	Personalmente, creo que la verdad es exactamente lo contrario de lo que dijo: el mejor uso de nuestro tiempo no es seguir sus órdenes, sino encontrar la forma de volver a casa.
+320	801ff649	Me niego a creer que el futuro de la humanidad pueda depender de nosotros. Saldremos de esta de algún modo. Esa es la idea en la que pongo mi fe.
+330	357f47d7	{fc(57e4f1)Parece que Eito está decidido a desafiar a SIREI hasta el final.}
+340	4777da4a	{fc(57e4f1)Para ser sincero, no puedo asegurar que esté tomando la decisión equivocada. Eso es lo que hace esto tan difícil.}

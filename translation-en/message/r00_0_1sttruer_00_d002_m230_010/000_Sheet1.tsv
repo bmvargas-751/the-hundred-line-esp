@@ -1,15 +1,15 @@
 id	huella_jp	es
-10	cfc4fa47	{fc(57e4f1)Me levanté de la cama y caminé hacia la puerta.}
-20	8442f535	{fc(57e4f1)En el camino... de pronto vi el espejo.}
+10	cfc4fa47	{fc(57e4f1)Me levanté de la cama y me dirigí lentamente hacia la puerta.}
+20	8442f535	{fc(57e4f1)Por el camino, me topé con mi reflejo en el espejo.}
 30	f4a72a8b	
 40	a42037d2	{fc(57e4f1)Soy yo...}
-50	83cade6c	{fc(57e4f1)Se mire por donde se mire... soy yo, ¿no?}
-60	8c7dc780	{fc(57e4f1)Es la cara de siempre, la que conozco... Pero ¿por qué será...? Siento algo raro.}
-70	8ec55892	{fc(57e4f1)Como si yo no fuera yo... Nunca había sentido algo así.}
-80	053f3b33	{fc(57e4f1)¿Esto también... será efecto de la} {fc(ff635b)"hemoánima"}{fc(57e4f1)?}
-90	6e164c82	¿Tú... quién eres?
-100	12b2518c	Eres... Takumi Sumino, ¿no?
+50	83cade6c	{fc(57e4f1)A pesar de todo, sigo siendo yo... ¿no?}
+60	8c7dc780	{fc(57e4f1)Es la misma cara que veo en el espejo cada mañana... Pero de algún modo, algo en ella parece raro.}
+70	8ec55892	{fc(57e4f1)No sé cómo describirlo... Es como si este reflejo ya no "se sintiera" como yo.}
+80	053f3b33	{fc(57e4f1)¿Será un efecto secundario de usar }{fc(ff635b)hemoánima}{fc(57e4f1)...?}
+90	6e164c82	¿Quién eres?
+100	12b2518c	Eres... Yo soy... Takumi Sumino... ¿No?
 110	88902fda	
-120	ac516389	Qué tontería... ¿Qué estoy haciendo?
-130	01576ebe	{fc(57e4f1)Ahí por fin volví en mí, abrí la puerta y salí.}
-140	81cb50e0	{fc(57e4f1)Y en ese momento...}
+120	ac516389	¿Qué estoy haciendo? Esto es una tontería.
+130	01576ebe	{fc(57e4f1)Al recobrar la razón, me aparté del espejo y salí por la puerta.}
+140	81cb50e0	{fc(57e4f1)En cuanto salí...}

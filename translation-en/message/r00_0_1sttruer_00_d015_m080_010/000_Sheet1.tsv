@@ -1,20 +1,20 @@
 id	huella_jp	es
-10	e90d2aee	{fc(57e4f1)Esta es la habitación de Kako. Voy a tocar el intercomunicador...}
-30	e8765b66	{fc(57e4f1)Al rato, la puerta se abrió con miedo desde adentro...}
-40	a0ec531d	¿E-Eh...? ¿No eres... mi hermano?
-50	5b98b67d	Ah, perdón por asustarte. Solo quería confirmar una cosa...
-60	3627d4ef	¿Sigues sin ganas de luchar? No es para asustarte, pero te pueden echar, ¿eh?
-70	e9eb3fba	Mi hermano dice que no pasa nada... Así que no hace falta que luche.
-80	a3aec6ad	Que tampoco hace falta... que me case.
-90	2607f14f	{fc(57e4f1)Lo de casarse... dejémoslo de lado...}
-100	0cd1adb0	¿Y tú qué piensas? Tú, no tu hermano.
-110	74511217	¿Lo que pienso... yo?
+10	e90d2aee	{fc(57e4f1)Esta es la habitación de Kako. Quizás hoy esté más dispuesta a escucharme...}
+30	e8765b66	Toqué el timbre y esperé. Al cabo de un rato, una mano temblorosa y vacilante abrió la puerta.
+40	a0ec531d	Queridísimo hermano, yo... Ah, eres tú, Takumi.
+50	5b98b67d	Perdón si te sorprendí. Solo quería preguntarte algo.
+60	3627d4ef	¿Has tomado tu decisión sobre lo que dirás mañana? Si no aceptas pelear como el resto de nosotros, tendrás que irte.
+70	e9eb3fba	Lo sé, pero... Mi querido hermano dijo que tenía un plan. Dijo que no hace falta que yo pelee...
+80	a3aec6ad	Igual que dijo que nunca hace falta que me case ni que me vaya de casa...
+90	2607f14f	{fc(57e4f1)Siento que esa es una discusión para otro día...}
+100	0cd1adb0	Bueno, pero dejemos de lado a Ima y su plan por ahora. ¿Qué quieres hacer TÚ?
+110	74511217	¿Yo...?
 120	f4a72a8b	
 130	f4a72a8b	
-140	8006a0a4	¿T-Tanto lo tienes que pensar...?
-150	f16e70ca	No... sé muy bien. Hasta ahora todo... lo decidía mi hermano.
-160	3fc4d715	Esta vez también... Yo no tengo otra que hacerle caso a mi hermano.
-170	9a79bdba	...Ya veo, está bien.
-180	86bd2e82	Chau...
-190	b7ab6074	{fc(57e4f1)Kako hizo una pequeña reverencia y cerró la puerta despacio desde adentro.}
-200	28d54cc8	Bueno, claro... Una chica así no puede luchar...
+140	8006a0a4	¿Tan difícil era la pregunta?
+150	f16e70ca	Yo... no sé realmente. Mi querido hermano suele encargarse de todas las decisiones importantes...
+160	3fc4d715	Ahora no es distinto... No tengo más remedio que hacer lo que él diga.
+170	9a79bdba	Muy bien... Supongo que eso es todo, entonces.
+180	86bd2e82	Eh, gracias por venir...
+190	b7ab6074	{fc(57e4f1)Kako hizo una reverencia insegura y cerró la puerta, cuidando de no cruzar miradas en ningún momento.}
+200	28d54cc8	Es más o menos lo que esperaba... No imagino que una chica tímida así salga alguna vez al campo de batalla.

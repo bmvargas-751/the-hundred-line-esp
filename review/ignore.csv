@@ -481,3 +481,44 @@ largo,message/g_chr005eito_04_02/000_Sheet1#20,línea larga en el original
 largo,message/g_chr012kura_01/000_Sheet1#20,línea larga en el original
 vosotros,message/field_common_message/000_Sheet1#201080014,línea larga en el original
 peninsular,message/field_common_message/000_Sheet1#201030106,marcapáginas es válido
+peninsular,message/r00_0_1sttruer_00_d000_m030_040/000_Sheet1#340,"más vale" / "vale la pena": locución correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d002_m040_010/000_Sheet1#130,"más vale" / "vale la pena": locución correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d002_m210_010/000_Sheet1#140,"más vale" / "vale la pena": locución correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d002_m210_010/000_Sheet1#280,"más vale" / "vale la pena": locución correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d008_m020_010/000_Sheet1#100,"más vale" / "vale la pena": locución correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d011_m090_010/000_Sheet1#610,"más me vale" / "vale la pena": locución correcta
+peninsular,message/r00_0_1sttruer_00_d011_m130_010/000_Sheet1#300,"más me vale" / "vale la pena": locución correcta
+peninsular,message/r00_0_1sttruer_00_d015_m120_030/000_Sheet1#230,"vale la pena": locución correcta
+peninsular,message/r00_0_1sttruer_00_d015_m040_010/000_Sheet1#260,"vale la pena" / "más vale": locución correcta
+peninsular,message/r00_0_1sttruer_00_d015_m040_010/000_Sheet1#380,"vale la pena" / "más vale": locución correcta
+peninsular,message/r00_0_1sttruer_00_d015_m060_010/000_Sheet1#140,"vale la pena" / "más vale": locución correcta
+peninsular,message/r00_0_1sttruer_00_d028_m080_010/000_Sheet1#360,falso positivo: palabra correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d028_m120_010/000_Sheet1#70,falso positivo: palabra correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d028_m190_020/000_Sheet1#50,falso positivo: palabra correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d029_m050_010/000_Sheet1#40,falso positivo: palabra correcta en español neutro
+vosotros,message/r00_0_1sttruer_00_d028_m140_040/000_Sheet1#30,falso positivo: palabra correcta en español neutro
+vosotros,message/r00_0_1sttruer_00_d029_m040_040/000_Sheet1#80,falso positivo: palabra correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d030_m050_070/000_Sheet1#40,más vale
+peninsular,message/r00_0_1sttruer_00_d031_m030_010/000_Sheet1#10,más vale
+peninsular,message/r00_0_1sttruer_00_d031_m030_020/000_Sheet1#10,verbo venir, no imperativo peninsular
+peninsular,message/r00_0_1sttruer_00_d032_m070_010/000_Sheet1#380,más vale
+peninsular,message/r00_0_1sttruer_00_d036_m040_070/000_Sheet1#10,más vale
+peninsular,message/r00_0_1sttruer_00_d042_m010_010/000_Sheet1#50,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d045_m060_010/000_Sheet1#30,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d046_m060_010/000_Sheet1#1100,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d047_m030_010/000_Sheet1#130,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d052_m050_010/000_Sheet1#90,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d055_m060_010/000_Sheet1#90,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d055_m160_010/000_Sheet1#360,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d055_m160_010/000_Sheet1#490,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d057_m030_010/000_Sheet1#70,falso positivo: expresión correcta en español neutro
+peninsular,message/r00_0_1sttruer_00_d061_m030_010/000_Sheet1#100,más le vale
+peninsular,message/r00_0_1sttruer_00_d075_m040_010/000_Sheet1#10,falso positivo: más vale
+peninsular,message/r00_0_1sttruer_00_d078_m030_010/000_Sheet1#430,falso positivo: más vale
+peninsular,message/r00_0_1sttruer_00_d079_m170_010/000_Sheet1#680,falso positivo: más vale
+glosario,message/r00_0_1sttruer_00_d087_m190_010/000_Sheet1#190,en: Mistress → Ama Hiruko
+glosario,message/r00_0_1sttruer_00_d087_m200_020/000_Sheet1#10,en: Mistress → Ama Hiruko
+peninsular,message/r00_0_1sttruer_00_d082_m060_010/000_Sheet1#30,falso positivo: más vale
+peninsular,message/r00_0_1sttruer_00_d083_m040_030/000_Sheet1#10,falso positivo: más vale
+peninsular,message/r00_0_1sttruer_00_d084_m040_010/000_Sheet1#40,falso positivo: más vale
+peninsular,message/r00_0_1sttruer_00_d086_m020_030/000_Sheet1#60,falso positivo: más vale

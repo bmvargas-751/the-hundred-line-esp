@@ -1,22 +1,22 @@
 id	huella_jp	es
-10	29b990e9	{fc(57e4f1)Ah, esto es...}
-20	404541a6	{fc(57e4f1)El ataúd volador de aquella vez... El dron recolector de cadáveres, ¿no?}
-30	daf5ae42	"Cuando un miembro de la Unidad de Defensa Especial muere en combate, el dron recolector de cadáveres recupera el cadáver de forma totalmente automática"...
-40	b1a48617	...eso dice el manual que estaba aquí.
-50	8b6972f6	¿Totalmente... automática?
-60	cb1523e2	Sí. Cuando el sistema de defensa encuentra nuestros cadáveres... qué feo suena, pero bueno, en cuanto los encuentra...
-70	608fc071	un dron sale volando solo desde aquí, recoge el cadáver y vuelve.
-80	a019dddc	...¿Y después de volver?
-90	39e14536	Esa máquina grande de allá parece que se llama {fc(ff635b)"Revive-O-Matic"}...
-100	7b5865eb	Tiene registrados de antemano los datos de ADN de todos los miembros de la Unidad de Defensa Especial.
-110	090bbcbb	Y cuando metes ahí el cadáver que recogió el dron, empieza a comparar los datos de ADN...
-120	d1a9b8e7	Si coinciden, empieza enseguida el proceso de reanimación, y a los pocos minutos revives... eso dice.
-130	30ed5d49	Lo de comparar los datos de ADN será para que no lo pueda usar nadie más que nosotros, como los enemigos.
-140	391b41f9	{fc(57e4f1)Cuando habla de máquinas, le cambia la cara...}
-150	5d19459d	...Aun así, ¿cómo funcionará eso de revivir a una persona?
-160	3c8c0190	Dijo que era gracias a la hemoánima, pero esto parece pura ciencia ficción...
-170	dee010ec	Bueno, en realidad, la hemoánima ya es un misterio. ¿Convertir en poder toda la sangre del cuerpo? ¿Cómo funciona eso?
-180	44d807e2	¿Eso también... lo revelarán más adelante?
-190	420559a8	Pero eso tampoco nos lo va a decir si no luchamos, ¿no? Y eso... perdón, pero de verdad no puedo.
-200	1e677b1a	Ay... ¿por qué me habrán elegido a mí...? ¿Quién nos eligió, y por qué?
-210	2615d563	{fc(57e4f1)Ese motivo tampoco se va a saber si no luchamos. Siempre volvemos al mismo punto...}
+10	29b990e9	{fc(57e4f1)Esta máquina...}
+20	404541a6	{fc(57e4f1)Es el mismo ataúd volador que rescató a Darumi del campo de batalla. SIREI lo llamó algo así como unidad de recuperación de cadáveres.}
+30	daf5ae42	"Cuando un miembro de la Unidad de Defensa Especial muere en acción, el Dron de Recuperación de Cadáveres recuperará su cuerpo de forma automática".
+40	b1a48617	Eso dice el manual, al menos.
+50	8b6972f6	Es todo completamente automático, ¿eh?
+60	cb1523e2	Parece que sí. Cuando el Sistema de Defensa de la escuela detecta que uno de nosotros ha muerto... Vaya, suena espeluznante decirlo en voz alta...
+70	608fc071	En fin, cuando eso pasa, lanza un dron que encuentra el cuerpo y lo trae de vuelta a la enfermería.
+80	a019dddc	¿Y una vez que llega aquí?
+90	39e14536	¿Ves esa máquina grande de allá? Según esto, se llama {fc(ff635b)"Revive-O-Matic"}.
+100	7b5865eb	Tiene datos de todos nosotros hasta el código genético.
+110	090bbcbb	Los coteja con esos registros para determinar quién está en la cápsula.
+120	d1a9b8e7	De ahí, usa algún proceso ultracomplicado para reconstruir el cuerpo hasta su estado original, y estamos vivos otra vez... así nada más.
+130	30ed5d49	¿Por qué tiene que verificar primero quién es la víctima, sin embargo...? ¿Quizás para que nuestros enemigos no puedan usar la máquina si cae en sus manos?
+140	391b41f9	{fc(57e4f1)Tsubasa muestra su lado serio cuando se trata de máquinas...}
+150	5d19459d	Esta sí que es tecnología asombrosa... Todavía no entiendo el mecanismo exacto que usa para devolverle la vida al cuerpo.
+160	3c8c0190	No me conformo con despacharlo con un "fue la hemoánima". Eso lo hace sonar más a magia que a tecnología real.
+170	dee010ec	Ya que estamos, la hemoánima misma es bastante sospechosa. Se supone que infunde nuestra sangre con un poder especial, ¿cierto? Pero ¿cómo lo hace, exactamente?
+180	44d807e2	Quizás algún día lo averigüemos.
+190	420559a8	No a menos que yo y los demás reacios aceptemos pelear también. Lo siento, pero no hay manera de que eso pase.
+200	1e677b1a	En serio... ¿Quién estuvo a cargo de elegir a los miembros de esta unidad? ¿Qué criterios usaron para fijarse en nosotros?
+210	2615d563	{fc(57e4f1)Algo me dice que la única forma de averiguarlo es seguir peleando... Siempre damos vueltas en círculos.}

@@ -1,12 +1,12 @@
 id	huella_jp	es
-10	f3ee706e	...¿Me lo vas a contar? Por favor, me tenía intrigado.
-20	1223f594	Sí. Por eso estamos juntando a todos en la Sala de Guerra. ¿Vienes cuando estés listo?
-30	277a733e	...De acuerdo. A la Sala de Guerra. Ya voy.
-40	500a0d78	Ah, y otra cosa...
+10	f3ee706e	¿De verdad me lo vas a contar? Qué bien, hace tiempo que me da vueltas en la cabeza.
+20	1223f594	Se lo vamos a contar a todos, juntos. Cuando estés listo, ven a reunirte con nosotros en la Sala de Guerra.
+30	277a733e	¿La Sala de Guerra? De acuerdo, voy enseguida.
+40	500a0d78	Y... una cosa más.
 50	f4a72a8b	
-60	5f2577c6	...Tienes una conocida idéntica a mí, ¿no? Algún día cuéntame de ella.
-70	4343544d	Claro, solo si tienes ganas.
-80	20aba09d	{fc(57e4f1)Dicho eso, se fue con una sonrisa.}
-90	c1e8f2f9	{fc(57e4f1)Eso también me tomó por sorpresa... y otra vez me puse nervioso.}
-100	3a49f52d	...Aunque ni yo sé todavía si es solo una {fc(ff635b)"conocida idéntica"}...
-110	e5b899ca	{fc(57e4f1)No, más importante... por ahora, tengo que ir a la Sala de Guerra.}
+60	5f2577c6	Dijiste que conocías a alguien idéntica a mí. ¿Podrías contarme un poco de ella algún día?
+70	4343544d	Si te parece bien, digo.
+80	20aba09d	{fc(57e4f1)Con una sonrisa suave, Nozomi salió del cuarto.}
+90	c1e8f2f9	{fc(57e4f1)Jamás pensé que ella daría el primer paso... Me alegra que lo hiciera, de todos modos. Yo estaba demasiado nervioso para mencionarlo.}
+100	3a49f52d	Alguien que {fc(ff635b)es idéntica a ella}. No sé si lo diría así, pero...
+110	e5b899ca	{fc(57e4f1)No, lo primero es lo primero. Debería ir a la Sala de Guerra y escuchar lo que tienen que decir.}

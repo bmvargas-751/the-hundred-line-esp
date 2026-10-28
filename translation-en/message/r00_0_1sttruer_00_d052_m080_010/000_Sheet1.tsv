@@ -1,18 +1,18 @@
 id	huella_jp	es
-10	dbdf1006	Hay un papelito tirado delante de la puerta... ¿Cuándo apareció esto?
-20	424e6864	¿No me digas que, mientras no estaba, alguien lo metió por debajo de la puerta?
-30	2623d1e1	{fc(57e4f1)Levanté el papelito y lo di vuelta; ahí, con una letra garabateada...}
-40	98bc6ace	{fc(57e4f1)"Por favor, convence a mi hermano"}
-50	6af2538f	¿Eh? Esto es...
-60	92fa6032	{fc(57e4f1)Parece escrito a toda prisa, pero si dice} {fc(ff635b)"mi hermano"}{fc(57e4f1), tiene que ser de Kako.}
-70	3ce1296b	{fc(57e4f1)¿Será que me lo mandó a escondidas, sin que Ima se diera cuenta?}
-80	e52c53dc	Pero convencerlo... ¿se puede convencer a Ima?
-90	a96cad66	{fc(57e4f1)Es muchísimo más difícil que cualquiera de los anteriores. Si me equivoco, hasta podría apuñalarme a mí...}
-110	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-120	7ab1d397	No se sabe cuándo van a atacar los invasores, así que descansen bien mientras puedan...
-130	b588a67e	Bueno... buenas noches...
-140	e07a1580	...¿Ya es tan tarde? Me quedé demasiado con Takemaru.
-150	479f1ffd	{fc(57e4f1)Por ahora, lo de esta carta lo voy a hablar con todos por la mañana.}
-160	623dd4c9	{fc(57e4f1)Y ahí pensaremos qué hacer...}
-170	a5302ee1	{fc(57e4f1)Dándole vueltas a la nota de Kako, caí en un sueño ligero.}
-180	140b3dba	{fc(57e4f1)Y así, en medio de un gran alboroto, terminó también el Día 52 en la Última Academia de Defensa.}
+10	dbdf1006	Hay un trozo de papel junto a la puerta. ¿Cómo llegó aquí?
+20	424e6864	¿Es una especie de nota? ¿Alguien me la dejó mientras no estaba?
+30	2623d1e1	{fc(57e4f1)Recogí el papel y lo di vuelta y encontré un mensaje del otro lado. La letra era áspera y desordenada, como escrita con prisa.}
+40	98bc6ace	{fc(57e4f1)"Por favor, convence a mi hermano de que me deje pelear."}
+50	6af2538f	¿Eh? ¿Esto es...?
+60	92fa6032	{fc(57e4f1)No reconozco la letra, pero dado }{fc(ff635b)el contenido}{fc(57e4f1), solo puede ser de Kako.}
+70	3ce1296b	{fc(57e4f1)Debió de escabullirse de Ima en algún momento y deslizarla bajo mi puerta.}
+80	e52c53dc	¿Y quiere que haga cambiar de opinión a Ima? Eso es mucho pedir...
+90	a96cad66	{fc(57e4f1)No parece el tipo de persona a quien se convence con un par de argumentos... Además, si digo algo equivocado, quizás me apuñale a mí también.}
+110	fcd5bdde	*bostezo* Descansen, soldados. Es hora de irse a la cama.
+120	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
+130	b588a67e	Bueno, entonces, buenas noches...
+140	e07a1580	Vaya, sí que se hizo tarde. Debí de pasar más tiempo con Takemaru de lo que pensaba.
+150	479f1ffd	{fc(57e4f1)Quizás mañana por la mañana les muestre esta nota a todos y les pregunte qué creen que debería hacer.}
+160	623dd4c9	{fc(57e4f1)Si voy a hacer cambiar de opinión a Ima, necesitaré toda la ayuda posible...}
+170	a5302ee1	{fc(57e4f1)Aún dándole vueltas a la petición de Kako, caí en un sueño ligero e inquieto.}
+180	140b3dba	{fc(57e4f1)Mi día 52 en la Última Academia de Defensa había terminado. Y no lamenté verlo irse.}

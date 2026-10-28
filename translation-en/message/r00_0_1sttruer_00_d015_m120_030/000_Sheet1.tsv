@@ -1,38 +1,38 @@
 id	huella_jp	es
-10	9121dc8f	El comandante... es el que pasó de forma humana a gigante, ¿no? Yo también peleé contra él, así que sé lo fuerte que es...
-20	8b74b172	Pero ¿por qué Hiruko dijo {fc(ff635b)"los comandantes"} enemigos?
-30	257ff880	...¿Eh?
-40	818e4920	Es cierto que no tiene por qué haber un solo enemigo de ese tipo. Puede que haya varios comandantes, pero...
-50	9e639381	me pregunté por qué Hiruko lo afirmó como si fuera obvio.
-60	111ebd4c	Es cierto... pensándolo bien, ¿por qué?
-70	abe15565	Y bueno, de aquí en adelante es solo una suposición mía...
-80	dbb7000d	¿No será que Hiruko sabe {fc(ff635b)"algo que nosotros no sabemos"} sobre esta batalla?
-90	2924bc68	¿Algo...? Es cierto que ella dijo que desde antes luchaba contra los invasores en el Complejo Residencial de Tokio...
-100	b723a205	¿O sea que sabe algo más? Pero... ¿qué?
-110	d57733da	Eso... no lo vamos a saber si no le preguntamos directamente a Hiruko.
-120	818efa47	¿Directamente... a ella?
-130	5238ced3	...No, aunque sepa algo, no nos lo va a decir. Seguro que nos esquiva con cualquier cosa.
-140	5949b3f1	Pero, si sabe algo, debería contarlo, ¿no? Porque ella es nuestra líder, ¿o no?
-150	cbdf7607	Si aun así nos esquiva, no va a quedar otra que unirnos todos los demás para enfrentarla.
-160	30f49c09	Y que deje de ser la líder.
-170	ce8b63fe	...¿Eh?
-180	0a9e9ef3	Si pasa eso, tampoco va a tener autoridad para echar a esos tres, ¿no? Bueno, de entrada no debería tener esa autoridad.
-190	92a2b3bc	Si llega a pasar eso... eso sí que sería un lío, ¿no?
-200	1a6421d3	...Hiruko tampoco debería querer eso. También afectaría la lucha contra los invasores.
-210	285c3aea	Eso... es cierto.
-220	6cfab990	Además, no sé qué sabe ella, pero si nos lo cuenta...
-230	74f7744f	hasta podría cambiar lo que sienten esos tres, ¿no? Creo que la posibilidad no es cero.
-240	39dda610	Bueno... es cierto.
-250	9c824f84	Justamente por eso quiero que Hiruko nos cuente todo lo que sabe.
-260	e8227a4e	Pero, qué vergüenza... no me siento capaz de decírselo yo solo, que hablo tan mal.
-270	5c1f238c	Por eso... pensé en pedirte ayuda a ti, Takumi, en quien confío.
-280	3a4dd041	{fc(57e4f1)Así que por eso... me lo contó...}
-290	b73d0015	Es cierto... está bien. No queda otra que hablar con Hiruko cara a cara.
-300	12608946	Meter a todos en esto en este momento no es bueno, así que creo que es mejor hablarlo a escondidas, solo los tres...
-310	74d25176	Justo ahora parece que Hiruko está sola en la sala de descanso.
-320	b1894643	...Si puedes, ¿vienes conmigo ahora?
-330	180a34d3	Está bien. Hagámoslo. Vamos a hablar con Shizuhara ya.
-340	11a30506	...Gracias, Takumi.
-350	ee3b4172	{fc(57e4f1)Algo que sabe Hiruko...}
-360	8c414ace	{fc(57e4f1)Ojalá nos lo cuente sin problemas; la cuestión es qué pasa si no.}
-370	60a4b448	{fc(57e4f1)Bueno... seguro que todo va a salir bien.}
+10	9121dc8f	Ese invasor humanoide con la extraña transformación era sin duda más fuerte que cualquier otro enemigo al que nos hayamos enfrentado...
+20	8b74b172	Pero dijo {fc(ff635b)"comandantes"}. En plural, no en singular.
+30	257ff880	¿Eh...?
+40	818e4920	Nunca hemos luchado contra un invasor así, ni antes ni después. No es imposible que haya otros como él por ahí...
+50	9e639381	Pero Hiruko habló de que había más como si fuera algo seguro.
+60	111ebd4c	Ahora que lo mencionas, es un poco raro...
+70	abe15565	Ten en cuenta que lo que voy a decir es solo mi propia conjetura.
+80	dbb7000d	Pero me parece que Hiruko ve esta guerra de forma distinta al resto de nosotros. Casi como si {fc(ff635b)supiera algo que nosotros no}.
+90	2924bc68	No estaría fuera de lugar. Dijo que lleva luchando contra los invasores mucho más tiempo que nosotros.
+100	b723a205	Pero si los encargados le han dicho algo, o si ella ha descubierto algo por sí misma, ¿qué podría ser?
+110	d57733da	Solo hay una forma de averiguarlo... Tenemos que preguntárselo nosotros mismos.
+120	818efa47	¿Qué, así sin más?
+130	5238ced3	No hay manera de que nos diga la verdad tan fácilmente. Probablemente se lo quite de encima.
+140	5949b3f1	Saber lo que ella sabe nos permitirá tomar decisiones más informadas. Tiene sentido, estratégicamente hablando.
+150	cbdf7607	Si después de eso insiste en esquivar el tema, podemos reunir a todos y presionarla más.
+160	30f49c09	Incluso podríamos hacer que renuncie como líder.
+170	ce8b63fe	¿Qué...?
+180	0a9e9ef3	Si Hiruko ya no está al mando, no tendrá autoridad para echar a los demás. Además, no es que la hayamos votado para ese puesto, para empezar.
+190	92a2b3bc	Básicamente sugieres que organicemos un motín... ¿No es ir demasiado lejos?
+200	1a6421d3	No creo que llegue a eso. Hiruko no dejará que pase nada que ponga en peligro nuestras posibilidades de vencer a los invasores.
+210	285c3aea	Sí, es verdad...
+220	6cfab990	No sé qué es esa información que oculta, pero si puede ayudarnos a tener una mejor perspectiva de la guerra, deberíamos conocerla.
+230	74f7744f	Incluso podría hacer que los tres últimos que no pelean cambien de opinión. Esa es una posibilidad por la que vale la pena apostar, ¿no crees?
+240	39dda610	Supongo...
+250	9c824f84	¿Ves? Es de interés para todos que Hiruko comparta lo que sabe con nosotros.
+260	e8227a4e	El caso es que... Me da miedo. De todas formas, no hablo bien con la gente, y no creo que pudiera exponer bien mi caso.
+270	5c1f238c	Siempre me siento mejor a tu lado, Takumi. Y tú tienes buena labia, así que...
+280	3a4dd041	{fc(57e4f1)Ah. Así que de eso se trata todo esto.}
+290	b73d0015	Muy bien, iré contigo e intentaré sacarle la verdad a Hiruko.
+300	12608946	Gracias. Creo que lo mejor es que hablemos en privado, solo los tres, antes de involucrar a nadie más.
+310	74d25176	Creo que Hiruko está en la Sala de Descanso del tercer piso, sola.
+320	b1894643	¿Te importaría acompañarme ahora mismo?
+330	180a34d3	Claro, sin problema. Vamos a hablar con ella.
+340	11a30506	Gracias, Takumi.
+350	ee3b4172	{fc(57e4f1)¿De verdad oculta algo Hiruko?}
+360	8c414ace	{fc(57e4f1)Solo me queda esperar que sea honesta con nosotros. Si se niega, las cosas podrían complicarse...}
+370	60a4b448	{fc(57e4f1)Bueno... Seguro que de algún modo todo saldrá bien.}

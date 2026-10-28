@@ -1,109 +1,109 @@
 id	huella_jp	es
-10	89d3a651	Eh, bueno... Entonces, lo cuento en orden, pero...
-20	3a70a207	{fc(57e4f1)Fue en ese momento. De pronto, una voz alegre resonó en el gimnasio.}
-30	33a579dc	Ya volví, chicos.
-40	257ff880	...¿Eh?
-50	f7a3672d	{fc(57e4f1)En cuanto oí esa voz, el corazón me dio un salto.}
-60	6c117aef	{fc(57e4f1)Porque esa voz se parecía muchísimo... a la de alguien que conozco muy bien.}
-70	4f8cc7e6	{fc(57e4f1)Enseguida miré hacia donde venía la voz. Y entonces...}
-80	4cdb0a53	{fc(57e4f1)en cuanto vi a la dueña de esa voz, el corazón me dio un salto todavía más grande.}
-90	2b14b860	...Perdón por volver tan tarde.
+10	89d3a651	Bueno, es una larga historia. Supongo que todo empezó cuando...
+20	3a70a207	{fc(57e4f1)Pero antes de que pudiera seguir, la puerta del Gimnasio se abrió de golpe y una voz alegre y radiante me interrumpió.}
+30	33a579dc	¡Hola a todos, ya volví!
+40	257ff880	¡¿Eh?!
+50	f7a3672d	{fc(57e4f1)Al oírla, se me tensó todo el cuerpo y el corazón empezó a latirme como loco.}
+60	6c117aef	{fc(57e4f1)Conocía esa voz. Hasta hace poco, la oía casi todos los días.}
+70	4f8cc7e6	{fc(57e4f1)Pero no podía ser... ¿O sí? Tenía que saberlo. Me volví hacia la puerta.}
+80	4cdb0a53	{fc(57e4f1)Cuando vi quién acababa de entrar, mi corazón latió aún más rápido, tan rápido que pensé que se me saldría del pecho.}
+90	2b14b860	Perdón por tardar tanto. Espero no haberlos preocupado.
 100	f4a72a8b	
-110	166a0819	¡¿Otra vez salió a explorar sola?! ¡Con lo mucho que le dijimos que es peligroso!
-120	71fdf2d5	Perdón... es que pensé que quizás encontraba alguna pista, aunque fuera pequeña.
-130	1982cfaf	Todavía... no me rindo. Con Moko...
+110	166a0819	¡Claro que nos preocupamos! ¿Cuántas veces te hemos dicho que no te aventures más allá de la escuela sin escolta?
+120	71fdf2d5	Lo siento... Pensé que quizás podría encontrar alguna pista, por pequeña que fuera.
+130	1982cfaf	No he renunciado a Moko todavía. Tiene que estar por ahí en algún lado...
 140	f4a72a8b	
-150	2f277dab	...¡Ay, qué susto! ¡Por fin despertaste!
-160	1d259a4b	Qué bueno, ¿ya estás bien? Como no te despertabas, estaba preocupada, ¿sabes?
+150	2f277dab	¡Ah, eres tú! ¡Vaya, por fin despertaste!
+160	1d259a4b	¿Te sientes mejor? Hemos hecho todo lo posible por cuidarte, pero empezaba a parecer que nunca recobrarías el sentido.
 170	f4a72a8b	
-180	33bff50c	...¿Takumi? ¿Qué te pasa?
-190	4d577bfb	K-Karua...
-200	2efea63d	{fc(57e4f1)Al mismo tiempo que murmuraba ese nombre, ya estaba corriendo hacia ella.}
-210	25caff3f	...¡¿Eh?!
+180	33bff50c	Eh... ¿Takumi? ¿Te pasa algo?
+190	4d577bfb	
+200	2efea63d	{fc(57e4f1)En cuanto dije su nombre, se rompió el dique. Ya no pude contenerme.}
+210	25caff3f	¡Ay...!
 220	63a5fc8e	¡Karua! ¡Estás bien!
-230	7333aef2	¡¿Qué haces en un lugar así?! ¡¿No me digas que a ti también te obligan a pelear aquí?!
-240	e313ddd3	¡O-Oye, espera!
-250	0b70b6d9	¿Q-Qué le pasa...? ¿Qué hace de repente...?
-260	257ff880	...¿Eh?
-270	7bf580dc	¿Q-Qué estás diciendo? ¿Qué te pasa, Karua...?
-280	f0210aac	P-Por eso... esa Karua...
-290	37bbbf10	...¿quién es?
+230	7333aef2	¿Qué haces aquí? ¡¿No te habrán estado obligando a pelear a ti también?!
+240	e313ddd3	¡S-Suéltame!
+250	0b70b6d9	¿Qué crees que haces, agarrándome la mano así?
+260	257ff880	¡¿Eh?!
+270	7bf580dc	¡¿Eh?! ¿Q-Q-Qué quieres decir? ¿Cuál es el problema? Solo estoy... solo estoy tan feliz de verte, Karua...
+280	f0210aac	¿Y por qué sigues llamándome Karua?
+290	37bbbf10	No tengo idea de quién es.
 300	f4a72a8b	
-310	aef48060	...¿Qué?
-320	ced32a96	Eh... creo que me confunde con otra persona. Yo no me llamo Karua...
-330	a0513b44	...Me llamo Nozomi Kirifuji. Ese es mi nombre.
-340	555e87c3	{fc(57e4f1)¿Nozomi Kirifuji...? ¿No es... Karua?}
-350	ef97608b	{fc(57e4f1)...¿Otra persona? ¿Me confundí?}
-360	69bea68a	¡N-No! ¡¿Qué estás diciendo?! ¡Si eres Karua se te mire por donde se te mire!
-370	bbd2510a	El peinado es un poco distinto, pero... ¡la voz también es igual! ¡¿Cómo te voy a confundir con otra persona?!
-380	834166ea	¡Oye, Karua...! Si estás bromeando, ya basta con...
-390	d250d800	{fc(57e4f1)Como para cortarme la palabra, me pusieron una hoja plateada contra el cuello.}
-400	3beeed5a	...Alto ahí.
+310	aef48060	¿Q-Qué...?
+320	ced32a96	Y-Yo... creo que me confundes con otra persona. No soy esa tal Karua de la que hablas.
+330	a0513b44	Me llamo Nozomi Kirifuji. ¿Ves? Ni siquiera nuestros nombres se parecen.
+340	555e87c3	{fc(57e4f1)¿Nozomi...? ¿No es Karua...?}
+350	ef97608b	{fc(57e4f1)¿Me equivoqué...?}
+360	69bea68a	¡No, eso no puede ser! ¡Eres idéntica a ella!
+370	bbd2510a	Tu peinado es un poco distinto, pero tu voz es exactamente como la recuerdo... ¿Cómo dos personas sin ninguna relación pueden ser tan parecidas? ¡Eres Karua!
+380	834166ea	Ya deja de bromear. Me atrapaste, ¿okey? Ya te divertiste, así que por favor...
+390	d250d800	{fc(57e4f1)Antes de que pudiera decir más, resonó un sonido metálico y, de pronto, alguien me apoyaba una hoja contra la garganta.}
+400	3beeed5a	Alto, señor Takumi.
 410	accf34ee	¡Ugh...!
-420	530616b5	Mi Espada Sagrada Jumonji es una espada con voluntad de justicia que se alimenta de la sangre del mal...
-430	1b0d6ec5	Por lo tanto, quien blande esta espada no soy yo, sino la espada misma.
-440	88821f9f	...Así que le pregunto a mi Espada Sagrada Jumonji: ¿este sujeto es malvado?
-450	60eb0396	Es malvado. Acaba con él.
-460	2472bc76	"¿Nos conocemos, no?" es la técnica de los cazatalentos estafadores. Esos desgraciados que se paran frente a la estación con ropa de marca.
-470	334c68cf	¡Y encima agarrarle la mano a una chica de golpe es lo peor! ¡Seguro que le untó sus jugos!
-480	6b57da40	¡¿Q-Qué jugos?!
-490	327be90f	¡Este tipo es un yokai untajugos! ¡Yo te doy permiso, córtale la cabeza!
-500	53056f24	¡No, no! ¡Nada de cortar cabezas!
-510	b397b9bf	¡Takumi, tú también... cálmate un poco! ¡Tranquilízate!
-520	8a91a7e2	Mira, ella es Nozomi Kirifuji, no es esa tal Karua que dices.
-530	5e24e5f8	¡Así que te estás confundiendo!
-540	286330d9	¿Me... confundo...? ¿Yo...?
-550	2b7f160c	{fc(57e4f1)Entonces... ¿de verdad es otra persona, no Karua? ¿Aunque se parezcan... tanto?}
-560	86cf4f6c	{fc(57e4f1)No, más que parecerse... ¡es idéntica!}
-570	6fc98a04	{fc(57e4f1)¿Qué... está pasando...? ¿Qué significa todo esto...?}
-580	1e382bc1	...¿Takumi? ¿Estás bien? ¿Ya te calmaste?
+420	530616b5	Le advierto: mi Espada Sagrada Jumonji es una hoja sagrada que busca activamente la sangre de los malvados.
+430	1b0d6ec5	No soy yo quien decide a quién corta con ella. La espada tiene voluntad propia.
+440	88821f9f	Por lo tanto, te pregunto, Espada Sagrada Jumonji... ¿Es este joven nuestro próximo objetivo? ¿Posee un corazón malvado?
+450	60eb0396	Oh, por supuesto que sí. ¡El más malvado!
+460	2472bc76	¿No nos hemos visto antes? ¡La frase de ligue más vieja del libro! He visto a estafadores de traje barato engañar así a un montón de víctimas desprevenidas.
+470	334c68cf	¡Y no olvidemos lo impropio de tocar a una chica sin su consentimiento! ¿Por qué lo haría si no es para manchar la delicada mano de Nozomi con sus propios fluidos?
+480	6b57da40	¡¿Q-Qué fluidos?!
+490	327be90f	¡Los indecentes! Confía en mí, Kyoshika. Le harás un favor al mundo separando la cabeza de este zoquete de su cuerpo.
+500	53056f24	¡Ya basta! ¡Hoy no habrá decapitaciones aquí!
+510	b397b9bf	Señor Sumino, de verdad debo insistir en que se calme.
+520	8a91a7e2	Esta señorita es Nozomi Kirifuji. Es integrante de esta unidad. Ninguno de nosotros ha oído hablar de esa tal "Karua" que menciona.
+530	5e24e5f8	¡Se equivoca por completo, muchacho! Es hora de que lo acepte.
+540	286330d9	¿Me... equivoqué? ¿Tú no eres...?
+550	2b7f160c	{fc(57e4f1)Todos dicen que esta chica no es Karua... ¿Será verdad? ¿Solo se parecen?}
+560	86cf4f6c	{fc(57e4f1)¿Cómo es posible? ¡Son completamente idénticas!}
+570	6fc98a04	{fc(57e4f1)¿Qué está pasando aquí? Las cosas tienen aún menos sentido que de costumbre.}
+580	1e382bc1	¿Qué dice, señor Sumino? ¿Se siente un poco menos frenético ahora?
 590	f4a72a8b	
-600	609525c7	{fc(57e4f1)No puedo creerlo... No puedo creer que sea otra persona, pero...}
-610	5cf278bb	{fc(57e4f1)por más que diga cualquier cosa ahora, solo voy a parecer más sospechoso...}
-620	7082e68a	{fc(57e4f1)...No queda otra.}
-630	3c1bfae6	...P-Perdón. Se me fue... un poco la cabeza.
-640	fa034b41	Estuve inconsciente mucho tiempo, y te pareces demasiado a alguien que conozco...
-650	be03880f	Me dejé llevar... De verdad, perdón.
-660	e674d33c	Ah, no. Me asusté, pero... está bien. No te preocupes tanto.
-670	44064eea	Es normal que estés alterado. Seguro que tú también pasaste por muchas cosas.
-680	b702bb02	Nozomi, no seas tan blanda. De las feas que solo son buenas se aprovechan, ¿sabes?
-690	32cdff11	Ay, Kurara, siempre tan malhablada.
-700	81f4df04	Pero si doña Nozomi acepta sus disculpas, la Espada Sagrada Jumonji no tiene nada que hacer aquí.
-710	b344857b	Pues esta hoja solo se blande por la justicia...
-720	ccacb7ae	{fc(57e4f1)Dicho eso, por fin bajó la espada. Además... ¿por qué anda con una espada?}
-730	331d4cfa	Ufufu... las chicas de aquí dan miedo, ¿no? Mejor ten cuidado.
-740	38b6543c	A mí casi me cortan la cabeza solo por andar un poco desnudo por la escuela...
-750	9c8a0313	¡¿Quién anda por ahí completamente desnudo?! ¡Y encima con eso tan imponente colgando para nada!
-760	76d41405	S-Sí... era realmente imponente...
-770	47167b52	Bueno, volvamos al tema...
-780	d3199eba	...Takumi, ¿por qué viniste aquí? ¿Cómo están las cosas en la Última Academia de Defensa?
-790	eaee584f	A-Ah... eh...
-800	8273017e	{fc(57e4f1)Me recompuse y les conté a todos lo que había vivido en la Última Academia de Defensa.}
-810	9767deb1	{fc(57e4f1)Que encontramos a SIREI hecho pedazos... Que después Hiruko, que se había vuelto la líder, desapareció...}
-820	8a1f3bc9	{fc(57e4f1)Que la comida se quemó...}
-830	76fd9a9f	{fc(57e4f1)Que, cuando salimos a explorar para conseguir comida, me desmayé en la tormenta...}
-840	36c71344	{fc(57e4f1)Y... hasta ahora.}
-850	4ee4a0cf	Uf, qué fuerte. Parece que de verdad la pasaste muy mal.
-860	d11f01af	Seguro que allá eran todos unos pobretones inútiles. Como Kyoshika.
-870	e93d1bd6	¡Kyoshika sí sirve! ¡Junto con la Espada Sagrada Jumonji, voy a ser la mejor espadachina del mundo!
-880	be45c9a0	...Debió ser muy duro. ¿Estás bien?
-890	27e3875d	B-Bueno... más o menos.
+600	609525c7	{fc(57e4f1)No puedo creerlo. No quiero.}
+610	5cf278bb	{fc(57e4f1)Pero si sigo insistiendo, solo pensarán que estoy inestable o soy peligroso e intentarán encerrarme... o algo peor.}
+620	7082e68a	{fc(57e4f1)Tengo que ser inteligente con esto.}
+630	3c1bfae6	Eh... Perdón. Cometí un error. Supongo que me dejé llevar...
+640	fa034b41	Todavía estoy algo aturdido por lo que me dejó inconsciente, y te pareces tanto a una chica que conozco...
+650	be03880f	Verla... bueno, verte... después de tanto tiempo, no pude contenerme. No estaba pensando con claridad. Lo siento.
+660	e674d33c	Está bien... Solo me tomaste por sorpresa, eso es todo. No pasó nada grave.
+670	44064eea	No te culpo por estar confundido. Seguro que has pasado por mucho.
+680	b702bb02	No deberías ser tan indulgente con él, Nozomi. Por esto se aprovechan de las plebeyas poco atractivas como tú.
+690	32cdff11	Siempre eres tan rápida en ver lo peor de todos, Kurara... Incluyéndome, al parecer.
+700	81f4df04	Si lo perdona, doña Nozomi, entonces la Espada Sagrada Jumonji no tiene por qué derramar sangre hoy.
+710	b344857b	Un verdadero guerrero pelea por la justicia, no por ciega venganza.
+720	ccacb7ae	{fc(57e4f1)Con un floreo, Kyoshika por fin envainó su espada y solté un suspiro de alivio. Caray... ¿por qué carga una katana, de todos modos?}
+730	331d4cfa	Sí, las chicas de aquí pueden ser algo intensas. Hay que tener cuidado con ellas.
+740	38b6543c	Haces una cosita así como pasearte desnudo por la escuela, y de repente todas gritan "¡Que le corten la cabeza!"
+750	9c8a0313	¿Qué clase de degenerado deambula por un espacio público en cueros? ¿No tienes vergüenza? ¡Lo dejabas TODO colgando!
+760	76d41405	Fue una visión que no olvidaré...
+770	47167b52	Cambiemos, eh, de tema, ¿les parece?
+780	d3199eba	Señor Sumino, creo que es hora de que nos diga qué hace aquí. ¿Qué pasa en la Última Academia de Defensa?
+790	eaee584f	Ah, claro. Casi lo olvido.
+800	8273017e	{fc(57e4f1)Me recompuse y les conté a todos lo que habíamos vivido en las últimas semanas.}
+810	9767deb1	{fc(57e4f1)Sobre SIREI, desmembrado y escondido en las ruinas... Sobre Hiruko asumiendo el liderazgo y luego desapareciendo...}
+820	8a1f3bc9	{fc(57e4f1)Sobre cómo nos drogaron y perdimos toda la comida...}
+830	76fd9a9f	{fc(57e4f1)Y por último, cómo salimos a buscar nuevas provisiones, pero nos sorprendió la tormenta, y cómo quedé inconsciente en algún momento.}
+840	36c71344	{fc(57e4f1)Eso resumía prácticamente todo.}
+850	4ee4a0cf	Vaya, hermano, qué fuerte. Parece que de verdad pasaste por la picadora.
+860	d11f01af	Probablemente porque allá todos son plebeyos inútiles. Ya sabes, como Kyoshika.
+870	e93d1bd6	¡¿Inútiles?! ¡Junto con la Espada Sagrada Jumonji, soy la mejor espadachina de toda la tierra!
+880	be45c9a0	¿Ha sido duro para ti todo este tiempo?
+890	27e3875d	Bueno, ya sabes... Nos las arreglamos de algún modo.
 900	242b7422	
-910	fb6880e0	{fc(57e4f1)Que me diga "¿Estás bien?" con esa cara y esa voz...}
-920	63b815da	{fc(57e4f1)Por más que la cabeza intente negarlo, el corazón no puede evitar reaccionar...}
-930	1d86a73c	¡Y además, dejar que destrocen a su comandante es patético! ¡¿Qué tan estúpidos pueden ser?!
+910	fb6880e0	{fc(57e4f1)La forma en que actúa cuando se preocupa... Su expresión, el tono de voz, todo es tal como lo recuerdo.}
+920	63b815da	{fc(57e4f1)Podría intentar convencerme de que Karua y Nozomi son personas distintas, pero con tantas similitudes mi cerebro jamás lo aceptaría.}
+930	1d86a73c	¡Hasta dejaron que su comandante fuera eliminado delante de sus narices. ¿Qué tan torpes pueden ser?!
 940	242b7422	
-950	d6ce5b87	Uf... Creo que tanta información fue demasiado para NIGOU.
-960	3f02268b	¡Despierta, chatarra de pacotilla! ¡Te voy a malvender en una tienda de segunda mano!
-970	85c2f173	{fc(57e4f1)Después de una lluvia de golpes sin piedad, NIGOU por fin volvió en sí...}
-980	d9e39f0e	N-No puede ser... ¿Su Excelencia SIREI... hecho pedazos...?
-990	b00e9b67	¡¿P-P-Por queeeeeeeé?!
-1000	4bd3a4c6	¿Los invasores... se infiltraron y lo hicieron?
-1010	63b74c23	Seguramente... Bueno, es lo único que se me ocurre.
-1020	6c89f3bd	Si sus unidades sigilosas se parecen a los ninjas de antaño, ganar esta guerra va a ser aún más difícil de lo que pensábamos.
-1030	af01359c	...es lo que dice también mi Espada Sagrada Jumonji.
-1040	3623a6fa	¡Deja de hablar con la espada cada dos por tres! ¡Arruinas el ritmo de la conversación!
-1050	11c67b8b	¡Buaaaaa! ¡Excelencia! ¡¡Su Excelencia SIREIII!!
-1060	56e68260	¡¿Y tú hasta cuándo vas a llorar?! ¡Te voy a formatear el cerebro!
-1070	b7cb7146	Bueno... con eso terminé de contar lo nuestro...
-1080	de0b9936	¿Ahora me cuentan lo de ustedes? Hay algunas cosas que quiero saber.
+950	d6ce5b87	Vaya... Creo que tanta información fue demasiado para Nigou.
+960	3f02268b	¡Despierta, patética pila de chatarra! ¿O quieres un viaje de ida al centro de reciclaje?
+970	85c2f173	{fc(57e4f1)Tras una implacable lluvia de golpes en la cabeza de parte de Kurara, Nigou por fin pareció recobrar el sentido.}
+980	d9e39f0e	¿El Honorable SIREI? ¿Asesinado...? ¿Desmembrado...?
+990	b00e9b67	¡Nooooooooo...!
+1000	4bd3a4c6	¿Cómo ocurrió? ¿Se coló algún invasor en su escuela?
+1010	63b74c23	Eso creemos. Es la única explicación que se me ocurre, al menos...
+1020	6c89f3bd	Si sus unidades sigilosas se parecen en algo a los ninjas de antaño, ganar esta guerra será aún más difícil de lo que anticipábamos.
+1030	af01359c	La Espada Sagrada Jumonji coincide, por cierto.
+1040	3623a6fa	No hace falta que nos cuentes todo lo que dice tu estúpida espada. ¡Arruinas el ritmo de la conversación!
+1050	11c67b8b	¡No, no, nooo...! SIREI... Mi Honorable SIREI... ¡¿Cómo puede serrrrr?!
+1060	56e68260	Y tú, ¡deja de lloriquear o te abro la cabeza y te restauro los ajustes de fábrica!
+1070	b7cb7146	B-Bueno, ahora que les he contado cómo están las cosas de nuestro lado...
+1080	de0b9936	¿Pueden contarme más de esta escuela? Todavía hay cosas que no entiendo del todo.

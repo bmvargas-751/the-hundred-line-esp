@@ -1,71 +1,71 @@
 id	huella_jp	es
-10	93122248	Te lo pregunto directamente...
-20	bded8de4	¿No será que tú, en realidad, sabes {fc(ff635b)"algo"} sobre esta batalla?
+10	93122248	Muy bien, voy a preguntar sin rodeos...
+20	bded8de4	Hiruko, ¿sabes {fc(ff635b)algo} sobre esta guerra? ¿Algo que el resto de nosotros no sepa?
 30	f4a72a8b	
-40	52b77eac	...¿Qué pasa de repente? ¿Por qué piensas eso?
-50	44da1d16	Es que... lo sentí por algunas cosas que dijiste e hiciste.
-60	329fc159	Además, si pensamos que sabes algo sobre esta batalla, muchas cosas cobran sentido...
-70	867c5ba8	Que estés más tranquila que nadie... Que estés tan obsesionada con ganar esta batalla...
-80	94b09a5d	¿Y? ¿Sabes algo? Sobre esta batalla... o sobre la Última Academia de Defensa.
+40	52b77eac	¿Qué te hace pensar eso? Y tan de repente, además.
+50	44da1d16	Lo... dedujimos por algunas de las cosas que has dicho y hecho.
+60	329fc159	Además, si asumimos que tienes información que nosotros no, en realidad explica mucho.
+70	867c5ba8	Tu frial... digo, práctica actitud, por ejemplo. Y tu dedicación a ganar a cualquier costo.
+80	94b09a5d	¿Es cierto? ¿Sabes la verdad sobre esta guerra? ¿Sobre la Última Academia de Defensa?
 90	f4a72a8b	
-100	c889b974	Hiruko, no es que tenga quejas de que seas la líder...
-110	b230126f	Ahora que SIREI ya no está, es cierto que solo podemos contar contigo.
-120	0c41291a	Pero si nos ocultas algo, no te podemos seguir...
-130	301806a2	Creo que los demás... también piensan igual.
-140	e2e55812	¿Eso es... una amenaza? ¿Piensan unirse todos para enfrentarme?
-150	c2127a3c	Yo... no quiero que pase eso. En el peor de los casos, el grupo podría desarmarse.
-160	9a1a1f66	Y si pasa eso... ya no vamos a estar para luchar contra los invasores.
+100	c889b974	No es que te consideremos una líder inepta ni nada, Hiruko...
+110	b230126f	Ahora que SIREI no está, no hay duda de que eres la mejor persona para el puesto.
+120	0c41291a	Pero no puedo seguir a alguien que insiste en mantenernos a oscuras así.
+130	301806a2	Y estoy seguro de que todos los demás sentirían lo mismo... si lo supieran.
+140	e2e55812	¿Eso es una amenaza? ¿Piensas ir a mis espaldas y poner a todos en mi contra?
+150	c2127a3c	Créeme, preferiría no tener que hacerlo. Pelear entre nosotros podría desmantelar esta unidad.
+160	9a1a1f66	Si eso pasa, ya no estaremos en condiciones de pelear contra los invasores.
 170	f4a72a8b	
-180	050643e1	Que quede claro... no queremos enfrentarnos contigo. Solo queremos saber la verdad.
-190	fd5e6388	Por qué nos metieron en esto... Qué está pasando aquí...
-200	1c560c53	Queremos saberlo bien y sobrevivir todos juntos.
-210	8b831d2b	Así que, Shizuhara... si sabes algo, ¿nos lo cuentas?
+180	050643e1	No queremos provocar una confrontación; seguimos de tu lado. Solo queremos saber la verdad.
+190	fd5e6388	Todos están muy confundidos sobre qué hacemos aquí y cómo nos vimos envueltos en esto.
+200	1c560c53	Una vez que sepamos la verdad, será mucho más fácil concentrarnos en hacer lo que haga falta para ganar la guerra e irnos a casa.
+210	8b831d2b	Así que, por favor... Si sabes algo que pueda ayudar a explicar todo esto, creo que tenemos derecho a oírlo.
 220	f4a72a8b	
-230	d5ea6d09	Uf... aunque no supiera nada, este ambiente no me dejaría responder "no sé".
-240	0536d42e	Nunca pensé que ustedes me iban a acorralar así...
-250	fc95bb27	N-No es que te estemos acorralando...
-260	9ae98e28	...Bueno. Si tengo que responder a la pregunta "¿Sabes algo?"...
-270	399a27ba	es cierto que conozco {fc(ff635b)"parte de la situación"}.
-280	bcd94f91	¿E-En serio? Entonces, ¿qué sabes?
-290	557e98d8	¡¿Qué es lo que hay dentro de la Sala de Defensa?! ¡¿O... por qué nos eligieron?!
-300	57bd0082	...Ah, esperen un momento. Ya que estamos, ¿no podrías contarlo delante de todos?
-310	b86aa7d0	Quiero que los demás también lo oigan. Creo que así todos lo aceptarían mejor.
+230	d5ea6d09	Me tienen contra la pared. Difícilmente puedo despachar esto con un "no sé nada" ahora, ¿verdad?
+240	0536d42e	Estoy impresionada. No pensé que tuvieran agallas para interrogarme tan despiadadamente.
+250	fc95bb27	N-No queríamos "interrogarte", exactamente...
+260	9ae98e28	Me han preguntado si sé "algo" sobre esta guerra. Si tengo que responder, entonces...
+270	399a27ba	Sí. Tengo {fc(ff635b)cierta información} que quizás les resulte relevante.
+280	bcd94f91	¿De verdad? ¡¿Qué es?!
+290	557e98d8	¿Se trata de lo que hay en la Sala de Defensa? ¡¿O de cómo eligieron a quién enviar aquí?!
+300	57bd0082	Un momento. ¿Podemos ir a buscar primero a los demás?
+310	b86aa7d0	Quiero que todos escuchen esto de una vez. Será mejor para la moral.
 320	f4a72a8b	
-340	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-350	7ab1d397	No se sabe cuándo van a atacar los invasores, así que descansen bien mientras puedan...
-360	b588a67e	Bueno... buenas noches...
-370	2582ca3c	La hora de dormir... ¿Ya es tan tarde...?
-380	0fc9849e	Si ahora juntamos a todos y empezamos a hablar, nos va a agarrar la mañana...
-390	c90d4352	¿Qué te parece, Hiruko? ¿Lo cuentas mañana delante de todos?
-400	589f1500	Yo me encargo de juntar a todos en la cafetería.
+340	fcd5bdde	*bostezo* Descansen, soldados. Es hora de acostarse.
+350	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
+360	b588a67e	Bueno, buenas noches...
+370	2582ca3c	El anuncio nocturno... No me di cuenta de lo tarde que era.
+380	0fc9849e	Estaremos despiertos toda la noche si intentamos convocar una reunión ahora.
+390	c90d4352	Quizás deberíamos retomar esto mañana por la mañana. ¿Te parece bien, Hiruko?
+400	589f1500	Les diré a todos que se reúnan en la cafetería, como la otra vez.
 410	f4a72a8b	
-420	2b85eb06	...Está bien. Lo cuento delante de todos, ¿no?
-430	607f70f3	...¿Seguro?
-440	45842920	A esta altura no queda otra. Además...
-450	171a773c	no es que lo ocultara porque me conviniera...
-460	9c6993ab	Era porque dudaba si estaba bien que ustedes también cargaran con esta {fc(ff635b)"verdad cruel"}.
-470	b047ab4f	...¿Eh? ¿Una {fc(ff635b)"verdad cruel"}?
-480	2e73d354	Cuéntanos todo mañana, incluso esa duda tuya.
-490	3cf7c114	No sé qué te preocupa, pero quiero que confíes un poco en nosotros.
-500	ed54fe4e	Nosotros también nos decidimos a luchar aquí. Estamos preparados.
+420	2b85eb06	Muy bien. Tienes razón; es mejor que todos lo oigan de primera mano.
+430	607f70f3	¿Y no vas a echarte atrás?
+440	45842920	No me han dejado muchas opciones. Además...
+450	171a773c	No he estado ocultando esta información porque me deje mal parada ni nada por el estilo.
+460	9c6993ab	Simplemente pensé que sería mejor ahorrarles una {fc(ff635b)verdad desgarradora}.
+470	b047ab4f	¿{fc(ff635b)"Desgarradora"}? ¿Tan malo es...?
+480	2e73d354	Deberías contarles a todos que ese fue tu motivo para ocultarlo, también.
+490	3cf7c114	Confía en nosotros. Sea cual sea esta verdad, estoy seguro de que podremos con ella.
+500	ed54fe4e	Hemos llegado hasta aquí, y la mayoría hemos decidido arriesgar la vida. Nuestra determinación no se quebrará tan fácilmente.
 510	f4a72a8b	
-520	2c9b74d1	Es cierto... está bien.
-530	5c8865dc	Entonces, va a ser una historia un poco larga, pero van a tener que aguantarla. Eso sí, prepárense de verdad...
-540	8318cd35	Para ustedes es una {fc(ff635b)"verdad cruel"}. Justamente por eso la oculté hasta ahora.
-550	ea50bb57	...Entendido. Se lo voy a decir a todos.
-560	5ad713bd	Uf... no pensé que iba a pasar esto...
-570	f21c7055	Ahora que decidí contarlo, me siento un poco más aliviada. Quizá esta noche duerma tranquila.
-580	dbcd202b	{fc(57e4f1)Y, cuando Hiruko echó a caminar hacia la puerta, le hablé a la espalda.}
-590	c190e88e	Ah, ¿me dejas preguntarte una última cosa?
-600	5026de5b	...¿Todavía hay algo más?
-610	fab707b4	Lo del plazo de mañana... ¿era en serio? ¿De verdad pensabas echarlos?
-620	d0fca889	Eso de que te daba igual que se murieran... ¿de verdad lo pensabas?
+520	2c9b74d1	De acuerdo. Confiaré en ustedes.
+530	5c8865dc	Solo tengan en cuenta que es una historia larga. Y puede que no les guste lo que oigan.
+540	8318cd35	El hecho de que se la haya ocultado por tanto tiempo debería darles una idea de {fc(ff635b)lo mala que es}.
+550	ea50bb57	Sí. Les diré a todos que se preparen para lo peor.
+560	5ad713bd	Mm... Nunca pensé que acabaría así.
+570	f21c7055	Pero es un alivio que por fin me lo quite del pecho. Esta noche voy a dormir bien.
+580	dbcd202b	{fc(57e4f1)Un instante después, Hiruko ya iba a medio camino de la puerta. Antes de que se fuera, la llamé.}
+590	c190e88e	¡Espera! ¿Puedo preguntarte una última cosa?
+600	5026de5b	¿Qué es?
+610	fab707b4	¿Hablabas en serio sobre el plazo de mañana? ¿De verdad ibas a obligar a los que no pelean a irse?
+620	d0fca889	Has dicho una y otra vez que no te importaba si morían... ¿Lo decías en serio?
 630	f4a72a8b	
-640	f3feffaa	Ahora que hablo contigo cara a cara, me cuesta mucho creerlo...
-650	2249d457	...Mi objetivo es ganar esta guerra. Cueste lo que cueste, con los medios que sean.
-660	11395784	Eso sí, esa victoria...
-670	21d68cad	incluye también {fc(ff635b)"sobrevivir todos"}.
-680	4b0eb620	{fc(57e4f1)Tras decir solo eso, esta vez sí, Hiruko se fue de la sala de descanso.}
-690	b224b34a	Hiruko, ella...
-700	cffac4e9	{fc(57e4f1)Así que era eso... Qué líder tan torpe.}
-710	d7423b8b	{fc(57e4f1)Después de verla irse, Eito y yo también volvimos a nuestras habitaciones.}
+640	f3feffaa	La forma en que hablaste hace un momento de protegernos de la verdad hace que me cueste creer que de verdad seas tan despiadada.
+650	2249d457	Mi objetivo principal aquí es ganar la guerra. No hay nada que no haga por la victoria.
+660	11395784	Pero no nos basta con derrotar a los invasores.
+670	21d68cad	{fc(ff635b)Todos tenemos que sobrevivir}, también. Eso es lo que significa "victoria" para mí.
+680	4b0eb620	{fc(57e4f1)A pesar de esas palabras, Hiruko claramente no pensaba aflojar pronto. Siguió su camino, dándonos la espalda todo el tiempo.}
+690	b224b34a	
+700	cffac4e9	{fc(57e4f1)No es tan mala después de todo. Solo un poco torpe a la hora de expresar sus sentimientos.}
+710	d7423b8b	{fc(57e4f1)Eito y yo no nos quedamos mucho después de eso. Habíamos hecho todo lo que veníamos a hacer y era tarde; volvimos a nuestras habitaciones.}

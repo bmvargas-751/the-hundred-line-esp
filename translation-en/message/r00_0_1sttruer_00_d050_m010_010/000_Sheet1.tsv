@@ -1,41 +1,41 @@
 id	huella_jp	es
 10	3b2c5150	Día 50
-30	69ceab21	¡Atención, tropa, hora de levantarse!
-40	3c42c916	¡Vamos, llegamos al Día 50! ¡Amaneció el quincuagésimo día en la Última Academia de Defensa!
-50	542ed512	¡Uau, por fin llegamos al Día 50! ¡Con esto estamos a mitad de camino!
-60	87d4d5bb	Así que, para celebrarlo, abrí un precioso {fc(ff635b)"Patio"}; úsenlo para descansar, sin falta.
-70	79f83dc4	¡Y además, de parte mía, quiero repartirles a todos un regalo maravilloso!
-80	fecf8604	¡Quiero dárselos en persona, así que júntense todos en la cafetería!
+30	69ceab21	¡Arriba, tropa! ¡Es hora de levantarse y brillar!
+40	3c42c916	¡Prepárense para su quincuagésimo día de servicio activo en la Última Academia de Defensa! ¡Así es, amigos, ya están a mitad de camino! ¡Como lagarto en el pino!
+50	542ed512	Han pisado tanta sangre que volver atrás sería tan tedioso como seguir adelante. ¡Ya no hay marcha atrás!
+60	87d4d5bb	En honor a la ocasión, he desbloqueado el {fc(ff635b)Patio}. Es el lugar perfecto para disfrutar de un momento de tranquila contemplación.
+70	79f83dc4	¡También he preparado un regalo especial para todos y cada uno de ustedes, valientes soldados!
+80	fecf8604	Se los daré en persona, así que vengan a buscarme a la cafetería.
 90	f4a72a8b	
-100	44fa45fb	{fc(57e4f1)No sé por qué, estaba tirado sobre el suelo duro de la azotea.}
-110	49d8d32c	{fc(57e4f1)Incluso después de despertarme, no pude recordar enseguida qué había pasado.}
-120	b9b76a08	{fc(57e4f1)Pero, después de un rato...}
-130	7dd07fa5	{fc(57e4f1)me volvió a la cabeza lo de anoche. Esa cosa de Llamas Eternas apareció otra vez delante de mí...}
-140	53e54064	¡E-Es cierto...! ¡Esa cosa me atacó...!
-150	54cb35ca	{fc(57e4f1)¿Qué... fue eso? Un poder misterioso que iluminó todo el cielo...}
-160	bd9c2f6f	Takumi, ¿estás bien? ¿Qué haces ahí?
-170	5cdeca04	Ah, Eito...
-180	36c643df	...Igual, lo de anoche fue impresionante, ¿no? Yo tampoco había visto nunca un {fc(ff635b)"rayo"}.
-190	0c203001	...¿Un rayo? ¿Qué es eso?
-200	5c1a1600	Ah... es uno de los fenómenos naturales del mundo de afuera: una descarga eléctrica en la atmósfera... o eso dicen.
-210	d686a522	A veces cae a la tierra, y si te da de lleno, es tan potente que te mata en el acto.
-220	4a39af3b	¡¿T-Te mata en el acto?!
-230	bead1d0c	Lo había leído en libros, pero no pensé que un {fc(ff635b)"rayo"} fuera tan tremendo...
-240	7a1e643a	Que algo así pase seguido como fenómeno natural... el mundo de afuera sí que es peligroso...
-250	505fe7ed	¿Fenómeno natural...?
-260	8234c65c	{fc(57e4f1)Entonces, ¿esa luz y ese ruido no los hizo esa cosa? Entonces, ¿por qué...?}
-270	09f4d439	...Takumi, ¿qué pasa? ¿Te sientes mal?
-280	b81bd849	Entonces, ¿por qué no descansas? Si es por la comida, yo te la llevo a la habitación.
-290	5f4609b6	...Quiero hacer algo por ti. Porque eres mi compañero, alguien muy importante para mí.
-300	16b134f3	N-No... estoy bien. Yo también voy enseguida a la cafetería, adelántate.
-310	3351ac21	¿Seguro? Si hay algo que pueda hacer, dímelo sin vergüenza, ¿sí?
-320	1123796f	{fc(57e4f1)Dicho eso, Eito se fue con una sonrisa.}
+100	44fa45fb	{fc(57e4f1)Desperté tendido sobre la superficie dura y fría de la azotea de la escuela.}
+110	49d8d32c	{fc(57e4f1)¿Era un sueño? No, me dolía demasiado la espalda para que fuera otra cosa que realidad.}
+120	b9b76a08	{fc(57e4f1)Por un momento, no pude recordar cómo había llegado allí.}
+130	7dd07fa5	{fc(57e4f1)Pero entonces todo volvió de golpe. El invasor hecho de Llamas Eternas apareció otra vez anoche.}
+140	53e54064	Es cierto... ¡Me atacó...!
+150	54cb35ca	{fc(57e4f1)¿Qué fue esa extraña técnica que usó? Por un instante pareció que todo el cielo se iluminaba, y luego...}
+160	bd9c2f6f	¿Estás bien, Takumi? ¿Qué haces aquí afuera?
+170	5cdeca04	Ah, hola, Eito...
+180	36c643df	Vaya tormenta la de anoche, ¿eh? Nunca había visto un {fc(ff635b)rayo}.
+190	0c203001	¿Un... rayo?
+200	5c1a1600	Una descarga de electricidad de las nubes de tormenta. Ocurre aquí en el mundo exterior de vez en cuando.
+210	d686a522	Seguro oíste el trueno: es el sonido de cuando cae a tierra. Cada descarga tiene fuerza suficiente para causar la muerte instantánea.
+220	4a39af3b	¡¿M-Muerte instantánea?!
+230	bead1d0c	Eso es lo que leí, al menos. El {fc(ff635b)rayo} es raro, pero cuando ocurre es veloz y mortal.
+240	7a1e643a	Sinceramente, con fenómenos naturales tan peligrosos, cuesta creer que la humanidad sobreviviera aquí afuera tanto tiempo como lo hizo.
+250	505fe7ed	Espera... ¿Fenómenos "naturales"?
+260	8234c65c	{fc(57e4f1)¿O sea que todo eso fue... natural? ¿No fue un ataque? Pero entonces, ¿por qué yo...?}
+270	09f4d439	¿Seguro que te sientes bien, Takumi? Te ves pálido.
+280	b81bd849	Quizás deberías descansar. Puedo traerte el desayuno si quieres.
+290	5f4609b6	No me molesta hacer el viaje dos veces, por ti. Para eso están los amigos, ¿no?
+300	16b134f3	Eh... No, estoy bien. Solo necesito un minuto. Nos vemos en la cafetería.
+310	3351ac21	Está bien, pero avísame si hay algo que pueda hacer por ti.
+320	1123796f	{fc(57e4f1)Con una sonrisa reticente, Eito se adelantó.}
 330	f4a72a8b	
-340	5c17362a	{fc(57e4f1)...Pero si eso no fue obra de esa cosa, ¿por qué me desmayé?}
-350	c849a8ab	Creo que en ese momento yo...
-360	bed18787	{fc(57e4f1)en el instante en que salí corriendo para atraparla, esa luz y ese ruido tan fuertes me hicieron perder la vista y el equilibrio...}
-370	7102ba5a	...¿Y me resbalé? ¿Y por eso me golpeé la cabeza?
-380	9bb1c142	{fc(57e4f1)Entonces, ¿esa cosa me dejó en paz mientras estaba desmayado? ¿Sin atacarme?}
+340	5c17362a	{fc(57e4f1)Si ese destello de "rayo" no fue obra del invasor, ¿por qué terminé desmayado hasta la mañana?}
+350	c849a8ab	¿Cómo fue que pasó, otra vez...?
+360	bed18787	{fc(57e4f1)Repasé los sucesos de anoche. Me lancé sobre el invasor de fuego, hubo un destello y un estruendo, y luego caí...}
+370	7102ba5a	¿Habré resbalado en el suelo mojado y me golpeé la cabeza? Supongo que eso lo explicaría...
+380	9bb1c142	{fc(57e4f1)Eso me habría dejado completamente indefenso, sin embargo. ¿Por qué el invasor no me remató?}
 390	f4a72a8b	
-400	7582a58f	{fc(57e4f1)No lo entiendo bien, pero... mejor les cuento a todos sobre esa cosa.}
-410	08497eff	{fc(57e4f1)...Por ahora, voy a la cafetería.}
+400	7582a58f	{fc(57e4f1)Otro misterio que sumar a la pila. Debería contárselo a los demás.}
+410	08497eff	{fc(57e4f1)Probablemente ya estén en la cafetería.}

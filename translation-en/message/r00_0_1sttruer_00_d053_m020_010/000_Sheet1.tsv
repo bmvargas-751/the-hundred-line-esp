@@ -1,63 +1,63 @@
 id	huella_jp	es
-10	3ec5149d	{fc(57e4f1)En cuanto abrí la puerta de entrada, me llegó una voz alegre y fresca.}
-20	dda0f639	¡Buenos días, Sr. Sumino!
-30	560a905b	¡I-Ima...!
-40	ea45bd3a	Sr. Sumino, disculpe la pregunta, pero ¿no me está ocultando algo?
-50	5d7c5bde	¿Eh? ¿O-Ocultando algo?
-60	7824e812	No, si son ideas mías, mejor...
-70	4d896ffa	...¿Y? ¿Me está ocultando algo o no?
-5000	26df9352	Contarle
-5001	20053e49	No contarle
-5010	1a89a71f	¿De verdad? Se lo pregunto otra vez: ¿de verdad no me está ocultando nada?
-80	b2448e26	No es que te lo esté ocultando, pero... en mi habitación había una nota que parece escrita por Kako.
-90	74e74a4a	Seguramente... la metió por la rendija de la puerta de entrada.
-100	ce6ca73e	Ah, es cierto, es la letra de mi queridísima hermana. ¿Me permite...?
-110	77447239	{fc(57e4f1)Ima me arrebató la nota de la mano y,} {fc(cfff3f)"cranch"}{fc(57e4f1), la hizo un bollo en el puño.}
-120	4a9cdbd2	¡O-Oye...!
-130	f69f5b46	Parece que mi queridísima hermana lo tenía en muy alta estima, Sr. Sumino. Mire que pedirle que me convenza...
+10	3ec5149d	{fc(57e4f1)Todavía adormilado, abrí la puerta y me recibió un saludo animado y una sonrisa alegre.}
+20	dda0f639	¡Buenos días, señor Sumino!
+30	560a905b	¡¿I-Ima?!
+40	ea45bd3a	Perdone que me salte la charla; iré directo al grano. ¿Me está ocultando algo?
+50	5d7c5bde	¿O-Ocultando algo...?
+60	7824e812	Quizás solo sean ideas mías...
+70	4d896ffa	Pero quizás no. ¿Y bien? ¿Cuál es?
+5000	26df9352	Sí.
+5001	20053e49	
+5010	1a89a71f	¿De verdad? Solo quiero estar seguro de haber oído bien. ¿Me oculta algo o no?
+80	b2448e26	No diría que te lo estoy ocultando... Pero anoche encontré una nota de Kako.
+90	74e74a4a	Aunque nunca la vi. Probablemente la deslizó bajo la puerta.
+100	ce6ca73e	Sí que parece la letra de mi querida hermana. ¿Me permite?
+110	77447239	{fc(cfff3f)*crac*} {fc(57e4f1)Sin esperar respuesta, Ima me quitó la nota y la hizo un bollo apretado...}
+120	4a9cdbd2	¡Oye! ¿Qué haces?
+130	f69f5b46	Mi querida hermana claramente confía mucho en sus dotes de orador, si cree que funcionarían conmigo.
 140	f4a72a8b	
-150	4c1b8d5f	Sr. Sumino, ¿por qué no hacemos un trato?
-160	37710f3a	...¿Qué? ¿Un trato?
-170	e625cee2	Si necesitan más fuerza de combate, yo puedo pelear con ustedes.
-180	57c811bd	¿Eh...?
-190	632acb2d	Pero con una condición. Al revés: quiero que usted convenza a mi queridísima hermana.
-200	aea4737a	¿Que la convenza... a ella?
-210	a9e5e562	¿Será que mi queridísima hermana está en la edad rebelde? Esta vez no hay forma de que me haga caso.
-220	e6f877f5	Así que quiero que usted, Sr. Sumino, la convenza y haga que se rinda con eso de pelear.
-230	6be97229	Si lo logra, yo voy a pelear con ustedes.
-240	861618dc	¿Lo dices... en serio?
-250	bb03f40f	En serio. Superserio.
-260	79a6a2b7	Para empezar, es imposible que mi queridísima hermana pelee... Ella no es de las que protegen, sino de las que son protegidas.
-270	a3fe0c23	Por eso, para protegerla, quiero que usted, Sr. Sumino, la convenza.
-280	13344371	Si lo logra, yo peleo por los dos.
-290	91fada5a	...¿Qué dice? ¿Acepta el trato?
-5100	14380f3f	Aceptar
-5101	924fb47a	No aceptar
-5110	0ef9a7ea	...No, no, no diga eso. ¿Acepta el trato?
-300	fca15063	...De acuerdo. No me queda otra que aceptar, ¿no?
-310	1bfa1df5	¡Uy, como era de esperar del Sr. Sumino! ¡Qué bien que me entiende!
-320	1b23ed80	Pero es la decisión correctísima.
-330	d702b6a5	Es obvio que yo soy mucha más fuerza de combate que mi frágil queridísima hermana.
-340	120f9506	Si la convenzo... ¿de verdad vas a pelear?
-350	0dafe70c	Claro. ¿Tengo pinta de ser de los que mienten?
-360	e2a710f8	{fc(57e4f1)Justamente porque la tienes, tengo este problema...}
-370	74374820	...Por cierto, ¿y si no consigo convencer a Kako? ¿Qué piensas hacer?
-380	e3131d91	Jaja, una palabra tan negativa como "no conseguir" no le queda, Sr. Sumino.
-390	19e53e2f	Pero, a ver... si destruyo la Sala de Defensa, ya no hace falta pelear, ¿no...?
-400	aef48060	...¿Qué?
-410	72470648	A mí me basta con proteger la paz de mi queridísima hermana; la humanidad y el mundo me importan un carajo, en serio...
-420	969b8008	Así que, antes que dejarla hacer algo peligroso, quizás destruya de una vez la Sala de Defensa.
-430	c64cad24	{fc(57e4f1)Ima lo dijo riéndose, con cara de broma, pero...}
-440	ee41679c	{fc(57e4f1)era evidente que no era solo una broma. Al contrario, este va en serio.}
-450	ab45082a	{fc(57e4f1)Le importa más su hermana que el mundo. Ella sola... es su mundo.}
-460	30dd5081	Bueno, lo de convencerla, cuanto antes, por favor.
-470	716d2827	Si no tenemos una conclusión antes de que se cure el Sr. Yakushiji, parece que todo se va a complicar otra vez.
-480	2bed0369	Eso es culpa tuya, para empezar...
-490	a01be0c3	Jaja, es cierto. ¡Como sea, se lo dejo en sus manos!
-500	811cfc14	{fc(57e4f1)Y sin mostrar el menor remordimiento, Ima se fue sonriendo y saludando con la mano.}
+150	4c1b8d5f	¿Qué tal si hacemos un trato, señor Sumino?
+160	37710f3a	¿Eh? ¿Un trato...?
+170	e625cee2	Si de verdad necesitan más poder de fuego, no me importa unirme al equipo.
+180	57c811bd	¿Qué...?
+190	632acb2d	Pero con una condición. Usted tiene que convencer a mi querida hermana de que NO pelee.
+200	aea4737a	¿Convencer... a Kako?
+210	a9e5e562	Está en una fase rebelde. Diga lo que diga, se niega a entrar en razón.
+220	e6f877f5	Me gustaría que use su talento para hablar con la gente y haga que renuncie a esta tonta idea de pelear como el resto de ustedes.
+230	6be97229	Si lo logra, con gusto pondré mi vida en juego en su lugar.
+240	861618dc	¿Lo dices en serio?
+250	bb03f40f	Lo juro por mi corazón.
+260	79a6a2b7	Cualquier intento de poner a mi querida hermana en el campo de batalla está condenado al fracaso. Está hecha para ser protegida, no para proteger.
+270	a3fe0c23	Solo necesita que alguien la convenza de que es lo mejor. Ahí entra usted.
+280	13344371	Si lo consigue, yo pelearé lo suficiente por los dos.
+290	91fada5a	¿Y bien? ¿Tenemos un trato?
+5100	14380f3f	Sí.
+5101	924fb47a	
+5110	0ef9a7ea	No sea así, señor Sumino. ¿Tenemos un trato?
+300	fca15063	Muy bien... Tengo la impresión de que no aceptarías un no por respuesta de todos modos.
+310	1bfa1df5	¡Otra observación astuta! Gracias por ponérmelo tan fácil, señor Sumino.
+320	1b23ed80	Créame, ha tomado la decisión correcta.
+330	d702b6a5	Mi querida hermana es muchas cosas, pero una luchadora no es una de ellas. Si uno de nosotros tiene que ensuciarse las manos, debería ser yo: cualquiera lo ve.
+340	120f9506	De acuerdo, de acuerdo... Siempre que cumplas tu parte del trato.
+350	0dafe70c	Ya le di mi palabra. ¿Tengo cara de mentiroso?
+360	e2a710f8	{fc(57e4f1)¡Sí! Por eso lo mencioné.}
+370	74374820	Por cierto... ¿Y si no logro persuadirla? ¿Qué harás entonces?
+380	e3131d91	Tsk, tsk. Una actitud tan negativa no le sienta, señor Sumino.
+390	19e53e2f	Pero si eso ocurre... Quizás derribe la puerta de la Sala de Defensa y termine la guerra así.
+400	aef48060	¡¿Qué?!
+410	72470648	Mientras mi querida hermana pueda vivir el resto de su vida en paz y seguridad, no me importa qué pase con la humanidad ni con el planeta.
+420	969b8008	Si juzgo que esta guerra la pone en peligro indebido, no dudaré en ponerle fin por cualquier medio necesario.
+430	c64cad24	{fc(57e4f1)Ima dijo todo esto con la misma sonrisa plácida de siempre. Si no lo conociera, habría pensado que bromeaba.}
+440	ee41679c	{fc(57e4f1)Pero lo conocía. Detrás de esa sonrisa, hablaba completamente en serio.}
+450	ab45082a	{fc(57e4f1)Condenaría gustoso a la humanidad si eso significara mantener a salvo a su hermana. Ella es de verdad todo su mundo.}
+460	30dd5081	Ahora que eso está resuelto, debería ponerse manos a la obra.
+470	716d2827	Si no logra convencerla para cuando se recupere el señor Yakushiji, solo complicará más las cosas.
+480	2bed0369	Y recuérdame, ¿de quién es la culpa?
+490	a01be0c3	Jaja, culpable... ¡En fin, buena suerte!
+500	811cfc14	{fc(57e4f1)Ima se despidió con la mano con indiferencia y salió del cuarto como si no tuviera ni una preocupación en el mundo.}
 510	f4a72a8b	
-520	a817b358	{fc(57e4f1)Qué giro tan inesperado... Tenía que convencer a Ima, y al final me toca convencer a Kako...}
-530	76d7db82	{fc(57e4f1)...Pero no queda otra. Ima no parecía dispuesto a ceder de ninguna manera...}
-540	bcf3dd76	{fc(57e4f1)Además, la verdad, eso de que no creo que Kako pueda pelear me convence.}
-550	e1de083c	{fc(57e4f1)...Por ahora, no queda otra que hacer como que sigo intentando convencer a Ima y tratar de convencer a Kako.}
-560	6156f4cc	{fc(57e4f1)Me siento mal, como si la engañara... pero no queda otra. Igual que antes, empiezo reuniendo información.}
+520	a817b358	{fc(57e4f1)O sea que resulta que tendré que convencer a Kako, no a Ima...}
+530	76d7db82	{fc(57e4f1)No me gusta, pero Ima no me ha dado mucha opción. No va a ceder en esto, lo noto.}
+540	bcf3dd76	{fc(57e4f1)Y, para ser sincero, tiene razón en que Kako no es muy luchadora.}
+550	e1de083c	{fc(57e4f1)Tendré que fingir que acepté su petición y luego dársela vuelta una vez que se abra conmigo.}
+560	6156f4cc	{fc(57e4f1)Algo feo de hacer... Pero es por un bien mayor. Empezaré preguntando a los demás sobre ella.}

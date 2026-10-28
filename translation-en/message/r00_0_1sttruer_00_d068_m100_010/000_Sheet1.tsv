@@ -1,33 +1,33 @@
 id	huella_jp	es
-20	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-30	7ab1d397	No se sabe cuándo van a atacar los invasores, así que descansen bien mientras puedan...
-40	b588a67e	Bueno... buenas noches...
-50	90212d56	Ya es de noche...
+20	fcd5bdde	*bostezo* Descansen, soldados. Es hora de irse a la cama.
+30	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
+40	b588a67e	Bueno, entonces, buenas noches...
+50	90212d56	¿Ya es de noche?
 60	f4a72a8b	
-70	1ec19393	{fc(57e4f1)¿Qué estará haciendo ahora Ima, al que se llevaron? ¿Cómo estará Nozomi?}
-80	9930e3f4	{fc(57e4f1)¿Kako... seguirá llorando? ¿Avanzará Tsubasa con la reparación?}
-90	29eff993	¿No hay nada que yo pueda hacer? ¿Está bien que me quede esperando sin más en esta situación?
+70	1ec19393	{fc(57e4f1)Me pregunto qué estará haciendo Ima ahora. Me pregunto cómo se sentirá Nozomi.}
+80	9930e3f4	{fc(57e4f1)¿Kako seguirá llorando? ¿Habrá avanzado Tsubasa con las reparaciones?}
+90	29eff993	¿De verdad no hay nada que pueda hacer para ayudar a ninguno de ellos? ¿Solo debo quedarme esperando?
 100	f4a72a8b	
-110	1f5ffad2	{fc(57e4f1)Dándole vueltas a un montón de preocupaciones, pasé la noche entre ratos de sueño ligero y despertares.}
-120	27d3ad35	Karua... ya está bien... Vete a tu casa...
-130	b97cdd2d	No. ¿Cómo voy a dejarlos solos, si tú y tu mamá están en cama, Takky?
-140	28cb2ef3	Además, después tengo que limpiar y lavar los platos.
-150	15b8fd55	...No hace falta que hagas tanto. Además, ¿no ves que te puedo contagiar el resfriado?
-160	c6432399	¡Yo estoy bien! ¡Estoy segura de que no me contagio!
-170	4a11b79d	Una seguridad sin ningún fundamento...
-180	6c018752	Es que tu mamá, Takky, siempre me invita a comer cosas riquísimas.
-190	a7d47b3d	Quiero devolverle el favor aunque sea un poco... Además, si vuelvo a casa no hay nadie, así que no tengo nada que hacer.
-200	57b7e52c	...¿Tu mamá está otra vez con sus investigaciones?
-210	258385dc	Sí. Estos últimos días se queda a dormir allá y ni siquiera vuelve a casa...
+110	1f5ffad2	{fc(57e4f1)Con la cabeza atormentada por decenas de preocupaciones, pasé la noche cayendo en un sueño ligero y despertando una y otra vez.}
+120	27d3ad35	Karua, está bien... Vete ya a casa...
+130	b97cdd2d	No. No puedo dejarlos postrados a ti y a tu mamá, Takky.
+140	28cb2ef3	Además, después de esto tengo que hacer algo de limpieza y lavar la ropa.
+150	15b8fd55	No tienes que hacer todo eso. ¿No vas a contagiarte nuestro resfriado?
+160	c6432399	¡Estoy perfectamente bien! ¡Estoy segura de que no me contagiaré!
+170	4a11b79d	Tu seguridad no se basa en ninguna prueba...
+180	6c018752	Takky, tu mamá siempre me invita a comidas riquísimas.
+190	a7d47b3d	Quiero devolverle un poco el favor... Y de todos modos estoy libre; no habría nadie en casa si volviera.
+200	57b7e52c	¿Tu mamá está ocupada otra vez con su investigación?
+210	258385dc	Sí. Estos últimos días se ha estado quedando en el laboratorio, así que no ha vuelto a casa.
 220	0a6809f0	Ya veo...
-230	77030f4e	Más importante, mira... come un poco. Te hice arroz caldoso.
-240	1f810dd9	N-No hace falta... Puedo... comer solo...
-250	29dfa6da	Deja, deja. Estás resfriado, así que yo te doy de comer.
-260	76af8341	¡Con mi arroz caldoso especial, el resfriado no tiene ninguna oportunidad!
-270	668a0372	{fc(57e4f1)Supongo que era parte de su forma de ser...}
-280	1361b472	{fc(57e4f1)Desde siempre, no podía dejar solo a alguien con problemas o débil.}
-290	ba942aab	{fc(57e4f1)Era demasiado atenta... o demasiado buena con los demás...}
-300	bab4d894	{fc(57e4f1)Bueno, las dos cosas. Por eso me preocupaba por ella.}
-310	3da5a0ae	Ya... de verdad, no hace falta. Sería terrible que te contagiara el resfriado.
-320	5f51a6d0	Ahora, en vez de preocuparte por mí, preocúpate por ti. Mira, si no comes, no te vas a mejorar.
-330	686ed500	B-Bueno, está bien...
+230	77030f4e	Más importante, toma. Come un poco. Preparé arroz caldoso.
+240	1f810dd9	E-Estoy bien... Puedo darme de comer solo...
+250	29dfa6da	Está bien, Takky. Tienes un resfriado. Yo te daré de comer.
+260	76af8341	¡Si comes mi arroz caldoso especial, tu resfriado no tendrá ninguna oportunidad!
+270	668a0372	{fc(57e4f1)Supongo que así era Karua por naturaleza.}
+280	1361b472	{fc(57e4f1)Nunca podía ignorar a los afligidos ni a los débiles.}
+290	ba942aab	{fc(57e4f1)Era demasiado considerada. O quizás demasiado buena con los demás.}
+300	bab4d894	{fc(57e4f1)Probablemente ambas cosas. Por eso siempre me preocupaba por ella.}
+310	3da5a0ae	Oye, estoy bien, de verdad. No quiero que te contagies mi resfriado.
+320	5f51a6d0	Preocúpate por ti, no por mí. Toma, no te mejorarás si no comes.
+330	686ed500	Sí, ya entendí...
