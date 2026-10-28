@@ -1,86 +1,86 @@
 id	huella_jp	es
-10	41dcb4fc	¿L-Lo logramos...? ¿Los derrotamos...?
-20	a4ac51ae	...Eso parece. Uf, estoy molido.
-30	feaa9078	¡Los dos estuvieron increíbles! ¡No parece que haya sido su primera pelea!
-40	2750af1f	Sí... la hemoánima de Kako fue tremenda. Lo de Ima... ¿más o menos, digamos?
-50	ba453961	Usted también mejoró un poco, Sr. Maruko.
-60	029b6bb1	¡¿Por qué me hablas desde arriba?!
+10	41dcb4fc	¿L-Lo logramos? ¿Los derrotamos?
+20	a4ac51ae	Parece que sí. Uf, estoy rendido.
+30	feaa9078	¡Ustedes dos estuvieron geniales! ¡Cuesta creer que fuera su primera pelea!
+40	2750af1f	Sí, la hemoánima de Kako fue genial. La de Ima fue... bueno, pasable, supongo.
+50	ba453961	Usted también ha mejorado un poco, señor Maruko.
+60	029b6bb1	¡¿Por qué ME hablas con superioridad?!
 70	f4a72a8b	
-80	2565cedc	Ya le dije... que da miedo. No hace falta que me mire así, ya lo sé.
-90	72ed20be	Pero antes, hay algo que hay que matar, ¿no?
-100	e402c010	...El golpe de gracia a ese.
-110	59ef8062	{fc(57e4f1)Cuando miramos al comandante, que seguía agazapado...}
+80	2565cedc	Vamos, me asusta. Lo entiendo. No hace falta que me mire así.
+90	72ed20be	Oye, antes de eso, hay alguien a quien tenemos que matar.
+100	e402c010	Cierto... Tenemos que acabar con él.
+110	59ef8062	{fc(57e4f1)Miramos al comandante derrotado...}
 120	7ea29225	
-130	6e7a6cc0	¿Qué será...? Parece que está diciendo algo...
+130	6e7a6cc0	¿Qué...? Parece que está diciendo algo.
 140	1f5bcd57	
-150	721d2af6	Seguramente... está suplicando por su vida, ¿no? Ya pasó algo así antes, ¿no?
-160	656958fd	Esa vez, Hiruko le dio el golpe de gracia sin decir nada...
-170	3a65fd17	Vaya... suplicar por su vida. Los invasores también hacen cosas lindas...
-180	e439f687	¿Y qué hacemos? ¿Lo ignoramos y lo matamos?
+150	721d2af6	Quizás está rogando por su vida. Ya ha pasado antes, ¿verdad?
+160	656958fd	Aquella vez, Hiruko los eliminó sin darles oportunidad.
+170	3a65fd17	Quién habría dicho que los invasores podían hacer algo tan tierno como rogar por su vida...
+180	e439f687	Entonces, ¿qué hacemos? ¿Lo ignoramos y lo matamos?
 190	f47cc07b	¿Eh? P-Pero...
-200	bb32746e	Hmph, no hace falta escuchar las súplicas de un monstruo.
-210	64108503	¡Entendido! ¡Le daré el golpe de gracia de una vez!
+200	bb32746e	Hmph. No hay por qué complacer las súplicas de un monstruo.
+210	64108503	¡En efecto! ¡Lo remato de inmediato!
 220	f5da8e0a	
-230	0e92390b	{fc(57e4f1)...Fue en ese momento. De repente, se llevó la mano a la máscara y...}
-240	d1ed14d0	{fc(57e4f1)se la quitó ella misma.}
-250	25caff3f	...¡¿Eh?!
-260	9f39b1d9	¿Se quitó... la máscara?
-270	d552f2e1	¿E-Esta es la verdadera cara de un comandante? Pero esto es...
-280	e9b9c2c2	Igualita... a una humana.
-290	bb0fa93f	¡No es que se parezca... es una humana se la mire por donde se la mire! ¡¿Qué es esto?! ¡¿Qué significa?!
+230	0e92390b	{fc(57e4f1)Ahí fue cuando pasó. El comandante aterrado se llevó la mano a la máscara...}
+240	d1ed14d0	{fc(57e4f1)Y se la quitó del rostro.}
+250	25caff3f	¡¿Eh?!
+260	9f39b1d9	¿Se quitó la máscara...?
+270	d552f2e1	¿Esta es la verdadera cara de un comandante? Pero por más que la miro...
+280	e9b9c2c2	Es de aspecto humano.
+290	bb0fa93f	¡No de aspecto humano, es obviamente humana! ¡¿Qué es esto?! ¡¿Qué está pasando?!
 300	f4a72a8b	
 310	bd576af7	
-320	4c21cc45	Otra vez está hablando con palabras que no se entienden...
-330	0de8c1d1	Si por lo menos entendiéramos lo que dice, le podríamos preguntar un montón de cosas...
-340	f226d59b	¿Será que... es un idioma extranjero?
-350	d363e22a	¿Eh? ¿Un idioma extranjero...?
-360	e7e984fb	Esto también lo leí en un libro de la biblioteca: antes, la humanidad...
-370	0c02e133	estaba dividida en {fc(ff635b)"razas"}, y parece que\ncada una hablaba un idioma distinto.
-380	77ecd45e	¿Hablaban... idiomas distintos?
-390	6fbf1244	¿Aunque eran todos humanos...?
-400	4027d248	Parece que los llamaban {fc(ff635b)"idiomas extranjeros"}. Aunque eran todos humanos, no todos podían hablar entre sí.
-410	84222513	¿Lo que habla esta es... eso? ¿Un idioma extranjero, como dices?
-420	ecf8ba27	Entonces, lo que esta persona es en realidad...
-430	d6710f33	...¿Otra raza de la humanidad? ¿Eso son en realidad los invasores?
-440	611ed349	Pero ¿los invasores no eran seres que la Tierra creó para hacer avanzar la {fc(ff635b)"Muerte del Mundo"}?
-450	88c95d00	Si son otra raza de la humanidad, ¿por qué intentan hacer avanzar el suicidio de la Tierra?
-460	4fa70104	¡Es cierto! ¡Si hacen eso, ellos también se van a extinguir!
-470	dec95476	Es cierto... Entonces, quizás no sea eso...
-480	5c27c524	¡Ay, en serio! ¡No hay más que cosas que no se entienden!
-490	d71b950e	¡Basta! ¡Qué importa lo que sean! ¡Hay que cortarle la cabeza de una vez!
+320	4c21cc45	Sigue diciendo palabras que no entiendo.
+330	0de8c1d1	Si pudiéramos entenderla, podríamos hacerle preguntas...
+340	f226d59b	¿Será acaso... un idioma extranjero?
+350	d363e22a	¿Eh? ¿Un idioma extranjero?
+360	e7e984fb	Leí sobre esto en un libro de la biblioteca.
+370	0c02e133	La humanidad estuvo dividida en varias tribus \nconocidas como {fc(ff635b)razas}. Al parecer, cada una hablaba un idioma distinto.
+380	77ecd45e	¿Hablaban idiomas distintos?
+390	6fbf1244	¿Aunque todos eran humanos?
+400	4027d248	Los llamaban {fc(ff635b)"idiomas extranjeros"}. Aunque todos eran humanos, no todos podían hablarse entre sí.
+410	84222513	¿Es eso lo que hace este comandante? ¿Hablar un idioma extranjero?
+420	ecf8ba27	En ese caso, esta persona sería...
+430	d6710f33	¿De otra raza de humanos? ¿Esa es la verdadera naturaleza de los invasores?
+440	611ed349	Pero ¿los invasores no eran algo nacido de la Tierra para hacer avanzar la {fc(ff635b)Muerte del Mundo}?
+450	88c95d00	Si son otra raza de humanos, ¿por qué intentan ayudar al mundo a suicidarse?
+460	4fa70104	¡Es cierto! ¡Si hicieran eso, también se estarían matando a sí mismos!
+470	dec95476	Es verdad... Quizás nos equivocamos.
+480	5c27c524	¡Viejo, ahora hay todavía más cosas que no entiendo!
+490	d71b950e	¡No! ¡Su verdadera forma no importa! ¡Hay que decapitarlos de inmediato!
 500	be374f90	P-Pero...
 510	c868b5d8	
 520	57c811bd	¿Eh...?
 530	f3da1b12	¿Está... llorando?
-540	5a5a0cf7	Parece que de verdad no quiere morir. Así que los invasores también tienen esos sentimientos.
-550	7516e7c1	Como que... me empieza a dar un poco de pena...
-560	4bf66989	¡No digan tonterías! ¡¿Los invasores son el mal, saben?! ¡Al mal solo hay que partirlo en dos!
-570	6d07a200	P-Pero... matar a alguien que llora así...
-580	606adda0	Yo... no puedo...
-590	f4a72a8b	...
-600	4cae0f8a	Entonces... ¿qué tal si la tomamos prisionera?
-610	1afbc89a	...¿Prisionera?
-620	5f5873d6	La jaula que parecía tan resistente, la del Patio. Esa jaula tenía una característica un poco rara, ¿no?
-630	bcd0308b	Ah... que anula los poderes de los seres que se encierran adentro...
-640	04e715c0	Entonces, si la metemos ahí, no hay que preocuparse de que se ponga violenta, ¿no?
-650	91e83b55	¿La vamos a encerrar... en esa jaula?
-660	b79569aa	Es que, si suplica así por su vida, no podemos matarla, ¿no?
-670	ff03f8b3	Eso... es cierto...
-680	b2869709	Además, si algún día podemos comunicarnos con ella, quizás consigamos información sobre los invasores.
-690	573dbedc	Ya veo. Tiene su lógica.
-700	e2fb8f34	Entonces, no la matamos y por ahora la tomamos prisionera... ¿está bien?
-710	efe43198	Es cierto... Yo también creo que es lo mejor. ¿Y los demás?
-720	e0cc3cb8	Qué remedio... Si Nozomi insiste, está bien...
-730	2a94b8bd	¡Yo también estoy a favor! ¡Ah, a una basura de cerdo como yo no le preguntaban!
-740	68168576	A Darumi le da igual...
-750	5d925378	Qué blandos son todos... Bueno... como soy adulta, voy a ceder...
-760	d39a7d60	Entonces, está decidido. No la matamos y la tomamos prisionera.
-770	b2701652	Ah, si hace falta torturarla, ¿me lo dejan a mí?
-780	2a4bbf42	¿Qué gritos darán los invasores...? De solo imaginarlo... me da escalofríos...
-790	0811402c	...Ay, qué asco das.
-800	642c16a9	Bueno... llevémosla a la jaula de animales del Patio.
-810	988bdfe1	...No te pongas violenta, ¿eh? Aunque seguro que no me entiendes.
+540	5a5a0cf7	Parece que de verdad no quiere morir. Me sorprende que los invasores tengan tales emociones.
+550	7516e7c1	Como que empiezo a sentir pena por ella...
+560	4bf66989	¡Basta de tonterías! Los invasores son malvados. ¡Y el mal debe ser aniquilado!
+570	6d07a200	Pero ¿de verdad podemos matar a alguien con tanto miedo a morir?
+580	606adda0	No puedo hacerlo...
+590	f4a72a8b	Mmm...
+600	4cae0f8a	¿Y si... la tomamos prisionera en lugar de matarla?
+610	1afbc89a	¿Prisionera...?
+620	5f5873d6	¿Recuerdan esas jaulas de aspecto resistente en el Patio? Tenían una característica especial, ¿verdad?
+630	bcd0308b	Cierto. Anulan los poderes de quien esté encerrado dentro...
+640	04e715c0	Así que si la metemos en una de esas jaulas, no tenemos que preocuparnos de que cause problemas.
+650	91e83b55	¿Vamos a meterla en una jaula?
+660	b79569aa	No podemos matarla después de que haya rogado así por su vida.
+670	ff03f8b3	Eso es cierto...
+680	b2869709	Además, si algún día pudiéramos comunicarnos con ella, podríamos obtener más información sobre los invasores.
+690	573dbedc	Ah, quizás tenga razón.
+700	e2fb8f34	Muy bien, entonces no la matemos, pero tengámosla prisionera por ahora. ¿Les parece bien a todos?
+710	efe43198	Sí. Creo que está bien. ¿Y los demás?
+720	e0cc3cb8	Hmph... Como sea. Si Nozomi insiste, por mí está bien.
+730	2a94b8bd	Estoy de acuerdo. Aunque probablemente no le preguntaban a un asqueroso gordo como yo.
+740	68168576	A mí me da igual.
+750	5d925378	Son todos demasiado blandos... pero soy adulta, así que cederé el punto.
+760	d39a7d60	Entonces está decidido... La encarcelaremos sin matarla.
+770	b2701652	Oigan, si hace falta torturarla, ¿me dejan hacerlo a mí?
+780	2a4bbf42	¿Qué clase de gritos darán los invasores? Solo imaginarlo me pone la piel de gallina...
+790	0811402c	Uf... ¿Por qué tienes que ser tan escalofriante?
+800	642c16a9	Muy bien, llevémosla a las jaulas del Patio.
+810	988bdfe1	No te resistas, ¿de acuerdo? Aunque no entiendas lo que digo...
 820	f4a72a8b	
-830	ef820fde	{fc(57e4f1)Rodeando a la comandante que se había rendido, la llevamos a la jaula de animales del Patio...}
-840	fac7ac49	{fc(57e4f1)Estábamos preocupados, pero ella obedeció sin resistirse.}
-850	10005676	{fc(57e4f1)Seguía teniendo la mirada asustada, pero también parecía de algún modo aliviada.}
+830	ef820fde	{fc(57e4f1)Rodeamos a la comandante caída y la llevamos a una de las jaulas del Patio.}
+840	fac7ac49	{fc(57e4f1)Nos preocupaba que se resistiera, pero nos siguió en silencio.}
+850	10005676	{fc(57e4f1)Aún tenía una mirada asustada, pero también parecía algo aliviada.}
