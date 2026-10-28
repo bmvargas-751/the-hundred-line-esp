@@ -1,81 +1,81 @@
 id	huella_jp	es
-10	e9d3c8a7	...Shouma, ¿tienes un momento?
-20	a2d0c211	¿Eh? ¿Yo...? ¿Necesita algo de una porquería como yo?
-30	73c65305	Ah, aunque me aplaste contra la plancha, no creo que reaccione mucho; sería aburrido, ¿sabe?
-40	a0e2c364	No es eso... Hace un rato parecía que querías decir algo, ¿no? Si te pasa algo, ¿me lo cuentas?
+10	e9d3c8a7	Oye, Shouma, ¿tienes un momento?
+20	a2d0c211	¿Quieres hablar conmigo...? De acuerdo, pero deberías ajustar tus expectativas.
+30	73c65305	Desde la conversación sofisticada hasta el humor soez, todo me pasa por encima. Me dicen que puede resultar frustrante.
+40	a0e2c364	No importa eso. Parecía que tenías algo que decir cuando te hablé antes. ¿Qué te preocupa?
 50	f4a72a8b	
-60	2093973f	Entonces... sí hay algo, ¿no?
-70	635b3758	S-Sí... La verdad es que me acordé de algo...
-80	f631fc5e	Pensé que... a lo mejor tiene que ver con el motivo por el que los trajeron a todos aquí...
-90	ce8b63fe	...¿Eh?
-100	2029af54	¿Ñah? ¿El motivo por el que nos trajeron aquí? Darumi lo escuchó todo.
-110	4a415793	Darumi tiene buen oído... aunque tenga mala cabeza y mal carácter...
-120	1d11defc	¡Oigan, todos! ¡Dice que sabe por qué nos trajeron aquí!
-130	fabb315a	¡O-Oye... espera...!
-140	c73eb169	{fc(57e4f1)Traté de detenerla a toda prisa, pero todos oyeron la voz de Amemiya y se juntaron enseguida...}
-150	c328ff6d	¡¿Eh?! ¡¿Cómo es eso?! ¡¿Que sabe por qué nos trajeron aquí?!
+60	2093973f	Está bien, puedes contármelo.
+70	635b3758	La verdad es que... recordé algo.
+80	f631fc5e	Y, aunque no puedo estar seguro... creo que tiene algo que ver con por qué estamos aquí.
+90	ce8b63fe	¿Eh...?
+100	2029af54	¡Ooh, ¿sabes por qué nos trajeron aquí, Shouma?! ...Hola, por cierto. Estaba espiando.
+110	4a415793	Y antes de que digas nada, no pude evitarlo. Mi oído es así de bueno... Es mi maldición.
+120	1d11defc	¡Oigan, chicos! ¡Shouma sabe qué hacemos de verdad aquí!
+130	fabb315a	¡Darumi...!
+140	c73eb169	{fc(57e4f1)Intenté callarla, pero el daño estaba hecho. En unos segundos, el resto del grupo se había reunido a nuestro alrededor.}
+150	c328ff6d	¡¿Quééé?! ¿De verdad sabes por qué estamos aquí, Shouma?
 160	89ed31d7	¡¿En serio?!
-170	78fc2fa7	¡En serio! ¡Lo dijo Shouma! ¡Dice que se acordó de algo!
+170	78fc2fa7	¡Sí, de verdad! Él mismo lo dijo. Desbloqueó un recuerdo reprimido o algo así.
 180	f4a72a8b	
-190	31f4ac6d	...Oye, ¿de qué te acordaste? Cuéntalo de una vez.
+190	31f4ac6d	Recordaste algo importante, ¿no? Suéltalo.
 200	f4a72a8b	
-210	969327e2	Shouma... creo que ya no queda otra. ¿Por qué no se lo cuentas a todos?
-220	5d775bf0	...Tiene razón, de acuerdo.
-230	f34dda51	{fc(57e4f1)Después de tomar aire, Shouma empezó a contar, de a poco.}
-240	b8df500b	Anoche tuve un sueño...
-250	3ab38391	...¿Un sueño?
-260	f7cc9740	Pero no algo imaginario que nunca pasó, sino algo real que pasó en el pasado.
-270	0b27836a	Me acordé de eso en el sueño.
-280	1d809ddb	{fc(57e4f1)¿Se acordó... de algo del pasado en un sueño?}
-290	24c87f64	{fc(57e4f1)¿Como mis recuerdos con Karua...?}
-300	099b3537	...¿Y de qué te acordaste, Ginzaki?
-310	2d0a78d1	De cuando estuve internado en un hospital del Complejo Residencial de Tokio. No sé por qué, pero me había olvidado de eso...
-320	c6c68273	Estuve internado en un hospital llamado {fc(ff635b)"Hospital General Kamukura"}.
-330	4e754731	¿Hospital... General Kamukura...? Nunca lo oí nombrar...
-340	bcdac407	No me acuerdo de cuándo ni por qué me internaron, pero no hay duda de que estuve ahí.
-350	5bcc041a	Y ahí me metieron dentro de {fc(ff635b)"cierto aparato"}.
-360	0a43f7a7	...¿Cierto aparato?
-370	c27e6be3	Sí. Un aparato en forma de cápsula, del tamaño justo para que entre una persona.
-380	2c4177b1	¿Y qué con eso? No entiendo a dónde vas.
-390	14635c03	Un aparato exactamente igual... estaba en esta academia.
-400	ce8b63fe	...¿Eh?
-410	f914cff2	Hay un salón misterioso donde la luz nunca se prende, ¿no?
-420	30bcc843	Ahí había una fila de {fc(ff635b)"aparatos misteriosos"}, ¿no?
-430	ef833465	Ah... los que estaban rotos...
-440	c96a77e2	Esos son... los aparatos en los que me metieron en el Hospital General Kamukura.
-450	257ff880	...¿Eh?
-460	e8786f1b	¿Tú... en ese aparato? ¿Y encima en un hospital del Complejo Residencial de Tokio?
-470	7f5115b3	Oye, ¿y qué es ese aparato? ¿Para qué sirve?
-480	3870211b	...Eso no lo sé. No me acuerdo de nada más.
-490	ac66c13a	¿Qué? ¿Que no te acuerdas...?
-500	1ba10252	...¿Pero no es el aparato en el que te metieron a ti?
-510	b1ea59c8	Sí. Perdón.
-520	5ac84374	Entonces, el motivo por el que ese aparato está en esta academia...
-530	77a2e6ae	Eso tampoco lo sé. Por más que lo intento, no me acuerdo.
-540	664fb898	Jajaja, no tiene ni pies ni cabeza. Oiga, ¿eso no será puro delirio suyo?
-550	1180cdfe	Dice que se "acordó", pero ¿cómo puede asegurar que no fue un sueño?
-560	7507b880	A lo mejor vio ese aparato misterioso aquí y por eso soñó con algo parecido, ¿no?
-570	ea683145	Además, ¿uno se acuerda de las cosas así, a pedazos? Y para empezar, ¿por qué se había olvidado?
+210	969327e2	Ya no sirve de nada ocultarlo, Shouma. No tengas miedo: solo cuéntanos lo que sabes.
+220	5d775bf0	Muy bien... Perdón por hacerlo tan difícil.
+230	f34dda51	{fc(57e4f1)Shouma respiró hondo y empezó a murmurar una explicación.}
+240	b8df500b	Anoche... tuve un sueño.
+250	3ab38391	¿Un sueño...?
+260	f7cc9740	Sé lo que piensan, pero no era un sueño normal. Era más bien... un recuerdo.
+270	0b27836a	Incluso después de despertar, estaba seguro. Era algo que realmente ocurrió.
+280	1d809ddb	{fc(57e4f1)Un sueño que trajo de vuelta un viejo recuerdo...}
+290	24c87f64	{fc(57e4f1)Suena mucho a los sueños que he tenido con Karua.}
+300	099b3537	¿Qué te hizo recordar este sueño?
+310	2d0a78d1	Allá en el complejo residencial, pasé un tiempo en el hospital. Es raro que lo haya olvidado hasta ahora...
+320	c6c68273	En fin, era un lugar llamado {fc(ff635b)Hospital General Kamukura}.
+330	4e754731	Kamukura... No me suena de nada...
+340	bcdac407	No recuerdo por qué me ingresaron ni cuánto tiempo estuve, pero definitivamente estuve allí.
+350	5bcc041a	Y mientras estuve allí, me metieron en {fc(ff635b)algún tipo de máquina}.
+360	0a43f7a7	¿Una máquina...?
+370	c27e6be3	Sí. Una especie de cápsula, o cilindro. Lo justo para que cupiera una persona.
+380	2c4177b1	No veo a dónde va esto.
+390	14635c03	La cuestión es que hay máquinas iguales a esa... justo aquí en esta escuela.
+400	ce8b63fe	¿Qué?
+410	f914cff2	Hay una sala aquí donde las luces no se encienden, ¿verdad?
+420	30bcc843	La {fc(ff635b)máquina} de mi recuerdo-sueño era... igual a las de ahí.
+430	ef833465	¿Te refieres a las rotas que no pudimos hacer funcionar?
+440	c96a77e2	Sí, esas. Eso es en lo que me metieron en Kamukura.
+450	257ff880	¿Eh...?
+460	e8786f1b	¿Estuviste en una máquina rara así...? ¿Y estás seguro de que fue en el complejo, no aquí?
+470	7f5115b3	¿Qué te hizo? ¿Para qué sirven siquiera esas cosas?
+480	3870211b	En realidad no lo sé... Ahí es donde se corta mi recuerdo.
+490	ac66c13a	¿En serio? ¿Eso es todo?
+500	1ba10252	¿Ni siquiera recuerdas por qué te metieron?
+510	b1ea59c8	No, no lo recuerdo. Lo siento.
+520	5ac84374	Entonces supongo que tampoco sabes qué hacen las que tenemos aquí.
+530	77a2e6ae	Lo siento... Lo he intentado, pero no logro recordar más detalles.
+540	664fb898	Vaya, qué misterio tan intrigante. ¿Seguro que no fue simplemente un sueño muy vívido, sin embargo?
+550	1180cdfe	Los sueños son raros así. Pueden sentirse reales, pero al final son solo información aleatoria que tu cerebro intenta convertir en algo más coherente.
+560	7507b880	¿No es más probable que tu subconsciente sacara el recuerdo de las máquinas que has visto aquí?
+570	ea683145	¿Cómo puedes decir con seguridad que este viaje al hospital fue un recuerdo real? ¿De verdad olvidarías algo tan importante?
 580	f4a72a8b	
-590	b04b163c	...Eh, perdón. Me confundí. Fue solo un sueño.
-600	d5f67a2e	¡¿Qué?! ¡¿Qué carajo es eso?!
-610	9243a6a6	Entonces, ¿y el Hospital General Kamukura?
-620	1420f86a	Creo que es... un hospital que inventé.
-630	83f1e061	¡E-Espera un momento, Shouma! ¡¿De verdad vas a dejarlo así?!
-640	3cec1b7f	...Sí. Me confundí.
-650	04a20bba	La verdad, nunca oí hablar de un hospital así en el Complejo Residencial de Tokio, pero...
-660	c4aebb6f	Todos, de verdad, perdón por el alboroto.
-670	08c27811	Con lo lindo que estaba el ambiente, vine a arruinarlo diciendo cosas que no hacían falta.
-680	da3259b0	Un bicho que no sabe leer el ambiente como yo ya se retira. Ustedes sigan disfrutando.
-690	6a7d7312	{fc(57e4f1)Dicho eso, Shouma hizo una reverencia y desapareció a paso rápido dentro del edificio.}
+590	b04b163c	Tienes razón... Perdón. Probablemente fue solo un sueño.
+600	d5f67a2e	¡¿Qué demonios? ¡¿Después de todo eso?!
+610	9243a6a6	¿Qué hay del "Hospital General Kamukura"?
+620	1420f86a	Probablemente solo palabras al azar que confundí con el nombre de un lugar real...
+630	83f1e061	¡Espera, Shouma! ¿Seguro que quieres descartarlo así?
+640	3cec1b7f	Sí... está bien. Siempre me equivoco en las cosas. ¿Por qué esta vez sería distinto?
+650	04a20bba	Digo, uno pensaría que algunos de nosotros también habríamos oído hablar de ese hospital si fuera real. Pero a mí no me sonaba...
+660	c4aebb6f	Todos, yo... quisiera ofrecerles mis más sinceras disculpas por haberles dado esperanzas.
+670	08c27811	Ya es bastante malo que arruinara el ambiente sacando un tema tan pesado, pero ni siquiera pude decirles nada útil.
+680	da3259b0	Me voy a esconder bajo una piedra como el parásito de fondo que soy. Por favor, traten de olvidar que esto ocurrió.
+690	6a7d7312	{fc(57e4f1)Shouma terminó su disculpa excesivamente formal y se retiró al interior de la escuela.}
 700	9ae8c57b	
-710	17bb965c	Al final... ¿qué fue eso?
-720	38f3bc7b	Dice que fue solo un sueño. Ay, qué desperdicio haberlo escuchado en serio.
-730	4189b5ee	{fc(57e4f1)...¿Solo un sueño? ¿De verdad? ¿Está bien dejarlo así?}
-740	4ec8943e	¡Oigan, más importante, sigamos con la barbacoa! ¡Todavía voy a asar un montón más!
-750	ef393023	¡Eso! ¡Ahora empieza lo bueno! ¡Voy a comer con todo!
-760	1744c311	Ya me cansé de masticar, no quiero más carne... Voy a asar malvaviscos...
-770	02dce6d8	Vamos, Takumi, tú también. Ven.
-780	711fbfe4	S-Sí...
-790	c0056b4d	{fc(57e4f1)Después, la barbacoa siguió hasta tarde en la noche, y cuando ya estábamos tan llenos que no podíamos ni movernos...}
-800	af5a4f20	{fc(57e4f1)por fin nos separamos.}
+710	17bb965c	Entonces... ¿De qué fue todo eso?
+720	38f3bc7b	Solo un malentendido, querida hermana. No hace falta darles un segundo pensamiento a sus tontos sueños.
+730	4189b5ee	{fc(57e4f1)¿Un "tonto sueño"? ¿De verdad fue solo eso? No estoy tan seguro...}
+740	4ec8943e	Ahora que eso está resuelto, ¡volvamos a la fiesta! ¿Quién está listo para probar mi mundialmente famoso Marinado Maruko?
+750	ef393023	¡Eso es hablar! ¡Dame una triple hamburguesa especial, estilo animal!
+760	1744c311	Me duele la mandíbula de comer tanta comida sólida... Creo que solo haré brochetas de malvaviscos.
+770	02dce6d8	Vamos, Takumi. Vámonos.
+780	711fbfe4	Sí, okey...
+790	c0056b4d	{fc(57e4f1)La barbacoa duró el resto del día, y mucho después de ponerse el sol. Al final, estábamos tan llenos que apenas podíamos movernos.}
+800	af5a4f20	{fc(57e4f1)Al cabo tuvimos que admitir la derrota y dar la noche por terminada.}
