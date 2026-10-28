@@ -10,7 +10,7 @@ VISIBLE = re.compile(r"\{[a-z]+\d*(?:\([^)]*\))?|\}")
 # Cada regla se aplica solo si el inglés tiene el término original (el primer patrón).
 TERMS = [
     (r"Last Defense Academy", r"Academia de Defensa Final|Academia (?:de )?(?:la )?Última Defensa", "Última Academia de Defensa"),
-    (r"Shion Bomb", r"[Bb]omba de Shion", "Shion Bomb"),
+    (r"Shion Bomb", r"[Bb]omba de Shion|Shion Bomb", "Bomba Shion"),
     (r"\bEnd Turn\b", r"[Ff]inalizar (?:el )?turno", "Terminar turno"),
     (r"Undying Flame", r"[Ll]lamas (?:[Ii]mperecederas|[Ii]nmortales|[Ii]nextinguibles)", "Llamas Eternas"),
     (r"Bio Lab", r"\b[Bb]iolaboratorio\b|\b[Ll]ab biológico\b", "laboratorio biológico"),

@@ -1,19 +1,19 @@
 id	huella_jp	es
-1001111	e5ee8f53	
-1001112	6dd1b209	Side Slash Lv2
-1001113	02c740e5	Side Slash Lv3
-1001114	0471e857	Side Slash Lv4
-1001115	6307ebe4	
-1001121	218e916a	
-1001122	5846d2e5	Impact Stab Lv2
-1001123	8ca4ed2d	Impact Stab Lv3
-1001124	a26b0458	Impact Stab Lv4
-1001125	d2784000	
-1001131	5fc1c0b3	
-1001132	fe2a45c1	Air Blade Lv2
-1001133	1ac0539e	Air Blade Lv3
-1001134	c13669f0	Air Blade Lv4
-1001135	c0703e46	
+1001111	e5ee8f53	Tajo lateral
+1001112	6dd1b209	Tajo lateral Lv2
+1001113	02c740e5	Tajo lateral Lv3
+1001114	0471e857	Tajo lateral Lv4
+1001115	6307ebe4	Tajo lateral MAX
+1001121	218e916a	Estocada de impacto
+1001122	5846d2e5	Estocada de impacto Lv2
+1001123	8ca4ed2d	Estocada de impacto Lv3
+1001124	a26b0458	Estocada de impacto Lv4
+1001125	d2784000	Estocada de impacto MAX
+1001131	5fc1c0b3	Cuchilla de aire
+1001132	fe2a45c1	Cuchilla de aire Lv2
+1001133	1ac0539e	Cuchilla de aire Lv3
+1001134	c13669f0	Cuchilla de aire Lv4
+1001135	c0703e46	Cuchilla de aire MAX
 1001140	592c85bb	Asalto carmesí
 1001141	c50b6b4f	Asalto carmesí Lv2
 1001142	a6b32915	Asalto carmesí Lv3
@@ -171,61 +171,61 @@ id	huella_jp	es
 1005161	72c3fdcb	Carrera
 1005171	5bd79e95	Postura defensiva
 1005191	7836deb4	Habilidad de contraataque
-1006111	f9e5afa6	Death Drive
-1006112	d9fc1d82	Death Drive Lv2
-1006113	7909d059	Death Drive Lv3
-1006114	f1c8bae3	Death Drive Lv4
-1006115	bf56436d	Death Drive MAX
-1006121	7c50c2b9	
-1006122	79b01972	Accelerate Lv2
-1006123	b8da7756	Accelerate Lv3
-1006124	f271aea0	Accelerate Lv4
-1006125	69581144	
-1006131	2af2c3e9	
-1006132	c733a1b6	Decelerate Lv2
-1006133	1fc8a854	Decelerate Lv3
-1006134	4712ab8d	Decelerate Lv4
-1006135	f6d4d428	
-1006140	c628b597	
-1006141	408911b7	Killing Boost Lv2
-1006142	968d3188	Killing Boost Lv3
-1006143	0896e3ed	Killing Boost Lv4
-1006144	6be9729e	Killing Boost Lv5
-1006145	6a06d2f4	Killing Boost Lv6
-1006146	9d476102	Killing Boost Lv7
-1006147	b5732fe1	Killing Boost Lv8
-1006148	98885b69	Killing Boost Lv9
-1006149	61154766	Killing Boost Lv10
-1006150	b9dbe471	
+1006111	f9e5afa6	Pulsión de muerte
+1006112	d9fc1d82	Pulsión de muerte Lv2
+1006113	7909d059	Pulsión de muerte Lv3
+1006114	f1c8bae3	Pulsión de muerte Lv4
+1006115	bf56436d	Pulsión de muerte MAX
+1006121	7c50c2b9	Acelerar
+1006122	79b01972	Acelerar Lv2
+1006123	b8da7756	Acelerar Lv3
+1006124	f271aea0	Acelerar Lv4
+1006125	69581144	Acelerar MAX
+1006131	2af2c3e9	Desacelerar
+1006132	c733a1b6	Desacelerar Lv2
+1006133	1fc8a854	Desacelerar Lv3
+1006134	4712ab8d	Desacelerar Lv4
+1006135	f6d4d428	Desacelerar MAX
+1006140	c628b597	Impulso asesino
+1006141	408911b7	Impulso asesino Lv2
+1006142	968d3188	Impulso asesino Lv3
+1006143	0896e3ed	Impulso asesino Lv4
+1006144	6be9729e	Impulso asesino Lv5
+1006145	6a06d2f4	Impulso asesino Lv6
+1006146	9d476102	Impulso asesino Lv7
+1006147	b5732fe1	Impulso asesino Lv8
+1006148	98885b69	Impulso asesino Lv9
+1006149	61154766	Impulso asesino Lv10
+1006150	b9dbe471	Impulso asesino MAX
 1006161	72c3fdcb	Carrera
 1006171	5bd79e95	Postura defensiva
 1006181	0fe64486	Habilidad de intercepción
-1007111	ea5fd829	
-1007112	7ce119f7	Crazy Shot Lv2
-1007113	a8fb634b	Crazy Shot Lv3
-1007114	9da700b3	Crazy Shot Lv4
-1007115	997b7d08	
+1007111	ea5fd829	Disparo loco
+1007112	7ce119f7	Disparo loco Lv2
+1007113	a8fb634b	Disparo loco Lv3
+1007114	9da700b3	Disparo loco Lv4
+1007115	997b7d08	Disparo loco MAX
 1007121	91ed13ac	¡Acábalos!
 1007122	9fd74a7d	¡Acábalos! Lv2
 1007123	9689ec6e	¡Acábalos! Lv3
 1007124	1d65ee56	¡Acábalos! Lv4
 1007125	d55018fe	¡Acábalos! MAX
-1007131	f801eba3	Blood Hunting
-1007132	37f234cd	Blood Hunting Lv2
-1007133	fc552bf0	Blood Hunting Lv3
-1007134	7fe47507	Blood Hunting Lv4
-1007135	0cbe91fc	Blood Hunting MAX
-1007140	b85c897a	
-1007141	468862e2	Gatling Max Lv2
-1007142	27efd13b	Gatling Max Lv3
-1007143	102f31b8	Gatling Max Lv4
-1007144	cb9ba148	Gatling Max Lv5
-1007145	2373c005	Gatling Max Lv6
-1007146	cce96a10	Gatling Max Lv7
-1007147	1d3f14d0	Gatling Max Lv8
-1007148	eaa1cd46	Gatling Max Lv9
-1007149	128be436	Gatling Max Lv10
-1007150	e3eefaff	
+1007131	f801eba3	Cacería de sangre
+1007132	37f234cd	Cacería de sangre Lv2
+1007133	fc552bf0	Cacería de sangre Lv3
+1007134	7fe47507	Cacería de sangre Lv4
+1007135	0cbe91fc	Cacería de sangre MAX
+1007140	b85c897a	Gatling máxima
+1007141	468862e2	Gatling máxima Lv2
+1007142	27efd13b	Gatling máxima Lv3
+1007143	102f31b8	Gatling máxima Lv4
+1007144	cb9ba148	Gatling máxima Lv5
+1007145	2373c005	Gatling máxima Lv6
+1007146	cce96a10	Gatling máxima Lv7
+1007147	1d3f14d0	Gatling máxima Lv8
+1007148	eaa1cd46	Gatling máxima Lv9
+1007149	128be436	Gatling máxima Lv10
+1007150	e3eefaff	Gatling máxima MAX
 1007161	72c3fdcb	Carrera
 1007171	5bd79e95	Postura defensiva
 1007181	0fe64486	Habilidad de intercepción
@@ -258,32 +258,32 @@ id	huella_jp	es
 1008161	72c3fdcb	Carrera
 1008171	5bd79e95	Postura defensiva
 1008191	7836deb4	Habilidad de contraataque
-1009111	8f45ffe7	
-1009112	b0807cd1	Energy Sniper Lv2
-1009113	97f930ad	Energy Sniper Lv3
-1009114	3e010326	Energy Sniper Lv4
-1009115	a85cf4d8	
-1009121	916e8ca3	
-1009122	29c5a2f0	Spirit Rain Lv2
-1009123	d5314446	Spirit Rain Lv3
-1009124	c471d7bf	Spirit Rain Lv4
-1009125	8c73a0d6	
-1009131	afedd16f	
-1009132	cd6cee76	Hellfire Lv2
-1009133	e64a1e70	Hellfire Lv3
-1009134	78f8623e	Hellfire Lv4
-1009135	d09ccca8	
-1009140	b0b5d54d	
-1009141	afda58be	Necro Disaster Lv2
-1009142	04a099c2	Necro Disaster Lv3
-1009143	baf7d539	Necro Disaster Lv4
-1009144	db37ec63	Necro Disaster Lv5
-1009145	db299dbc	Necro Disaster Lv6
-1009146	20ec88fc	Necro Disaster Lv7
-1009147	d77a9c3d	Necro Disaster Lv8
-1009148	6329124a	Necro Disaster Lv9
-1009149	05fcaa30	Necro Disaster Lv10
-1009150	09f813df	
+1009111	8f45ffe7	Francotirador de energía
+1009112	b0807cd1	Francotirador de energía Lv2
+1009113	97f930ad	Francotirador de energía Lv3
+1009114	3e010326	Francotirador de energía Lv4
+1009115	a85cf4d8	Francotirador de energía MAX
+1009121	916e8ca3	Lluvia espiritual
+1009122	29c5a2f0	Lluvia espiritual Lv2
+1009123	d5314446	Lluvia espiritual Lv3
+1009124	c471d7bf	Lluvia espiritual Lv4
+1009125	8c73a0d6	Lluvia espiritual MAX
+1009131	afedd16f	Fuego infernal
+1009132	cd6cee76	Fuego infernal Lv2
+1009133	e64a1e70	Fuego infernal Lv3
+1009134	78f8623e	Fuego infernal Lv4
+1009135	d09ccca8	Fuego infernal MAX
+1009140	b0b5d54d	Desastre necro
+1009141	afda58be	Desastre necro Lv2
+1009142	04a099c2	Desastre necro Lv3
+1009143	baf7d539	Desastre necro Lv4
+1009144	db37ec63	Desastre necro Lv5
+1009145	db299dbc	Desastre necro Lv6
+1009146	20ec88fc	Desastre necro Lv7
+1009147	d77a9c3d	Desastre necro Lv8
+1009148	6329124a	Desastre necro Lv9
+1009149	05fcaa30	Desastre necro Lv10
+1009150	09f813df	Desastre necro MAX
 1009161	72c3fdcb	Carrera
 1009171	5bd79e95	Postura defensiva
 1009181	0fe64486	Habilidad de intercepción
@@ -299,23 +299,23 @@ id	huella_jp	es
 1010124	dd37d193	Señal de agresión Lv4
 1010125	ed6ee235	Señal de agresión MAX
 1010129	feca8e35	
-1010131	440265fd	
-1010132	a2a28a1a	Omega Punch Lv2
-1010133	b78a35eb	Omega Punch Lv3
-1010134	d7451b69	Omega Punch Lv4
-1010135	11b1fdd7	
+1010131	440265fd	Puñetazo Omega
+1010132	a2a28a1a	Puñetazo Omega Lv2
+1010133	b78a35eb	Puñetazo Omega Lv3
+1010134	d7451b69	Puñetazo Omega Lv4
+1010135	11b1fdd7	Puñetazo Omega MAX
 1010139	feca8e35	
-1010140	4a166537	
-1010141	472bb13e	Avenge Buster Lv2
-1010142	65b4e7a4	Avenge Buster Lv3
-1010143	29170cda	Avenge Buster Lv4
-1010144	276fe045	Avenge Buster Lv5
-1010145	3b00c370	Avenge Buster Lv6
-1010146	41df7f44	Avenge Buster Lv7
-1010147	e6c79fdc	Avenge Buster Lv8
-1010148	aa5e6df7	Avenge Buster Lv9
-1010149	00f36343	Avenge Buster Lv10
-1010150	a8fd2559	
+1010140	4a166537	Buster vengador
+1010141	472bb13e	Buster vengador Lv2
+1010142	65b4e7a4	Buster vengador Lv3
+1010143	29170cda	Buster vengador Lv4
+1010144	276fe045	Buster vengador Lv5
+1010145	3b00c370	Buster vengador Lv6
+1010146	41df7f44	Buster vengador Lv7
+1010147	e6c79fdc	Buster vengador Lv8
+1010148	aa5e6df7	Buster vengador Lv9
+1010149	00f36343	Buster vengador Lv10
+1010150	a8fd2559	Buster vengador MAX
 1010161	72c3fdcb	Carrera
 1010171	5bd79e95	Postura defensiva
 1010179	feca8e35	
@@ -336,25 +336,25 @@ id	huella_jp	es
 1011133	85a56d8c	Bala de refuerzo Lv3
 1011134	8257e0a2	Bala de refuerzo Lv4
 1011135	8e9cd650	Bala de refuerzo MAX
-1011140	6919e5bc	
-1011141	410d80e7	Healing Shower Lv2
-1011142	eca4cf81	Healing Shower Lv3
-1011143	26f364ba	Healing Shower Lv4
-1011144	125daa16	Healing Shower Lv5
-1011145	1d854369	Healing Shower Lv6
-1011146	d448f437	Healing Shower Lv7
-1011147	0fd8ba88	Healing Shower Lv8
-1011148	0b5bea81	Healing Shower Lv9
-1011149	3f7db159	Healing Shower Lv10
-1011150	638f789e	
+1011140	6919e5bc	Lluvia curativa
+1011141	410d80e7	Lluvia curativa Lv2
+1011142	eca4cf81	Lluvia curativa Lv3
+1011143	26f364ba	Lluvia curativa Lv4
+1011144	125daa16	Lluvia curativa Lv5
+1011145	1d854369	Lluvia curativa Lv6
+1011146	d448f437	Lluvia curativa Lv7
+1011147	0fd8ba88	Lluvia curativa Lv8
+1011148	0b5bea81	Lluvia curativa Lv9
+1011149	3f7db159	Lluvia curativa Lv10
+1011150	638f789e	Lluvia curativa MAX
 1011161	72c3fdcb	Carrera
 1011171	5bd79e95	Postura defensiva
 1011181	0fe64486	Habilidad de intercepción
-1012111	17934561	
-1012112	4a9bceaf	Oosuzuki Nightmare Lv2
-1012113	94788f0b	Oosuzuki Nightmare Lv3
-1012114	4232e436	Oosuzuki Nightmare Lv4
-1012115	22fd097f	
+1012111	17934561	Pesadilla Oosuzuki
+1012112	4a9bceaf	Pesadilla Oosuzuki Lv2
+1012113	94788f0b	Pesadilla Oosuzuki Lv3
+1012114	4232e436	Pesadilla Oosuzuki Lv4
+1012115	22fd097f	Pesadilla Oosuzuki MAX
 1012121	29f47315	Construir torreta montada
 1012122	49d5677c	Construir torreta montada Lv2
 1012123	b77c8cf0	Construir torreta montada Lv3
@@ -365,17 +365,17 @@ id	huella_jp	es
 1012133	cd87d57d	Construir torre de apoyo Lv3
 1012134	00ac46d0	Construir torre de apoyo Lv4
 1012135	68cedd10	Construir torre de apoyo MAX
-1012140	a85b29ca	
-1012141	29a76775	Oosuzuki Apocalypse Lv2
-1012142	6fbb8212	Oosuzuki Apocalypse Lv3
-1012143	74037790	Oosuzuki Apocalypse Lv4
-1012144	84e22a1c	Oosuzuki Apocalypse Lv5
-1012145	8894316e	Oosuzuki Apocalypse Lv6
-1012146	181dda20	Oosuzuki Apocalypse Lv7
-1012147	5560a2f4	Oosuzuki Apocalypse Lv8
-1012148	ae9f20a2	Oosuzuki Apocalypse Lv9
-1012149	9967cb19	Oosuzuki Apocalypse Lv10
-1012150	c5f57c4c	
+1012140	a85b29ca	Apocalipsis Oosuzuki
+1012141	29a76775	Apocalipsis Oosuzuki Lv2
+1012142	6fbb8212	Apocalipsis Oosuzuki Lv3
+1012143	74037790	Apocalipsis Oosuzuki Lv4
+1012144	84e22a1c	Apocalipsis Oosuzuki Lv5
+1012145	8894316e	Apocalipsis Oosuzuki Lv6
+1012146	181dda20	Apocalipsis Oosuzuki Lv7
+1012147	5560a2f4	Apocalipsis Oosuzuki Lv8
+1012148	ae9f20a2	Apocalipsis Oosuzuki Lv9
+1012149	9967cb19	Apocalipsis Oosuzuki Lv10
+1012150	c5f57c4c	Apocalipsis Oosuzuki MAX
 1012161	72c3fdcb	Carrera
 1012171	5bd79e95	Postura defensiva
 1012191	7836deb4	Habilidad de contraataque
@@ -561,28 +561,28 @@ id	huella_jp	es
 1105148	d82078dd	{fc(ff0000)Último recurso: Castigo justo Lv9}
 1105149	bc18dbfc	{fc(ff0000)Último recurso: Castigo justo Lv10}
 1105150	79622ee6	{fc(ff0000)Último recurso: Castigo justo MAX}
-1106140	384b9ecf	{fc(ff0000)Último recurso: Killing Boost}
-1106141	c6f58a71	{fc(ff0000)Último recurso: Killing Boost Lv2}
-1106142	82505c56	{fc(ff0000)Último recurso: Killing Boost Lv3}
-1106143	a2d1edce	{fc(ff0000)Último recurso: Killing Boost Lv4}
-1106144	04eb722b	{fc(ff0000)Último recurso: Killing Boost Lv5}
-1106145	2c22369f	{fc(ff0000)Último recurso: Killing Boost Lv6}
-1106146	0c2ad8f1	{fc(ff0000)Último recurso: Killing Boost Lv7}
-1106147	725c578d	{fc(ff0000)Último recurso: Killing Boost Lv8}
-1106148	7f9e02a6	{fc(ff0000)Último recurso: Killing Boost Lv9}
-1106149	18b74059	{fc(ff0000)Último recurso: Killing Boost Lv10}
-1106150	9d54fe0e	{fc(ff0000)Último recurso: Killing Boost MAX}
-1107140	5e97bc01	{fc(ff0000)Último recurso: Gatling Max}
-1107141	1cc48d1c	{fc(ff0000)Último recurso: Gatling Max Lv2}
-1107142	f768a7a2	{fc(ff0000)Último recurso: Gatling Max Lv3}
-1107143	e44f3c8f	{fc(ff0000)Último recurso: Gatling Max Lv4}
-1107144	4ba4cf51	{fc(ff0000)Último recurso: Gatling Max Lv5}
-1107145	cbb23aba	{fc(ff0000)Último recurso: Gatling Max Lv6}
-1107146	9ddfea45	{fc(ff0000)Último recurso: Gatling Max Lv7}
-1107147	31d8316a	{fc(ff0000)Último recurso: Gatling Max Lv8}
-1107148	ee11bea3	{fc(ff0000)Último recurso: Gatling Max Lv9}
-1107149	33159e87	{fc(ff0000)Último recurso: Gatling Max Lv10}
-1107150	c1af22e5	{fc(ff0000)Último recurso: Gatling Max MAX}
+1106140	384b9ecf	{fc(ff0000)Último recurso: Impulso asesino}
+1106141	c6f58a71	{fc(ff0000)Último recurso: Impulso asesino Lv2}
+1106142	82505c56	{fc(ff0000)Último recurso: Impulso asesino Lv3}
+1106143	a2d1edce	{fc(ff0000)Último recurso: Impulso asesino Lv4}
+1106144	04eb722b	{fc(ff0000)Último recurso: Impulso asesino Lv5}
+1106145	2c22369f	{fc(ff0000)Último recurso: Impulso asesino Lv6}
+1106146	0c2ad8f1	{fc(ff0000)Último recurso: Impulso asesino Lv7}
+1106147	725c578d	{fc(ff0000)Último recurso: Impulso asesino Lv8}
+1106148	7f9e02a6	{fc(ff0000)Último recurso: Impulso asesino Lv9}
+1106149	18b74059	{fc(ff0000)Último recurso: Impulso asesino Lv10}
+1106150	9d54fe0e	{fc(ff0000)Último recurso: Impulso asesino MAX}
+1107140	5e97bc01	{fc(ff0000)Último recurso: Gatling máxima}
+1107141	1cc48d1c	{fc(ff0000)Último recurso: Gatling máxima Lv2}
+1107142	f768a7a2	{fc(ff0000)Último recurso: Gatling máxima Lv3}
+1107143	e44f3c8f	{fc(ff0000)Último recurso: Gatling máxima Lv4}
+1107144	4ba4cf51	{fc(ff0000)Último recurso: Gatling máxima Lv5}
+1107145	cbb23aba	{fc(ff0000)Último recurso: Gatling máxima Lv6}
+1107146	9ddfea45	{fc(ff0000)Último recurso: Gatling máxima Lv7}
+1107147	31d8316a	{fc(ff0000)Último recurso: Gatling máxima Lv8}
+1107148	ee11bea3	{fc(ff0000)Último recurso: Gatling máxima Lv9}
+1107149	33159e87	{fc(ff0000)Último recurso: Gatling máxima Lv10}
+1107150	c1af22e5	{fc(ff0000)Último recurso: Gatling máxima MAX}
 1108140	5592f27f	{fc(ff0000)Último recurso: Puño del ángel sangriento}
 1108141	8cbb46e6	{fc(ff0000)Último recurso: Puño del ángel sangriento Lv2}
 1108142	08325cee	{fc(ff0000)Último recurso: Puño del ángel sangriento Lv3}
@@ -594,51 +594,51 @@ id	huella_jp	es
 1108148	7c44fef5	{fc(ff0000)Último recurso: Puño del ángel sangriento Lv9}
 1108149	0b8b4e90	{fc(ff0000)Último recurso: Puño del ángel sangriento Lv10}
 1108150	636721cd	{fc(ff0000)Último recurso: Puño del ángel sangriento MAX}
-1109140	7c1190a9	{fc(ff0000)Último recurso: Necro Disaster}
-1109141	735b9b9a	{fc(ff0000)Último recurso: Necro Disaster Lv2}
-1109142	6eca7071	{fc(ff0000)Último recurso: Necro Disaster Lv3}
-1109143	76af0bbb	{fc(ff0000)Último recurso: Necro Disaster Lv4}
-1109144	75cfc613	{fc(ff0000)Último recurso: Necro Disaster Lv5}
-1109145	13d42ffe	{fc(ff0000)Último recurso: Necro Disaster Lv6}
-1109146	7c29c5db	{fc(ff0000)Último recurso: Necro Disaster Lv7}
-1109147	d8481152	{fc(ff0000)Último recurso: Necro Disaster Lv8}
-1109148	3a2c5306	{fc(ff0000)Último recurso: Necro Disaster Lv9}
-1109149	e2554962	{fc(ff0000)Último recurso: Necro Disaster Lv10}
-1109150	74ff427d	{fc(ff0000)Último recurso: Necro Disaster MAX}
-1110140	1e9d9af9	{fc(ff0000)Último recurso: Avenge Buster}
-1110141	fc6f6cca	{fc(ff0000)Último recurso: Avenge Buster Lv2}
-1110142	12439cf2	{fc(ff0000)Último recurso: Avenge Buster Lv3}
-1110143	ede0e1e1	{fc(ff0000)Último recurso: Avenge Buster Lv4}
-1110144	170b1d33	{fc(ff0000)Último recurso: Avenge Buster Lv5}
-1110145	52193527	{fc(ff0000)Último recurso: Avenge Buster Lv6}
-1110146	9a3eadb6	{fc(ff0000)Último recurso: Avenge Buster Lv7}
-1110147	3fc71dde	{fc(ff0000)Último recurso: Avenge Buster Lv8}
-1110148	d107da61	{fc(ff0000)Último recurso: Avenge Buster Lv9}
-1110149	b165d379	{fc(ff0000)Último recurso: Avenge Buster Lv10}
-1110150	f3178010	{fc(ff0000)Último recurso: Avenge Buster MAX}
+1109140	7c1190a9	{fc(ff0000)Último recurso: Desastre necro}
+1109141	735b9b9a	{fc(ff0000)Último recurso: Desastre necro Lv2}
+1109142	6eca7071	{fc(ff0000)Último recurso: Desastre necro Lv3}
+1109143	76af0bbb	{fc(ff0000)Último recurso: Desastre necro Lv4}
+1109144	75cfc613	{fc(ff0000)Último recurso: Desastre necro Lv5}
+1109145	13d42ffe	{fc(ff0000)Último recurso: Desastre necro Lv6}
+1109146	7c29c5db	{fc(ff0000)Último recurso: Desastre necro Lv7}
+1109147	d8481152	{fc(ff0000)Último recurso: Desastre necro Lv8}
+1109148	3a2c5306	{fc(ff0000)Último recurso: Desastre necro Lv9}
+1109149	e2554962	{fc(ff0000)Último recurso: Desastre necro Lv10}
+1109150	74ff427d	{fc(ff0000)Último recurso: Desastre necro MAX}
+1110140	1e9d9af9	{fc(ff0000)Último recurso: Buster vengador}
+1110141	fc6f6cca	{fc(ff0000)Último recurso: Buster vengador Lv2}
+1110142	12439cf2	{fc(ff0000)Último recurso: Buster vengador Lv3}
+1110143	ede0e1e1	{fc(ff0000)Último recurso: Buster vengador Lv4}
+1110144	170b1d33	{fc(ff0000)Último recurso: Buster vengador Lv5}
+1110145	52193527	{fc(ff0000)Último recurso: Buster vengador Lv6}
+1110146	9a3eadb6	{fc(ff0000)Último recurso: Buster vengador Lv7}
+1110147	3fc71dde	{fc(ff0000)Último recurso: Buster vengador Lv8}
+1110148	d107da61	{fc(ff0000)Último recurso: Buster vengador Lv9}
+1110149	b165d379	{fc(ff0000)Último recurso: Buster vengador Lv10}
+1110150	f3178010	{fc(ff0000)Último recurso: Buster vengador MAX}
 1110159	feca8e35	
-1111140	5087081b	{fc(ff0000)Último recurso: Healing Shower}
-1111141	29d4332f	{fc(ff0000)Último recurso: Healing Shower Lv2}
-1111142	f3e0d83c	{fc(ff0000)Último recurso: Healing Shower Lv3}
-1111143	6cb76984	{fc(ff0000)Último recurso: Healing Shower Lv4}
-1111144	bc9f618c	{fc(ff0000)Último recurso: Healing Shower Lv5}
-1111145	63c15229	{fc(ff0000)Último recurso: Healing Shower Lv6}
-1111146	e31b8480	{fc(ff0000)Último recurso: Healing Shower Lv7}
-1111147	fa70413e	{fc(ff0000)Último recurso: Healing Shower Lv8}
-1111148	0c23515c	{fc(ff0000)Último recurso: Healing Shower Lv9}
-1111149	aebd8692	{fc(ff0000)Último recurso: Healing Shower Lv10}
-1111150	d9add422	{fc(ff0000)Último recurso: Healing Shower MAX}
-1112140	4a56a5e7	{fc(ff0000)Último recurso: Oosuzuki Apocalypse}
-1112141	d7f31bc4	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv2}
-1112142	f12b4294	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv3}
-1112143	12e03c39	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv4}
-1112144	75fd0495	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv5}
-1112145	f25ccc22	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv6}
-1112146	8ac4c579	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv7}
-1112147	7dfdb34e	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv8}
-1112148	2dabc563	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv9}
-1112149	e0ad6218	{fc(ff0000)Último recurso: Oosuzuki Apocalypse Lv10}
-1112150	8171934b	{fc(ff0000)Último recurso: Oosuzuki Apocalypse MAX}
+1111140	5087081b	{fc(ff0000)Último recurso: Lluvia curativa}
+1111141	29d4332f	{fc(ff0000)Último recurso: Lluvia curativa Lv2}
+1111142	f3e0d83c	{fc(ff0000)Último recurso: Lluvia curativa Lv3}
+1111143	6cb76984	{fc(ff0000)Último recurso: Lluvia curativa Lv4}
+1111144	bc9f618c	{fc(ff0000)Último recurso: Lluvia curativa Lv5}
+1111145	63c15229	{fc(ff0000)Último recurso: Lluvia curativa Lv6}
+1111146	e31b8480	{fc(ff0000)Último recurso: Lluvia curativa Lv7}
+1111147	fa70413e	{fc(ff0000)Último recurso: Lluvia curativa Lv8}
+1111148	0c23515c	{fc(ff0000)Último recurso: Lluvia curativa Lv9}
+1111149	aebd8692	{fc(ff0000)Último recurso: Lluvia curativa Lv10}
+1111150	d9add422	{fc(ff0000)Último recurso: Lluvia curativa MAX}
+1112140	4a56a5e7	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki}
+1112141	d7f31bc4	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv2}
+1112142	f12b4294	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv3}
+1112143	12e03c39	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv4}
+1112144	75fd0495	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv5}
+1112145	f25ccc22	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv6}
+1112146	8ac4c579	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv7}
+1112147	7dfdb34e	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv8}
+1112148	2dabc563	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv9}
+1112149	e0ad6218	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki Lv10}
+1112150	8171934b	{fc(ff0000)Último recurso: Apocalipsis Oosuzuki MAX}
 1113140	209be229	{fc(ff0000)Último recurso: Ira de Susanoo}
 1113141	d9dd476b	{fc(ff0000)Último recurso: Ira de Susanoo Lv2}
 1113142	1aeec02d	{fc(ff0000)Último recurso: Ira de Susanoo Lv3}
@@ -694,8 +694,8 @@ id	huella_jp	es
 2042101	bb59cec4	Telequinesis
 2051101	63d8f43c	Ataque
 2052101	63d8f43c	Ataque
-2051111	f769a7ae	
-2052111	f769a7ae	
+2051111	f769a7ae	Armadura de contraataque
+2052111	f769a7ae	Armadura de contraataque
 2061101	63d8f43c	Ataque
 2061111	e542134d	Autodestrucción
 2071101	63d8f43c	Ataque
@@ -703,8 +703,8 @@ id	huella_jp	es
 2081101	63d8f43c	Ataque
 2081111	4e25741b	Armadura en área
 2082101	63d8f43c	Ataque
-2091101	a772fdd8	
-2092101	a772fdd8	
+2091101	a772fdd8	Toque venenoso
+2092101	a772fdd8	Toque venenoso
 2099101	63d8f43c	Ataque
 2099102	e542134d	Autodestrucción
 2099103	63d8f43c	Ataque
@@ -721,18 +721,18 @@ id	huella_jp	es
 2099114	bb59cec4	Telequinesis
 2099115	63d8f43c	Ataque
 2099116	f7450e96	Lanzamiento
-2099117	a772fdd8	
+2099117	a772fdd8	Toque venenoso
 2099118	d2213698	Tentáculo
 2099119	63d8f43c	Ataque
 2099120	4e25741b	Armadura en área
 2099121	d5b3861c	Ataque perforante
 2099122	63d8f43c	Ataque
-2099123	f769a7ae	
+2099123	f769a7ae	Armadura de contraataque
 2101101	d2213698	Tentáculo
 2102101	d2213698	Tentáculo
 2111101	63d8f43c	Ataque
 2121101	63d8f43c	Ataque
-2131101	df2ebc18	
+2131101	df2ebc18	Empuje
 2511101	22541b73	Detalles desconocidos
 2511102	22541b73	Detalles desconocidos
 2511111	22541b73	Detalles desconocidos
@@ -1087,7 +1087,7 @@ id	huella_jp	es
 4000002	feca8e35	
 4000003	feca8e35	
 5000001	af7a1589	El arma secreta, Shion
-5000002	60776269	
+5000002	60776269	Bomba Shion
 5000003	feca8e35	
 5000004	2da38172	El arma secreta ???
 5000005	feca8e35	
@@ -1106,7 +1106,7 @@ id	huella_jp	es
 5000056	feca8e35	
 5000057	feca8e35	
 5000058	feca8e35	
-6001111	e5ee8f53	
+6001111	e5ee8f53	Tajo lateral
 6002111	ad5e0b7f	¡Fuera de mi camino!
 6002141	657b6a44	¡No puedes conmigo!
 6003111	11b58fb2	Fractura craneal
@@ -1126,18 +1126,18 @@ id	huella_jp	es
 6005141	1db736ab	Cargar
 6005151	dc8f77ca	Carga fallida
 6005161	b8d92ca2	No hacer nada
-6006111	f9e5afa6	Death Drive
-6007111	ea5fd829	
-6007141	b85c897a	
+6006111	f9e5afa6	Pulsión de muerte
+6007111	ea5fd829	Disparo loco
+6007141	b85c897a	Gatling máxima
 6008111	227c82ae	Martillo de un ala
 6008141	09bb9de8	Puño del ángel sangriento
-6009111	8f45ffe7	
-6009141	b0b5d54d	
-6010111	440265fd	
+6009111	8f45ffe7	Francotirador de energía
+6009141	b0b5d54d	Desastre necro
+6010111	440265fd	Puñetazo Omega
 6011111	79f6c256	Bala paralizante
 6011112	79f6c256	Bala paralizante
-6012111	17934561	
-6012112	17934561	
+6012111	17934561	Pesadilla Oosuzuki
+6012112	17934561	Pesadilla Oosuzuki
 6013111	3059803b	Corte Jumonji
 6013112	3059803b	Corte Jumonji
 6013141	9c6f7fc4	Ira de Susanoo

@@ -11,7 +11,8 @@ Se localiza al español: basarse en el japonés no es japonizar (nada de honorí
 
 **Criterio**:
 
-1. Si el japonés ya usa un nombre en inglés o inventado (FB, QB, Leo Jr., habilidades en katakana como ガトリングマックス *Gatling Max* o シオンボム *Shion Bomb*), se usa ese nombre en inglés, tal como lo escribe el japonés, aunque el inglés oficial lo haya cambiado (デスドライブ *Death Drive*, no *Deadlights*; ブラッドハンティング *Blood Hunting*, no *On the Hunt*).
+1. Si el japonés ya usa un nombre en inglés o inventado (FB, QB, Leo Jr., habilidades en katakana: ver la excepción de abajo), se usa ese nombre en inglés, tal como lo escribe el japonés, aunque el inglés oficial lo haya cambiado (FB, QB, Leo Jr.).
+   **Excepción: las habilidades con nombre en katakana inglés se traducen al español**, para que no quede una palabra suelta en inglés en los menús (decidido 2026-10-27, en las dos versiones): ガトリングマックス *Gatling máxima*, デスドライブ *Pulsión de muerte*, ブラッドハンティング *Cacería de sangre*, シオンボム *Bomba Shion*. Lista completa en Objetos y sistemas.
 2. Si el inglés inventó o cambió un nombre, se usa el del inglés:
    - Si es una marca o una palabra inventada, va en inglés tal cual: 蘇生マシーン → *Revive-O-Matic* (no *máquina de resurrección*); 我駆力刀 → *Infuser*; 〜の化神 → *Paragon*.
    - Si está hecho con palabras comunes, se traduce el nombre del inglés: 第二防衛学園 → *Penúltima Academia de Defensa* (*Second-to-Last*, no *Segunda*); 断罪 → *Juez* (*Judge*, no *Condena*).
@@ -110,7 +111,7 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 100日目 | Day 100 | Día 100 | ✅ |
 | 鼻メガネ (regalo) | Nose Glasses | Lentes con nariz. El acertijo de letras de su ruta forma *LENTES CON NARIZ*, con las letras alternadas entre las dos notas como el inglés | ✅ |
 | 『サイワイは孤独なり』 (pista del libro antiguo) | blessings stand alone | 'La dicha va sola'; la historia usa la misma frase | ✅ |
-| 最終兵器 (Shion); シオンボム (la habilidad) | secret weapon; Shion Bomb | arma secreta (*El arma secreta, Shion*, *el arma secreta ???*); donde el inglés dice *Shion Bomb*, *la Shion Bomb* | ✅ |
+| 最終兵器 (Shion); シオンボム (la habilidad) | secret weapon; Shion Bomb | arma secreta (*El arma secreta, Shion*, *el arma secreta ???*); la habilidad y el arma, *Bomba Shion*, *la Bomba Shion* | ✅ |
 | 戦略物資 = 防壁装置 + 薬品 | Strategic Materials = Traps + Enhancements | materiales estratégicos = dispositivos defensivos + fármacos | ✅ |
 | 毒兵器 | Poison Trap | trampa de veneno | ✅ |
 | バリア装置 | Barrier Generator | generador de barrera | ✅ |
@@ -210,7 +211,7 @@ Siglas comunes, en español: **ADN**, **IA**, **OVNI**.
 
 | Japonés | Inglés | Propuesta | Estado |
 |---|---|---|---|
-| Habilidades cuyo nombre japonés ya es inglés (Gatling Max, Impact Stab, Necro Disaster, Healing Shower, Last Yell, Side Slash, Death Drive, Blood Hunting, Oosuzuki Nightmare, Shion Bomb...) | | Como el inglés, con el nivel como el japonés (*Impact Stab Lv2*, *MAX*) | ✅ criterio 1 y 5 |
+| Habilidades cuyo nombre japonés es katakana inglés | Gatling Max, Impact Stab, Side Slash, Death Drive... | Se traducen, con el nivel como el japonés (*Estocada de impacto Lv2*, *MAX*): Acelerar, Desacelerar, Cuchilla de aire, Buster vengador, Armadura de contraataque, Disparo loco, Francotirador de energía, Gatling máxima, Lluvia curativa, Fuego infernal, Estocada de impacto, Impulso asesino, Desastre necro, Puñetazo Omega, Apocalipsis Oosuzuki, Pesadilla Oosuzuki, Toque venenoso, Lluvia espiritual, Tajo lateral, Último grito, Pulsión de muerte, Cacería de sangre, Bomba Shion; el estado プッシュ, *Empuje*. *Shigure no Mai* y *Shin Senpuu Yaiba* siguen en romaji (criterio 3) | ✅ |
 | Técnicas de Kyoshika en romaji (Shigure no Mai, Shin Senpuu Yaiba) | | En romaji; las demás, el nombre del inglés traducido (*Corte Jumonji*, *Ira de Susanoo*) | ✅ criterio 3 |
 | Nombres de canciones (galería de música) | | En inglés, tal cual: son títulos de obras (*Hundred Days*, *Hundred Line*) | ✅ |
 | Nombres de rutas (lista de rutas y galería de finales) | X Route | *Ruta* + nombre, en minúscula salvo los nombres propios, igual en las dos listas: *Ruta de la rebelión*, *Ruta de la madurez*, *Ruta de la Caja de la Dicha*, *Ruta SF* | ✅ |
