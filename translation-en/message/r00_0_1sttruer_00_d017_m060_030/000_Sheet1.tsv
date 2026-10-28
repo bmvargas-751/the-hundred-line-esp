@@ -1,33 +1,33 @@
 id	huella_jp	es
-10	42f8cf68	{fc(57e4f1)Y aun así... ¿por qué desapareció Shizuhara?}
+10	42f8cf68	{fc(57e4f1)No creo que mintiera entonces... Entonces, ¿por qué nos dejaría tan de repente?}
 20	f4a72a8b	
-30	0d27b702	{fc(57e4f1)Dándole vueltas a todo, sin darme cuenta me quedé dormido.}
-40	3c441bd2	{fc(57e4f1)Incluso en ese duermevela, los pensamientos sobre Hiruko seguían llegando como olas.}
-50	1ef1991b	{fc(57e4f1)Después de eso, ¿cuánto tiempo habrá pasado...?}
-60	21c82109	{fc(57e4f1)...¿Unos minutos? ¿O unas horas?}
+30	0d27b702	{fc(57e4f1)No encontré ninguna respuesta esa noche, pero al final me fui quedando dormido.}
+40	3c441bd2	{fc(57e4f1)El sueño no me dio alivio. Los pensamientos sobre Hiruko y lo que podría haberle pasado me acechaban en los sueños.}
+50	1ef1991b	{fc(57e4f1)Así siguió un buen rato.}
+60	21c82109	{fc(57e4f1)El tiempo parecía perder todo significado. Podría haber dormido varias horas o solo unos minutos.}
 70	64ffb9fa	
-80	28715bf6	Mmm... mm...
-90	a4df82e2	{fc(57e4f1)Sentí un calor extraño y, de pronto, me desperté.}
-100	42b9c741	{fc(57e4f1)Enseguida me di cuenta de que todavía era medianoche. Pero en ese instante...}
-110	670b8971	{fc(57e4f1)algo apareció en el borde de mi vista y, al mismo tiempo, me levanté de un salto sin pensarlo.}
-120	914e5b8d	...¡¿?!
-130	33ff84f4	¡¡¿Qué...?!!
-140	8c8b1b86	{fc(57e4f1)¡E-Este es...! ¡El de aquella vez...!}
-150	596bf990	¡T-Tú...! ¡¿Qué haces aquí?!
-160	af7263b9	{fc(57e4f1)Con mucho esfuerzo, logré sacar la voz.}
-170	6709afb8	¡¿Quién eres?! ¡¿Cómo entraste a mi habitación?!
-180	6e9a9b37	{fc(57e4f1)¿Está... diciendo algo...? ¡Pero otra vez no se oye nada...!}
-190	f7e36f62	{fc(57e4f1)...Igual que la otra vez. ¿Qué es este monstruo?}
-200	e0bc10fb	T-Tú... también eres un invasor, ¿no?
-210	11c49211	¿Qué es lo que buscan? ¿Por qué atacan esta academia?
-220	0814fb3b	¡¿Qué es lo que... hay aquí?!
-230	88790b5c	¡¿Qué estás diciendo?! ¡Habla de forma... que pueda oírte!
-240	b2f1de7d	{fc(57e4f1)Maldición... ¡¿qué es esto...?!}
-250	b7216c09	¿Será que lo de la desaparición de Hiruko...? No, no solo eso...
-260	24c2551a	¡¿Lo de SIREI también fue obra tuya?! Tú les hiciste algo a...
-270	25caff3f	...¡¿Eh?!
-280	1ab4b717	¡Ah...!
-290	f75b94db	¡D-Desapareció...! No, más importante, esta alarma...
+80	28715bf6	Mmm... Ngh...
+90	a4df82e2	{fc(57e4f1)De repente, abrí los ojos. Sentía el cuerpo caliente. Algo andaba mal.}
+100	42b9c741	{fc(57e4f1)Miré a mi alrededor, tratando de orientarme. No podía ser ya de mañana: seguía oscuro afuera.}
+110	670b8971	{fc(57e4f1)Entonces, vi algo por el rabillo del ojo que me hizo ponerme de pie de un salto.}
+120	914e5b8d	¡¿?!
+130	33ff84f4	¡¿Q-Qué demonios...?!
+140	8c8b1b86	{fc(57e4f1)¡Ha vuelto...!}
+150	596bf990	¡Tú...! ¿Qué haces aquí?
+160	af7263b9	{fc(57e4f1)Apenas podía hablar. El miedo y la confusión me cerraban la garganta.}
+170	6709afb8	¿Quién eres? ¿Qué eres? ¡¿Por qué estás en mi habitación?!
+180	6e9a9b37	{fc(57e4f1)Intenta hablar otra vez... Pero sigo sin entender nada.}
+190	f7e36f62	{fc(57e4f1)Es igual que la última vez... ¡¿QUÉ es esta cosa?!}
+200	e0bc10fb	¿Eres... eres un invasor?
+210	11c49211	¿Por qué siguen atacando la escuela? ¿Qué quieren de nosotros?
+220	0814fb3b	Sé que hay algo aquí, pero... ¿Qué es?
+230	88790b5c	¡No te oigo! Al menos habla de modo que pueda entenderte...
+240	b2f1de7d	{fc(57e4f1)Esto no me lleva a ninguna parte...}
+250	b7216c09	¿Le hiciste algo a Hiruko? Espera, no, no solo a ella...
+260	24c2551a	¡¿Lo que le pasó a SIREI, también fuiste tú?! ¿Qué le hiciste...?
+270	25caff3f	¡¿Eh?!
+280	1ab4b717	¡Oye...!
+290	f75b94db	Se fue... Más importante, ¡¿esa es la alarma?!
 300	7479921e	Alerta de intrusos. Alerta de intrusos. Se detectó personal no autorizado en los terrenos de la escuela.
 310	860ad3e8	Modo de defensa activado. Todas las tropas disponibles, prepárense de inmediato para el combate.
-320	ef0ca5f7	¡N-Nos atacan! ¡Vinieron los invasores!
+320	ef0ca5f7	Tenía razón... ¡Los invasores han vuelto!
