@@ -1,36 +1,36 @@
 id	huella_jp	es
 10	f4a72a8b	
-20	e8bcfcb4	¿Y? ¿Sientes algo?
+20	e8bcfcb4	¿Funcionó? ¿Sientes algo?
 30	f4a72a8b	
-40	5193c380	...¿Nozomi?
-50	0ab3952b	Ah, sí... Me sorprendí un poco. Se me bajó la fiebre y se me fue el cansancio, como si nada...
+40	5193c380	¿Nozomi...?
+50	0ab3952b	Ah, perdón... Me sobresaltó un poco. La fiebre y el cansancio desaparecieron como si nunca hubieran estado.
 60	e7c43434	Entonces...
-70	4339214c	Parece que... funcionó.
+70	4339214c	Sí. Parece que funcionó.
 80	8047865a	¿En serio? ¡Qué bien!
-90	209e4865	...¿Qué pasa? ¿De qué están hablando ustedes?
-100	2cf5e95c	Ah, no... no es nada. No te preocupes.
+90	209e4865	¿Qué pasa? ¿De qué hablan ustedes?
+100	2cf5e95c	Ah, de nada. Olvídalo.
 110	f4a72a8b	
-120	3c87cfd2	{fc(57e4f1)La hemoánima... no, la} {fc(ff635b)"criptoglobina"}{fc(57e4f1)...}
-130	bd5bd8cd	{fc(ff635b)"Criptoglobina"}{fc(57e4f1) que absorbe} {fc(ff635b)"criptoglobina"}{fc(57e4f1) se vuelve más fuerte... Gracias a eso, parece que Nozomi pudo frenar la reacción de rechazo, pero...}
-140	cb2451e8	{fc(ff635b)"Criptoglobina"}{fc(57e4f1)... El comandante al que se la absorbieron, como era de esperar, se volvió una momia negra y murió...}
-150	6a32f6d6	{fc(57e4f1)Si a nosotros... nos absorbieran la} {fc(ff635b)"criptoglobina"}{fc(57e4f1), ¿terminaríamos así?}
-160	fadd860b	¡Oigan, ¿y Ima?! ¡¿Dónde está?!
-170	cb4e7cd4	¡Sí, es cierto! ¡Hay que buscar a Ima!
-180	1d278728	Con la señal del transmisor no alcanza para saber el lugar exacto, ¿no?
-190	2f006b89	No... Solo sabemos que está en algún lugar de esta base...
-200	7b2862e9	Entonces no queda otra que repartirnos entre todos para buscarlo.
-210	ac965d21	...Pero lo seguro es que está dentro de esta base. Vamos a revisar todo, rincón por rincón.
-220	1162e7a7	{fc(57e4f1)Y así, en la base ya sin enemigos, empezamos a buscar a Ima.}
-230	943a5207	¡Imaaa! ¡¿Dónde estááás?!
-240	7feaa2af	¡Oye, ¿dónde estááás?! ¡Si me oyes, contéstame!
+120	3c87cfd2	{fc(57e4f1)La hemoánima... O más bien la }{fc(ff635b)criptoglobina}{fc(57e4f1)...}
+130	bd5bd8cd	{fc(57e4f1)Puede }{fc(ff635b)ganar poder}{fc(57e4f1) absorbiendo otra }{fc(ff635b)criptoglobina}{fc(57e4f1). Gracias a eso, Nozomi logró suprimir sus síntomas de rechazo.}
+140	cb2451e8	{fc(57e4f1)El comandante, en cambio, terminó convertido en una momia ennegrecida después...}
+150	6a32f6d6	{fc(57e4f1)¿Le pasaría eso a uno de nosotros si alguien absorbiera }{fc(ff635b)nuestro poder}{fc(57e4f1)?}
+160	fadd860b	¡¿Y Ima?! ¡¿Dónde está?!
+170	cb4e7cd4	¡Ah, cierto! ¡Tenemos que buscar a Ima!
+180	1d278728	No podemos encontrar su ubicación específica solo con la señal del transmisor, ¿verdad?
+190	2f006b89	Sí... Solo sabemos que está en algún lugar de esta base...
+200	7b2862e9	Entonces debemos separarnos y buscarlo.
+210	ac965d21	Pero sabemos con certeza que está aquí en algún lado. Solo hay que revisar hasta el último rincón.
+220	1162e7a7	{fc(57e4f1)Empezamos la búsqueda de Ima, explorando la base ahora desprovista de enemigos.}
+230	943a5207	¡Imaaa! ¡¿Dónde estás?!
+240	7feaa2af	¡Oye, ¿dónde estás?! ¡Si me oyes, di algo!
 250	ee341864	¡¡Imaaa!!
-260	af86dd1e	¡Oye, tú! ¡Vinimos hasta aquí a rescatarte! ¡Sal de una vez!
-270	c6af843d	¡Prisioneraaa! ¡Está aquí, ¿verdad?!
-280	5d7242cd	{fc(57e4f1)Llamando a gritos, recorrimos de punta a punta la base enemiga...}
+260	af86dd1e	¡Oye, vinimos hasta aquí a salvarte! ¡Sal ya de una vez!
+270	c6af843d	¡Prisioneraaa! ¡Tú también estás aquí, ¿verdad?!
+280	5d7242cd	{fc(57e4f1)Llamamos a gritos mientras registrábamos cada centímetro de la base enemiga.}
 290	67f39ac7	{fc(57e4f1)Pero...}
-300	ac916d9a	¡Oye, Ima, ya! ¡¿Dónde estááás?! ¡Por favor, contéstame!
-310	b2e086ba	¡Don Imaaa! ¡¿Dónde está don Ima?!
-320	c528f73b	¡Yo voy a buscar también por allá al fondo!
-330	75886349	...Sí, cuento contigo.
-340	d679493a	{fc(57e4f1)Seguimos buscando a Ima desesperadamente. Y, aun así...}
-350	977e5a30	{fc(57e4f1)aunque buscamos toda la noche, no encontramos a Ima por ninguna parte.}
+300	ac916d9a	¡Ima! ¡¿Dónde estááás?! ¡Por favor, respóndeme!
+310	b2e086ba	¡Señor Ima! ¡¿Dónde está?!
+320	c528f73b	¡Voy a buscar por allá!
+330	75886349	De acuerdo, gracias.
+340	d679493a	{fc(57e4f1)Continuamos buscando a Ima con desesperación.}
+350	977e5a30	{fc(57e4f1)Pero ni siquiera tras buscar toda la noche encontramos rastro de él en ninguna parte.}
