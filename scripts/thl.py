@@ -6,6 +6,7 @@
   python3 -I scripts/thl.py check [patrón]                             chequeos automáticos -> build/checks.csv
   python3 -I scripts/thl.py progress [patrón] [--files] [--readme]    líneas traducidas y pendientes
   python3 -I scripts/thl.py table                                      regenera table/: JP, EN y ES de cada línea, por sección
+  python3 -I scripts/thl.py review                                     archivos para revisar en Translation Reviewer -> build/review/
 
 <patrón> se compara con 'message/<nombre>' o 'text/<nombre>' (sin .mbe), con comodines:
   'message/r00_*_d000_*'  prólogo de la primera partida
@@ -25,6 +26,7 @@ import subprocess
 import sys
 import unicodedata
 from collections import Counter, defaultdict
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -326,14 +328,20 @@ def table_index(path, title, back, intro, entries):
     write_md(path, lines)
 
 
-def cmd_table(args):
-    """Regenera table/ desde el juego extraído (build/) y translation/. Solo las líneas con texto visible."""
+def table_groups():
+    """Líneas con texto visible, por página: {(carpeta, nombre): filas} y {(carpeta, nombre): (título, rótulo, sección)}."""
     pages, info = defaultdict(list), {}
     for r in td.lines():
         if r["en"].strip():
             folder, name, title, label = table_page_of(r)
             pages[(folder, name)].append(r)
             info[(folder, name)] = (title, label, area(r))
+    return pages, info
+
+
+def cmd_table(args):
+    """Regenera table/ desde el juego extraído (build/) y translation/. Solo las líneas con texto visible."""
+    pages, info = table_groups()
     shutil.rmtree(TABLE, ignore_errors=True)
     listing, by_section = defaultdict(list), defaultdict(lambda: [0, 0])
     for (folder, name), rows in pages.items():
@@ -380,6 +388,62 @@ def cmd_table(args):
     print(f"table/: {n} archivos, {sum(len(v) for v in pages.values())} líneas")
 
 
+REVIEW = td.ROOT / "build" / "review"
+
+
+def review_config():
+    """Configuración de Translation Reviewer: columnas, códigos del juego, marcas y cambios en el formato de `apply`."""
+    col = {"editable": False, "hidden": False, "group": False, "colors": False, "checks": {}, "lang": "", "role": "reference"}
+    return {
+        "name": "The Hundred Line — español",
+        "key": "key",
+        "path": {"field": "path", "separator": "/"},
+        "columns": [
+            dict(col, id="speaker", field="speaker", label="Personaje", type="tag", group=True, colors=True),
+            dict(col, id="file", field="file", label="Archivo", type="tag", hidden=True),
+            dict(col, id="ja", field="ja", label="Japonés", type="text", role="source", lang="ja"),
+            dict(col, id="en", field="en", label="Inglés", type="text", role="reference", lang="en"),
+            dict(col, id="es", field="es", label="Español", type="text", role="target", lang="es", editable=True,
+                 checks={"markup": {"compare": "en"},
+                         "length": {"compare": "en", "unit": "bytes", "ratio": 1, "paths": ["Interfaz"]}}),
+        ],
+        "markup": {"presets": [], "rules": [
+            {"regex": r"\{chr\}", "kind": "self", "render": "badge", "label": "chr"},
+            {"regex": r"\{(?:image|keyhelp)\(([^)]*)\)\}", "kind": "self", "render": "badge", "label": "$1"},
+            {"regex": r"\{fc\(([0-9a-fA-F]{6})\)", "kind": "open", "render": "color", "value": "#$1"},
+            {"regex": r"\{[a-z]+\d*(?:\([^)]*\))?", "kind": "open", "render": "hidden"},
+            {"regex": r"\}", "kind": "close"},
+        ]},
+        "statuses": [{"id": "ok", "label": "OK", "tone": "green"}, {"id": "change", "label": "Cambiar", "tone": "amber"},
+                     {"id": "doubt", "label": "Duda", "tone": "sky"}],
+        "export": {"format": "jsonl", "template": {"key": "{key}", "old": "{old}", "es": "{new}"}},
+    }
+
+
+def cmd_review(args):
+    """Las líneas con texto visible en build/review/the-hundred-line.jsonl, y la configuración en configuracion.review.json.
+
+    La primera vez se abren los dos en Translation Reviewer; después, el JSONL nuevo con el .review.json que se descargó.
+    Los cambios que descarga ("Solo los cambios") se aplican con `thl.py apply`.
+    """
+    pages, info = table_groups()
+    out = []
+    for (folder, name), rows in sorted(pages.items(), key=lambda kv: SECTIONS.index(info[kv[0]][2])):
+        _, label, section = info[(folder, name)]
+        path = [section] + ([f"Ruta {folder.rsplit('/', 1)[1]}"] if "/" in folder else []) + [label]
+        for r in rows:
+            out.append(json.dumps({"key": r["key"], "path": path, "speaker": r["speaker"], "file": r["key"].split("/")[1],
+                                   "ja": r["jp"], "en": r["en"], "es": r["es"]}, ensure_ascii=False))
+    REVIEW.mkdir(parents=True, exist_ok=True)
+    data = REVIEW / "the-hundred-line.jsonl"
+    data.write_text("\n".join(out) + "\n", encoding="utf-8")
+    settings = {"format": "translation-reviewer", "version": 1, "saved": datetime.now(timezone.utc).isoformat(),
+                "config": review_config(), "files": [{"name": data.name, "format": "jsonl", "rows": len(out)}],
+                "review": {}, "spoilers": {"enabled": False, "markers": {}}, "log": []}
+    (REVIEW / "configuracion.review.json").write_text(json.dumps(settings, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"build/review/: {data.name} ({num(len(out))} líneas) y configuracion.review.json")
+
+
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -398,9 +462,10 @@ def main():
     v.add_argument("--files", action="store_true", help="por archivo, solo los que tienen pendientes")
     v.add_argument("--readme", action="store_true", help="actualiza la tabla de avance del README")
     sub.add_parser("table")
+    sub.add_parser("review")
     args = p.parse_args()
     {"export": cmd_export, "apply": cmd_apply, "diff": cmd_diff, "check": cmd_check, "progress": cmd_progress,
-     "table": cmd_table}[args.cmd](args)
+     "table": cmd_table, "review": cmd_review}[args.cmd](args)
 
 
 if __name__ == "__main__":
