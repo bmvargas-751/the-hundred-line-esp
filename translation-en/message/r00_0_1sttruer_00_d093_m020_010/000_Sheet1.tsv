@@ -1,83 +1,83 @@
 id	huella_jp	es
-10	fad74027	{fc(57e4f1)Abrí la puerta con cuidado y ahí estaban...}
-20	aa19ed83	¡Sr. Sumino, hola!
-30	47325653	Ah... hola...
-40	788a8cbe	¿Ustedes...? ¿Qué pasa?
-50	991ef300	¿Oh? Qué decaído, ¿eh? ¡Parece un termómetro derretido por el sol!
-60	9e18e14a	Ah, ya sé... ¿es por la información que se le escapó, Sr. Sumino?
-70	1e3d91a3	Por eso a la Srta. Kirifuji la dejaron de lado, y usted todavía sigue deprimido, ¿no?
-80	dafc4732	Te digo... que yo no se lo conté a nadie.
-90	4d5a9976	Entonces... ¿cómo se difundió eso?
-100	28f0eb6e	Justamente estoy confundido porque no lo sé. Ni siquiera sé quién se enteró ni cómo...
-110	17236c5a	Bueno, ¿no son así los rumores? Casi nunca se sabe de dónde salen.
+10	fad74027	{fc(57e4f1)Me acerqué con cautela a la puerta y la abrí, y ahí estaban...}
+20	aa19ed83	¡Señor Sumino! ¡Buenos días!
+30	47325653	Sí, hola...
+40	788a8cbe	Ustedes dos... ¿Qué pasa?
+50	991ef300	Vaya. Se ve decaído. ¡Como un termómetro derretido por el sol!
+60	9e18e14a	¿Supongo que se siente culpable por la información que filtró?
+70	1e3d91a3	Convirtió a la señorita Kirifuji en una auténtica paria. ¿Por eso sigue deprimido?
+80	dafc4732	¡Te dije que nunca se lo conté a nadie!
+90	4d5a9976	Entonces, ¿cómo se difundió la historia?
+100	28f0eb6e	Por eso estoy tan confundido. No tengo idea. Ni siquiera sé cómo se enteró nadie...
+110	17236c5a	¿No es esa la naturaleza de los chismes? Nadie sabe nunca con certeza de dónde salieron.
 120	f4a72a8b	
-130	7d533265	Más importante... queremos consultarle algo, Sr. Sumino.
-140	ef7fe59b	...¿Consultarme? ¿Qué cosa?
-150	989571b4	No sabíamos... a quién consultárselo. En esta situación, en quién podíamos confiar...
-160	c57fd15b	Y justo pasó lo de la Srta. Kirifuji, y vimos al Sr. Sumino yendo de un lado a otro, desesperado, todo patético...
-170	70cdaf03	...Perdón, ¿eh?
-180	5fa87a1d	No, no, al contrario, viéndolo así pensamos que podíamos confiar en usted.
-190	e9c13661	Si el Sr. Sumino fuera el {fc(ff635b)"traidor"}, no se dejaría llevar así por los demás.
+130	7d533265	Más importante, tenemos algo que nos gustaría hablar con usted.
+140	ef7fe59b	¿Hablar? ¿Qué es?
+150	989571b4	No estábamos seguros de con quién tocar el tema. Nos preguntábamos en quién podíamos confiar en una situación como esta...
+160	c57fd15b	Y cuando ocurrió lo de la señorita Kirifuji, lo vimos titubear de un lado a otro vergonzosamente.
+170	70cdaf03	Perdón...
+180	5fa87a1d	Ah, no, ver eso nos hizo sentir que podíamos confiar en usted.
+190	e9c13661	Si de verdad fuera el {fc(ff635b)traidor}, no habría dejado que la situación lo ridiculizara tanto.
 200	d130acc9	¿T-Traidor? ¿De qué hablan?
-210	971aaaa7	Del culpable... que venimos persiguiendo todo este tiempo. Estábamos investigando para descubrir quién es, pero...
-220	d486d27d	...no hubo caso. No pudimos llegar a la resolución del caso.
-230	7d8de9e4	Te digo... ¿de qué hablan?
-240	5961c0b4	En realidad, de lo que pasó cuando me tenían atrapado los invasores, hay una sola cosa que no les conté a todos.
-250	257ff880	...¿Eh?
-260	df76ad35	Qué sorpresa, ¿no...? Y eso que les anda diciendo a los demás que no hay que ocultar cosas.
-270	a6bef6a3	¡Bueno, los demás son los demás, y yo soy yo!
-280	d5fae0b4	...¿Y qué es lo que no contaste?
-290	c27f07da	Es sobre los comandantes de los invasores... Esos tipos creen en un dios propio.
-300	9f467f26	Tienen algo así como lo que nosotros llamaríamos una {fc(ff635b)"religión"}.
-310	b29d173e	¿Una religión? ¿Esos?
-320	3c53e156	Y además, cumplen sus preceptos al pie de la letra. Y, según esos preceptos...
-330	4a3296d9	la hemoánima... ¿se llamaba criptoglobina? Parece que absorber esa criptoglobina es un tabú absoluto.
-340	4c48584c	Igual que ciertas religiones no permiten comer ciertas carnes, es un tabú súper mega grave, vamos.
-350	1f89df6d	¿O sea que... esos no absorben criptoglobina?
-360	c0f7bc7c	Entonces... ¿quién habrá hecho aquello?
-370	ff0d8856	Lo del cadáver de la prisionera hecho momia negra...
-380	f798590d	y también lo del cadáver de la Srta. Hiruko hecho momia negra.
-390	69277dfd	¿N-No me digan que...? ¿Quieren decir que eso no lo hicieron los invasores?
-400	83451a4b	Eso es lo que significa. Absorber criptoglobina es un tabú absoluto para ellos.
-410	e88da47e	Si es así... el que lo hizo solo puede ser alguien de nosotros, ¿no...?
+210	971aaaa7	El culpable. El que hemos estado persiguiendo todo este tiempo... Hemos estado investigando para descubrir quién es...
+220	d486d27d	Pero fracasamos. No pudimos resolver el misterio.
+230	7d8de9e4	En serio, ¿de qué hablan?
+240	5961c0b4	A decir verdad, hay una cosita que no les conté a todos sobre mi tiempo con los invasores.
+250	257ff880	¿Qué...?
+260	df76ad35	Qué impacto, ¿verdad? Sobre todo siendo él quien anda diciendo a los demás que no hay que ocultar cosas.
+270	a6bef6a3	Ya sabe cómo es: ¡hay reglas para mí y reglas para los demás!
+280	d5fae0b4	¿Y qué es lo que no nos contaste?
+290	c27f07da	Se trata de los comandantes... Veneran a una deidad peculiar.
+300	9f467f26	Tienen lo que nosotros llamaríamos una {fc(ff635b)religión}.
+310	b29d173e	¿Una religión? ¿Esas cosas?
+320	3c53e156	Además, siguen sus preceptos muy estrictamente. Según estas enseñanzas...
+330	4a3296d9	La hemoánima... ¿o era criptoglobina? Absorber criptoglobina es un tabú del más alto orden.
+340	4c48584c	Así como algunas religiones prohíben el consumo de carne, está súper en serio prohibido.
+350	1f89df6d	¿Me estás diciendo que NO absorben criptoglobina?
+360	c0f7bc7c	Entonces... ¿quién estuvo detrás de esos incidentes?
+370	ff0d8856	La momia ennegrecida de la prisionera...
+380	f798590d	Y el cuerpo reseco de Hiruko también.
+390	69277dfd	N-No puede ser... ¿Dicen que eso no lo hicieron los invasores?
+400	83451a4b	Precisamente. Les está absolutamente prohibido absorber criptoglobina.
+410	e88da47e	En ese caso... el responsable debe de ser uno de nosotros, ¿no?
 420	57c811bd	¿Eh...?
-430	9ee90b49	O sea, que entre nosotros hay un {fc(ff635b)"traidor"} que mató a la prisionera y a la Srta. Shizuhara.
-440	5db971bb	{fc(57e4f1)Un escalofrío me recorrió todo el cuerpo.}
-450	3e66fda8	{fc(57e4f1)Como en un mareo repentino, sentí que el suelo se tambaleaba bajo mis pies.}
-460	6a90c901	N-No puede ser... ¿un traidor...?
-470	8ec87dda	Esto es... un caso de homicidio con todas las letras. Porque un humano está matando humanos.
-480	5e0c9c27	El caso del asesinato de Hiruko Shizuhara...
-490	29c4ef25	Un c-caso de asesinato...
-500	a9f7e40d	Entonces pensé que era momento de que entrara en acción la detective, e investigué un montón, pero...
-510	f62e3ea3	...no hubo caso. No encontré ni una pista.
-520	e2374ded	No es culpa tuya, Kako. A estas alturas, lo que se puede investigar es muy poco.
-530	bac19d92	No, eso no puede ser. Aunque digan que hay un traidor, ¿qué ganaría con eso?
-540	f65a5af7	No tendría sentido pasarse al bando de los invasores, si ni siquiera hablamos el mismo idioma...
-550	e533b71a	Eso es lo que pasa. El motivo del culpable es un misterio.
-560	bc0ac642	Pero... como es un hecho que mataron a la prisionera y a la Srta. Hiruko, como detective no lo puedo dejar pasar...
-570	9ebdeee2	eso pensé, pero... la investigación quedó en un callejón sin salida. Si sigue así, el caso va a quedar sin resolver.
-580	d340ab93	¡Por eso se lo preguntamos al Sr. Sumino!
-590	56209b96	El Sr. Sumino estuvo en un montón de lugares, expediciones incluidas, ¿no se le ocurre algo?
-600	07bfb625	No, si me lo preguntan así de repente...
+430	9ee90b49	En resumen, hay un {fc(ff635b)traidor} entre nosotros, responsable de matar a la prisionera y a la señorita Shizuhara.
+440	5db971bb	{fc(57e4f1)Un escalofrío repugnante me recorrió todo el cuerpo.}
+450	3e66fda8	{fc(57e4f1)Sentí que me flaqueaban los pies, como si me hubiera dado un mareo repentino.}
+460	6a90c901	N-No puede ser... ¿Un traidor...?
+470	8ec87dda	Tenemos entre manos un excelente caso de homicidio. Un humano ha matado a otro humano.
+480	5e0c9c27	"El asesinato de Hiruko Shizuhara".
+490	29c4ef25	A-Asesinato...
+500	a9f7e40d	Lo que significa que era hora de que yo interviniera como detective. Investigué un poco, pero...
+510	f62e3ea3	No llegué a ninguna parte. No pude conseguir ni una sola pista.
+520	e2374ded	No es tu culpa, dulce Kako. Investigar tan tarde no puede dar mucho fruto.
+530	bac19d92	Todavía me cuesta creer que haya un traidor entre nosotros. No hay beneficio alguno en traicionar al equipo así.
+540	f65a5af7	Y no tiene sentido pasarse al otro bando cuando ni siquiera podemos comunicarnos con ellos.
+550	e533b71a	En efecto. El motivo del culpable es un misterio total.
+560	bc0ac642	Aun así... Sigue siendo cierto que mataron a la prisionera y a Hiruko. Como detective, no puedo hacer la vista gorda...
+570	9ebdeee2	Dicho eso, llegué a un callejón sin salida en la investigación. A este paso, el caso se va a enfriar.
+580	d340ab93	¡Y por eso acudimos a usted, señor Sumino!
+590	56209b96	Usted ha estado por todos lados en expediciones. ¿Se le ocurre dónde podríamos encontrar pistas nuevas?
+600	07bfb625	No pueden soltarme una pregunta así y esperar una respuesta instantánea...
 610	f4a72a8b	
-620	c111ef7f	Uf... ¿no? Ya sabía que el Sr. Sumino no sirve para nada.
-630	36b686f7	No sirve para nada...
-640	0cbb115e	...¿Qué manera de hablar es esa?
-650	a1fcb7df	Bueno, no hace falta que sea ya mismo; si se acuerda de algo, avísenos, por favor.
-660	94888ae7	El plazo para irnos de aquí es mañana, pero pensamos seguir buscando al culpable en el Satélite Artificial.
-670	96ec7238	Si se da cuenta de algo... avísenos, ¿sí?
-680	06680e25	S-Sí... de acuerdo. Si me doy cuenta de algo, les aviso.
-690	1f82538e	Bueno, vamos, Kako. Sigamos investigando un poco más, sin rendirnos.
+620	c111ef7f	*suspiro* ¿Nada, entonces? Sabía que no serviría de nada.
+630	36b686f7	Para nada...
+640	0cbb115e	Tsk. Qué grosero.
+650	a1fcb7df	Si recuerda algo en cualquier momento, avísenos, por favor.
+660	94888ae7	Solo tenemos hasta mañana antes de irnos de aquí, pero pensamos seguir buscando al culpable incluso cuando estemos en el satélite.
+670	96ec7238	Avísanos si se te ocurre algo.
+680	06680e25	Claro... Si se me ocurre algo, se lo digo de inmediato.
+690	1f82538e	Bueno, vámonos, Kako. Sigamos con nuestra investigación.
 700	9b85a39b	Sí. Después de todo, la verdad es una sola.
-710	73be9282	{fc(57e4f1)Dicho eso, los hermanos Tsukumo se fueron de mi habitación.}
+710	73be9282	{fc(57e4f1)Dicho eso, los gemelos Tsukumo salieron de mi cuarto.}
 720	f4a72a8b	
-730	8aec9e63	{fc(57e4f1)¿Un traidor...? ¿Alguien... mató a la prisionera y a Hiruko?}
+730	8aec9e63	{fc(57e4f1)¿Un traidor? ¿Alguien mató a la prisionera y a Hiruko...?}
 740	f4a72a8b	
-750	e0cb14f5	¿Qué es eso...? Ya basta, por favor... No entiendo nada...
-760	c7e1b7a9	{fc(57e4f1)Sinceramente, estaba harto... No tenía ganas ni de creerlo ni de ponerme a pensar...}
-770	3ff60297	{fc(57e4f1)Volví otra vez a la cama y, como para bloquearlo todo...}
-780	316c392b	{fc(57e4f1)me tapé los oídos y cerré los ojos.}
-790	9cdc2711	{fc(57e4f1)No sé cuántas horas pasaron después...}
+750	e0cb14f5	Por favor, basta ya... Nada tiene sentido...
+760	c7e1b7a9	{fc(57e4f1)Sinceramente, todo esto me irritaba. Ni siquiera podía creerlo, mucho menos comprenderlo.}
+770	3ff60297	{fc(57e4f1)Volví a mi cama y traté de aislarme de todo.}
+780	316c392b	{fc(57e4f1)Me tapé los oídos y cerré los ojos.}
+790	9cdc2711	{fc(57e4f1)No tengo idea de cuántas horas pasaron así.}
 810	f4a72a8b	
-830	30ebefa9	{fc(57e4f1)Con el timbre sonando una y otra vez con insistencia, por fin me levanté.}
-840	9330aced	¿Vino... alguien otra vez? ¿Quién es ahora?
+830	30ebefa9	{fc(57e4f1)Al oír el timbre sonar una y otra vez con terquedad, por fin me levanté.}
+840	9330aced	¿Otra persona? ¿Quién es ahora?
