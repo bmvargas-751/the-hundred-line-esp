@@ -1,6 +1,6 @@
 id	huella_jp	es
-10	94812c8c	{fc(57e4f1)Ese día, en la cafetería, otra vez la única que faltaba era Oosuzuki.}
-20	032a0ccc	Oosuzuki... ¿hoy tampoco viene...?
+10	94812c8c	{fc(57e4f1)Ese día, en la cafetería, otra vez la única que faltaba era Kurara.}
+20	032a0ccc	Kurara... ¿hoy tampoco viene...?
 30	e474c03e	¿Y si vamos a llamarla? Si golpeamos la puerta con fuerza, ¿no saldrá?
 40	cbfe87c6	No hace falta ver el futuro para saberlo... pero creo que sería contraproducente...
 50	5950d24d	Nozomi, ¿todavía no pudiste hablar con Kurara?
@@ -11,14 +11,14 @@ id	huella_jp	es
 100	0de32418	¿De dónde te sale esa seguridad? No creo que ella confíe en ti.
 110	a925f879	¡Plop...!
 120	7e239722	{fc(57e4f1)Y fue entonces. De pronto, unos pasos ligeros resonaron en la cafetería.}
-130	feb22d95	¿O-Oosuzuki? Oye... ¿y la máscara?
+130	feb22d95	¿O-Kurara? Oye... ¿y la máscara?
 140	5b78dade	Es que... quería hablar en serio. Con Nozomi... mirándola a los ojos.
 150	257ff880	...¿Eh?
 160	4de35fb8	Porque... se lo prometí a Kyoshika. Que con el tsuchinoko... la iba a escuchar.
 170	22217807	Por fin... pude decidirme.
-180	4bc8ed4d	{fc(57e4f1)Quizás por los nervios de mostrarse a cara descubierta, Oosuzuki caminó con las piernas temblando hasta Kirifuji y...}
+180	4bc8ed4d	{fc(57e4f1)Quizás por los nervios de mostrarse a cara descubierta, Kurara caminó con las piernas temblando hasta Nozomi y...}
 190	69d15ce4	Primero... ¿me lo cuentas bien? ¿Por qué nos ocultaste cosas, Nozomi?
-200	9f7c903d	...Como dijo Sumino, yo era parte de los experimentos de trasplante de criptoglobina.
+200	9f7c903d	...Como dijo Takumi, yo era parte de los experimentos de trasplante de criptoglobina.
 210	117b9f9b	Desde pequeña... siempre.
 220	047ae3e2	Pero mis experimentos fracasaban uno tras otro, y no pude conseguir un poder como el de ustedes...
 230	301c54a9	En eso, me enteré de ustedes. De ustedes, que habían conseguido el poder que yo no pude conseguir.
@@ -35,7 +35,7 @@ id	huella_jp	es
 340	f57198ca	...Por eso decidí ocultarlo. No podía dejar que sospecharan de mí y me echaran.
 350	db25797e	Yo... de verdad quería pelear por la humanidad. Para eso me sometí a trasplantes desde pequeña.
 360	60e5f533	Pero perdón... ¡de verdad perdón por callármelo!
-370	0707ea20	{fc(57e4f1)Dicho eso, Kirifuji hizo una profunda reverencia.}
+370	0707ea20	{fc(57e4f1)Dicho eso, Nozomi hizo una profunda reverencia.}
 380	6c77fd99	Está bien... ya levanta la cabeza.
 390	f4a72a8b	
 400	395e3669	Yo... odio que me mientan o me oculten cosas.
@@ -43,7 +43,7 @@ id	huella_jp	es
 420	caa986de	Pero por eso... fui contigo mucho más dura de lo necesario...
 430	c54fef7a	Y después... yo también... ya no podía echarme atrás...
 440	6793ebd6	...¡Perdón, de verdad, por no escucharte!
-450	67f38e37	{fc(57e4f1)Dicho eso, ahora fue Oosuzuki la que hizo una profunda reverencia.}
+450	67f38e37	{fc(57e4f1)Dicho eso, ahora fue Kurara la que hizo una profunda reverencia.}
 460	433c560b	K-Kurara...
 470	4f7b83e6	O-Oye... ya sé que es muy conveniente para mí, después de que la pelea la empecé yo, pero...
 480	41edec7e	¿No... no querrías reconciliarte conmigo?
@@ -65,8 +65,8 @@ id	huella_jp	es
 640	3a9867c1	Tendríamos que habernos reconciliado antes... mientras Kyoshika estaba viva... Tendría que haberle hecho caso a Kyoshika...
 650	22f71572	¡Kyoshika, perdóname! ¡Yo... quiero volver a empezar!
 660	b7b9dbd4	¡Quiero... volver a empezar otra vez!
-670	ad919c87	Oosuzuki...
-680	d76ddfce	{fc(57e4f1)Parecía que no hacía más que burlarse de Magadori, pero a su manera la quería mucho.}
+670	ad919c87	
+680	d76ddfce	{fc(57e4f1)Parecía que no hacía más que burlarse de Kyoshika, pero a su manera la quería mucho.}
 690	b671c085	{fc(57e4f1)Pero... ya no se puede volver a empezar. El pasado ya no se puede rehacer...}
 700	28368f22	Es duro... pero no queda otra que seguir adelante. Unamos fuerzas y sigamos juntos los días que quedan.
 710	17dcf725	Aunque sea para que no haya más sacrificios.
@@ -91,4 +91,4 @@ id	huella_jp	es
 900	c93d3ea5	...¿No, Takumi?
 910	f4a72a8b	
 920	f65c191a	{fc(57e4f1)Habiendo perdido ya a dos, no se le puede llamar final feliz.}
-930	509da597	{fc(57e4f1)Después de calmar a Oosuzuki, que lloraba sin parar, volvimos por un rato a nuestras habitaciones.}
+930	509da597	{fc(57e4f1)Después de calmar a Kurara, que lloraba sin parar, volvimos por un rato a nuestras habitaciones.}

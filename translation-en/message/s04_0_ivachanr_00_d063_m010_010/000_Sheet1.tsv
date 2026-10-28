@@ -2,13 +2,13 @@ id	huella_jp	es
 10	83106c75	No... no puede ser...
 20	d83d2807	¡No puede ser, no!\n¡No es cuestión de la verdad ni de nada de eso!
 30	48724220	¡No se puede sacrificar la vida de Eva!\n¡Yo no lo voy a permitir de ninguna manera!
-40	9ffb32bd	Sumino...
+40	9ffb32bd	
 50	f34c491c	No podemos mantenerla con vida.\nNo sabemos cuándo saldrá la verdadera naturaleza de los invasores.
 60	617f59f8	Y tampoco podemos llevarla al Satélite Artificial, ¿sabe?
 70	a00dcf46	¿Vas a decir que algún día tendremos que matarla?\nNo... yo voy a encontrar una solución...
 80	4b061b53	¡Quiero encontrarla!\n¡No quiero matar a Eva!
 90	2bd77859	¡Mis propios sentimientos no me lo permiten!\n¡Eva también es de los nuestros!
-100	9ffb32bd	Sumino...
+100	9ffb32bd	
 110	4466159f	...O sea que quieres seguir tu corazón ardiente.\nPersonalmente me gustaría apoyar a Sumino, pero...
 120	acf8d96b	Ya... ya no estamos en situación para eso...\nTengo... que hacerlo...
 130	1f50b78b	Esto es... para liberar a Eva...\ny además es la única forma de conocer toda la verdad...
@@ -22,16 +22,16 @@ id	huella_jp	es
 210	e679dc25	Quiero morir... no, no quiero...
 220	f95e2a74	¡Eva, estoy preparado para que me odies!\n¡Con tu vida, llegaré a la verdad!
 230	65044a2f	¡¡Adiós, Eva!!
-240	2f514bfb	{fc(57e4f1)Gritando eso,\nGinzaki corrió hacia Eva.}
-250	4ea545b3	¡Espera, detente, Ginzaki!
+240	2f514bfb	{fc(57e4f1)Gritando eso,\nShouma corrió hacia Eva.}
+250	4ea545b3	¡Espera, detente, Shouma!
 260	6ed274ad	{fc(57e4f1)Ignorando mi grito,\nGinzaki saltó para abalanzarse sobre Eva...}
 270	f988cf93	N-No quiero morir...
 280	f291e869	...¡¡Aaaaaaaaaaaaaaaah!!
 290	04adc6de	¡Ah... ugh, gah...!
-300	b80a4d35	¿G-Ginzaki...?
+300	b80a4d35	¿G-Shouma...?
 310	2551aaf6	Uuh... uuuuuh...
 320	ea9969bd	{fc(57e4f1)Incrédulos,\nmirábamos aquella escena impactante.}
-330	e9e703d4	{fc(57e4f1)Al revés, Eva se lanzó sobre Ginzaki como un carnívoro\ny le clavó el arma en el corazón.}
+330	e9e703d4	{fc(57e4f1)Al revés, Eva se lanzó sobre Shouma como un carnívoro\ny le clavó el arma en el corazón.}
 340	49e15c3e	{fc(57e4f1)Una gran cantidad de sangre... de criptoglobina,\nera absorbida dentro de Eva.}
 350	aa08176b	
 360	50310620	Ah, ah... esto es mi merecido...\nPorque soy una basura sin remedio...
@@ -43,25 +43,25 @@ id	huella_jp	es
 420	38695430	{fc(57e4f1)Corrí desesperado a detener a Eva, pero...}
 430	cbb770cb	{fc(57e4f1)...ya era tarde.}
 440	38ff1963	¡N-No puede ser...!
-450	c863da6e	G-Ginzaki...
+450	c863da6e	G-Shouma...
 460	3f86773b	¡N-No... aaaaaaah!
 470	d10f05cc	Fuuu, FUUU, fuuuu...
 480	fcf11107	¡¡Todos, sujeten a Eva!!
 490	9c5aadc6	{fc(57e4f1)En el instante en que nos abalanzamos sobre ella...}
 500	9b48f801	{fc(57e4f1)la fuerza abandonó de golpe a Eva, de rostro de bestia,\ny cayó desmayada en el lugar.}
-510	82165a2c	{fc(57e4f1)Lo único que quedó era el cadáver de Ginzaki,\nconvertido en una momia negra, sin criptoglobina.}
+510	82165a2c	{fc(57e4f1)Lo único que quedó era el cadáver de Shouma,\nconvertido en una momia negra, sin criptoglobina.}
 520	21ad701b	{fc(57e4f1)¿Por qué...?}
 530	f2bc0130	{fc(57e4f1)¿Por qué pasó algo así...?}
-540	086ef3a0	{fc(57e4f1)Después enterramos el cuerpo de Ginzaki\njunto a las tumbas de los demás.}
+540	086ef3a0	{fc(57e4f1)Después enterramos el cuerpo de Shouma\njunto a las tumbas de los demás.}
 550	f01a7647	{fc(57e4f1)Yo quería salvar a un compañero...}
 560	8f563715	{fc(57e4f1)y ese compañero al que quise salvar mató a otro compañero.}
 570	8ad6d406	¿Por qué...\npor qué pasó esto...?
-580	61a8e1f5	¡Maldición...! ¡Ginzaki...!
+580	61a8e1f5	¡Maldición...! ¡Shouma...!
 590	920c8202	Esta no es la muerte que habría querido para él...
-600	84342691	{fc(57e4f1)La }{fc(ff635b)"verdad increíble"}{fc(57e4f1) de la que hablaba Ginzaki...\ntambién quedó sellada para siempre en el misterio.}
+600	84342691	{fc(57e4f1)La }{fc(ff635b)"verdad increíble"}{fc(57e4f1) de la que hablaba Shouma...\ntambién quedó sellada para siempre en el misterio.}
 610	5178874e	{fc(57e4f1)Pero eso ya no importa.\nLo que ahora tenemos que pensar es...}
 620	76ca3225	{fc(57e4f1)qué hacer con Eva.}
-630	f452851b	{fc(57e4f1)Desde que absorbió la criptoglobina de Ginzaki,\nduerme como si estuviera muerta.}
+630	f452851b	{fc(57e4f1)Desde que absorbió la criptoglobina de Shouma,\nduerme como si estuviera muerta.}
 640	09c21053	{fc(57e4f1)El hecho de que Eva, bajo un lavado de cerebro que le impedía desobedecer,\n}{fc(ff635b)"matara"}{fc(57e4f1) a uno de los nuestros...}
 650	f9da98cb	{fc(57e4f1)era un problema tremendamente grave.}
 660	bb33f596	{fc(57e4f1)Esa noche, como era de esperar, no pude dormir,\ny entonces...}

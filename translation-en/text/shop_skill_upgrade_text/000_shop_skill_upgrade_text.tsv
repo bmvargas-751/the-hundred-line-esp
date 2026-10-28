@@ -74,7 +74,7 @@ id	huella_jp	es
 1005133	1753be93	 {fc(67ffe0)Movimiento +1}
 1005134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1005135	8df0abf9	 {fc(67ffe0)Ataque +1}
-1006111	a9b43507	 {fc(67ffe0)Pulsión de muerte disponible}
+1006111	a9b43507	 {fc(67ffe0)Luces mortales disponible}
 1006112	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1006113	1753be93	 {fc(67ffe0)Movimiento +1}
 1006114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -99,7 +99,7 @@ id	huella_jp	es
 1007123	1753be93	 {fc(67ffe0)Movimiento +1}
 1007124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1007125	f67a74a0	 {fc(67ffe0)Ataque +1 → +2\nVOLTAGE: grande → enorme}
-1007131	6955966d	 {fc(67ffe0)Cacería de sangre disponible}
+1007131	6955966d	 {fc(67ffe0)A la caza disponible}
 1007132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1007133	1753be93	 {fc(67ffe0)Movimiento +1}
 1007134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}

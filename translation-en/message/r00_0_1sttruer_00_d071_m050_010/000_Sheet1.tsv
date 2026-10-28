@@ -1,12 +1,12 @@
 id	huella_jp	es
 10	46e65fd1	¿Es verdad... que sabes dónde está la prisionera?
-20	9fc68e94	Para empezar... yo no confiaba en Ginzaki.
+20	9fc68e94	Para empezar... yo no confiaba en Shouma.
 30	257ff880	...¿Eh?
 40	66e845ac	Pensaba que dejarle la prisionera solo a él era arriesgado...
 50	7dc8bdb2	Que, de tanto encariñarse con la prisionera tan adorable, terminaría dejándola escapar...
 60	01e82e8c	¡P-Pero si les digo... que yo no hice eso!
 70	755a3ecf	No, está bien. No es que quiera buscar al culpable.
-80	5c6b449c	Volviendo al tema... como no confiaba en Ginzaki, pensé que tenía que tomar alguna medida...
+80	5c6b449c	Volviendo al tema... como no confiaba en Shouma, pensé que tenía que tomar alguna medida...
 90	21e8d7d6	y, por si la prisionera se escapaba, le puse un transmisor.
 100	62447577	¡¿U-Un transmisor?!
 110	06dc90a5	Estaba en la lista del Gift-O-Matic. Un transmisor muy pequeño y de muy buen rendimiento.
@@ -30,7 +30,7 @@ id	huella_jp	es
 290	654dd757	¡¿Eh?! ¡¿Tan impresionante es?!
 300	b8fc80dc	Más importante... ¿la prisionera todavía tiene puesto ese transmisor? ¿Con eso se sabe dónde está?
 310	d80e572b	La señal del transmisor se ve bien en el monitor. Ese monitor también se debería poder ver dentro del autobús escolar.
-320	676a3cd0	Ayer Omokage me pidió que instalara el monitor en el autobús escolar.
+320	676a3cd0	Ayer Yugamu me pidió que instalara el monitor en el autobús escolar.
 330	62ad67bf	Entonces, si seguimos ese transmisor, ahí va a estar la prisionera...
 340	11e73d81	¡E Ima también tiene que estar con ella! ¡Vamos rápido a rescatarlo!
 350	3054adf2	¡Así se habla! ¡Vamos a recuperar a Ima! ¡A la carga, carajo!
@@ -38,7 +38,7 @@ id	huella_jp	es
 370	788dc75c	Así es... Si atacan mientras no estamos, la academia no resistiría ni un momento...
 380	f2278860	Si solo es para perseguir a esa prisionera, con tres o cuatro alcanza...
 390	c9caee76	Más bien, no podemos reducir más que eso nuestras fuerzas. Encima, Nozomi sigue fuera de combate.
-400	5ce1793c	Entonces... decidamos quiénes van. Aparte de Sumino, ¿quién quiere ir?
+400	5ce1793c	Entonces... decidamos quiénes van. Aparte de Takumi, ¿quién quiere ir?
 410	724f1581	{fc(57e4f1)...Así que yo ya voy, por lo visto. Bueno, voy a ir igual.}
 420	24865e94	¡Yo voy, por supuesto! ¡Voy a rescatar a Ima!
 430	85219448	Yo también... debería ir, ¿no? Me preocupa cómo anda el autobús escolar recién arreglado.
@@ -50,10 +50,10 @@ id	huella_jp	es
 490	5e20bdd8	...Entonces, en cuanto estén listos, nos reunimos en el estacionamiento, donde está el autobús escolar.
 500	fc73645f	¡Yo llevo los Infusers de todos!
 510	fd9e12c4	¡Yo traigo el papel para limpiarles el trasero a todos!
-520	1f988e24	{fc(57e4f1)Dicho esto, Kako y Ginzaki salieron disparados de la Sala de Guerra antes que nadie.}
+520	1f988e24	{fc(57e4f1)Dicho esto, Kako y Shouma salieron disparados de la Sala de Guerra antes que nadie.}
 530	f384e69d	...Takumi, ten cuidado. No se sabe qué puede pasar.
 540	d4aa5522	Sí, ya sé... Estaremos bien.
 550	2b2c8bcc	Bueno, si los aniquilan a todos, piensen que es un juego deprimente con final malo y disfrútenlo...
 560	f2173dff	Deja de decir cosas de mal agüero.
-570	cb06882a	{fc(57e4f1)Irme de aquí y dejar a Kirifuji enferma me preocupa un poco, pero...}
+570	cb06882a	{fc(57e4f1)Irme de aquí y dejar a Nozomi enferma me preocupa un poco, pero...}
 580	95eb765f	{fc(57e4f1)hay que resolver los problemas uno por uno. Primero, recuperar a Ima.}

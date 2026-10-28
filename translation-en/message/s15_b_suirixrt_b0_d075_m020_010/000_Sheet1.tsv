@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	c32a4355	{fc(57e4f1)Así, Shizuhara, Kawana y yo desayunamos con todos\ny luego fuimos al patio.}
+10	c32a4355	{fc(57e4f1)Así, Hiruko, Tsubasa y yo desayunamos con todos\ny luego fuimos al patio.}
 20	56ec27ea	¿Por qué nos trajiste a nosotras?
 30	ae34b31e	No puedo ir en contra de mi propio testamento, ¿no?
 40	ece1bd90	Lo de "de día, actuar en grupo".
@@ -13,20 +13,20 @@ id	huella_jp	es
 120	9e483d64	Bueno, es verdad...
 130	66885104	Entonces... ¿qué investigamos primero?
 140	5af85d25	Antes, déjenme preguntarles una cosa.
-150	a343fde9	Mataron a Ginzaki el día 51, cerca de las 4 de la madrugada...\n¿nadie tiene coartada para esa hora, no?
-160	abeb1cb0	No. Todos declaran que dormían en su cuarto.\nAh, Eva dormía en el cuarto de Aotsuki...
+150	a343fde9	Mataron a Shouma el día 51, cerca de las 4 de la madrugada...\n¿nadie tiene coartada para esa hora, no?
+160	abeb1cb0	No. Todos declaran que dormían en su cuarto.\nAh, Eva dormía en el cuarto de Eito...
 170	4b644782	Después de eso, ¿apareció algún arma u otra prueba material...?
 180	5b1f7d75	No. No apareció nada.
 190	36ec4e0b	Entonces...
-200	9c9e9c0b	¿Cómo pudieron matar a Ginzaki en ese estado?\nAclararlo parece el camino más corto hacia el culpable.
-210	be8227e1	{fc(57e4f1)Ginzaki murió apuñalado dentro de una jaula cerrada con llave.\nSeguramente el culpable usó algún método especial...}
+200	9c9e9c0b	¿Cómo pudieron matar a Shouma en ese estado?\nAclararlo parece el camino más corto hacia el culpable.
+210	be8227e1	{fc(57e4f1)Shouma murió apuñalado dentro de una jaula cerrada con llave.\nSeguramente el culpable usó algún método especial...}
 220	9fef7fdd	{fc(57e4f1)Si descubrimos ese método, la investigación avanzará mucho.}
 230	5af231c2	{fc(57e4f1)Porque bastará con pensar "quién pudo hacer algo así".}
 240	5062bfdc	Pero... ¿cómo investigamos y qué?
 250	8331a371	Con lo grande que es, no sé por dónde empezar...\n¡Necesitaríamos alguna pista!
 260	6c16e2a9	Pista... sí hay una.
 270	9c1ea334	¿...?
-280	8d6ebc27	Cuando encontraron el cuerpo de Ginzaki, estaba húmedo.\n¡Siento que eso puede ser un hilo para resolver el caso!
+280	8d6ebc27	Cuando encontraron el cuerpo de Shouma, estaba húmedo.\n¡Siento que eso puede ser un hilo para resolver el caso!
 290	9162ee4f	{fc(57e4f1)Dicho eso, fui primero frente a la fuente.}
 300	2555efe0	{fc(57e4f1)Junto a la fuente hay una llave con manivela.\nSeguramente sirve para regular el caudal de agua.}
 310	ea7bbb1c	{fc(57e4f1)Me decidí y la abrí del todo.\nEntonces...}
@@ -43,7 +43,7 @@ id	huella_jp	es
 420	9a1f6dc5	{fc(57e4f1)Lo comprobé y devolví la manivela a su sitio.}
 430	9c1ea334	¿...?
 440	9c1ea334	¿...?
-450	31c0db5a	{fc(57e4f1)Dejé a las dos ladeando la cabeza y me dirigí al siguiente lugar:\nfrente a la jaula donde estuvo encerrado Ginzaki.}
+450	31c0db5a	{fc(57e4f1)Dejé a las dos ladeando la cabeza y me dirigí al siguiente lugar:\nfrente a la jaula donde estuvo encerrado Shouma.}
 460	0123d57b	Esa jaula ya la revisamos de punta a punta.
 470	3f7108a8	En el suelo no había salida oculta,\ny los barrotes de hierro eran firmes e inamovibles.
 480	843e857f	La cerradura estaba intacta, sin rastro de manipulación.\nLas bisagras de la puerta tampoco tenían anomalías.

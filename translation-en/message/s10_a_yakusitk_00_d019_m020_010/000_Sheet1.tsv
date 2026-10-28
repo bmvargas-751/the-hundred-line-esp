@@ -1,10 +1,10 @@
 id	huella_jp	es
 10	3a1c3b4e	{fc(57e4f1)Al abrir la puerta,\nquien estaba allí era...}
-20	89f765c5	Hola, Sumino...
-30	73ff2ce1	Omokage...
+20	89f765c5	Hola, Takumi...
+30	73ff2ce1	
 40	a3e7281d	Oye... ¿te das cuenta de tu estado?\n¿Tienes una cara bastante horrible, ¿sabes?
 50	f4a72a8b	
-60	6562c6cb	Bueno, es inevitable...¿Sigues dándole vueltas a lo de Yakushiji, no?
+60	6562c6cb	Bueno, es inevitable...¿Sigues dándole vueltas a lo de Takemaru, no?
 70	c4a364e6	...Si vienes a consolarme, no hace falta. ¡Solo estoy un poco mal!
 80	b15deacd	Jeje... no vine a consolarte.\nVine solo a darte esto.
 90	cf97f0af	...¿Mm? ¿Una medicina?\n¿Qué medicina?
@@ -12,8 +12,8 @@ id	huella_jp	es
 110	46fba90d	Actúa sobre la hemoánima de quien la toma\ny provoca varios cambios físicos.
 120	745131e8	Por ejemplo: más fuerza, la cabeza más rápida...\nbueno, para decirlo fácil, es dopaje.
 130	afa8fc88	¿Dopaje...?\n¿Piensas hacerme tomar algo así?
-140	51f26270	Jeje...\neso mismo dijo Yakushiji...
-150	602e6f25	...¿Eh? ¿Yakushiji?
+140	51f26270	Jeje...\neso mismo dijo Takemaru...
+150	602e6f25	...¿Eh? ¿Takemaru?
 160	1ff7341a	Una vez, estando los dos solos por casualidad en la cafetería,\nle dije de pasada que estaba haciendo una medicina así...
 170	be93835b	y se enfureció como fuego. ¡Dijo que no iba a permitir cosas como el dopaje!
 180	2f8c3a56	Al preguntarle los detalles... parece que tuvo un amigo\narruinado por medicinas.
@@ -23,7 +23,7 @@ id	huella_jp	es
 220	ebf65670	Por eso, por respeto a Yakushiji,\nhabía pensado en abstenerme de hacerla...
 230	1fc65901	pero viendo cómo estás últimamente,\npensé que ahora es el momento de probarla.
 240	5a327513	¿Por qué... necesito yo dopaje ahora...?
-250	327ab24a	Esta es una medicina ajustada especialmente para Sumino:\naumenta las feromonas de tu cuerpo...
+250	327ab24a	Esta es una medicina ajustada especialmente para Takumi:\naumenta las feromonas de tu cuerpo...
 260	628949b2	Como resultado, crece tu poder de atracción sobre todos,\ny aumenta tu fuerza de convocatoria como líder.
 270	43fe7a89	...¿Fuerza de convocatoria como líder?
 280	8249b507	Incluso en las manadas de animales,\nel líder somete a los demás emitiendo feromonas...
@@ -45,14 +45,14 @@ id	huella_jp	es
 440	45eabb69	{fc(57e4f1)No, seguro que lo principal es eso...}
 450	170c9ef8	Por supuesto, tomarla o no lo dejo a tu criterio,\npero es verdad que necesitamos a Sumino como líder.
 460	6f551f9d	Espero tu sabia decisión.\nEntonces, me voy.
-470	1a26a9a8	{fc(57e4f1)Dejándome en la mano una cápsula sospechosa,\nOmokage salió del cuarto.}
+470	1a26a9a8	{fc(57e4f1)Dejándome en la mano una cápsula sospechosa,\nYugamu salió del cuarto.}
 480	f4a72a8b	
 490	d8c7434d	{fc(57e4f1)¿Tomar esta medicina sospechosa...?}
 500	1b18dfc8	{fc(57e4f1)Aunque me sienta pésimo,\ndepender de una medicina así...}
 510	f4a72a8b	
 520	8218deb6	{fc(57e4f1)Pero sé que no puedo seguir así.\nTengo que cambiar algo.}
 530	666d8875	{fc(57e4f1)Si de verdad necesitan un líder,\ntengo que responder como corresponde...}
-540	e17298df	{fc(57e4f1)Volví para proteger a todos.\nY se lo prometí a Yakushiji...}
+540	e17298df	{fc(57e4f1)Volví para proteger a todos.\nY se lo prometí a Takemaru...}
 550	5eb3d80b	¡Maldición! ¡Que sea lo que sea!
 560	6dec801f	{fc(57e4f1)Bajé la vista hacia la cápsula en mi mano...}
 570	bfd1e473	{fc(57e4f1)y me la llevé a la boca de un golpe.}

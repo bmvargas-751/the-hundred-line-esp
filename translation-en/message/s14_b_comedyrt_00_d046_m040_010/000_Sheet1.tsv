@@ -7,14 +7,14 @@ id	huella_jp	es
 60	bbabfe65	{fc(57e4f1)Más que una tarea, parece un simple juego...\npero si tanto quiere hacerla conmigo, no hay remedio.}
 70	6f13701c	{fc(57e4f1)Con determinación,\nme puse a afrontar el quiz.}
 80	2472000b	Entonces... ¡empiezo!\n¡Pregunta 1!
-90	3b865e3b	El arma de clase de Yakushiji es la {fc(ff635b)"moto"} y...
+90	3b865e3b	El arma de clase de Takemaru es la {fc(ff635b)"moto"} y...
 5000	c511b030	Bate con clavos
 5001	e6bf907e	Tubo de hierro
 5002	a5e19f91	Algo como una palanca
 100	81e9ebe2	¡Ding dong! ¡El bate con clavos ya es casi la marca registrada de Takemaru!
 110	95325bde	¡Bzzz! ¡El arma de Takemaru es el bate con clavos, ¿no?!
 120	d4ce6a71	¡Ay! ¡Si eres líder, al menos sabe las armas de tus compañeros!
-130	f026641b	¡Pregunta 2! El arma de clase de Ginzaki es un robot, y...
+130	f026641b	¡Pregunta 2! El arma de clase de Shouma es un robot, y...
 135	50526c41	¿qué animal está moldeado en el pecho de ese robot?
 6000	093c5cf1	Chihuahua
 6001	f2c5abe5	Bulldog
@@ -31,7 +31,7 @@ id	huella_jp	es
 190	7badae05	¡Ding dong! Bueno, esto era obvio.\nAl fin y al cabo es sobre Takumi mismo.
 200	a1bdfbf3	¡Bzzz! ¡Incorrecto!\n¡Lo que tienes en el cinturón es un reloj, re-lo-j!
 210	92a2e9c5	Oye, Takumi... ¿no estás muy mal?\n¿Ni siquiera sabes lo que llevas puesto...?
-220	cae698c0	¡Pregunta 4! Kirifuji, que tiene poca hemoánima,\npelea con una armadura de clase artificial...
+220	cae698c0	¡Pregunta 4! Nozomi, que tiene poca hemoánima,\npelea con una armadura de clase artificial...
 230	dea7f3d2	¿Qué número está escrito en esa armadura de clase artificial?
 8000	fb09c015	
 8001	9f8e9a9f	
@@ -46,7 +46,7 @@ id	huella_jp	es
 270	15af3ad0	¿Eh...?\nBueno, sí, para Ima quizá sea la correcta, ¿no?
 280	bca65acc	Más bien, con estas opciones, yo creo que cualquiera es correcta...
 290	e8a5fb1c	...Con esto termina mi quiz.
-300	96480508	Gracias, Sumino... por hacer la tarea conmigo.
+300	96480508	Gracias, Takumi... por hacer la tarea conmigo.
 310	bffe3bee	Siempre soñé con...este tipo de evento escolar.
 320	9785b0d0	Con esto, mi vida escolar no tiene...ninguna pena.
 330	f2353665	{fc(57e4f1)Dicho eso, el chico de las llamas que no se apagan\ndesapareció en un instante... como si fuera a descansar en paz.}

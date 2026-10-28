@@ -5,7 +5,7 @@ id	huella_jp	es
 40	b9eb5e12	¿Será un pueblo como el que dijo ese abuelo,\nque escapó de la guerra?
 50	510c4d48	¡Quizás podamos oír algo!\n¡Vamos!
 60	e41a5a5e	¡Ah, espera!
-70	d7a67dc6	{fc(57e4f1)Antes de que pudiéramos detenerlo, Ginzaki salió corriendo.\nNo hay remedio, vamos tras él...}
+70	d7a67dc6	{fc(57e4f1)Antes de que pudiéramos detenerlo, Shouma salió corriendo.\nNo hay remedio, vamos tras él...}
 80	9d4a3484	...¿No son ustedes gente de la Casa del Shogun?
 90	6fe7c4ad	Somos... eh... viajeros.
 100	b8353d56	Quizás les moleste... pero¿podrían contarnos algo?
@@ -23,7 +23,7 @@ id	huella_jp	es
 220	dd32865a	¡Con esto quizás sepa más de Futurum...!
 230	4246b850	Algo me parece demasiado bueno...como cuando te engaña un promotor tramposo.
 240	6c18bbd9	¡Está bien! ¡Hay que empezar creyendo!\n¡Me adelanto, todos!
-250	9050e1b9	{fc(57e4f1)Seguimos a Ginzaki,\nadentrándonos en la aldea.}
+250	9050e1b9	{fc(57e4f1)Seguimos a Shouma,\nadentrándonos en la aldea.}
 260	0ff47508	{fc(57e4f1)Pero allí nos esperaba...}
 270	a7c8b1d6	Somos gente que huyó de la Casa del Shogun y vive escondida...
 280	c6c8b70e	Si la Casa del Shogun nos atrapa, nos quita la vida y hasta la dignidad.\n¡La guerra nos pisotea sin piedad...!
@@ -31,7 +31,7 @@ id	huella_jp	es
 300	523d7883	Por eso... perdónennos por hacer esto...
 310	ba16446d	Hola, qué reunión, señores.
 320	9607832d	La Caja de la Dicha la tengo yo.
-330	a8a9a627	¡¿Aotsuki...?!
+330	a8a9a627	¡¿Eito...?!
 340	45f9a38c	{fc(57e4f1)El aldeano que nos guió había desaparecido sin que nos diéramos cuenta.\nDel entorno emanaba una atmósfera llena de intención de matar.}
 350	b81e11ec	{fc(57e4f1)Mal... ¿nos rodean invasores...?}
 360	eea51695	No puede ser... ¿nos engañaron...?
@@ -44,13 +44,13 @@ id	huella_jp	es
 430	fb0beef7	No hay remedio...\nSi es así, solo queda el último recurso...
 440	67637657	¿Q-Qué piensa hacer?
 450	d7030a09	¡Ah...! ¡Miren eso!
-460	709f4bfc	{fc(57e4f1)Señalé a espaldas de Aotsuki y grité.\nAotsuki se volteó engañado...}
-470	75c60ecd	{fc(57e4f1)Al instante, corrí como el viento hacia Aotsuki\ny le arrebaté la caja.}
+460	709f4bfc	{fc(57e4f1)Señalé a espaldas de Eito y grité.\nEito se volteó engañado...}
+470	75c60ecd	{fc(57e4f1)Al instante, corrí como el viento hacia Eito\ny le arrebaté la caja.}
 480	80ec7e95	¡¡Qu...!!
 490	64e0f7c2	¡Bien, salió perfecto!
 500	f35fd99f	¡Tenemos la caja!\nNo hay que quedarse: ¡huyamos!
 510	653e39d0	¡Bien! ¡A correr!
 520	1b332f66	{fc(57e4f1)Logramos escapar como pudimos.}
 530	8598cc09	{fc(57e4f1)...¿Habrá sobrevivido la gente de esa aldea?}
-540	71c566b4	{fc(57e4f1)Aunque nos vendieron a Aotsuki...\nno pude sentir mucho odio...}
+540	71c566b4	{fc(57e4f1)Aunque nos vendieron a Eito...\nno pude sentir mucho odio...}
 550	7339a711	{fc(57e4f1)Ellos también luchan por sobrevivir en esta guerra.\nPor eso...}

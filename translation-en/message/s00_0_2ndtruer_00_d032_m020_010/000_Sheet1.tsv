@@ -1,10 +1,10 @@
 id	huella_jp	es
-10	0e373516	{fc(57e4f1)En la cafetería estaban todos\nmenos SIREI y Maruko.}
+10	0e373516	{fc(57e4f1)En la cafetería estaban todos\nmenos SIREI y Gaku.}
 20	67f39ac7	{fc(57e4f1)Pero...}
 30	f4a72a8b	
 40	f4a72a8b	
 50	8047c566	{fc(57e4f1)Siento que las chicas están raramente tensas...\n¿No será que esto...?}
-60	a1b1aec8	Sumino, ¿estás en tus cabales?\n¡Maruko dijo que contaba con la aprobación del líder!
+60	a1b1aec8	Takumi, ¿estás en tus cabales?\n¡Gaku dijo que contaba con la aprobación del líder!
 70	265fe9f6	¿Eh? ¡Yo no dije nada!
 80	68608d31	Aun si cediéramos y hubiera un torneo de natación,\nque nos entregue trajes de baño es repugnante...
 90	1533da31	¿Ese tipo... también les dio trajes de baño a las chicas?
@@ -48,8 +48,8 @@ id	huella_jp	es
 470	cd606a95	Vamos, Eva, ven con nosotras.
 480	673ea34c	Si es una orden, iré a donde sea.\nPorque soy un objeto de ustedes.
 490	42483825	Eso se los dejo a ustedes...\nYo voy a mi cuarto primero.
-500	5ea0b349	{fc(57e4f1)Detuve cerca de la puerta a Shizuhara,\nque se iba sola de la cafetería.}
-510	f3ffe35f	Shizuhara, espera un momento...
+500	5ea0b349	{fc(57e4f1)Detuve cerca de la puerta a Hiruko,\nque se iba sola de la cafetería.}
+510	f3ffe35f	Hiruko, espera un momento...
 520	5ff5be99	...¿Qué pasa? ¿Qué sucede?
 530	50f1fe2a	Ah, no... es que...\nLo de ayer...
 540	41b6c2d5	{fc(57e4f1)Antes de ir todos a divertirnos,\nquería preguntárselo personalmente sí o sí.}
@@ -62,7 +62,7 @@ id	huella_jp	es
 610	f9594c5a	...Perdón. Parece que fueron ideas mías.
 620	0ded5105	¿Eh...?
 630	cdc143f4	No te preocupes. Ya puedes olvidarlo.\nNos vemos.
-640	dd59f104	{fc(57e4f1)Lo dijo como si nada hubiera pasado,\ny Shizuhara se fue enseguida de la cafetería.}
+640	dd59f104	{fc(57e4f1)Lo dijo como si nada hubiera pasado,\ny Hiruko se fue enseguida de la cafetería.}
 650	f4a72a8b	
 660	6246dbdf	{fc(57e4f1)Después, tras despedir a las chicas que fueron a conseguir trajes de baño,\nlos chicos que quedamos también nos separamos...}
 670	9129f874	{fc(57e4f1)y cada uno volvió a su cuarto.}

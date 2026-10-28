@@ -2,13 +2,13 @@ id	huella_jp	es
 10	ce0a4bcc	{fc(57e4f1)Mientras dudaba así,\nanocheció en un abrir y cerrar de ojos.}
 20	12911f7e	Haah... estoy en un callejón sin salida...
 30	62714666	{fc(57e4f1)Quizás por el cansancio, la cabeza no me gira bien.\n¿Así termina otra vez el día...?}
-40	154c1f58	{fc(57e4f1)Caminando con la cabeza ida,\nvi a Shizuhara que venía de frente.}
-50	bc8eb285	Shizuhara...
-60	26c2e935	...Tienes mala cara.\n¿Mojiro te aplicó un piledriver?
+40	154c1f58	{fc(57e4f1)Caminando con la cabeza ida,\nvi a Hiruko que venía de frente.}
+50	bc8eb285	
+60	26c2e935	...Tienes mala cara.\n¿Moko te aplicó un piledriver?
 70	46f34742	Eso no lo sobrevive nadie.
 80	9f2cc36a	...Más bien, la verdad es que tengo un problema.
 90	0ae71af0	¿Un problema?
-100	a21e6d07	{fc(57e4f1)Es verdad: podría consultarle a Shizuhara.}
+100	a21e6d07	{fc(57e4f1)Es verdad: podría consultarle a Hiruko.}
 110	8ed160e3	{fc(57e4f1)Últimamente ya no me evita,\ny quizás Shizuhara tenga una buena idea.}
 120	529e2ebd	Oye, ¿me ayudas con una consulta, si no te molesta?
 130	22e9debd	Ah, no te obligo...\nPero quiero tu opinión.
@@ -18,13 +18,13 @@ id	huella_jp	es
 170	b452070f	Ya veo...\n¿Y si salimos del muro de llamas?
 180	a305e5be	¿Eh?\nPero los signos vitales se miden dentro del muro, ¿no?
 190	45729849	¿Quieres pistas, no?\nLa información {fc(ff635b)"no necesariamente está adentro"}.
-200	77762e92	{fc(57e4f1)Las palabras de Shizuhara me hicieron reaccionar.}
+200	77762e92	{fc(57e4f1)Las palabras de Hiruko me hicieron reaccionar.}
 210	846dc665	{fc(57e4f1)¡Hasta ahora solo me fijé en el número "15"\ny no se me ocurrió investigar fuera del muro...!}
 220	6579f0fa	Ya veo, un punto ciego.
-230	994ef6fc	Gracias.\nQué bueno haber consultado contigo, Shizuhara.
+230	994ef6fc	Gracias.\nQué bueno haber consultado contigo, Hiruko.
 240	dfa51a80	Voy contigo.\nSi salimos del muro, conviene ir en varios.
 250	cb379060	Es verdad...\nHablaré con algunos.
 260	6e8bb9f7	¡Mañana por la mañana salimos enseguida!
-270	31a4199c	{fc(57e4f1)Tras quedar con Shizuhara,\nreuní enseguida a los acompañantes de la expedición.}
+270	31a4199c	{fc(57e4f1)Tras quedar con Hiruko,\nreuní enseguida a los acompañantes de la expedición.}
 280	86ca678f	{fc(57e4f1)Mañana quizás haya algún avance.}
 290	1de56d31	{fc(57e4f1)Con la expectativa creciendo en el pecho,\nrecibí la mañana siguiente.}

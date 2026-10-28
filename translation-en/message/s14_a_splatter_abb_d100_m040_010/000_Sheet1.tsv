@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	b249382b	...No es así.\nEso es un malentendido tuyo.
 20	4c128d32	U-un malentendido...
-30	4101e2b5	Quien me atacaba era Sumino...\nsin ninguna duda, eras tú.
+30	4101e2b5	Quien me atacaba era Takumi...\nsin ninguna duda, eras tú.
 40	96b0d4dd	Y la persona con el traje fue quien\nvino a salvarme.
 50	07d6e170	¿Q-qué estás diciendo...?
 60	345859c5	Sumino fue atacado por esa persona y perdió el conocimiento.\nPero enseguida lo recuperó...
@@ -23,13 +23,13 @@ id	huella_jp	es
 220	27c61d64	mientras dormías, examiné tu cerebro en secreto.
 230	5e482338	¿Cuándo...? No, eso no importa.\n¿Qué resultó?
 240	125bbf7e	No encontré a {fc(ff635b)"G'ie"}.\nAsí que pensé que había sido un malentendido mío.
-250	680bc598	Pero el Día 43 mataron a Mojiro...\ny volví a tener un mal presentimiento.
+250	680bc598	Pero el Día 43 mataron a Moko...\ny volví a tener un mal presentimiento.
 260	9eacf6ed	Quizá Sumino sí estaba parasitado.\nPara confirmarlo, volví a examinarte el cerebro...
 270	9e1522a7	La segunda vez tampoco encontré a {fc(ff635b)"G'ie"}.
-280	02a75993	Además, Kirifuji declaró que había huido del asesino\njunto con Sumino, ¿no?
+280	02a75993	Además, Nozomi declaró que había huido del asesino\njunto con Sumino, ¿no?
 290	ec6b42d2	Por eso... decidí borrar todas las sospechas\nque habían brotado hasta entonces.
 300	c5ecbf7a	Que me evitaras de pronto o que a veces quisieras decir algo...\n¿era por esa razón?
-310	5892587e	Pero el Día 64, cuando mataron a Oosuzuki,\nvolví a sospechar de ti...
+310	5892587e	Pero el Día 64, cuando mataron a Kurara,\nvolví a sospechar de ti...
 320	037ba6c2	¿Otra vez me examinaste el cerebro?
 330	c6fef3f0	Sí... lo examiné con detalle.\nY descubrí algo terrible.
 340	b6a1c9d4	En el cerebro de Sumino no existe {fc(ff635b)"el cuerpo de G'ie"},\npero {fc(ff635b)"los datos de conciencia de G'ie"} lo estaban invadiendo.
@@ -38,13 +38,13 @@ id	huella_jp	es
 370	2e50c0ff	Después moriste siendo huésped...\ny retrocediste al Día 2 con el viaje en el tiempo.
 380	9d81f446	Entonces los {fc(ff635b)"datos de conciencia de G'ie"} que estaban en tu cerebro\ntambién retrocedieron al pasado.
 390	e5b53b67	¿Con los datos de conciencia y todo...?
-400	b5eccb7e	Al final parece que la hipótesis era correcta. Porque...\n¡mataste a Kirifuji delante de mis ojos...!
+400	b5eccb7e	Al final parece que la hipótesis era correcta. Porque...\n¡mataste a Nozomi delante de mis ojos...!
 410	94bfd20d	Eso... es...
 420	6b176406	Nuestro viaje en el tiempo no hace retroceder\nla materia al pasado.
 430	eeed2264	Por eso el cuerpo de {fc(ff635b)"G'ie"} en sí\nno puede existir en el cerebro de Sumino...
 440	aae7d792	Solo los {fc(ff635b)"datos de conciencia de G'ie"} que lo invadieron\npermanecen en tu cerebro.
 450	d808806d	¡Basta... para!\n¡No puedo aceptarlo así, de repente...!
-460	f74cb8d5	Entonces, ¿vas a decir que "mataste a Kirifuji por tu propia voluntad"?\n¿Y los otros doce asesinatos también...?
+460	f74cb8d5	Entonces, ¿vas a decir que "mataste a Nozomi por tu propia voluntad"?\n¿Y los otros doce asesinatos también...?
 470	f4a72a8b	
 480	5138230c	No lo notaste... porque cuando la conciencia de {fc(ff635b)"G'ie"}\ndespierta, la conciencia de Sumino desaparece.
 490	37a11e2a	Eso es... como una doble personalidad...
@@ -54,7 +54,7 @@ id	huella_jp	es
 530	6735ecb0	Claro que intenté hacer algo.\nPero... no sabía cómo curarlo.
 540	2e019b4a	Incluso pensé en volarte el cerebro\ny meterte en el Revive-O-Matic...
 550	17f247ba	El Día 43... tu cabeza quedó hecha papilla una vez, ¿no?
-560	29457235	Es verdad, Kirifuji también lo dijo.\nQue mi cabeza quedó destrozada.
+560	29457235	Es verdad, Nozomi también lo dijo.\nQue mi cabeza quedó destrozada.
 570	d7b44baa	Aun así, los asesinatos no terminaron.\nEntendí que volar el cerebro no servía de nada.
 580	60741788	Porque el sistema de resurrección reproduce a la perfección\nlos datos cerebrales guardados en el servidor.
 590	e9e04bbc	Mientras buscaba otra manera, investigando documentos\nen la biblioteca, supe de cierto fármaco.
@@ -68,88 +68,88 @@ id	huella_jp	es
 670	d4901f46	¡Los {fc(ff635b)"datos de conciencia de G'ie"}\nno habían desaparecido de tu cerebro...!
 680	57c811bd	¿Eh...?
 690	10a1e260	Fue un fracaso... ¡el fármaco no funcionó...!
-700	e8e19015	¿Por qué...?\n¿Por qué no desaparece de Sumino?
+700	e8e19015	¿Por qué...?\n¿Por qué no desaparece de Takumi?
 710	4cb83ebe	Parasitas a Sumino, matas a mis compañeros...\n¿hasta cuándo piensas jugar con ellos?
 720	3a79183f	¡Desaparece de una vez!\n¡Maldito bichoooo!
 730	d3e488ba	U-uugh...
 740	f58a91d2	¡¡Guaaaaaaaaaaaaaaah!!
 750	f4a72a8b	
-760	4ba07e3d	Jeje... Impresionante, Shizuhara.\nHaber investigado hasta ese punto.
+760	4ba07e3d	Jeje... Impresionante, Hiruko.\nHaber investigado hasta ese punto.
 770	9465862a	Por fin apareciste... G'ie.
-780	3ab91fe7	¿Quieres que te cuente qué hizo este bicho\ncuando yo dominaba a Sumino?
+780	3ab91fe7	¿Quieres que te cuente qué hizo este bicho\ncuando yo dominaba a Takumi?
 790	510be082	Quizá, sin querer, te corte la cabeza\ncon la sierra eléctrica a mitad de camino.
 800	16b7897a	Jeje... matar a este hombre,\ntú, tan tonta, no podrías hacerlo.
 810	f4a72a8b	
 820	6ade4459	La primera fue...\nla prisionera llamada Eva, el Día 25.
-830	6186b1be	Saqué la sierra eléctrica que Sumino le quitó al {fc(ff635b)"visitante"}\ndel taller metalúrgico...
+830	6186b1be	Saqué la sierra eléctrica que Takumi le quitó al {fc(ff635b)"visitante"}\ndel taller metalúrgico...
 840	ff1cf951	¿Visitante?
 850	58a33fc1	Je, je...
 860	6fa7329b	Rompí la puerta del criadero y\nla despedacé a ella, que estaba adentro.
 870	2b95a353	Después arrojé la sierra eléctrica al muro de llamas,\ncreyendo que la escondía...
-880	79f67910	Pero Sumino la encontró enseguida y la recuperó.\n...No pensé que me vería {fc(ff635b)"aquel"}.
+880	79f67910	Pero Takumi la encontró enseguida y la recuperó.\n...No pensé que me vería {fc(ff635b)"aquel"}.
 890	00cc069a	¿Aquel? ¿Quién?
-900	50477888	El chico envuelto en llamas. Cada vez que me veía\ndominando a Sumino, se confundía y se asustaba... jeje.
+900	50477888	El chico envuelto en llamas. Cada vez que me veía\ndominando a Takumi, se confundía y se asustaba... jeje.
 910	53bc1e5c	Bueno, eso no importa...
 920	7200291d	Además de la sierra eléctrica, ustedes encontraron\nun traje y un casco, ¿no?
-930	e473d93c	Si se refiere a lo que Ginzaki encontró en el baño de hombres, sin duda\nera de la persona que apareció a salvarme en el laboratorio biológico.
-940	d74e645c	Ese... el visitante, acorralado por Sumino,\nno tuvo más remedio que quitárselo en el baño, creo.
-950	a91a4ddb	...En fin, ustedes guardaron todo eso en un casillero\ndel taller metalúrgico, y Sumino puso una clave, ¿verdad?
-960	b3cef9a0	Se suponía que la clave "solo la sabía Sumino".\nUstedes pensaban eso... y el propio Sumino también.
+930	e473d93c	Si se refiere a lo que Shouma encontró en el baño de hombres, sin duda\nera de la persona que apareció a salvarme en el laboratorio biológico.
+940	d74e645c	Ese... el visitante, acorralado por Takumi,\nno tuvo más remedio que quitárselo en el baño, creo.
+950	a91a4ddb	...En fin, ustedes guardaron todo eso en un casillero\ndel taller metalúrgico, y Takumi puso una clave, ¿verdad?
+960	b3cef9a0	Se suponía que la clave "solo la sabía Takumi".\nUstedes pensaban eso... y el propio Takumi también.
 970	82f6ef34	Pero tú también viste la clave...\npor eso pudiste abrir el casillero.
 980	b2b5762d	Jeje, así es.\nA la segunda que maté fue a Moko Mojiro, el Día 43.
-990	bccb4abe	Fuimos a la escuela de noche a hacer una ronda, Mojiro, Kirifuji y yo.\nMojiro se separó, y Sumino y Kirifuji se dividieron para buscarla.
-1000	3dc90354	Al salir del edificio caía una lluvia torrencial\ny el cuerpo de Sumino se empapó.
+990	bccb4abe	Fuimos a la escuela de noche a hacer una ronda, Moko, Nozomi y yo.\nMoko se separó, y Takumi y Nozomi se dividieron para buscarla.
+1000	3dc90354	Al salir del edificio caía una lluvia torrencial\ny el cuerpo de Takumi se empapó.
 1010	8488306e	Yo desperté después de eso.\nDominé a Sumino y fui enseguida al taller metalúrgico.
 1020	c6ae10b5	Saqué del casillero el traje, el casco y la sierra eléctrica,\ny busqué enseguida a mi presa. Y entonces...
-1030	7880082f	Encontré a Mojiro en un aula del primer piso y la maté al instante.
+1030	7880082f	Encontré a Moko en un aula del primer piso y la maté al instante.
 1040	c2baa8a5	Se resistió, pero ni siquiera ella pudo contra la sierra eléctrica.\nJeje...
-1050	26cf7cb3	Pero, mira, Kirifuji me descubrió\ndestrozando a Mojiro, y escapó.
+1050	26cf7cb3	Pero, mira, Nozomi me descubrió\ndestrozando a Mojiro, y escapó.
 1060	0e26b6be	Así que fui tras ella para matar de paso a Kirifuji...\ny llegamos a la sala de reposo.
 1070	df47c4cf	La acorralé, y cuando estaba a punto de lograrlo...\nme empujaron y caí a la piscina.
-1080	79e7df51	Aprovechando eso, Kirifuji escapó.\nEstaba por matarla... jeje.
+1080	79e7df51	Aprovechando eso, Nozomi escapó.\nEstaba por matarla... jeje.
 1090	6c0e4780	Para salir de la piscina, me quité el traje, el casco\ny la sierra eléctrica bajo el agua.
-1100	49092508	Con razón... eso fue lo que Omokage recogió de la piscina.
+1100	49092508	Con razón... eso fue lo que Yugamu recogió de la piscina.
 1110	42cd9a56	Y volví empapada al edificio, pero...\nmi conciencia se cortó ahí.
-1120	5e454bb5	Sumino pensó que tenía todo el cuerpo mojado\npor haber estado bajo la lluvia, y no lo notó...
-1130	daffdc50	Exacto. Después Sumino, al oír un grito,\ncorrió hacia la voz... y se reencontró con Kirifuji.
-1140	043d3fb7	Kirifuji, en pánico, le contó del asesinato de Mojiro,\ny los dos fueron a la escena: el aula del primer piso.
-1150	fba2243d	¡Sumino no podía imaginar\nque la había matado con sus propias manos!
-1160	26714e3d	Lo demás fue tal como confesó Omokage.
+1120	5e454bb5	Takumi pensó que tenía todo el cuerpo mojado\npor haber estado bajo la lluvia, y no lo notó...
+1130	daffdc50	Exacto. Después Takumi, al oír un grito,\ncorrió hacia la voz... y se reencontró con Nozomi.
+1140	043d3fb7	Nozomi, en pánico, le contó del asesinato de Moko,\ny los dos fueron a la escena: el aula del primer piso.
+1150	fba2243d	¡Takumi no podía imaginar\nque la había matado con sus propias manos!
+1160	26714e3d	Lo demás fue tal como confesó Yugamu.
 1170	0a1c228f	Recuperó el arma y el traje que yo tiré, los persiguió\ny se regodeó: un pervertido.
 1180	0439bfee	Después de que Omokage se llevó el arma y el traje...\ncambiaste de arma, ¿verdad?
-1190	71dab119	Desde la tercera, Yakushiji, por un tiempo, sí.\nEso fue... ¿de madrugada del Día 51, creo?
+1190	71dab119	Desde la tercera, Takemaru, por un tiempo, sí.\nEso fue... ¿de madrugada del Día 51, creo?
 1200	a7469a56	Desperté y conseguí en el taller metalúrgico\nsustitutos del arma y el traje: un impermeable y un machete.
-1210	61c267bb	Con eso me colé en el cuarto de Yakushiji...\n¡y lo hice papilla!
+1210	61c267bb	Con eso me colé en el cuarto de Takemaru...\n¡y lo hice papilla!
 1220	cff29ce5	Se sorprendió mucho cuando lo corté de golpe con el machete\nmientras dormía. ¡Jajaja!
 1230	f4a72a8b	
-1240	a8c4eb81	Al terminar con Yakushiji, me lavé las manos allí mismo\ny volví normalmente al cuarto de Sumino. Y entonces...
+1240	a8c4eb81	Al terminar con Takemaru, me lavé las manos allí mismo\ny volví normalmente al cuarto de Takumi. Y entonces...
 1250	c86dc37d	escondí el machete y el impermeable en el techo del baño...\ny volví a dormir.
-1260	c786438d	¿Y el cuarto asesinato, el de Oosuzuki?\nFue de madrugada del Día 64.
-1270	e91794f3	Ah... el día que Omokage, disfrazado de asesino,\nperseguía a Sumino y a Oosuzuki.
-1280	6d42838d	Sumino, acorralado frente a la Sala de Defensa del tercer piso,\nvio a Omokage levantar la sierra eléctrica.
-1290	5b105585	Justo en ese momento...\nyo desperté y la conciencia de Sumino se perdió.
-1300	18309322	Omokage, satisfecho de ver la cara de desesperación de Sumino,\nse retiró allí mismo... qué pervertido, de verdad.
-1310	f179f11b	Sigue con lo demás.\nUsaste el cuerpo de Sumino para matar a Oosuzuki, ¿no?
-1320	2fc229cf	Jeje... así es. Saqué el machete y el impermeable que tenía escondidos\ny busqué a Oosuzuki, que se había escondido en la sala de entrenamiento.
+1260	c786438d	¿Y el cuarto asesinato, el de Kurara?\nFue de madrugada del Día 64.
+1270	e91794f3	Ah... el día que Yugamu, disfrazado de asesino,\nperseguía a Takumi y a Oosuzuki.
+1280	6d42838d	Takumi, acorralado frente a la Sala de Defensa del tercer piso,\nvio a Yugamu levantar la sierra eléctrica.
+1290	5b105585	Justo en ese momento...\nyo desperté y la conciencia de Takumi se perdió.
+1300	18309322	Yugamu, satisfecho de ver la cara de desesperación de Takumi,\nse retiró allí mismo... qué pervertido, de verdad.
+1310	f179f11b	Sigue con lo demás.\nUsaste el cuerpo de Takumi para matar a Kurara, ¿no?
+1320	2fc229cf	Jeje... así es. Saqué el machete y el impermeable que tenía escondidos\ny busqué a Kurara, que se había escondido en la sala de entrenamiento.
 1330	085f5f35	Antes de que pudiera gritar siquiera,\nla despedacé sin piedad.
 1340	f5f67ef5	Cuando terminé, devolví el impermeable y el machete a su cuarto...\nvolví frente a la Sala de Defensa y me dormí otra vez.
-1350	0f8a1946	Por eso Sumino creyó todo el tiempo\nque había quedado inconsciente ahí...
-1360	62a02f27	La quinta fue Ginzaki, el Día 77.
+1350	0f8a1946	Por eso Takumi creyó todo el tiempo\nque había quedado inconsciente ahí...
+1360	62a02f27	La quinta fue Shouma, el Día 77.
 1370	6002aa0d	A ese lo maté simplemente cuando desperté.\nNo hay mucho que contar.
 1380	13c9d276	...Déjame preguntar una cosa.\n¿El incendio del gimnasio del Día 80 también lo provocaste tú?
 1390	1e44fbcb	Jeje... mi encendedor con temporizador\nsalió bien, ¿no?
 1400	e24ecef3	¡Lo sabía...!\n¡Fuiste tú!
-1410	6ca61bad	Si no me equivoco, fue el Día 78... cuando fuimos al taller metalúrgico\ncuatro: Ima, Kako, Amemiya y yo.
-1420	607334de	Desperté como a las dos de la tarde\ny me hice pasar por Sumino.
+1410	6ca61bad	Si no me equivoco, fue el Día 78... cuando fuimos al taller metalúrgico\ncuatro: Ima, Kako, Darumi y yo.
+1420	607334de	Desperté como a las dos de la tarde\ny me hice pasar por Takumi.
 1430	df8b8eb4	Desde que ustedes empezaron a dormir juntos en el gimnasio,\nyo esperaba una oportunidad...
 1440	fe1b11f5	y se me ocurrió fabricar a escondidas un encendedor con temporizador\ny colocarlo en el gimnasio.
 1450	e723c310	Claro, para que los otros tres no sospecharan,\ninventé cualquier mentira y trabajé solo.
 1460	5d2c614f	Pero el trabajo me costó mucho,\ny ese día no logré terminarlo.
-1470	b2195e97	No quedó otra: seguí haciéndome pasar por Sumino\ny dejé el resto para el día siguiente.
+1470	b2195e97	No quedó otra: seguí haciéndome pasar por Takumi\ny dejé el resto para el día siguiente.
 1480	cd759f0d	Terminé el aparato 24 horas después...\na las dos de la tarde del día siguiente.
-1490	47b69016	Entonces la conciencia de Sumino estuvo todo ese tiempo...\n¿más de 24 horas sin volver?
+1490	47b69016	Entonces la conciencia de Takumi estuvo todo ese tiempo...\n¿más de 24 horas sin volver?
 1500	51e986cb	Así es.\nLa alternancia de conciencias no ocurrió en ningún momento.
-1510	6caaa6e4	El Día 79 también hicimos actividades en grupo en el taller metalúrgico:\nIma, Kako, Amemiya y yo.
+1510	6caaa6e4	El Día 79 también hicimos actividades en grupo en el taller metalúrgico:\nIma, Kako, Darumi y yo.
 1520	211fcdc3	Escondí el encendedor ya terminado,\nfingí ir al baño y fui al gimnasio.
 1530	de2121dc	Y coloqué el encendedor con temporizador dentro del potro de salto...
 1550	4e7ef60c	Al volver al pasillo...\nustedes estaban alborotados porque "apareció el asesino".

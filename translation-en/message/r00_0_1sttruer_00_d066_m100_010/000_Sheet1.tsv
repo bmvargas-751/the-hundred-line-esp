@@ -6,24 +6,24 @@ id	huella_jp	es
 50	54dfd0d3	{fc(57e4f1)Si es así, es imposible romper el candado desde adentro. Solo se me ocurre que lo rompieron desde afuera...}
 60	d1ca30a2	{fc(57e4f1)¡Lo que quiere decir que...!}
 70	60c207ee	{fc(57e4f1)¿Alguien... rompió el candado desde afuera y dejó escapar a la prisionera?}
-80	0b7c1d9c	Oye, la llave de esta jaula la tiene Ginzaki, ¿no?
+80	0b7c1d9c	Oye, la llave de esta jaula la tiene Shouma, ¿no?
 90	b24c5439	S-Sí. Siempre la llevo en la ropa interior para no perderla.
 100	71fafafb	¡¿En la ropa interior?! ¿No se le podría perder ahí dentro también...?
-110	c61a0494	¡Entonces solo puede ser Ginzaki! ¡Tú abriste la jaula y dejaste escapar a la prisionera!
+110	c61a0494	¡Entonces solo puede ser Shouma! ¡Tú abriste la jaula y dejaste escapar a la prisionera!
 120	faa35f23	¡N-No es así!
 130	7ec73b28	¡Claro que sí! ¡Te obsesionaste con esa prisionera! ¡Te dio lástima y la dejaste escapar!
 140	19671ac0	¡¿Pensaste que la iban a ejecutar... y la dejaste escapar antes?!
-150	9f8baaf6	Ginzaki, ¿qué dices?
+150	9f8baaf6	Shouma, ¿qué dices?
 160	f4a72a8b	
 170	d64227bd	Es cierto... mentiría si dijera que no le tomé cariño, y sé que soy una basura de la que es normal sospechar...
 180	49f57bba	¡Pero yo nunca haría algo para traicionarlos! ¡No fui yo!
 190	9b1a150f	...¡Eres un mentiroso! ¡Traicionaste a Darumi y a todos!
 200	834e0801	¡Y después piensas matarnos a todos e irte a vivir con esa prisionera!
-210	a2f50014	...No es así. Yo creo que no fue Ginzaki.
+210	a2f50014	...No es así. Yo creo que no fue Shouma.
 220	90714c6e	¡¿Pigya?!
 230	d52824bb	Yo... también lo creo. Miren el candado que está tirado frente a la jaula.
 240	d2b22d9f	El candado está roto...
-250	466dc6a1	Si Ginzaki hubiera querido dejar escapar a la prisionera, no habría necesitado tomarse ese trabajo...
+250	466dc6a1	Si Shouma hubiera querido dejar escapar a la prisionera, no habría necesitado tomarse ese trabajo...
 260	156999b7	Sí. Le bastaba con abrir el candado con la llave que tiene.
 270	43af45b5	Ah... es cierto, tienes razón...
 280	0dbfd7b7	¿Y si lo rompió para disimular, porque con solo usar la llave se notaría que fue él?
@@ -41,21 +41,21 @@ id	huella_jp	es
 400	8f04afbc	¡No! ¡También puede ser que no haya sido ninguno de nosotros, sino otro!
 410	85497416	¿Eh? ¿Otro...? Si no es un traidor ni la prisionera, ¿quién?
 420	0c3ba15f	El que ya les mencioné... el invasor de las Llamas Eternas.
-430	6187375c	Justo antes de pelear contra la copia de Mojiro, apareció otra vez frente a mí...
+430	6187375c	Justo antes de pelear contra la copia de Moko, apareció otra vez frente a mí...
 440	23b60d07	Pero no intentó atacarme y desapareció hacia el edificio de la academia...
-450	587d1850	Lo seguí a toda prisa, pero justo después encontré a Mojiro, que estaba rara...
+450	587d1850	Lo seguí a toda prisa, pero justo después encontré a Moko, que estaba rara...
 460	e47a9445	Por eso no lo volví a ver, pero también puede ser que él haya dejado escapar a la prisionera.
 470	a40484f5	Pero, si es así... al final nos vino bien que apareciera ese invasor de las Llamas Eternas.
 480	257ff880	...¿Eh?
 490	90375b85	Porque, si ese invasor no hubiera aparecido, no te habrías dado cuenta, ¿no?
 500	c599c4df	De que la copia de Moko intentaba atacar la Sala de Defensa.
 510	5a64befa	A-Ah, sí... eso es cierto, pero...
-520	69585dd3	{fc(57e4f1)...Ahora que lo dice, tiene razón. Me di cuenta de lo de Mojiro gracias a que apareció esa cosa.}
+520	69585dd3	{fc(57e4f1)...Ahora que lo dice, tiene razón. Me di cuenta de lo de Moko gracias a que apareció esa cosa.}
 530	2da444ea	{fc(57e4f1)¿No será que... esa cosa en realidad quería avisarme de eso?}
 540	c4b3109a	{fc(57e4f1)¿Ese es... el motivo por el que apareció en mi habitación?}
 550	9caa40b7	{fc(57e4f1)No, ¡no puede ser...!}
 560	b5fef93f	...En fin, ese invasor es sospechoso. Lo más probable es que él haya dejado escapar a la prisionera.
-570	700e612e	Pero... el único que vio a ese invasor fuiste tú, Sumino, ¿no? Para empezar, ¿de verdad existe ese invasor?
+570	700e612e	Pero... el único que vio a ese invasor fuiste tú, Takumi, ¿no? Para empezar, ¿de verdad existe ese invasor?
 580	8af9f8aa	¿Me estás diciendo... que miento?
 590	0b98ebc1	¡Eso no puede ser! ¡Takumi nunca diría una mentira!
 600	b15f0696	Más importante... ¿no hay que buscar a la prisionera que se escapó?

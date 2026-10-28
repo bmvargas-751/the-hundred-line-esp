@@ -1,24 +1,24 @@
 id	huella_jp	es
 10	ad721b99	{fc(57e4f1)Bajamos las escaleras y entramos al sótano.\nAllí, como esperábamos, había alguien.}
 20	c599e3f0	{fc(57e4f1)Pero esa persona no era la que esperábamos...}
-30	a8a9a627	¡¿Aotsuki...?!
+30	a8a9a627	¡¿Eito...?!
 40	f26e2968	¡¿Por qué estás tú...?!
-50	e9ffb784	{fc(57e4f1)Aotsuki miró a Shizuhara con el Leap Suit puesto\ny asintió, como convencido.}
-60	544a2cb6	Ya veo, eres Shizuhara. Te reconocí por la voz.
+50	e9ffb784	{fc(57e4f1)Eito miró a Hiruko con el Leap Suit puesto\ny asintió, como convencido.}
+60	544a2cb6	Ya veo, eres Hiruko. Te reconocí por la voz.
 70	34fdc11e	Yo, más que por la apariencia, soy mejor identificando\na la gente por la voz...
-80	bbdc4905	{fc(57e4f1)El Leap Suit tiene función de cambiador de voz.\nPero Shizuhara tenía esa función apagada.}
+80	bbdc4905	{fc(57e4f1)El Leap Suit tiene función de cambiador de voz.\nPero Hiruko tenía esa función apagada.}
 90	022f140d	¿Porque a todos los ves como monstruos horribles?
 100	528b6dbf	Vaya, ¿eso también lo sabes?\nPero no me sorprendo.
 110	4f95b952	Si llevas ese traje, probablemente\nhas saltado a otra TL.
-120	07392dc8	Y además, Shizuhara...\n¿tú no eres de esta TL, verdad?
-130	c8bbec9d	Porque la Shizuhara de esta TL\nya debe de estar muerta.
+120	07392dc8	Y además, Hiruko...\n¿tú no eres de esta TL, verdad?
+130	c8bbec9d	Porque la Hiruko de esta TL\nya debe de estar muerta.
 140	c84bd1c2	Tú viniste de otra TL.\nY allí supiste mi secreto.
 150	baf83378	Probablemente Takumi, a tu lado, también.\nAceptas su existencia como si fuera lo más normal.
 160	7ccb9290	O sea que...\n¿tú también hiciste PL desde la misma TL que ella?
 170	8d209f99	¡Y si fuera así, qué!
 180	49a01ff6	Nada... solo dije lo que pensé.
 190	cd4196ab	Tú también eres igual, ¿no?\nTampoco eres de esta TL.
-200	0401a55a	Porque el Aotsuki de esta TL\nel día 2 fue despojado de su criptoglobina por Sumino...
+200	0401a55a	Porque el Eito de esta TL\nel día 2 fue despojado de su criptoglobina por Takumi...
 210	f76605a8	Haah... qué crueldad.\nAunque sea otra TL, es un trato imperdonable.
 220	003443b4	¡Entonces tú eres de la TL de la Caja de la Desdicha...!\n¡Saltaste desde esa TL el día 36, ¿verdad?!
 230	e4695c02	¿De la Caja de la Desdicha...?\nAh, ¿así la llaman?
@@ -28,7 +28,7 @@ id	huella_jp	es
 270	b9354fdd	¡Una casualidad así...!
 280	7bbcec8b	Existen. Pasó de verdad.\nPorque mi habilidad de especialista es...
 290	a0f6d343	¿{fc(ff635b)"Adivinación especial"}, no?
-300	95568a05	{fc(57e4f1)Aotsuki asintió despacio y con profundidad.}
+300	95568a05	{fc(57e4f1)Eito asintió despacio y con profundidad.}
 310	41054b44	Entendido. Entonces dejémoslo así.\nPero primero respóndeme una cosa.
 320	3b4f10c4	¿Eres tú el patrocinador de la Caza de Invasores?
 330	c0c6ba1b	Jeje... ¿también eres torpe en otras TL?\n¡La Caza de Invasores empezó el día 26!
@@ -67,7 +67,7 @@ id	huella_jp	es
 660	6bc3e182	¿Desaparecer...?
 670	d7771af9	¡No será...!
 680	3fa7085a	Sí... bueno, adiós.
-690	a9a595d1	{fc(57e4f1)Dicho eso, Aotsuki sacó algo del bolsillo...}
+690	a9a595d1	{fc(57e4f1)Dicho eso, Eito sacó algo del bolsillo...}
 700	a439fcc5	{fc(57e4f1)y nos lo lanzó. En el siguiente instante, ese objeto\nestalló justo frente a mí...}
 710	20effae9	{fc(57e4f1)No pude ni cerrar los ojos ni taparme los oídos...}
 720	97186a31	Una granada aturdidora...

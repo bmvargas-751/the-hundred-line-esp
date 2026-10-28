@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	9e9abc3f	Sumino... tuvo varios errores,\npero bueno, en líneas generales es así...
+10	9e9abc3f	Takumi... tuvo varios errores,\npero bueno, en líneas generales es así...
 20	d2b0bc80	Es cierto que yo maté a Kako...
 30	3ad10580	¡Gr-Grrrrrrrrrrrrrrr...!
 40	5423f4d9	¡Ima, contrólate! ¡Lo prometiste!
@@ -18,7 +18,7 @@ id	huella_jp	es
 170	10406bf7	Y se escondió debajo de la cama o algo así.
 180	37f0eed9	Y entonces, ¿qué dijo X?
 190	3cf212ce	Sí. Me dijo esto...
-200	a10bf8fc	Yo soy quien mató a Maruko.\n¡Pienso hacerte mi próximo objetivo!
+200	a10bf8fc	Yo soy quien mató a Gaku.\n¡Pienso hacerte mi próximo objetivo!
 210	30c84476	Pero si sigues mis órdenes, te dejaré en paz.
 220	6b74d200	Si me desobedeces o le cuentas a otro que existo,\nharé estallar de inmediato la bomba que tienes en el cuerpo.
 230	eeef28ba	Sí, la bomba que ese robot llamado SIREI\nles puso dentro del cuerpo.
@@ -28,7 +28,7 @@ id	huella_jp	es
 270	41417911	¡Ese es el personaje inventado que te apuñaló!
 280	79eeb1d7	Que me haya apuñalado es un invento, es cierto...\n¡pero la persona con esa apariencia sí existe!
 290	a867fdf4	¿Y entonces...?
-300	e266ce99	Yo decidí obedecer las órdenes de X...\n¡porque no quería que me mataran como a Maruko...!
+300	e266ce99	Yo decidí obedecer las órdenes de X...\n¡porque no quería que me mataran como a Gaku...!
 310	b4c10a3f	{fc(57e4f1)...\n...}
 320	09d9bd93	Todo el plan lo armó X.
 330	f9550c14	El pozo con la escalera, el hangar de la cápsula de escape...\nla ubicación del conducto también me la dijo X.
@@ -56,7 +56,7 @@ id	huella_jp	es
 550	cf8e8d1b	Si dudas y no haces nada,\nte vuelo en pedazos sin falta.
 560	f694d55c	Entonces... mezclé TTX en una botella de plástico...\n¡y se la di a Kako...!
 570	0662b3a2	¡Gh... uuuuuuh...!
-580	336ba9bd	Lo que pasó después, hasta volver al edificio,\nfue casi tal como lo contó Sumino...
+580	336ba9bd	Lo que pasó después, hasta volver al edificio,\nfue casi tal como lo contó Takumi...
 590	8c7ad015	Solo que... no imaginaba que la mochila se hubiera rasgado...
 600	b4c10a3f	{fc(57e4f1)...\n...}
 610	861e264b	Llegué al primer piso del edificio, pero...
@@ -76,15 +76,15 @@ id	huella_jp	es
 750	8a8020fa	Ah, el Gammaphiel también lo preparó X.\nMe lo entregaron junto con el cuchillo y la jeringa.
 760	741317ef	Y creo que el cuchillo y la jeringa que tiré\nlos recogió también X.
 770	ca66d20d	No fui yo quien los recogió...
-780	14a8cbe7	{fc(57e4f1)Ginzaki terminó de hablar y bajó la cabeza, abatido, como vaciado.}
-790	c776cbc3	{fc(57e4f1)Hubo un rato de silencio.\nHasta que, por fin, habló Shizuhara.}
-800	352220bd	Ginzaki, una última pregunta.\n¿Te dice algo la frase {fc(ff635b)"espalda, corazón"}?
+780	14a8cbe7	{fc(57e4f1)Shouma terminó de hablar y bajó la cabeza, abatido, como vaciado.}
+790	c776cbc3	{fc(57e4f1)Hubo un rato de silencio.\nHasta que, por fin, habló Hiruko.}
+800	352220bd	Shouma, una última pregunta.\n¿Te dice algo la frase {fc(ff635b)"espalda, corazón"}?
 810	fbe0b92c	¿{fc(ff635b)"Espalda, corazón"}...?\n¿Qué es eso?
-820	b4885ed2	Gracias, con esa reacción me basta.\nSumino, parece que es como pensábamos.
-830	264327c2	Sí, Ginzaki no tiene que ver con eso.\nO sea que eso también es obra de X...
+820	b4885ed2	Gracias, con esa reacción me basta.\nTakumi, parece que es como pensábamos.
+830	264327c2	Sí, Shouma no tiene que ver con eso.\nO sea que eso también es obra de X...
 840	99dc03aa	{fc(57e4f1)Todos ladeaban la cabeza, sin entender.}
 850	6a77844d	{fc(57e4f1)Seguramente nadie sabe todavía\nque les sacaron el corazón a los cuerpos.}
-860	0b900972	{fc(57e4f1)De repente, como si recordara algo,\nGinzaki empezó a temblar sin parar.}
+860	0b900972	{fc(57e4f1)De repente, como si recordara algo,\nShouma empezó a temblar sin parar.}
 870	da35ba3d	¡Ah... ah... en todo caso, ya estoy acabado...!\n¡Porque hablé de X...!
 880	e1e238c2	¡La bomba de mi cuerpo va a explotar...!\n¡Uuuh... uuuuuh...!
 890	f4a72a8b	
@@ -101,18 +101,18 @@ id	huella_jp	es
 1000	9c1ea334	¿...?
 1010	3cd4e4b1	¡Entonces yo...!\n¡Lo voy a matar...!
 1020	177e9d45	¡¡Uaaaaaaaaaaaaaaaaaaaaaaah...!!
-1030	32f1c48b	{fc(57e4f1)Ima se lanzó rugiendo contra Ginzaki.\nNo hubo tiempo de detenerlo.}
-1040	b0483a22	{fc(57e4f1)Ima derribó a Ginzaki, se montó encima de un salto\ny empezó a estrangularle el cuello como queriendo arrancárselo.}
+1030	32f1c48b	{fc(57e4f1)Ima se lanzó rugiendo contra Shouma.\nNo hubo tiempo de detenerlo.}
+1040	b0483a22	{fc(57e4f1)Ima derribó a Shouma, se montó encima de un salto\ny empezó a estrangularle el cuello como queriendo arrancárselo.}
 1050	a99390db	¡¡Muuuuuuuuuuuuuere...!!
 1060	f538b71c	¡Gh... ugh... gub... aaaah...!
 1070	46ac271d	¡Ima, basta...!
 1080	62387260	{fc(57e4f1)Corrimos hacia Ima y lo separamos a la fuerza.}
 1090	c38670b3	Jadeo... jadeo...
 1100	f4a72a8b	
-1110	a4695945	{fc(57e4f1)Ginzaki, espumando por la boca, se desmayó.\nOmokage corrió junto a él y lo examinó.}
+1110	a4695945	{fc(57e4f1)Shouma, espumando por la boca, se desmayó.\nYugamu corrió junto a él y lo examinó.}
 1120	fb89baae	Tranquilos, solo perdió el conocimiento.
 1130	d08f40eb	¡Maldición, maldición...!\n¡Uuuuuh... uuuuuh...!
 1140	a0c7e108	Mi hermana... mi hermana...\n¡Mi hermanaaaaaaaaaaa...!
-1150	d14f474d	{fc(57e4f1)Ima soltó un grito desgarrador y se desplomó llorando.\nKirifuji y Kawana se acercaron a su lado y lo consolaron.}
+1150	d14f474d	{fc(57e4f1)Ima soltó un grito desgarrador y se desplomó llorando.\nNozomi y Tsubasa se acercaron a su lado y lo consolaron.}
 1160	e7682d84	{fc(57e4f1)Los demás, sin poder hacer nada,\nmiraban a Ima en silencio.}
 1170	02c1c536	{fc(57e4f1)El llanto desconsolado de Ima\nresonó fríamente por el edificio, sin parecer acabar nunca.}

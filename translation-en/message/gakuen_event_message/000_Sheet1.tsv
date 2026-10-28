@@ -1,7 +1,7 @@
 id	huella_jp	es
 101	a8eeea8b	Ejecutar el evento de la academia
 102	c36e39dd	No ejecutar el evento de la academia
-201	00755d2b	Sumino, ¿vamos de paseo en moto?
+201	00755d2b	Takumi, ¿vamos de paseo en moto?
 202	be6e1a31	Ir de paseo{is60}{image(ui_icon_f_choice)}
 203	477850ca	Mejor no
 211	ceefa9d5	Jeje, nada mal.
@@ -79,28 +79,28 @@ id	huella_jp	es
 611	debf6e04	Jeje.
 612	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 613	477850ca	Mejor no
-621	57cbf7b0	Sumino... tengo algo que consultarte...
+621	57cbf7b0	Takumi... tengo algo que consultarte...
 622	aef1d3e1	Aconsejar{is60}{image(ui_icon_f_choice)}
 623	477850ca	Mejor no
-631	92fcba8e	¿Tú también viniste a usar\nel Gift-O-Matic, Sumino?
+631	92fcba8e	¿Tú también viniste a usar\nel Gift-O-Matic, Takumi?
 632	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 633	477850ca	Mejor no
-641	dbab547a	Oye, Sumino, si estás libre, ¿me ayudas con el trabajo?
+641	dbab547a	Oye, Takumi, si estás libre, ¿me ayudas con el trabajo?
 642	5e27336b	Ayudar con el trabajo{is60}{image(ui_icon_f_choice)}
 643	2d0cc45e	Rechazar
 651	858471d0	¡Ah, ¿en serio?!\n¡Jeje, sabes muchas cosas!
 652	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 653	477850ca	Mejor no
-701	e74cb206	¡Sumino! ¡Hagamos una fiesta!
+701	e74cb206	¡Takumi! ¡Hagamos una fiesta!
 702	e30e6d78	Escuchar{is60}{image(ui_icon_f_choice)}
 703	477850ca	Mejor no
-711	a00d9580	Oye, Sumino... ¿me escuchas una preocupación?
+711	a00d9580	Oye, Takumi... ¿me escuchas una preocupación?
 712	75de0ee3	Escuchar su preocupación{is60}{image(ui_icon_f_choice)}
 713	21003db7	Ignorarlo
-721	5ef8745a	Oye, Sumino... ¿qué día y de qué mes es hoy?
+721	5ef8745a	Oye, Takumi... ¿qué día y de qué mes es hoy?
 722	f250400e	Responder{is60}{image(ui_icon_f_choice)}
 723	477850ca	Mejor no
-731	99db632f	Oye, Sumino... ¿no quieres oír mi reseña de comida?
+731	99db632f	Oye, Takumi... ¿no quieres oír mi reseña de comida?
 732	df4fb5e7	Escuchar la reseña{is60}{image(ui_icon_f_choice)}
 733	21003db7	Ignorarlo
 741	2ce854dd	Mmm... algo no cuadra...\nMmmmmmmm...
@@ -130,13 +130,13 @@ id	huella_jp	es
 901	f4a72a8b	
 902	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 903	a9b12717	Dejarla tranquila
-911	5fe9006a	Sumino senpai... ¿jugamos a la ruleta?
+911	5fe9006a	Takumi senpai... ¿jugamos a la ruleta?
 912	f6fd89c5	Jugar juntos{is60}{image(ui_icon_f_choice)}
 913	477850ca	Mejor no
-921	b7e16a88	Sumino senpai, ¿hablamos de amor?
+921	b7e16a88	Takumi senpai, ¿hablamos de amor?
 922	ae608c69	Hablar de amor{is60}{image(ui_icon_f_choice)}
 923	477850ca	Mejor no
-931	99bfa4f4	Sumino senpai...\n¿vemos una película entre todos?
+931	99bfa4f4	Takumi senpai...\n¿vemos una película entre todos?
 932	4b1f9456	Ver la película{is60}{image(ui_icon_f_choice)}
 933	477850ca	Mejor no
 941	196b180b	Qué envidia... yo también quiero manejar...
@@ -151,7 +151,7 @@ id	huella_jp	es
 1011	91390f8c	¡Jeje! ¡Jajajajaja!
 1012	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1013	477850ca	Mejor no
-1021	19dde6d7	Sumino... tengo algo\nque quisiera que escuchara...
+1021	19dde6d7	Takumi... tengo algo\nque quisiera que escuchara...
 1022	e30e6d78	Escuchar{is60}{image(ui_icon_f_choice)}
 1023	2d0cc45e	Rechazar
 1031	537931de	Fuu... fuu... fuu... fuu...
@@ -160,22 +160,22 @@ id	huella_jp	es
 1041	450fdb87	Fuu... fuu... haa... ¡haa...!
 1042	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1043	477850ca	Mejor no
-1051	34237dcb	Ah, Sumino...
+1051	34237dcb	Ah, Takumi...
 1052	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 1053	2a850973	Hacer como que no lo vi
-1101	76944e6f	Sumino, ¿comemos juntos?
+1101	76944e6f	Takumi, ¿comemos juntos?
 1102	e143faf6	Comer juntos{is60}{image(ui_icon_f_choice)}
 1103	477850ca	Mejor no
 1111	2ec5513f	¡Jeje, jaja!
 1112	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1113	477850ca	Mejor no
-1121	0396e172	¿Tú también viniste a usar\nel Gift-O-Matic, Sumino?
+1121	0396e172	¿Tú también viniste a usar\nel Gift-O-Matic, Takumi?
 1122	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 1123	477850ca	Mejor no
 1131	22d246e2	No puede ser... ¡así no sirve para nada...!
 1132	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1133	7223c008	Dejarla en paz
-1141	8a58f340	Sumino, ¿descansamos un rato en la azotea?
+1141	8a58f340	Takumi, ¿descansamos un rato en la azotea?
 1142	53f27fcb	Descansar un rato{is60}{image(ui_icon_f_choice)}
 1143	477850ca	Mejor no
 1151	f4a72a8b	
@@ -184,13 +184,13 @@ id	huella_jp	es
 1201	47f40015	¿Tanto quieres ayudarme a hacer el curry?\nQué remedio, solo por esta vez.
 1202	6c6c81d8	Ayudar con el curry{is60}{image(ui_icon_f_choice)}
 1203	477850ca	Mejor no
-1211	3cb053ab	¡Vaya, Sumino, llegaste en buen momento!
+1211	3cb053ab	¡Vaya, Takumi, llegaste en buen momento!
 1212	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 1213	477850ca	Mejor no
 1221	f5e2f697	No lo perdono... no lo perdono...
 1222	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1223	477850ca	Mejor no
-1231	6bcf9659	¡Sumino! ¡Acompaña\nmi entrenamiento!
+1231	6bcf9659	¡Takumi! ¡Acompaña\nmi entrenamiento!
 1232	9d2e065e	Acompañar el entrenamiento{is60}{image(ui_icon_f_choice)}
 1233	477850ca	Mejor no
 1241	b85332e2	¿Eh? ¿Tú también viniste a fabricar armas?
@@ -199,25 +199,25 @@ id	huella_jp	es
 1251	972d3394	No lo perdono... no lo perdono por nada...
 1252	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1253	477850ca	Mejor no
-1301	b689d215	¡Don Sumino! ¡Leamos Jump\njuntos!
+1301	b689d215	¡Don Takumi! ¡Leamos Jump\njuntos!
 1302	53aedf5c	Leer Jump juntos{is60}{image(ui_icon_f_choice)}
 1303	477850ca	Mejor no
-1311	0ba042ed	¡Don Sumino! ¡Quisiera que me acompañe\nen mi entrenamiento con la espada!
+1311	0ba042ed	¡Don Takumi! ¡Quisiera que me acompañe\nen mi entrenamiento con la espada!
 1312	0064cec0	Acompañar el entrenamiento{is60}{image(ui_icon_f_choice)}
 1313	477850ca	Mejor no
-1321	e4ec8272	¡Don Sumino!\n¡Desde hoy esta servidora vive en esta sala!
+1321	e4ec8272	¡Don Takumi!\n¡Desde hoy esta servidora vive en esta sala!
 1322	afd876a5	Preguntar el motivo{is60}{image(ui_icon_f_choice)}
 1323	7223c008	Dejarla en paz
-1331	b2f9afe1	¡Don Sumino!\n¿Qué tal un bocadillo juntos?
+1331	b2f9afe1	¡Don Takumi!\n¿Qué tal un bocadillo juntos?
 1332	15f42531	Comer bocadillos{is60}{image(ui_icon_f_choice)}
 1333	477850ca	Mejor no
-1341	917e820f	¿Don Sumino también vino a lavar ropa?
+1341	917e820f	¿Don Takumi también vino a lavar ropa?
 1342	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 1343	477850ca	Mejor no
-1351	a3ea859b	¡Don Sumino!\n¡Vayamos juntos de cacería!
+1351	a3ea859b	¡Don Takumi!\n¡Vayamos juntos de cacería!
 1352	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 1353	477850ca	Mejor no
-1401	ec4aa776	Sumino... ven para acá.\nTe mostraré algo bueno.
+1401	ec4aa776	Takumi... ven para acá.\nTe mostraré algo bueno.
 1402	f6ba16d7	Dejar que me muestre{is60}{image(ui_icon_f_choice)}
 1403	21003db7	Ignorarlo
 1411	38678609	Ah... qué nostalgia...\nJejejejeje...
@@ -226,31 +226,31 @@ id	huella_jp	es
 1421	f4a72a8b	
 1422	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1423	477850ca	Mejor no
-1431	8e282833	Sumino, ¿cocinamos juntos?
+1431	8e282833	Takumi, ¿cocinamos juntos?
 1432	94ab7c7f	Cocinar juntos{is60}{image(ui_icon_f_choice)}
 1433	477850ca	Mejor no
-1441	ebf0bfb0	Hola, Sumino. ¡Qué coincidencia verte aquí!
+1441	ebf0bfb0	Hola, Takumi. ¡Qué coincidencia verte aquí!
 1442	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 1443	23110059	Huir
 1451	10fd692b	U-Uuuh... uuuuh...
 1452	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1453	477850ca	Mejor no
-1501	b6536199	¡Sumino, entrenemos juntos!
+1501	b6536199	¡Takumi, entrenemos juntos!
 1502	9d2e065e	Acompañar el entrenamiento{is60}{image(ui_icon_f_choice)}
 1503	2d0cc45e	Rechazar
 1511	9fd6329e	¡Vaya, qué coincidencia verte aquí!
 1512	5ea6b7c9	Hablar{is60}{image(ui_icon_f_choice)}
 1513	477850ca	Mejor no
-1521	7c781636	¡Sumino, nademos juntos,\nlet's swimming!
+1521	7c781636	¡Takumi, nademos juntos,\nlet's swimming!
 1522	56c0c521	Nadar juntos{is60}{image(ui_icon_f_choice)}
 1523	477850ca	Mejor no
-1531	470d6654	¡Sumino, hagamos manualidades juntos!
+1531	470d6654	¡Takumi, hagamos manualidades juntos!
 1532	8174326a	Hacer manualidades juntos{is60}{image(ui_icon_f_choice)}
 1533	477850ca	Mejor no
-1541	50fd535b	Sumino, ¿no quieres oír mi estilo de trabajo?
+1541	50fd535b	Takumi, ¿no quieres oír mi estilo de trabajo?
 1542	e30e6d78	Escuchar{is60}{image(ui_icon_f_choice)}
 1543	41baacb3	Prefiero no
-1551	61ed1322	Sumino... hay algo que quiero advertirte.
+1551	61ed1322	Takumi... hay algo que quiero advertirte.
 1552	09ce8afd	Escuchar la advertencia{is60}{image(ui_icon_f_choice)}
 1553	2e844e2d	Ignorarla
 1601	2279e142	Deme órdenes, por favor.\nSin órdenes, no puedo moverme.
@@ -274,9 +274,9 @@ id	huella_jp	es
 1661	f4a72a8b	
 1662	cd1e5c42	Hablarle{is60}{image(ui_icon_f_choice)}
 1663	a9b12717	Dejarlo tranquilo
-1671	c9cb2a18	Sumino, tengo algo que consultarte...
+1671	c9cb2a18	Takumi, tengo algo que consultarte...
 1672	aef1d3e1	Aconsejar{is60}{image(ui_icon_f_choice)}
 1673	477850ca	Mejor no
-1681	aa24d2aa	Sumino, ¿me enseñas a usar\nel Gift-O-Matic?
+1681	aa24d2aa	Takumi, ¿me enseñas a usar\nel Gift-O-Matic?
 1682	95fb99c0	Enseñar{is60}{image(ui_icon_f_choice)}
 1683	477850ca	Mejor no

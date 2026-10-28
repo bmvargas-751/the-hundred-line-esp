@@ -1,11 +1,11 @@
 id	huella_jp	es
-10	f894775a	{fc(57e4f1)Shizuhara me llevó a la sala donde duermen los compañeros...\nla sala de reposo de cadáveres.}
+10	f894775a	{fc(57e4f1)Hiruko me llevó a la sala donde duermen los compañeros...\nla sala de reposo de cadáveres.}
 20	c3ffaafa	{fc(57e4f1)Ante mí estaban dispuestos los cuerpos\nde todos los que fueron víctimas del asesino.}
-30	19214662	{fc(57e4f1)...La verdad, no es un lugar al que quiera entrar.\n¿Por qué me habrá traído Shizuhara aquí?}
+30	19214662	{fc(57e4f1)...La verdad, no es un lugar al que quiera entrar.\n¿Por qué me habrá traído Hiruko aquí?}
 40	2c9a619e	Fueron once los que mató el asesino, incluido el invasor prisionero,\npero entre ellos hay una diferencia evidente.
 50	ed4a417c	¿Una diferencia...?
 60	e7f7a5a1	Quizá sea difícil de notar,\npero fíjate bien en las marcas de las heridas.
-70	39e8df0a	{fc(57e4f1)Dicho eso, Shizuhara reordenó los cuerpos de los compañeros\nde uno en uno.}
+70	39e8df0a	{fc(57e4f1)Dicho eso, Hiruko reordenó los cuerpos de los compañeros\nde uno en uno.}
 80	1487e446	¿Cómo ves las heridas de estos?
 90	30f69fa1	¿Cómo? Cortes limpios.\nEs sierra eléctrica, así que supongo que son muy profundos.
 100	ccb48989	Entonces mira estos ahora.
@@ -19,5 +19,5 @@ id	huella_jp	es
 180	8d553c2a	Estas marcas como de desgarro, probablemente son de un arma blanca\ncomo un "machete".
 190	0b2eb872	¿Usó armas distintas? ¡¿Por qué...?!
 200	038610cd	Hasta aquí puedo decirte...\nLo demás piénsalo tú.
-210	8016c9c3	¡O-oye! ¡¿Shizuhara?!
-220	b9738a2d	{fc(57e4f1)Dicho eso, Shizuhara me dio la espalda\ny salió de la sala.}
+210	8016c9c3	¡O-oye! ¡¿Hiruko?!
+220	b9738a2d	{fc(57e4f1)Dicho eso, Hiruko me dio la espalda\ny salió de la sala.}

@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	fca8487a	{fc(57e4f1)Ya no... soporto verla acorralada por todos. No queda otra: lo tengo que contar yo.}
-20	a61766d6	{fc(57e4f1)Voy a explicarles que Kirifuji no es el enemigo, sin mencionar lo de Karua.}
-30	48ff88dd	...Escúchenme un momento, todos. Lo de Kirifuji se los explico yo.
+20	a61766d6	{fc(57e4f1)Voy a explicarles que Nozomi no es el enemigo, sin mencionar lo de Karua.}
+30	48ff88dd	...Escúchenme un momento, todos. Lo de Nozomi se los explico yo.
 40	57c811bd	¿Eh...?
 50	b9e05ddc	{fc(57e4f1)Pidiéndole perdón por dentro, empecé a hablar.}
 60	ac3fef48	{fc(57e4f1)Eligiendo las palabras con cuidado, les conté a todos lo que ella me había dicho en el futuro...}
@@ -13,15 +13,15 @@ id	huella_jp	es
 120	48b2d64a	{fc(57e4f1)y se subió a un aparato de reserva para venir hasta aquí. Para participar en esta operación.}
 130	53dacc65	{fc(57e4f1)Por todo eso, ella sabía hasta cierto punto de qué se trataba este plan, pero...}
 140	e376bcd5	{fc(57e4f1)tenía miedo de que nosotros, que no sabíamos nada, desconfiáramos de ella, y por eso no lo había contado hasta ahora.}
-150	70617e22	{fc(57e4f1)...Ante la sorpresa de Kirifuji, les fui contando a todos lo que sabía.}
+150	70617e22	{fc(57e4f1)...Ante la sorpresa de Nozomi, les fui contando a todos lo que sabía.}
 160	22c595a4	Eso es... todo lo que sé.
-170	9245c8fc	Kirifuji no es el enemigo. Solo tenía miedo de que sospecharan de ella, y por eso no podía contarlo.
+170	9245c8fc	Nozomi no es el enemigo. Solo tenía miedo de que sospecharan de ella, y por eso no podía contarlo.
 180	f4a72a8b	
 190	be987860	Qué sorpresa... Quién diría que alguien del Hospital General Kamukura se había colado así...
 200	ce5bf10d	Ya veo. Por eso éramos más de lo previsto...
 210	7fedc6c1	¡Nada de "ya veo"! ¡Tendrías que haber sospechado en ese mismo momento!
 220	178e6d80	¡L-Lo sientooo! ¡Es que nunca me imaginé que no fuera de la Unidad de Defensa Especiaaal!
-230	d7f7b2d1	Lo que es seguro es que Kirifuji no es una traidora ni una espía. Solo quiere proteger a la humanidad junto con nosotros.
+230	d7f7b2d1	Lo que es seguro es que Nozomi no es una traidora ni una espía. Solo quiere proteger a la humanidad junto con nosotros.
 240	187076be	Para eso vino hasta aquí, por voluntad propia.
 250	38f3fc5d	¿Porque ese era el sueño del investigador que te hizo el trasplante... y el tuyo, que eras su sujeto de prueba?
 260	711fbfe4	S-Sí...
@@ -34,26 +34,26 @@ id	huella_jp	es
 330	814d5a65	...SIREI, tú deberías saberlo, ¿no?
 340	97ee207c	Lo siento, pero yo tampoco lo sé. Solo sé que en el Hospital General Kamukura se investigaba la criptoglobina.
 350	6a6c30d6	Además, no fui yo el que los eligió. Seguramente es porque es una operación ultrasecreta, ¿no?
-360	4325d638	...Como sea, con esto Kirifuji ya no debería estar bajo sospecha. Ya no hay razón para desconfiar de ella...
+360	4325d638	...Como sea, con esto Nozomi ya no debería estar bajo sospecha. Ya no hay razón para desconfiar de ella...
 370	f4a72a8b	
-380	bfdc1ea6	...¿Kirifuji? ¿Qué pasa?
+380	bfdc1ea6	...¿Nozomi? ¿Qué pasa?
 390	5684b7da	Ah, no, no... es que me sorprendió un poco. No se lo había contado a nadie.
 400	9188af04	Bueno, si otra persona se pone a contar algo así por su cuenta, es normal sorprenderse...
 410	0ded5105	¿Eh...?
 420	8b8bcb4c	Aunque diga que se lo contó a su yo del futuro, a lo mejor en realidad lo escuchó a escondidas.
-430	cc246901	¡N-No es así! ¡Me lo contó Kirifuji, de verdad! ¡Kirifuji confió en mí y me lo contó todo!
+430	cc246901	¡N-No es así! ¡Me lo contó Nozomi, de verdad! ¡Nozomi confió en mí y me lo contó todo!
 440	5706b444	¿Confió...?
 450	1a9495e4	{fc(57e4f1)Ella, con cara de desconcierto, apartó la mirada de mí...}
 460	82d18969	Perdón... con la cabeza creo que lo entiendo, pero déjenme ordenar un poco las ideas...
-470	84ed8476	{fc(57e4f1)Dicho eso, Kirifuji salió de la cafetería como si huyera.}
-480	090e55d8	Kirifuji...
+470	84ed8476	{fc(57e4f1)Dicho eso, Nozomi salió de la cafetería como si huyera.}
+480	090e55d8	
 490	981ee699	Aunque sea información que supiste en el futuro, ¿te parece bien andar soltándola así delante de la persona?
 500	257ff880	...¿Eh?
 510	39651e5d	Bueno... entiendo que Sumino lo contó en lugar de Nozomi porque a ella le costaba decirlo, pero...
 520	0ac31165	que alguien que acabas de conocer sepa tus secretos es, ¿cómo decirlo...?
 530	d2e94e7d	¡Para serle franca, da cosa!
 540	b7d0c83f	¡N-No tenía otra opción! Si me quedaba callado, solo iban a sospechar de Kirifuji...
-550	27ca9835	Es cierto... Gracias a eso, se aclaró el malentendido de que Kirifuji era sospechosa.
+550	27ca9835	Es cierto... Gracias a eso, se aclaró el malentendido de que Nozomi era sospechosa.
 560	2593cf40	Igual... eso no cambia que me estuviera ocultando cosas...
 570	257ff880	...¿Eh?
 580	e7edb64e	Pero que se hubiera colado alguien que no estaba previsto, eso sí que no me lo esperaba.

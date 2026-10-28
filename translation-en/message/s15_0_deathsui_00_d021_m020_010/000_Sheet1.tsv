@@ -1,12 +1,12 @@
 id	huella_jp	es
 10	1f88df6d	{fc(57e4f1)Después de esperar un rato...\ntodos se reunieron alborotados.}
 20	a003e6ca	{fc(57e4f1)No, no eran todos...}
-30	01febf0f	{fc(57e4f1)Los que aparecieron fueron los miembros que salieron el día 8\ny Yakushiji: solo ocho.}
-40	a4234355	¡Sumino...!
-50	8b33ddd5	¡Sumino...!
+30	01febf0f	{fc(57e4f1)Los que aparecieron fueron los miembros que salieron el día 8\ny Takemaru: solo ocho.}
+40	a4234355	¡Takumi...!
+50	8b33ddd5	¡Takumi...!
 60	29e9e2f7	¡Don Takumi...!
 70	f00e74ed	¿Tu cuerpo está bien...?
-80	ebb0a700	{fc(57e4f1)Cuando Kawana dijo eso, Omokage se me acercó a paso firme\ny empezó a palparme el cuerpo por todas partes. Luego...}
+80	ebb0a700	{fc(57e4f1)Cuando Tsubasa dijo eso, Yugamu se me acercó a paso firme\ny empezó a palparme el cuerpo por todas partes. Luego...}
 90	b8b06c3f	Mmm, no parece haber problema.
 100	c827383f	¡Uoooooh...!\n¡¡Sumino se recuperóóóó...!!
 110	8ee82422	¡Felicidades, Sumino!
@@ -26,7 +26,7 @@ id	huella_jp	es
 250	93c0203e	¿Seguirán sospechando que don Takumi es el culpable?
 260	9635b04e	Desde entonces no ha habido ni una sola víctima...\n¡Seguro que el verdadero culpable escapó más allá del Muro de Fuego!
 270	cd5eafce	Sí, quizás... pero esa misma razón\npuede haber hecho crecer más la sospecha.
-280	744d6827	"Mientras Sumino estuvo inconsciente no hubo incidentes.\nEso significa que, después de todo, Sumino era el culpable..."
+280	744d6827	"Mientras Takumi estuvo inconsciente no hubo incidentes.\nEso significa que, después de todo, Takumi era el culpable..."
 290	a0897bca	Eso es lo que ellos piensan.
 300	b5ca6507	Haah... en serio...
 310	712800f2	{fc(57e4f1)Sacudí la cabeza sin fuerzas.}
@@ -39,7 +39,7 @@ id	huella_jp	es
 356	efd5e3ac	Jeje...
 358	c2b438c5	Ya veo, ¡qué increíble...!\n¡Derrotaron a V'ehxness solo ocho...!
 360	5196de87	{fc(57e4f1)Todos sonrieron con orgullo.}
-365	33cace46	O sea que... ¿Yakushiji también fue al campo de batalla?
+365	33cace46	O sea que... ¿Takemaru también fue al campo de batalla?
 370	6e701e8e	¡Claro que sí!
 380	3d5e27bb	¡Después de lo que hiciste por mí,\nno puedo no pelear!
 390	8ed245bc	Entonces, ¿ya no desconfías de mí...?

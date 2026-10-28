@@ -3,7 +3,7 @@ id	huella_jp	es
 20	497711df	Por tu cara, veo que por fin te diste cuenta.
 30	f6cd7748	¡Tú, ¿dónde está "Juurinne-kou"?!
 40	5c38c009	Aquí está.
-50	f3a1b258	{fc(57e4f1)Aotsuki sacó un libro del bolsillo del pecho.\nSe lo arrebaté de un tirón.}
+50	f3a1b258	{fc(57e4f1)Eito sacó un libro del bolsillo del pecho.\nSe lo arrebaté de un tirón.}
 60	33f7f7e5	{fc(57e4f1)Miré la portada.\nSin duda dice }{fc(ff635b)"Juurinne-kou"}{fc(57e4f1).}
 70	440bbc01	{fc(57e4f1)Pero...}
 80	51fcc90c	Oye, ¿qué es esto?
@@ -13,7 +13,7 @@ id	huella_jp	es
 120	d7771af9	¡No será...!
 130	4e3698da	Sí, me las comí.
 140	660812c6	La comida que me traían era tan poca...que por el hambre me las comí sin pensar.
-150	9968a3d0	{fc(57e4f1)Shizuhara y yo registramos todo el cuarto.\nTambién revisamos el cuerpo de Aotsuki de punta a punta.}
+150	9968a3d0	{fc(57e4f1)Hiruko y yo registramos todo el cuarto.\nTambién revisamos el cuerpo de Eito de punta a punta.}
 160	0d847406	{fc(57e4f1)Pero no apareció ni una sola de las páginas arrancadas.}
 170	f165bee7	¿Lo leíste...?
 180	f4a72a8b	
@@ -24,11 +24,11 @@ id	huella_jp	es
 230	199816dd	Y no solo eso.\nEl día 36 también dije algo así.
 240	f97fd995	"Quizás sé la información importante que buscan...\n"
 250	15cb44e4	¡Entonces este libro sí trata del bucle temporal...!
-260	ef3226c7	Aotsuki, cuéntanos con detalle...\n¡¿Qué decía "Juurinne-kou"?!
+260	ef3226c7	Eito, cuéntanos con detalle...\n¡¿Qué decía "Juurinne-kou"?!
 270	bf4e6731	¿Tienen el hipocampo muerto?\nLes dije "hasta que se disculpen, no se lo digo".
-280	2333e404	Ah, no solo Takumi: también Shizuhara.\nResponsabilidad compartida.
+280	2333e404	Ah, no solo Takumi: también Hiruko.\nResponsabilidad compartida.
 290	40a1ad81	Los dos arrodillados, con la cabeza gacha, lamiendo el suelo, díganme:
-300	0f5df851	"¡Perdón, perdón, señor Aotsuki~n!\n"Y entonces...
+300	0f5df851	"¡Perdón, perdón, señor Eito~n!\n"Y entonces...
 310	c6b81b9d	¡No vamos a hacer eso, no!
 320	52ecb9ad	Entonces no hay remedio.
 330	c020df8a	De ahora en adelante, ustedes repetirán sin fin\nestos 100 días estériles, siempre, siempre.

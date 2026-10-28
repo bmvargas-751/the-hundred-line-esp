@@ -1,14 +1,14 @@
 id	huella_jp	es
 10	a9080b25	¡No jodas, tú!\n¡¿Quién te crees?!
-20	67aa62c3	{fc(57e4f1)Apenas entré en la cafetería,\noí los gritos furiosos de Yakushiji.}
+20	67aa62c3	{fc(57e4f1)Apenas entré en la cafetería,\noí los gritos furiosos de Takemaru.}
 30	2fe981ad	¡¿Q-Qué pasa?!
 40	05cedfbd	¡Dejaste de decir tonterías!
 50	92aca3a5	Vamos, ¿quién dice tonterías?
 60	1eff98b4	O-Oigan... ¿qué les pasa desde la mañana?
-70	37be222a	¡Ah, Sumino...!\n¡Justo a tiempo...!
-80	3f494a62	Kirifuji... ¿qué pasa?\n¿Por qué pelean?
-90	240f7583	Eh, bueno... la culpa es mía. ¡Le pregunté a Aotsuki si quería curry...!
-100	4f48426d	¡Kirifuji no tiene la culpa!
+70	37be222a	¡Ah, Takumi...!\n¡Justo a tiempo...!
+80	3f494a62	Nozomi... ¿qué pasa?\n¿Por qué pelean?
+90	240f7583	Eh, bueno... la culpa es mía. ¡Le pregunté a Eito si quería curry...!
+100	4f48426d	¡Nozomi no tiene la culpa!
 110	47ab1ac6	¡Este dijo "no puedo comer algo tan asqueroso"!\n¡Él es el culpable!
 120	2e2dc3ec	¿Por qué? Me preguntaron si quería comer,\ny respondí con sinceridad.
 130	9934090d	¡Kirifuji intentó acercarse a ti, maldito!\n¡¿Ni eso entiendes?!
@@ -28,8 +28,8 @@ id	huella_jp	es
 270	975ab595	Sé que necesitamos su fuerza,\ny yo también estuve de acuerdo...
 280	5ee87c56	Pero no se confíen. ¡Ese no ha cambiado nada!
 290	f32c036a	Eso... lo sé.
-300	5cdf9829	Perdona, Sumino... pensé que quizás nos llevaríamos mejor,\npero parece que salió al revés.
-310	90626f2b	No, no es culpa tuya, Kirifuji. ¡Gracias por tener consideración!
-320	1890c31a	Sobre Aotsuki...\npor ahora solo puedo decir que tengamos cuidado.
+300	5cdf9829	Perdona, Takumi... pensé que quizás nos llevaríamos mejor,\npero parece que salió al revés.
+310	90626f2b	No, no es culpa tuya, Nozomi. ¡Gracias por tener consideración!
+320	1890c31a	Sobre Eito...\npor ahora solo puedo decir que tengamos cuidado.
 330	a3c642fa	Sí, es verdad...
-340	d103ebdd	{fc(57e4f1)Dejando a Yakushiji, que no se calmaba,\nvolvimos por ahora a nuestros cuartos.}
+340	d103ebdd	{fc(57e4f1)Dejando a Takemaru, que no se calmaba,\nvolvimos por ahora a nuestros cuartos.}

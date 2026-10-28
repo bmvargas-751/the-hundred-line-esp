@@ -1,19 +1,19 @@
 id	huella_jp	es
-10	be824b93	{fc(57e4f1)En el garaje, efectivamente,\nestaba Kawana...}
+10	be824b93	{fc(57e4f1)En el garaje, efectivamente,\nestaba Tsubasa...}
 20	2e47fdbe	{fc(57e4f1)Pero...}
 30	f4a72a8b	
-40	61eb88a9	Oye, Kawana...
+40	61eb88a9	Oye, Tsubasa...
 50	f4a72a8b	
 60	63ae71d6	{fc(57e4f1)Kawana estaba absorta manipulando algo\ny parecía no haberme notado.}
-70	29571a93	Oiga... Kawana...
+70	29571a93	Oiga... Tsubasa...
 80	f4a72a8b	
 90	42bf0e8f	{fc(57e4f1)No hay caso, de verdad no se da cuenta.\nMe acerco y le hablo en voz alta.}
 100	b890bdd9	¡Oye! ¡Kawana!
 110	6ed4bc8d	¡Hyaaaaaah!
 120	8c2a3e8b	{fc(cfff3f)"¡Zas!"}
 130	02ac770e	¡Gufh!
-140	0bf46b19	{fc(57e4f1)Kawana se dio vuelta asustada y su codo\nme acertó de lleno en la boca del estómago...}
-150	6a3ccaac	¡P-perdón! ¡Sumino, ¿estás bien?!
+140	0bf46b19	{fc(57e4f1)Tsubasa se dio vuelta asustada y su codo\nme acertó de lleno en la boca del estómago...}
+150	6a3ccaac	¡P-perdón! ¡Takumi, ¿estás bien?!
 160	6a766f4d	E-estoy bien... Más importante...\n¿qué haces?
 170	1731b033	Llevas encerrada todo el tiempo... ¿sabes que todos están preocupados?
 180	61a93f80	Ah, sí... en realidad estaba arreglando esto...
@@ -27,7 +27,7 @@ id	huella_jp	es
 260	12ddc43e	Aunque sean puras máquinas de precisión y detalladas,\nno debería estar mal...
 270	7deccf4f	Pero no hay forma de que me obedezca.
 280	6809ce7b	¿No te obedece, eh?\nEntonces...
-290	48b704f4	¿Eh? ¿Qué?\n¿No me digas que Sumino es bueno con las máquinas?
+290	48b704f4	¿Eh? ¿Qué?\n¿No me digas que Takumi es bueno con las máquinas?
 300	1cad6d87	No, no mucho...\n¡En la Urbanización Tokio arreglé algunas así.
 310	a5f9f031	¡¿En serio?! ¡Pruébalo!\n¡Quizá sirva de pista!
 320	38afdd5d	Bien, lo intento.\nUna máquina que no obedece...
@@ -47,5 +47,5 @@ id	huella_jp	es
 460	9450e471	Así es...\n¿No hay por qué alterarse tanto?
 470	f4a72a8b	
 480	79b05e6e	Qué se le va a hacer...\nYa... está bien...
-490	7a24b846	{fc(57e4f1)Kawana quiso al menos hacer ella misma\nuna revisión del funcionamiento de SIREI,}
+490	7a24b846	{fc(57e4f1)Tsubasa quiso al menos hacer ella misma\nuna revisión del funcionamiento de SIREI,}
 500	09e8733a	{fc(57e4f1)así que volví al comedor, comí algo\ny regresé a mi cuarto por ahora.}

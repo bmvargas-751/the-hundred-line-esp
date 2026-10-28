@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	5cce6c45	{fc(57e4f1)Entramos al sótano.}
 20	63a57d21	{fc(57e4f1)Corrí al terminal\ny ingresé rápido los 8 números.}
-30	550d7b07	{fc(57e4f1)Faltaba uno... el de Shizuhara.}
+30	550d7b07	{fc(57e4f1)Faltaba uno... el de Hiruko.}
 40	3f6e8a90	{fc(57e4f1)Si ingresaba el "4",\nesta academia saldría volando sin dejar rastro.}
 50	4a069e0b	Dentro de 130 segundos comenzará el ataque omnidireccional...
 60	efeb9303	La cápsula despega 100 segundos antes...\nO sea que quedan 30 segundos.
@@ -34,7 +34,7 @@ id	huella_jp	es
 330	e9c07e92	{fc(57e4f1)Asentí en silencio y apoyé la punta de los dedos\nde la mano derecha sobre el "4" del terminal.}
 340	4e8c46ed	El "4" de "muerto"... ¿eh...?
 350	6691f55c	No. Este es el "4" de la felicidad.
-360	93b5b86e	{fc(57e4f1)En ese momento sentí calor en mi mano izquierda libre.\nShizuhara me apretaba con fuerza la palma.}
+360	93b5b86e	{fc(57e4f1)En ese momento sentí calor en mi mano izquierda libre.\nHiruko me apretaba con fuerza la palma.}
 370	d48a5d63	{fc(57e4f1)Un olor familiar llegó a mi nariz.\nEra un aroma dulce y derretido a lavanda.}
 380	9d0a8595	¿Estás lista?
 390	65df50c0	Lo estoy...
@@ -51,7 +51,7 @@ id	huella_jp	es
 500	b7eb275f	...¡¿Eh?!
 510	bd7548fb	¿P-Por qué...?
 520	40c38769	¡Tranquilo, la cápsula todavía está en la superficie!
-530	228b22d9	¡Kawana reprogramó todo a toda velocidad\npara poder despegar manualmente!
+530	228b22d9	¡Tsubasa reprogramó todo a toda velocidad\npara poder despegar manualmente!
 540	b77b6660	¡Kawana está esperando en la cápsula!
 550	6cd058ba	¡Así que... vámonos ya!
 560	544d817c	Pero... alguien tiene que presionar el "4"...
@@ -60,10 +60,10 @@ id	huella_jp	es
 590	fe395931	Pero... es imposible... ¡con este cuerpo mío...!
 600	dda0c0c6	¡Tranquila... los llevamos por turnos entre todos!
 610	068c2e4d	¡Así llegaremos seguro!
-620	88bb3f58	{fc(57e4f1)Mientras hablábamos, el tiempo se acortaba sin piedad.\nMiré a Shizuhara fijamente y dije:}
-630	4373e33a	¡Shizuhara, confiemos en todos!\n¿No lo dije antes...?
+620	88bb3f58	{fc(57e4f1)Mientras hablábamos, el tiempo se acortaba sin piedad.\nMiré a Hiruko fijamente y dije:}
+630	4373e33a	¡Hiruko, confiemos en todos!\n¿No lo dije antes...?
 640	98e118c5	Que si uno sigue creyendo en algo, el deseo se cumple...\n¡y se supera cualquier dificultad!
-650	5a9b38ec	Sumino... todos...
+650	5a9b38ec	Takumi... todos...
 660	fef5ad6e	¡Vamos!\n¡Juntos... a tomar...!
 670	6d1901a6	¡Nuestro futuro... nuestra esperanza...!\n¡Ese Satélite Artificial flotando en el cielo!
 680	fc02e297	¡Sí...!

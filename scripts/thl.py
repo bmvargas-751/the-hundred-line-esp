@@ -35,6 +35,18 @@ import thldatos as td  # noqa: E402
 
 def cmd_export(args):
     rows = [r for r in td.lines(args.pattern) if not args.pendientes or r["estado"] == "pendiente"]
+    if args.breve:
+        flat = lambda s: s.replace("\n", "↵")
+        last = None
+        for r in rows:
+            file, _, row_id = r["key"].partition("#")
+            if file != last:
+                print(f"== {file}")
+                last = file
+            seed = r["semilla"] if r.get("semilla") is not None else r["es"]
+            print(f"{row_id} {r['speaker'] + ': ' if r['speaker'] else ''}{flat(r['en'])}  ‖  {flat(seed)}" if seed else f"{row_id} {flat(r['en'])}")
+        print(f"{len(rows)} líneas", file=sys.stderr)
+        return
     if args.jsonl:
         for r in rows:
             print(json.dumps(r, ensure_ascii=False))
@@ -53,28 +65,14 @@ def cmd_export(args):
 
 
 def cmd_hecho(args):
-    """Versión 'en': marca como rehechos los archivos del patrón, si todas sus líneas están en los JSONL dados."""
+    """Versión 'en': marca como rehechos los archivos del patrón (todas sus líneas revisadas contra el inglés)."""
     if td.VERSION == "jp":
         raise SystemExit("hecho es solo para --version en")
-    edited = set()
-    for path in args.jsonl:
-        edited |= {json.loads(l)["key"] for l in open(path, encoding="utf-8") if l.strip()}
-    todo = defaultdict(list)
-    for r in td.lines(args.pattern):
-        if r["en"].strip():
-            todo[r["key"].split("#")[0].rsplit("/", 1)[0]].append(r["key"])
-    new, missing = [], 0
-    for name, keys in sorted(todo.items()):
-        faltan = [k for k in keys if k not in edited]
-        if faltan:
-            missing += len(faltan)
-            print(f"{name}: faltan {len(faltan)} líneas (ej. {faltan[0]})")
-        else:
-            new.append(name)
+    names = {r["key"].split("#")[0].rsplit("/", 1)[0] for r in td.lines(args.pattern) if r["en"].strip()}
     path = td.TRANSLATION / "hecho.txt"
     have = set(path.read_text(encoding="utf-8").split("\n")) if path.exists() else set()
-    path.write_text("\n".join(sorted((have | set(new)) - {""})) + "\n", encoding="utf-8")
-    print(f"marcados como hechos: {len(new)} archivos; sin marcar: {len(todo) - len(new)} ({missing} líneas sin tocar)")
+    path.write_text("\n".join(sorted((have | names) - {""})) + "\n", encoding="utf-8")
+    print(f"marcados como hechos: {len(names)} archivos")
 
 
 def cmd_apply(args):
@@ -420,6 +418,7 @@ def main():
     e.add_argument("pattern")
     e.add_argument("--pendientes", action="store_true", help="solo las líneas sin traducir")
     e.add_argument("--jsonl", action="store_true")
+    e.add_argument("--breve", action="store_true", help="una línea por fila: id, inglés ‖ español (jp); para revisar rápido")
     a = sub.add_parser("apply")
     a.add_argument("edits")
     d = sub.add_parser("diff")
@@ -432,7 +431,6 @@ def main():
     v.add_argument("--readme", action="store_true", help="actualiza la tabla de avance del README")
     h = sub.add_parser("hecho")
     h.add_argument("pattern")
-    h.add_argument("jsonl", nargs="+")
     sub.add_parser("table")
     args = p.parse_args()
     global TABLE

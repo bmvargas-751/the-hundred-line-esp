@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	8bb8aa41	...Buenos días, todos.
-20	aef18646	¡Ah, Sumino! ¡Buenos días!
+20	aef18646	¡Ah, Takumi! ¡Buenos días!
 40	7c9486aa	¡Buenos días! Sumino, ¿qué quieres de desayuno?
 50	26c34ae2	Por cierto, yo tomaré vísceras de oso.
 72	8a8f4d83	Eso lo paso...
@@ -11,13 +11,13 @@ id	huella_jp	es
 80	6b4e3d54	Y perdón.\nPor mi culpa pasó esto...
 82	f4a72a8b	
 84	32eaba07	Qué aburrido eres, siempre con cara de funeral.
-86	4a048659	O-Oosuzuki...
+86	4a048659	O-Kurara...
 88	1c0b2515	Eso. Bueno, es cierto que eras sospechoso,
 90	a8a92e0f	pero que por eso te declaren traidor\nno me parece del todo bien...
 92	b18e2528	¡Y además me quedé yo por Nozomi, nada más!\n¡No tengo por qué recibir tus disculpas!
 94	c86c945a	Total, quedarse deprimido no resuelve nada, ¿verdad?
 96	5aca85b1	P-Pero yo...
-98	1fad06d4	Oosuzuki tiene razón.
+98	1fad06d4	Kurara tiene razón.
 100	4f496f51	...Hola, todos.
 110	67d7240a	¡FB! ¡Despertaste!
 120	417135a3	¡Qué bien!\n¡Parece que ya estás bien!
@@ -26,17 +26,17 @@ id	huella_jp	es
 150	9552c640	Parece que... pasaron muchas cosas.
 160	6038b6ab	...Sí.
 170	1d1cce25	{fc(57e4f1)Les expliqué de nuevo a FB y a todos\nlo ocurrido hasta ayer.}
-180	f62fe862	{fc(57e4f1)Lo de Kirifuji... lo del tatuaje adhesivo...\ny cómo por eso el cuerpo de Defensa Especial se dividió.}
+180	f62fe862	{fc(57e4f1)Lo de Nozomi... lo del tatuaje adhesivo...\ny cómo por eso el cuerpo de Defensa Especial se dividió.}
 190	b2cced0f	Ya veo... entiendo la situación.\nPero déjenme decir una sola cosa.
 200	29f02db0	Esto no pasó por culpa de ti solo.\nYo también soy una de las semillas de la discordia.
-210	be018aa7	Además, como dijo Oosuzuki hace un momento,\ntodos están aquí por su propia convicción.
+210	be018aa7	Además, como dijo Kurara hace un momento,\ntodos están aquí por su propia convicción.
 213	a4a470e5	¡Así es!\n¡Eso de entrar enseguida en modo protagonista trágico es tu mal hábito, Sumino!
 215	582fa50d	¡Eso! Y ahora no es momento de solo ser pesimistas, ¿no?
 220	58274f66	Todos...
 225	2a30bef0	...Gracias.\nEs verdad, tienen razón.
 230	9ad65e19	Hay una montaña de problemas,\ny hay que pensar cómo resolverlos.
-240	e249aa91	Sí. Estar positivo es más propio de ti, Sumino.
-250	230feed0	Y justamente, uno de los problemas es el {fc(ff635b)"rechazo"} de Kirifuji...
+240	e249aa91	Sí. Estar positivo es más propio de ti, Takumi.
+250	230feed0	Y justamente, uno de los problemas es el {fc(ff635b)"rechazo"} de Nozomi...
 255	f9b8d860	vine a decirles cómo curarlo.
 260	e78dfbde	...¡¿Qué?!
 270	96890c96	¡¿De verdad se puede curar a Nozomi?!
@@ -44,7 +44,7 @@ id	huella_jp	es
 290	c92b2db7	¿Cómo?
 300	554378c3	¿Hay algún medicamento especial tremendo?
 310	505bf26f	Lo que hay que hacer es simple.
-320	13997f38	...Trasladar mi hemoánima a Kirifuji.
+320	13997f38	...Trasladar mi hemoánima a Nozomi.
 330	37e95e46	¿Trasladar la hemoánima...?
 340	23e4a7dd	¿Eso es posible?
 350	da45fba4	Debería. El principio es el mismo que absorber criptoglobina de un comandante.
@@ -53,7 +53,7 @@ id	huella_jp	es
 380	9c44d6ba	¡¡Qu...!!
 390	3745724d	Eso es...
 400	aa5574aa	¡Claro que no!\n¡¿Qué dices?!
-410	c432b39b	Kawana tiene razón. No pienso sacrificar a ningún compañero más.
+410	c432b39b	Tsubasa tiene razón. No pienso sacrificar a ningún compañero más.
 420	f29349f4	...Gracias. Sabía que ustedes dirían eso.
 430	d7ab29dd	Pero escuchen.
 440	336a1c71	Por el sobreesfuerzo cuando activé el misil...\nya no puedo manejar bien mi poder.
@@ -62,8 +62,8 @@ id	huella_jp	es
 470	51022a3b	Además, de todos modos\nestaba previsto que viviera solo hasta el Día 100.
 480	e7a2e3db	Lo de hasta ahora fue casi un milagro.
 490	2ae7db34	¡Pero aun así...!
-500	871225ec	Piénsalo con calma, Sumino. Ya no quedan otros comandantes.
-510	22e9b4b1	Kirifuji no tiene ni un día de margen, ¿verdad? Esta es la única manera.
+500	871225ec	Piénsalo con calma, Takumi. Ya no quedan otros comandantes.
+510	22e9b4b1	Nozomi no tiene ni un día de margen, ¿verdad? Esta es la única manera.
 520	f4a72a8b	
 530	1f7be3e5	...Te lo pido. No quiero arrepentirme.
 540	8c19dd39	Quiero dejarles algo a ustedes,\nque le dieron sentido a mi vida.
@@ -73,7 +73,7 @@ id	huella_jp	es
 580	98cc92cb	...No puedo decidir eso.
 590	32a82c03	Sé que les impongo una decisión dura.\nPero creo que es la mejor {fc(ff635b)"manera de usar mi vida"} que puedo.
 600	45952178	...Esta debe de ser mi última petición.
-610	a087548a	Sumino, ¿puedes decidir tú?
+610	a087548a	Takumi, ¿puedes decidir tú?
 620	d47f1c34	{fc(57e4f1)...¿Otra vez?}
 630	5fdb68ec	{fc(57e4f1)¿Otra vez tendré que sacrificar a alguien?}
 640	504023f5	{fc(57e4f1)Si se pudiera, querría huir.\nPero eso, eso jamás debo hacerlo.}

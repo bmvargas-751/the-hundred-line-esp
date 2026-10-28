@@ -1,8 +1,8 @@
 id	huella_jp	es
-10	3f56d3dc	Ah, buenos días, Sumino.
-20	1c6b28e2	¿Eh, Kirifuji...?
+10	3f56d3dc	Ah, buenos días, Takumi.
+20	1c6b28e2	¿Eh, Nozomi...?
 30	8b55f2e5	¿Eh? Tienes un grano de arroz en la mejilla.\n¡Qué despistado!
-40	870b4def	{fc(57e4f1)Dijo eso y Kirifuji quitó el grano de arroz,\ncon una linda sonrisa.}
+40	870b4def	{fc(57e4f1)Dijo eso y Nozomi quitó el grano de arroz,\ncon una linda sonrisa.}
 50	6a02af6d	{fc(57e4f1)Ese gesto me apretó el pecho.}
 60	aaa03f9c	{fc(57e4f1)Si no recuerdo mal, Karua me hizo lo mismo una vez:\nse rio diciendo "tienes comida en la cara"...}
 70	98bdf62c	¡Oye, tú!\n¡Acabas de tener una fantasía pervertida con Nozomi!
@@ -17,10 +17,10 @@ id	huella_jp	es
 160	bbfab10d	...Ya llegó.\nEl dato de voz de NIGOU.
 170	7f535b49	¿Eh, de verdad?
 180	f97b9ff5	Sí. Pensé que convenía oírlo cuando estemos todos,\nasí que aún no lo abrí...
-190	dfc6e1d5	Ah, Amemiya dijo que "falta por baja presión y depre".
-200	3243b1b9	Entonces con Sumino ya estamos todos: verifiquemos.\nTsubasa, por favor.
+190	dfc6e1d5	Ah, Darumi dijo que "falta por baja presión y depre".
+200	3243b1b9	Entonces con Takumi ya estamos todos: verifiquemos.\nTsubasa, por favor.
 210	8bc472c2	Entendido... reproduzco.
-220	6b825ac3	{fc(57e4f1)Kawana operó el panel...\ny enseguida empezó a sonar en la Sala de Guerra un audio con ruido.}
+220	6b825ac3	{fc(57e4f1)Tsubasa operó el panel...\ny enseguida empezó a sonar en la Sala de Guerra un audio con ruido.}
 230	de46e889	¡Estudiantes! Tengo algo que decirles.
 240	6e8579e3	Los invasores atacaron la Penúltima Academia de Defensa.\nUn gran ejército... seguro que van en serio con tomar esta escuela.
 250	c34b9976	Por suerte, ustedes están en la Última Academia de Defensa.\nPero... es cuestión de tiempo que descubran que esto es un señuelo.
@@ -40,7 +40,7 @@ id	huella_jp	es
 390	a621ad20	También hay que pensar en contramedidas.\nPero hay muchas diferencias con la historia anterior... ¿qué hago...?
 400	05244995	¿Por qué dudas?
 410	db04228c	Tú querías rehacer este pasado, ¿no?\nEntonces es natural que cambie.
-420	bc8eb285	Shizuhara...
+420	bc8eb285	
 430	58c83d0c	{fc(57e4f1)Sus palabras me hicieron reaccionar.}
 440	0cc95e1a	{fc(57e4f1)Es verdad... cambiar es lo correcto.\nPorque estoy rehaciendo una historia nueva.}
 450	738d7bb5	{fc(57e4f1)Lo importante es cómo sobrevivir todos.\n¡Tengo que cambiar el chip...!}

@@ -1,10 +1,10 @@
 id	huella_jp	es
 10	d48260e4	Viniste.
-20	9ffb32bd	Sumino...
+20	9ffb32bd	
 30	b3f44798	Ima, esto...
 40	9b96212a	¿Trajo la caja?
 50	31510258	Eso... es que... no la hemos\nencontrado...
-60	d964cd20	Yo me quedo de rehén en su lugar.\n¿Puedes liberar a Kirifuji?
+60	d964cd20	Yo me quedo de rehén en su lugar.\n¿Puedes liberar a Nozomi?
 70	4fe9b5bd	Puedes hacer conmigo lo que quieras.
 80	0866f3ae	...Haah.
 90	81110793	¿Entiende la situación, Sr. Sumino?
@@ -24,7 +24,7 @@ id	huella_jp	es
 230	26805ab5	¿Q-Qué pasa...?
 240	b20bc88a	{fc(57e4f1)Los dos de pronto se quedaron atónitos...}
 250	ebb57524	O-Oigan, ¿qué les pasa...?
-260	0a3f9b0d	...Sumino.
+260	0a3f9b0d	...Takumi.
 270	810980bd	Esa persona de atrás... ¿quién es...?
 280	57c811bd	¿Eh...?
 290	3c819df5	
@@ -38,7 +38,7 @@ id	huella_jp	es
 370	2729164a	¿Qué está pasando——
 380	19c8181e	——¡Gah!
 390	94714c4b	Qué manera de hacer las cosas...
-400	e505b03b	¡Shizuhara!
+400	e505b03b	¡Hiruko!
 410	7588c2a7	{fc(57e4f1)Entró rompiendo el vidrio de la ventana\ny le dio un golpe a Ima...}
 420	02069717	Gracias por venir, Shizuhara.
 430	ae77f3d0	Con tantos descuidos, lo demás es fácil.
@@ -54,7 +54,7 @@ id	huella_jp	es
 530	e11c1452	¿Estás bien? ¿Puedes moverte?
 540	87e9be4d	S-Sí... estoy bien...
 550	0d33c8f0	Te acompaño a tu cuarto.
-560	b1dcd6c2	Sumino, encárgate de lo de Ima.
+560	b1dcd6c2	Takumi, encárgate de lo de Ima.
 570	b0c71e33	Sí, entendido.
 580	bb8e7016	{fc(57e4f1)Le confisqué la navaja mariposa.\nIma, al corral.}
 590	36ed7647	{fc(57e4f1)Y... ¿qué hago con esta caja?}

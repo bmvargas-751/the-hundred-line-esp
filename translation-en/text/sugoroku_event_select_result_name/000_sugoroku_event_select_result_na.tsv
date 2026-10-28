@@ -221,12 +221,12 @@ id	huella_jp	es
 30212	32fd4a79	Partí la piedra sagrada, pero no pasó nada.\nQué bueno que no nos cayó una maldición...
 30221	39647d23	Le dejé una ofrenda a la piedra sagrada...\n¡la piedra se estremeció y soltó una piedra bonita!\nParece que le gustó la ofrenda.
 30222	1763931c	Le dejé una ofrenda a la piedra sagrada...\n¡y nos llovieron piedras encima y salí herido!\nParece que la ofrenda no le gustó...
-30231	f59ab711	¡¡Zas!!\n¡La Espada Sagrada Jumonji de Magadori partió la\npiedra sagrada junto con el espíritu maligno!
+30231	f59ab711	¡¡Zas!!\n¡La Espada Sagrada Jumonji de Kyoshika partió la\npiedra sagrada junto con el espíritu maligno!
 30311	74a5ae40	Encontré una piedra transparente.\nParece que servirá como material.
 30312	107b2b84	¡Al entrar en la tienda se\nactivó el sistema de seguridad!\n¡Una bala disparada por una\nmáquina le dio a {chr}...!
 30321	2850db98	Quizá el sistema de seguridad siga funcionando.\nMejor no entrar sin pensarlo.
 30322	81de0a09	¡De pronto se abrió la puerta de la tienda!\n¡Un invasor escondido adentro nos atacó!
-30331	41bf85a8	Sin que nadie se diera cuenta, Maruko\nhabía sacado joyas de la tienda.\nPor supuesto, se las confiscamos.
+30331	41bf85a8	Sin que nadie se diera cuenta, Gaku\nhabía sacado joyas de la tienda.\nPor supuesto, se las confiscamos.
 30411	c5e7fa15	Tiré de la tapa con todas mis\nfuerzas... ¡y rompí la cerradura!\nY adentro había... ¡un diamante!
 30412	889f95a0	¡Tiré de la tapa con todas mis fuerzas!\n...Pero no se movió ni un poco.\nGasté fuerzas para nada...
 30421	cf29df26	Forcé la cerradura con las herramientas que tenía...\n¡y logré abrirla!\nY adentro había... ¡un diamante!
@@ -235,7 +235,7 @@ id	huella_jp	es
 30512	949dd29c	Cavé con paciencia en la pared\nde roca con el pico, pero...\npor desgracia, no encontré nada.
 30521	fd70f4fe	¡¡¡¡BUUUUUM!!!!\n¡Al volar la pared de roca, encontré un mineral raro!
 30522	343cc076	¡¡CATAPLÚN!!\nLa dinamita era demasiado potente\ny el techo se vino abajo...
-30531	ec0e2765	Oosuzuki cavó la pared de roca con\nla pala de su arma de clase...\n¡y nos encontró un mineral raro!
+30531	ec0e2765	Kurara cavó la pared de roca con\nla pala de su arma de clase...\n¡y nos encontró un mineral raro!
 30611	71b74816	Es una piedra de lo más común.\nNo parece que valga mucho, pero servirá como material.
 30612	8ff9109d	Apenas toqué las piedras apiladas...\nse vinieron abajo de golpe\ny {chr} salió herido...
 30621	b809a631	Presioné un interruptor que encontré...\n¡y los equipos del laboratorio se pusieron\nen marcha y crearon un mineral raro!
@@ -280,7 +280,7 @@ id	huella_jp	es
 31612	a3b9db94	Es inútil... ¡No tengo adónde huir!\nPor perder el tiempo, la roca gigante me aplastó...
 31621	d859a077	Bajé corriendo la cuesta\n¡y logré escapar de la roca gigante!
 31622	3576a815	Bajé la cuesta corriendo a toda prisa, pero...\nla roca gigante me alcanzó a\nmitad de camino y me aplastó...
-31631	ed3fa96a	¡¡PUM!! ¡La bola de hierro de Mojiro le dio\nde lleno a la roca gigante! La roca se hizo añicos.
+31631	ed3fa96a	¡¡PUM!! ¡La bola de hierro de Moko le dio\nde lleno a la roca gigante! La roca se hizo añicos.
 31711	70a0b2ac	¡Sabía que era un invasor!\nEl invasor que tiró la piedra\nnos atacó con sus compañeros.
 31712	0289b0e2	¡Sabía que era un invasor!\nLo perseguí con todo, pero se escapó.\nGasté fuerzas para nada...
 31721	d8ffab30	Cuando quise seguir,\nun mono nos tiró piedras y se fue.\nQuizá este es el territorio de ese mono...
@@ -327,8 +327,8 @@ id	huella_jp	es
 40112	446671b4	Corté un cable al azar...\n¡¡¡¡BUM!!!!\nLa bomba explotó...
 40121	71653f05	Decidí alejarme de la bomba lo más rápido posible.\nCorrí con todo y me salvé de la explosión.
 40122	bcd8bb31	Parece que tardé un poco en decidir.\nLa onda expansiva me alcanzó y me quemé...
-40131	0fee36fb	¡Kawana, que sabe de máquinas,\ndesactivó la bomba con destreza!\nMe llevo la bomba desactivada como material.
-40132	de67cc59	Kawana se puso tan nerviosa que vomitó sobre la bomba.\n¡¡¡¡BUM!!!!\nSe acabó el tiempo y la bomba explotó...
+40131	0fee36fb	¡Tsubasa, que sabe de máquinas,\ndesactivó la bomba con destreza!\nMe llevo la bomba desactivada como material.
+40132	de67cc59	Tsubasa se puso tan nerviosa que vomitó sobre la bomba.\n¡¡¡¡BUM!!!!\nSe acabó el tiempo y la bomba explotó...
 40211	4a6bbfe9	Clac, clac... ¡pop!\nSalieron unas piezas de chatarra.
 40212	1550f16f	Clac, clac... ¡pop!\nSalieron unas piezas de chatarra algo raras.
 40221	08c9db18	¡Pum, pum... pop!\nCon la patada, salieron unas piezas de chatarra.
@@ -341,7 +341,7 @@ id	huella_jp	es
 40412	816141bf	Apenas forcé la puerta del conductor...\n¡Bzz...! ¡Me recorrió una descarga eléctrica!\nParece que la seguridad seguía funcionando...
 40421	3dc11bbe	El maletero estaba lleno de piezas rotas.\nMe las llevo como material.
 40422	64245cb1	En el maletero...\n¡había un invasor escondido!
-40431	5ffd8583	Kawana reparó el auto.\nAnduvo un rato y luego dejó de funcionar del todo.
+40431	5ffd8583	Tsubasa reparó el auto.\nAnduvo un rato y luego dejó de funcionar del todo.
 40511	82dc7c74	Entré en la cabina y presioné botones al azar.\n¡Esto... se mueve!\nEl robot gigante se puso de pie y dio unos pasos.
 40512	1e7e5f8a	Entré en la cabina y presioné botones al azar.\nEl cañón vulcan de la cabeza abrió fuego y barrió los escombros.\n...Ahora se ve todo mejor y es más fácil explorar.
 40521	7f32aaf6	No entiendo para nada cómo funciona, pero parece\nun reactor increíble. Me lo llevo como material.
@@ -435,12 +435,12 @@ id	huella_jp	es
 50112	495df812	Aparté los escombros con todas mis fuerzas...\n¡y apareció una piedra de brillo rojo!\nPero me cansé tanto apartándolos que quedé agotado...
 50121	76d7d8ba	Metí la mano entre los escombros...\n¡y atrapé con la punta de los\ndedos una piedra de brillo rojo!
 50122	0ca45e1d	Metí la mano entre los escombros\n¡y conseguí la piedra brillante!\nPero de pronto los escombros se derrumbaron...\ny salí muy herido.
-50131	6c950927	Gracias a que Ginzaki quitó los escombros,\n¡pude conseguir el cristal que había al fondo!
+50131	6c950927	Gracias a que Shouma quitó los escombros,\n¡pude conseguir el cristal que había al fondo!
 50211	c254e416	¡Pum!\n...El resultado fue regular.
 50212	14dc45e1	¡Paf!\n...Quizá golpeé mal,\nporque me lastimé el puño.
 50221	ead35ad5	La máquina hizo sonar una alarma...\n¡y los invasores acudieron al oírla!
 50222	f8fa1785	¡¡¡¡PUM!!!!\n¡Saqué la puntuación máxima de la máquina!
-50231	e17101fc	¡¡¡¡PUM!!!!\n¡El golpe de Mojiro sacó la puntuación máxima!
+50231	e17101fc	¡¡¡¡PUM!!!!\n¡El golpe de Moko sacó la puntuación máxima!
 50232	62d7efd9	¡¡¡¡BUM!!!!\nEra tanta fuerza que la máquina explotó.\nUn desastre que no se arregla con un "perdoncito"...
 50311	2aa40ecd	¡Salté con éxito\ny pude seguir adelante!
 50312	78136c38	¡Por muy poco no llegué a la otra orilla!\nMe caí al río...\n¡pero en el fondo encontré una piedra de brillo rojo!
@@ -486,7 +486,7 @@ id	huella_jp	es
 51312	c4d5166c	Quise rematarlo de una vez, pero...\n¡el oso se puso furioso, como en\nun último intento por resistir!
 51321	9e0980d0	No hay tiempo para ocuparse del oso.\nMejor ignorarlo y seguir.
 51322	9acb40f8	Quise ignorarlo y seguir, pero...\n¡sin darme cuenta, estaba rodeado de invasores!\nParece que el oso estaba peleando contra los invasores.
-51331	b2ad4019	Kirifuji lo curó y el oso volvió al bosque.\nJusto antes de irse, el oso soltó una piedra brillante.\nEsto... ¿será su forma de dar las gracias?
+51331	b2ad4019	Nozomi lo curó y el oso volvió al bosque.\nJusto antes de irse, el oso soltó una piedra brillante.\nEsto... ¿será su forma de dar las gracias?
 51411	9e64d5a4	Volví a ser niño y me columpié como loco.\nPero poco a poco me fui sintiendo vacío.\nA mi edad, ¿qué estoy haciendo...?
 51412	ea73d9c7	Volví a ser niño y me columpié como loco.\nMe dio un poco de nostalgia.
 51421	2f16038f	Volví a ser niño y me puse a cavar en la arena como\nloco... ¡y del fondo salió una piedra de brillo rojo!
@@ -553,7 +553,7 @@ id	huella_jp	es
 60512	18dcd32a	Trepé por el tronco para alcanzar las manzanas...\n¡Pum!\nSe me resbaló la mano y me caí del árbol.
 60521	8b91ff34	Sacudí el tronco con fuerza...\n¡y de una rama cayó una manzana!
 60522	0be5fb48	Sacudí el tronco con fuerza...\n¡y de una rama cayó una serpiente!
-60531	367b91e9	Shizuhara blandió su hacha...\n¡Pum!\nPartió el tronco de un solo\ntajo y conseguimos manzanas.
+60531	367b91e9	Hiruko blandió su hacha...\n¡Pum!\nPartió el tronco de un solo\ntajo y conseguimos manzanas.
 80111	ac314903	Me escondí detrás de una roca\nhasta que pasó la niebla.\nGracias al descanso, recuperé fuerzas.
 80112	8765a04d	No encontraba dónde esconderme...\nDe tanto andar sin rumbo,\nla niebla me dejó empapado de pies a cabeza.
 80121	7c6541c9	Seguí explorando\ny la niebla se disipó: ahora se ve mejor.\nAsí será más fácil buscar materiales.
@@ -602,11 +602,11 @@ id	huella_jp	es
 90512	6959a259	Me costó, pero aparté la roca...\n¡y brotó con fuerza agua termal!\nMe di un baño termal y renové cuerpo y mente.
 90521	5cf06e1e	Destruí la roca con mi arma de clase...\n¡y brotó con fuerza agua termal!\nMe di un baño termal y renové cuerpo y mente.
 90522	fb1835eb	Destruí la roca con mi arma de clase...\n¡y me lastimaron los pedazos\nde roca que salieron volando!
-1020111	a742878e	¡Yakushiji le dio a la bola con el centro del bate!\n¡¡¡¡CRAC!!!!\nFue un jonrón espectacular y se ganó un premio.
-1020112	e2f5137e	Yakushiji falló el golpe y solo cortó el aire.\nHizo un swing tan exagerado que el bate se le soltó\ny le dio a {chr}.
+1020111	a742878e	¡Takemaru le dio a la bola con el centro del bate!\n¡¡¡¡CRAC!!!!\nFue un jonrón espectacular y se ganó un premio.
+1020112	e2f5137e	Takemaru falló el golpe y solo cortó el aire.\nHizo un swing tan exagerado que el bate se le soltó\ny le dio a {chr}.
 1020121	7b1dde44	La bola rodó por buen lugar y fue un hit. No fue\nun jonrón, pero le dieron el premio al esfuerzo.
 1020122	9a378b05	Buscó el contacto, pero la\nbola fue un elevado fácil.\nTerminó con un resultado decepcionante.
-1020131	fffa6418	¡Gracias a su vista entrenada, Yakushiji\nvio venir un lanzamiento fácil! ¡¡¡¡CRAC!!!!\nFue un jonrón espectacular y se ganó un premio.
+1020131	fffa6418	¡Gracias a su vista entrenada, Takemaru\nvio venir un lanzamiento fácil! ¡¡¡¡CRAC!!!!\nFue un jonrón espectacular y se ganó un premio.
 1020211	4c5d7d01	Apenas cambió el motor,\n¡la moto se descontroló y\nsalió hacia donde no debía!\n¡Esperaaa!
 1020212	6ea0d411	El motor nuevo echó fuego,\ny no es una forma de decir. Nadie salió herido,\npero parece que se nos chamuscaron algunas cosas.
 1020221	1fdaa48d	¡Las llantas modificadas\nvan triturando el suelo como una perforadora!\nBajo el suelo destrozado encontramos materiales enterrados.
@@ -617,48 +617,48 @@ id	huella_jp	es
 1020312	9c630f1b	Me comí el pan con flan en lugar de carne.\nEl jugo de carne y el kétchup no pegan nada con el flan.\nMe sentí mal.
 1020321	a994ac4f	Curry y flan: lo mejor combinado con lo mejor\nen un plato definitivo. De milagro, quedó riquísimo.
 1020322	93480690	Curry y flan: lo mejor\ncombinado con lo mejor en un plato definitivo.\n...Como era de esperarse, no había quién se lo comiera.
-1020331	bd0bccaf	El flan es mejor solo. Yakushiji no parecía\nmuy contento, pero nos comimos el flan con gusto.
-1020332	d0034710	Quise quitarle el flan, pero\nYakushiji se resistió\ny el flan terminó en el suelo.
-1030111	e028ff8a	Shizuhara estaba sacando\nmateriales de una planta rara.\nComo si hubiera sabido desde el principio\nque aquí había materiales.
-1030112	ffc3d354	Mientras buscaba a Shizuhara,\nlos invasores me descubrieron.\nShizuhara oyó el alboroto y vino corriendo.
-1030121	91f553bf	A veces Shizuhara también querrá estar sola.\nUnos minutos después, Shizuhara volvió.\nParece que recogió materiales por el camino.
-1030122	a3e43dd6	Unos minutos después, Shizuhara volvió.\nParece que fue a buscar materiales,\npero no encontró nada.
-1030211	030e9914	Shizuhara aniquiló a los invasores casi ella sola.\nEntre los restos despedazados encontramos materiales.
-1030212	968a64d0	Shizuhara blandió el hacha con tanta fuerza\nque se derrumbaron los escombros de alrededor\ny nos aplastaron, junto con los invasores.
-1030221	b4c68342	Hay que evitar las peleas inútiles.\nConvencí a Shizuhara y nos fuimos de ahí.
-1030222	90927c1b	Discutí con Shizuhara, que insistía\nen que hay que exterminar las plagas. Hicimos\ntanto ruido que los invasores nos descubrieron.
+1020331	bd0bccaf	El flan es mejor solo. Takemaru no parecía\nmuy contento, pero nos comimos el flan con gusto.
+1020332	d0034710	Quise quitarle el flan, pero\nTakemaru se resistió\ny el flan terminó en el suelo.
+1030111	e028ff8a	Hiruko estaba sacando\nmateriales de una planta rara.\nComo si hubiera sabido desde el principio\nque aquí había materiales.
+1030112	ffc3d354	Mientras buscaba a Hiruko,\nlos invasores me descubrieron.\nHiruko oyó el alboroto y vino corriendo.
+1030121	91f553bf	A veces Hiruko también querrá estar sola.\nUnos minutos después, Hiruko volvió.\nParece que recogió materiales por el camino.
+1030122	a3e43dd6	Unos minutos después, Hiruko volvió.\nParece que fue a buscar materiales,\npero no encontró nada.
+1030211	030e9914	Hiruko aniquiló a los invasores casi ella sola.\nEntre los restos despedazados encontramos materiales.
+1030212	968a64d0	Hiruko blandió el hacha con tanta fuerza\nque se derrumbaron los escombros de alrededor\ny nos aplastaron, junto con los invasores.
+1030221	b4c68342	Hay que evitar las peleas inútiles.\nConvencí a Hiruko y nos fuimos de ahí.
+1030222	90927c1b	Discutí con Hiruko, que insistía\nen que hay que exterminar las plagas. Hicimos\ntanto ruido que los invasores nos descubrieron.
 1030311	d848e82d	Me fui agarrando de las ramas y subí al árbol.\nLo que brillaba era un fruto raro.
 1030312	108ebc93	Pisé mal y me caí del árbol.
 1030321	459dc5e6	Sacudí el árbol con fuerza\ny desde arriba cayó un fruto.
 1030322	e52e718b	Sacudí el árbol con fuerza y desde\narriba cayeron montones de orugas.
-1030331	fb67e695	Shizuhara blandió su hacha enorme y taló el árbol.\nGracias a ella, podemos sacar\nel material sin peligro.
+1030331	fb67e695	Hiruko blandió su hacha enorme y taló el árbol.\nGracias a ella, podemos sacar\nel material sin peligro.
 1040111	31101ebe	{chr} perdió en piedra, papel o tijera y no tuvo más remedio\nque meter la mano. Con el brazo herido,\nlogró sacar la joya del fondo.
 1040121	11366305	No hay garantía de que sea algo valioso.\nDecidí que no valía la pena el riesgo\ny me fui.
-1040131	013f620a	Esto lo vi en la segunda película de cierta saga\nde juegos mortales. Amemiya metió la mano sin dudar\nen la pila de jeringas y, al parecer, sacó la joya\nsin un rasguño. ...Así que el impulso importa, ¿eh?
+1040131	013f620a	Esto lo vi en la segunda película de cierta saga\nde juegos mortales. Darumi metió la mano sin dudar\nen la pila de jeringas y, al parecer, sacó la joya\nsin un rasguño. ...Así que el impulso importa, ¿eh?
 1040211	597678b0	Cañón en la sien... y a apretar el gatillo.\n...Clic.\nTras salir con vida, me siento extrañamente seguro.\nAhora creo que podré explorar con más eficiencia.
 1040212	08e20f21	Cañón en la sien... y a apretar el gatillo.\n...¡¡BANG!!\nLa cabeza de {chr} voló en pedazos.
-1040221	bdb9bfbf	No quiero desperdiciar la vida en un juego. Calmé a\nAmemiya, que no estaba nada contenta, y nos fuimos.
-1040222	114129d0	Amemiya, enfurruñada, tiró el revólver...\n...¡¡BANG!!\nEl revólver se disparó al golpear el suelo.
-1040311	71f8a5b5	Poner veneno en una de dos copas y que el otro elija.\nJugar a este juego mortal rapidito animó a Amemiya.
-1040312	de6da032	Poner veneno en una de dos copas y que el otro elija.\nJugar a este juego mortal rapidito animó a Amemiya.\nEl que se llevó el veneno fue Sumino.
-1040321	4a1df57e	Gracias al polvo blanco (polvo de golosina feliz),\nAmemiya se puso feliz por un rato.\n...Ojalá no cree adicción.
-1040322	4652abea	Amemiya aspiró demasiado polvo blanco\n(polvo de golosina feliz), se puso demasiado feliz\ny se fue por ahí. ...Vamos a buscarla.
+1040221	bdb9bfbf	No quiero desperdiciar la vida en un juego. Calmé a\nDarumi, que no estaba nada contenta, y nos fuimos.
+1040222	114129d0	Darumi, enfurruñada, tiró el revólver...\n...¡¡BANG!!\nEl revólver se disparó al golpear el suelo.
+1040311	71f8a5b5	Poner veneno en una de dos copas y que el otro elija.\nJugar a este juego mortal rapidito animó a Darumi.
+1040312	de6da032	Poner veneno en una de dos copas y que el otro elija.\nJugar a este juego mortal rapidito animó a Darumi.\nEl que se llevó el veneno fue Sumino.
+1040321	4a1df57e	Gracias al polvo blanco (polvo de golosina feliz),\nDarumi se puso feliz por un rato.\n...Ojalá no cree adicción.
+1040322	4652abea	Darumi aspiró demasiado polvo blanco\n(polvo de golosina feliz), se puso demasiado feliz\ny se fue por ahí. ...Vamos a buscarla.
 1050111	9686071a	Asé el hongo y lo probé.\nE-Esto... ¡¡está buenísimo!!
 1050112	ed2692d4	Asé el hongo y lo probé.\nE-Esto... tengo el cuerpo\nentumecido y no puedo moverme.\nParece que era un hongo venenoso.
 1050121	b84e979c	Comer algo que no conozco es peligroso.\nDesistí de comer el hongo y me fui.
-1050131	329c0c30	Parece que Aotsuki vio este hongo en un libro.\nAl parecer, es de los comestibles.\nAsamos el hongo y estaba delicioso.
-1050132	4821a1d0	Parece que Aotsuki vio este hongo en un libro.\nEs venenoso, pero procesado sirve como material valioso.\nPor si acaso, lo recolecté.
-1050211	d9de999b	Parece que es el tipo de juego que mejor\nse le da a Aotsuki. Movió los bloques\ncon decisiones precisas y batió el récord.
-1050212	07a102a9	Parece que es el tipo de juego que mejor se le da\na Aotsuki. Movió los bloques con decisiones precisas\ny no paraba de batir el récord. Pero sumó tantos puntos\nque el contador se desbordó y la máquina se rompió.
-1050221	2c3ecff4	Parece que a Aotsuki le encantó este juego.\nExterminó humanos a gusto y batió el récord por goleada.
-1050222	0d39de55	Parece que a Aotsuki le encantó este juego.\nSe concentró tanto que no se dio cuenta\nde que los invasores nos habían rodeado.
-1050231	83696842	Parece que no es el tipo de juego que le gusta a Aotsuki.\nAun así, lo superó sin problemas y batió el récord.
-1050232	ff4753f6	Parece que no es el tipo de juego que le gusta a Aotsuki.\nAntes de batir el récord,\nse aburrió del juego.
+1050131	329c0c30	Parece que Eito vio este hongo en un libro.\nAl parecer, es de los comestibles.\nAsamos el hongo y estaba delicioso.
+1050132	4821a1d0	Parece que Eito vio este hongo en un libro.\nEs venenoso, pero procesado sirve como material valioso.\nPor si acaso, lo recolecté.
+1050211	d9de999b	Parece que es el tipo de juego que mejor\nse le da a Eito. Movió los bloques\ncon decisiones precisas y batió el récord.
+1050212	07a102a9	Parece que es el tipo de juego que mejor se le da\na Eito. Movió los bloques con decisiones precisas\ny no paraba de batir el récord. Pero sumó tantos puntos\nque el contador se desbordó y la máquina se rompió.
+1050221	2c3ecff4	Parece que a Eito le encantó este juego.\nExterminó humanos a gusto y batió el récord por goleada.
+1050222	0d39de55	Parece que a Eito le encantó este juego.\nSe concentró tanto que no se dio cuenta\nde que los invasores nos habían rodeado.
+1050231	83696842	Parece que no es el tipo de juego que le gusta a Eito.\nAun así, lo superó sin problemas y batió el récord.
+1050232	ff4753f6	Parece que no es el tipo de juego que le gusta a Eito.\nAntes de batir el récord,\nse aburrió del juego.
 1050311	2f9a0507	Tiene un mapa de esta zona.\nPude entender el terreno de los alrededores,\nasí que podremos avanzar sin problemas.
 1050321	705510ab	Trae fotos de los minerales que\nse pueden recolectar cerca.\nCon esto, la exploración será más fácil.
 1050331	233a01c2	Me quedé embobado mirando los dibujos y,\ncuando me di cuenta, había pasado un buen rato.\nHay que volver rápido a explorar.
-1060111	a67571e1	Kawana maneja la excavadora\ny va picando las rocas de alrededor.\nEntre las rocas encontramos minerales valiosos.
-1060112	e1ea1c65	Kawana maneja la excavadora\ny va picando las rocas de alrededor.\nDe entre las rocas salieron unos invasores.
+1060111	a67571e1	Tsubasa maneja la excavadora\ny va picando las rocas de alrededor.\nEntre las rocas encontramos minerales valiosos.
+1060112	e1ea1c65	Tsubasa maneja la excavadora\ny va picando las rocas de alrededor.\nDe entre las rocas salieron unos invasores.
 1060121	f9f760c9	Si la toco sin cuidado y provoco un derrumbe, sería grave.\nMejor la ignoro y sigo adelante.
 1060211	fd583576	El auto viejo arrancó sin problemas.\nParece que nos servirá para movernos.
 1060212	8a62d57d	Parece que era demasiado viejo.\nAl subirnos, empezó a salir humo negro.\nAl escapar, se me cayeron algunas cosas.
@@ -675,11 +675,11 @@ id	huella_jp	es
 1070122	f2566ac8	Me cayó mal al estómago.\nParece que el aceite que usó estaba viejo.
 1070211	e06f023f	Saqué tierra del río.\nAl quitar la grava, pude sacar unos granos dorados.\nNo es polvo de oro, pero parece que servirá como material.
 1070212	b59a4a7d	Saqué tierra del río.\nEstuve un buen rato buscando en el agua,\npero no encontré polvo de oro. Y encima me resfrié.
-1070221	635bd288	Seguro que Maruko se dejó cegar por el oro\ny vio visiones. Mejor lo ignoro y sigo adelante.
-1070311	070995af	Al rato, Maruko volvió.\nParece que lo que vio era un póster pegado en una pared.
-1070312	e955b511	Al rato, Maruko volvió.\nParece que lo vienen persiguiendo unos invasores.
-1070321	2d11e161	Andar solo es peligroso.\nLe hice una llave por la espalda\na Maruko y logré detenerlo.
-1070322	f4999e9c	Andar solo es peligroso.\nCuando quise detener a Maruko, se resistió y me caí.\nMe lastimé...
+1070221	635bd288	Seguro que Gaku se dejó cegar por el oro\ny vio visiones. Mejor lo ignoro y sigo adelante.
+1070311	070995af	Al rato, Gaku volvió.\nParece que lo que vio era un póster pegado en una pared.
+1070312	e955b511	Al rato, Gaku volvió.\nParece que lo vienen persiguiendo unos invasores.
+1070321	2d11e161	Andar solo es peligroso.\nLe hice una llave por la espalda\na Gaku y logré detenerlo.
+1070322	f4999e9c	Andar solo es peligroso.\nCuando quise detener a Gaku, se resistió y me caí.\nMe lastimé...
 1080111	964658e9	Siento que mi cuerpo creció una talla.\nAhora podría cargar cualquier\ncosa, por pesada que sea.
 1080121	88cdb7a2	Pica... pica demasiado.\nCreí que iba a escupir fuego.\nMe llevo esta flor como material.
 1080131	702c69f1	Mi cuerpo brilla y siento que me volví invencible.\nAhora podría correr lejos sin\npreocuparme por los enemigos.
@@ -708,21 +708,21 @@ id	huella_jp	es
 1090312	adcc5ec3	Salimos a toda prisa de las ruinas. En el camino,\nse me enredaron los pies y me di un buen golpe.
 1090321	4ca9472a	No pasó nada en particular.\nParece que la premonición de Kako falló.
 1090322	354c51c1	Las viejas ruinas se derrumbaron.\nDebimos hacerle caso a la premonición de Kako.
-1100111	845272be	Sacamos a Ginzaki del agujero.\nSiento que superar esta dificultad unió más al grupo.
-1100112	0b6f05fc	Quise sacar a Ginzaki del agujero,\npero sin querer yo también me caí.
-1100121	c994bedb	Le di ánimos a Ginzaki,\nque se motivó y salió del agujero de un salto.
+1100111	845272be	Sacamos a Shouma del agujero.\nSiento que superar esta dificultad unió más al grupo.
+1100112	0b6f05fc	Quise sacar a Shouma del agujero,\npero sin querer yo también me caí.
+1100121	c994bedb	Le di ánimos a Shouma,\nque se motivó y salió del agujero de un salto.
 1100211	cc043086	No encontramos al animalito,\npero sí lo que parece su madriguera.\nAdentro encontramos un material que podría servir.
 1100212	6319aa73	Vi una sombra que parecía de un animalito y la perseguí,\npero era un invasor.
-1100221	bbd4a80d	No podemos correr riesgos por un capricho de Ginzaki.\nMejor ignoramos al animalito y seguimos adelante.
+1100221	bbd4a80d	No podemos correr riesgos por un capricho de Shouma.\nMejor ignoramos al animalito y seguimos adelante.
 1100311	ffe21b12	Al pasar por el pasillo, salieron\npúas y láseres de las paredes.\nLogré esquivarlos y conseguir los suministros.
 1100312	46de12fb	Al pasar por el pasillo, salieron\npúas y láseres de las paredes.\nMe dieron de lleno, pero logré conseguir los suministros.
 1100321	4927669c	Quién sabe qué trampas se activarán.\nMejor no arriesgarse y dar media vuelta.
-1100331	d64f12d2	Al pasar por el pasillo, salieron púas y láseres de las\nparedes. Ginzaki se asustó un poco, pero los aguantó\ncon su enorme defensa y consiguió los suministros.
+1100331	d64f12d2	Al pasar por el pasillo, salieron púas y láseres de las\nparedes. Shouma se asustó un poco, pero los aguantó\ncon su enorme defensa y consiguió los suministros.
 1110111	16ed64d0	Descansé un poco y me sentí mejor. Sigamos explorando.
 1110112	3155e7c9	Mientras descansábamos, nos descubrieron unos invasores.
 1110121	fb93d303	Esto no es nada.\nSeguí explorando a pura fuerza de voluntad.
 1110122	87b11524	Quise seguir explorando a pura fuerza de voluntad,\npero me sentí aún peor.
-1110131	9500a780	Gracias a los cuidados de Kirifuji,\nme recuperé por completo.\n¡Y además me volvieron las ganas!
+1110131	9500a780	Gracias a los cuidados de Nozomi,\nme recuperé por completo.\n¡Y además me volvieron las ganas!
 1110211	04f98313	Quedó lista una bebida energética.\nCon esto podríamos seguir explorando\ndos o tres noches sin dormir.
 1110212	0e348a6c	La mezcla explotó.\nParece que la preparación salió mal.
 1110221	716707e3	Quedó listo un acelerador de crecimiento para plantas.\nParece que servirá para recolectar materiales.
@@ -740,59 +740,59 @@ id	huella_jp	es
 1120121	938aa129	Quedó un curry estimulante con especias nuevas.\nPicaba de verdad, pero me despejó la cabeza.\nParece que podremos explorar con más eficiencia.
 1120122	69c617f9	En el curry de la familia Oosuzuki,\nel fuego es lo más importante.\nMientras el curry se cocinaba a fuego lento,\nlos invasores nos atacaron.
 1120131	5a2863d6	No es momento de preparar curry.\nSigamos adelante rápido.
-1120211	d189f754	Logré recuperar la máscara, que iba rodando.\nCon la máscara de vuelta, Oosuzuki\ntiene más ganas que nunca.
+1120211	d189f754	Logré recuperar la máscara, que iba rodando.\nCon la máscara de vuelta, Kurara\ntiene más ganas que nunca.
 1120212	7c1df8c1	La máscara rueda hacia un agujero en el suelo.\nNo pude frenar a tiempo y me\ncaí al agujero junto con ella.
 1120221	d7af264a	Le hice agujeros a una bolsa de\npapel y se la puse a Oosuzuki.\nParece que se recuperó un poco.\nAprovechemos para ir a buscar la máscara de verdad.
-1120222	85a52e78	Dejar así a Oosuzuki es peligroso.\nLe puse en la cabeza un cono de tránsito\nque había cerca. Se enojó y me dio un golpe.
+1120222	85a52e78	Dejar así a Kurara es peligroso.\nLe puse en la cabeza un cono de tránsito\nque había cerca. Se enojó y me dio un golpe.
 1120311	13e119c5	Desarmé el lanzacohetes y me quedé\ncon el mecanismo de disparo.
 1120312	54342fb4	El lanzacohetes se disparó solo y me alcanzó la explosión.
 1120321	a8ccda40	Le arranqué el blindaje al vehículo blindado.\nConseguí piezas que pueden servir.
 1120322	f9c5625e	Por algún motivo, el motor arrancó\ny el vehículo blindado se descontroló y me arrolló.
 1120331	45a1ca07	Saqué el procesador de la computadora\nque controla el misil teledirigido.
 1120332	74212999	Por un error, el misil se disparó.\nY ahora, descontrolado, viene cayendo hacia nosotros...
-1130111	d93a4ba4	"¡Florece en frenesí, Espada Sagrada Jumonji!".\n...No pasó nada en particular, pero\nle salió con estilo, así que\nMagadori está satisfecha.
+1130111	d93a4ba4	"¡Florece en frenesí, Espada Sagrada Jumonji!".\n...No pasó nada en particular, pero\nle salió con estilo, así que\nKyoshika está satisfecha.
 1130112	7ee77b33	Parece que la Espada Sagrada\nJumonji está de mal humor:\nMagadori la llamó y no le hizo caso.
 1130121	ead9de90	A Magadori se le agudizaron los sentidos y creyó ver\nel hilo que marcaba la trayectoria de su corte...\npero solo era una telaraña que se le había pegado.
-1130122	c99e095d	Por probar una técnica de respiración\na la que no está acostumbrada, Magadori se atragantó.
-1130131	512a4eaa	Para el estilo de tres espadas, hacen falta más espadas.\nMagadori se puso en la boca una rama que encontró\npor ahí. ...No parece que vaya a servir en combate.
+1130122	c99e095d	Por probar una técnica de respiración\na la que no está acostumbrada, Kyoshika se atragantó.
+1130131	512a4eaa	Para el estilo de tres espadas, hacen falta más espadas.\nKyoshika se puso en la boca una rama que encontró\npor ahí. ...No parece que vaya a servir en combate.
 1130132	006ea507	Intentó sostener de verdad la espada con la boca. Le\ndolieron tanto los dientes que no aguantó ni un segundo.
-1130211	24a8b2c8	Magadori se animó: mientras no sea de grado especial,\npuede derrotarlo ella misma.\nGracias a eso, pudimos explorar la mansión a fondo.
-1130212	a5566dd2	Magadori se acobardó: como no fue a la Escuela Técnica,\ncon los espíritus malditos no puede.\nMientras dudaba, nos descubrieron unos invasores.
-1130221	bbf821f0	Gogogogogo...\nUna tensión misteriosa recorre a Magadori.\nGracias a eso, exploramos la mansión\nsin que nos viera el enemigo.
-1130222	4b9df999	Los Stands solo los pueden ver los usuarios de Stand...\n¿Acaso la Espada Sagrada Jumonji es un Stand?\nMientras Magadori estaba confundida,\nnos descubrieron unos invasores.
-1130311	00bf1ace	Justo cuando iba a buscarla,\nme topé con Magadori, que volvía.\nTrajo materiales que encontró por el camino.
-1130312	1c85ef9b	Encontré a Magadori entre los pastizales y la llamé.\nParece que estaba haciendo sus necesidades...\nDe la vergüenza, agarró la espada y se puso como loca.
-1130321	f3612563	Esperamos un rato y Magadori volvió.\nParece que había ido al baño.\nTrajo materiales que encontró por el camino.
-1130322	1d4c0ddb	Esperamos un rato, pero Magadori no volvía.\nYa preocupado, fui a ver qué pasaba\ny encontré a Magadori atacada por invasores.
+1130211	24a8b2c8	Kyoshika se animó: mientras no sea de grado especial,\npuede derrotarlo ella misma.\nGracias a eso, pudimos explorar la mansión a fondo.
+1130212	a5566dd2	Kyoshika se acobardó: como no fue a la Escuela Técnica,\ncon los espíritus malditos no puede.\nMientras dudaba, nos descubrieron unos invasores.
+1130221	bbf821f0	Gogogogogo...\nUna tensión misteriosa recorre a Kyoshika.\nGracias a eso, exploramos la mansión\nsin que nos viera el enemigo.
+1130222	4b9df999	Los Stands solo los pueden ver los usuarios de Stand...\n¿Acaso la Espada Sagrada Jumonji es un Stand?\nMientras Kyoshika estaba confundida,\nnos descubrieron unos invasores.
+1130311	00bf1ace	Justo cuando iba a buscarla,\nme topé con Kyoshika, que volvía.\nTrajo materiales que encontró por el camino.
+1130312	1c85ef9b	Encontré a Kyoshika entre los pastizales y la llamé.\nParece que estaba haciendo sus necesidades...\nDe la vergüenza, agarró la espada y se puso como loca.
+1130321	f3612563	Esperamos un rato y Kyoshika volvió.\nParece que había ido al baño.\nTrajo materiales que encontró por el camino.
+1130322	1d4c0ddb	Esperamos un rato, pero Kyoshika no volvía.\nYa preocupado, fui a ver qué pasaba\ny encontré a Kyoshika atacada por invasores.
 1140111	18f2782d	Se me van soltando los nudos del cuerpo...\nContra lo que esperaba, fue un masaje normal.
-1140112	82346f8a	Crac, crac, crac...\nSiento que me está presionando puntos que no debería.\nOmokage se ve muy contento.
+1140112	82346f8a	Crac, crac, crac...\nSiento que me está presionando puntos que no debería.\nYugamu se ve muy contento.
 1140121	24bedf93	Tuve un mal presentimiento\ny rechacé el masaje casi huyendo.
-1140211	87c715af	Omokage le arrancó la piel al duende con destreza.\nEs asqueroso, pero parece que servirá como material.
+1140211	87c715af	Yugamu le arrancó la piel al duende con destreza.\nEs asqueroso, pero parece que servirá como material.
 1140212	a6a8e738	Durante la disección, salpicó la sangre\ndel duende. Donde cayó, huele a quemado.\nParece un líquido ácido.
-1140221	53815a61	Omokage le arrancó el ojo al murciélago con destreza.\nEs asqueroso, pero parece que servirá como material.
+1140221	53815a61	Yugamu le arrancó el ojo al murciélago con destreza.\nEs asqueroso, pero parece que servirá como material.
 1140222	2d2344f6	Durante la disección, de repente\ncrucé la mirada con el ojo.\nPor algún motivo, el cuerpo se me paralizó un buen rato.
-1140231	67710ccb	Omokage le arrancó las hojas a la planta con destreza.\nEs asqueroso, pero parece que servirá como material.
+1140231	67710ccb	Yugamu le arrancó las hojas a la planta con destreza.\nEs asqueroso, pero parece que servirá como material.
 1140232	7c76ed0e	Durante la disección, la planta salpicó un líquido\nverde. Es un ácido peligroso que lo disuelve todo.
 1140311	d295786f	No tiene sentido dejarlo vivo,\nasí que lo rematé de una vez.
 1140312	5543ebe6	Cuando quise rematarlo,\nel invasor se autodestruyó como último acto de resistencia.
 1140321	54affd77	Matarlo así me dejaría mal sabor\nde boca, así que lo dejé ir.\nNo sé si en agradecimiento, pero\nel invasor soltó materiales.
 1140322	e51b4ab7	Matarlo así me dejaría mal sabor\nde boca, así que lo dejé ir.\nAl rato, volvió con sus compañeros.\n¡Será malagradecido...!
-1140331	07a42581	Omokage empezó a torturarlo encantado.\nUnos minutos después, el invasor\nentregó los materiales que escondía\ny se quitó la vida.
+1140331	07a42581	Yugamu empezó a torturarlo encantado.\nUnos minutos después, el invasor\nentregó los materiales que escondía\ny se quitó la vida.
 1150111	70ab43e9	Dicen que dormir mucho es bueno hasta para la belleza.\nAprovechamos el descanso\npara dormir una siesta todos juntos.
 1150112	778018ed	Dicen que dormir mucho es bueno hasta para la belleza.\nAprovechamos el descanso\npara dormir una siesta todos juntos...\npero mientras dormíamos, nos atacaron unos invasores.
-1150121	8aa7f4fe	Con los ingredientes que teníamos,\nMojiro nos preparó su guiso chanko especial.
-1150122	152bc32d	Con los ingredientes que teníamos, Mojiro nos preparó\nsu guiso chanko especial. Comí tanto que me cayó mal.
-1150131	6a2f3263	Mojiro hizo sparring conmigo.\nSudé un montón y siento que gané confianza.
-1150132	598de98b	Mojiro hizo sparring conmigo.\nMe dio una paliza sin que yo pudiera hacer nada.
-1150211	d07fd69f	Mojiro se despertó de buen humor\ny parece estar en plena forma.\nAsí que podemos esperar mucho\nal recolectar materiales.
-1150212	dfc02c58	Justo en ese momento, Mojiro se giró\ndormida y su puño me dio en la cara.
-1150221	7024c2c6	Descansamos un poco más al ritmo de Mojiro.\nGracias a eso, recuperé energía.
-1150222	ce9dd778	Descansamos un poco más al ritmo de Mojiro.\nPor quedarnos tanto tiempo en el mismo lugar,\nnos descubrieron unos invasores.
+1150121	8aa7f4fe	Con los ingredientes que teníamos,\nMoko nos preparó su guiso chanko especial.
+1150122	152bc32d	Con los ingredientes que teníamos, Moko nos preparó\nsu guiso chanko especial. Comí tanto que me cayó mal.
+1150131	6a2f3263	Moko hizo sparring conmigo.\nSudé un montón y siento que gané confianza.
+1150132	598de98b	Moko hizo sparring conmigo.\nMe dio una paliza sin que yo pudiera hacer nada.
+1150211	d07fd69f	Moko se despertó de buen humor\ny parece estar en plena forma.\nAsí que podemos esperar mucho\nal recolectar materiales.
+1150212	dfc02c58	Justo en ese momento, Moko se giró\ndormida y su puño me dio en la cara.
+1150221	7024c2c6	Descansamos un poco más al ritmo de Moko.\nGracias a eso, recuperé energía.
+1150222	ce9dd778	Descansamos un poco más al ritmo de Moko.\nPor quedarnos tanto tiempo en el mismo lugar,\nnos descubrieron unos invasores.
 1150311	19f8e548	¡¡¡¡Lo logróóó!!!!\nSu brainbuster vertical de remate dio de lleno\ny el invasor quedó fuera de combate.
 1150312	4f3d171a	Le aplicó su gigante swing de remate.\nEl invasor salió volando por los aires\ny cayó justo encima de nosotros.
-1150321	f5a0feb2	Pelear sola es peligroso.\nFui a ayudar a Mojiro, pero al invasor\ntambién le llegaron refuerzos.
-1150331	2e2cd963	No conviene gastar energías aquí.\nDetuve a Mojiro y volvimos por donde vinimos.
-1150332	04f25c32	No conviene gastar energías aquí.\nDetuve a Mojiro y volvimos por donde vinimos.\nPero nos atacaron unos invasores\nque estaban escondidos detrás.
+1150321	f5a0feb2	Pelear sola es peligroso.\nFui a ayudar a Moko, pero al invasor\ntambién le llegaron refuerzos.
+1150331	2e2cd963	No conviene gastar energías aquí.\nDetuve a Moko y volvimos por donde vinimos.
+1150332	04f25c32	No conviene gastar energías aquí.\nDetuve a Moko y volvimos por donde vinimos.\nPero nos atacaron unos invasores\nque estaban escondidos detrás.
 1160111	fc1cb126	Eva se fue a quién sabe dónde a buscar materiales.\nAl rato, volvió\ncon materiales raros.
 1160112	edf0d56e	Eva se fue a quién sabe dónde a buscar materiales.\nComo tardaba en volver, fui a buscarla\ny la encontré peleando contra unos invasores.
 1160121	39f42dbc	Eva detectó la presencia de\ninvasores y salió disparada.\nSu ataque por sorpresa funcionó\ny logró aniquilar a los invasores.

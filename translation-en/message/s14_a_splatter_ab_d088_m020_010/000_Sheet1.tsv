@@ -1,13 +1,13 @@
 id	huella_jp	es
-10	9c23faa7	Sumino... ¿despertaste?
+10	9c23faa7	Takumi... ¿despertaste?
 20	cba1e190	Bueno, me preocupé un poco. Aunque en esta situación,\nno es que se haya decidido que eres el asesino...
-30	a6ae53f4	{fc(57e4f1)No es solo Maruko: siento que flota\nuna atmósfera tensa en general.}
+30	a6ae53f4	{fc(57e4f1)No es solo Gaku: siento que flota\nuna atmósfera tensa en general.}
 40	c76e2cfd	{fc(57e4f1)Aun así, me alegró que todos\nme recibieran al recuperarme.}
 50	bc2dae60	Qué bueno.\nVeo que la cabeza te quedó bien pegada.
 60	6ce200c1	Más o menos. Pero que te corten la cabeza\nno es agradable... y duele.
 70	24ca1f7c	¿No será que algún día se convierta en placer?\n¿Qué tal si lo comprobamos? Te ayudo.
 80	fbce3616	No, gracias. Rechazo.
-90	41f9cb01	Más importante: me dijeron\nque Kawana tiene un informe.
+90	41f9cb01	Más importante: me dijeron\nque Tsubasa tiene un informe.
 100	952be8a3	Ah, sí, sí. Analicé varias cosas\ndel invasor ladrón de la otra vez.
 110	631aca7c	Primero, el aparato que llevaba puesto era\nun {fc(ff635b)"dispositivo emisor de ondas de interferencia"}.
 120	e59d36ae	Interferencia... un inhibidor de señales.
@@ -33,12 +33,12 @@ id	huella_jp	es
 320	a8f9a5e2	Con eso se escapaba del rastreo y\nel comandante no podía matarlo con la bomba.
 330	9cbb4989	Ya veo, lo había preparado de antemano.
 340	be9bbf3c	Pero lo encontramos nosotros y le quitamos el inhibidor,\nasí que la bomba de su cuerpo se activó...
-350	85d8b0c0	Y cuando Shizuhara lo lanzó,\nexplotó y se hizo pedazos en el aire.
+350	85d8b0c0	Y cuando Hiruko lo lanzó,\nexplotó y se hizo pedazos en el aire.
 360	10682cdb	...Así que era eso.
 370	bac1004a	Entonces los ruidos que se oyeron en la escuela en plena noche,\n¿serían también de ese invasor?
 380	dac4976d	Si es del Día 43, seguro.\nQuedó en el registro de actividad.
-390	f41af007	{fc(57e4f1)Día 43... el día en que mataron a Mojiro.}
-400	b2471687	{fc(57e4f1)Esa noche, si no me equivoco, Kirifuji y Mojiro\nvinieron a mi cuarto en plena noche.}
+390	f41af007	{fc(57e4f1)Día 43... el día en que mataron a Moko.}
+400	b2471687	{fc(57e4f1)Esa noche, si no me equivoco, Nozomi y Moko\nvinieron a mi cuarto en plena noche.}
 410	f50c947f	Nozomi dice que oyó ruidos en el edificio.\nPor eso quiere ir a comprobar.
 420	e8c658bd	Entonces, ese invasor estuvo activo\nla noche del Día 43, ¿no?
 430	a0a52bb2	Entonces cabe la posibilidad de que el asesino\nhaya sido ese invasor...
@@ -54,12 +54,12 @@ id	huella_jp	es
 530	106a8ae7	No va a salir a la luz así de fácil.\nGritar es solo gastar energía.
 540	f2be54fa	¡Cállate! ¡Nos pueden matar y...!
 550	0a691bfe	¿O será... que eres tú, Shizuhara?
-560	3daddfe2	Basta, Maruko.\nSospechar sin pruebas no resuelve nada.
+560	3daddfe2	Basta, Gaku.\nSospechar sin pruebas no resuelve nada.
 570	f4a72a8b	
 580	e9126064	...\n¿Y qué hacemos con Dahl'xia?
 590	fdff9623	Hay que hablarlo.\nTampoco podemos dejarlo de lado.
 600	b73ac66c	Entonces mejor estar todos aquí juntos, ¿no?\nMientras estemos juntos, el asesino no podrá moverse.
-610	71988d26	Hagámoslo.\n...¿De acuerdo, Maruko?
+610	71988d26	Hagámoslo.\n...¿De acuerdo, Gaku?
 615	ef37cfa0	...Está bien.
 620	3a68f894	{fc(57e4f1)Después, entre todos hablamos de cómo vencer\na ese Dahl'xia.}
 630	bafe61a4	{fc(57e4f1)Pero el ambiente era pésimo y\nno teníamos idea de qué hacer...}

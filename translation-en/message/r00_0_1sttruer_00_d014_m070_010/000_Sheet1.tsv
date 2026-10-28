@@ -7,16 +7,16 @@ id	huella_jp	es
 60	c0980d37	Es más, ¿cómo pueden ustedes pelear contra los invasores...?
 70	9b810704	¡¡¿No se les zafó un tornillo, montón de locos?!!
 80	a1fdf29a	¡Qué cobarde eres!
-90	51b90acb	¡Maruko, si peleas, puedes ganar dinero!
+90	51b90acb	¡Gaku, si peleas, puedes ganar dinero!
 100	62aad693	¿G-Ganar dinero...?
-110	f7e7bb58	Según Shizuhara, ofrecen una recompensa por cada invasor.
+110	f7e7bb58	Según Hiruko, ofrecen una recompensa por cada invasor.
 120	bde952e6	Si peleas con nosotros y derrotas un montón de invasores, vas a poder ganar bastante.
 130	e3ff0022	¿E-En serio...?
 140	a8057393	Entonces, ¿esta pelea es una oportunidad para dejar de ser pobre...?
 150	cf206ef5	No solo para dejar de ser pobre...
 160	b21f8999	¡¡Tenemos delante la gran oportunidad de hacernos ricos de un golpe...!!
 170	c98ee14e	¡...!
-180	389a4206	¡Así que lárgate de una vez! Y dile esto a Su Excelencia Shizuhara.
+180	389a4206	¡Así que lárgate de una vez! Y dile esto a Su Excelencia Hiruko.
 190	8ea877b2	¡"Si quieres que pelee, por lo menos déjame tocarte las tetas"!
 200	57fa39a7	Tú... te va a matar.
 210	20134e22	¡¡¿Qué tiene de malo ser cobarde?!! ¡Aunque tengas valor, si te mueres no sirve de nada!
@@ -32,16 +32,16 @@ id	huella_jp	es
 310	cf206ef5	No solo para dejar de ser pobre...
 320	b21f8999	¡¡Tenemos delante la gran oportunidad de hacernos ricos de un golpe...!!
 330	c98ee14e	¡...!
-340	389a4206	¡Así que lárgate de una vez! Y dile esto a Su Excelencia Shizuhara.
+340	389a4206	¡Así que lárgate de una vez! Y dile esto a Su Excelencia Hiruko.
 350	8ea877b2	¡"Si quieres que pelee, por lo menos déjame tocarte las tetas"!
 360	57fa39a7	Tú... te va a matar.
 370	53c765cd	{fc(57e4f1)No pude convencerlo...}
-380	96c5c6e2	{fc(57e4f1)Para que Maruko se decida a pelear, tengo que mostrarle beneficios concretos.}
-390	c0304796	¡Maruko, pelea con nosotros!
+380	96c5c6e2	{fc(57e4f1)Para que Gaku se decida a pelear, tengo que mostrarle beneficios concretos.}
+390	c0304796	¡Gaku, pelea con nosotros!
 400	52822ed8	¡¡Ganemos esta pelea y hagámonos ricos de un golpe!!
 410	dd23b62f	{fc(57e4f1)Le tendí la mano a Maruko para animarlo a sumarse a la pelea. Pero...}
 420	f4a72a8b	
-430	4bfcbc85	{fc(57e4f1)Maruko no me tomó la mano. Bajó la mirada y, por algún motivo, se mordía el labio.}
+430	4bfcbc85	{fc(57e4f1)Gaku no me tomó la mano. Bajó la mirada y, por algún motivo, se mordía el labio.}
 440	d366fdb1	¿Q-Qué pasa...? ¿No quieres dinero?
 450	aa1982c5	Quiero... Obvio que me muero de ganas. ¿Cuántos años crees que llevo siendo pobre?
 460	562ac6c4	Si consigo un montón de dinero, no me importa jugarme la vida una o dos veces.
@@ -60,10 +60,10 @@ id	huella_jp	es
 590	8e9357c8	¡¡Cállate!!
 600	996e33c5	¡Un niño bien que nació y se crio en una familia feliz no me va a venir a sermonear...!
 610	c98ee14e	¡...!
-620	593bce48	{fc(57e4f1)Resoplando, Maruko rechazó mis intentos de convencerlo.}
-630	1b86bfd9	{fc(57e4f1)El rencor hacia el Complejo Residencial de Tokio, que no lo ayudó... ese era el verdadero motivo por el que Maruko se negaba a pelear.}
+620	593bce48	{fc(57e4f1)Resoplando, Gaku rechazó mis intentos de convencerlo.}
+630	1b86bfd9	{fc(57e4f1)El rencor hacia el Complejo Residencial de Tokio, que no lo ayudó... ese era el verdadero motivo por el que Gaku se negaba a pelear.}
 640	41ba0ec0	{fc(57e4f1)Si no hago algo con ese odio, Maruko no se va a decidir a pelear.}
-650	ea096c40	Maruko... si quieres, ¿me lo cuentas?
+650	ea096c40	Gaku... si quieres, ¿me lo cuentas?
 660	1593ce2f	Con qué sentimientos viviste hasta ahora.
 670	708d2752	{fc(57e4f1)Para buscar la forma de convencerlo, decidí preguntarle por su pasado.}
 680	0139ce4b	¿Quieres saber cuántos trabajos tenía al mismo tiempo cuando estaba en el Complejo Residencial de Tokio?
@@ -86,12 +86,12 @@ id	huella_jp	es
 850	d50272ae	En el Complejo Residencial de Tokio no hay solo gente mala...
 860	0b95fe9f	¡¡Salva a tus hermanos!!
 870	b49c7e0e	¿M-Mis hermanos...?
-880	ac8497ed	Me lo contó Yakushiji.
+880	ac8497ed	Me lo contó Takemaru.
 890	2f7fc727	Que eres el mayor del hogar y tienes un montón de hermanos menores.
 900	9a3fdc41	Si destruyen el Complejo Residencial de Tokio, esos chicos también se mueren, ¿sabes?
 910	59155f0f	¡¿Te parece bien que tu familia termine víctima de los invasores?!
 920	c98ee14e	¡...!
-930	ed27ad42	{fc(57e4f1)Maruko se quedó callado, alterado.}
+930	ed27ad42	{fc(57e4f1)Gaku se quedó callado, alterado.}
 940	c1523539	{fc(57e4f1)Por más que odie el Complejo Residencial de Tokio, no puede abandonar a su familia.}
 950	c55186b8	{fc(57e4f1)Para salvar a sus hermanos, seguro que Maruko se anima a dar el paso...}
 960	9f8ee504	...No, aun así no voy a pelear.
@@ -118,12 +118,12 @@ id	huella_jp	es
 1170	34d0f93c	¡¡ojalá los invasores los maten a todos!!
 1180	0b95fe9f	¡¡Salva a tus hermanos!!
 1190	b49c7e0e	¿M-Mis hermanos...?
-1200	ac8497ed	Me lo contó Yakushiji.
+1200	ac8497ed	Me lo contó Takemaru.
 1210	2f7fc727	Que eres el mayor del hogar y tienes un montón de hermanos menores.
 1220	9a3fdc41	Si destruyen el Complejo Residencial de Tokio, esos chicos también se mueren, ¿sabes?
 1230	59155f0f	¡¿Te parece bien que tu familia termine víctima de los invasores?!
 1240	c98ee14e	¡...!
-1250	ed27ad42	{fc(57e4f1)Maruko se quedó callado, alterado.}
+1250	ed27ad42	{fc(57e4f1)Gaku se quedó callado, alterado.}
 1260	c1523539	{fc(57e4f1)Por más que odie el Complejo Residencial de Tokio, no puede abandonar a su familia.}
 1270	c55186b8	{fc(57e4f1)Para salvar a sus hermanos, seguro que Maruko se anima a dar el paso...}
 1280	9f8ee504	...No, aun así no voy a pelear.
@@ -141,13 +141,13 @@ id	huella_jp	es
 1400	0a1f7bc1	¡¡Complejo Residencial de Tokio, idiotas!! ¡Caca! ¡Imbéciles!
 1410	0290dcef	¡¡Ojalá se los coman los invasores!!
 1420	8ef4d463	{fc(57e4f1)Maldición... ¡no pude convencerlo!}
-1430	9e85291d	{fc(57e4f1)¿Cómo hago para que Maruko, con tanto rencor hacia el Complejo Residencial de Tokio, se decida a pelear...?}
+1430	9e85291d	{fc(57e4f1)¿Cómo hago para que Gaku, con tanto rencor hacia el Complejo Residencial de Tokio, se decida a pelear...?}
 1440	f4a72a8b	
 1450	d435e6b2	{fc(57e4f1)¿Qué le pasa a este...?}
 1460	29809636	{fc(57e4f1)Que se enoje con el Complejo Residencial de Tokio todavía lo entiendo, pero ¿por qué así hasta con su familia, que pasó por lo mismo...?}
-1470	4d1382e1	Maruko... ¿por qué estás tan enojado con tu familia?
+1470	4d1382e1	Gaku... ¿por qué estás tan enojado con tu familia?
 1480	07cb8f23	¿Me cuentas el motivo...?
-1490	1c7d25f7	{fc(57e4f1)Para calmar la rabia de Maruko y que se decida a pelear...}
+1490	1c7d25f7	{fc(57e4f1)Para calmar la rabia de Gaku y que se decida a pelear...}
 1500	a0c81aa3	{fc(57e4f1)¡empecé a intentar convencerlo de nuevo!}
 1510	498156ba	Si tenía tantos trabajos al mismo tiempo, era para ganar la comida de mis hermanos.
 1520	d495df96	Todo el dinero que ganaba desaparecía en sus estómagos...
@@ -190,9 +190,9 @@ id	huella_jp	es
 1890	e1fa91b9	¿Por qué no te rindes y te haces a la idea? Pelea para salvar a tus hermanos.
 1900	d7b7521a	Pobre, y encima con la mala suerte de que me toque esto, ¿y ahora tengo que salvar a la mala suerte en persona...?
 1910	707d326a	¡Maldición, qué vida tan horrible la mía...! ¡¿En mi vida pasada habré robado calzones o qué?!
-1920	63486314	{fc(57e4f1)Ahora, diga lo que le diga a Maruko, no sirve de nada...}
+1920	63486314	{fc(57e4f1)Ahora, diga lo que le diga a Gaku, no sirve de nada...}
 1930	0ac9bb68	{fc(57e4f1)Más que decirle algo a la ligera, primero tengo que dejar que suelte lo que siente.}
-1940	d664b322	Maruko... si no quieres ayudar al Complejo Residencial de Tokio, está bien.
+1940	d664b322	Gaku... si no quieres ayudar al Complejo Residencial de Tokio, está bien.
 1950	1467c814	Nosotros tampoco peleamos para proteger el mundo...
 1960	11632bb3	La verdad, pienso que, si puedo proteger {fc(ff635b)"lo que más quiero"}, con eso alcanza.
 1970	f4a72a8b	

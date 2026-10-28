@@ -1,14 +1,14 @@
 id	huella_jp	es
-10	329ea0b5	Ah, Sumino...\nHoy estuve cansada, pero me divertí.
+10	329ea0b5	Ah, Takumi...\nHoy estuve cansada, pero me divertí.
 20	bd53e542	...¿Todavía no volviste a tu cuarto?
 30	646ae8c7	No. Comí un poco de más,\nasí que quería que me diera el aire de la noche...
 40	253fa009	Es verdad, quizá comí demasiado.\nTengo la barriga a reventar.
 50	7d591e11	Entonces, ¿tomamos el aire de la noche juntos?\nSe siente bien.
 60	ff2d9df9	Sí... entonces hagámoslo.
-70	126b5d4d	{fc(57e4f1)Nos paramos juntos en la Azotea.\nTal como dijo Kirifuji, soplaba un viento agradable.}
+70	126b5d4d	{fc(57e4f1)Nos paramos juntos en la Azotea.\nTal como dijo Nozomi, soplaba un viento agradable.}
 80	5e156ddf	{fc(57e4f1)Durante un rato dejamos que el viento nos diera,\nen silencio, pero...}
-90	77fa9bab	Oye, Sumino...
-100	963500e6	{fc(57e4f1)de pronto Kirifuji abrió la boca.}
+90	77fa9bab	Oye, Takumi...
+100	963500e6	{fc(57e4f1)de pronto Nozomi abrió la boca.}
 110	1f3243ec	Sobre lo que hablamos el otro día...
 120	9dab1f4f	Eso de salir a alguna parte juntos\ncuando termine esta batalla.
 130	df362ee8	Ah, eso...\nPor supuesto, pienso que si te parece bien conmigo...
@@ -26,18 +26,18 @@ id	huella_jp	es
 250	bfa7fbca	Así que cuando quieras, está bien.\nYo te espero.
 260	8bfbdca1	Aunque, cuando termine la batalla, vendrá la mudanza de la humanidad a este planeta,\nasí que quizá no podamos salir tan pronto.
 270	f933972c	Es verdad... tienes razón.\nQuizá todo se vuelva muy ajetreado...
-280	19bbb19f	Oye, Sumino...\nVolvamos todos vivos, sin falta.
+280	19bbb19f	Oye, Takumi...\nVolvamos todos vivos, sin falta.
 290	5a49638f	¿Qué pasa... de repente tan formal?
 300	6caf4d05	Pensando en lo que ocurrirá al final de esta batalla,\naunque ganemos, no podremos reír de todo corazón...
 310	e61268eb	Pero sobrevivamos todos.\nCarguemos con el pecado y vivamos el futuro juntos.
 320	d4cbc305	Yo seré testigo, también por Shion,\nde cómo todos viven felices...
 330	a02edcb0	P-Por eso...
 340	f4a72a8b	
-350	bfdc1ea6	...¿Kirifuji? ¿Qué pasa?
+350	bfdc1ea6	...¿Nozomi? ¿Qué pasa?
 360	79547021	A-Ah, no... es que...\nme mareé un poco...
 370	2cf2d962	¡Ngh...!
-380	55700212	{fc(57e4f1)Dejando escapar un aliento de dolor,\nKirifuji de repente se dejó caer ahí mismo.}
-390	135e30ff	¡¿Kirifuji, estás bien?!
+380	55700212	{fc(57e4f1)Dejando escapar un aliento de dolor,\nNozomi de repente se dejó caer ahí mismo.}
+390	135e30ff	¡¿Nozomi, estás bien?!
 400	1c88763d	A-Ah... s-sí...
 410	52d46bbe	{fc(57e4f1)Era evidente que no estaba bien.\nYo había dado por hecho, sin pensar, que ya no había problema...}
 420	b59b5e00	¡Es la reacción de rechazo...!
@@ -62,4 +62,4 @@ id	huella_jp	es
 610	e5a168cd	Protegeré sin falta a la humanidad, a esta academia\ny a ti.
 620	f4a72a8b	
 630	60c9fca6	Por ahora... descansa primero.\nDescansa con calma.
-640	94180277	{fc(57e4f1)Acompañé a Kirifuji hasta su cuarto\ny recién después volví al mío.}
+640	94180277	{fc(57e4f1)Acompañé a Nozomi hasta su cuarto\ny recién después volví al mío.}

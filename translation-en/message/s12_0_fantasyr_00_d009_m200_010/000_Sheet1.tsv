@@ -2,7 +2,7 @@ id	huella_jp	es
 10	dcea119b	{fc(57e4f1)Habiendo derrotado a la comandante Parmith,\nesta vez sí fuimos a la Penúltima Academia de Defensa.}
 20	29da1e31	{fc(57e4f1)Pero lo que vimos allí...}
 30	be6fe921	{fc(57e4f1)era exactamente mi peor imaginación.}
-40	1c64d113	¡Kurara! ¡Kyoshika!\n¡¡Omokage!!
+40	1c64d113	¡Kurara! ¡Kyoshika!\n¡¡Yugamu!!
 50	d8a70399	{fc(57e4f1)Allí yacían 3 momias negras...}
 60	90fa3b95	{fc(57e4f1)Aunque no se pueda distinguir de quién es cada cuerpo,\nla situación lo dice todo.}
 70	09d0c38c	{fc(57e4f1)Los cadáveres de Kurara Oosuzuki, Kyoshika Magadori y Yugamu Omokage...}
@@ -10,7 +10,7 @@ id	huella_jp	es
 90	9c8612c9	N-No puede ser... ¡¿por qué...?!
 100	f4a72a8b	
 110	1ae00315	¡Oigan, todos!
-120	295bf168	{fc(57e4f1)Y justo entonces.\nKawana vino corriendo desde el edificio.}
+120	295bf168	{fc(57e4f1)Y justo entonces.\nTsubasa vino corriendo desde el edificio.}
 130	c3226a50	Efectivamente, el Revive-O-Matic estaba roto. ¡Ya lo arreglé, pero...!
 140	90b7e15a	¡¿No hay manera?!\n¡¿No se les puede resucitar?!
 150	955c8c4a	Es inútil. En este estado,\nel Revive-O-Matic ya no funciona...
@@ -21,7 +21,7 @@ id	huella_jp	es
 200	c971c62c	Pero, que el Revive-O-Matic no estuviera arreglado significa...
 210	c4cd43f6	Que fracasó el rescate de NIGOU. ¿Entonces también ella...?
 220	38ff1963	¡N-No puede ser...!
-230	27211135	Sumino, ¡¿por qué?!\n¡Prometiste que todos estarían bien!
+230	27211135	Takumi, ¡¿por qué?!\n¡Prometiste que todos estarían bien!
 240	660c7e49	¡¿Cómo es posible que haya pasado esto?!
 250	af1d4f32	Y-Yo tampoco pensé que pasaría esto. ¡La vez anterior no hubo tantos sacrificios...!
 260	0183b9e1	¿"Tantos"? Entonces, ¿sabías que alguien se sacrificaba?
@@ -45,11 +45,11 @@ id	huella_jp	es
 440	e5b676ff	P-Perdón...
 450	f4a72a8b	
 460	4040e976	T-Todos... no, por favor...¡Despierten, se lo ruego...!
-470	c84f6184	Kurara, Kyoshika...¡Omokage, Moko...!
+470	c84f6184	Kurara, Kyoshika...¡Yugamu, Moko...!
 480	27a0fb8e	Uuuh... uuuuuuh...
 490	639e233f	Perdón... si yo me hubiera quedado entonces...¡si hubiera rescatado a NIGOU...
 500	73505bc8	habría podido arreglar bien el Revive-O-Matic,\ny quizás salvar a todos...!
-510	314a793e	Pero no se puede decir que la elección de Sumino fuera un error. ¡Nuestro mayor objetivo es proteger la Última Academia de Defensa!
+510	314a793e	Pero no se puede decir que la elección de Takumi fuera un error. ¡Nuestro mayor objetivo es proteger la Última Academia de Defensa!
 520	56ebf1b3	Aun así... podrían haberme dejado a mí. ¿Por qué... Sumino me llevó incluso mintiendo?
 530	ecb8aee9	Aunque yo no estuviera, ustedes igual podían proteger la Última Academia de Defensa, ¿no?
 540	aff4c9f8	¿Por qué... quiso salvarme al menos a mí?
@@ -60,7 +60,7 @@ id	huella_jp	es
 590	7ff4b98d	¡No lo sé!\n¡No es motivo para engañarme!
 600	f4a72a8b	
 610	860f0654	{fc(57e4f1)Es verdad... lo sé.\nTodo es tal como dice.}
-620	b98d1659	{fc(57e4f1)Para mí, Kirifuji... Karua,\nes especial de cualquier modo.}
+620	b98d1659	{fc(57e4f1)Para mí, Nozomi... Karua,\nes especial de cualquier modo.}
 630	e06c7a0e	{fc(57e4f1)Por eso, aun engañándola,\nquise que ella viviera.}
 640	d774e5a2	{fc(57e4f1)Pero no pensé que sería una aniquilación...\nque llegaría a tanto.}
 650	d5cfe5d8	Sea cual haya sido nuestra relación antes...\nno tiene que ver con nosotros de ahora.
