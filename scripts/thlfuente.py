@@ -15,6 +15,7 @@ ARCHIVE = "app_1"  # app_1.dx11.mvgl: recursos del idioma inglés
 FONTS = ("commonfont.bin", "commonfont2.bin")
 ACCENTED = {  # letra con tilde: letra base angosta
     "á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u", "ñ": "n", "ü": "u",
+    "à": "a", "À": "A",
     "Á": "A", "É": "E", "Í": "I", "Ó": "O", "Ú": "U", "Ñ": "N", "Ü": "U",
 }
 INVERTED = {"¿": "?", "¡": "!"}
