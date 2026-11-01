@@ -31,7 +31,7 @@ id	huella_jp	es
 21202	be9072f7	Lavanda
 21213	63f6c667	Orquídea
 21222	ba5b94c3	Mandrágora
-21231	c5021737	Hoja de bambú
+21231	c5021737	Bambú
 21243	6b9c7210	Brote de bambú fresco
 21251	8a7bc060	Trébol
 21262	f19b7587	Trébol de cuatro hojas
@@ -60,7 +60,7 @@ id	huella_jp	es
 22151	3c5e63a7	Bolsa de papel
 22161	73b90395	Muñeco de paja
 22171	ec1f57f3	Mapa raído
-22182	b9a60f95	Póster de chica en traje de baño
+22182	b9a60f95	Póster de traje de baño
 22192	7967c078	Bandera pirata
 22203	c8b047d7	Bandera grande
 22212	3d7d1274	Piel de goblin
@@ -78,17 +78,17 @@ id	huella_jp	es
 23011	5022f54d	Piedrita
 23022	dbdf40ad	Piedra común
 23032	7cbd8592	Piedra bonita
-23041	99f1c762	Piedra astillada
+23041	99f1c762	Piedra agrietada
 23052	273708e4	Piedra transparente
 23063	87dd0faf	Diamante
 23072	9b7eef77	Piedra energética
-23083	0aff890a	Fragmento de piedra sagrada
+23083	0aff890a	Fragmento de piedra clave
 23092	e4943861	Mineral de cobre
 23103	9b029eca	Mineral de plata
 23113	64c5aebf	Mineral de oro
 23121	e684d3f4	Asfalto
-23133	d9e125e3	Pirita
-23142	1023d46d	Ojo de cuarzo
+23133	d9e125e3	Mineral amarillo
+23142	1023d46d	Ojo de cristal
 23151	ec31d1bf	Piedra pómez
 23163	01d5af8c	Oricalco
 23173	9daba78c	Armadura de hierro
@@ -96,7 +96,7 @@ id	huella_jp	es
 23201	dec02195	Vidrio bonito
 23212	dfa6dc4f	Perla
 23222	2782e149	Juguete de hojalata
-23231	450a24ac	Piedra desmoronada
+23231	450a24ac	Piedra rota
 23242	59aba4e2	Mineral negro
 23252	e0c8a6dd	Mineral rojo
 23262	cd8f08b3	Mineral azul
@@ -104,15 +104,15 @@ id	huella_jp	es
 24011	7f514dfb	Piezas de chatarra
 24022	45f344bc	Placa de circuito
 24033	76385491	CPU de supercomputadora
-24041	597db60b	Motor casi roto
-24052	ad7689e1	Motor que gira bien
-24063	23a5126e	Motor pequeño de 10 caballos
+24041	597db60b	Motor que apenas funciona
+24052	ad7689e1	Motor funcional
+24063	23a5126e	Minimotor de 10 caballos de fuerza
 24072	2f8652f4	Compresor
 24082	e9025a81	Bomba desarmada
-24093	8d8c5d5d	Reactor termonuclear tipo MI
+24093	8d8c5d5d	Reactor nuclear de alta temperatura
 24102	e43abc4d	Tubo de hierro
 24111	885f9a82	Radiocasete
-24122	2020de38	Monitor LCD
+24122	2020de38	Monitor LED
 24131	3bc1448f	Pila AA
 24141	084c4dd4	
 24151	e9fa81f8	Tornillo
@@ -130,7 +130,7 @@ id	huella_jp	es
 25041	baa7be40	Ficha de bronce BP
 25052	27382d5c	Ficha de plata BP
 25063	baf84d6c	Ficha de oro BP
-25073	88f7f051	Espada medio maestra
+25073	88f7f051	Espada estilo barman
 25084	4732d806	Cristal rojo en bruto
 29999	1a2e920b	Nada
 30001	31a11dcf	Estuche elegante
@@ -148,7 +148,7 @@ id	huella_jp	es
 30013	03b390cc	Llavero roto
 30014	446d7b9c	Concha
 30015	b47b5e7d	Tela impermeable
-30016	bf159e95	Lentes negros
+30016	bf159e95	Lente oscuro
 30017	e671181f	Antena parabólica
 30018	ae5aa5ac	Agua purificada
 30019	26ad276a	Fósil de animal
@@ -165,19 +165,19 @@ id	huella_jp	es
 30030	4ae603fa	
 30031	2c3c1a29	Flor prensada
 30032	179165b1	Gasolina
-30033	95219bed	Rollo fotográfico
-30034	7ef50181	Pintura metalizada
+30033	95219bed	Álbum de fotos
+30034	7ef50181	Recubrimiento
 30035	f9b03def	Bolsa de pan vacía
-30036	9d61ec2b	Frasquito
+30036	9d61ec2b	Botella
 30037	8ff1aced	Revista gastronómica
 30038	65b22cc6	Notas de un truco de cuarto cerrado
 30039	4a22a4fa	Moneda de 5 yenes
 30040	f965715d	Pintura
 30041	f3708e75	Semillas de girasol
-30042	6ef4a1d5	Arena de estrellas
+30042	6ef4a1d5	Polvo de estrellas
 30043	4d2804ce	
 30044	b1729c2a	Joya lujosa
-30045	48883a4d	Neumático de lujo
+30045	48883a4d	Diamante caro
 30046	d6d0a987	Motor pequeño
 30047	a55f7844	Limpiaorejas
 30048	3de70041	Tijeras

@@ -40,3 +40,4 @@ Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre del
 - Darumi habla de sí misma en primera persona (el inglés dice *I*), no en tercera.
 - Ima es un chico: habla de sí mismo en masculino (*estoy seguro*, nunca *segura*). A Kako sí le dice *buena chica* (es su hermana).
 - Cuando el destinatario es un grupo, el pronombre concuerda: *se los ruego*, *se los garantizo*, *se los dejo a ustedes* (así se dice en Chile y en buena parte de América). *Se lo* queda para uno solo o cuando "se" es otra persona (*se lo conté a todos*).
+- Porcentajes: el número va pegado al signo, sin espacio (*50%*, no *50 %*).

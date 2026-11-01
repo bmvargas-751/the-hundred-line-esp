@@ -524,3 +524,200 @@ peninsular,message/r00_0_1sttruer_00_d084_m040_010/000_Sheet1#40,falso positivo:
 peninsular,message/r00_0_1sttruer_00_d086_m020_030/000_Sheet1#60,falso positivo: más vale
 vosotros,message/npc_chr008ima_32_01/000_Sheet1#10,"Falso positivo: 'Liquid' (QB Liquid) no es 'vosotros'"
 peninsular,message/field_common_message/000_Sheet1#203040003,"Falso positivo: ""Más vale"" es una expresión, no el verbo valer de España"
+inconsistente,text/char_name/000_char_name#4001111,"Plural de título de tutorial frente al nombre singular del objeto"
+peninsular,text/field_present_explanation/000_field_present_explanation#21301,"Falso positivo: 'pasta de frijol anko' no es el vale de España"
+inconsistente,text/common_message/000_Sheet1#1902,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/common_message/000_Sheet1#2107,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/common_message/000_Sheet1#2310,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/common_message/000_Sheet1#428,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/field_object_name/000_field_object_name#1004,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/field_object_name/000_field_object_name#1012,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/help_tutorial_name/000_help_tutorial_name#104,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/help_tutorial_name/000_help_tutorial_name#154,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/input_name/000_input_name#2070,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/key_help_text/000_Sheet1#73,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/key_help_text/000_Sheet1#76,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/option_category_name/000_option_category_name#2,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/ui_archive_name/000_ui_archive_name#11,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/ui_archive_name/000_ui_archive_name#26,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#r00_0_1stTrueR_00_d000_m030_040_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#r00_0_1stTrueR_00_d000_m030_040_02_0020,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d052_m020_015_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d052_m020_015_02_0020,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d077_m020_010_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d077_m020_010_02_0020,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d082_m070_010_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d082_m070_010_02_0020,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d100_m050_010_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s05_0_Ninshiki_A0_d062_m020_010_01_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s05_0_Ninshiki_B0_d062_m070_010_03_0070,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_A_BoukenRt_A0_d064_m040_010_03_0040,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_A_BoukenRt_B0_d064_m040_010_03_0020,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_00_d023_m050_010_01_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_A0_d073_m030_010_03_0070,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_B0_d072_m070_020_01_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_Ba_d094_m030_020_01_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s09_B_occultRt_Bb_d092_m020_020_03_0070,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s11_0_SeisyunR_A0_d062_m030_010_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s12_0_FantasyR_00_d041_m020_020_03_0070,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s12_0_FantasyR_A0_d093_m170_020_01_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_0_SFtoLove_00_d009_m110_010_03_0080,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_00_d048_m030_010_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_B0_d073_m030_010_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bb_d096_m020_010_02_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s14_A_Splatter_00_d043_m120_010_01_0010,Decisiones: el inglés usa textos distintos para el mismo japonés
+ancho,text/field_chapter_detail/000_field_chapter_detail#1009800,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#1009810,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#1009820,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10107100,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10107110,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10107120,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10209800,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10209810,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10209820,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10409900,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10409910,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10409920,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10804800,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10804810,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10804820,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10904800,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10904810,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#10904820,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#11207300,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#11207310,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#11207320,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#11409600,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#11409610,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#11409620,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#11809800,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#12300400,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#12300410,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#12300420,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#12710000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#12710020,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#13010000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#1306200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#1306210,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#1306220,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#13410000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#13410010,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#13410020,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#13710020,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#14004700,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#14004710,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#14004720,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#14210000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#14210010,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#14509910,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#14806300,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15502500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15502510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15502520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15602600,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15602610,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15602620,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15703000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15703010,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15703020,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15804700,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15905600,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15905610,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#15905620,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#16007600,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#16007610,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#16007620,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#16108300,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#16108310,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#16108320,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#16309200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#1706200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17105000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17307500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17307510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17307520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17307530,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17907500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17907510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#17907520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#18108400,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#18108410,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#18108420,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#200200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#200210,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#200220,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#200300,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#200800,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#200820,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2010000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2010010,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2010020,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#201100,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#201110,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#201120,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#202100,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#202110,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#202120,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#203100,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#203110,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#203120,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#205200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#205210,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#205220,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#205700,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#205710,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#205720,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#206300,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#206310,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#206320,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#207700,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#208200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#210000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#210010,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#210020,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2303400,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2303410,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2303420,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2403400,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2703500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2703510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2703520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2903500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2903510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#2903520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#3103500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#3103510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#3103520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#3303600,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#508700,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#508710,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#508720,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#5109410,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#5702300,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#5702310,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6110000,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6507200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6507210,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6507220,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6609400,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6609410,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6609420,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6909200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6909210,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#6909220,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#7906200,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#7906210,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#7906220,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#8006500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#8006510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#8006520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#8609300,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#8609310,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#8609320,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#9200900,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#9200910,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#9200920,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#9508500,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#9508510,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+ancho,text/field_chapter_detail/000_field_chapter_detail#9508520,Diagrama de selección de capítulo: repite la decisión; probar en el juego que los nodos se ajustan
+falta_apertura,text/help_tutorial_text/000_help_tutorial_text#11902,"Nice! Kills se deja en inglés como nombre del juego"

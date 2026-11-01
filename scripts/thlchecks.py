@@ -146,8 +146,8 @@ def check_line(r):
     if ls > le * 1.6 + 20:
         out.append(("largo", f"{ls} vs {le} caracteres"))
     # Solo importa si hay saltos manuales (interfaz): el renglón más largo no debe pasar al del inglés.
-    # En la versión del doblaje inglés no hay saltos manuales: el motor parte el texto solo.
-    if td.VERSION != "en" and "\n" in en.strip():
+    # En los mensajes de historia de la versión del doblaje inglés no hay saltos manuales: el motor parte el texto solo.
+    if not (td.VERSION == "en" and r["key"].startswith("message/")) and "\n" in en.strip():
         we = max(len(x) for x in visible(en).split("\n"))
         ws = max(len(x) for x in visible(es).split("\n"))
         if ws > we * 1.1 + 2:

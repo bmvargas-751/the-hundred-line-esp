@@ -44,7 +44,7 @@ id	huella_jp	es
 201060	64100eb5	Gimnasio
 201070	1cf88623	Patio de la escuela
 201080	53ba1f65	Estacionamiento
-201100	c88f3625	Habitación misteriosa
+201100	c88f3625	Sala extraña
 201300	f638a020	Baño de hombres P1 (norte)
 201301	6799353a	Baño de hombres P1 (sur)
 201310	381fc175	Baño de mujeres P1 (norte)
@@ -74,22 +74,22 @@ id	huella_jp	es
 204010	a10cf055	Entrada de la Sala de Defensa
 204020	e4564176	Sala de Defensa
 204510	e4564176	Sala de Defensa
-205010	371a64ce	Habitación de Takumi Sumino
-205020	1a6334f8	Habitación de Takemaru Yakushiji
-205030	eed602d1	Habitación de Hiruko Shizuhara
-205040	b7501ed8	Habitación de Darumi Amemiya
-205050	e365e0ff	Habitación de Eito Aotsuki
-205060	40ffe7fa	Habitación de Tsubasa Kawana
-205070	1da1e171	Habitación de Gaku Maruko
-205080	8d65acc3	Habitación de Ima Tsukumo
-205090	7125bf55	Habitación de Kako Tsukumo
-205100	2de4eb67	Habitación de Shouma Ginzaki
-205110	a7e6c5c3	Habitación de Nozomi Kirifuji
-205120	9965ac79	Habitación de Kurara Oosuzuki
-205130	84028077	Habitación de Kyoshika Magadori
-205140	16384405	Habitación de Yugamu Omokage
-205150	050d793d	Habitación de Moko Mojiro
-205551	371a64ce	Habitación de Takumi Sumino
+205010	371a64ce	Habitación de Takumi
+205020	1a6334f8	Habitación de Takemaru
+205030	eed602d1	Habitación de Hiruko
+205040	b7501ed8	Habitación de Darumi
+205050	e365e0ff	Habitación de Eito
+205060	40ffe7fa	Habitación de Tsubasa
+205070	1da1e171	Habitación de Gaku
+205080	8d65acc3	Habitación de Ima
+205090	7125bf55	Habitación de Kako
+205100	2de4eb67	Habitación de Shouma
+205110	a7e6c5c3	Habitación de Nozomi
+205120	9965ac79	Habitación de Kurara
+205130	84028077	Habitación de Kyoshika
+205140	16384405	Habitación de Yugamu
+205150	050d793d	Habitación de Moko
+205551	371a64ce	Habitación de Takumi
 205552	af52cff8	Habitación vacía
 206010	3194132d	Sótano - Habitación oculta
 210110	b82568ec	Penúltima Academia - Garaje
@@ -183,7 +183,7 @@ id	huella_jp	es
 802350	c4090f2a	Entrada principal
 802360	55487c96	Alrededores de la escuela
 802370	4308f523	Cancha de tenis
-802380	42ba27ba	Estacionamiento de bicicletas
+802380	42ba27ba	Estacionamiento
 802390	c4090f2a	Entrada principal
 802400	44d08e59	Hangar
 802410	c4090f2a	Entrada principal
