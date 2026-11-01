@@ -1,66 +1,66 @@
 id	huella_jp	es
-10	6b7db4c7	{fc(57e4f1)Sin darnos cuenta, habíamos salido hasta el Patio de la escuela.}
+10	6b7db4c7	{fc(57e4f1)De algún modo, habíamos llegado hasta el Patio de la escuela.}
 20	f4a72a8b	
-30	401088f0	¿Por qué... tú...?
-40	db85049e	Fuu... parece que los despistamos.\nLa trampa que Kurara dejó en su cuarto sirvió.
+30	401088f0	¿Qué haces aquí...?
+40	db85049e	Uf... Parece que los despistamos. Menos mal que Kurara dejó un montón de trampas tiradas en su habitación.
 50	33665550	Eito, ¿por qué...?
 60	f4a72a8b	
-70	59db37c7	{fc(57e4f1)No solo me salvó a mí.\nDe algún modo, Eva también estaba libre de la jaula.}
-80	6f033fb1	Tuviste suerte, Takumi...
-90	ef42ca12	Mi jaula tuvo un fallo en las ondas electromagnéticas\ncuando la movieron del Patio...
-100	0973e954	Bueno, si hubiera querido, podría haber escapado,\npero ya había perdido las ganas...
-110	3109d616	desde que me dejaste con vida.
+70	59db37c7	{fc(57e4f1)Eito no solo me había salvado a mí. De algún modo había sacado a Eva de su jaula y la había traído con nosotros.}
+80	6f033fb1	Tuviste suerte, Takumi.
+90	ef42ca12	Cuando alejaste mi jaula de la de Eva, causó algún tipo de falla en el equipo electromagnético.
+100	0973e954	Podría haber escapado en cualquier momento. Simplemente decidí no hacerlo.
+110	3109d616	Perdí el interés después de que me perdonaras la vida por segunda vez.
 120	f4a72a8b	
-130	f4ccde72	Yo pensaba ver tranquilo el final de ustedes,\ntan feos y odiosos, pero...
-140	411c1d6b	por casualidad oí el rumor\nde que ibas a traicionar.
-150	bd0861ee	Dentro de la jaula del patio de la escuela,\nno puedes oír un rumor "por casualidad".
-160	ae7ac87f	Eso déjalo a tu imaginación.\nPero, sabiéndolo, no podía quedarme de brazos cruzados.
-170	2a2ced7e	Mientras ustedes se juntaban en el Patio,\nencontré la llave escondida en la Sala de Guerra...
-180	2d975427	y después, mientras les quitaba la vista a todos,\nabrí la jaula, eso fue todo.
-190	386c0b83	Mi "por qué" no es solo por el método.\n¿Por qué nos ayudas?
-200	20ad4ea8	Porque tú te pusiste del lado de Eva\ny te volviste enemigo de la humanidad, ¿no?
-210	4750dc46	De esa humanidad que tanto odio, claro.
-220	177655d5	Yo no tengo esa intención...
-230	694ba20a	Aunque tú no la tengas,\ntodos lo habrán tomado así.
-240	8e7325d8	Justamente porque lo parecía te ayudé,\ny por haberte ayudado, aún más.
-250	d2365999	{fc(57e4f1)Ya veo... que me ayudara este,\nmás bien me puso en peor posición.}
-260	327c8d19	Bueno, que te vaya bien.\nToma, es un obsequio de despedida.
-270	0b45a162	{fc(57e4f1)Dicho eso, Eito me dio una mochila\nque había en el Patio.}
-280	f89296bd	Ahí dentro está el equipo completo de Eva,\ny raciones...
-290	dc11cc7f	Y también tu Infuser, Takumi.
-300	40ed1677	Ahora que pasó esto, no solo Eva,\ntú tampoco podrás quedarte en la academia.
-310	efebdb34	E-Eso es...
+130	f4ccde72	Pensaba quedarme quieto y ver el desenlace de sus feas y detestables vidas.
+140	411c1d6b	Pero entonces oí por casualidad un rumor de que ibas a traicionar al equipo, Takumi...
+150	bd0861ee	Dudo que hayas oído algo "por casualidad" desde donde movieron tu jaula.
+160	ae7ac87f	Bueno, eso lo dejo a tu imaginación. Lo importante es que, una vez que me enteré de eso, no pude seguir pasivo.
+170	2a2ced7e	Mientras estabas ocupado en el Patio hace un rato, me escabullí y conseguí la llave verdadera de la Sala de Guerra.
+180	2d975427	Y mientras los demás estaban cegados, abrí la jaula de Eva y la dejé salir.
+190	386c0b83	Está bien, pero ¿por qué? ¿Por qué nos salvarías a los dos?
+200	20ad4ea8	Te estás aliando con Eva, ¿no? Eso te convierte ahora en enemigo de la humanidad.
+210	4750dc46	Y como sabes, yo odio a la humanidad.
+220	177655d5	¿Qué...? No, ¡no era eso lo que intentaba hacer...!
+230	694ba20a	Quizás no, pero eso es lo que van a pensar todos.
+240	8e7325d8	Por eso tuve que intervenir y salvarte. Aunque no creo que eso ayude mucho a tu caso.
+250	d2365999	{fc(57e4f1)Tiene razón... Ya era bastante malo que los demás descubrieran que ayudaba a Eva, pero si además piensan que trabajo con Eito...}
+260	327c8d19	Bueno, buena suerte de aquí en adelante. Considéralo un regalo de despedida.
+270	0b45a162	{fc(57e4f1)Eito me pasó una mochila que estaba tirada cerca.}
+280	f89296bd	Empaqué un equipo de combate de Eva y unas raciones ligeras.
+290	dc11cc7f	Y tu Infuser, Takumi.
+300	40ed1677	Ahora que las cosas han llegado a este punto, ninguno de los dos será bienvenido aquí.
+310	efebdb34	¿Qué? ¡Pero...!
 320	9743f6b7	...No, tienes razón.
-330	e140e5c3	El extintor está frente a las Llamas Eternas.\nÚsalo para salir.
-340	319f8849	S-Takumi... ¿está bien?
-350	ad9c8dea	{fc(57e4f1)Eva aún no se recuperaba del shock de haber cometido el tabú,}
-360	e6701f0f	{fc(57e4f1)pero me miraba como queriendo decir algo.}
-370	caf6dce6	Está bien, Eva.\nYo también iré contigo... a buscar a Kamyuhn.
-380	585c6815	Y después... busquemos juntos la forma de dialogar.\nDe hecho, eso es lo mejor.
-390	b87ca314	Dejemos de pelear...
+330	e140e5c3	Dejé un extintor cerca del Muro de Fuego. Úsalo y salgan de aquí.
+340	319f8849	Takumi... ¿Estás seguro de esto?
+350	ad9c8dea	{fc(57e4f1)Eva todavía no se había recuperado del impacto de enterarse de lo que había hecho.}
+360	e6701f0f	{fc(57e4f1)Pero ya se había calmado un poco. Y aunque no lo dijera, parecía preocupada.}
+370	caf6dce6	Está bien, Eva. Esto solo significa que podré reunirte con Kamyuhn en persona.
+380	585c6815	Y después de eso, podemos ingeniar una forma de abrir negociaciones de paz... Esto podría incluso ser mejor para nosotros.
+390	b87ca314	Terminemos esta guerra... juntos.
 400	d7e4db31	
-410	e9307e73	Jeje... Takumi sí que es divertido.\nNo creo que con esa humanidad fea las cosas salgan tan bien, pero...
-420	720fb45f	...rezo para que alcances un final que valga la pena.
-430	c9362eb6	...¿Tú qué harás, Eito?
-440	d92e973a	Me quedo aquí.\nYa no tengo adónde ir.
-450	8e330dd1	Además, ver qué pasa con la academia sin ti\ntambién puede ser divertido, hasta el final.
-460	08ed3a4e	...Entendido. Antes de irme, te agradezco.
-470	df027c48	No hace falta. El agradecimiento de alguien tan feo solo me da asco.\nAnda, vete antes de que vengan a perseguirte.
-480	ae55aa96	Sí, vamos... Eva.
-490	417d15a2	...Sí.
-500	f03f9368	{fc(57e4f1)Y así, Eva y yo echamos a correr\ndándole la espalda a la Última Academia de Defensa.}
-510	6824d462	{fc(57e4f1)La academia que miré por última vez...\nen su Patio, de pronto.}
-520	748a8661	{fc(57e4f1)creí ver a Karua despidiéndome con tristeza...}
-530	55ed0cf2	...Se fue, ¿no?\n¿No querías despedirte?
-540	19cbf858	...No. Está bien.
-550	58667e2e	Fue lo que eligió Takumi,\nya no tengo nada que decirle.
-560	c8cbfeb6	Mm... ni siquiera contaste que me pediste con la cabeza gacha\nque lo ayudara.
-570	3286a739	Tú encontraste la llave,\ntú abriste mi jaula.
+410	e9307e73	Jiji. Contigo nunca hay un momento aburrido, Takumi. Personalmente, creo que cualquier intento de negociar con la humanidad está condenado al fracaso...
+420	720fb45f	Pero al menos espero que termines tu vida de una forma que tenga sentido para ti.
+430	c9362eb6	¿Qué harás tú, Eito?
+440	d92e973a	Me quedaré aquí. No es que tenga otro lugar adonde ir.
+450	8e330dd1	Además, podría ser divertido ver cuánto dura esta escuela sin ti.
+460	08ed3a4e	Bueno... Gracias otra vez.
+470	df027c48	No hay de qué. De verdad, no lo menciones; tu gratitud me pone la piel de gallina. Más te vale irte antes de que vengan por ti.
+480	ae55aa96	Cierto... Vamos, Eva. Vámonos.
+490	417d15a2	Okey.
+500	f03f9368	{fc(57e4f1)Y así, Eva y yo corrimos, dejando atrás la Última Academia de Defensa.}
+510	6824d462	{fc(57e4f1)Solo miré hacia atrás una vez. Una última mirada a la escuela.}
+520	748a8661	{fc(57e4f1)Por un instante, me pareció ver a Karua parada allí, despidiéndonos con un gesto melancólico.}
+530	55ed0cf2	Ahí va. ¿No querías decirle nada?
+540	19cbf858	No... Está bien.
+550	58667e2e	Si esto es lo que quiere Takumi, no hay nada más que decir.
+560	c8cbfeb6	Pero te esforzaste tanto por salvarlo. ¿Seguro que quieres mantenerlo en secreto?
+570	3286a739	Hasta me rogaste mi ayuda, me sacaste de mi jaula e incluso fuiste a buscar la llave verdadera. Todo por él.
 580	f4a72a8b	
-590	b08e32a8	...¿Un cariño abnegado?\nNo lo entiendo.
-600	d80e8f37	No es eso... no es así...\nYo tampoco... ya no sé...
-610	c4cbb1ee	Sé que para vivir hay que pelear,\npero pensar en cuánta gente sufre por eso...
-620	dbe081d0	...no sé cuál es la respuesta correcta.\nNi yo, ni nadie.
-630	7b883553	Seguro que Takumi ya no quiere pelear.\nYa no puede ver al enemigo como enemigo.
-640	53478bea	Y si es así, ya no se le puede detener.\nNo se puede obligarlo a pelear.
-650	bd4ee74c	...Quiero que Takumi siga adelante\ncreyendo en lo que decidió.
+590	b08e32a8	¿Será esto lo que llaman "amor desinteresado"? Tendrás que perdonarme, jamás he entendido esas cosas.
+600	d80e8f37	No, no es eso... Es... La verdad, no sé cómo sentirme.
+610	c4cbb1ee	Tenemos que pelear si queremos sobrevivir, pero mientras sigamos peleando, otras personas sufrirán...
+620	dbe081d0	En una situación así, no tengo idea de qué es lo correcto y qué lo incorrecto... Nadie la tiene.
+630	7b883553	Creo que parte de por qué Takumi se va es eso. Ya no puede pensar en los futuranos como solo "el enemigo".
+640	53478bea	Si así se siente, no me interpondré en su camino ni lo obligaré a quedarse y pelear contra su voluntad.
+650	bd4ee74c	Todo lo que quiero es que Takumi siga adelante y confíe en su decisión, como siempre ha hecho.
