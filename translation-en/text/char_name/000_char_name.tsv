@@ -35,8 +35,8 @@ id	huella_jp	es
 201	2b91bc89	Madre de Takumi
 202	48103a5f	
 203	b13b5b50	
-204	e02b0d02	Profesor SIREI
-205	25426c32	Profesor NIGOU
+204	e02b0d02	Sr. SIREI
+205	25426c32	Sr. NIGOU
 206	d7c914eb	Persona con Leap Suit
 207	9ff9a140	Mujer espectral
 208	960f254b	Figura negra misteriosa
@@ -50,30 +50,30 @@ id	huella_jp	es
 216	7de3c49f	Hombre de la aldea
 217	f560e11f	Hombre de la aldea 2
 218	b14ebf21	Mujer de la aldea 2
-251	dbdbe263	Otro Takumi Sumino
-252	8b70e9df	Otro Takemaru Yakushiji
-253	1c194739	Otra Hiruko Shizuhara
-254	1a619354	Otra Darumi Amemiya
-255	3623acdf	Otro Eito Aotsuki
-256	86ee6d2c	Otra Tsubasa Kawana
-257	d723199f	Otro Gaku Maruko
-258	93148a08	Otro Ima Tsukumo
-259	9d0f6fad	Otra Kako Tsukumo
-260	472439cf	Otro Shouma Ginzaki
-261	c0008aac	Otra Nozomi Kirifuji
-262	34e30e64	Otra Kurara Oosuzuki
-263	9c678ac4	Otra Kyoshika Magadori
-264	092e9140	Otro Yugamu Omokage
-265	f94ede75	Otra Moko Mojiro
+251	dbdbe263	Otro Takumi
+252	8b70e9df	Otro Takemaru
+253	1c194739	Otra Hiruko
+254	1a619354	Otra Darumi
+255	3623acdf	Otro Eito
+256	86ee6d2c	Otra Tsubasa
+257	d723199f	Otro Gaku
+258	93148a08	Otro Ima
+259	9d0f6fad	Otra Kako
+260	472439cf	Otro Shouma
+261	c0008aac	Otra Nozomi
+262	34e30e64	Otra Kurara
+263	9c678ac4	Otra Kyoshika
+264	092e9140	Otro Yugamu
+265	f94ede75	Otra Moko
 266	13c9752d	Otra Eva
 267	2cdee7d9	Otro Shion
 268	985010ab	Otro SIREI
 269	e87cab63	Otro NIGOU
 270	245fdf51	Otra V'ehxness
-271	e00f192d	Otro Eito Aotsuki 2
-272	4fbc69bc	Otro Eito Aotsuki 3
-273	284fa071	Otro Eito Aotsuki 4
-274	6d9f40e3	Otro Eito Aotsuki 5
+271	e00f192d	Otro Eito 2
+272	4fbc69bc	Otro Eito 3
+273	284fa071	Otro Eito 4
+274	6d9f40e3	Otro Eito 5
 275	13860d0a	Niño futurano
 276	e57d61fd	Patrocinador
 277	00dabb33	Patrocinador 2
@@ -87,7 +87,7 @@ id	huella_jp	es
 285	8d0092a5	Patrocinador - Eito
 301	4220cd2f	Todos
 302	b7488b6c	
-303	11a26551	Sistema de defensa
+303	11a26551	Sistema de Defensa
 304	b5971b52	Anuncio
 306	c033254b	Altavoz
 307	879973b6	Campana
@@ -113,7 +113,7 @@ id	huella_jp	es
 327	19ca9032	Los cuatro
 328	7683bbee	
 329	aaf02c5e	
-330	d530e3ec	Las dos Shizuhara
+330	d530e3ec	Las Hiruko
 332	1c69651c	Silueta
 333	8d4a42e1	Reina de los G'ie
 334	ac4dcc4b	
@@ -125,7 +125,7 @@ id	huella_jp	es
 340	b49efa29	
 341	c1968880	
 342	767734e6	
-343	fac45ebf	Palabras de maldición
+343	fac45ebf	La maldición
 344	5addc4e4	Muchacho
 345	22d9b9af	Muchacha
 346	11fb5d28	Chico
@@ -136,7 +136,7 @@ id	huella_jp	es
 351	fc1eaffa	Anciano
 352	d536777f	Anciana
 353	cfb86116	¿Eva?
-354	06c51d3a	¿Moko Mojiro?
+354	06c51d3a	¿Moko?
 355	e59eca17	
 356	2bd4015b	Patrocinador (sin usar)
 357	2bc37bd6	Voz de Eva
@@ -147,7 +147,7 @@ id	huella_jp	es
 362	07727f83	Espada Sagrada Jumonji
 363	3136d90d	
 364	875662b8	Invasor misterioso
-365	fe975792	¿Takumi Sumino?
+365	fe975792	¿Takumi?
 366	dccffa4f	
 367	821bfd73	
 368	6893a6eb	
@@ -162,9 +162,9 @@ id	huella_jp	es
 377	75364372	Patrocinador 4 (sin usar)
 378	ddda9bc0	Patrocinador 5 (sin usar)
 379	6252ece3	Patrocinador 6 (sin usar)
-381	83977b37	GOTOH
+381	83977b37	
 382	765c4005	Voz de G'ie
-383	d0a6503c	Grito de alguien
+383	d0a6503c	Grito
 384	71b54bd0	Voz misteriosa
 385	d27866e8	V'ehxness y V'ehxness II
 386	5d65eb0f	Patrocinador - Kako-G (sin usar)
@@ -297,7 +297,7 @@ id	huella_jp	es
 2561111	4d4dc995	Comandante del escuadrón 6
 2561112	283d4541	
 2571101	a73d17eb	
-2571102	06c51d3a	¿Moko Mojiro?
+2571102	06c51d3a	¿Moko?
 2571103	6aa75f15	Eito Monstruo
 2571104	05298d00	Moko Monstruo
 2581101	31762ee5	Comandante del escuadrón 8
@@ -469,8 +469,8 @@ id	huella_jp	es
 4001101	10b0e01e	Generador de barrera
 4001102	d8ab7424	Autobús escolar
 4001106	48103a5f	
-4001107	8cb9dab5	Cañón antiaéreo (en construcción)
-4001108	657e939e	Cañón antiaéreo (terminado)
+4001107	8cb9dab5	Artillería (en construcción)
+4001108	657e939e	Artillería (terminada)
 4001110	71962671	Misil dañado
 4001111	56eeb794	Trampa de veneno
 4001112	e2fa9b64	Barrera colocable

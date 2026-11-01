@@ -38,9 +38,9 @@ id	huella_jp	es
 10132	59d802c1	Hablar en el Patio de la escuela
 10140	47dffe16	Ir al estacionamiento (P1)
 10142	2d419869	Hablar en el estacionamiento (P1)
-10150	0979fc25	Ir a la habitación misteriosa (P1)
-10151	a5253603	Ir a ver la habitación misteriosa (P1)
-10152	355f3599	Hablar en la habitación misteriosa (P1)
+10150	0979fc25	Ir a la sala extraña (P1)
+10151	a5253603	Ir a ver la sala extraña (P1)
+10152	355f3599	Hablar en la sala extraña (P1)
 10160	818bc72d	Ir al baño de hombres P1 (norte)
 10162	63d8bbf0	Hablar en el baño de hombres P1 (norte)
 10170	35ab1d1a	Ir al baño de hombres P1 (sur)
@@ -151,7 +151,7 @@ id	huella_jp	es
 20172	debcb950	Hablar con FB
 20180	bf24cb4b	Hablar con SIREI
 20190	ae26ccc5	Hablar con NIGOU
-20191	36a7be2f	Hablar con GOTOH
+20191	36a7be2f	Hablar con Gotoh
 100001	1e42aa2c	Avanzar hacia el fondo
 100002	08193d7e	Hablar con todos (%d/%d)
 100003	84b05710	Hablarle a Gaku
@@ -169,7 +169,7 @@ id	huella_jp	es
 100015	9b1a6fd4	Hablar con todos (%d/%d)
 100016	55043f8d	Examinar el dron recolector de cadáveres
 100017	a0d60a2d	Examinar el extintor
-100018	559dabd3	Examinar el sistema de defensa
+100018	559dabd3	Examinar el Sistema de Defensa
 100019	bf3d5525	Examinar el aparato misterioso
 100020	5e358c5b	Examinar la máquina VR
 100021	92238ddc	Buscar materiales para el regalo
@@ -179,7 +179,7 @@ id	huella_jp	es
 100025	c3f3a371	Examinar el refrigerador gigante
 200001	2f1647e1	Buscar un arma en el taller metalúrgico
 200002	03800ec0	Buscar a SIREI
-200003	6904f3bb	Buscar a el niño de Llamas Eternas
+200003	6904f3bb	Buscar al niño de Llamas Eternas
 200004	cf8f655c	Construir el telescopio astronómico
 200005	dd08aedd	Reunir materiales (0/2)
 200006	786ffe6f	Reunir materiales (0/3)
