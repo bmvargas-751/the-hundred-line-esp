@@ -1,28 +1,28 @@
 id	huella_jp	es
-10	4f22a20a	Ah, Takumi... justo a tiempo.
-20	072db53c	...¿Qué pasa? ¿Qué le ocurre?
-30	c0f83a61	Hay algo que me tiene un poco preocupado. Te lo cuento porque eres tú, pero...
-40	257a4d9e	la verdad es que no puedo comunicarme con la Penúltima Academia de Defensa.
-50	0ded5105	¿Eh...?
-60	d22d50e1	No sé si es solo una falla del comunicador o si pasó algo, pero...
-70	b23b70cd	Oye, en el futuro de antes no les pasó nada a los de allá, ¿no?
-80	5d3d72e0	¿Algo... como un ataque enemigo? El apuro de la Penúltima Academia de Defensa debería ser el Día 10.
-90	0638df29	Entonces... ¿será solo una falla de los equipos...? Ayer, en el contacto de rutina, también había mucho ruido.
-100	e756c311	¡Ese NIGOU...! Y eso que le dije que hiciera bien el mantenimiento...
-110	67289b49	De cualquier forma, cuando termine la próxima batalla de defensa, pienso ir enseguida a la Penúltima Academia de Defensa.
-120	02510689	El próximo ataque a esta academia es el Día 17, así que debería poder volver de sobra antes de eso.
-130	4680eb35	No pensarás ir solo, ¿no? ¿Vas a llevar a alguien más?
-140	6a262082	Sí, claro, esa es la idea.
-150	639ff176	Entonces, yo también voy a pensar en quiénes podrían ir. Ah, por cierto...
-160	7c6eb6b1	Lo que sabes es todo lo que nos contaste el otro día, ¿no?
-170	59578b44	¿Eh? S-Sí... así es...
-180	0feb1a4b	{fc(57e4f1)En realidad, todavía no conté nada del pasado de Nozomi, pero prometí no contárselo a nadie...}
-190	e8dcf305	Mmm, ya veo... Si es así, está bien...
-200	93888833	{fc(57e4f1)Le devolví la mirada inquisitiva a SIREI, haciendo lo posible por parecer tranquilo.}
-210	6ef13e9c	¿Y ahora vas a desayunar? Que te vaya bien. Come mucho para tener energía.
-220	cb7e698f	{fc(57e4f1)Dicho eso, SIREI se fue a toda prisa.}
+10	4f22a20a	Ah, Sumino. Justo el muchacho que quería ver.
+20	072db53c	¿Por qué? ¿Qué pasa?
+30	c0f83a61	Hay algo que me tiene preocupado, y eres el único en quien confío para este tipo de información.
+40	257a4d9e	Últimamente no he podido comunicarme con la otra academia.
+50	0ded5105	¿Qué...?
+60	d22d50e1	No sé si es una simple falla técnica o algo más grave.
+70	b23b70cd	Ya viste cómo se desarrolla todo esto antes, así que esperaba que supieras qué está pasando allá.
+80	5d3d72e0	¿Te refieres a un ataque o algo así? Pero hasta donde sé, no tuvieron combates realmente duros hasta el Día 10.
+90	0638df29	Entonces supongo que es solo una falla técnica. Eso explicaría toda la estática cuando intenté llamar ayer.
+100	e756c311	Ese NIGOU... Siempre le digo que cuide mejor el equipo.
+110	67289b49	De todos modos, iré yo mismo después de la batalla de mañana.
+120	02510689	No habrá otro ataque aquí hasta el Día 17, así que no deberían tener problemas sin mí por unos días.
+130	4680eb35	No pensarás hacer ese viaje tú solo, ¿verdad?
+140	6a262082	No, pensaba llevar a algunos de los demás conmigo.
+150	639ff176	Pensaré a quiénes podemos prescindir. Ah, y una cosa más...
+160	7c6eb6b1	De verdad me has contado todo lo que sabes, ¿no?
+170	59578b44	¿Eh? S-Sí... Por supuesto.
+180	0feb1a4b	{fc(57e4f1)Obviamente, no le había contado nada del pasado de Nozomi. Eso era un secreto entre ella y yo, y así se iba a quedar.}
+190	e8dcf305	Mmm... Espero sinceramente que no me estés mintiendo, Sumino.
+200	93888833	{fc(57e4f1)Los ojos de SIREI me taladraban. Le devolví la mirada, haciendo lo posible por parecer despreocupado.}
+210	6ef13e9c	Caramba, miren la hora. Mejor ve a desayunar. ¡Es la comida más importante del día, sabes!
+220	cb7e698f	{fc(57e4f1)Y así, apartó la mirada y se alejó con paso tranquilo.}
 230	f4a72a8b	
-240	e8f28c70	{fc(57e4f1)No parecía muy convencido. Bueno, no creo que haya problema en callarme lo de Kirifuji...}
-250	1aa78c02	{fc(57e4f1)Como sea, voy a terminar la próxima batalla de defensa y a ir enseguida a buscarlos a la Penúltima Academia de Defensa.}
-260	9174b0a8	{fc(57e4f1)Y, cuando nos reunamos con los de allá, vamos a defender todos juntos esta academia los 100 días.}
-270	d03c850d	Lo que tengo que hacer... es solo eso.
+240	e8f28c70	{fc(57e4f1)No creo que me crea. Bueno, qué se le va a hacer. Y de todos modos esta información no tiene nada que ver con el esfuerzo de guerra.}
+250	1aa78c02	{fc(57e4f1)Primero, tengo que concentrarme en ganar la batalla de mañana. Luego podré ir a explicarles todo en la otra academia.}
+260	9174b0a8	{fc(57e4f1)Cuando traiga a todos de vuelta aquí, volveremos a lo de siempre. Defender la escuela hasta que se cumplan los 100 días.}
+270	d03c850d	Eso es todo... ¿Verdad?

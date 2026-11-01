@@ -1,33 +1,33 @@
 id	huella_jp	es
-10	8b406035	Oye, Hiruko...\n¿Podrías contarme ya esa historia?
-20	02cf1989	...¿Qué historia?
-30	600018dd	Vamos... ya me lo mencionaste, ¿no?\nQue luchabas contra los invasores desde antes de venir a esta academia...
-40	6ddcf042	Y que por eso sabes una verdad que nosotros no sabemos.\nY que es una {fc(ff635b)"cruel verdad"}.
-50	dbae2625	¿Qué significa eso...?\n¿Qué es lo que sabes?
+10	8b406035	Oye, Hiruko... ¿Vas a contarme de lo que hablabas antes?
+20	02cf1989	¿De qué hablaba?
+30	600018dd	Vamos... Lo mencionaste antes. Dijiste que llevabas peleando contra invasores desde antes de venir aquí...
+40	6ddcf042	O sea que sabes algo que nosotros no sabemos. Y lo llamaste {fc(ff635b)"verdad desgarradora"}.
+50	dbae2625	¿Qué significa exactamente eso? ¿Qué es lo que sabes?
 60	f4a72a8b	
-70	0b87f4d6	...¿Hiruko?
-80	882b78ff	¿{fc(ff635b)"Cruel verdad"}...? ¿De qué hablas?\nYo no sé nada.
-90	257ff880	...¿Eh?
-100	da293b61	Es cierto que luchaba contra los invasores antes de venir aquí.\nPero eso...
+70	0b87f4d6	¿Hiruko...?
+80	882b78ff	¿{fc(ff635b)Verdad desgarradora}? ¿De qué hablas? No sé nada.
+90	257ff880	¿Eh...?
+100	da293b61	Es cierto que peleé contra invasores antes de venir aquí, pero...
 110	f4a72a8b	
-120	d4628a90	Eso fue... ¿eh?\n¿Por qué... fue?
-130	fb80b531	¿Qué...?
+120	d4628a90	Eso es... ¿Mm? ¿Por qué será...?
+130	fb80b531	¿Eh...?
 140	f4a72a8b	
-150	2b656744	Lo siento... pero parece que no me siento bien.\nMe voy primero a mi cuarto...
-160	400fc4da	¡E-Espera un momento!
-170	9a9f86b3	{fc(57e4f1)Sin poder contenerme, detuve a Hiruko.}
-180	2a71bc4a	...¿Qué pasa? Te dije que no me siento bien.
-190	20e4ac1e	Pero... algo no cuadra.\nQuizá tenías razón desde el principio.
-200	be5a8643	¿Algo no cuadra...?
-210	621e5e20	¡Lo que dijiste el otro día!\n¡Me lo dijiste a mí!
-220	b26760d4	Últimamente tú... estás un poco raro, ¿sabes?
-230	a3b84487	¿Eh? ¿R-Raro...? ¿En qué?
+150	2b656744	Lo siento, pero no debo de estar sintiéndome bien. Voy a volver a mi habitación.
+160	400fc4da	¡E-Espera un segundo!
+170	9a9f86b3	{fc(57e4f1)Sin darme por vencido, llamé a Hiruko.}
+180	2a71bc4a	¿Qué? Te dije que no me siento bien.
+190	20e4ac1e	Pero... algo no anda bien. Quizás tenías razón después de todo.
+200	be5a8643	¿A qué te refieres...?
+210	621e5e20	¡Eso me dijiste el otro día! ¿No te acuerdas?
+220	b26760d4	...Has estado actuando raro últimamente.
+230	a3b84487	¿Eh? ¿R-Raro cómo?
 240	f4a72a8b	
-250	711aae24	...Si no te das cuenta, no importa.\nEste problema lo resuelvo yo.
+250	711aae24	Si no te has dado cuenta de nada, olvídalo. Yo me encargaré de esto.
 260	f4a72a8b	
-270	78d25bde	No recuerdo haber dicho tal cosa.\n¿No será un error?
-280	0ded5105	¿Qué...?
-290	8da3df06	¿Ya terminaste?\nVoy a descansar un rato en mi cuarto...
-300	d8a55046	{fc(57e4f1)Con el rostro pálido, dijo eso,\ny esta vez sí Hiruko salió de la cafetería.}
+270	78d25bde	Yo... no recuerdo haber dicho nada semejante. ¿Seguro que no te equivocas?
+280	0ded5105	¿Eh...?
+290	8da3df06	¿Terminaste? Voy a descansar un rato en mi habitación...
+300	d8a55046	{fc(57e4f1)Pálida, Hiruko salió por completo de la cafetería.}
 310	f4a72a8b	
-320	b0887020	{fc(57e4f1)Perplejo, solo me quedó volver\na mi cuarto con pasos inseguros.}
+320	b0887020	{fc(57e4f1)Solo y desconcertado, no me quedó más opción que volver tambaleándome a mi habitación.}

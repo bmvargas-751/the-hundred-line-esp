@@ -1,33 +1,33 @@
 id	huella_jp	es
-10	7078d31e	{fc(57e4f1)Abrí la puerta de entrada con un suspiro, y la que estaba ahí parada era...}
-20	1cb22937	...¿Hiruko? ¿Qué pasa?
-30	b5ee053a	...No vine a consolarte. Solo vine a transmitirte un encargo de SIREI.
-40	718bc34a	...¿Un encargo?
-50	4c157f80	Pero, antes, hay una sola cosa que quiero preguntarte. Como es una pérdida de tiempo, voy directo al grano...
-60	7cd424f7	...¿Por qué tomas partido por Nozomi?
+10	7078d31e	{fc(57e4f1)Con un suspiro de mala gana, abrí la puerta para recibir a mi visita.}
+20	1cb22937	¿Hiruko? ¿Qué haces aquí?
+30	b5ee053a	No te hagas ideas equivocadas. No vine a animarte. Vengo por órdenes de SIREI.
+40	718bc34a	¿Qué órdenes?
+50	4c157f80	Antes de eso, tengo una pregunta para ti. Mi tiempo es valioso, así que permíteme saltarme el preámbulo.
+60	7cd424f7	¿Por qué te preocupa tanto el bienestar de Nozomi?
 70	0ded5105	¿Eh...?
-80	1cc425f1	Ya veo, era eso... Bueno, no voy a preguntarte el motivo.
-90	9f16d2f2	No puedo saber todo lo que pasó en los 100 días que viviste, y a quién quiera cada uno no es asunto mío...
-100	ad566d10	{fc(57e4f1)Parece que negarlo... no tiene sentido.}
-110	4875e87f	Pero, aunque para ti sean días repetidos, para los demás son días que viven por primera vez, ¿sabes?
-120	c2eaee6d	Lo que sientes por los compañeros con los que conviviste es imposible compartirlo con los demás...
-130	806e4c11	Te va a resultar más fácil si piensas que somos otras personas, distintas de los que conociste antes...
-140	3e8f475b	Puede que... tengas razón...
-150	178a0ddf	...Eso es todo. Bueno, el asunto principal, el encargo de SIREI...
-160	317e0205	Dijo que fueras a la Sala de Guerra, así que ve de una vez.
-170	e26fdaf6	{fc(57e4f1)Hiruko quiso irse después de decir solo eso, y enseguida la detuve.}
-180	ed570f37	Ah, espera un momento, Hiruko.
-190	a3cbc245	...¿Qué?
-200	38c2e880	El consejo de hace un rato... ¿por qué de repente?
-210	1fbf411a	...Por nada. Ya que venía a darte el recado de SIREI.
-220	d8486d86	Pero, bueno... lo pensé viéndote estos últimos días.
-230	fec8dbbf	Que tienes un propósito muy fuerte y estás dispuesto a sacrificar lo que sea por él.
-240	e1daf92c	Eso... no me desagrada.
-250	cfd19236	¿Porque tú también... eres así?
-260	fee9ad4e	Quién sabe, ¿no?
-270	c55cdf4b	{fc(57e4f1)Dicho eso con voz monótona, esta vez sí se fue.}
-280	e6093827	{fc(57e4f1)...Quizás Shizuhara tenga razón. Es mejor pensar que son otras personas... ¿no?}
-290	35c4abe4	{fc(57e4f1)Nunca pensé que Hiruko me enseñaría algo. La que es otra persona es justamente ella.}
-300	b414e156	{fc(57e4f1)No, supongo que la otra vez ella cargaba sola con todo ese peso.}
-310	a23c4357	{fc(57e4f1)Quizás por eso tenía esa actitud tan dura en ese momento. Bueno, ahora ya no hay forma de saberlo.}
-320	8a676469	...¿Y qué querrá SIREI? Por ahora, voy a ir a la Sala de Guerra.
+80	1cc425f1	Eso pensé... No te preocupes, no voy a presionarte.
+90	9f16d2f2	No tengo forma de saber qué pasó en los 100 días que ya viviste, y tampoco me interesan especialmente tus sentimientos hacia ninguno de nosotros.
+100	ad566d10	{fc(57e4f1)Parece que llegó a sus propias conclusiones... Bueno, no puedo negar que Nozomi es especial para mí.}
+110	4875e87f	Solo recuerda que ese ya no es un pasado que compartas con el resto de nosotros. Estamos viviendo todo esto por primera vez.
+120	c2eaee6d	Nuestros sentimientos hacia los compañeros no son ni de lejos tan fuertes como los tuyos. Tienes que tenerlo en cuenta.
+130	806e4c11	Quizás incluso te convenga considerarnos personas completamente distintas de los camaradas con quienes peleaste.
+140	3e8f475b	Entiendo lo que dices... Y sí, probablemente tengas razón.
+150	178a0ddf	Trata de tenerlo presente. Ahora, al asunto.
+160	317e0205	SIREI quiere verte en la Sala de Guerra, de inmediato.
+170	e26fdaf6	{fc(57e4f1)Hiruko se dio la vuelta y se fue. Ya estaba a unos tres metros cuando logré llamarla.}
+180	ed570f37	¡Hiruko, espera un segundo!
+190	a3cbc245	¿Qué pasa?
+200	38c2e880	No te lo tomes a mal, pero... ¿A qué viene que de repente me des consejos amistosos?
+210	1fbf411a	Simplemente pensé en mencionarlo mientras te daba el mensaje de SIREI.
+220	d8486d86	Además, te he estado... observando estos últimos días.
+230	fec8dbbf	Es evidente que tienes una voluntad firme y que no dudarías en hacer sacrificios por un bien mayor.
+240	e1daf92c	Son cualidades que admiro.
+250	cfd19236	¿Porque tú eres igual?
+260	fee9ad4e	Seguro que no sé de qué hablas.
+270	c55cdf4b	{fc(57e4f1)La voz de Hiruko no dejó traslucir ni un atisbo de humor. Ni siquiera miró atrás mientras se alejaba.}
+280	e6093827	{fc(57e4f1)Quizás tenga razón. Quizás debería pensar en todos en esta línea temporal como personas distintas.}
+290	35c4abe4	{fc(57e4f1)Con Hiruko más todavía. Nunca supe que fuera tan considerada.}
+300	b414e156	{fc(57e4f1)Aunque la versión de ella que conocí antes cargaba con muchísimo, sola...}
+310	a23c4357	{fc(57e4f1)Incluso con esa actitud dura, seguramente se preocupaba por nosotros a su manera. Pero eso ya es pasado...}
+320	8a676469	En fin, mejor voy a la Sala de Guerra. Me pregunto qué querrá SIREI esta vez.

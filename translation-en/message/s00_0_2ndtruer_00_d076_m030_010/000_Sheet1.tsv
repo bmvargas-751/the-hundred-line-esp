@@ -1,59 +1,59 @@
 id	huella_jp	es
-10	a4164c12	{fc(57e4f1)Los tres que estaban en el comedor\ncomían el desayuno en silencio, sin hablar.}
-20	1f966a6e	Buenos días, todos...
-30	da9ad3b7	Ey...
-40	b9290bfc	{fc(57e4f1)Respondió Takemaru brevemente\ny enseguida me hizo una pregunta.}
-50	8d6ded18	Y, ¿qué vas a hacer?\n¿Ya lo decidiste?
-60	c88562bf	N-No... todavía no.\nYo tampoco sé qué hay que hacer...
-70	94fc6d44	¿Ni siquiera Sumino, en su segunda vuelta...?\n¿Cuál será la respuesta correcta?
-80	9d0c5cb8	No hay respuesta correcta... elijamos lo que elijamos,\nnos vamos a arrepentir.
-90	234c205c	Es una elección como una maldición.
-100	41a63a59	Elijamos lo que elijamos,\nsin duda alguien terminará siendo infeliz...
-110	3f4ea24e	Por eso mismo tenemos que decidirlo nosotros.\nEsta vez, por nuestra propia voluntad.
-130	8f7a9f94	Estuve pensando estos días, pero\nno se me da lo de pensar cosas complicadas...
-140	0f09ade6	Así que decidí pensar en qué harían\nlos que murieron.
-150	2333e4f2	...¿Los que murieron?\n¿Darumi, Kyoshika y Kurara?
-170	6d45606c	Y también Eva.\nTambién fue nuestra compañera.
-180	a2c53b18	...Aunque, que lo diga yo, que la maté, es una falta de respeto.\nQuisiera pedirle perdón muriendo.
-190	12cd59a8	No... en ese momento no había otra opción.\nTambién fue decisión mía.
+10	a4164c12	{fc(57e4f1)Esta mañana solo había otras tres personas en la Cafetería, y todas comían en silencio.}
+20	1f966a6e	Eh... Buenos días.
+30	da9ad3b7	Buenas.
+40	b9290bfc	{fc(57e4f1)Takemaru me respondió con un breve saludo, y luego me miró fijamente un rato antes de volver a hablar.}
+50	8d6ded18	Entonces, ¿ya decidiste algo?
+60	c88562bf	No... Para ser sincero, sigo completamente perdido.
+70	94fc6d44	Supongo que ni tu experiencia del futuro puede decirnos qué es lo correcto esta vez...
+80	9d0c5cb8	No creo que haya una opción "correcta" aquí. Hagamos lo que hagamos, igual tendremos arrepentimientos... Y pesados.
+90	234c205c	Esa es la clase de posición irrazonable en la que nos han puesto.
+100	41a63a59	Cierto... Esta guerra terminará en tragedia de cualquier forma.
+110	3f4ea24e	Ya sé que es una porquería, pero por eso mismo tenemos que elegir. En momentos como este, hay que tomar el futuro en nuestras propias manos.
+130	8f7a9f94	Lo he estado pensando estos últimos días, pero la verdad es que no soy bueno con todo este asunto de moral complicada...
+140	0f09ade6	Así que traté de pensar qué habrían hecho los que han muerto si estuvieran aquí.
+150	2333e4f2	¿Te refieres a Darumi, Kyoshika y Kurara?
+170	6d45606c	Deberíamos considerar también lo que sentiría Eva. Ella también era de los nuestros, aunque fuera por poco tiempo.
+180	a2c53b18	Probablemente suene irrespetuoso viniendo de quien la mató... Me cortaría la garganta de buena gana para expiarlo, si creyera que cambiaría algo.
+190	12cd59a8	No seas tan duro contigo mismo. Hiciste lo que tenías que hacer. Además, fui yo quien lo autorizó.
 200	f4a72a8b	
-210	cb76d532	Yo quería liberarla de su sufrimiento...\nNo, mejor dicho, yo mismo no podía seguir viéndola así...
-220	0f53f01f	Aun así, tengo la responsabilidad de haber heredado su vida.\nQuiero cumplirla, como el insecto que soy.
-230	6bbc0d50	Seguro Darumi diría que no le importa morir\ny que quiere jugar un divertido juego de la muerte...
-240	22d221e6	Y Kyoshika diría...
-250	becc1c7d	Su sable era para cortar el mal...\nQuizá no pueda pelear si la humanidad no es la justicia.
-260	945cd2da	¿Y qué haría Kurara?
-270	4e0fd24e	Al saber que la familia Oosuzuki no existe en realidad,\nseguro se enfurecería...
-280	f096a26f	Pero capaz diría que la va a crear ella misma.\nQue después de salvar a la humanidad, la dominaría o algo así.
-290	9d431897	Es cierto... podría ser.
-300	62cb12ac	Al final, hasta las opiniones de los muertos se dividirían.\nPara una decisión de esta magnitud, quizá sea normal...
-310	78622fe5	{fc(57e4f1)Fue entonces que,\nde repente, sin aviso...}
-320	03e463e1	{fc(57e4f1)apareció Shion allí mismo.\nPero se veía muy débil.}
-330	ce696bf3	T-Todos... ¿puedo hablar un momento...?
-340	b436921d	¡Shion...! ¿Estás bien?
-350	fc426a6a	...No parece que esté muy bien.
-360	ab51f423	Sí... no tengo mucho tiempo...\nAsí que... les diré solo lo esencial...
-370	03dd7436	Seguro ya lo saben...\nTarde o temprano, estoy destinado a morir...
+210	cb76d532	Solo quería liberarla de su sufrimiento... O quizás sea más exacto decir que ya no soportaba verla así.
+220	0f53f01f	Su muerte es mi responsabilidad. La cargaré a mi manera débil y patética.
+230	6bbc0d50	En fin, a Darumi probablemente le habría dado igual. Ya saben cuánto le gustaban sus juegos de matar.
+240	22d221e6	Pero Kyoshika, en cambio...
+250	becc1c7d	Ella y su espada estaban dedicadas a la justicia. No creo que quisiera seguir peleando una guerra en la que somos los agresores.
+260	945cd2da	¿Y Kurara?
+270	4e0fd24e	Me la puedo imaginar perfectamente montando en cólera cuando se enterara de que el grandioso y poderoso clan Oosuzuki no existía de verdad.
+280	f096a26f	Pero luego diría algo como: "¡Tendré que construirlo yo misma, empezando ahora! ¡Y tengo que salvar a la humanidad para tener muchos sucios plebeyos a quienes gobernar! ¡Kijijiji!", o algo así.
+290	9d431897	Sí, suena bastante a ella.
+300	62cb12ac	Una a favor, una en contra, una neutral. Aunque estuvieran aquí ahora, estarían tan divididas como el resto de nosotros.
+310	78622fe5	{fc(57e4f1)Justo cuando nos hundíamos en otro silencio incómodo, llegó otra persona.}
+320	03e463e1	{fc(57e4f1)Shion apareció de la nada como siempre, pero se veía mucho más débil que de costumbre.}
+330	ce696bf3	T-Todos... ¿puedo hablar con ustedes un momento...?
+340	b436921d	¡Shion! ¿E-Estás bien?
+350	fc426a6a	A mí no me parece que esté bien...
+360	ab51f423	No tengo mucho tiempo... Tengo que ser breve.
+370	03dd7436	Seguro que todos lo saben, pero... no voy a vivir mucho más.
 380	f4a72a8b	
-390	3a43d438	Aun así, pensaba que si podía morir siendo útil a alguien,\nme daría por satisfecho...
-400	8d4fbc98	Al fin y al cabo... soy solo un arma...\nNo importa mi voluntad... solo hago lo que me piden...
-410	e65123d2	Pero ahora... es distinto.\nTengo... un propósito claro.
-420	7c8595f1	...¿Un propósito?
-430	144faac8	Quiero usar esta vida... por ustedes.
-440	0172c774	Quiero usar mi vida por mis queridos compañeros.\nQuiero que ustedes sean felices, también en mi lugar...
-450	9fe6c89c	Si eso ocurre... siento que\nmi vida también habrá tenido sentido.
-460	3719fbfc	S-Shion...
-470	50791fef	Por eso... no se preocupen por mí.\nElijan lo mejor para ustedes...
-490	a9fd891c	De todos modos, aunque me devuelvan al lado de Futurum,\nV'ehxness absorberá mi criptoglobina y me matará...
-500	c6ae52bd	O bien... esta vez me usarán\ncon fines militares contra la humanidad...
+390	3a43d438	Si de todos modos voy a morir, quiero que mi vida signifique algo...
+400	8d4fbc98	Me criaron para ser nada más que un arma... No importaba lo que sintiera, mientras cumpliera la tarea que me daban.
+410	e65123d2	Pero ahora hay algo que quiero hacer... Ahora tengo un propósito claro.
+420	7c8595f1	¿Qué es?
+430	144faac8	Quiero... morir por ustedes.
+440	0172c774	No quiero que mi vida simplemente se apague. Quiero sentir... que fue el precio que pagué por la felicidad de mis amigos.
+450	9fe6c89c	Y es un precio que pagaré con gusto. Eso... es lo que le dará a mi vida un verdadero sentido.
+460	3719fbfc	
+470	50791fef	Así que... no se preocupen por mí. Tomen la decisión que sea mejor para ustedes.
+490	a9fd891c	V'ehxness solo absorbería mi criptoglobina ella misma, o encontraría otra forma de convertirme en arma...
+500	c6ae52bd	Y entonces mi poder se volvería contra la humanidad.
 520	f4a72a8b	
-530	278797e1	Yo también... quiero morir, al menos al final, por voluntad propia.
-540	74459e1d	No por alguien desconocido,\nsino que quiero usar esta vida... por todos ustedes...
-550	6e65718d	E-Eso es lo único...\nque deseo...
-560	8fe65ca1	{fc(57e4f1)Dicho eso, Shion\nse desvaneció débilmente.}
-570	bc3d9a2e	La decisión se vuelve aún más importante...
+530	278797e1	Aunque sea esta vez... quiero tener voz en el asunto...
+540	74459e1d	Si voy a morir, no quiero que sea por gente que ni siquiera he conocido... Quiero que sea por todos ustedes.
+550	6e65718d	Eso... eso es todo lo que... quiero...
+560	8fe65ca1	{fc(57e4f1)Dicho esto, Shion se desvaneció, dejándonos a los cuatro a solas para reflexionar sobre sus palabras.}
+570	bc3d9a2e	Esta decisión se siente más importante que nunca.
 580	f4a72a8b	
-590	8e322cf2	Seguramente no existe una respuesta correcta que nos convenza,\npero aun así tenemos que decidir...
-600	7d9d8eb7	Porque... es una maldición.
-610	4f3ae617	{fc(57e4f1)Una maldición, ¿eh...?\nQué cierto es.}
-620	b53cfa30	{fc(57e4f1)Después, terminé de comer sin pensar\ny volví a paso rápido a mi cuarto.}
+590	8e322cf2	Nuestras opciones distan mucho de ser ideales, pero igual tenemos que elegir.
+600	7d9d8eb7	Esa es la maldición que nos ha tocado cargar.
+610	4f3ae617	{fc(57e4f1)Una maldición... No podría haberlo dicho mejor.}
+620	b53cfa30	{fc(57e4f1)Después de eso tomamos un desayuno apresurado y volvimos a nuestras habitaciones a seguir reflexionando.}

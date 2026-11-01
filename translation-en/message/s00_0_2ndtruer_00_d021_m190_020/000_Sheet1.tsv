@@ -1,30 +1,30 @@
 id	huella_jp	es
-10	ea6cb544	A esta no la mato.\nMejor la tomamos prisionera.
-20	4e78ad0f	...¡¿Qué?! ¡¿Hablas en serio?!
-30	c7b1de76	¿De verdad está bien?\nLa vez anterior eso nos puso en peligro, ¿no?
-40	683bbed5	Aun así... si suplica así, no puedo matarla.
-50	c68d7383	Vengarnos no sirve de nada...\nAunque lo hagamos, esos dos no van a volver.
-60	713d12fc	Es cierto. A nosotros, que somos babyface,\nno nos van esos movimientos crueles.
-70	c9c96102	¡G-Gracias...!\n¡Muchas gracias...!
-80	ed83c5d7	Además, no es solo compasión.\nAhora que nos entendemos con palabras, podemos hablar con ella...
-90	bdf031f1	Seguro que podemos sacarle información del enemigo.\nCreo que también servirá para los combates que vengan.
-100	4dcb2f66	...Sí. Yo también estoy de acuerdo.
-110	37763b59	Si aprendemos de los errores de antes,\nesta vez seguro que sale bien.
-120	5321eda3	Está bien... si insisten tanto,\nque sea así...
-130	112f9809	¡Y-Yo también estoy de acuerdo!\n¡Yo me encargaré de cuidarla como corresponde!
-140	79a3606c	Por cierto... cuando la torturemos,\n¿me dejan encargarme a mí?
-150	91541f72	Ufufu... solo de imaginar qué lindos gritos darán los invasores,\nme dan escalofríos...
-160	0bbb32ab	¡O-Oye... ¿qué es eso de ponerte duro?!\n¡Das asco!
-170	bd03c1e4	...Esa parece ser la conclusión.\nSIREI, ¿te parece bien?
-180	456282ea	Yo creo que es mejor no hacerlo,\npero bueno, si insisten tanto...
-190	ab0bdfa5	No queda sino respetar esa decisión.\nEntonces yo me encargo del apoyo.
-200	2acdaf65	¿Qué? ¿Apoyo?
-210	f0ac36c2	Voy a poner un seguro para que no nos traicione.\nDéjenmelo a mí.
-220	7a74618a	Entonces, encerremos a la prisionera en una jaula del Patio.\nEn la jaula de al lado de la de Eito.
-230	13672e11	G-Gracias...\nGracias...
-240	226908d6	No podía morir de ningún modo...\nQuiero volver a casa como sea...
-250	c54647d8	...¿Volver a casa?
-260	cf8412d1	En fin, por hoy se disuelve la formación.\n¡Mañana pueden dormir hasta tarde!
+10	ea6cb544	...No. No la mataremos. La tomaremos prisionera, como antes.
+20	4e78ad0f	¡Ugh, no hablas en serio! ¡¿Ya se le acabó la carga a esa batería de papa que tienes por cerebro?!
+30	c7b1de76	¿Estás seguro? Es muy probable que esto termine mal.
+40	683bbed5	Lo sé, pero... No puedo obligarme a matar a alguien tan indefenso y tan desesperado por vivir.
+50	c68d7383	Esta comandante no es quien mató a Darumi, ni a Kyoshika. Y vengarnos no las traería de vuelta, de todos modos.
+60	713d12fc	Sí... Además, soy técnica. ¡No puedo andar haciendo cosas de rudo como esa!
+70	c9c96102	¡Oh, gracias...! ¡Muchísimas gracias...!
+80	ed83c5d7	Esto también tiene una ventaja táctica. A diferencia de mi futuro, ahora sí podemos entender el idioma de los invasores.
+90	bdf031f1	Eso significa que podemos interrogarla y quizás aprender algo que nos ayude más adelante.
+100	4dcb2f66	Tienes razón... Creo que es buena idea.
+110	37763b59	¿Y qué si se escapó en el futuro de Takumi? Solo tenemos que aprender de nuestros errores.
+120	5321eda3	Está bien... Si todos insisten, supongo que lo aceptaré.
+130	112f9809	¡Yo también creo que deberíamos perdonarla...! ¡Me ofrezco a ayudar a cuidarla y todo!
+140	79a3606c	¿Crees que podrías reservarme algo de tiempo para probar con ella algunas técnicas de tortura?
+150	91541f72	¿Qué clase de gritos hacen los invasores cuando los llevan al límite? Solo imaginarlo me pone la piel de gallina...
+160	0bbb32ab	¡Contrólate, Carita Linda! Me estás dando mucho asco.
+170	bd03c1e4	Todos parecen haber tomado una decisión. ¿Qué dices a eso, SIREI?
+180	456282ea	Sigo pensando que la clemencia no tiene lugar en esta guerra... Pero parece que no puedo hacerlos cambiar de opinión.
+190	ab0bdfa5	Está bien, respetaré su decisión. Incluso les daré un apoyo extra.
+200	2acdaf65	¿Eh? ¿Apoyo?
+210	f0ac36c2	Solo un pequeño seguro para asegurarme de que no se vuelva contra nosotros. No se preocupen, yo me encargo de todo el proceso.
+220	7a74618a	Por ahora, pongámosla en una de las jaulas del Patio. La que está junto a la de Aotsuki está libre.
+230	13672e11	Oh, gracias... Gracias, gracias...
+240	226908d6	Jamás me lo perdonaría si muriera aquí... Pase lo que pase, yo... tengo que volver algún día a casa...
+250	c54647d8	¿"A casa"?
+260	cf8412d1	¡Eso es todo por hoy! Vuelvan a sus camas y descansen.
 270	f4a72a8b	
-280	768cecef	{fc(57e4f1)Después, SIREI se llevó con drones\na la prisionera, y...}
-290	be169b48	{fc(57e4f1)nosotros también volvimos a nuestros cuartos.}
+280	768cecef	{fc(57e4f1)Así, la batalla terminó, y SIREI convocó a sus drones para llevarse a la prisionera.}
+290	be169b48	{fc(57e4f1)Los demás hicimos lo que dijo y volvimos a nuestras habitaciones.}

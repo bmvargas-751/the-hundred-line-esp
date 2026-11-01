@@ -1,12 +1,12 @@
 id	huella_jp	es
-10	c7b9cec9	¡Lo siento! ¡Fallé!\n¡La cura no se completa!
-20	7edd6784	¿Y crees que se puede quedar sin completar, eh...?\n¡Prepárala otra vez!
-30	0abbab79	N-No puedo, ya usé todos los materiales...\nTendrían que reunir otra vez lo mismo...
-40	94b8daf6	¡¿Que hay que empezar de nuevo desde la exploración...?!\n¡Vaya porquería de juego!
-50	f21486dc	No es momento de culpar a NIGOU...\nYa queda poco tiempo; hay que volver a reunir los materiales cuanto antes.
-60	2c6ae9da	{fc(57e4f1)Después volvimos a salir a explorar a toda prisa,\npero no logramos reunir todos los materiales...}
-70	a8c7fc9e	{fc(57e4f1)Se nos acabó el tiempo...}
-80	c1dc5555	{fc(57e4f1)No pudimos completar la cura\nantes del plazo que nos había dado SIREI.}
-90	ddc9da32	{fc(57e4f1)Si seguía así, ¿qué sería de los demás?\nJusto cuando empezaba a angustiarme...}
-100	8f1d2b71	¡Tengo buenas noticias!\n¡Todos, vengan rápido a la cafetería!
-110	491aa5e1	{fc(57e4f1)Siguiendo las palabras de SIREI,\nfui enseguida a la cafetería.}
+10	c7b9cec9	¡Perdón! ¡Metí la pata! ¡No pude hacer la medicina especial!
+20	7edd6784	¡Te dije que no la cagaras! ¡Hazlo de nuevo!
+30	0abbab79	N-No puedo, usé todos los ingredientes que me dieron. Tendrán que conseguir más...
+40	94b8daf6	¡¿Tenemos que ir a buscarlos otra vez?! ¡Qué clase de juego de mierda es este!
+50	f21486dc	No tiene sentido culparlo a NIGOU. No nos queda mucho tiempo. Tenemos que ir a reunir los ingredientes que necesitamos lo antes posible.
+60	2c6ae9da	{fc(57e4f1)Salimos a buscar más ingredientes de inmediato, pero no los encontramos a tiempo.}
+70	a8c7fc9e	{fc(57e4f1)A pesar de nuestros mejores esfuerzos, fue demasiado tarde.}
+80	c1dc5555	{fc(57e4f1)No logramos completar nuestra cura milagrosa antes del plazo que fijó SIREI. Ahora solo nos quedaba esperar a que nuestros aliados se recuperaran por sí solos.}
+90	ddc9da32	{fc(57e4f1)No fue una buena sensación. Podríamos haber hecho más. Deberíamos haber hecho más. Aunque finalmente...}
+100	8f1d2b71	¡Buenas noticias, todos! Los demás se recuperaron por completo y están pasando el rato en la cafetería.
+110	491aa5e1	{fc(57e4f1)Apenas oí eso, fui a verlo con mis propios ojos.}

@@ -1,127 +1,127 @@
 id	huella_jp	es
-10	b97a030f	Entonces, yo vuelvo a mi cuarto...\nSeguro que dormiré bien.
-20	4a16d7f9	Nozomi, tú también descansa bien, ¿eh?\nSi la piel se arruina por falta de sueño, se echa a perder a una mujer linda.
-30	953f1d22	Entendido. Gracias.
-40	b4d85fd7	Uaaah... bueno, nos vemos.
-50	b1037a8b	{fc(57e4f1)Me despedí de todos\ny estaba por volver a mi cuarto cuando...}
-60	b7617c2b	{fc(57e4f1)...Nozomi me detuvo.}
-70	73016698	Ah, Takumi... ¿tienes un momento?
-80	8d3df0ee	¿Hm? ¿Qué pasa?\n¿Todavía te preocupa algo?
-90	3b30ce1b	¿No será... lo de ese comandante?
-100	0c076e18	Ah, sí... me sigue dando vueltas,\npero no me arrepiento de lo que hice...
-110	e9bcc55c	No es eso... quería agradecerte.\nGracias por todo.
-120	3f017b65	Ahora hasta agradezco\nque les hayas contado mi pasado a todos.
-130	0ded5105	¿Eh...?
-140	0fc69e20	Gracias a que tú lo contaste en ese momento,\nluego pude reconciliarme con Kurara...
-150	c9c69e41	Lo de mi reacción de rechazo es igual.\nGracias a ti, todos me ayudaron...
-160	f38e7825	...Pero, si soy sincera,\nal principio me dabas un poco de miedo, Sumino.
-170	5c7c3818	Y por eso... no sabía cómo tratarte\ny sin querer fui distante...
+10	b97a030f	Yo me voy a mi habitación, entonces. Creo que hoy dormiremos de maravilla...
+20	4a16d7f9	Nozomi, más te vale descansar, ¿okey? Si te salen granos por falta de sueño, sería un desperdicio de tu belleza.
+30	953f1d22	Lo haré. Gracias.
+40	b4d85fd7	*bostezo...* Nos vemos.
+50	b1037a8b	{fc(57e4f1)Con eso, estaba por despedirme e irme a mi habitación cuando...}
+60	b7617c2b	{fc(57e4f1)Nozomi me detuvo.}
+70	73016698	Takumi, ¿tienes un momento?
+80	8d3df0ee	¿Mm? ¿Qué pasa? ¿Todavía te queda algo en la mente?
+90	3b30ce1b	¿Es ese comandante?
+100	0c076e18	Ah, bueno, sí... Me da vueltas, pero no me arrepiento de lo que hice...
+110	e9bcc55c	No es por eso. Quería mostrarte mi agradecimiento. Gracias por todo, Takumi.
+120	3f017b65	Ahora agradezco que les hayas contado mi pasado a todos.
+130	0ded5105	¿Eh?
+140	0fc69e20	Gracias a que lo contaste entonces, pude reconciliarme después con Kurara...
+150	c9c69e41	Lo mismo con el asunto de mis síntomas de rechazo. Gracias a ti, todos me ayudaron...
+160	f38e7825	Pero, si soy sincera, al principio te tenía un poco de miedo.
+170	5c7c3818	Así que... no sabía qué pensar de ti, y terminé siendo fría...
 180	f4a72a8b	
-190	d3aa2b0b	Pero ahora que lo pienso,\nnada de lo que hiciste, Takumi, estuvo mal...
-200	667d7dd0	Lo que me asustaba, lo que me angustiaba,\ntodo lo resolviste tú.
-210	c76d2bcd	Por eso... de verdad, gracias.
-220	43b7cc16	No... no hace falta agradecer...\nLo importante es que de verdad salió bien...
-230	dea70d3f	Que pudimos ayudarte... de verdad me alegra.
+190	d3aa2b0b	Pero pensándolo todo ahora, todo lo que hiciste estuvo bien, Takumi.
+200	667d7dd0	Te ocupaste de todo lo que me asustaba o me preocupaba.
+210	c76d2bcd	Así que de verdad quiero agradecerte.
+220	43b7cc16	Oye. No hace falta que me agradezcas. Solo me alegra...
+230	dea70d3f	De verdad me alegra haber podido ayudarte.
 240	f4a72a8b	
-250	295c7532	En los cien días anteriores que tú viviste,\nseguro que yo confiaba de verdad en ti...
-260	c9e7906b	Ahora entiendo muy bien ese sentimiento.
-270	b7e18e4c	Por eso... si no te molesta, ¿puedes contarme?\n¿Qué pasó entre tú y yo la vez anterior?
-280	0ded5105	¿Eh...?
-290	aaa16019	Es que no es justo que solo tú lo sepas todo.\nQuiero que tengamos una relación de igual a igual.
-300	3e3f6c44	Por eso quiero que también me lo cuentes.\nLo que pasó entre tú y yo en los cien días anteriores.
-310	ce888079	Quiero saber bien todo\nsobre nuestra relación hasta ahora.
-320	18f1abb3	{fc(57e4f1)Todo, sin dejar nada...}
+250	295c7532	En los 100 días anteriores que viviste, debo de haber confiado mucho en ti...
+260	c9e7906b	Ahora entiendo de verdad por qué.
+270	b7e18e4c	Entonces... ¿podrías contarme? ¿Qué pasó entre nosotros la vez anterior?
+280	0ded5105	¿Eh?
+290	aaa16019	No es justo que seas el único que sabe todos estos secretos. Quiero que estemos en igualdad de condiciones.
+300	3e3f6c44	Así que quiero que me lo cuentes. Cuéntame qué pasó entre nosotros en los 100 días anteriores.
+310	ce888079	Quiero saber todo lo que hay que saber sobre la relación entre tú y yo.
+320	18f1abb3	{fc(57e4f1)Todo...}
 330	f4a72a8b	
-340	f03cdf87	{fc(57e4f1)Había pensado no contarle a Nozomi lo de Karua\nhasta que todo estuviera resuelto...}
-350	f1a55108	{fc(57e4f1)Pero si me lo pide así,\nya no aguanto más.}
-360	a05a3826	{fc(57e4f1)Porque en realidad siempre quise contárselo.}
-370	af6b7e15	{fc(57e4f1)Ya no puedo seguir ocultando ese sentimiento.}
-380	d28a4239	...De acuerdo, te lo cuento.\nNo creo que me creas, pero...
-390	42288d64	...Aun así, está bien. ¿Me escuchas?
-400	9ea0cac8	{fc(57e4f1)Con ese preámbulo,\nle conté todo.}
-410	394d334a	{fc(57e4f1)Todo lo de los cien días anteriores que guardaba en mi memoria... con sinceridad.}
-420	3a1c40dc	{fc(57e4f1)Que tenía una amiga de la infancia llamada Karua Kashimiya...}
-430	013837b4	{fc(57e4f1)Ella era para mí\ntan importante como la familia.}
-440	169b6277	{fc(57e4f1)Y la que era idéntica a esa Karua en todo\nera Nozomi Kirifuji, a quien conocí en esta academia.}
-450	dc7020a9	{fc(57e4f1)Pero la propia Nozomi\nno sabía nada de Karua ni de mí...}
-460	39c9723f	{fc(57e4f1)Eso me desconcertaba.\nDesde el momento en que la conocí, estuve desconcertado todo el tiempo.}
-470	7f5fc005	{fc(57e4f1)Pero contárselo a Nozomi solo la asustaría.\nAsí que decidí considerarlas dos personas distintas.}
-480	5304032b	{fc(57e4f1)...Hasta que presencié la muerte de Nozomi.}
-490	7911b33a	{fc(57e4f1)La herida en el abdomen que vi cuando murió...\nLa sensación al tocarla...}
-500	0e64881e	{fc(57e4f1)Era exactamente igual a la Karua que yo conocía.\nEntonces, quedé convencido.}
-510	9fba7247	{fc(57e4f1)De que Karua Kashimiya y Nozomi Kirifuji eran la misma persona.}
-520	ed928699	...Claro, sé que tú no tienes ningún recuerdo de eso.
-530	c066b109	También estoy preparado para que te dé escalofríos\nque te cuente esto...
-540	a17ad0d3	Aun así, esa es mi verdad.\nNo puedo pensar que Karua Kashimiya y Nozomi Kirifuji sean otra cosa que la misma persona.
-550	cd18c7c9	Ni yo mismo sé por qué...\nSeguro que en este mundo está pasando algo extraño...
+340	f03cdf87	{fc(57e4f1)Pensaba postergar el contarle a Nozomi lo de Karua hasta que todo estuviera resuelto, pero...}
+350	f1a55108	{fc(57e4f1)Oyéndola pedírmelo así, ya no soporto ocultárselo.}
+360	a05a3826	{fc(57e4f1)La verdad es que siempre quise contárselo, de todos modos.}
+370	af6b7e15	{fc(57e4f1)Ya no puedo ocultar mis sentimientos.}
+380	d28a4239	Está bien. Te lo diré. Aunque no creo que me creas...
+390	42288d64	Pero está bien. ¿Me escuchas?
+400	9ea0cac8	{fc(57e4f1)Con ese preámbulo, se lo conté todo.}
+410	394d334a	{fc(57e4f1)Fui sincero con cada recuerdo que tenía.}
+420	3a1c40dc	{fc(57e4f1)Había una chica llamada Karua Kashimiya que era mi amiga de la infancia.}
+430	013837b4	{fc(57e4f1)Era tan importante para mí como alguien de la familia.}
+440	169b6277	{fc(57e4f1)Conocí a Nozomi Kirifuji en esta escuela, una chica idéntica a Karua en todo.}
+450	dc7020a9	{fc(57e4f1)Pero Nozomi no sabía nada de mí ni de Karua...}
+460	39c9723f	{fc(57e4f1)Y eso me angustiaba. Me angustió desde el primer momento en que la conocí.}
+470	7f5fc005	{fc(57e4f1)Pero contárselo a Nozomi solo la perturbaría. Así que decidí considerarlas dos personas distintas.}
+480	5304032b	{fc(57e4f1)Hasta que vi morir a Nozomi.}
+490	7911b33a	{fc(57e4f1)La cicatriz que vi en su estómago cuando murió... La sensación al tocarla...}
+500	0e64881e	{fc(57e4f1)Era exactamente igual a la Karua que conocí. Y entonces estuve seguro.}
+510	9fba7247	{fc(57e4f1)Karua Kashimiya y Nozomi Kirifuji eran la misma persona.}
+520	ed928699	Claro, sé que no tienes recuerdos de esto.
+530	c066b109	Estoy totalmente preparado para que te dé escalofríos oír esto también.
+540	a17ad0d3	Pero esta es mi verdad. No puedo evitar pensar que Karua Kashimiya y Nozomi Kirifuji son la misma persona.
+550	cd18c7c9	Yo mismo no entiendo cómo es posible... Seguramente algo extraño está ocurriendo en este mundo...
 560	f4a72a8b	
-570	214c82cb	Para mí, tú eres una camarada importante\ny también una amiga de la infancia importante.
-580	b3493f48	Pero perdí a alguien así de importante delante de mis ojos...\nPor mi propia ingenuidad y debilidad.
-590	830f7ffc	Ya no... quiero repetirlo...
-600	5a419a29	No quiero repetir nunca más\nese arrepentimiento, esa impotencia.
-610	cd6fe894	Quiero protegerte.\nEsta vez quiero protegerte hasta el final.
-620	ef540607	Saber qué está pasando en este mundo\npuede esperar...
-630	f6a014d0	En todo caso... no quiero que mueras jamás.
-640	7f3c0f32	Eso es lo que me impulsa ahora...\nPor eso volví del futuro...
+570	214c82cb	Para mí, eres una querida camarada, y también mi querida amiga de la infancia.
+580	b3493f48	Y perdí a alguien tan importante justo delante de mis ojos. Por mi propia ingenuidad y debilidad.
+590	830f7ffc	No quiero que vuelva a pasar.
+600	5a419a29	No quiero que ese remordimiento, esa decepción, vuelvan a repetirse.
+610	cd6fe894	Quiero protegerte. Esta vez quiero protegerte hasta el final.
+620	ef540607	Averiguar lo que sea que esté pasando aquí puede esperar.
+630	f6a014d0	No quiero que mueras nunca más.
+640	7f3c0f32	Eso es lo que me mueve ahora. Es por lo que volví del futuro.
 650	f4a72a8b	
-660	0c7020b6	...Perdón. Te cuento esto de golpe.\nNo debe de tener sentido.
-670	c8adc31a	Y encima me puse a llorar de repente...\nDebe de dar asco... perdón de verdad...
-680	257ff880	...¿Eh?
-690	d6b3e37a	Es... raro, ¿verdad?\n¿Por qué estoy llorando yo también...?
-700	13d849d0	Es cierto que lo que acabas de contar, Sumino, es puro asombro,\ny no logro entenderlo del todo con la cabeza, pero...
-710	cbf2260a	Siento tanto tus sentimientos que me duele...\nSiento el pecho apretado...
-720	92b5fd3a	...y me salen las lágrimas.
+660	0c7020b6	Perdón. Sé que es mucho de una vez. Probablemente suena a locura.
+670	c8adc31a	Y es rarísimo que me ponga a llorar así... Lo siento muchísimo.
+680	257ff880	¿Eh...?
+690	d6b3e37a	Es... tan extraño. ¿Por qué estoy llorando yo también?
+700	13d849d0	Es cierto... todo lo que acabas de decir es un golpe enorme, y apenas puedo empezar a ordenarlo en mi cabeza, pero...
+710	cbf2260a	Siento tus sentimientos tanto que me duele. Siento el pecho apretado...
+720	92b5fd3a	Hace que se me llenen los ojos de lágrimas.
 730	f4a72a8b	
-740	a52ac1fd	...Gracias por contármelo.\nTe creo lo que dijiste.
-750	0ded5105	¿Eh...?
-760	c00b4a5f	Seguro que es como dices.\nEn este mundo están pasando cosas extrañas inimaginables.
-770	b65cb9f5	Si eso me afecta a mí de algún modo...\no si afecta a Karua...
-780	82e97c5f	No lo sé, pero sin duda\nlo que me contaste es tu verdad.
-790	165b0868	Por eso, te creo todo.
+740	a52ac1fd	Gracias por contármelo. Creo lo que dijiste.
+750	0ded5105	¿Eh?
+760	c00b4a5f	Estoy segura de que lo que dices es verdad. Están pasando cosas inconcebiblemente extrañas en este mundo. Y...
+770	b65cb9f5	Quizás me estén afectando a mí... Quizás estén afectando a Karua.
+780	82e97c5f	No estoy segura. Pero sé que lo que me acabas de contar es tu verdad.
+790	165b0868	Así que creeré todo.
 800	f4a72a8b	
-810	dd776ecc	...Gracias.
-820	8ef38d00	Pero... da un poco de vergüenza.\nQue me digan que soy importante, que me protegerán sin falta...
-830	8eccad44	...Es como si de golpe me hubieran hecho una confesión.
-840	03c33f05	A-Ah, no...\nEso es... este...
-850	4839a5fe	...Es broma, tranquilo.
-860	c5a49a18	Pero Karua y la otra yo\nseguro sienten lo mismo que tú.
-870	f33db952	Seguro que te aprecia, Takumi,\ny seguro que quiere protegerte a toda costa...
-880	a9fac547	...Es medio romántico, ¿no?\nAunque no sea algo que deba decir como si fuera ajeno.
-890	a882e3bf	Al final, mientras estemos en esta academia\nno sabremos la verdad...
-900	92d0657f	Pero cuando nos reunamos con la humanidad después de los cien días,\nseguro que esa respuesta se aclarará...
-910	bfc10890	Lo tuyo con Karua...\ny también qué está pasando en este mundo.
-920	616cf311	Por eso, primero voy a pelear\npara que todos terminemos estos cien días sonriendo.
-930	4068349f	Sí. Yo haré lo mismo...
-940	8ef81555	...Pero, es solo una suposición,\nque después del Día 100...
-950	3d8c946f	si resulta que Karua y yo somos personas distintas,\n¿te olvidarías de mí y harías feliz a Karua?
-960	d0266993	¡¿Eh?!
-970	bbaf11cd	...Jaja, también es broma.\nSolo que siento que esa posibilidad no es cero.
-980	f0b716f4	La yo de los cien días anteriores y la yo de ahora,\nquizá también sean personas distintas, ¿no?
-990	fde4b956	...¿Eh? ¿Qué quieres decir?
-1000	67182ec4	Verás, sobre lo del accidente de tránsito\nque me contaste hace un momento...
-1010	3706dc47	Es cierto que el lugar de la herida y las circunstancias del accidente son iguales,\npero hay una gran diferencia.
-1020	0e546a05	¿Una... diferencia?
-1030	4d70b710	En el accidente en que me hice esta herida,\nno murió solo mi papá...
-1040	d1d04a43	...también murió mi mamá.
-1050	aef48060	...¿Qué?
-1060	e580619b	Y el tío que me acogió, que no tenía a nadie,\nestudiaba la criptoglobina...
-1070	36f42ce1	Para devolverle el favor a ese tío,\nquería participar en esta operación como fuera.
+810	dd776ecc	Gracias.
+820	8ef38d00	Pero... da un poco de vergüenza. Oírte decir que te soy querida y que me protegerás...
+830	8eccad44	Es un poco como si de repente me hubieras confesado que t-te gusto.
+840	03c33f05	Ah, bueno... O sea... Eso es...
+850	4839a5fe	Es solo una broma.
+860	c5a49a18	Pero apuesto a que la otra yo siente lo mismo que tú.
+870	f33db952	Apuesto a que ella te aprecia, Takumi. Y a que quiere protegerte a toda costa.
+880	a9fac547	Es bastante romántico. Aunque técnicamente sea sobre mí.
+890	a882e3bf	Al final, mientras estemos en esta escuela, no sabremos la verdad...
+900	92d0657f	Pero, cuando volvamos con la humanidad tras los 100 días, estoy seguro de que obtendremos respuestas...
+910	bfc10890	Sobre ti, sobre Karua. Y quizás incluso sobre lo que está pasando aquí.
+920	616cf311	Así que lo primero para mí es pelear para que todos terminemos los 100 días con una sonrisa.
+930	4068349f	Cierto. Yo haré lo mismo...
+940	8ef81555	Pero... Y esto es solo un hipotético... Después de los 100 días...
+950	3d8c946f	Si descubres que Karua y yo somos personas distintas después de todo, ¿te olvidarías de mí y correrías hacia ella?
+960	d0266993	¿Eh...?
+970	bbaf11cd	Jaja, otra vez estoy bromeando. Pero tengo la sensación de que hay una posibilidad no nula de que eso ocurra.
+980	f0b716f4	Quizás la yo que conociste antes y la yo que conoces ahora sean personas distintas.
+990	fde4b956	¿Eh? ¿A qué te refieres?
+1000	67182ec4	Sobre el accidente de auto del que me hablabas hace un momento...
+1010	3706dc47	Es cierto que la ubicación de mi cicatriz y las circunstancias del accidente son completamente idénticas, pero hay una gran diferencia.
+1020	0e546a05	¿Diferencia...?
+1030	4d70b710	En el accidente que me dejó esta cicatriz no murió solo mi padre...
+1040	d1d04a43	Mi mamá también.
+1050	aef48060	¿Eh?
+1060	e580619b	No me quedó ningún familiar, así que me acogió mi tío. Él estudiaba la criptoglobina...
+1070	36f42ce1	Por eso quise unirme a esta misión: para devolverle de algún modo su bondad.
 1080	f4a72a8b	
-1090	cb1949fb	{fc(57e4f1)...¿Qué dijo?\n¿Qué es eso? ¿Cómo es posible?}
-1100	8a925192	{fc(57e4f1)Se suponía que ella se infiltró en esta academia\npara vengarse...}
-1110	84e49c01	{fc(57e4f1)Para vengarse de su madre,\nque se suicidó porque el trasplante de criptoglobina no funcionó...}
-1120	8be97009	Mi mamá... se culpaba a sí misma.
-1130	29016ebd	Por no haber logrado tener éxito con su investigación...\nPor haber arrastrado a su hija sin dejar resultados...
-1140	8aff1808	Creo que por esa culpa... mi mamá se suicidó.
-1150	3920c265	{fc(57e4f1)...¿Y entonces por qué?\n¿Qué está pasando?}
-1160	ad17cd2d	Pero buscar las respuestas queda para después.\nPrimero tenemos que sobrevivir los cien días aquí.
-1170	cf8284f4	Si no... no hay nada que podamos hacer.
+1090	cb1949fb	{fc(57e4f1)¿Qué...? ¿Pero cómo?}
+1100	8a925192	{fc(57e4f1)Se suponía que se había colado en esta escuela para vengarse...}
+1110	84e49c01	{fc(57e4f1)Para vengar a su madre, que se quitó la vida tras fracasar sus transfusiones de criptoglobina...}
+1120	8be97009	Y... Ella se culpaba a sí misma.
+1130	29016ebd	Por no poder lograr el éxito con su investigación... Por haber involucrado a su hija sin obtener resultados...
+1140	8aff1808	Creo que esa culpa fue lo que la llevó al suicidio.
+1150	3920c265	{fc(57e4f1)¿Cómo? ¿Qué demonios está pasando?}
+1160	ad17cd2d	Pero tendremos que encontrar nuestras respuestas más adelante. Primero tenemos que sobrevivir aquí 100 días.
+1170	cf8284f4	Si no lo hacemos... no podemos hacer nada.
 1180	f4a72a8b	
-1190	33371f49	...Perdón por hacerte hablar tanto estando cansado.\nDe verdad gracias por contármelo.
-1200	5ee05be2	Pero así como tú quieres protegerme,\nyo también quiero protegerte con todas mis fuerzas.
-1210	887e3293	Así que, como camarada que pelea aquí contigo...\ncomo camarada que peleó aquí contigo...
-1220	3ac114ed	De nuevo, cuento contigo.\nLleguemos todos juntos al Día 100.
-1230	85c1d51e	S-Sí, claro...
-1240	0a8936a2	...Entonces, yo también vuelvo a mi cuarto.\nDescansa bien tú también, Takumi.
-1250	bd369109	...Buenas noches.
-1260	b1af35c9	{fc(57e4f1)Solo pude ver, atónito,\ncómo Nozomi se alejaba de espaldas hacia su cuarto...}
+1190	33371f49	Ay, perdón por arrastrarte a una conversación tan larga cuando estás cansado. De verdad te agradezco que hablaras conmigo.
+1200	5ee05be2	Pero, así como tú quieres protegerme, yo quiero esforzarme al máximo por protegerte.
+1210	887e3293	Entonces... como tu camarada en la batalla... Como una camarada que ha peleado a tu lado...
+1220	3ac114ed	Cuidémonos mutuamente. Todos llegaremos al Día 100.
+1230	85c1d51e	S-Sí, seguro...
+1240	0a8936a2	Bueno, entonces mejor me voy a mi habitación. Takumi, tú también descansa, ¿okey?
+1250	bd369109	Buenas noches...
+1260	b1af35c9	{fc(57e4f1)Solo pude mirar a Nozomi mientras se alejaba hacia su habitación, completamente atónito...}
