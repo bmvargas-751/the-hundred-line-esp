@@ -2,7 +2,7 @@
 
 Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, hecha desde el japonés original, con el inglés oficial como apoyo y un glosario propio.
 
-> **Versión 0.3.0, en revisión.** La versión para el doblaje japonés está completa. La del doblaje inglés está en curso: ya cubre la primera partida (Días 0 a 100). Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
+> **Versión 0.4.0, en revisión.** La versión para el doblaje japonés está completa. La del doblaje inglés está en curso: ya cubre la interfaz, la primera partida (Días 0 a 100) y los eventos y charlas. Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
 > Es un proyecto de fans, sin relación con los creadores ni los editores del juego. **No incluye el juego ni sus archivos**: necesitas tu propia copia en Steam.
 
 ## Avance
@@ -19,7 +19,7 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 | | **Total** | **140.590** | **140.590** | **100,0 %** |
 <!-- /progress -->
 
-**Doblaje inglés (en curso):** la tabla de arriba es la del doblaje japonés. En el doblaje inglés está revisada la primera partida completa (Días 0 a 100); el resto sigue con el texto del doblaje japonés, que se revisa contra el inglés ruta por ruta.
+**Doblaje inglés (en curso):** la tabla de arriba es la del doblaje japonés. En el doblaje inglés están rehechas desde el inglés la interfaz, la primera partida completa (Días 0 a 100) y los eventos y charlas; las rutas (partidas posteriores) siguen con el texto del doblaje japonés, que se revisa contra el inglés ruta por ruta.
 
 ## Instalar
 
