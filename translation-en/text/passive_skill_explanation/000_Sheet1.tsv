@@ -7,8 +7,8 @@ id	huella_jp	es
 51	ded0195d	Al actuar, obtiene una mejora aleatoria
 52	ded0195d	Al actuar, obtiene una mejora aleatoria
 61	0e490d81	No sufre Fatiga
-71	375156d5	Ataque +1 con 100 % o más de VOLTAGE
-72	375156d5	Ataque +1 con 100 % o más de VOLTAGE
+71	375156d5	Ataque +1 con 100% o más de VOLTAGE
+72	375156d5	Ataque +1 con 100% o más de VOLTAGE
 81	28e7561f	Ataque +2 si Kako Tsukumo está en agonía
 82	28e7561f	Ataque +2 si Kako Tsukumo está en agonía
 91	7c18de1d	Ataque +3 si ataca sin moverse
@@ -63,22 +63,22 @@ id	huella_jp	es
 20314	b4647e35	Contraataca al recibir un ataque enemigo
 20315	b4647e35	Contraataca al recibir un ataque enemigo
 20317	810ba506	Contraataca al recibir daño de un enemigo
-20401	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20402	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20403	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20404	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20405	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20406	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20407	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20408	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20409	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20410	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20411	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20412	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20413	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20414	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20415	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
-20416	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50 % de probabilidad
+20401	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20402	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20403	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20404	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20405	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20406	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20407	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20408	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20409	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20410	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20411	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20412	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20413	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20414	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20415	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
+20416	d271fcfb	Los aliados que actúan con 1 AP reciben Apoyo con un 50% de probabilidad
 20501	47e2456b	En agonía: Ataque +2
 30001	c0d23731	Con 0 HP, explota y ataca a los enemigos de las 8 casillas de alrededor
 60001	81744c0d	Ataque +1 contra enemigos Aislados

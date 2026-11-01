@@ -12,11 +12,11 @@ id	huella_jp	es
 10201	6cfab33d	Los enemigos llegan uno tras otro. Los {fc(ff0000)enemigos pequeños} se mueven mucho y llegan con facilidad al objetivo de defensa: elimínalos primero.
 10301	34ebd0ab	Con {keyhelp(30)} o desde el menú de {keyhelp(90)}, puedes {fc(ff0000)terminar el turno}.
 10302	14b58006	Los AP que sobren {fc(ff0000)pasan al turno siguiente}. {fc(ff0000)Si tus ataques no alcanzan a los enemigos}, guarda los AP para después.
-10401	7aa4d10c	Al pelear con los enemigos, se acumula {fc(ff0000)VOLTAGE}. Con 100 % o más, puedes usar el {fc(ff0000)Ataque especial}.
+10401	7aa4d10c	Al pelear con los enemigos, se acumula {fc(ff0000)VOLTAGE}. Con 100% o más, puedes usar el {fc(ff0000)Ataque especial}.
 10402	c5b0067b	El Ataque especial es un poderoso as bajo la manga que {fc(ff0000)no gasta AP}. A cambio, el personaje sufre {fc(ff0000)Aturdimiento} y {fc(ff0000)no puede actuar hasta el final del turno siguiente}.
 10403	120fc925	Pon el cursor sobre el personaje y presiona {keyhelp(73)} para usar el {fc(ff0000)Ataque especial}.
 10413	87b12d27	Si pones el cursor sobre un personaje y presionas {keyhelp(73)}, puedes usar el {fc(ff0000)Ataque especial}.
-10501	c879576c	Con 100 % o más de VOLTAGE, además del Ataque especial, puedes usar {fc(ff0000)Potenciar hemoánima}.
+10501	c879576c	Con 100% o más de VOLTAGE, además del Ataque especial, puedes usar {fc(ff0000)Potenciar hemoánima}.
 10502	92eadc35	{fc(ff0000)Potenciar hemoánima} fortalece a los aliados de distintas formas, y el efecto {fc(ff0000)dura toda la batalla}.
 10601	e44b1550	En una batalla defensiva, si destruyen el {fc(ff0000)generador de barrera} que crea la barrera defensiva, {fc(ff0000)pierdes}. Protégelo bien y acaba con los enemigos.
 10701	049428ec	Después de elegir una habilidad, si eliges una {fc(00ff00)casilla verde}, puedes {fc(ff0000)decidir adónde moverte antes de atacar}.
@@ -34,7 +34,7 @@ id	huella_jp	es
 11213	f449ddb6	Los Darumarr y los Tubrillas {fc(ff0000)atacan primero los objetos colocados}. Las vallas metálicas {fc(ff0000)son más eficaces si las colocas para proteger la base}.
 11301	1c22891f	Al absorber la criptoglobina del bebé, se desbloqueó la habilidad de especialista de Takumi, {fc(ff0000)Revancha especial}. Cada vez que muere un aliado, su ataque sube durante la WAVE.
 11401	3408102c	Si ya superaste una batalla parecida en otra ruta, puedes saltarla y {fc(ff0000)ver solo el evento}.
-11501	ed1b3c5a	Con {keyhelp(74)} ya puedes usar la {fc(ff0000)Bomba Shion}. Se lanza {fc(ff0000)gastando 300 % de VOLTAGE}.\n*Solo se puede usar en ciertas batallas.
+11501	ed1b3c5a	Con {keyhelp(74)} ya puedes usar la {fc(ff0000)Bomba Shion}. Se lanza {fc(ff0000)gastando 300% de VOLTAGE}.\n*Solo se puede usar en ciertas batallas.
 11601	820b6eb7	Nozomi Kirifuji no logra controlar bien su hemoánima, así que {fc(ff0000)no puede participar en el golpe de gracia}.
 12001	95dde2d0	Al repetir una batalla, puedes recibir una bonificación de reintento.
 12101	50f8d64b	La {fc(ff0000)armadura} es una {fc(ff0000)resistencia temporal} que recibe el daño en lugar del HP y solo dura ese turno.
@@ -69,7 +69,7 @@ id	huella_jp	es
 16001	655c1663	El {fc(ff0000)retroceso temporal} {fc(ff0000)devuelve a tus aliados a como estaban un turno antes}.\n・Vuelven a su posición anterior\n・Se anula Potenciar hemoánima\n・Desaparecen los objetos colocados
 11701	7b411797	Al absorber la criptoglobina del bebé, el ataque especial de Takumi Sumino cambió de Asalto carmesí a {fc(ff0000)Bombardeo azur}.
 11702	0722805b	{fc(ff0000)Bombardeo azur} tiene un gran alcance vertical y efecto de perforación, y puede arrasar con enemigos más lejanos.
-11901	e864b443	Cuando muere un aliado, {fc(ff0000)obtienes 100 % de VOLTAGE} y sube la {fc(ff0000)tasa de obtención de VOLTAGE} de todo el equipo.
+11901	e864b443	Cuando muere un aliado, {fc(ff0000)obtienes 100% de VOLTAGE} y sube la {fc(ff0000)tasa de obtención de VOLTAGE} de todo el equipo.
 11902	60fbe621	Además, cada muerte de un aliado cuenta como {fc(ff0000)¡Bien! Eliminaciones} y {fc(ff0000)aumenta la recompensa} al ganar. Ningún sacrificio es en vano. {fc(ff0000)¡Pelea sin miedo a la muerte!}
 18001	5dc0baff	Takumi Sumino es un personaje fácil de usar, con un buen equilibrio entre {fc(ff0000)poder y área de ataque}.
 18002	917de8d0	Su habilidad de especialista es {fc(ff0000)Repetición especial}.\nDesde el menú de {keyhelp(90)}, puede {fc(ff0000)repetir la batalla}.
@@ -84,7 +84,7 @@ id	huella_jp	es
 18501	eed5b694	Tsubasa Kawana es una luchadora de apoyo {fc(ff0000)especializada en el movimiento}.
 18502	0899586f	Su habilidad de especialista es {fc(ff0000)Mecánica especial}.\nPor más que actúe, {fc(ff0000)nunca sufre fatiga}.
 18601	07f97d19	Gaku Maruko es un atacante de media distancia que {fc(ff0000)destaca en arrasar zonas amplias}.
-18602	cad29ee2	Su habilidad de especialista es {fc(ff0000)Vibra especial}.\n{fc(ff0000)Con 100 % o más de VOLTAGE, obtiene Ataque +1}.
+18602	cad29ee2	Su habilidad de especialista es {fc(ff0000)Vibra especial}.\n{fc(ff0000)Con 100% o más de VOLTAGE, obtiene Ataque +1}.
 18701	a493fe17	Ima Tsukumo frena el avance enemigo con {fc(ff0000)Empuje} y atraviesa a los enemigos con {fc(ff0000)Vuelo}: es un atacante {fc(ff0000)con mucha movilidad}.
 18702	efe41a77	Su habilidad de especialista es {fc(ff0000)Mala conducta especial}.\n{fc(ff0000)Si Kako queda en agonía, obtiene Ataque +2}.
 18801	6dacbace	Kako Tsukumo es una atacante a distancia que {fc(ff0000)destaca como francotiradora}.
@@ -171,7 +171,7 @@ id	huella_jp	es
 30104	b813ff38	Además, a veces puede que tengas que salir a explorar para reunir los materiales del regalo. ¡Haz todo lo posible por convencer a la otra persona!
 30201	4c3b86d0	Tsubasa te contará lo que le preocupa: dile las palabras adecuadas para que se decida a luchar.
 30202	86589c19	Elige qué decirle a Kawana presionando {keyhelp(101)} {fc(ff0000)dos veces}. Puede que aparezcan más opciones con el tiempo.
-30203	b403e370	Si eliges las palabras adecuadas, sube la {fc(ff0000)tasa de persuasión}. Si la barra llega al 100 %, la convences.
+30203	b403e370	Si eliges las palabras adecuadas, sube la {fc(ff0000)tasa de persuasión}. Si la barra llega al 100%, la convences.
 30204	dd5d4440	Si fallas, podrás repetir desde justo antes. No tengas miedo de equivocarte y prueba distintas respuestas.
 30205	cc32577d	La otra persona te contará lo que le preocupa: dile las palabras adecuadas para que se decida a luchar.
 30206	6fd28490	Elige qué decir presionando {keyhelp(101)} {fc(ff0000)dos veces}. Puede que aparezcan más opciones con el tiempo.
