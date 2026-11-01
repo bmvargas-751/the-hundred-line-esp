@@ -1,11 +1,13 @@
 # The Hundred Line -Last Defense Academy- — Traducción al español
 
-Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, hecha desde el japonés original, con el inglés oficial como apoyo y un glosario propio.
+Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, con un glosario propio. Hay **dos versiones**, según el doblaje con el que juegues: una hecha desde el japonés original (con el inglés oficial como apoyo) y otra hecha desde el inglés oficial, para que los subtítulos coincidan con la voz.
 
-> **Versión 0.4.0, en revisión.** La versión para el doblaje japonés está completa. La del doblaje inglés está en curso: ya cubre la interfaz, la primera partida (Días 0 a 100) y los eventos y charlas. Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
+> **Versión 0.4.0, en revisión.** La versión para el doblaje japonés está completa. La del doblaje inglés está en curso: ya cubre la interfaz, la primera partida (Días 0 a 100) y los eventos y charlas; faltan las rutas. Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
 > Es un proyecto de fans, sin relación con los creadores ni los editores del juego. **No incluye el juego ni sus archivos**: necesitas tu propia copia en Steam.
 
 ## Avance
+
+### Doblaje japonés
 
 <!-- progress: lo actualiza `python3 -I scripts/thl.py progress --readme` en cada commit -->
 **Etapa actual:** Fase 5 (Prueba y entrega), verificar que el juego arranca con el parche y que tildes, ñ y ¿¡ se ven bien (se puede probar en cualquier momento).
@@ -19,7 +21,19 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 | | **Total** | **140.590** | **140.590** | **100,0 %** |
 <!-- /progress -->
 
-**Doblaje inglés (en curso):** la tabla de arriba es la del doblaje japonés. En el doblaje inglés están rehechas desde el inglés la interfaz, la primera partida completa (Días 0 a 100) y los eventos y charlas; las rutas (partidas posteriores) siguen con el texto del doblaje japonés, que se revisa contra el inglés ruta por ruta.
+### Doblaje inglés (en curso)
+
+La tabla de arriba es la del doblaje japonés. Esta es la del doblaje inglés, rehecha desde el inglés:
+
+| Sección | Traducidas | Total | % |
+|---|---:|---:|---:|
+| Interfaz | 14.984 | 14.984 | 100,0 % |
+| Primera partida (Días 0 a 100) | 18.293 | 18.293 | 100,0 % |
+| Eventos y charlas | 3.817 | 3.817 | 100,0 % |
+| Partidas posteriores (rutas) | 0 | 103.496 | 0,0 % |
+| **Total** | **37.094** | **140.590** | **26,4 %** |
+
+Las rutas de esa versión siguen con el texto del doblaje japonés mientras se rehacen desde el inglés, ruta por ruta.
 
 ## Instalar
 
@@ -36,7 +50,7 @@ Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada
    - Linux: **`instalar.sh`**. En Steam Deck, en modo escritorio: clic derecho en `instalar.sh` > *Ejecutar en terminal* (o `./instalar.sh` desde una terminal).
    El instalador te pregunta **con qué doblaje vas a jugar**:
    - **Doblaje japonés**: los subtítulos siguen el texto en japonés (la traducción actual).
-   - **Doblaje inglés**: los subtítulos siguen el texto en inglés, para que coincidan con la voz. *En preparación: la primera partida (Días 0 a 100) ya sigue al inglés; el resto todavía es igual a la del doblaje japonés.*
+   - **Doblaje inglés**: los subtítulos siguen el texto en inglés, para que coincidan con la voz. *En curso: la interfaz, la primera partida (Días 0 a 100) y los eventos y charlas ya siguen al inglés; las rutas todavía son iguales a las del doblaje japonés.*
    Puedes cambiar de versión volviendo a ejecutar el instalador.
 4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
 
@@ -66,7 +80,7 @@ Para colaborar o instalar desde una copia del repositorio (WSL o Linux), mira [C
 ## Documentación
 
 - [Guía para colaborar](CONTRIBUTING.md), con la estructura del proyecto y las herramientas
-- [Estilo](STYLE.md) y [glosario](GLOSSARY.md)
+- [Estilo](STYLE.md) y [glosario](GLOSSARY.md); el [glosario del doblaje inglés](GLOSSARY-EN.md) suma lo que cambia en esa versión
 
 ## Créditos y aviso
 
