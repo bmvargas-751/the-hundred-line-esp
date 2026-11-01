@@ -1,48 +1,48 @@
 id	huella_jp	es
-10	a9f6afda	{fc(57e4f1)Al acercarme a la jaula,\nella lo notó y soltó una voz asustada.}
-20	b5435aa3	¿Q-Qué... pasa...?
-30	70832782	...No te asustes.\nNo voy a hacerte nada.
-40	0400448c	Eva... así te llamas, ¿no?\n¿Puedes contarme algo?
-50	8365343e	¿D-De qué... quiere hablar?
-60	4952ade1	Por ejemplo...
-70	edd4c9a7	Además de pelear entre nosotros,\n¿crees que hay alguna forma de terminar esta guerra?
-80	189ec231	¿U-Una forma... de terminar la guerra...?
+10	a9f6afda	{fc(57e4f1)Cuando me acerqué a su jaula, la comandante cautiva retrocedió un poco, vigilándome con recelo.}
+20	b5435aa3	¿Q-Qué pasa...? ¿Qué quiere?
+30	70832782	No tengas miedo. No vengo a hacerte daño.
+40	0400448c	Te llamas... Eva, ¿cierto? ¿Puedo hablar contigo un momento?
+50	8365343e	¿S-Sobre qué?
+60	4952ade1	Va a sonar raro, pero...
+70	edd4c9a7	¿Crees que hay alguna forma de terminar esta guerra, aparte de que nuestros dos ejércitos intenten aniquilarse?
+80	189ec231	¿Una forma... de terminar la guerra?
 90	f4a72a8b	
-100	643602da	Si se pudiera...\n¡cuánto mejor sería...!
-110	ce8b63fe	...¿Eh?
-120	f55b4e32	Yo... nosotros...\nno queríamos pelear...
-130	63ce875f	No queríamos hacer ninguna guerra...\ny sin embargo...
+100	643602da	Si la hubiera... la habríamos intentado hace mucho.
+110	ce8b63fe	¿Eh?
+120	f55b4e32	N-No quisimos esta guerra... No quisimos nada de esto...
+130	63ce875f	Odio pelear... la mayoría de nosotros lo odia...
 140	f4a72a8b	
-150	25cee892	{fc(57e4f1)Sus palabras me dejaron\nsin poder ocultar mi sorpresa.}
-160	9508a3f5	{fc(57e4f1)Nunca pensé que oiría "no queremos pelear"\nde alguien a quien siempre consideré un enemigo incomprensible.}
-170	d81f225d	¿Por qué... ustedes empezaron la guerra?
-180	257ff880	...¿Qué?
-190	150af64d	¿Por qué... atacaron?
-200	81ee2415	Si ustedes... no hubieran invadido...\nesta guerra no habría ocurrido...
-210	22b253c8	¡¿I-Invadir?! ¡¿Nosotros?!
-220	0d4b5fac	¡¿Qué dices?!\n¡Este planeta es de nosotros los humanos desde el principio!
-230	580fbb7b	¡Nosotros solo peleamos para proteger la Tierra de la destrucción!
-240	0d5ddfb3	¿Proteger... la Tierra...?
-250	914e5b8d	...¡!
-260	98dd568e	¿Eh? ¿Q-Qué...?
-270	79e09e00	¿Por qué...?\n¿Qué... están haciendo...?
-280	507d2759	Esa persona es de los suyos, ¿no?\n¿P-Por qué...?
+150	25cee892	{fc(57e4f1)Por un momento, no podía creer lo que oía.}
+160	9508a3f5	{fc(57e4f1)Llevábamos tanto tiempo pensando en los invasores como soldados sin cerebro y monstruos raros, y aquí había uno diciendo que odiaban pelear.}
+170	d81f225d	Entonces, ¿por qué... por qué empezaron esta guerra ustedes?
+180	257ff880	¿Q-Qué?
+190	150af64d	¿Por qué nos atacaron...?
+200	81ee2415	Si... Si no hubieran invadido... Nunca habríamos tenido que pelear así.
+210	22b253c8	¡Espera un momento! ¿A qué te refieres con "invadido"?
+220	0d4b5fac	¡Los invasores son ustedes! ¡Este es nuestro hogar!
+230	580fbb7b	Solo peleamos para impedir que nos aniquilen. ¡Estamos tratando de proteger la Tierra!
+240	0d5ddfb3	¿Proteger... la Tierra?
+250	914e5b8d	¡¿...?!
+260	98dd568e	¿Eh? ¿Q-Qué está pasando?
+270	79e09e00	¿Por qué hizo eso...?
+280	507d2759	¿N-No están del mismo bando ustedes dos? No entiendo...
 290	f4a72a8b	
-300	79d47d87	...Oye, ¿qué estás leyendo desde hace rato?
-310	da09e24d	¿Mm? Es un libro viejo que encontré en la biblioteca.\nHabla del exterior del Complejo Residencial de Tokio...
-320	9239363a	¿Del exterior del Complejo Residencial de Tokio...?\n¿Para qué quieres saber eso?
-330	dbded43e	Por nada, solo quiero saber.\nEl mundo exterior es interesante.
-340	40d1e94c	¿Sabías, Takky?\nDicen que en el mundo exterior existían las estaciones del año.
-350	588decd7	Oye, ya te dije que en la escuela\nno me llames "Takky"...
-360	b81e8d4a	Dicen que había épocas frías y calurosas,\ny que el clima era muy distinto según el mes y el día.
-370	079b33ab	¿Frío y calor, así...? Qué incómodo.
-380	6d3fae98	Y además, en el mundo exterior existían fenómenos como la lluvia y la nieve;\ndicen que caía agua, o gotas de agua congeladas, desde el cielo.
-390	59e2252d	A veces el viento soplaba con fuerza\ny la lluvia caía a cántaros, con un clima violento...
-400	7fa2a36f	...Eso se llama tormenta, ¿no la has oído nombrar?\nDicen que había tormentas tan fuertes que hasta volaban las personas.
-410	0396df9c	Nunca lo había oído... ¿cómo que vuelan las personas?\nEs peligrosísimo.
-420	dececdc0	...Menos mal que no vivimos en un mundo tan peligroso.\nDentro del Complejo Residencial de Tokio estamos seguros.
-430	8366ade3	Ay, Takky, qué aburrido eres.\nEl mundo desconocido tiene su magia, ¿no?
-440	b6409907	¿No lo entiendes?
-450	e614f1fb	De hecho, en nuestra clase\nla única interesada en el mundo exterior eres tú, Karua...
-460	2bcc91f6	No importa. Aunque a los demás no les interese,\na mí sí me interesa.
-470	76b61779	...Qué rara eres.
+300	79d47d87	Oye, ¿qué estás leyendo?
+310	da09e24d	Un libro viejo que encontré en la biblioteca. Tiene cosas sobre el mundo fuera del complejo.
+320	9239363a	¿El mundo de afuera? ¿Para qué leer sobre eso?
+330	dbded43e	No todo tiene que tener un propósito. Yo lo encuentro genial, no más.
+340	40d1e94c	Oye, Takky, ¿sabías que allá afuera existen unas cosas llamadas "estaciones"?
+350	588decd7	Te dije que no me llames así en la escuela. Me da vergüenza...
+360	b81e8d4a	Se pone más frío o más caluroso, más oscuro o más claro según la época del año, y todo da vueltas en un ciclo.
+370	079b33ab	¿O sea que cambia todo el tiempo? Suena bastante molesto.
+380	6d3fae98	También tienen "lluvia": ¡agua que cae directo del cielo! Y a veces se congela y se convierte en algo llamado "aguanieve".
+390	59e2252d	Otras veces el viento y la lluvia se vuelven muy fuertes. A eso le dicen "tormenta".
+400	7fa2a36f	¡En algunas partes del mundo, las tormentas se ponen tan feas que hasta pueden derribar edificios!
+410	0396df9c	No puedo ni imaginarlo... El mundo exterior suena peligroso.
+420	dececdc0	Qué bueno que no tenemos que preocuparnos por nada de eso. Aquí en el complejo todo es agradable y seguro, y nada cambia nunca.
+430	8366ade3	¡Ay, qué aburrido eres, Takky! ¿No te cansas de saber siempre lo que va a pasar?
+440	b6409907	¿Dónde está tu sentido de aventura?
+450	e614f1fb	Sabes que eres la única de toda la clase que piensa así.
+460	2bcc91f6	¿Y qué? Soy libre de que me guste lo que me gusta, ¿no? Y a mí el mundo exterior me parece genial.
+470	76b61779	Eres tan rara...
