@@ -1,68 +1,68 @@
 id	huella_jp	es
-10	05b2ef6b	El cuarto de Nozomi es... este.
-20	70e114b9	{fc(57e4f1)Tras confirmar el letrero con el nombre,\npresioné con ímpetu el timbre junto a la puerta.}
-40	c231d58c	{fc(57e4f1)...Ya no hay vuelta atrás.}
-50	d8ea08ac	{fc(57e4f1)Después de un rato,\nla puerta se abrió despacio, con cautela...}
-60	32f8a5a3	...¿Takumi?\n¿Qué haces a esta hora?
-70	e16f6d01	Perdón por venir tan tarde...\nEs que tengo algo que quiero darte.
-80	266f88ae	...¿Algo para mí?
-90	b5a3cc4d	Eh, es esto...
-100	45542802	{fc(57e4f1)Le mostré el telescopio astronómico\nque llevaba escondido a la espalda.}
-110	c3b8e921	Esto es... ¡¿un telescopio astronómico?!
-120	902cd948	...Lo hice con el Gift-O-Matic.\nMe ayudaron Eva... y los demás.
+10	05b2ef6b	Esta es la habitación de Nozomi...
+20	70e114b9	{fc(57e4f1)Tras revisar la placa con el nombre, toqué el timbre junto a la puerta con ímpetu.}
+40	c231d58c	{fc(57e4f1)Ya no hay vuelta atrás...}
+50	d8ea08ac	{fc(57e4f1)Al poco rato, la puerta se abrió lenta y cautelosamente...}
+60	32f8a5a3	¿Takumi? ¿Qué haces aquí tan tarde?
+70	e16f6d01	Perdón por pasar a esta hora. Tengo algo que quiero darte.
+80	266f88ae	¿Darme?
+90	b5a3cc4d	Sí, toma...
+100	45542802	{fc(57e4f1)Le extendí a Nozomi el telescopio astronómico que había escondido a mi espalda.}
+110	c3b8e921	¿Esto es... un telescopio astronómico?
+120	902cd948	Lo hice con el Gift-O-Matic... Eva y los demás me ayudaron a conseguirlo.
 130	f4a72a8b	
-140	891d5b62	Era mi sueño desde pequeña...\nAlgún día ver las estrellas con un telescopio astronómico.
-150	18247e6b	¿Cómo... lo sabes?\n¿Eso también lo oíste de mí la vez anterior?
-160	44b8c5b4	{fc(57e4f1)No puedo decirle la verdad.\nTodavía no.}
-170	b2a3d9e7	...Sí, así es.\nLa vez anterior me lo contaste tú.
+140	891d5b62	Este ha sido mi sueño desde pequeña... Siempre quise mirar las estrellas con un telescopio algún día.
+150	18247e6b	¿Cómo lo supiste? ¿Me lo oíste decir la vez anterior que hiciste esto?
+160	44b8c5b4	{fc(57e4f1)No puedo decirle la verdad. Todavía no.}
+170	b2a3d9e7	Sí, así es. Lo mencionaste la vez anterior.
 180	f4a72a8b	
-190	2b564b3b	{fc(57e4f1)Quizá esto también le dé escalofríos.\nQue yo sepa un secreto que no recuerda haber contado.}
-200	1ea3123b	...¿Puedo usarlo ahora mismo?\nHoy está despejado y parece que se verán las estrellas.
-210	4a02bdc7	A-Ah, sí... por supuesto.\nEntonces yo vuelvo a mi cuarto...
-220	d3314665	...No. Si no te molesta, ¿puedes quedarte conmigo?
+190	2b564b3b	{fc(57e4f1)Quizás esto la espante otra vez. Descubrir que sé un secreto que no recuerda haberme contado.}
+200	1ea3123b	¿Puedo usarlo ahora mismo? El cielo está despejado hoy. Deberían verse las estrellas.
+210	4a02bdc7	C-Claro que sí. Entonces me voy...
+220	d3314665	Bueno... ¿Te importaría venir conmigo?
 230	0ded5105	¿Eh...?
-240	37f71b96	C-Claro... si a ti te parece bien.
-250	626a137d	Sí, gracias...
-260	2738e6de	{fc(57e4f1)Nozomi salió de su cuarto enseguida,\ncon el telescopio que le di en la mano...}
-270	d09dd264	{fc(57e4f1)Lo instaló en la azotea imitando lo que había visto,\ny miró el cielo nocturno a través del lente.}
-280	7b0d64f3	Qué increíble... qué hermoso.
-290	3f873bf3	{fc(57e4f1)Nozomi lo dijo con un suspiro,\ny después se quedó callada un buen rato.}
-300	6c9959e0	{fc(57e4f1)Sin decir nada,\nmiró fijamente el cielo nocturno a través del lente.}
-310	1b3e700f	{fc(57e4f1)Yo también, sin decir nada,\nmiré fijamente su espalda.}
-320	2b371e61	...Takumi, perdón.
+240	37f71b96	C-Claro. Si no te molesta, eso sí.
+250	626a137d	No, por favor.
+260	2738e6de	{fc(57e4f1)Nozomi salió de inmediato de su habitación con el telescopio que le di en la mano.}
+270	d09dd264	{fc(57e4f1)Armó el telescopio en la azotea y miró el cielo nocturno a través del lente.}
+280	7b0d64f3	Es... increíblemente hermoso.
+290	3f873bf3	{fc(57e4f1)Con un suspiro embelesado, Nozomi guardó silencio un rato.}
+300	6c9959e0	{fc(57e4f1)Contempló las estrellas a través del lente sin decir palabra.}
+310	1b3e700f	{fc(57e4f1)Yo mantuve el silencio, mirándole la espalda.}
+320	2b371e61	Takumi, lo siento.
 330	0ded5105	¿Eh...?
-340	16d031a5	{fc(57e4f1)De pronto, ella habló.\nSin dejar de mirar por el lente del telescopio.}
-350	a9315e00	Perdón... por hacerte preocuparte.
+340	16d031a5	{fc(57e4f1)Sus palabras me tomaron por sorpresa. Seguía mirando por el telescopio.}
+350	a9315e00	Perdón por hacerte preocuparte por mí.
 360	f4a72a8b	
-370	7cdad727	En realidad... ¿no tienes algo que decirme?
-380	257ff880	...¿Eh?
-390	f712d8fc	¿No quieres... culparme?
-400	ec3b5a62	Porque por mi culpa Kurara...\nNo, lo mismo con Kyoshika...
-410	8b4c68c9	...¿No me guardas rencor por eso?
+370	7cdad727	¿No hay algo que preferirías decirme en cambio?
+380	257ff880	¿Qué?
+390	f712d8fc	¿No me culpas...?
+400	ec3b5a62	Después de todo, es mi culpa que Kurara esté muerta... Y lo mismo con Kyoshika...
+410	8b4c68c9	¿No me guardas rencor por eso?
 420	f4a72a8b	
-430	5de78ee9	{fc(57e4f1)Nozomi apartó la cara del telescopio\ny se volvió hacia mí...}
-440	432814a9	{fc(57e4f1)Me miró directo a los ojos y dijo.}
-450	23729939	...No te guardo rencor.\nNo había otra cosa que hacer.
-460	ba9cfda1	Si tuviera que guardarle rencor a algo... sería a mi propia impotencia.
-470	bc3975e1	Si yo hubiera sido más fuerte,\nno habría pasado algo así...
-480	e6a619db	...Eso pienso sin querer.\nAunque pensarlo no sirve de nada.
-490	8bb3a621	No... a mí me pasa igual.\nTambién yo no hago más que pensar en eso.
-500	8626bed0	Por qué habré tomado esa decisión...\nPor qué habré tenido que tomarla.
+430	5de78ee9	{fc(57e4f1)Nozomi se apartó del telescopio y se giró hacia mí...}
+440	432814a9	{fc(57e4f1)Me miró directo a los ojos y habló.}
+450	23729939	No te guardo rencor. No tenías otra opción.
+460	ba9cfda1	Lo único que me da rabia es lo impotente que soy.
+470	bc3975e1	Si fuera más fuerte, las cosas habrían sido distintas.
+480	e6a619db	Eso es lo que sigo pensando. Aunque pensar así no sirva de nada.
+490	8bb3a621	Yo soy igual. Sigo pensando lo mismo.
+500	8626bed0	Como, ¿por qué tomé esa decisión? ¿De verdad tenía que tomarla?
 510	f4a72a8b	
-520	2a9eb5bb	Oye, nosotros ahora,\n¿estamos mejor que en el futuro en que estabas antes?
-530	62c4f24d	No sé... cómo está la cosa.\nYa no lo sé...
-540	a8fec594	Esta vez decidí proteger a todos sin falta,\npero al final eso ya...
+520	2a9eb5bb	Oye. ¿Estamos mejor ahora que en el futuro en el que estabas antes?
+530	62c4f24d	No... sé. Ya no puedo decirlo...
+540	a8fec594	Juré que esta vez nos protegería a todos, pero al final no fue así...
 550	2cf2d962	¡Ngh...!
-560	35310069	...¿Nozomi? ¿Qué pasa?
-570	a96981b9	Ah, no... solo me mareé un poco.\nSerá por mirar por el telescopio...
-580	5d6bbbca	Creo que solo fue un mareo al pararme.\nNo te preocupes por...
-590	26ba6705	{fc(57e4f1)Antes de que terminara la frase,\nNozomi se dejó caer de rodillas allí mismo.}
+560	35310069	¿Nozomi? ¿Qué pasa?
+570	a96981b9	Ay, no... Solo me mareé un poco. Debe de ser por mirar por el telescopio...
+580	5d6bbbca	Creo que solo estoy un poco aturdida. No te preocupes por...
+590	26ba6705	{fc(57e4f1)Antes de que pudiera terminar la frase, Nozomi cayó de rodillas en el sitio.}
 600	3ee77bc7	¡O-Oye! ¡¿Estás bien?!
-610	bb4abd56	{fc(57e4f1)Fui a ayudar a Nozomi, que se había sentado en el suelo,\ny al tocarla...}
-620	2ceeead2	¡...! ¡Tienes mucha fiebre!
-630	a02dc3c0	{fc(57e4f1)No será que esto es...}
-640	88e889c2	¿R-Reacción de rechazo...?\n¿Por qué... p-por qué ahora...?
-650	7e23672d	{fc(57e4f1)Un instante después, Nozomi cayó allí mismo con un {fc(cfff3f)"¡Paf!"}{fc(57e4f1) y quedó tendida en el suelo.}
+610	bb4abd56	{fc(57e4f1)Fui a ayudar a Nozomi a levantarse del suelo, pero, al tocarla...}
+620	2ceeead2	¡Estás ardiendo!
+630	a02dc3c0	{fc(57e4f1)No me digas que...}
+640	88e889c2	¿S-Síntomas de rechazo? ¿Por qué... P-Por qué ahora?
+650	7e23672d	{fc(57e4f1)Inmediatamente después, Nozomi se desplomó por completo con un {fc(cfff3f)golpe seco}{fc(57e4f1)}.}
 660	699fd850	¡Nozomi!
-670	401f43dd	{fc(57e4f1)Llamé de inmediato a las otras chicas\ny le pedí que la llevaran a la cama...}
-680	9024c8aa	{fc(57e4f1)Después, reuní a todos en la cafetería, en plena noche.}
+670	401f43dd	{fc(57e4f1)Llamé a toda prisa a las otras chicas y les pedí que llevaran su cuerpo inconsciente a la cama...}
+680	9024c8aa	{fc(57e4f1)Después, nos reunimos todos en una asamblea de medianoche en la cafetería.}
