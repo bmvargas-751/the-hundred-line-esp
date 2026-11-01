@@ -1,32 +1,32 @@
 id	huella_jp	es
-10	d70a261f	Haah... haah...
+10	d70a261f	*jadeo...* *jadeo...*
 20	f4a72a8b	
-30	090b740b	M-Maldición... ¿qué fue eso?\nLo de recién...
-40	ea89915c	{fc(57e4f1)...No fue un sueño. Tampoco una confusión.\nEntonces, eso era...}
-50	383551e5	{fc(57e4f1)Yo maté a Eito, sin duda.\nSentí también cómo absorbía su criptoglobina...}
-60	40dc1562	{fc(57e4f1)De hecho, el cadáver de Aotsuki\nquedó convertido en una momia negra...}
-70	77f73a95	{fc(57e4f1)Y sin embargo, en la cafetería estaba el Aotsuki que debía estar muerto.\nNo solo uno... varios.}
-80	bcf20799	{fc(57e4f1)¿Será un ataque mental de un comandante?\nPero el comandante que daba alucinaciones ya lo derrotamos...}
-90	7d3b8c4a	E-Entonces... ¿qué es esto?
-100	0a572de8	¿No me digas que... yo...¿Que yo me estoy volviendo loco?
-110	12e89234	{fc(57e4f1)B-Bueno... por ahora, a descansar.\nSeguro que estoy cansado...}
-120	146289f4	{fc(57e4f1)Para calmar mi cabeza confusa,\nme acosté y cerré los ojos.}
-130	ea481cbe	{fc(57e4f1)Seguro que si duermo, me recupero.}
+30	090b740b	¡¿Q-Qué demonios fue eso hace un momento...?!
+40	ea89915c	{fc(57e4f1)No estaba soñando. No era un truco de la luz. Entonces, ¿qué pasaba...?}
+50	383551e5	{fc(57e4f1)Eito estaba muerto. Yo mismo lo había matado. La sensación de su criptoglobina fluyendo hacia mí seguía fresca en mi mente.}
+60	40dc1562	{fc(57e4f1)Su cuerpo no era más que un cascarón reseco ahora.}
+70	77f73a95	{fc(57e4f1)Entonces, ¿por qué lo había visto en la Cafetería? Y no solo a uno, sino a varios.}
+80	bcf20799	{fc(57e4f1)¿Sería algún tipo de ataque psicológico? Pero ya derrotamos al comandante que causaba alucinaciones...}
+90	7d3b8c4a	No tiene sentido... ¡¿Por qué está pasando esto?!
+100	0a572de8	¿Es que me estoy volviendo loco...?
+110	12e89234	{fc(57e4f1)No, probablemente solo estoy cansado. Estaré bien después de dormir un poco...}
+120	146289f4	{fc(57e4f1)Todavía confundido y desorientado, me metí en la cama.}
+130	ea481cbe	{fc(57e4f1)Una siesta rápida me dejaría como nuevo... o eso esperaba.}
 140	88902fda	
-150	aae668f5	...Hola. Te estaba esperando, Takumi.
-160	ffaaecf3	¡A-Eito...! ¡¿Por qué tú...?!
-170	8ac210e0	¡¿Qué rayos pasa?!\n¡Si tú ya estás... muerto!
-180	73d4fd4a	No te alteres tanto...¿Quieres que tu cara, ya fea, se ponga más fea aún?
-190	5d996078	¿Esto es un sueño...?\n¡Hasta en mi sueño te apareces, maldito!
-200	bbc7bbdf	...¿Un sueño? ¿Esto?
-210	0a6767d9	Jaja. Qué idea tan simple, propia de ti.
-220	631698f9	Si crees que es solo un sueño,\nprueba a despertar.
-230	d0e9752f	...Mira, te ayudo.
-240	2e4dc45c	{fc(57e4f1)Dicho eso, Eito chasqueó los dedos: }{fc(cfff3f)"¡Chasquido!"}{fc(57e4f1)...}
+150	aae668f5	Hola, Takumi. Qué bueno verte otra vez.
+160	ffaaecf3	¡¿E-Eito?! ¿T-Tú aquí?
+170	8ac210e0	¿Pero cómo? Tú... ¡Estás muerto...!
+180	73d4fd4a	No te alteres tanto. Estás haciendo que esa cara tuya, ya horrenda, se vea aún peor.
+190	5d996078	¿E-Es esto un sueño? ¿Ahora te veo hasta dormido?
+200	bbc7bbdf	¿Un sueño...?
+210	0a6767d9	Jaja... Qué muy "Takumi" de tu parte decir eso.
+220	631698f9	Si crees que esto es solo un sueño, lo único que tienes que hacer es despertar.
+230	d0e9752f	Ven, déjame ayudarte con eso.
+240	2e4dc45c	{fc(57e4f1)Dicho eso, Eito }{fc(cfff3f)chasqueó}{fc(57e4f1) los dedos...}
 250	a0de1296	¡...!
-260	5b175cad	{fc(57e4f1)Me levanté de un salto en seguida.\nY miré alrededor.}
+260	5b175cad	{fc(57e4f1)Me incorporé de golpe en la cama y miré a mi alrededor frenéticamente.}
 270	f4a72a8b	
-280	841de4c2	No hay nadie...
-290	2d367e6a	{fc(57e4f1)Era un sueño, entonces...\nPero qué pesadilla.}
-300	ad94aa90	Haah... debo de estar agotado...
-310	29902c46	{fc(57e4f1)Cerré los ojos otra vez\ny volví a caer en el sueño.}
+280	841de4c2	No hay nadie aquí...
+290	2d367e6a	{fc(57e4f1)Así que FUE un sueño. Bueno, más bien una pesadilla...}
+300	ad94aa90	*suspiro* De VERDAD necesito descansar.
+310	29902c46	{fc(57e4f1)Me recosté y cerré los ojos. En uno o dos minutos, ya estaba dormido otra vez.}

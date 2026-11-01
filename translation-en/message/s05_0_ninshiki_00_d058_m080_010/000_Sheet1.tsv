@@ -1,32 +1,32 @@
 id	huella_jp	es
-10	e580b2bb	Ah, Takumi...\n¿Qué pasa? ¿Necesitas algo?
+10	e580b2bb	Ah, Takumi... ¿Estás bien? ¿Necesitabas algo?
 20	f4a72a8b	
-30	bfb46ae1	{fc(57e4f1)Por donde se lo mire... es Eito.\nNo hay nada en su apariencia que lo distinga.}
-40	22e05797	No, no es nada...\nOye, ¿cómo andas últimamente?
-50	390bf2ad	¿Cómo ando? Como siempre.\nMás bien, ¿tú ya estás mejor?
-60	e3bf6e23	{fc(57e4f1)Si se preocupa por mi estado...\n¿sabe del escándalo que armé esta mañana en la cafetería?}
-70	f48fd390	{fc(57e4f1)¿Será uno de los 4 que estaban allí?\nO quizás ya corrió la voz...}
-80	13052409	{fc(57e4f1)...Además, que haya estado en ese lugar,\nno prueba que no sea la ilusión, ¿no?}
-90	bf85d7cc	{fc(57e4f1)En fin... como no puedo distinguirlos por el aspecto,\ntendré que juzgar por lo que dicen...}
-100	0c39a210	Sí... ya estoy bien.\nMás importante, ¿qué piensas hacer hoy?
-110	6ff58ade	...¿Hoy?\nMm, veamos, hoy voy a...
-120	9038ab13	...dejar que me mates.
+30	bfb46ae1	{fc(57e4f1)Por más que lo mire, este es Eito. Obviamente no puedo distinguirlos solo por la apariencia.}
+40	22e05797	Eh, no, solo quería preguntarte... ¿Te has sentido bien últimamente?
+50	390bf2ad	Claro, igual que siempre. ¿Y tú? ¿Te sientes mejor ahora?
+60	e3bf6e23	{fc(57e4f1)¿Mejor "ahora"? ¿Sabrá este Eito lo que pasó en la Cafetería esta mañana?}
+70	f48fd390	{fc(57e4f1)¿Era uno de los cuatro que vi allí? ¿O los demás ya se enteraron...?}
+80	13052409	{fc(57e4f1)Aunque haya estado allí en ese momento, eso no prueba que no sea el falso...}
+90	bf85d7cc	{fc(57e4f1)Si no puedo distinguirlos por la vista, tendré que averiguarlo por lo que dicen.}
+100	0c39a210	S-Sí, ya estoy bien. Entonces, ¿qué haces hoy?
+110	6ff58ade	¿Hoy? Bueno, veamos...
+120	9038ab13	Pensé en dejar que me mates.
 130	e16d0645	¡...!
-140	9a0197ff	Tú tampoco querrías matarme de un golpe,\nquerrías torturarme más, ¿no?
-150	e2921d8e	Si me mataras enseguida, no se te iría el rencor.
-160	49007eec	Querrías que llorara y suplicara perdón mientras me oyes,\ny aun así no pararías...
-170	531e1c12	Aunque dijera "quiero morir",\nuna y otra y otra y otra y otra y otra y otra y otra vez...
-180	224c62ec	¿No querías hacerme trizas?
-190	06d8efd3	Aunque, como me sacaron del registro del Revive-O-Matic,\nharía falta una forma de torturarme muy precisa...
-200	f00c0178	Con tu cabeza tan lenta no se te ocurrirá,\nasí que puedo ayudarte a pensar cómo matarme.
-210	7e7c4311	Quiero ayudar a mi querido Takumi, al que tanto odio.
+140	9a0197ff	Te arrepientes de haberme matado tan rápido, ¿no? Apuesto a que querías alargarlo un poco más.
+150	e2921d8e	Un asesinato improvisado así no bastó para satisfacer tu odio, ¿verdad?
+160	49007eec	Querías verme retorcerme de dolor, llorando y suplicando perdón.
+170	531e1c12	Querías torturarme sin piedad, una y otra y otra vez, hasta que rogara por la muerte.
+180	224c62ec	Así es como realmente querías matarme, ¿no?
+190	06d8efd3	Ahora que ya no estoy registrado en el Revive-O-Matic, tendrías que ser muy creativo para mantenerme justo al borde entre la vida y la muerte.
+200	f00c0178	Eso probablemente es demasiado para un cerebro débil como el tuyo. ¿Quieres que te dé algunas ideas?
+210	7e7c4311	Es lo mínimo que puedo hacer por mi peor enemigo.
 220	f4a72a8b	
-230	447672f8	...Perdón. Te molesté.
-240	29734f72	¿Eh? ¿Ya te vas? Bueno, adiós.
+230	447672f8	Perdona la molestia.
+240	29734f72	Oh, ¿ya te vas? Está bien, nos vemos.
 250	88902fda	
-260	546525fe	{fc(57e4f1)No son solo la vista, el oído y el olfato...}
-270	74527fd9	{fc(57e4f1)Parece que hasta las palabras que dicen los demás\nestán afectadas por mi trastorno de percepción.}
-280	ac869933	{fc(57e4f1)Seguro que ese que está en mi cabeza\nme deforma las voces que oigo.}
-290	2823b0da	{fc(57e4f1)No imaginé que afectara hasta el contenido...\nAsí no tiene sentido hablar con nadie...}
-300	746e1c73	...No, tiene que haber algún método.\nUna grieta en la que ni Aotsuki haya reparado.
-310	92b63c9a	Hablaré con otro...
+260	546525fe	{fc(57e4f1)O sea que no es solo la vista, el oído y el olfato.}
+270	74527fd9	{fc(57e4f1)Este trastorno incluso afecta cómo mi cerebro procesa lo que dice la gente.}
+280	ac869933	{fc(57e4f1)Eito probablemente está sentado en mi cabeza ahora mismo, retorciendo cada palabra que oigo.}
+290	2823b0da	{fc(57e4f1)No tenía idea de que tuviera tanto control... Si puede hacer eso, no tiene mucho sentido hablar con nadie.}
+300	746e1c73	No, tiene que haber una manera... Algo que se me ha pasado a mí; algo que se le ha pasado a él.
+310	92b63c9a	Iré a buscar a otro y veré si logro averiguarlo.

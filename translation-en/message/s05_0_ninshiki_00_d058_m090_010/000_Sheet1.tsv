@@ -1,30 +1,30 @@
 id	huella_jp	es
-10	3b2525d3	{fc(57e4f1)Encontré al segundo Eito en la sala de recreo,\ny decidí hablarle enseguida.}
-20	70a00b06	...Oye, ¿tienes un momento?
-30	eea0ce8a	Ah, Takumi... siempre tan hediondo y desagradable.\n¿Necesitas algo de mí?
+10	3b2525d3	{fc(57e4f1)Encontré otro Eito en la Sala de Recreo y traté de hablar con él.}
+20	70a00b06	Oye, ¿tienes un minuto?
+30	eea0ce8a	Hola, Takumi. Hoy te ves particularmente horrendo. ¿Necesitabas algo?
 40	f4a72a8b	
-50	4e939d46	Sobre que yo mató a Eito...¿qué piensas tú?
-60	e1edabaf	¿Eh? ¿Qué pienso... de qué?
-70	b75c5548	Bueno, aquella vez lo decidí yo solo...
-80	0470696a	Pero quizás no debí matarlo,\no quizás había otras opciones...
-90	16f59072	Quiero que me digas con sinceridad lo que piensas.
+50	4e939d46	Quería preguntarte... ¿Cómo te sientes con que haya matado a Eito?
+60	e1edabaf	¿Cómo me siento...?
+70	b75c5548	Sé que fui yo quien tomó la decisión...
+80	0470696a	Pero ¿sientes que me equivoqué, o que había otra manera de lidiar con él?
+90	16f59072	Si es así, dímelo. De verdad quiero saberlo.
 100	f4a72a8b	
-110	2604e0b0	...¿Puedo hablar con sinceridad?
-120	16fc6f6f	Sí, no te preocupes por mí.
-130	7a09f588	...Como tú dices,\ncreo que había otras opciones.
-140	31ed52c6	Que quizás había un camino sin matarlo.
-150	687f5f2a	Ya veo... es cierto...
-160	4880e110	Aunque nos traicionó,\nseguía siendo miembro de la Unidad de Defensa Especial...
-170	51c37d69	Entiendo la opinión de que podía escapar otra vez,\npero quizás bastaba con vigilarlo mejor que antes.
-180	32e824d0	Sí...
-190	2aaab469	Así tú, Takumi,\nte habrías ahorrado ese mal rato...
-200	221f2ddf	...Y esta vez yo habría podido matarlos a todos.
+110	2604e0b0	¿Prometes que no te enojarás?
+120	16fc6f6f	Lo prometo. Dime la verdad, puedo soportarlo.
+130	7a09f588	Bueno... Sí siento que quizás había otra manera.
+140	31ed52c6	Matarlo simplemente me pareció ir un paso demasiado lejos...
+150	687f5f2a	Cierto... Pensé que dirías eso.
+160	4880e110	Eito podrá haber sido un traidor, pero seguía siendo miembro de nuestro equipo.
+170	51c37d69	Sé que podría haber vuelto a escapar, pero esta vez podríamos haberlo vigilado de más cerca, ¿no?
+180	32e824d0	Supongo...
+190	2aaab469	Si lo hubiéramos hecho, no habrías tenido que hacer lo que hiciste.
+200	221f2ddf	...Y yo no estaría en posición de matarlos a todos ahora.
 210	e16d0645	¡...!
-220	e6bd45ee	Matarlos a todos. Delante de tus ojos,\npodría haber exterminado a los feos miembros de la Unidad.
-230	33be45ed	Qué pena, de verdad...\nsi no me hubieras matado, habría sido posible.
+220	e6bd45ee	Y digo a todos. Hasta al último miembro de esta podrida Unidad Especial de Defensa.
+230	33be45ed	Es una lástima... Si no me hubieras matado, esto jamás habría pasado.
 240	f4a72a8b	
-250	2e8c8ed4	...Entendido. Adiós.
-260	9c287502	{fc(57e4f1)Pensé que preguntarle sobre él mismo\npodría darme alguna pista, pero...}
-270	a3f389ce	{fc(57e4f1)Tampoco sirve... Hasta cierto punto pensé que funcionaría.}
-280	3313f2b3	{fc(57e4f1)Pero... probar no cuesta nada.\nTengo que hacer todo lo posible.}
-290	907b7d7f	{fc(57e4f1)Hablaré de otros temas... con otros.}
+250	2e8c8ed4	Está bien, gracias. Nos vemos luego.
+260	9c287502	{fc(57e4f1)Pensé que preguntarle por el propio Eito quizás me daría alguna pista.}
+270	a3f389ce	{fc(57e4f1)Al principio sentí que avanzaba... pero supongo que no.}
+280	3313f2b3	{fc(57e4f1)Al menos sé que este enfoque no me llevará a ninguna parte. Tengo que seguir intentando hasta encontrar algo que funcione.}
+290	907b7d7f	{fc(57e4f1)...Probaré algo distinto con otra persona.}
