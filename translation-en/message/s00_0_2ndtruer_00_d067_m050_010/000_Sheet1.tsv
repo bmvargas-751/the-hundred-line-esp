@@ -1,32 +1,32 @@
 id	huella_jp	es
-10	834ac127	...Shouma, despertaste.\nMenos mal.
-20	3688e63f	Siendo un bicho asqueroso...\nperdón por preocuparlos...
-30	5f0af81c	Justo despertó cuando fui a ver cómo estaba.\nY me pidió hablar de inmediato...
-40	cd977dbb	Así que reuní a todos aquí.\nParece que se cruzó con el Sr. Sumino.
-50	a4752eaf	¿Eh? Pero...
-60	e17cbcc3	...Faltan Hiruko y Takemaru.\n¿Todavía no llegan?
-70	45e5c297	Shouma insistió en que quería hablar con todos,\nasí que fueron a buscar a los que faltan...
-80	a0d9cc68	¿Eh? ¿Los que faltan...?
-90	7e06c18c	...Oye, los traje.
+10	834ac127	Shouma, despertaste. Me alegra que estés bien.
+20	3688e63f	Perdona por hacerte preocupar por un vago patético como yo.
+30	5f0af81c	Estaba despertando justo cuando fui a verlo. Apenas abrió los ojos, dijo que quería hablar con todos de inmediato.
+40	cd977dbb	Pasé golpeando las puertas de todos, pero parece que usted se levantó demasiado temprano para mí, Sr. Sumino.
+50	a4752eaf	¿Eh? Espera un momento...
+60	e17cbcc3	No veo a Hiruko ni a Takemaru. ¿Por qué no están aquí?
+70	45e5c297	Shouma dijo que quería que TODOS escucháramos esto, así que esos dos fueron a buscar a los demás.
+80	a0d9cc68	¿A los demás? No te referirás a...
+90	7e06c18c	Oye. Ya llegamos.
 100	f4a72a8b	
-110	25420069	¡S-Shion...!
-120	251d2c47	Estuve gritándole frente a la puerta de la Sala de Defensa\nque saliera, hasta que por fin salió...
-130	86d31607	Pensé en imitar a Sumino y golpear la puerta,\npero no hizo falta hacer una cosa tan masoquista.
-140	684be2e5	Justo sentí una presencia fuera de la puerta\ny salí, y ahí estaba él.
-150	bf9805c6	Je, seguro sintió el aura de un fuerte.\nDebí de estar desbordándola sin querer.
-160	d7083f38	...Shion, cuánto tiempo.\n¿Estás bien de salud?
-170	8c5e4a26	S-Sí... no hay problema...
-180	4add2235	{fc(57e4f1)Fue entonces que\naparecieron más siluetas en el aula.}
-190	683788d2	...Perdón la demora. Lo traje.
-200	d4e53a45	Hola, con permiso.
-210	9c86189a	¡A-Eito!
-220	e44f1e22	...Me invitó Shouma, ¿no?\nQue me vean como compañero es asqueroso y un honor.
+110	25420069	¡Shion...!
+120	251d2c47	Por fin salió de la Sala de Defensa después de que me quedé afuera gritando un rato.
+130	86d31607	Iba a intentar tirar la puerta abajo como hiciste tú aquella vez, pero resulta que no hizo falta llegar tan lejos.
+140	684be2e5	Por casualidad sentí que estaba afuera antes de que llegara a eso...
+150	bf9805c6	Jeje. ¡Parece que mi aura de rudo es tan fuerte que se siente hasta a través de las paredes!
+160	d7083f38	Qué bueno verte de nuevo, Shion. ¿Estás recuperando fuerzas?
+170	8c5e4a26	Sí... Debería estar bien.
+180	4add2235	{fc(57e4f1)En eso, entró otra persona al salón.}
+190	683788d2	Ya volví. Aquí lo tienen.
+200	d4e53a45	Hola a todos. Hace tiempo que no nos vemos.
+210	9c86189a	¡¿Eito?!
+220	e44f1e22	Shouma tuvo la gentileza de invitarme a su fiestecita. Es un honor volver a ser parte del grupo... ¡tanto que se me pone la piel de gallina!
 230	f4a72a8b	
-240	3399f5a9	Jaja... no hace falta que me miren con esas caras feas\nde desconfianza. Solo voy a escuchar tranquilo.
-250	0ad18f49	...Si pasa algo, aquí estoy yo.\nNingún varón del mundo me gana a mano limpia.
-260	b754a9d9	Oye... eso no puedo dejarlo pasar.\n¿Hacemos un poco de sparring...?
-270	1bff8e11	¡Eso háganlo después!\n¡Ahora lo importante es lo de Shouma!
-280	b44834d4	Perdón por tardar en despertar...\nMi cerebro no alcanzó a procesar de golpe la información de los recuerdos.
-290	3b427cfd	Por eso me quedé postrado,\npero ya estoy bien...
-300	ec1e6119	{fc(57e4f1)Entonces Ginzaki de verdad recordó...\nEsa}{fc(ff635b)"verdad enorme"}{fc(57e4f1)de la que hablaba.}
-310	8986029f	{fc(57e4f1)¿Qué será, en realidad...?}
+240	3399f5a9	Ah, no me miren así. Me quedaré sentado en silencio escuchando como un buen prisionerito.
+250	0ad18f49	Aunque intente alguna jugarreta, no tienen de qué preocuparse conmigo aquí. ¡No hay chico vivo al que no pueda ganarle en una pelea a puño limpio!
+260	b754a9d9	Suena a desafío. ¿Te animas a un combate de práctica después de esto?
+270	1bff8e11	¡Chicos, concéntrense! Estamos aquí por Shouma, ¿recuerdan?
+280	b44834d4	Perdón por tardar tanto... Había tanta información que procesar que mi cerebro no lograba juntarla.
+290	3b427cfd	Al principio el esfuerzo fue demasiado para mí... pero ya estoy bien. Estoy listo.
+300	ec1e6119	{fc(57e4f1)De verdad había recordado algo, después de todo. Esa }{fc(ff635b)terrible verdad}{fc(57e4f1) de la que tanto hablaba en la última batalla.}
+310	8986029f	{fc(57e4f1)Es ahora... Por fin tendremos nuestras respuestas.}
