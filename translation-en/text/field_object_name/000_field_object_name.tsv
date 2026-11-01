@@ -8,13 +8,13 @@ id	huella_jp	es
 7	da39a3ee	Objeto G
 8	da39a3ee	Objeto H
 9	da39a3ee	Objeto I
-100	dd18c8f0	Desarrollar dispositivos defensivos
+100	dd18c8f0	Desarrollar trampas
 101	2e894a7d	Desarrollar fármacos
 102	7c7b74d3	Mejorar el arma de clase
 103	41d7323e	Extintor
 104	bbcba134	Máquina de entrenamiento VR
 105	b515187c	
-106	7b06ffb4	Estudio en la biblioteca
+106	7b06ffb4	Zona de lectura
 1000	50b943d0	Puerta
 1001	9c9c980f	
 1002	2853730c	Ventana
@@ -24,34 +24,34 @@ id	huella_jp	es
 1006	d8ab7424	Autobús escolar
 1008	f3ed8b17	Aparato misterioso
 1009	3ded8bb9	Vista por la ventana
-1010	11a26551	Sistema de defensa
+1010	11a26551	Sistema de Defensa
 1011	7ac18af4	Ametralladora
 1012	c3e0c8da	Dron recolector de cadáveres
 1013	83b06116	
 1014	c21bd718	
 1015	b0d9f2fa	Cápsula
 1016	de92f995	Cama
-1017	11e2d8bf	Aparato de lavado de cerebro
-1018	b188bacf	Muro de Llamas Eternas
-1019	b6b615dd	Dormitorio improvisado
+1017	11e2d8bf	Dispositivo de lavado de cerebro
+1018	b188bacf	Muro de Fuego
+1019	b6b615dd	Espacio para dormir improvisado
 1020	f3ed8b17	Aparato misterioso
 1022	36f780fd	Computadora
 1023	50b943d0	Puerta
-1025	bcded40b	Entrada
-1026	fe817c0e	Aparatos de ejercicio
+1025	bcded40b	Muro de entrada
+1026	fe817c0e	Máquina de entrenamiento
 1027	ec41d980	Silla de playa
-1028	e28db462	Cortina
-1029	a1b01755	Casilleros para zapatos
+1028	e28db462	Zona restringida
+1029	a1b01755	Zapateros
 1030	6ebbcd9d	Taladro
 1031	b1c78a20	Fuente
 1033	593b6246	Tragamonedas
 1034	8f50dc7b	Tablero de dardos
-1035	63806e64	Mesa de ping-pong
+1035	63806e64	Mesa de tenis de mesa
 1036	2720e53a	Líquido misterioso
 1037	6a1e968b	
 1038	32f3ee53	
-1039	95e9d4bb	Máquina arcade de mesa
-1040	b1d5081f	Máquina arcade
+1039	95e9d4bb	Chasis en forma de mesa
+1040	b1d5081f	Chasis de consola de juegos
 1041	0fba3714	Mostrador
 1042	1e37ee7e	Pecera
 1100	e71e9631	Esconderse
@@ -75,7 +75,7 @@ id	huella_jp	es
 201020	a203225b	Cafetería
 201030	841a4470	Garaje
 201040	59abcefa	Taller metalúrgico
-201050	c88f3625	Habitación misteriosa
+201050	c88f3625	Sala extraña
 201060	7e7c8904	Aula P1
 201070	53ba1f65	Estacionamiento
 201080	64100eb5	Gimnasio
@@ -103,21 +103,21 @@ id	huella_jp	es
 203310	991c7895	Baño de mujeres P3 (norte)
 203311	2d9a354a	Baño de mujeres P3 (sur)
 204010	e4564176	Sala de Defensa
-205010	371a64ce	Habitación de Takumi Sumino
-205020	1a6334f8	Habitación de Takemaru Yakushiji
-205030	eed602d1	Habitación de Hiruko Shizuhara
-205040	b7501ed8	Habitación de Darumi Amemiya
-205050	e365e0ff	Habitación de Eito Aotsuki
-205060	40ffe7fa	Habitación de Tsubasa Kawana
-205070	1da1e171	Habitación de Gaku Maruko
-205080	8d65acc3	Habitación de Ima Tsukumo
-205090	7125bf55	Habitación de Kako Tsukumo
-205100	2de4eb67	Habitación de Shouma Ginzaki
-205110	a7e6c5c3	Habitación de Nozomi Kirifuji
-205120	9965ac79	Habitación de Kurara Oosuzuki
-205130	84028077	Habitación de Kyoshika Magadori
-205140	16384405	Habitación de Yugamu Omokage
-205150	050d793d	Habitación de Moko Mojiro
+205010	371a64ce	Habitación de Takumi
+205020	1a6334f8	Habitación de Takemaru
+205030	eed602d1	Habitación de Hiruko
+205040	b7501ed8	Habitación de Darumi
+205050	e365e0ff	Habitación de Eito
+205060	40ffe7fa	Habitación de Tsubasa
+205070	1da1e171	Habitación de Gaku
+205080	8d65acc3	Habitación de Ima
+205090	7125bf55	Habitación de Kako
+205100	2de4eb67	Habitación de Shouma
+205110	a7e6c5c3	Habitación de Nozomi
+205120	9965ac79	Habitación de Kurara
+205130	84028077	Habitación de Kyoshika
+205140	16384405	Habitación de Yugamu
+205150	050d793d	Habitación de Moko
 206010	6f201263	Habitación oculta
 221010	1d3971ac	Aula de la escuela abandonada
 215010	ce32108f	Habitación individual

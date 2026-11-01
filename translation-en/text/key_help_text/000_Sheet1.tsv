@@ -12,8 +12,8 @@ id	huella_jp	es
 21	a91a8a6a	Saltar
 22	ae5fbcda	Automático
 23	0b8d576a	Historial
-24	614f2eaa	Crear
-25	b1443dd8	Registro
+24	614f2eaa	Fabricar
+25	b1443dd8	Nombre
 26	9df89f62	Filtros
 27	0b35f9eb	Actuar
 28	b46e5681	Materiales estratégicos
@@ -24,7 +24,7 @@ id	huella_jp	es
 33	9bd11eae	Desplazar
 34	7e4b258b	Alejar
 35	539df472	Acercar
-36	2dfb21e5	Desarrollar
+36	2dfb21e5	Mejorar
 37	60a1005b	Volver
 38	3da5c185	Cerrar
 39	7f35eee8	Regalar
@@ -37,12 +37,12 @@ id	huella_jp	es
 46	77348268	Mover cursor
 47	b9fa67ab	Elegir
 48	c6c84cf3	Cerrar categoría
-49	a77fb2a7	HUNDRED LINE
-50	c554cb2d	HUNDRED LINE 2
+49	a77fb2a7	Última Academia de Defensa
+50	c554cb2d	Última Academia de Defensa 2
 51	12d470de	Detalles
 52	a4692436	Ver
 53	3837c3e4	Mover imagen
-54	77e2c801	Ver variantes
+54	77e2c801	Cambiar vista
 55	d5a8ce4c	Cambiar imagen
 56	539df472	Acercar
 57	7e4b258b	Alejar
@@ -64,10 +64,10 @@ id	huella_jp	es
 73	85258cee	Ataque especial
 74	af7a1589	Bomba Shion
 75	89c89608	Confirmar acción
-76	85258cee	Ataque especial
+76	85258cee	Ataques de hemoánima
 77	d09ff55a	Absorber criptoglobina
 78	46a71919	Elegir aliado
-79	38cbd3d1	Puntos para examinar
+79	38cbd3d1	Ver guía
 80	5408c1de	Mapa
 81	a17f70a8	Detener
 82	e3313e9f	Elegir dirección
@@ -82,8 +82,8 @@ id	huella_jp	es
 91	47461a0b	Ocultar ventana
 92	acf5f5d4	Información de combate
 93	fdbac34a	Aplicar filtros
-94	f01fb138	A la lista de regalos
-95	56b33f89	Ocultar guía
+94	f01fb138	Volver a la lista
+95	56b33f89	Ocultar ventana
 1001	40415200	
 1002	1a98a6db	
 1003	1205e4f0	

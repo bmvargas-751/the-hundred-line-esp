@@ -58,8 +58,8 @@ id	huella_jp	es
 430	89c89608	Confirmar acción
 460	0632a8a9	Se desbloquea al quedar con 1 HP
 461	f2d16407	Turnos transcurridos
-470	759edd99	Normal
-471	a80cf40e	Crítico
+470	759edd99	Estándar
+471	a80cf40e	Extremo
 480	7d308069	Sin anomalías
 481	f5cee561	Muerte
 600	6dcd4ce2	
@@ -103,24 +103,24 @@ id	huella_jp	es
 1304	0443a555	BP obtenidos
 1305	cc693a58	Objetos obtenidos
 1306	0c1e799d	Dificultad
-1307	469124a1	Entrenamiento
+1307	469124a1	Nombre de la misión
 1308	4a548e78	
 1309	3f93d82a	
 1310	61d76a55	
 1311	0ee13fa4	
 1312	4ea21aa9	
-1401	7c76c8b6	Mejora
+1401	7c76c8b6	Efecto de la mejora
 1402	1fccfd27	Recursos necesarios
 1404	2e1e57fe	Progreso
-1405	8099b646	Desarrollo
+1405	8099b646	Objetivo de mejora
 1408	e1e66399	Mejorado al máximo
 1409	12d470de	Detalles
 1410	db6e47b6	Personaje
-1411	8099b646	Desarrollo
+1411	8099b646	Objetivo de mejora
 1412	659de17a	Notas actuales
 1413	a0c3ad05	Requisitos
-1414	e6ccc3f0	Usos
-1415	cb1df607	Características
+1414	e6ccc3f0	Usos máximos
+1415	cb1df607	Funciones
 1500	9d1fece7	DÍA
 1501	fd5c0e05	Elegir destino
 1600	fa97fbbb	Altura
@@ -146,7 +146,7 @@ id	huella_jp	es
 1620	b3e55f55	Iniciativa
 1621	98f7db8b	Datos básicos
 1622	b65af422	Notas
-1623	a3cd3d59	Lista de deseos
+1623	a3cd3d59	Objetos preferidos
 1624	99ddddd3	Episodios de vínculo
 1625	b7488b6c	
 1626	6725071b	
@@ -167,9 +167,9 @@ id	huella_jp	es
 1708	07f29f7c	Galería
 1709	5970bddd	Ir a la pantalla de título
 1800	77a2b1b6	Ir
-1900	72e6a1e8	Ilustraciones
-1901	1087a3cd	Videos
-1902	389775ae	Sonido
+1900	72e6a1e8	Galería de eventos
+1901	1087a3cd	Galería de videos
+1902	389775ae	Galería de audio
 1903	16d82b0e	Eventos de vínculo
 1904	fabce914	
 1905	bc7fcb7a	
@@ -188,7 +188,7 @@ id	huella_jp	es
 2104	c8382099	Cargar
 2105	d3920ccb	Ayuda
 2106	6e0510a6	Opciones
-2107	5940ba32	Volver al menú de entrenamiento VR
+2107	5940ba32	Menú de entrenamiento VR
 2108	d2b98f64	Repetir los 100 días
 2109	5970bddd	Ir a la pantalla de título
 2110	5408a70d	V
@@ -199,14 +199,14 @@ id	huella_jp	es
 2201	e8d93c7e	Tasa de defensa
 2202	40c25aac	Batalla superada
 2203	323d0dfe	Enemigos derrotados
-2204	6cbae10c	Nice DEATH
+2204	6cbae10c	¡Bien! Eliminaciones
 2205	0443a555	BP obtenidos
 2206	572f1b55	BP totales
 2300	621964cd	Repetir batalla
 2301	5970bddd	Ir a la pantalla de título
 2302	596b3fab	Repetir WAVE
-2310	5940ba32	Volver al menú de entrenamiento VR
-2320	9eccaf16	Repetir exploración
+2310	5940ba32	Volver a la selección de misión
+2320	9eccaf16	Reintentar desde el punto de control
 3000	05c06867	Guardar
 3001	c8382099	Cargar
 3002	d3920ccb	Ayuda
@@ -219,7 +219,7 @@ id	huella_jp	es
 3301	2f70928b	Terminar exploración
 3302	e0d33a85	Seguir explorando
 3400	e4d9442a	Todavía no puedo apagar estas Llamas Eternas...
-3401	4f66ed21	Lv de extinción necesario
+3401	4f66ed21	Nivel de extintor necesario:
 3500	bf9fe750	Inventario lleno
 3501	c8c9bd42	: Cambiar
 4000	140f8557	Portón de la escuela
@@ -254,7 +254,7 @@ id	huella_jp	es
 6204	07f29f7c	Galería
 6205	6e0510a6	Opciones
 6230	46f00ee8	Elegir modo de batalla
-6240	96d30bca	HUNDRED LINE
+6240	96d30bca	Última Academia de Defensa
 6241	be1219da	SAFETY
 6242	e4e6ab7f	EXTREME & DESPAIR
 6300	9e0b53d4	Volumen general

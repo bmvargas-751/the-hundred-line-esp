@@ -36,10 +36,10 @@ id	huella_jp	es
 1154	c39e50aa	[Selección de capítulo] Mover cámara (derecha)
 1160	df62701d	[Selección de capítulo] Agrandar interfaz
 1170	bf60eb3f	[Selección de capítulo] Reducir interfaz
-1180	6e25cb95	[Selección de capítulo] Cambiar de partida
+1180	6e25cb95	[Selección de capítulo] Cambiar línea temporal
 1190	0116e12e	[Registro] Alternar habilidades y objetos
-1200	ec0dddc7	[Crear regalos] Abrir el Registro
-1210	ae4aa9e1	[Crear regalos] Configurar filtros
+1200	ec0dddc7	[Fabricación] Abrir el Registro
+1210	ae4aa9e1	[Fabricación] Configurar filtros
 1220	65aa5b74	[Opciones] Restablecer ajustes
 1230	88dfdd9b	[Exploración] Empezar a explorar
 1240	7df8b1f8	[Exploración] Empezar exploración rápida
@@ -91,7 +91,7 @@ id	huella_jp	es
 3060	42665295	Salir de la habitación / Correr (mantener)
 3061	e952bae1	Salir de la habitación
 3062	cc992bde	Correr (mantener)
-3070	5937aa93	Abrir menú / Saltar video (mantener)
+3070	5937aa93	Abrir menú / Saltar escena (mantener)
 3080	dcfd7e4f	Abrir mapa
 3090	0915510f	Activar/desactivar avance automático
 3100	6fcc8718	Mostrar/ocultar íconos
