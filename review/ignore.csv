@@ -525,3 +525,18 @@ peninsular,message/r00_0_1sttruer_00_d086_m020_030/000_Sheet1#60,falso positivo:
 vosotros,message/npc_chr008ima_32_01/000_Sheet1#10,"Falso positivo: 'Liquid' (QB Liquid) no es 'vosotros'"
 peninsular,message/field_common_message/000_Sheet1#203040003,"Falso positivo: ""Más vale"" es una expresión, no el verbo valer de España"
 inconsistente,text/char_name/000_char_name#4001111,"Plural de título de tutorial frente al nombre singular del objeto"
+peninsular,text/field_present_explanation/000_field_present_explanation#21301,"Falso positivo: 'pasta de frijol anko' no es el vale de España"
+inconsistente,text/common_message/000_Sheet1#1902,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/common_message/000_Sheet1#2107,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/common_message/000_Sheet1#2310,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/common_message/000_Sheet1#428,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/field_object_name/000_field_object_name#1004,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/field_object_name/000_field_object_name#1012,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/help_tutorial_name/000_help_tutorial_name#104,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/help_tutorial_name/000_help_tutorial_name#154,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/input_name/000_input_name#2070,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/key_help_text/000_Sheet1#73,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/key_help_text/000_Sheet1#76,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/option_category_name/000_option_category_name#2,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/ui_archive_name/000_ui_archive_name#11,El inglés nombra distinto en cada pantalla; se sigue el inglés
+inconsistente,text/ui_archive_name/000_ui_archive_name#26,El inglés nombra distinto en cada pantalla; se sigue el inglés
