@@ -3610,6 +3610,8 @@ message/s02_0_aotukino_00_d082_m020_010
 message/s02_0_aotukino_00_d082_m020_020
 message/s02_0_aotukino_00_d082_m020_030
 message/s02_0_aotukino_00_d082_m020_040
+message/s02_0_aotukino_00_d085_m010_010
+message/s02_0_aotukino_00_d085_m010_020
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
