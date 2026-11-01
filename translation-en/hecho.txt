@@ -3630,6 +3630,7 @@ message/s04_0_ivachanr_00_d072_m010_010
 message/s04_0_ivachanr_00_d073_m010_010
 message/s04_0_ivachanr_00_d074_m010_010
 message/s04_0_ivachanr_00_d075_m010_010
+message/s04_0_ivachanr_00_d076_m010_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
