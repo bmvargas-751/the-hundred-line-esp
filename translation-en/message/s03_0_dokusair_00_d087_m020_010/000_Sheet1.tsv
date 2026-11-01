@@ -1,43 +1,43 @@
 id	huella_jp	es
-10	918c77df	¡P-Por fin llegó el momento...!
-20	cf3e78f9	Nozomi, estás demasiado tensa.\nAsí van a sospechar de nosotros.
-30	26cd8c1e	{fc(57e4f1)Los que recibiremos al emisario de Futurum\nseremos Nozomi, Eito y yo.}
-40	35a47da6	{fc(57e4f1)Si fuéramos demasiados, lo intimidaríamos.\nA los demás les pedimos que esperaran en el edificio.}
+10	918c77df	P-Por fin está pasando...
+20	cf3e78f9	Eres un manojo de nervios. Relájate. Los vas a poner desconfiados.
+30	26cd8c1e	{fc(57e4f1)Solo seríamos Nozomi, Eito y yo quienes nos reuniríamos con la mensajera futurana.}
+40	35a47da6	{fc(57e4f1)Un grupo demasiado grande probablemente parecería que intentábamos intimidarlos. Los demás habían acordado quedarse dentro de la escuela por ahora.}
 60	8538a6e9	Vamos.
-70	898e6a90	{fc(57e4f1)Apagué las llamas con el extintor\ny dejé entrar al emisario al Patio de la escuela.}
+70	898e6a90	{fc(57e4f1)Usamos un extintor para abrir un hueco en el muro, permitiendo que la mensajera pasara.}
 80	f4a72a8b	
-90	995ee881	Así que ese es el emisario de Futurum.\nSe parece a ustedes en el aspecto.
-100	a6226851	¿Ella es la Doncella...?\nPero si es una niña.
-110	18f15ccb	Mucho gusto... Soy Takumi Sumino.\nEllos son Eito Aotsuki y Nozomi Kirifuji.
-120	cdf337e3	Así que eres Takumi Sumino.\nTu nombre ya ha llegado a mis oídos.
-130	55a42208	{fc(57e4f1)¡¿Me conoce...?!}
-140	d159484b	Durante estos más de 80 días,\nustedes han derrotado a los héroes de Futurum.
-150	4bc9858a	Su rostro y su nombre nos son conocidos,\ny los hemos estudiado y analizado.
-160	c1b4c562	Pues ustedes son hijos de las estrellas y no lo son:\nson quienes robaron de nosotros la sangre divina.
-170	3e32c107	¿Sangre divina...?\n¿Se referirá a lo que para nosotros es la criptoglobina?
-180	de3b9ae1	Así es. La sangre divina es la prueba de ser elegido por Dios.\nSolo a los héroes se les permite manejarla.
-190	6e5f0beb	Pero ustedes robaron la sangre divina, bebieron la sangre de los héroes\ny han sobrevivido hasta hoy.
-200	f46131e1	Y si ahora son ustedes quienes se acercan...\nno podíamos sino sentir interés.
-210	eaaadca7	Ya veo. O sea que ustedes también\ntenían curiosidad por nosotros.
-220	de5b1ac9	Pero ¿estuvo bien aceptar tan fácilmente\nnuestra invitación?
-221	e8ea410e	Si contactan con nosotros por su cuenta,\n¿no corren el riesgo de que V'ehxness los vigile?
-230	40fc8952	Que V'ehxness nos vigile ya no es novedad.
-231	7d360a69	Hace muchísimo tiempo\nque nos oponemos a esa mujer.
-240	0c5fc742	¿Se oponen a V'ehxness...? ¿Pelean contra ella?
-250	895e5731	¿Pelear...?
-260	3a3a4834	{fc(57e4f1)La niña rio con tono de burla hacia sí misma.}
-270	4d8d4617	Ustedes también lo saben.\nV'ehxness es la más grande entre los héroes elegidos por la sangre divina.
-280	7e29f9ac	Con nuestras fuerzas, pelear contra V'ehxness es imposible.\nPero tampoco podemos obedecerla.
-290	87f26827	¿Qué es V'ehxness para ustedes?\n¿Una gobernante?
-300	46e6f8c2	Así es, una dictadora.\nPero ¡quienes la hicieron así fueron ustedes!
-310	8b67b9dc	Hijos de las estrellas, antes de que apareciera esta fortaleza rodeada de llamas,\nsus ejércitos atacaron este planeta incontables veces.
-320	a37bb791	En nuestra historia se las llama Guerras de Defensa.\nSolo las principales fueron 12. Esta guerra es la decimotercera.
-330	df7aa1de	Antiguamente Futurum no tenía ejército.
-340	e1804fb8	Porque teníamos una civilización armoniosa,\nbajo el gobierno de una familia real con el poder de la sangre divina.
-350	ed0c2193	Pero el ejército de los hijos de las estrellas nos amenazó por todos los medios:\nbombardeos aéreos, bombas incendiarias, armas químicas y biológicas...
-360	12bb33b1	Una muerte cruel cubrió todo el planeta.\nYa vieron ustedes el resultado de esa destrucción.
-370	4b43f897	{fc(57e4f1)Las ruinas que se extienden fuera de esta academia...\nentonces era eso...}
-380	1e56c042	De esa interminable cadena de muertes surgió V'ehxness.\nElla se alzó contra los hijos de las estrellas con el poder de la sangre divina.
-390	b3ece1a8	A su lado combatieron héroes con el poder de la sangre divina.\nLa esperanza de Futurum, la sabiduría de Futurum.
-400	62346fe8	Con la victoria de la décima Guerra de Defensa,\nV'ehxness se convirtió en la guardiana de la Caja de la Dicha.
-410	cd0277e3	Es decir, en nuestra gobernante.
+90	995ee881	Así que esa es la mensajera de los futuranos... A mí me parece muy parecida a ustedes.
+100	a6226851	¿Es esa la Doncella? Todavía es una niña.
+110	18f15ccb	Hola... Gracias por venir. Me llamo Takumi Sumino. Ellos son Eito Aotsuki y Nozomi Kirifuji.
+120	cdf337e3	Así que usted es Takumi Sumino. He oído hablar de usted.
+130	55a42208	{fc(57e4f1)¿Ha oído hablar de mí? ¡¿Cómo?!}
+140	d159484b	Desde hace más de 80 días, ustedes han arrasado con los mayores héroes de Futurum.
+150	4bc9858a	Naturalmente, sus identidades fueron averiguadas y difundidas entre toda la población.
+160	c1b4c562	También sabemos que ustedes no son verdaderos hijos de las estrellas, sino creaciones hechas con la sangre divina que nos fue robada.
+170	3e32c107	¿Sangre divina? ¿Se refiere a la criptoglobina que corre por nuestras venas?
+180	de3b9ae1	En efecto. La sangre divina es señal de haber sido elegido por Dios. Solo a quienes son dignos se les permite usarla.
+190	6e5f0beb	Sin embargo, su gente nos la robó, y ustedes mismos han bebido profundamente de la sangre de nuestros héroes.
+200	f46131e1	Que ustedes nos tiendan la mano después de todo lo que han hecho... Naturalmente, no pude evitar sentir curiosidad.
+210	eaaadca7	Ya veo. O sea que ustedes también se han estado preguntando por nosotros.
+220	de5b1ac9	Pero ¿fue realmente sensato aceptar nuestra invitación tan fácilmente?
+221	e8ea410e	¿No la marcaría V'ehxness por contactarnos sin avisarle?
+230	40fc8952	Ya nos tiene marcados.
+231	7d360a69	Llevamos bastante tiempo oponiéndonos a esa mujer.
+240	0c5fc742	¿Oponiéndose...? ¡¿Quiere decir que pelean contra ella?!
+250	895e5731	¿Pelear? Oh, no...
+260	3a3a4834	{fc(57e4f1)La niña sonrió con ironía.}
+270	4d8d4617	Como bien saben, V'ehxness es una heroína. Incluso entre los demás elegidos, ella está sola en su categoría.
+280	7e29f9ac	Los ciudadanos comunes jamás podríamos vencerla en combate. Pero eso no significa que obedezcamos todos sus caprichos.
+290	87f26827	¿Qué es V'ehxness para ustedes, exactamente? ¿No es su líder?
+300	46e6f8c2	Más bien... una dictadora. Pero no se equivoquen: eso también es algo que su gente ha provocado.
+310	8b67b9dc	Los hijos de las estrellas llevan haciendo la guerra a nuestro planeta desde mucho antes de que llegara su fortaleza de fuego.
+320	a37bb791	Nuestro ejército, centrado en la autodefensa, no estaba preparado para enfrentar semejante amenaza. En toda nuestra historia conocida, solo hemos librado 12 grandes guerras. Esta es la 13.ª.
+330	df7aa1de	Durante mucho tiempo, Futurum no tuvo ejército permanente alguno.
+340	e1804fb8	Los elegidos por la sangre divina eran tratados como realeza, y nuestra civilización floreció bajo su armónico gobierno.
+350	ed0c2193	Pero los hijos de las estrellas desataron amenazas nuevas y terribles sobre nuestro planeta. Bombardeos aéreos, bombas incendiarias, armas químicas, guerra biológica...
+360	12bb33b1	Trajeron muerte y destrucción a nuestra gente como nunca antes. Ustedes mismos han visto los resultados.
+370	4b43f897	{fc(57e4f1)Debía de referirse a todos los pueblos y edificios en ruinas fuera de la escuela...}
+380	1e56c042	Justo cuando toda esperanza parecía perdida, apareció V'ehxness. Con su sangre divina, por fin pudimos ofrecer una resistencia real.
+390	b3ece1a8	Unió a los demás elegidos bajo su mando y se convirtió en la esperanza de todo Futurum, mostrándonos el camino a seguir.
+400	62346fe8	Tras obtener varias victorias para el Ejército Soberano, asumió el puesto de guardiana de las Cajas de Bendiciones.
+410	cd0277e3	Era una heroína, una leyenda viviente. La recibimos como nuestra líder.
