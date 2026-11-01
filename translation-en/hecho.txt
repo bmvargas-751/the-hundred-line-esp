@@ -3334,6 +3334,9 @@ message/s00_0_2ndtruer_00_d067_m080_120
 message/s00_0_2ndtruer_00_d068_m010_010
 message/s00_0_2ndtruer_00_d069_m010_010
 message/s00_0_2ndtruer_00_d070_m010_010
+message/s00_0_2ndtruer_00_d071_m010_010
+message/s00_0_2ndtruer_00_d071_m020_010
+message/s00_0_2ndtruer_00_d071_m020_020
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
