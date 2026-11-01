@@ -239,11 +239,11 @@ id	huella_jp	es
 1008123	25fff818	Levanta un viento que empuja en un área amplia\nObjetivo: Empuje 3 casillas, Movimiento -3\nUsuario: cura de fatiga
 1008124	25fff818	Levanta un viento que empuja en un área amplia\nObjetivo: Empuje 3 casillas, Movimiento -3\nUsuario: cura de fatiga
 1008125	aadf6eab	Levanta un viento que empuja en un área amplia\nObjetivo: Empuje 4 casillas, Movimiento -4\nUsuario: cura de fatiga
-1008131	dacdf469	¡Un puñetazo a distancia!\nAntiaéreo +2
-1008132	dacdf469	¡Un puñetazo a distancia!\nAntiaéreo +2
-1008133	dacdf469	¡Un puñetazo a distancia!\nAntiaéreo +2
-1008134	dacdf469	¡Un puñetazo a distancia!\nAntiaéreo +2
-1008135	dacdf469	¡Un puñetazo a distancia!\nAntiaéreo +2
+1008131	dacdf469	¡Golpea a tus enemigos desde una posición ventajosa!\nAntiaéreo +2
+1008132	dacdf469	¡Golpea a tus enemigos desde una posición ventajosa!\nAntiaéreo +2
+1008133	dacdf469	¡Golpea a tus enemigos desde una posición ventajosa!\nAntiaéreo +2
+1008134	dacdf469	¡Golpea a tus enemigos desde una posición ventajosa!\nAntiaéreo +2
+1008135	dacdf469	¡Golpea a tus enemigos desde una posición ventajosa!\nAntiaéreo +2
 1008140	1f497e70	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento\nObjetivo: Empuje 3 casillas
 1008141	1f497e70	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento\nObjetivo: Empuje 3 casillas
 1008142	1f497e70	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento\nObjetivo: Empuje 3 casillas
@@ -299,11 +299,11 @@ id	huella_jp	es
 1010124	92604f55	Atrae la atención de los enemigos de alrededor\nObjetivo: Enfurecido\nArmadura +2
 1010125	02c260a4	Atrae la atención de los enemigos de alrededor\nObjetivo: Enfurecido\nArmadura +3
 1010129	feca8e35	
-1010131	8d1da1fa	Hace un "ataque", que no es lo suyo\nUsuario: Aturdimiento
-1010132	8d1da1fa	Hace un "ataque", que no es lo suyo\nUsuario: Aturdimiento
-1010133	8d1da1fa	Hace un "ataque", que no es lo suyo\nUsuario: Aturdimiento
-1010134	8d1da1fa	Hace un "ataque", que no es lo suyo\nUsuario: Aturdimiento
-1010135	8d1da1fa	Hace un "ataque", que no es lo suyo\nUsuario: Aturdimiento
+1010131	8d1da1fa	Por una vez, intenta atacar de verdad.\nUsuario: Aturdimiento
+1010132	8d1da1fa	Por una vez, intenta atacar de verdad.\nUsuario: Aturdimiento
+1010133	8d1da1fa	Por una vez, intenta atacar de verdad.\nUsuario: Aturdimiento
+1010134	8d1da1fa	Por una vez, intenta atacar de verdad.\nUsuario: Aturdimiento
+1010135	8d1da1fa	Por una vez, intenta atacar de verdad.\nUsuario: Aturdimiento
 1010139	feca8e35	
 1010140	d0bf937f	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento
 1010141	d0bf937f	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento
@@ -447,11 +447,11 @@ id	huella_jp	es
 1015123	51a97966	Solo se puede confiar en el propio cuerpo\nObjetivo: Aturdimiento\nUsuario: Aturdimiento
 1015124	51a97966	Solo se puede confiar en el propio cuerpo\nObjetivo: Aturdimiento\nUsuario: Aturdimiento
 1015125	51a97966	Solo se puede confiar en el propio cuerpo\nObjetivo: Aturdimiento\nUsuario: Aturdimiento
-1015131	fad56b11	Se da ánimos y se fortalece\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
-1015132	fad56b11	Se da ánimos y se fortalece\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
-1015133	fad56b11	Se da ánimos y se fortalece\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
-1015134	fad56b11	Se da ánimos y se fortalece\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
-1015135	682f0e9c	Se da ánimos y se fortalece\nUsuario: Reflejo\nUsuario: Armadura +3, Ataque +2
+1015131	fad56b11	¡Date ánimos y prepárate para desatarte!\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
+1015132	fad56b11	¡Date ánimos y prepárate para desatarte!\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
+1015133	fad56b11	¡Date ánimos y prepárate para desatarte!\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
+1015134	fad56b11	¡Date ánimos y prepárate para desatarte!\nUsuario: Reflejo\nUsuario: Armadura +2, Ataque +1
+1015135	682f0e9c	¡Date ánimos y prepárate para desatarte!\nUsuario: Reflejo\nUsuario: Armadura +3, Ataque +2
 1015140	d0bf937f	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento
 1015141	d0bf937f	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento
 1015142	d0bf937f	Ataque especial que consume VOLTAGE\nUsuario: Aturdimiento
@@ -1116,7 +1116,7 @@ id	huella_jp	es
 6008141	339403a2	Usuario: Aturdimiento\nObjetivo: Empuje 3 casillas
 6009111	84f21db1	Disparo a larga distancia en línea recta\nPerforación de armadura\nUsuario: Ataque -3
 6009141	ea9f7493	Usuario: Aturdimiento
-6010111	8d1da1fa	Hace un "ataque", que no es lo suyo\nUsuario: Aturdimiento
+6010111	8d1da1fa	Por una vez, intenta atacar de verdad.\nUsuario: Aturdimiento
 6011111	6fa0f77b	Bala que aturde\nObjetivo: Aturdimiento\nAntiaéreo +2
 6011112	6fa0f77b	Bala que aturde\nObjetivo: Aturdimiento\nAntiaéreo +2
 6012111	83b390b2	Golpea con una pala al enemigo de enfrente\nObjetivo: Aturdimiento

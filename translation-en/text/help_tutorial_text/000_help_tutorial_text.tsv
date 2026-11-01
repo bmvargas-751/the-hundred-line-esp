@@ -49,12 +49,12 @@ id	huella_jp	es
 13601	792ff018	Con {fc(ff0000)Lavado de cerebro}, el personaje {fc(ff0000)no se puede controlar} y, en el turno enemigo, {fc(ff0000)ataca a sus aliados}.
 13801	ff126b6f	Cuando un enemigo usa una {fc(ff0000)habilidad cargada}, aparecen {fc(ff0000)casillas moradas de aviso} y ataca en el turno siguiente.
 13802	a95b634a	Si {fc(ff0000)reduces a 0 la armadura} del enemigo, {fc(ff0000)evitas que lance la habilidad cargada}.
-13901	d554f037	[HUNDRED LINE]\nDisfruta al máximo de las batallas del juego.\nRecomendado para quienes juegan por primera vez.
+13901	d554f037	[Última Academia de Defensa]\nDisfruta al máximo de las batallas del juego.\nRecomendado para quienes juegan por primera vez.
 13902	a5679158	[SAFETY]\nUn modo para disfrutar de la historia.\nEn las batallas, al final de cada turno, los aliados recuperan todo su HP y se curan de los estados alterados.
 13903	2caad7d4	[EXTREME & DESPAIR]\n・Ataque especial y Último recurso: 2 AP\n・Daño que reciben los aliados: 100\n　*Con armadura: daño normal\n　*No se aplica en las batallas de tutorial
 15001	0fa68ebe	Lanza un ataque sorpresa antes de que el enemigo te descubra. Si {fc(ff0000)acabas con todos los enemigos en 1 turno}, llegarán menos refuerzos en la siguiente WAVE.
 15002	7f250f43	Al bajar su HP a 0, los explosivos dañan {fc(ff0000)las 8 casillas de alrededor}, {fc(ff0000)sin distinguir entre enemigos y aliados}. Úsalos bien y cuida que no alcancen a tus aliados.
-15101	09244c7b	En una batalla de recuperación, {fc(ff0000)ganas al destruir el generador de barrera} que protege el enemigo. Sortea su ofensiva y deja su HP en 0.
+15101	09244c7b	En una batalla ofensiva, {fc(ff0000)ganas al destruir el generador de barrera} que protege el enemigo. Sortea su ofensiva y deja su HP en 0.
 15201	512f2629	Dos de tus compañeros cayeron en manos de los guardias de V'ehxness. ¡Concentra tus fuerzas y rescátalos {fc(ff0000)en 1 turno}!
 15301	38df1ab9	Entre las copias de Aotsuki se esconde {fc(ff0000)el verdadero Eito Aotsuki}. Derrótalo junto con el jefe.
 15401	3cb31bce	Ahora puedes {fc(ff0000)colocar la trampa de veneno} con {keyhelp(74)}. Se activa cuando el jefe está cerca de la {fc(ff0000)trampa de veneno}, así que colócala después de eliminar a los enemigos de alrededor. Puedes cambiarla de lugar todas las veces que quieras.
@@ -70,9 +70,9 @@ id	huella_jp	es
 11701	7b411797	Al absorber la criptoglobina del bebé, el ataque especial de Takumi Sumino cambió de Asalto carmesí a {fc(ff0000)Bombardeo azur}.
 11702	0722805b	{fc(ff0000)Bombardeo azur} tiene un gran alcance vertical y efecto de perforación, y puede arrasar con enemigos más lejanos.
 11901	e864b443	Cuando muere un aliado, {fc(ff0000)obtienes 100 % de VOLTAGE} y sube la {fc(ff0000)tasa de obtención de VOLTAGE} de todo el equipo.
-11902	60fbe621	Además, cada muerte de un aliado cuenta como {fc(ff0000)Nice DEATH} y {fc(ff0000)aumenta la recompensa} al ganar. Ningún sacrificio es en vano. {fc(ff0000)¡Pelea sin miedo a la muerte!}
+11902	60fbe621	Además, cada muerte de un aliado cuenta como {fc(ff0000)¡Bien! Eliminaciones} y {fc(ff0000)aumenta la recompensa} al ganar. Ningún sacrificio es en vano. {fc(ff0000)¡Pelea sin miedo a la muerte!}
 18001	5dc0baff	Takumi Sumino es un personaje fácil de usar, con un buen equilibrio entre {fc(ff0000)poder y área de ataque}.
-18002	917de8d0	Su habilidad de especialista es {fc(ff0000)Repaso especial}.\nDesde el menú de {keyhelp(90)}, puede {fc(ff0000)repetir la batalla}.
+18002	917de8d0	Su habilidad de especialista es {fc(ff0000)Repetición especial}.\nDesde el menú de {keyhelp(90)}, puede {fc(ff0000)repetir la batalla}.
 18101	b962d26b	Takemaru Yakushiji es un hostigador que combina {fc(ff0000)gran movilidad y resistencia}.
 18102	078bc5f8	Su habilidad de especialista es {fc(ff0000)Frenesí especial}.\nAl actuar, gana {fc(ff0000)Armadura +1 por cada casilla que recorre}.
 18201	4c695d90	Hiruko Shizuhara es una atacante\nque {fc(ff0000)destaca en ataques feroces}.
@@ -153,10 +153,10 @@ id	huella_jp	es
 23302	01a45ae3	Se consiguen con las {fc(ff0000)actividades estudiantiles} y la {fc(ff0000)exploración}, respectivamente, así que haz distintas actividades según lo que necesites.
 23401	daf840a9	Presiona {keyhelp(26)} para {fc(ff0000)filtrar los regalos}.
 23402	88618a6f	Con las pistas de las actividades estudiantiles, filtra lo que quiere cada personaje por {fc(ff0000)palabra clave} y {fc(ff0000)categoría}.
-23501	3836b0b5	Se desbloqueó la {fc(ff0000)biblioteca} y ya puedes hacer el {fc(ff0000)estudio en la biblioteca}.
-23502	ad320e58	En el estudio en la biblioteca, lees libros de cada materia y {fc(ff0000)subes la calificación que prefieras}.
+23501	3836b0b5	Se desbloqueó la {fc(ff0000)biblioteca} y ya puedes hacer el {fc(ff0000)estudio de lectura}.
+23502	ad320e58	En el estudio de lectura, lees libros de cada materia y {fc(ff0000)subes la calificación que prefieras}.
 23503	e0f480ca	Te permite subir justo la calificación que necesitas, así que úsalo cuando haga falta.
-23601	893206b7	En el estudio en la biblioteca, si {fc(ff0000)lees el mismo libro dos veces}, lo terminas y {fc(ff0000)la calificación sube mucho}.
+23601	893206b7	En el estudio de lectura, si {fc(ff0000)lees el mismo libro dos veces}, lo terminas y {fc(ff0000)la calificación sube mucho}.
 23602	8a0d4071	{fc(ff0000)Un libro que ya terminaste tiene menos efecto}, así que combina bien la lectura con las actividades estudiantiles y los regalos.
 23701	3e3d48e6	Al principio, todas las pistas de la lista de deseos están ocultas.
 23702	d999bac8	Para obtener pistas, haz {fc(ff0000)actividades estudiantiles} con cada personaje y consigue {fc(ff0000)palabras clave}.

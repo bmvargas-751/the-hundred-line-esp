@@ -44,16 +44,16 @@ id	huella_jp	es
 1002113	0dfb213b	¡Fuera de mi camino! Lv3
 1002114	539a7ea3	¡Fuera de mi camino! Lv4
 1002115	b8e2d762	¡Fuera de mi camino! MAX
-1002121	5d8de97b	¡Vamos de bronca!
-1002122	01bd04a7	¡Vamos de bronca! Lv2
-1002123	ca7d7a7d	¡Vamos de bronca! Lv3
-1002124	877271bb	¡Vamos de bronca! Lv4
-1002125	fcc8d98d	¡Vamos de bronca! MAX
-1002131	ed16dd71	¡¡Les voy a dar con todo!!
-1002132	debcef7f	¡¡Les voy a dar con todo!! Lv2
-1002133	46052b22	¡¡Les voy a dar con todo!! Lv3
-1002134	fb525d88	¡¡Les voy a dar con todo!! Lv4
-1002135	bcd5ed36	¡¡Les voy a dar con todo!! MAX
+1002121	5d8de97b	¡Toma esto!
+1002122	01bd04a7	¡Toma esto! Lv2
+1002123	ca7d7a7d	¡Toma esto! Lv3
+1002124	877271bb	¡Toma esto! Lv4
+1002125	fcc8d98d	¡Toma esto! MAX
+1002131	ed16dd71	¡Pónganse en guardia!
+1002132	debcef7f	¡Pónganse en guardia! Lv2
+1002133	46052b22	¡Pónganse en guardia! Lv3
+1002134	fb525d88	¡Pónganse en guardia! Lv4
+1002135	bcd5ed36	¡Pónganse en guardia! MAX
 1002140	657b6a44	¡No puedes conmigo!
 1002141	eec9554e	¡No puedes conmigo! Lv2
 1002142	b888c2b8	¡No puedes conmigo! Lv3
@@ -205,11 +205,11 @@ id	huella_jp	es
 1007113	a8fb634b	Disparo loco Lv3
 1007114	9da700b3	Disparo loco Lv4
 1007115	997b7d08	Disparo loco MAX
-1007121	91ed13ac	¡Acábalos!
-1007122	9fd74a7d	¡Acábalos! Lv2
-1007123	9689ec6e	¡Acábalos! Lv3
-1007124	1d65ee56	¡Acábalos! Lv4
-1007125	d55018fe	¡Acábalos! MAX
+1007121	91ed13ac	¡Tomen esto!
+1007122	9fd74a7d	¡Tomen esto! Lv2
+1007123	9689ec6e	¡Tomen esto! Lv3
+1007124	1d65ee56	¡Tomen esto! Lv4
+1007125	d55018fe	¡Tomen esto! MAX
 1007131	f801eba3	A la caza
 1007132	37f234cd	A la caza Lv2
 1007133	fc552bf0	A la caza Lv3
@@ -437,32 +437,32 @@ id	huella_jp	es
 1014161	72c3fdcb	Carrera
 1014171	5bd79e95	Postura defensiva
 1014191	7836deb4	Habilidad de contraataque
-1015111	25dbe1d4	¡Moko Dynamite!
-1015112	8f52b382	¡Moko Dynamite! Lv2
-1015113	f8c1d3ec	¡Moko Dynamite! Lv3
-1015114	7e5d5880	¡Moko Dynamite! Lv4
-1015115	79c3207d	¡Moko Dynamite! MAX
-1015121	bbd022e0	¡Moko Shooting!
-1015122	82840b50	¡Moko Shooting! Lv2
-1015123	a2fb0f4e	¡Moko Shooting! Lv3
-1015124	32d45280	¡Moko Shooting! Lv4
-1015125	72309680	¡Moko Shooting! MAX
-1015131	4bedd1c7	¡Moko Power!
-1015132	cd73ab61	¡Moko Power! Lv2
-1015133	19c80050	¡Moko Power! Lv3
-1015134	fd9a1e54	¡Moko Power! Lv4
-1015135	77505064	¡Moko Power! MAX
-1015140	5c6fb776	¡Ultra Moko Bomb!
-1015141	3c2b491f	¡Ultra Moko Bomb! Lv2
-1015142	82643a80	¡Ultra Moko Bomb! Lv3
-1015143	d3036db6	¡Ultra Moko Bomb! Lv4
-1015144	e6350aef	¡Ultra Moko Bomb! Lv5
-1015145	f324b13d	¡Ultra Moko Bomb! Lv6
-1015146	50eb9d6b	¡Ultra Moko Bomb! Lv7
-1015147	3ba8f772	¡Ultra Moko Bomb! Lv8
-1015148	b2249d31	¡Ultra Moko Bomb! Lv9
-1015149	ed658f49	¡Ultra Moko Bomb! Lv10
-1015150	84bc29e6	¡Ultra Moko Bomb! MAX
+1015111	25dbe1d4	
+1015112	8f52b382	Moko Dynamite Lv2
+1015113	f8c1d3ec	Moko Dynamite Lv3
+1015114	7e5d5880	Moko Dynamite Lv4
+1015115	79c3207d	
+1015121	bbd022e0	
+1015122	82840b50	Moko Shooter Lv2
+1015123	a2fb0f4e	Moko Shooter Lv3
+1015124	32d45280	Moko Shooter Lv4
+1015125	72309680	
+1015131	4bedd1c7	
+1015132	cd73ab61	Mokomania Lv2
+1015133	19c80050	Mokomania Lv3
+1015134	fd9a1e54	Mokomania Lv4
+1015135	77505064	
+1015140	5c6fb776	
+1015141	3c2b491f	Ultra Moko Bomber Lv2
+1015142	82643a80	Ultra Moko Bomber Lv3
+1015143	d3036db6	Ultra Moko Bomber Lv4
+1015144	e6350aef	Ultra Moko Bomber Lv5
+1015145	f324b13d	Ultra Moko Bomber Lv6
+1015146	50eb9d6b	Ultra Moko Bomber Lv7
+1015147	3ba8f772	Ultra Moko Bomber Lv8
+1015148	b2249d31	Ultra Moko Bomber Lv9
+1015149	ed658f49	Ultra Moko Bomber Lv10
+1015150	84bc29e6	
 1015161	72c3fdcb	Carrera
 1015171	5bd79e95	Postura defensiva
 1015191	7836deb4	Habilidad de contraataque
@@ -661,17 +661,17 @@ id	huella_jp	es
 1114148	eae832f9	{fc(ff0000)Último recurso: Atrocidad del crepúsculo Lv9}
 1114149	aec32ed8	{fc(ff0000)Último recurso: Atrocidad del crepúsculo Lv10}
 1114150	13f8b414	{fc(ff0000)Último recurso: Atrocidad del crepúsculo MAX}
-1115140	1db0e5a8	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb!}
-1115141	9a441bd9	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv2}
-1115142	f1318141	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv3}
-1115143	e372204b	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv4}
-1115144	c2e858aa	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv5}
-1115145	ec727572	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv6}
-1115146	f78139f0	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv7}
-1115147	6ac6692d	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv8}
-1115148	3ec89bf1	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv9}
-1115149	df9c7cbf	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! Lv10}
-1115150	9f666844	{fc(ff0000)Último recurso: ¡Ultra Moko Bomb! MAX}
+1115140	1db0e5a8	{fc(ff0000)Último recurso: Ultra Moko Bomber}
+1115141	9a441bd9	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv2}
+1115142	f1318141	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv3}
+1115143	e372204b	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv4}
+1115144	c2e858aa	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv5}
+1115145	ec727572	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv6}
+1115146	f78139f0	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv7}
+1115147	6ac6692d	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv8}
+1115148	3ec89bf1	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv9}
+1115149	df9c7cbf	{fc(ff0000)Último recurso: Ultra Moko Bomber Lv10}
+1115150	9f666844	{fc(ff0000)Último recurso: Ultra Moko Bomber MAX}
 1116140	06388c22	{fc(ff0000)Último recurso: Camino al inframundo}
 1116141	d5099827	{fc(ff0000)Último recurso: Camino al inframundo Lv2}
 1116142	4fd75d68	{fc(ff0000)Último recurso: Camino al inframundo Lv3}
@@ -1144,7 +1144,7 @@ id	huella_jp	es
 6014111	212785c7	Víbora sacrificial
 6014112	212785c7	Víbora sacrificial
 6014141	17fbf77b	Atrocidad del crepúsculo
-6015111	25dbe1d4	¡Moko Dynamite!
-6015141	5c6fb776	¡Ultra Moko Bomb!
+6015111	25dbe1d4	
+6015141	5c6fb776	
 6016111	86f55ce1	Hoja vacía
 9999999	b8d92ca2	No hacer nada

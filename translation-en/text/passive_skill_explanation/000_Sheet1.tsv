@@ -34,14 +34,14 @@ id	huella_jp	es
 4007	bf884ce3	Tras actuar obtiene armadura y recibe menos daño
 4008	0ce342f6	No recibe daño mientras haya niebla
 4009	4ab989d9	Usuario: Movimiento -3, HP reducido
-4010	f1aeaa39	El cariño de Shion por sus compañeros le impide actuar
+4010	f1aeaa39	Usa el poder de Shion para impedir que el objetivo se mueva
 4011	7e06f753	Obtiene armadura tras actuar
 4012	895be54a	Actúa dos veces seguidas
 4013	4ab989d9	Usuario: Movimiento -3, HP reducido
-4014	b6026fb0	Sus sentimientos por Takumi le oprimen el pecho y no puede sacar fuerzas
+4014	b6026fb0	Sus sentimientos por Takumi le impiden rendir al máximo
 4015	3d9c2cfe	Usuario: Ataque +1
 4016	ac5e354b	Anula la perforación de armadura
-4017	44e38e5d	Su confianza en sus compañeros fortalece su hemoánima
+4017	44e38e5d	Confía en tus amigos y desata todo tu potencial
 4018	bf884ce3	Tras actuar obtiene armadura y recibe menos daño
 5000	9391ae24	AP +1 al derrotar a un enemigo
 5010	cd6bd1d7	Sus ataques tienen Perforación de armadura
@@ -96,13 +96,13 @@ id	huella_jp	es
 81001	e44a61d4	El poder de FB mejora sus capacidades
 81002	1527de60	El poder que dejó Nozomi mejora mucho sus capacidades
 90003	0cb2d97e	Al inicio del turno aliado, intercepta a los enemigos en alcance
-4000201	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000202	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000203	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000204	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000205	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000206	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000207	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000208	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000209	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
-4000210	4f892226	Al recibir daño, aturde las 12 casillas de alrededor
+4000201	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000202	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000203	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000204	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000205	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000206	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000207	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000208	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000209	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor
+4000210	4f892226	Al recibir daño, aturde a los enemigos en las 8 casillas de alrededor

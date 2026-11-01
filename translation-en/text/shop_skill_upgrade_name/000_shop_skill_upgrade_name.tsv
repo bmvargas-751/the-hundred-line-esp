@@ -19,16 +19,16 @@ id	huella_jp	es
 1002113	10c7f6fe	¡Fuera de mi camino! Lv2 → Lv3
 1002114	7ff9503c	¡Fuera de mi camino! Lv3 → Lv4
 1002115	a5757b37	¡Fuera de mi camino! Lv4 → MAX
-1002121	6bc09f4b	Obtener ¡Vamos de bronca!
-1002122	dc419c91	¡Vamos de bronca! Lv1 → Lv2
-1002123	3b040922	¡Vamos de bronca! Lv2 → Lv3
-1002124	619e4f6e	¡Vamos de bronca! Lv3 → Lv4
-1002125	c0dcb475	¡Vamos de bronca! Lv4 → MAX
-1002131	ee6b35a2	Obtener ¡¡Les voy a dar con todo!!
-1002132	f6006090	¡¡Les voy a dar con todo!! Lv1 → Lv2
-1002133	cf8bdc1c	¡¡Les voy a dar con todo!! Lv2 → Lv3
-1002134	bb4f5700	¡¡Les voy a dar con todo!! Lv3 → Lv4
-1002135	444068ab	¡¡Les voy a dar con todo!! Lv4 → MAX
+1002121	6bc09f4b	Obtener ¡Toma esto!
+1002122	dc419c91	¡Toma esto! Lv1 → Lv2
+1002123	3b040922	¡Toma esto! Lv2 → Lv3
+1002124	619e4f6e	¡Toma esto! Lv3 → Lv4
+1002125	c0dcb475	¡Toma esto! Lv4 → MAX
+1002131	ee6b35a2	Obtener ¡Pónganse en guardia!
+1002132	f6006090	¡Pónganse en guardia! Lv1 → Lv2
+1002133	cf8bdc1c	¡Pónganse en guardia! Lv2 → Lv3
+1002134	bb4f5700	¡Pónganse en guardia! Lv3 → Lv4
+1002135	444068ab	¡Pónganse en guardia! Lv4 → MAX
 1003111	483ee03e	Obtener Fractura craneal
 1003112	21b43c9d	Fractura craneal Lv1 → Lv2
 1003113	0eed62f7	Fractura craneal Lv2 → Lv3
@@ -94,11 +94,11 @@ id	huella_jp	es
 1007113	4817f2cc	Disparo loco Lv2 → Lv3
 1007114	2e438924	Disparo loco Lv3 → Lv4
 1007115	5d5620d8	Disparo loco Lv4 → MAX
-1007121	4d67c86b	Obtener ¡Acábalos!
-1007122	fc17deac	¡Acábalos! Lv1 → Lv2
-1007123	76b0b024	¡Acábalos! Lv2 → Lv3
-1007124	8e09df13	¡Acábalos! Lv3 → Lv4
-1007125	2f0b7607	¡Acábalos! Lv4 → MAX
+1007121	4d67c86b	Obtener ¡Tomen esto!
+1007122	fc17deac	¡Tomen esto! Lv1 → Lv2
+1007123	76b0b024	¡Tomen esto! Lv2 → Lv3
+1007124	8e09df13	¡Tomen esto! Lv3 → Lv4
+1007125	2f0b7607	¡Tomen esto! Lv4 → MAX
 1007131	15289ceb	Obtener A la caza
 1007132	7ed9efac	A la caza Lv1 → Lv2
 1007133	9edba9cb	A la caza Lv2 → Lv3
@@ -209,21 +209,21 @@ id	huella_jp	es
 1014133	eca3d23c	Contagio fatal Lv2 → Lv3
 1014134	c520cb11	Contagio fatal Lv3 → Lv4
 1014135	5c218eaa	Contagio fatal Lv4 → MAX
-1015111	d34d1612	Obtener ¡Moko Dynamite!
-1015112	4b76f3b8	¡Moko Dynamite! Lv1 → Lv2
-1015113	8901aa6d	¡Moko Dynamite! Lv2 → Lv3
-1015114	5b98f994	¡Moko Dynamite! Lv3 → Lv4
-1015115	a83d8c2a	¡Moko Dynamite! Lv4 → MAX
-1015121	4fc76b0e	Obtener ¡Moko Shooting!
-1015122	6a2925eb	¡Moko Shooting! Lv1 → Lv2
-1015123	ba4f28d0	¡Moko Shooting! Lv2 → Lv3
-1015124	ab54396b	¡Moko Shooting! Lv3 → Lv4
-1015125	10c38098	¡Moko Shooting! Lv4 → MAX
-1015131	716ba637	Obtener ¡Moko Power!
-1015132	f2603cf1	¡Moko Power! Lv1 → Lv2
-1015133	5869d179	¡Moko Power! Lv2 → Lv3
-1015134	2cfb9aa2	¡Moko Power! Lv3 → Lv4
-1015135	582b68a2	¡Moko Power! Lv4 → MAX
+1015111	d34d1612	Obtener Moko Dynamite
+1015112	4b76f3b8	Moko Dynamite Lv1 → Lv2
+1015113	8901aa6d	Moko Dynamite Lv2 → Lv3
+1015114	5b98f994	Moko Dynamite Lv3 → Lv4
+1015115	a83d8c2a	Moko Dynamite Lv4 → MAX
+1015121	4fc76b0e	Obtener Moko Shooter
+1015122	6a2925eb	Moko Shooter Lv1 → Lv2
+1015123	ba4f28d0	Moko Shooter Lv2 → Lv3
+1015124	ab54396b	Moko Shooter Lv3 → Lv4
+1015125	10c38098	Moko Shooter Lv4 → MAX
+1015131	716ba637	Obtener Mokomania
+1015132	f2603cf1	Mokomania Lv1 → Lv2
+1015133	5869d179	Mokomania Lv2 → Lv3
+1015134	2cfb9aa2	Mokomania Lv3 → Lv4
+1015135	582b68a2	Mokomania Lv4 → MAX
 1016111	896d1073	Obtener Hoja vacía
 1016112	a493e730	Hoja vacía Lv1 → Lv2
 1016113	5b826dfb	Hoja vacía Lv2 → Lv3

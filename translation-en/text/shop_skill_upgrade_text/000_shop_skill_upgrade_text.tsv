@@ -19,12 +19,12 @@ id	huella_jp	es
 1002113	1753be93	 {fc(67ffe0)Movimiento +1}
 1002114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1002115	8df0abf9	 {fc(67ffe0)Ataque +1}
-1002121	ed106e82	 {fc(67ffe0)¡Vamos de bronca! disponible}
+1002121	ed106e82	 {fc(67ffe0)¡Toma esto! disponible}
 1002122	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1002123	1753be93	 {fc(67ffe0)Movimiento +1}
 1002124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1002125	8df0abf9	 {fc(67ffe0)Ataque +1}
-1002131	fe3ce0ba	 {fc(67ffe0)¡¡Les voy a dar con todo!! disponible}
+1002131	fe3ce0ba	 {fc(67ffe0)¡Pónganse en guardia! disponible}
 1002132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1002133	1753be93	 {fc(67ffe0)Movimiento +1}
 1002134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -94,7 +94,7 @@ id	huella_jp	es
 1007113	1753be93	 {fc(67ffe0)Movimiento +1}
 1007114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1007115	8df0abf9	 {fc(67ffe0)Ataque +1}
-1007121	49c555bf	 {fc(67ffe0)¡Acábalos! disponible}
+1007121	49c555bf	 {fc(67ffe0)¡Tomen esto! disponible}
 1007122	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1007123	1753be93	 {fc(67ffe0)Movimiento +1}
 1007124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
@@ -209,17 +209,17 @@ id	huella_jp	es
 1014133	1753be93	 {fc(67ffe0)Movimiento +1}
 1014134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1014135	114831fe	 {fc(67ffe0)Ataque -2 → -3\nMovimiento -3 → -4}
-1015111	2a94cd6c	 {fc(67ffe0)¡Moko Dynamite! disponible}
+1015111	2a94cd6c	 {fc(67ffe0)Moko Dynamite disponible}
 1015112	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1015113	1753be93	 {fc(67ffe0)Movimiento +1}
 1015114	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1015115	8df0abf9	 {fc(67ffe0)Ataque +1}
-1015121	2f54e012	 {fc(67ffe0)¡Moko Shooting! disponible}
+1015121	2f54e012	 {fc(67ffe0)Moko Shooter disponible}
 1015122	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1015123	1753be93	 {fc(67ffe0)Movimiento +1}
 1015124	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
 1015125	8df0abf9	 {fc(67ffe0)Ataque +1}
-1015131	80ce953e	 {fc(67ffe0)¡Moko Power! disponible}
+1015131	80ce953e	 {fc(67ffe0)Mokomania disponible}
 1015132	78db960e	 {fc(67ffe0)Obtención de VOLTAGE x1.5}
 1015133	1753be93	 {fc(67ffe0)Movimiento +1}
 1015134	7bfc12b4	 {fc(67ffe0)Obtención de VOLTAGE x2}
