@@ -6,6 +6,7 @@ salvo lo que dice este archivo. Meta: que el subtítulo diga lo mismo que la voz
 ## Base
 
 - **La base es el inglés.** Cada línea se traduce desde el inglés oficial, frase por frase, con el mismo sentido y el mismo largo aproximado que la voz.
+- **Que se entienda.** Base en el inglés no es calco del inglés: la frase tiene que leerse natural en español, con el mismo sentido y un largo parecido a la voz. Si el inglés tiene un giro que en español no se entiende (*play into their hands*, *every chance*, *where you're coming from*), se busca el giro equivalente; no se traduce palabra por palabra ni se reescribe tan libre que se aleje de la voz.
 - El japonés solo ayuda a resolver lo que el inglés deja ambiguo: género, sujeto omitido, trato (tú/usted), registro.
   Si el inglés agrega, quita o cambia algo, se sigue el inglés (la voz lo dice así).
 - La traducción japonesa del repo (`ES(jp)` en el export) es un punto de partida: si ya dice lo mismo que el inglés, se deja igual.
