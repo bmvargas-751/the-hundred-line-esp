@@ -36,3 +36,4 @@ Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre del
 
 - Darumi a Hiruko: *Mistress* → **Ama Hiruko** (en la versión japonesa es *Reina Hiruko*).
 - Darumi habla de sí misma en primera persona (el inglés dice *I*), no en tercera.
+- Ima es un chico: habla de sí mismo en masculino (*estoy seguro*, nunca *segura*). A Kako sí le dice *buena chica* (es su hermana).
