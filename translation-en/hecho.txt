@@ -3605,6 +3605,9 @@ message/s00_0_2ndtruer_00_d100_m160_010
 message/s00_0_2ndtruer_00_d100_m190_010
 message/s00_0_2ndtruer_00_d100_m190_020
 message/s00_0_2ndtruer_00_d100_m210_010
+message/s05_0_ninshiki_00_d057_m010_010
+message/s05_0_ninshiki_00_d057_m020_010
+message/s05_0_ninshiki_00_d057_m030_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
