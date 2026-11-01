@@ -34,7 +34,7 @@ Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre del
 
 ## Tratamientos propios de la versión inglesa
 
-- Darumi a Hiruko: *Mistress* → **Ama Hiruko** (en la versión japonesa es *Reina Hiruko*).
+- Darumi a Hiruko: *Mistress* → **la Ama Hiruko** (con artículo femenino; sin artículo solo al llamarla: *No me dejes, Ama Hiruko*). En la versión japonesa es *Reina Hiruko*.
 - Darumi habla de sí misma en primera persona (el inglés dice *I*), no en tercera.
 - Ima es un chico: habla de sí mismo en masculino (*estoy seguro*, nunca *segura*). A Kako sí le dice *buena chica* (es su hermana).
 - Cuando el destinatario es un grupo, el pronombre concuerda: *se los ruego*, *se los garantizo*, *se los dejo a ustedes* (así se dice en Chile y en buena parte de América). *Se lo* queda para uno solo o cuando "se" es otra persona (*se lo conté a todos*).
