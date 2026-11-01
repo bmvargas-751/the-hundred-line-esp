@@ -1,48 +1,48 @@
 id	huella_jp	es
-10	02f17257	{fc(57e4f1)Apenas puse un pie en la cafetería, me llegaron unos gritos furiosos.}
-20	607eb209	¡¿No será que me ocultas otras cosas?! ¡¿No será que hay algo que no me dijiste?!
-30	3edb4940	Y-Yo...
+10	02f17257	{fc(57e4f1)Apenas abrí la puerta de la cafetería, oí un alboroto de voces alzadas con rabia.}
+20	607eb209	¡Confiesa: todavía me estás ocultando algo, ¿no? ¡¿Qué es lo que no me has dicho?!
+30	3edb4940	N-No, yo...
 40	f4a72a8b	
-50	5aac0de7	¡¿Ves?! ¡No puedes responder enseguida! ¡¿Entonces sí hay algo?!
-60	b82cb8b3	Oye, a nosotros también nos hicieron el trasplante, ¿no? ¡¿Cuándo diablos nos trasplantaron este poder tan raro?!
-70	eb12d027	Y-Yo tampoco... de verdad no lo sé... La primera vez que los vi a ustedes fue cuando estaban dentro de los aparatos...
-80	e152f789	Ehh, ¿de verdad no sabe nada? ¿No será que todavía oculta algo?
-90	3d265a28	{fc(57e4f1)Sin pensarlo, levanté la voz.}
-100	5d50f329	¡Oigan! ¡¿Qué están haciendo?! ¡Con lo que conté ayer, Nozomi ya no debería estar bajo sospecha!
-110	01a01ae7	...Parece que no alcanza con eso. Hay alguien que no le perdona haber ocultado cosas.
+50	5aac0de7	¡Tu silencio te condena! ¡Es lo mismo que confesar!
+60	b82cb8b3	Sabías de la operación que nos hicieron, ¿verdad? ¿Cómo pudiste dejar que nos transfundieran este poder tan raro?
+70	eb12d027	P-Por favor, yo no tuve nada que ver con eso... La primera vez que los vi, ya estaban en sus cápsulas, listos para partir...
+80	e152f789	¿Es toda la verdad? Todo me suena bastante sospechoso.
+90	3d265a28	{fc(57e4f1)No esperé a oír más.}
+100	5d50f329	¿Qué están haciendo? ¡Ya hablamos de esto: Nozomi es nuestra amiga!
+110	01a01ae7	No es tan simple. Parece que el problema es justamente que haya guardado secretos desde el principio.
 120	0ded5105	¿Eh...?
-130	2d06fde6	Lo que más odio en el mundo es que me oculten cosas... Lo odio más que a Kyoshika...
-135	68be09c7	¡¿Yo soy la vara para medir el odio?!
-140	cec200ea	...Nozomi, me decepcionaste de verdad. Cómo te atreviste a ocultarme cosas.
+130	2d06fde6	Lo que más odio en el mundo son los secretos y las mentiras. Más de lo que odio a Kyoshika.
+135	68be09c7	¡¿Me odias?!
+140	cec200ea	Me traicionaste, Nozomi. Estoy muy decepcionada de ti.
 150	f4a72a8b	
-160	5771a6b1	Pero Nozomi ya dijo que no sabe nada más. ¡Seguir con eso ya es acoso! Esa línea no se cruza, ¿eh?
-170	cd9b6c1f	¡No la cruces, no la pises, no la pises! ¡Si la pisas, te reviento con un bate de alambre de púas!
-180	1a035b68	...Eso es peor que el acoso.
-190	a339db74	La Srta. Nozomi... es buena persona, ¿eh? No está bien desconfiar de ella...
-200	150115b4	Pero es del lado de los que nos metieron en esto, ¿no? Entonces también tiene que saber lo que saben ellos...
-210	e7cc4b9b	P-Por eso digo... yo de verdad no sé nada...
-220	11ac558f	¡Ya basta! ¡Si nos ocultaste cosas, es porque no confías en nosotros, ¿no?!
-230	d432798b	¡¿Cómo quieres que confíe en alguien así?!
-240	c0be10e1	¡Ya basta, dejen de pelear!
-250	f0c5796e	{fc(57e4f1)Se me había escapado un grito.}
-260	a845c3ee	Pelear así solo le conviene al enemigo. Si nos dividimos, no podemos ganar esta guerra.
-270	726058af	¡Lo sé porque lo viví en carne propia! ¡Justamente por eso volví, para cambiar el futuro!
-280	54d14bc8	Y aun así... ¡esto es repetir lo mismo! ¡Esta vez tenemos que pelear todos unidos!
+160	5771a6b1	Ya, Kurara. Ya se disculpó y dice que nos contó todo. ¿Qué más quieres de ella?
+170	cd9b6c1f	¡No me obligues a aplicarte una Sharpshooter para que te portes bien!
+180	1a035b68	Ese castigo es peor que el delito...
+190	a339db74	Nozomi es una buena persona. No deberíamos dudar de ella ahora...
+200	150115b4	¡Pero esos investigadores del hospital son los que nos hicieron esto! Ella tiene que saber más de lo que dice.
+210	e7cc4b9b	Ya les dije que no tuve nada que ver con eso. Les he contado todo lo que sé.
+220	11ac558f	¿Esperas que te creamos? Si de verdad confiaras en nosotros, no lo habrías guardado en secreto tanto tiempo.
+230	d432798b	¡Y si tú no confías en nosotros, cómo vamos a confiar nosotros en ti!
+240	c0be10e1	¡Basta ya!
+250	f0c5796e	{fc(57e4f1)No pude contenerme más.}
+260	a845c3ee	Pelear entre nosotros solo ayuda al enemigo. Si nos desmoronamos ahora, no tendremos ninguna oportunidad de ganar.
+270	726058af	Y no lo digo en teoría: ¡lo he visto pasar con mis propios ojos!
+280	54d14bc8	Si volvemos a ese camino, NO va a terminar bien. ¡Tenemos que trabajar en equipo!
 290	f4a72a8b	
-300	bb9a8d58	...Está bien. Entonces ya no voy a decir nada más.
-310	dc10db4c	Voy a pelear a fondo, solo para ganar. Pero...
-320	bb945f9d	...llevarme bien con esa es imposible. Así que, de ahora en adelante, para mí no existe.
+300	bb9a8d58	Está bien. Como quieras. No diré ni una palabra más sobre el tema.
+310	dc10db4c	Seré una jugadora de equipo y haré lo que sea para ganar esta guerra.
+320	bb945f9d	Pero fuera de las batallas, me niego a pasar un solo minuto con ELLA. Desde este momento, para mí está muerta.
 330	f4a72a8b	
-340	a2a6140d	Se me quitó el apetito, así que me voy. Adiós...
-350	010c6d81	¡D-Doña Kurara! ¡Espere... un momento!
-360	57945b0a	...Perdón por arruinar el ambiente. Yo también vuelvo a mi habitación.
-370	937b4553	¡Ah, espera! ¡Nozomiii!
-380	10d9cef9	{fc(57e4f1)Una tras otra, ellas salieron de la cafetería, dejando atrás un ambiente de lo más tenso.}
-390	beb87841	Ay... ¿por qué tiene que pasar esto...?
-400	b4d62cde	...No es mi culpa, ¿no? Yo solo hice una pregunta, ¿eh?
-410	308b647d	¡Mire quién habla! ¡Se mire por donde se mire, es culpa del Sr. Maruko!
-420	168acd16	Tú también... queridísimo hermano.
-430	99456f85	Este... ¿y si dejamos de pelear? Si están enojados, pueden pegarme a mí, no me importa.
-440	4edab626	...Justo ahora no están ni SIREI ni NIGOU. ¿No es su trabajo calmar estas peleas?
+340	a2a6140d	Ahora, si me disculpan... Creo que se me quitó el hambre.
+350	010c6d81	¡Doña Kurara, espere! ¿No podemos conversar?
+360	57945b0a	Perdón por arruinarles la mañana. Si alguien me busca, estaré en mi habitación.
+370	937b4553	¡Nozomi! ¡Tú tampoco!
+380	10d9cef9	{fc(57e4f1)Con la tensión todavía en el aire, las chicas de la segunda academia fueron saliendo una tras otra de la cafetería.}
+390	beb87841	¿Por qué tenía que terminar así...?
+400	b4d62cde	N-No fue mi culpa. ¡Yo solo hice una pregunta!
+410	308b647d	No sea modesto, Sr. Maruko. Esa discusión no habría escalado tan rápido si usted no hubiera sido tan agresivamente suspicaz.
+420	168acd16	Tú tampoco te quedaste atrás, queridísimo hermano.
+430	99456f85	Odio ver a los amigos pelear entre ellos. Si alguien está frustrado, que me use de saco de boxeo.
+440	4edab626	Justo cuando SIREI y NIGOU no están... ¿No debería ser trabajo de ellos calmar cosas como esta?
 450	f4a72a8b	
-460	a844d568	{fc(57e4f1)Después, terminamos el desayuno casi sin hablar y cada uno volvió a su habitación.}
+460	a844d568	{fc(57e4f1)Sin nada más que hacer, los demás soportamos un desayuno silencioso e incómodo antes de volver a nuestras habitaciones.}
