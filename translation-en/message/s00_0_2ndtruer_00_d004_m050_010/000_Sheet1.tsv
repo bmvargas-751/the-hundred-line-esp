@@ -1,74 +1,74 @@
 id	huella_jp	es
-10	a55c97e4	{fc(57e4f1)En cuanto llegué al Patio, vi a SIREI hablando con Eito a través de la jaula.}
-20	73ce4f1a	...Ya respondí tus preguntas, así que ahora, ¿por qué no respondes tú las mías?
-30	730bc049	¿Quién... es Takumi Sumino?
+10	a55c97e4	{fc(57e4f1)Cuando entré al Patio, SIREI ya estaba junto a la jaula de Eito.}
+20	73ce4f1a	Ya respondí tus preguntas. ¿Qué tal si ahora respondes tú una de las mías?
+30	730bc049	¿QUÉ es Takumi?
 40	914e5b8d	¡¿...?!
-50	2b192650	{fc(57e4f1)Justo cuando iba a acercarme, oí mi nombre y me detuve sin pensarlo...}
-60	4e4a7e17	{fc(57e4f1)Decidí quedarme ahí un rato y escuchar.}
-70	0fd7e5ad	A ver... o sea que tú naciste con esa condición...
-80	a0b141d7	Una anomalía congénita de la percepción... Qué error tan grave se produjo.
-90	b9fad873	...Qué feo decirle "error" a una persona. Más bien, responde mi pregunta.
-100	7129d293	¿Qué le pasó a Takumi Sumino? ¿De verdad no te lo esperabas?
-110	e6413ab1	¿No será... algo que preparaste tú?
+50	2b192650	{fc(57e4f1)Iba a unirme a ellos, pero me detuve en seco al oír mi nombre.}
+60	4e4a7e17	{fc(57e4f1)Decidí quedarme escondido y ver hacia dónde iba la conversación.}
+70	0fd7e5ad	Entonces, ¿s-siempre has sido así?
+80	a0b141d7	Debe de ser algún tipo de defecto cognitivo... Aún no entiendo cómo pudo ocurrir una falla así.
+90	b9fad873	Ah, claro. No me ajusto a sus estándares, así que solo soy un defecto, un error. Ahora responde mi pregunta.
+100	7129d293	¿Qué le pasó a Takumi? ¿Y de verdad te tomó por sorpresa?
+110	e6413ab1	¿O era algún tipo de función que habías preparado de antemano?
 120	f4a72a8b	
-130	25cf2ef8	Si no lo preparaste tú... ¿por qué le pasó a él? ¿Qué tiene él de especial?
-140	1717ff31	¿No será que... no es humano?
-150	c081633e	¡Oye! ¡Cuéntame más de él! ¡Quiero saber mucho, mucho más de él!
-160	c9072c03	¡Es la primera vez que siento algo así... por un humano horrible!
-170	7ff43f3a	...Es cierto que él también es un caso que hay que investigar. Según cómo vengan las cosas, quizás haya que tomar medidas...
-180	7e125b8e	Bueno, de todas formas, eso no tiene nada que ver contigo.
-190	861396f1	{fc(57e4f1)Después de decirle eso con frialdad, SIREI le dio la espalda a Eito y se fue.}
-200	e358bb10	{fc(57e4f1)Cuando SIREI ya no se veía para nada, me acerqué despacio a la jaula de Aotsuki...}
-210	299beb29	¿Eh...? ¿Takumi...?
-220	2352fd5d	¡¿No me digas que... viniste a propósito a verme?! ¡Gracias! ¡Qué alegría!
-230	bb2508cd	{fc(57e4f1)Y Eito sonrió, contento de verdad... como si le sonriera a un amigo cercano.}
-240	8d655e6c	{fc(57e4f1)Si dice que nos odia desde el fondo del alma, ¿cómo puede tener esa actitud...?}
-250	cc39d17f	{fc(57e4f1)Pasé casi 100 días con él y no entiendo nada de él.}
-260	dde3a9f6	¿No será que... oíste lo que dije hace un rato?
-270	a2ff2a4a	...Lo oí. Quieres saber qué me pasó, ¿no?
-280	1c0a524f	Entonces, te lo voy a decir. Yo... vengo del futuro.
-290	63a7cbc9	Volví viajando en el tiempo desde el futuro, 100 días después. Me da igual si no me crees, pero...
-300	af056d5e	¡¡Claro que te creo!!
-310	257ff880	...¿Eh?
-320	6fce903b	Ya veo... por eso sabías lo mío, ¿no? Sabías lo que yo pensaba hacer, ¿no?
-330	0e05318d	...¿Y? ¿Qué hice yo en el futuro?
-340	dbff30b2	El yo del futuro... ¿murió a tus manos?
-350	7fc17137	...Antes de eso, quiero preguntarte algo. El tú del futuro dijo que sabía {fc(ff635b)"la verdad de esta guerra"}...
-360	0c3265d3	Una verdad que ni yo sé. ¿Tienes alguna idea de qué puede ser?
-370	145a4ed3	Para nada. No tengo idea.
+130	25cf2ef8	Si no era parte de tu plan, ¿por qué Takumi? ¿Qué tiene de especial?
+140	1717ff31	¿Será que... no es realmente humano?
+150	c081633e	¡Vamos, dime! En serio, ¡me muero por saber más de él!
+160	c9072c03	¡Es la primera vez que siento algo así por un humano repugnante!
+170	7ff43f3a	Es algo irregular también, lo admito. Quizás tenga que tomar medidas contra él si se sale de la raya...
+180	7e125b8e	Pero todo eso es información reservada. Esto es lo último que oirás al respecto, Aotsuki.
+190	861396f1	{fc(57e4f1)SIREI se fue sin decir una palabra más, sin dedicarle a Eito ni una mirada de pasada.}
+200	e358bb10	{fc(57e4f1)Cuando estuve seguro de que se había ido, salí de mi escondite y me acerqué yo mismo a la jaula.}
+210	299beb29	¿Eh...? ¿Takumi?
+220	2352fd5d	¿Viniste hasta aquí solo para verme? ¡Qué dulce! ¡Me conmueve!
+230	bb2508cd	{fc(57e4f1)Lo raro era que creo que Eito de verdad se alegraba de verme.}
+240	8d655e6c	{fc(57e4f1)Ya había dejado más que claro su odio hacia mí, así que ¿cómo podía recibirme con una sonrisa tan sincera?}
+250	cc39d17f	{fc(57e4f1)Incluso después de vivir con él 100 días, seguía sin tener idea de cómo funcionaba su mente.}
+260	dde3a9f6	Ah, me pregunto... ¿Oíste todo eso?
+270	a2ff2a4a	Lo oí. Quieres saber qué me pasó, ¿verdad?
+280	1c0a524f	No me importa decírtelo. Vengo del futuro.
+290	63a7cbc9	Quizás no lo creas, pero envié mi conciencia al pasado desde el final de nuestros 100 días aquí...
+300	af056d5e	¡Claro que te creo!
+310	257ff880	¿Eh?
+320	6fce903b	¡Ahora todo tiene sentido! Por eso conocías mi secreto y lo que planeaba.
+330	0e05318d	Dime... ¿Qué te hice en esa línea temporal?
+340	dbff30b2	¿Me mataste?
+350	7fc17137	Déjame preguntarte algo primero. El tú del futuro dijo que sabía {fc(ff635b)la verdad sobre esta guerra}.
+360	0c3265d3	Era algo que ni siquiera yo sabía. ¿Tienes idea de a qué podía referirse?
+370	145a4ed3	No, lo siento. No tengo ni idea.
 380	f4a72a8b	
-390	08025897	{fc(57e4f1)No parece que esté mintiendo... Seguramente no lo sabe de verdad.}
-400	9edbb88e	{fc(57e4f1)O sea que, en este momento, él tenía la misma información que nosotros...}
-410	6659c13f	En realidad, se los tenía en secreto, pero...
-420	c91d53c1	igual que Takumi empezó a entender el idioma de los invasores después de absorber la criptoglobina de la Comandante Suprema...
-430	584f5a7f	yo también... gracias a que absorbí la criptoglobina de la prisionera, había empezado a entender el idioma de los invasores...
-440	71e90bb7	{fc(57e4f1)O sea, es información que supo después de empezar a entender lo que decía la comandante...}
-450	9c983696	{fc(57e4f1)Bueno, por ahora, me tengo que conformar con haber podido confirmar eso.}
-460	5ed77246	...Entonces, ahora te toca a ti, Takumi, ¿no? ¿Me cuentas del futuro?
-470	3d664c56	Yo también quiero saber... el futuro que viviste.
-480	f0c04d0b	¿Qué sentido tiene contártelo a ti...?
-490	ff7036cc	Yo creo que sí tiene sentido...
-500	6d3cb885	Aunque sea algo que no puedes contarles a los demás, yo puedo ser alguien con quien hablarlo.
-510	d48482df	¿A-Alguien con quien hablarlo...?
-520	dd1d9ef8	Yo no me trato con los demás, así que soy perfecto para contarme secretos, ¿no te parece?
-530	061fbb4c	{fc(57e4f1)Qué descaro... Si fue él el que contó el secreto mío y de Nozomi.}
-540	736671cc	...¿Qué dices, Takumi? ¿Me dejas ser tu confidente?
-550	46d0f355	Aunque no lo parezca, sé muchas cosas, ¿eh? Por culpa de estos ojos, desde chico no hice otra cosa que leer.
-560	fd0b116e	Para esos ojos, hasta el yo de ahora se ve horrible, ¿no? ¿De verdad quieres hablar con alguien así?
-570	903def6f	Es cierto, tu aspecto es horrible, y tu voz y tu olor son de lo más desagradables, pero...
-580	e075a0ef	más que eso, me interesas. Hasta te respeto por venir del futuro.
-590	8460e228	Y eso también es algo nuevo para mí... Sentir algo así por un humano horrible.
-600	cbac332d	Te odio, te odio, te odio, te detesto, pero... no sé por qué, parece que me empezaste a gustar.
-610	e3e9e96c	¡¿Q-Qué estás diciendo...?!
-620	77d5620b	Pero el que decidió dejarme vivir fuiste tú, ¿no? ¿No fue porque pensaste que yo valía algo?
-630	5075f645	...¿Eh? ¿Qué dices? ¿Me dejas ser tu confidente?
-640	2c97a0ea	{fc(57e4f1)Como siempre... no entiendo para nada qué está pensando. ¿Está tratando de confundirme?}
-650	4400395d	{fc(57e4f1)Pero tampoco hay duda de que sabe muchísimo. No, pero aun así...}
-660	83d3a1c2	...Gracias. Voy a ser un confidente ejemplar.
-670	e37932f2	Yo... no dije nada...
-680	3df2626a	...No hace falta que lo digas, ya lo entiendo. Bueno, ven a verme cuando tengas ganas.
-690	4e0044a0	De aquí en adelante, cuento contigo.
+390	08025897	{fc(57e4f1)No parece que esté mintiendo...}
+400	9edbb88e	{fc(57e4f1)Quizás de verdad no lo sabe... en este momento.}
+410	6659c13f	Se lo he estado ocultando a todos, pero más vale que lo confiese.
+420	c91d53c1	Igual que Takumi llegó a entender el idioma de los invasores después de absorber la criptoglobina de la Comandante Suprema...
+430	584f5a7f	yo también llegué a entender su idioma gracias a la criptoglobina de la prisionera.
+440	71e90bb7	{fc(57e4f1)Debió de ser algo que aprendió después de matar a esa comandante.}
+450	9c983696	{fc(57e4f1)Eso no me dice mucho, pero probablemente es todo lo que sacaré, por ahora.}
+460	5ed77246	Ahora te toca a ti, Takumi. Cuéntame más sobre el futuro.
+470	3d664c56	Me encantaría saber qué clase de calvario viviste.
+480	f0c04d0b	¿Por qué debería contarte algo?
+490	ff7036cc	Oh, quizás te convenga.
+500	6d3cb885	Puedes contarme cosas que no puedes contarle a nadie más. Soy el confidente perfecto.
+510	d48482df	¿Por qué lo dices?
+520	dd1d9ef8	Para empezar, soy bueno guardando secretos. No me queda otra: no es como si fuera a tener la oportunidad de hablar con nadie más.
+530	061fbb4c	{fc(57e4f1)Mira quién habla, el que reveló el secreto de Nozomi...}
+540	736671cc	¿Qué dices, Takumi? ¿Por qué no te quedas a charlar un rato?
+550	46d0f355	También puedo ayudarte de otras maneras. Me he pasado la mayor parte de la vida leyendo: seguro que hay algo útil que puedo enseñarte.
+560	fd0b116e	¿Hablas en serio? Pensé que para ti me veía como una especie de monstruo horrible.
+570	903def6f	¡Así es! Ver tu cara y oír tu voz me da ganas de vomitar.
+580	e075a0ef	Pero al mismo tiempo, me fascinas. Supongo que... te respeto por lo que has hecho.
+590	8460e228	Es una sensación tan novedosa sentir esto por un ser humano.
+600	cbac332d	Te odio tanto que no lo soporto, pero... creo que también me caes bien.
+610	e3e9e96c	¡¿De qué demonios estás hablando?!
+620	77d5620b	Y no olvidemos que no me mataste cuando pudiste. Mi vida debe de tener algún valor para ti, si te esforzaste por conservarla.
+630	5075f645	Solo habla conmigo de vez en cuando, eso es todo lo que pido.
+640	2c97a0ea	{fc(57e4f1)Sigo sin entender a este tipo... ¿Intenta engañarme otra vez?}
+650	4400395d	{fc(57e4f1)Supongo que sus conocimientos podrían resultar útiles, pero aun así...}
+660	83d3a1c2	Gracias. Haré todo lo posible por prestarte un oído comprensivo cuando lo necesites.
+670	e37932f2	Oye, todavía no dije nada.
+680	3df2626a	No hace falta. Ven a verme cuando te convenga.
+690	4e0044a0	Nos vemos, Takumi.
 700	f4a72a8b	
-710	120ecdaf	{fc(57e4f1)Al final, él marcó el ritmo...}
-720	22de6702	{fc(57e4f1)Quizás por el ambiente que crea Eito, terminé agotado y decidí volver directo a mi cuarto.}
-730	81267142	{fc(57e4f1)Y, mientras descansaba un rato en el cuarto...}
+710	120ecdaf	{fc(57e4f1)Casi no saqué nada de él... Controló por completo el rumbo de la conversación.}
+720	22de6702	{fc(57e4f1)Hablar con Eito había sido agotador. No tenía ganas de hacer nada más después de eso.}
+730	81267142	{fc(57e4f1)Decidí volver a mi habitación a descansar.}
