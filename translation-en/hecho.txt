@@ -3644,6 +3644,7 @@ message/s05_0_ninshiki_00_d061_m020_060
 message/s05_0_ninshiki_00_d061_m030_010
 message/s05_0_ninshiki_00_d061_m040_010
 message/s05_0_ninshiki_00_d061_m050_010
+message/s05_0_ninshiki_00_d062_m010_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
