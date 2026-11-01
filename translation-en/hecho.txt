@@ -3642,6 +3642,9 @@ message/s03_0_dokusair_a0_d088_m020_010
 message/s03_0_dokusair_a0_d089_m010_010
 message/s03_0_dokusair_a0_d090_m010_010
 message/s03_0_dokusair_a0_d091_m010_010
+message/s03_0_dokusair_a0_d092_m010_010
+message/s03_0_dokusair_a0_d092_m010_020
+message/s03_0_dokusair_a0_d092_m020_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
