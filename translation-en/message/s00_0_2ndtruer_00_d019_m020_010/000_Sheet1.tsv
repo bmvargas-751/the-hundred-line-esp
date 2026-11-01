@@ -1,29 +1,29 @@
 id	huella_jp	es
-10	c4886f4a	¡Takumi, llegas tarde! ¡¿Qué piensas hacer si le pasa algo a Moko?!
-20	93df59d9	C-Cálmate. ¿Que Moko no volvió...? ¿Qué pasó?
-30	4285febe	Te lo explico en orden...
-40	281d1f3a	Anoche, cuando volvía del laboratorio biológico, me encontré con Moko, pero...
-50	58bb06e0	aunque era plena noche, iba a salir a explorar sola.
-60	2bc1e9b2	Le pregunté por qué... pero no me lo quiso decir. Dijo que era una {fc(ff635b)"sorpresa"} para todos.
+10	c4886f4a	¡Llegas tarde, Takumi! ¡Si algo le pasó a Moko, espero que asumas la responsabilidad!
+20	93df59d9	Mira, lo siento, pero mantengamos la calma. ¿Qué es eso de que Moko desapareció?
+30	4285febe	Déjenme explicar.
+40	281d1f3a	Anoche me topé con Moko, cuando volvía del laboratorio biológico.
+50	58bb06e0	Me dijo que iba a salir a explorar.
+60	2bc1e9b2	Le pregunté por qué iba de noche y sola, pero no quiso decirme. Dijo que iba a ser una {fc(ff635b)sorpresa}.
 70	f01f0540	¿Una sorpresa...?
-80	d428a118	Me ofrecí a acompañarla, pero dijo que volvía enseguida y se fue sola...
-90	d27e524a	...Bueno, a solas contigo sería todavía más peligroso.
-100	9b1edf79	Ay... no me discrimines por ser asesino. Que te dejen de lado por haber matado gente nada más es muy cruel...
-110	d5c3464b	¿Nada más...? Eso es justamente el problema.
-120	a788e9ca	Como sea, cuando amaneció, Moko seguía sin volver... Y también faltaba un extintor...
-130	6e6e79e5	Así que se lo conté a Nozomi. Dijo que era un secreto, pero es una emergencia, ¿no?
-140	93167071	Y yo me enteré por Nozomi.
-150	8bce664e	Qué cosa... ¿qué hace desapareciendo por su cuenta? Esa sí que es una sorpresa.
-160	24c1322e	Moko es fuerte y creo que va a estar bien, pero igual me preocupa un poco...
-170	0d0cf430	O sea que querían ir a buscarla y por eso me llamaron a mí también...
-180	fa6b9d18	...Te aclaro que no es que dependamos de ti. Primero se lo pedimos a Hiruko, pero se negó.
-190	becd5256	Dijo que esos problemas se los pidiéramos al líder. Así que no nos quedó otra que pedírtelo a ti.
+80	d428a118	Hasta me ofrecí a acompañarla, pero dijo que volvería enseguida, así que lo dejé.
+90	d27e524a	Probablemente habría estado en más peligro contigo que sin ti.
+100	9b1edf79	Oye, menos prejuicio contra los asesinos, por favor. Que mate gente para ganarme la vida no significa que no tenga autocontrol.
+110	d5c3464b	Quizás tengamos que hablar de eso más tarde... Continúa.
+120	a788e9ca	Bueno, adelantemos a esta mañana: ni rastro de Moko. Revisé también los extintores y, efectivamente, falta uno.
+130	6e6e79e5	Ahí fue cuando se lo dije a Nozomi. Pensé que no pasaba nada con arruinar la sorpresa de Moko si estaba en peligro.
+140	93167071	Y luego Nozomi me lo contó a mí.
+150	8bce664e	¡Santo cielo! Si me preguntan, ¡la verdadera "sorpresa" es que sea tan tonta como para irse sola!
+160	24c1322e	Con lo fuerte que es Moko, debería estar bien... Pero no puedo evitar preocuparme.
+170	0d0cf430	¿Así que me pediste que viniera a ayudarlos a buscarla?
+180	fa6b9d18	Para que quede claro, no eras nuestra primera opción. Pero Hiruko nos dijo que no.
+190	becd5256	Dijo que los recados y los trabajos pesados eran asunto del líder, así que tuvimos que conformarnos contigo.
 200	f4a72a8b	
-210	8f1985d8	Ah, si primero se lo fuimos a pedir a Hiruko, es porque nos parecía mal depender siempre de ti, Sumino, ¿eh?
-220	18844a50	...Pero Shizuhara dijo que no nos preocupáramos. Que el líder está para encajarle los problemas sin ningún reparo.
-230	1250fc4a	{fc(57e4f1)Esa... ¿de verdad qué se cree que es un líder...?}
-240	5f1e5afc	Bueno... está bien. Como sea, vamos ya a buscar a Mojiro.
-250	24305451	...Sí. Gracias.
-260	527632ef	Le debo una a Moko. Por lo menos quiero traerle de vuelta algún pedazo de su cadáver...
-270	8eda424b	¡¿Ves?! ¡Por cosas así! ¡Por eso no voy a poder confiar en ti en toda la vida!
-280	173ef167	Si ya están listos... vamos.
+210	8f1985d8	S-Sí le pedimos a Hiruko primero, pero solo porque no queríamos seguir molestándote cada vez que hay un problema...
+220	18844a50	Nos dijo que no nos preocupáramos por eso, sin embargo. De hecho, dijo que una mente como la tuya funciona mejor cuando tiene algo que la desafíe.
+230	1250fc4a	{fc(57e4f1)Creo que está confundiendo "líder del equipo" con "mandadero"...}
+240	5f1e5afc	Bueno, ya estoy aquí. Salgamos a buscarla.
+250	24305451	Cierto. Gracias.
+260	527632ef	Le debo mucho a Moko. Al menos quiero encontrar un pedazo de su cuerpo, si no otra cosa.
+270	8eda424b	¡Comentarios como ese son justo la razón por la que nadie confía en ti, pervertido mujeriego!
+280	173ef167	Si estamos todos listos, vámonos.
