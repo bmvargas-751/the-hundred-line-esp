@@ -119,6 +119,9 @@ message/curse_word6
 message/curse_word7
 message/curse_word8
 message/curse_word9
+message/event_arealimit
+message/field_common_message
+message/free_part_finish
 message/g_chr002take_01
 message/g_chr002take_01_02
 message/g_chr002take_02
@@ -305,6 +308,7 @@ message/g_chr017yure_02
 message/g_chr017yure_02_02
 message/g_chr017yure_03
 message/g_chr017yure_03_02
+message/gakuen_event_message
 message/gim_item_shop_01
 message/gim_item_shop_02
 message/gim_library_study_00_01
@@ -415,6 +419,7 @@ message/k_chr017yure_03
 message/k_chr017yure_04
 message/k_chr017yure_05
 message/k_chr017yure_06
+message/library_study_message
 message/npc_chr002take_01_01
 message/npc_chr002take_02_01
 message/npc_chr002take_03_01
@@ -2540,4 +2545,5 @@ message/r00_0_1sttruer_00_d100_m060_070
 message/r00_0_1sttruer_00_d100_m060_090
 message/r00_0_1sttruer_00_d100_m060_100
 message/r00_0_1sttruer_00_d100_m060_110
+message/staffrole_end_name
 message/sugoroku_start
