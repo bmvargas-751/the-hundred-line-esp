@@ -52,11 +52,11 @@ def fetch(name):
 
 
 def readme(version, windows):
-    launch = ("INSTALAR.bat" if windows else "instalar.sh")
-    remove = ("DESINSTALAR.bat" if windows else "desinstalar.sh")
+    launch = ("install.bat" if windows else "install.sh")
+    remove = ("uninstall.bat" if windows else "uninstall.sh")
     extra = "" if windows else (
-        "\nEn Steam Deck: en modo escritorio, abre esta carpeta, clic derecho en instalar.sh > Ejecutar en terminal\n"
-        "(o desde una terminal: ./instalar.sh).\n")
+        "\nEn Steam Deck: en modo escritorio, abre esta carpeta, clic derecho en install.sh > Ejecutar en terminal\n"
+        "(o desde una terminal: ./install.sh).\n")
     return f"""THE HUNDRED LINE -LAST DEFENSE ACADEMY- — TRADUCCIÓN AL ESPAÑOL {version}
 Traducción no oficial, hecha por fans. No incluye el juego: se arma con TU copia de Steam.
 
@@ -117,8 +117,8 @@ def zip_members(path, prefix_out):
 def build_windows(version):
     out = OUT / f"THL-ESP-{version}-windows.zip"
     files = common_files(version, True)
-    files.append(("INSTALAR.bat", BAT.format(cmd="install").replace("\n", "\r\n").encode(), False))
-    files.append(("DESINSTALAR.bat", BAT.format(cmd="uninstall").replace("\n", "\r\n").encode(), False))
+    files.append(("install.bat", BAT.format(cmd="install").replace("\n", "\r\n").encode(), False))
+    files.append(("uninstall.bat", BAT.format(cmd="uninstall").replace("\n", "\r\n").encode(), False))
     files += [(n, b, x) for n, b, x in zip_members(fetch("python-3.12.8-embed-amd64.zip"), "python/")]
     files += [(n.replace("MVGLTools-v2.2.0-win64/", "tools/MVGLTools-v2.2.0-win64/", 1), b, x)
               for n, b, x in zip_members(fetch("MVGLTools-v2.2.0-win64.zip"), "")]
@@ -131,8 +131,8 @@ def build_windows(version):
 def build_linux(version):
     out = OUT / f"THL-ESP-{version}-linux.tar.gz"
     files = common_files(version, False)
-    files.append(("instalar.sh", SH.format(cmd="install").encode(), True))
-    files.append(("desinstalar.sh", SH.format(cmd="uninstall").encode(), True))
+    files.append(("install.sh", SH.format(cmd="install").encode(), True))
+    files.append(("uninstall.sh", SH.format(cmd="uninstall").encode(), True))
     files += [(n.replace("MVGLTools-v2.2.0-Linux/", "tools/MVGLTools-v2.2.0-Linux/", 1), b, x or n.endswith("MVGLToolsCLI"))
               for n, b, x in zip_members(fetch("MVGLTools-v2.2.0-Linux.zip"), "")]
     with tarfile.open(out, "w:gz", compresslevel=9) as t:

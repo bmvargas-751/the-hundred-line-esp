@@ -46,8 +46,8 @@ Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada
 2. Descomprímelo **dentro de la carpeta del juego**, junto a la carpeta `gamedata`. Te queda una carpeta `THL-ESP`.
    Para abrir la carpeta del juego: en Steam, clic derecho en el juego > *Administrar* > *Explorar archivos locales*.
 3. Ejecuta el instalador de esa carpeta:
-   - Windows: doble clic en **`INSTALAR.bat`**.
-   - Linux: **`instalar.sh`**. En Steam Deck, en modo escritorio: clic derecho en `instalar.sh` > *Ejecutar en terminal* (o `./instalar.sh` desde una terminal).
+   - Windows: doble clic en **`install.bat`**.
+   - Linux: **`install.sh`**. En Steam Deck, en modo escritorio: clic derecho en `install.sh` > *Ejecutar en terminal* (o `./install.sh` desde una terminal).
    El instalador te pregunta **con qué doblaje vas a jugar**:
    - **Doblaje japonés**: los subtítulos siguen el texto en japonés (la traducción actual).
    - **Doblaje inglés**: los subtítulos siguen el texto en inglés, para que coincidan con la voz. *En curso: la interfaz, la primera partida (Días 0 a 100) y los eventos y charlas ya siguen al inglés; las rutas todavía son iguales a las del doblaje japonés.*
@@ -58,7 +58,7 @@ El instalador tarda unos segundos. Guarda antes los archivos originales en `THL-
 
 ### Desinstalar
 
-Ejecuta **`DESINSTALAR.bat`** (Windows) o **`desinstalar.sh`** (Linux). Restaura los archivos originales del juego.
+Ejecuta **`uninstall.bat`** (Windows) o **`uninstall.sh`** (Linux). Restaura los archivos originales del juego.
 Si algo quedó mal, en Steam: *Propiedades > Archivos instalados > Verificar integridad de los archivos del juego*.
 No borres la carpeta `THL-ESP` antes de desinstalar: ahí está el respaldo.
 
@@ -68,7 +68,7 @@ Steam reemplaza los archivos y la traducción se pierde. Vuelve a ejecutar el in
 
 ### Problemas frecuentes
 
-- **"No encuentro el juego"**: la carpeta `THL-ESP` tiene que estar dentro de la carpeta del juego, junto a `gamedata`. Si no, el instalador busca el juego en Steam; si tampoco lo halla, indica la ruta: `INSTALAR.bat` no la pide, pero `python\python.exe scripts\installer.py install --game "RUTA"` sí (en Linux: `python3 scripts/installer.py install --game "RUTA"`).
+- **"No encuentro el juego"**: la carpeta `THL-ESP` tiene que estar dentro de la carpeta del juego, junto a `gamedata`. Si no, el instalador busca el juego en Steam; si tampoco lo halla, indica la ruta: `install.bat` no la pide, pero `python\python.exe scripts\installer.py install --game "RUTA"` sí (en Linux: `python3 scripts/installer.py install --game "RUTA"`).
 - **Se ve en inglés**: comprueba que el idioma del juego sea English y que el instalador terminó con "Listo".
 - **Windows muestra un aviso de seguridad** al ejecutar el `.bat`: es normal con archivos descargados; el contenido es de código abierto en este repositorio.
 - **Un texto raro, cortado o con un error**: dinos en qué día o pantalla pasó, sin spoilers, en [Issues](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
