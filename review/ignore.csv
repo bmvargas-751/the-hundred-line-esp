@@ -522,3 +522,5 @@ peninsular,message/r00_0_1sttruer_00_d082_m060_010/000_Sheet1#30,falso positivo:
 peninsular,message/r00_0_1sttruer_00_d083_m040_030/000_Sheet1#10,falso positivo: más vale
 peninsular,message/r00_0_1sttruer_00_d084_m040_010/000_Sheet1#40,falso positivo: más vale
 peninsular,message/r00_0_1sttruer_00_d086_m020_030/000_Sheet1#60,falso positivo: más vale
+vosotros,message/npc_chr008ima_32_01/000_Sheet1#10,"Falso positivo: 'Liquid' (QB Liquid) no es 'vosotros'"
+peninsular,message/field_common_message/000_Sheet1#203040003,"Falso positivo: ""Más vale"" es una expresión, no el verbo valer de España"
