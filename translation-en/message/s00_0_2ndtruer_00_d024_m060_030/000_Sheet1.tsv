@@ -1,44 +1,44 @@
 id	huella_jp	es
-10	5b65e21e	{fc(cfff3f)"¡Zas!"}
+10	5b65e21e	{fc(cfff3f)*¡clic!*}
 20	1ab4b717	¡Ah...!
-30	b801f01b	{fc(57e4f1)¡Se encendió la luz...!\n¿Eh? ¿Qué fue eso...?}
-40	7a30fc84	Ejem, un aviso.
-50	2f8176d4	Lo de hace un momento fue un simple apagón\npor un experimento que se me fue de las manos, no se preocupen.
-60	a9e4a59d	...Eso quisiera decir, pero parece que\npor eso se averió parte del aire acondicionado, ¿o no?
-70	2de89768	Bueno, NIGOU está investigando los detalles,\nasí que por si acaso, abríguense bien para dormir.
-80	6375a128	¡Eso es todo! ¡Buenas noches!
-90	f8134ea5	{fc(57e4f1)¿Un apagón...?\n¿Será el que dijeron que hubo antes?}
-100	f2ee385b	{fc(57e4f1)Pero ¿qué es eso de un experimento que se pasa de la raya?\n¿Qué está haciendo...?}
-110	b8cd08e1	...Aunque, es verdad que empieza a hacer un poco de frío.
-120	bdda5a81	{fc(57e4f1)Por si acaso, me puse más ropa y más mantas\nantes de quedarme dormido...}
-130	9ce7c0af	Ñam, ñam... ñam, ñam...
-140	95b033a4	¡Karua, perdón!\n¡Ya te dije que me equivoqué!
+30	b801f01b	{fc(57e4f1)Las luces volvieron. ¿Qué fue eso?}
+40	7a30fc84	Ejem. Este es un anuncio administrativo.
+50	2f8176d4	El corte de luz de hace un momento fue causado por un pequeño experimento que se salió de control. No hay motivo de alarma.
+60	a9e4a59d	En realidad, la calefacción de algunas de sus habitaciones podría quedar apagada el resto de la noche.
+70	2de89768	NIGOU les contará todo por la mañana. Mientras tanto, ¡asegúrense de abrigarse bien!
+80	6375a128	Eso es todo. ¡Buenas noches, tropa!
+90	f8134ea5	{fc(57e4f1)¿Un corte de luz? ¿Otro más?}
+100	f2ee385b	{fc(57e4f1)¿Y qué clase de "experimento" podría causar algo así?}
+110	b8cd08e1	Sí se siente un poco más frío aquí que de costumbre...
+120	bdda5a81	{fc(57e4f1)Por si acaso, le puse una frazada extra a mi cama antes de dormir esa noche.}
+130	9ce7c0af	*ñam ñam*
+140	95b033a4	¡Vamos, Karua, háblame! ¡Lo siento, ¿okey?!
 150	f4a72a8b	
-160	f07249da	Habíamos quedado en ir al cine...\ny yo estuve esperando todo el rato frente a la estación...
-170	20b5af2b	P-Por eso... de verdad perdón.\nMe confundí de día...
-180	f1627e4f	En fin... ¡estoy muy arrepentido, en serio!
-190	30eed23f	...¿De verdad estás arrepentido?
-200	2a47b4c2	¡Sí! ¡Por eso te estoy invitando\na almorzar como disculpa, ¿no?!
-210	9ce7c0af	Ñam, ñam... ñam, ñam...
-220	0f96dc8f	...Pero ¿no estás comiendo demasiado?\n¿Piensas comerte todo esto?
-230	dbd50538	Si no como al menos esto, no me quedo tranquila...
-240	4adb17e5	Es que... ¡lo esperaba con muchas ganas!\nIr al cine con Takky.
-250	b66a3508	P-Perdón... de verdad...
+160	f07249da	Tenía muchas ganas de ver esa película contigo... ¿Tienes idea de cuánto rato me hiciste esperar afuera de la estación?
+170	20b5af2b	¡Perdón, perdón! De verdad pensé que era mañana...
+180	f1627e4f	Tienes que creerme. Me siento fatal por esto.
+190	30eed23f	¿De verdad quieres compensármelo?
+200	2a47b4c2	¡Claro que sí! Ya te estoy invitando a almorzar, ¿no?
+210	9ce7c0af	*ñam ñam*
+220	0f96dc8f	¿No estás exagerando un poco? No puedes tener TANTA hambre...
+230	dbd50538	No la tengo... Estoy comiendo para llenar un vacío emocional.
+240	4adb17e5	O sea, lo planeamos hace semanas. ¡Y después de tanto esperar y contar los días, me dejas plantada!
+250	b66a3508	Yo... lo sé... Me equivoqué. Lo siento.
 260	f4a72a8b	
-270	7d75c129	Entonces... te perdono\nsi dices esa promesa...
-280	95b99bee	¿Eh? ¿A-Aquí?
+270	7d75c129	Bueno, quizás te perdone... Si... dices la frase.
+280	95b99bee	¿Aquí? ¿En público?
 290	f4a72a8b	
-300	686ed500	O-Okey...
-310	59c74f10	Pase lo que pase...\na ti, Karua... yo te voy a proteger...
-320	a0b25cbb	Está bien. Ya fue suficiente.\nTe perdono.
-330	a29da12b	Entonces, ya que nos reconciliamos,\ncomamos juntos, Takky.
-340	c0a09f25	¿Esto incluía mi parte...?
-350	a32e0001	Claro.\nYo no como tanto.
-360	33ed17b3	Pero no lo vuelvas a olvidar, ¿eh?\nQue te olviden da mucha pena.
-370	932200be	Piénsalo al revés.\nSi yo me olvidara, ¿qué harías?
-380	fc69b874	Si... yo perdiera la memoria...\ny lo olvidara todo...
-390	0ded5105	¿Eh...?
-400	c176b6ce	Si me olvidara hasta de Takky...\ny fuera como una extraña...
-410	aa8b1e87	...¿qué harías?
-420	832e5782	¿Eh...? ¿De qué hablas?
-430	2f0d6dc0	...Es broma. Era un chiste.
+300	686ed500	O-Okey, okey, la diré...
+310	59c74f10	Pase lo que pase, te protegeré, Karua. Cueste lo que cueste.
+320	a0b25cbb	Gracias. Okey, te perdono. Estamos bien.
+330	a29da12b	Ahora no te quedes ahí mirándome con esos ojos de cachorro. Come unas papas fritas o una hamburguesa o algo.
+340	c0a09f25	¿Quieres decir que todo esto es para los dos?
+350	a32e0001	¡Claro! Una señorita menudita como yo no podría comerse todo esto sola.
+360	33ed17b3	Solo trata de no olvidarte cuando hagamos planes, ¿okey? De verdad me hizo sentir fatal.
+370	932200be	Ponte en mi lugar. ¿Cómo te sentirías si yo me olvidara de ti?
+380	fc69b874	Si... Si perdiera la memoria y olvidara todo...
+390	0ded5105	¿Eh?
+400	c176b6ce	Si me olvidara de ti... Si, la próxima vez que nos viéramos, te tratara como a un desconocido...
+410	aa8b1e87	¿Qué harías entonces?
+420	832e5782	¿A qué viene eso, Karua...?
+430	2f0d6dc0	Ah, nada. Solo bromeaba.
