@@ -235,6 +235,7 @@ def cmd_install(args):
         say("2/4 Aplicando la traducción...")
         td.VANILLA = vanilla
         generar.build(work / "es")
+        say("     Empaquetando los textos (tarda unos minutos, no cierres la ventana)...")
         built = {name: pack(tool, work / "es", name, work) for name in td.ARCHIVES}
         say("3/4 Arreglando las tildes de las fuentes del menú...")
         fonts = work / "unpacked" / thlfuente.ARCHIVE

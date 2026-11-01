@@ -19,9 +19,9 @@ python3 -I scripts/make-release.py v0.1.1      # -> dist/release/THL-ESP-v0.1.1-
 ```
 
 Cada paquete se descomprime dentro de la carpeta del juego y trae el instalador, la traducción, MVGLTools (con su licencia) y los lanzadores
-`INSTALAR` / `DESINSTALAR` (Windows trae también Python embebido). No incluye el juego ni los `.mvgl` traducidos: el instalador los arma con la copia de cada persona.
+`install` / `uninstall` (Windows trae también Python embebido). No incluye el juego ni los `.mvgl` traducidos: el instalador los arma con la copia de cada persona.
 Las descargas (MVGLTools, Python) se verifican contra los hashes fijados en el script. Se suben con `gh release create` / `gh release upload`.
-Antes de publicar, probar `INSTALAR` y `DESINSTALAR` en Windows y en Steam Deck.
+Antes de publicar, probar `install` y `uninstall` en Windows y en Steam Deck.
 
 ## Dos versiones
 
