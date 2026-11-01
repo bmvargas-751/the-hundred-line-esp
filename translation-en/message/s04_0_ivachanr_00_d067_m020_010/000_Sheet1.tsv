@@ -1,84 +1,84 @@
 id	huella_jp	es
-10	ca734c09	{fc(57e4f1)Ese día también fui a hablar con Eva.}
-20	dde3d2de	{fc(57e4f1)Eva, como siempre,\nsolo respondía sin expresión.}
-30	e3e7afd5	{fc(57e4f1)Aun así, conversando con ella,\nsentí que la culpa se aliviaba un poquito.}
-40	b2066d34	{fc(57e4f1)...Sé que es un sentimiento egoísta.}
-50	a3397ec0	...Ya es esta hora.
-60	2da6b907	Bueno, por hoy me voy.
-70	515a42c4	Sí... hasta luego.
+10	ca734c09	{fc(57e4f1)Fui al Patio a hablar con Eva otra vez.}
+20	dde3d2de	{fc(57e4f1)Como siempre, respondió todas mis preguntas con una mirada apagada y sin emoción.}
+30	e3e7afd5	{fc(57e4f1)A pesar de eso, al hablar con ella el miasma de culpa que me ahogaba el corazón se sentía un poco más llevadero.}
+40	b2066d34	{fc(57e4f1)Al final, igual la estaba usando, solo que de otra manera que antes.}
+50	a3397ec0	Parece que se está haciendo tarde...
+60	2da6b907	Mejor me voy por hoy.
+70	515a42c4	Entendido... Adiós, Sr. Sumino.
 80	f4a72a8b	
-90	f0a4a1df	{fc(57e4f1)¿Qué pasa...?\nParece que Eva quiere decir algo.}
-100	eb4216fd	¿Quieres decirme algo?
-110	9a520f82	Esto... ¿por qué Sumino es tan amable conmigo,\nque no soy más que una herramienta?
+90	f0a4a1df	{fc(57e4f1)Se ve algo inquieta. ¿Intentará decirme algo?}
+100	eb4216fd	Eva, ¿hay... algo que te preocupe?
+110	9a520f82	Sr. Sumino... ¿Por qué es tan amable conmigo?? Solo soy una posesión para que usted la use como le parezca.
 120	f4a72a8b	
-130	8d3953c4	No quiero pensar que Eva sea una herramienta.
-140	0fd625a6	Sea como sea, fuiste una compañera\nque peleó en el campo de batalla confiándonos su vida...
-150	1e563134	...Además, te hicimos cosas terribles.\nTodo esto ocurrió por eso.
-160	d902f8ad	Por eso quiero hacer\ntodo lo que pueda por ti.
-170	ae22147d	¿Por mí... algo...?
-180	f0c357d3	{fc(57e4f1)Por supuesto... para la Eva }{fc(ff635b)"verdadera"}{fc(57e4f1)\nestas palabras serán solo hipocresía...}
-190	e70a1c1c	{fc(57e4f1)Si de verdad pensara en ella,\nla sacaría de la jaula y la devolvería con los suyos.}
-200	236c72b3	{fc(57e4f1)Como no puedo, esto es mi autocomplacencia...\nsolo una excusa para aliviar la culpa.}
-210	48d80f22	Oye, Eva... aunque no tenga sentido preguntarlo,\n¿hay algo que quieras hacer?
-220	59a0baac	¿Lo que quiero hacer...?\nPor supuesto, matar a los invasores...
-230	b21f42b7	No. Aparte de la guerra.\n¿No hay algo que desees?
-240	28e9e901	Por ejemplo... alguien a quien quieras ver.
-250	aa0514c3	{fc(57e4f1)Sí, como Karua para mí.}
-260	e99a5bae	Mira, antes dijiste algo, ¿no? "Kamyuhn".\n¿No será el nombre de alguien?
-270	2c1accc9	¿Kamyu...hn?
-280	18bd8b46	{fc(57e4f1)En cuanto oyó esas palabras, el rostro de Eva cambió de golpe.}
-290	7c35dfba	A-Ah...
-300	21efa9c8	Aaah... ¡¡aaaaaaaaaah!!
-310	80f9feea	¡¿...?! ¡Mierda, otra vez...!
-320	c93026af	{fc(57e4f1)Por mis palabras imprudentes,\nEva se descontroló de pronto, igual que la vez anterior.}
-330	6242b39e	{fc(57e4f1)Pero... esta vez había una diferencia\nclara con la anterior.}
-340	f65d6318	Uuuh... yo... yo...¿P-Por qué estoy en un lugar como este...?
-350	95ea9c36	¡¿Eh...?!
-360	c46d11ca	¡Ah, la cabeza... me duele la cabeza!\n¡No... no quiero que me manipulen la cabeza otra vez!
-370	dfd5e2c2	{fc(57e4f1)¡¿Eva?!\n¿Será que se le deshizo el lavado de cerebro...?}
-380	59ed611b	U-Uuh... uuuuugh...¡Haah, haah...!
-390	9ba0adb3	{fc(57e4f1)La expresión de los ojos de Eva cambia.}
-400	ade70765	{fc(57e4f1)De una confusión descontrolada... a miedo y desconcierto.}
-410	a4831a7c	{fc(57e4f1)Era la expresión que nos mostraba\nantes de recibir el tratamiento de SIREI.}
-420	54a1ee26	¡B-Basta ya, perdónenme!\n¡No me revuelvan la cabeza...!
-430	2a51741f	¡No me hagan más cosas horribles!\n¡E-Esto es demasiado cruel...!
-440	02c7ad38	¡E-Espera! ¡Cálmate!\n¡No te haré nada! ¡Lo prometo!
-450	14073e99	{fc(57e4f1)Le hablé desesperado a Eva, que estaba agitada.}
-460	b7b90c4c	Por favor, deja de gritar por ahora. ¡Si nos oye alguien, estamos en problemas!
-470	b5341354	¡M-Mentira, que no harán nada!\n¡No puedo creerlo!
-480	19ac753b	{fc(57e4f1)Ahora que SIREI, el único que podía tratarla, no está,\nsi se sabe que a Eva se le deshizo el lavado de cerebro...}
-490	8bfb5e08	{fc(57e4f1)¡esta vez Hiruko y los demás seguro la...!}
-500	5ee6b023	...Eva, hasta ahora estuviste bajo un lavado de cerebro.\nY se te deshizo.
-510	c5b7ef52	Pero si se sabe,\nquizás te maten.
-520	5c3deeb7	¡No quiero que pase eso!\n¡Quizás no me creas...!
-530	28418c27	¡Aunque sea solo por ahora, créeme!\n¡Es para proteger tu vida!
-540	a34494ea	¿Proteger... mi vida?\n¿Eh? Tú eres...
-550	19d21f81	{fc(57e4f1)Quizás mi súplica desesperada llegó:\nEva fue recuperando la calma poco a poco...}
-560	818b39ca	{fc(57e4f1)Y entonces, sus ojos, mezcla de inquietud y hostilidad,\nme miraron fijamente desde dentro de la jaula.}
-570	13e39820	De a poco... lo voy recordando...\nLos recuerdos de una pesadilla, de una yo que no soy yo.
-580	fee20541	Tú eres... Takumi Sumino.\nEl líder de la Unidad de Defensa Especial de aquí.
-590	54f42dd1	...¿Recuerdas lo que pasó durante el lavado de cerebro?
-600	8f402488	En partes... pero\nestán borrosos, no completos.
-610	e222ce89	Más importante... ¿es verdad lo que dijiste?\n¿Que es para proteger mi vida?
-620	f41a6e9f	S-Sí... es verdad.
-630	139891bd	{fc(57e4f1)Sentí que el sentimiento negativo de Eva hacia mí\nse había aflojado un poco.}
-640	5657f2ec	Fui tomada prisionera por ustedes,\ny SIREI, su comandante, me lavó el cerebro...
-650	3519076d	Si se supiera que me lo quité sola,\nseguro que matarme les conviene más que arriesgarse a dejarme vivir...
-660	0723e58a	Tienes razón...\nSerá mejor que nadie más lo sepa.
-670	ff846d1e	{fc(57e4f1)Eva hablaba con miedo pero con lucidez...\n¿Esta es su verdadera forma de ser?}
-680	e98fa303	{fc(57e4f1)Siendo comandante no es de extrañar,\npero después de todo lo anterior, me deja algo desconcertado.}
-690	7b0daf3f	Pero... ¿de verdad no vas a informar\nde mí a tus compañeros?
-700	a7ace2ff	Si puedo... preferiría no hacerlo.
-710	d5e7b7a4	¿Traicionas a tus compañeros?
-720	78c06f8a	No... no es eso.\nNunca pensé en traicionar a mis compañeros.
-730	269d7b8d	Pero... aunque estemos en guerra,\ntú y yo no nos odiamos personalmente, ¿no?
-740	3419ae4c	¿Es culpa? ¿Por haberme lavado el cerebro?
+130	8d3953c4	Ya no quiero tratarte como a una "posesión".
+140	0fd625a6	Aunque no sea por elección tuya, sigues siendo una aliada a la que le confío la vida en el campo de batalla.
+150	1e563134	Y te hicimos algo verdaderamente terrible. Por eso las cosas terminaron así.
+160	d902f8ad	Pero por lo que vale... quiero hacer lo que pueda por ti.
+170	ae22147d	¿Por mí...?
+180	f0c357d3	{fc(57e4f1)Mis palabras probablemente habrían sonado falsas si le hubiera hablado a la }{fc(ff635b)verdadera Eva}{fc(57e4f1).}
+190	e70a1c1c	{fc(57e4f1)Si de verdad me importara, la habría liberado y dejado volver con su gente.}
+200	236c72b3	{fc(57e4f1)Como no podía hacerlo, intentaba sentirme mejor ofreciendo otra cosa. Un gesto simbólico para aliviar mi culpa.}
+210	48d80f22	Eva... Sé que probablemente es inútil preguntar, pero... ¿Hay algo que te gustaría hacer?
+220	59a0baac	¿Yo...? Quiero matar invasores...
+230	b21f42b7	No, me refiero fuera del combate. Tiene que haber algo, ¿no?
+240	28e9e901	¿Hay, digamos... alguien a quien extrañes de verdad ahora?
+250	aa0514c3	{fc(57e4f1)Igual que yo extraño a Karua...}
+260	e99a5bae	La última vez dijiste el nombre de alguien. Kamyuhn. ¿Sabes quién es?
+270	2c1accc9	¿Ka... myuhn...?
+280	18bd8b46	{fc(57e4f1)Al oír el nombre, el rostro de Eva palideció.}
+290	7c35dfba	Ah... ¡Aaah...!
+300	21efa9c8	¡WAAAAAAGH!
+310	80f9feea	Ay, no, ¡otra vez...!
+320	c93026af	{fc(57e4f1)Ahora me arrepentía de haber mencionado ese nombre, pero ya no había vuelta atrás. Eva empezó a revolverse como la última vez.}
+330	6242b39e	{fc(57e4f1)Pero con una diferencia importantísima...}
+340	f65d6318	Nrgh... ¿D-Dónde estoy? ¡¿Cómo llegué aquí?!
+350	95ea9c36	¿Qué...?
+360	c46d11ca	Argh, ¡mi cabeza...! ¡No, basta! ¡Salgan de mi cabeza...!
+370	dfd5e2c2	{fc(57e4f1)Tienes que estar bromeando... ¡¿El lavado de cerebro se está pasando?!}
+380	59ed611b	Ughn... ¡Aaargh...! ¡Hah... haaah...!
+390	9ba0adb3	{fc(57e4f1)La mirada de Eva había cambiado.}
+400	ade70765	{fc(57e4f1)Había pasado de una confusión animal al miedo... y la sospecha.}
+410	a4831a7c	{fc(57e4f1)Era la misma mirada que tenía cuando intenté hablarle la primera vez, antes de que SIREI se la llevara para su "tratamiento de emergencia".}
+420	54a1ee26	¡P-Por favor, no... No más...! ¡No me manipulen la cabeza otra vez!
+430	2a51741f	¿Por qué hacen esto...? ¡¿Cómo pueden ser tan crueles?!
+440	02c7ad38	¡Eva, por favor, tienes que calmarte! ¡No voy a hacerte nada; lo prometo!
+450	14073e99	{fc(57e4f1)Probablemente no sonaba muy convincente, pero estaba desesperado.}
+460	b7b90c4c	¡Tienes que dejar de gritar, eso sí! ¡Si los demás te oyen, podríamos tener graves problemas!
+470	b5341354	¿No me hará nada...? ¡Es mentira! ¡¿Por qué habría de creer algo de lo que diga?!
+480	19ac753b	{fc(57e4f1)Ahora que SIREI no estaba para operar la máquina, el lavado de cerebro de Eva había desaparecido para siempre.}
+490	8bfb5e08	{fc(57e4f1)Pero si Hiruko y los demás descubrían que volvía a ser la de antes...}
+500	5ee6b023	Escúchame, Eva... Te lavaron el cerebro. Recién ahora se está pasando.
+510	c5b7ef52	Pero si el resto de mi equipo se da cuenta, te matarán sin duda.
+520	5c3deeb7	¡No quiero que eso pase! Sé que debe de costarte creerlo...
+530	28418c27	¡Pero por favor, confía en mí en esto! ¡Estoy intentando salvarte la vida!
+540	a34494ea	¿S-Salvarme la vida...? E-Espera, tú eres...
+550	19d21f81	{fc(57e4f1)Mis frenéticas súplicas por fin la alcanzaron, y empezó a calmarse.}
+560	818b39ca	{fc(57e4f1)Ya no me miraba con abierta animosidad, pero ese miedo e inquietud en sus ojos no habían desaparecido.}
+570	13e39820	Creo que empiezo a recordar... Es como algo salido de una pesadilla... Una yo que... no era yo.
+580	fee20541	Eres... Takumi Sumino. Líder de la Unidad Especial de Defensa.
+590	54f42dd1	¿Recuerdas lo que pasó mientras te tenían con el cerebro lavado?
+600	8f402488	Solo un poco... Me va volviendo, pero todavía está borroso.
+610	e222ce89	¿Hablabas en serio hace un momento? ¿De verdad quieres salvarme?
+620	f41a6e9f	Sí. Por favor, créeme.
+630	139891bd	{fc(57e4f1)Era un cambio tan sutil que era fácil pasarlo por alto, pero la cautela de Eva pareció aflojar un poco.}
+640	5657f2ec	Después de que me tomaron prisionera, tu oficial al mando... SIREI, me lavó el cerebro...
+650	3519076d	Ahora que me liberé de eso, los riesgos de dejarme vivir superan los beneficios...
+660	0723e58a	Es como dijiste... Si los demás se enteran, podría ser mi fin.
+670	ff846d1e	{fc(57e4f1)Sigue teniendo miedo, pero razona con lógica... Esta es la verdadera Eva, ¿eh?}
+680	e98fa303	{fc(57e4f1)Era comandante, así que supongo que no sorprende que pueda manejarse en una crisis. Aunque se siente como ver un lado totalmente nuevo de ella...}
+690	7b0daf3f	Pero eso plantea una pregunta... ¿De verdad vas a mantener esto en secreto ante tus aliados?
+700	a7ace2ff	Si puedo, sí. Lo intentaré.
+710	d5e7b7a4	¿Traicionarías a tu propio equipo por mí?
+720	78c06f8a	No, no lo diría así. Les soy tan leal como siempre.
+730	269d7b8d	Es más bien que... aunque nuestros pueblos estén en guerra, como individuos no hay necesidad de que tú y yo nos odiemos, ¿no?
+740	3419ae4c	¿Así que esta es tu manera de aliviar tu culpa por lavarme el cerebro?
 750	f4a72a8b	
-760	2c263dd4	Por ahora... entendido.\nSeguiré tus indicaciones.
-770	700bd275	...Gracias, Eva.
-780	8e182646	{fc(57e4f1)Aunque... ¿qué hago con ella de ahora en adelante...?}
-790	033386e2	{fc(57e4f1)Todavía no tengo ningún plan concreto.\nTengo que pensar algo...}
-800	118f27cd	{fc(57e4f1)Pero si me quedo mucho aquí, levantaré más sospechas.\nMe preocupa, pero por ahora debo retirarme...}
-810	a74714ed	Por ahora, mañana vemos qué hacer.\nSi viene alguien más aquí...
-820	62679e92	...Sí. Fingiré ser dócil.\nPero creo que el único que viene a verme ahora eres tú.
-830	b72e1e16	{fc(57e4f1)Despedido por la sonrisa irónica de Eva,\nme alejé de la jaula...}
+760	2c263dd4	Bueno... Está bien. Haré lo que dices, por ahora.
+770	700bd275	Gracias, Eva.
+780	8e182646	{fc(57e4f1)¿Pero qué voy a hacer con ella ahora?}
+790	033386e2	{fc(57e4f1)No tengo ningún plan concreto. Tendré que pensar en algo...}
+800	118f27cd	{fc(57e4f1)Probablemente no debería quedarme mucho más cerca de ella. Si la gente sospecha demasiado, todo esto habrá sido en vano.}
+810	a74714ed	Mañana hablaremos de lo que haremos a continuación. Si alguien más intenta hablarte antes de eso...
+820	62679e92	Lo sé. Fingiré que sigo con el cerebro lavado. Pero no te preocupes, de todos modos tú eres el único que viene a verme.
+830	b72e1e16	{fc(57e4f1)Eva sonrió con tristeza. A regañadientes, me alejé, dejándola encerrada en esa jaula un día más.}
