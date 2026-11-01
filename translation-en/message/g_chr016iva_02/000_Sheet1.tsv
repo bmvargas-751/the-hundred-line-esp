@@ -1,10 +1,10 @@
 id	huella_jp	es
-10	5a2dff4f	Entonces... ya que estás en la biblioteca,\n¿por qué no lees un libro?
-20	976e4d6d	Entendido. Debo leer un libro.\n¿Qué libro debo leer?
-30	d1eb15a2	S-Sí, tienes razón...
-40	99b7f7da	Entonces, ¿qué tal este libro?
-50	f8b09385	Entendido.\nLeeré esto.
-60	6facd94c	{fc(57e4f1)Después Eva fue leyendo con naturalidad\nla enciclopedia de perros que le recomendé.}
-70	9beac862	{fc(57e4f1)Mientras leía, Eva estuvo inexpresiva todo el tiempo...}
-80	90a2a145	{fc(57e4f1)pero solo al mirar las fotos de cachorros\nsonreía con dulzura.}
-90	de1ad4c4	{fc(57e4f1)Parece que a Eva\nle gustan los animales lindos.}
+10	5a2dff4f	Bueno, ya que estás en la Biblioteca, ¿por qué no lees algo?
+20	976e4d6d	Entendido. Debo leer un libro. ¿Qué debo leer?
+30	d1eb15a2	V-Veamos...
+40	99b7f7da	Bueno, ¿qué tal este?
+50	f8b09385	Entendido. Lo leeré.
+60	6facd94c	{fc(57e4f1)Después de eso, Eva leyó sin emoción la enciclopedia de perros que le recomendé.}
+70	9beac862	{fc(57e4f1)La expresión de Eva era totalmente apática mientras pasaba las páginas, pero...}
+80	90a2a145	{fc(57e4f1)sonreía radiante cada vez que había una foto de un cachorro.}
+90	de1ad4c4	{fc(57e4f1)Supongo que a Eva le gustan los animales lindos.}
