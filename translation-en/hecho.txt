@@ -2568,8 +2568,10 @@ text/chara_invite_message
 text/common_message
 text/common_message_steam
 text/condition_name
+text/event_decideselect_message
 text/event_guide_text
 text/field_area_name
+text/field_chapter_detail
 text/field_item_explanation
 text/field_item_name
 text/field_map_name

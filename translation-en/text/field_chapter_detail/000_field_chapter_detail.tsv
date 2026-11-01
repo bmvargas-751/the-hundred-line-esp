@@ -100,44 +100,44 @@ id	huella_jp	es
 109800	dcb3c7e4	
 109900	60212bbc	
 110000	06e55eb6	
-200200	4c13fe16	Chapter00_0-002\n・Combate\n・Decisión: ¿Qué hacer con Eito Aotsuki?
-200210	53f5dd6b	¿Qué hacer con Eito Aotsuki?\nDetenerlo
-200220	7b6f59c8	¿Qué hacer con Eito Aotsuki?\nRematarlo
+200200	4c13fe16	Chapter00_0-002\n・Combate\n・Decisión: La suerte de Eito
+200210	53f5dd6b	¡Decide la suerte de Eito!\nDejarlo vivir
+200220	7b6f59c8	¡Decide la suerte de Eito!\nMatarlo
 200211	84fe0bec	
-200300	6c4f60c8	Chapter00_0_a-003\n・Decisión: ¿Contar lo del viaje en el tiempo?
-200310	6134c7aa	¿Contar lo del viaje en el tiempo?\nContarlo
-200320	109719b0	¿Contar lo del viaje en el tiempo?\nNo contarlo
+200300	6c4f60c8	Chapter00_0_a-003\n・Decisión: ¿Revelar tu secreto?
+200310	6134c7aa	¿Revelar tu secreto?\nSí
+200320	109719b0	¿Revelar tu secreto?\nNo
 200311	eb76be8a	
 200400	7e916e4d	
 200500	f4b805b9	Chapter00_0_a-005\n・Tiempo libre
 200600	7d834d16	Chapter00_0_a-006\n・Tiempo libre
 200700	5a85cc2d	Chapter00_0_a-007\n・Combate
-200800	e23a22ee	Chapter00_0_a-008\n・Exploración\n・Decisión: ¿A cuál ir a ayudar?
-200810	c1d968df	¿A cuál ir a ayudar?\nAyudar a la Penúltima Academia
-200820	c938cea0	¿A cuál ir a ayudar?\nAyudar a la Última Academia
+200800	e23a22ee	Chapter00_0_a-008\n・Exploración\n・Decisión: ¿A qué escuela salvar?
+200810	c1d968df	¿A qué escuela salvar?\nPenúltima Academia de Defensa
+200820	c938cea0	¿A qué escuela salvar?\nÚltima Academia de Defensa
 200811	0d271ce2	Chapter00_0_a-008\n・Combate
 200900	e28454f6	Chapter00_0_a-009\n・Combate
 201000	73a75716	Chapter00_0_a-010\n・Tiempo libre
-201100	d52f9ef2	Chapter00_0_a-011\n・Decisión: ¿Contar lo que le pasa a Nozomi Kirifuji?
-201110	34185d50	¿Contar lo que le pasa a Nozomi Kirifuji?\nContarlo
-201120	08bb0567	¿Contar lo que le pasa a Nozomi Kirifuji?\nNo contarlo
+201100	d52f9ef2	Chapter00_0_a-011\n・Decisión: ¿Revelar el secreto de Nozomi?
+201110	34185d50	¿Revelar el secreto de Nozomi?\nSí
+201120	08bb0567	¿Revelar el secreto de Nozomi?\nNo
 201111	16409c79	Chapter00_0_a-011\n・Tiempo libre
 201200	bc341078	Chapter00_0_a-012\n・Exploración
 201300	b1d96e0d	Chapter00_0_a-013\n・Exploración
 201400	7aee9f6b	Chapter00_0_a-014\n・Exploración
-201500	e91a75fe	Chapter00_0_a-015\n・Combate\n・Decisión: ¿A quién pedirle el ataque suicida?
-201510	14751e52	¿A quién pedirle el ataque suicida?\nKyoshika Magadori
-201520	ec270577	¿A quién pedirle el ataque suicida?\nTakemaru Yakushiji
-201530	ba742ccc	¿A quién pedirle el ataque suicida?\nTsubasa Kawana
+201500	e91a75fe	Chapter00_0_a-015\n・Combate\n・Decisión: ¿A quién sacrificarás?
+201510	14751e52	¿A quién sacrificarás?\nKyoshika
+201520	ec270577	¿A quién sacrificarás?\nTakemaru
+201530	ba742ccc	¿A quién sacrificarás?\nTsubasa
 201511	f7403aa3	
 201600	034dfb91	Chapter00_0_a-016\n・Tiempo libre
 201700	549d925c	Chapter00_0_a-017\n・Tiempo libre
 201800	e195da19	Chapter00_0_a-018\n・Tiempo libre
 201900	a398e5c4	Chapter00_0_a-019\n・Exploración
 202000	50d0c39e	Chapter00_0_a-020\n・Tiempo libre
-202100	036be795	Chapter00_0_a-021\n・Tiempo libre\n・Combate\n・Decisión: ¿Qué hacer con Eva?
-202110	7c644c26	¿Qué hacer con Eva?\nHacerla prisionera
-202120	de877613	¿Qué hacer con Eva?\nRematarla
+202100	036be795	Chapter00_0_a-021\n・Tiempo libre\n・Combate\n・Decisión: La suerte de Eva
+202110	7c644c26	¡Decide la suerte de Eva!\nTomarla prisionera
+202120	de877613	¡Decide la suerte de Eva!\nMatarla
 202111	521f5899	
 202200	8feae074	
 202300	b26d387a	Chapter00_0_a-023\n・Tiempo libre
@@ -148,14 +148,14 @@ id	huella_jp	es
 202800	51e52ec8	Chapter00_0_a-028\n・Tiempo libre
 202900	edf568d6	Chapter00_0_a-029\n・Tiempo libre
 203000	a9ccffe5	Chapter00_0_a-030\n・Tiempo libre
-203100	c0b905e9	Chapter00_0_a-031\n・Decisión: ¿Dejar que destruya a NIGOU?
-203110	25f4f5f2	¿Dejar que destruya a NIGOU?\nDejar que lo destruya
-203120	0051ccd0	¿Dejar que destruya a NIGOU?\nImpedírselo
+203100	c0b905e9	Chapter00_0_a-031\n・Decisión: ¿Dejar que Hiruko destruya a NIGOU?
+203110	25f4f5f2	¿Dejar que Hiruko destruya a NIGOU?\nDejar que ocurra
+203120	0051ccd0	¿Dejar que Hiruko destruya a NIGOU?\nDetenerla
 203111	f2169970	Chapter00_0_a-031\n・Tiempo libre
 203200	f52b45f0	
-203300	e90d6638	Chapter00_0_a-033\n・Combate\n・Decisión: ¿A quién salvar?
-203310	059dffe6	¿A quién salvar?\nSalvar a Gaku Maruko
-203320	60a05bd2	¿A quién salvar?\nSalvar a Kurara Oosuzuki
+203300	e90d6638	Chapter00_0_a-033\n・Combate\n・Decisión: ¿A quién vas a salvar?
+203310	059dffe6	¿A quién vas a salvar?\nGaku
+203320	60a05bd2	¿A quién vas a salvar?\nKurara
 203311	19a42670	
 203400	4dc6a996	
 203500	4a04f600	Chapter00_0_a-035\n・Tiempo libre
@@ -175,26 +175,26 @@ id	huella_jp	es
 204900	c52ffd9c	
 205000	fde31970	
 205100	d82fdb7e	Chapter00_0_a-051\n・Tiempo libre
-205200	24cfda79	Chapter00_0_a-052\n・Decisión: ¿Sumar al niño de Llamas Eternas al equipo?
-205210	a099848a	¿Sumar al niño de Llamas Eternas al equipo?\nSumarlo
-205220	27585a39	¿Sumar al niño de Llamas Eternas al equipo?\nNo sumarlo
+205200	24cfda79	Chapter00_0_a-052\n・Decisión: ¿Dejar que el niño de Llamas Eternas se una al equipo?
+205210	a099848a	¿Dejar que el niño de Llamas Eternas se una al equipo?\n¡Por supuesto!
+205220	27585a39	¿Dejar que el niño de Llamas Eternas se una al equipo?\nQuizás no.
 205211	dcdfdcb7	
 205300	08e10da7	Chapter00_0_a-053\n・Tiempo libre
 205400	6db027fe	Chapter00_0_a-054\n・Tiempo libre
 205500	5bb7b062	Chapter00_0_a-055\n・Tiempo libre
 205600	fa4d277a	Chapter00_0_a-056\n・Combate
-205700	d562d555	Chapter00_0_a-057\n・Combate\n・Decisión: ¿Matar a Eito Aotsuki?
-205710	1bbe0ae7	¿Matar a Eito Aotsuki?\nNo matarlo
-205720	54fde89a	¿Matar a Eito Aotsuki?\nMatarlo
+205700	d562d555	Chapter00_0_a-057\n・Combate\n・Decisión: ¿Matar a Eito?
+205710	1bbe0ae7	¿Matar a Eito?\nNo
+205720	54fde89a	¿Matar a Eito?\nSí
 205711	8ab343eb	
 205800	5e2d77cd	
 205900	c60f9058	Chapter00_1-059\n・Tiempo libre
 206000	7422d555	Chapter00_1-060\n・Tiempo libre
 206100	b0da1b40	Chapter00_1-061\n・Tiempo libre
 206200	409fcbd8	Chapter00_1-062\n・Tiempo libre
-206300	0d98053b	Chapter00_1-063\n・Combate\n・Decisión: ¿Qué hacer con Eva?
-206310	cd6111ce	¿Qué hacer con Eva?\nDejárselo a Shouma
-206320	c271a90a	¿Qué hacer con Eva?\nProteger a Eva
+206300	0d98053b	Chapter00_1-063\n・Combate\n・Decisión: La suerte de Eva
+206310	cd6111ce	¡Decide la suerte de Eva!\nDejar que Shouma la mate
+206320	c271a90a	¡Decide la suerte de Eva!\nProtegerla
 206311	b5b185ad	
 206400	2b2c8f12	
 206500	7eb56022	Chapter00_1-065\n・Tiempo libre
@@ -209,17 +209,17 @@ id	huella_jp	es
 207400	90e0dfe8	Chapter00_1-074\n・Tiempo libre
 207500	b954d9e1	Chapter00_1-075\n・Tiempo libre
 207600	80ab7a71	Chapter00_1-076\n・Tiempo libre
-207700	b7aa3c93	Chapter00_1-077\n・Decisión: ¿Luchar por la humanidad?
-207710	8c70b61c	¿Luchar por la humanidad?\nLuchar
-207720	d318765d	¿Luchar por la humanidad?\nNo luchar
+207700	b7aa3c93	Chapter00_1-077\n・Decisión: ¿Seguir luchando por la humanidad?
+207710	8c70b61c	¿Seguir luchando por la humanidad?\nSeguir luchando
+207720	d318765d	¿Seguir luchando por la humanidad?\nAbandonar a la humanidad
 207711	7fabae4a	
 207800	ddfe53e5	
 207900	f821fff6	Chapter00_1-079\n・Tiempo libre
 208000	d09a43ce	Chapter00_1-080\n・Tiempo libre
 208100	ed2afb53	Chapter00_1-081\n・Exploración
-208200	c72285fa	Chapter00_1-082\n・Decisión: ¿Sumar a Eito Aotsuki al equipo?
-208210	487961dd	¿Sumar a Eito Aotsuki al equipo?\nSumarlo
-208220	4dee8054	¿Aceptar a Eito Aotsuki en el equipo?\nNo aceptarlo
+208200	c72285fa	Chapter00_1-082\n・Decisión: ¿Dejar que Eito vuelva al equipo?
+208210	487961dd	¿Dejar que Eito vuelva al equipo?\nAceptarlo
+208220	4dee8054	¿Dejar que Eito vuelva al equipo?\nRechazarlo
 208211	5294145c	Chapter00_1-082\n・Tiempo libre
 208300	847d0776	Chapter00_1-083\n・Exploración
 208400	416bf68b	Chapter00_1-084\n・Exploración
@@ -238,9 +238,9 @@ id	huella_jp	es
 209700	ea53cfee	Chapter00_1-097\n・Tiempo libre
 209800	7e738d01	
 209900	8eb49a28	Chapter00_1-099\n・Combate
-210000	927fb18c	Chapter00_1-100\n・Decisión: ¿Luchar contra SIREI?
-210010	c0987bff	¿Luchar contra SIREI?\nLuchar
-210020	b33d8693	¿Luchar contra SIREI?\nNo luchar
+210000	927fb18c	Chapter00_1-100\n・Decisión: ¿Desafiar a SIREI una última vez?
+210010	c0987bff	¿Desafiar a SIREI una última vez?\nSí
+210020	b33d8693	¿Desafiar a SIREI una última vez?\nNo
 210011	40df85aa	Chapter00_1-100\n・Combate\n・Final 001
 310000	01581f26	Chapter01_0-100\n・Final 002
 408200	85bc1ff7	
@@ -257,9 +257,9 @@ id	huella_jp	es
 508400	8ecfd429	
 508500	455519df	
 508600	13a74d2d	
-508700	e0d2071f	Chapter03_0-087\n・Decisión: ¿Aliarse con la rebelión?
-508710	05dc9189	¿Aliarse con la rebelión?\nAliarse
-508720	a1d7bc4f	¿Aliarse con la rebelión?\nNo aliarse
+508700	e0d2071f	Chapter03_0-087\n・Decisión: ¿Unirse a la rebelión?
+508710	05dc9189	¿Unirse a la rebelión?\nSí
+508720	a1d7bc4f	¿Unirse a la rebelión?\nNo
 608700	910a2f01	Chapter03_0_a-087\n・Combate
 608800	faa70406	
 608900	714534d0	
@@ -272,9 +272,9 @@ id	huella_jp	es
 609600	879f92f3	Chapter03_0_a-096\n・Tiempo libre
 609700	e4f996f1	Chapter03_0_a-097\n・Tiempo libre
 609800	731924bd	
-609900	5606b11e	Chapter03_0_a-099\n・Combate\n・Decisión: ¿A quién salvar?
-609910	fd81b632	¿A quién salvar?\nSalvar a Nozomi
-609920	e42f1968	¿A quién salvar?\nSalvar a Kamyuhn
+609900	5606b11e	Chapter03_0_a-099\n・Combate\n・Decisión: ¿A quién vas a salvar?
+609910	fd81b632	¿A quién vas a salvar?\nNozomi
+609920	e42f1968	¿A quién vas a salvar?\nKamyuhn
 809900	e0dc7520	Chapter03_0_aa-099\n・Final 005
 909900	bdfec4d4	Chapter03_0_ab-099\n・Final 006
 708700	667909ac	Chapter03_0_b-087\n・Final 004
@@ -299,9 +299,9 @@ id	huella_jp	es
 1009500	d098070b	
 1009600	210ad819	
 1009700	e2c8f768	
-1009800	c15b9fd6	Chapter04_0-098\n・Decisión: ¿Ir a ayudar a la Última Academia de Defensa?
-1009810	047fd4f9	¿Ir a ayudar a la Última Academia de Defensa?\nIr a ayudar
-1009820	6e1bdce1	¿Ir a ayudar a la Última Academia de Defensa?\nQuedarme aquí
+1009800	c15b9fd6	Chapter04_0-098\n・Decisión: ¿Salvar la Última Academia de Defensa?
+1009810	047fd4f9	¿Salvar la Última Academia de Defensa?\nIr a salvarla
+1009820	6e1bdce1	¿Salvar la Última Academia de Defensa?\nQuedarme aquí
 1109800	d517e257	
 1109900	58294c57	Chapter04_0_a-099\n・Final 007
 1209800	c872a46f	Chapter04_0_b-098\n・Final 008
@@ -311,18 +311,18 @@ id	huella_jp	es
 1305900	84d5fb9b	
 1306000	2d9453d2	
 1306100	15d874e8	
-1306200	2f59079e	Chapter05_0-062\nDecisión: El undécimo Eito...
-1306210	16b2bba7	El undécimo Eito...\nNo está entre ellos
-1306220	d1b54c7a	El undécimo Eito...\nLo encontré
-1406200	0117aee5	Chapter05_0_a-062\nDecisión: ...
-1406210	10fc24d3	...\nPerdí
-1406220	bc5ea3c5	...\nTú ganas
+1306200	2f59079e	Chapter05_0-062\n・Decisión: ¿Dónde está el undécimo Eito?
+1306210	16b2bba7	¿Dónde está el undécimo Eito?\nAquí no
+1306220	d1b54c7a	¿Dónde está el undécimo Eito?\nLo encontré
+1406200	0117aee5	Chapter05_0_a-062\n・Decisión: ¿Qué dices?
+1406210	10fc24d3	¿Qué dices?\nPerdí
+1406220	bc5ea3c5	¿Qué dices?\nTú ganas
 1506200	96a2f0d0	Chapter05_0_aa-062\n・Final 009
 1606200	ba2410bf	
 1606300	62d7772d	Chapter05_0_ab-063\n・Final 010
-1706200	90ac65a4	Chapter05_0_b-062\nDecisión: Al odio...
-1706210	68f92f29	Al odio...\nEntregarme a él
-1706220	2125a147	El odio...\nEl odio no lleva a nada
+1706200	90ac65a4	Chapter05_0_b-062\n・Decisión: El odio...
+1706210	68f92f29	El odio...\nAbrazarlo
+1706220	2125a147	El odio...\nRechazarlo
 1806200	df017dc4	Chapter05_0_ba-062\n・Final 011
 1906200	b960aa2c	Chapter05_0_bb-062\n・Final 012
 2005200	ebe39c46	
@@ -373,36 +373,36 @@ id	huella_jp	es
 2009700	aa598b51	Chapter06_0-097\n・Combate
 2009800	1106b5a7	Chapter06_0-098\n・Tiempo libre
 2009900	d7d491db	Chapter06_0-099\n・Combate
-2010000	b3000015	Chapter06_0-100\n・Decisión: La lucha...
-2010010	2ef27362	La lucha...\nYa terminó...
-2010020	4784cdb7	La lucha...\n...Todavía no termina
+2010000	b3000015	Chapter06_0-100\n・Decisión: Mi lucha...
+2010010	2ef27362	Mi lucha...\nHa terminado.
+2010020	4784cdb7	Mi lucha...\nAún no ha terminado.
 2110000	5b52940a	Chapter06_0_a-100\n・Final 013
 2210000	25ed7aa0	Chapter06_0_b-100\n・Final 014
 2303300	67a62000	
-2303400	736d8e8f	Chapter07_0-034\n・Decisión: La pastilla roja...
-2303410	06e7556c	La pastilla roja...\nTomarla
-2303420	f3e87a24	La pastilla roja...\nNo tomarla
-2403400	c073a723	Chapter07_0_a-034\n・Decisión: ¿Con la Facción Anti-Éxodo...?
-2403410	bbb840c0	¿Con la Facción Anti-Éxodo...?\nColaborar
-2403420	089926b6	¿Con la Facción Anti-Éxodo...?\nNo colaborar
+2303400	736d8e8f	Chapter07_0-034\n・Decisión: ¿Tomar la pastilla roja?
+2303410	06e7556c	¿Tomar la pastilla roja?\nTomarla
+2303420	f3e87a24	¿Tomar la pastilla roja?\nNo
+2403400	c073a723	Chapter07_0_a-034\n・Decisión: ¿Ayudar a la Facción Anti-Éxodo?
+2403410	bbb840c0	¿Ayudar a la Facción Anti-Éxodo?\nSí
+2403420	089926b6	¿Ayudar a la Facción Anti-Éxodo?\nNo
 2503400	b81be483	
-2503500	9c81ea48	Chapter07_0_aa-035\n・Decisión: A quien voy a convencer primero es...
-2503510	82e4a021	A quien voy a convencer primero es...\nHiruko Shizuhara
-2503520	c0adb98a	A quien voy a convencer primero es...\nKurara Oosuzuki
+2503500	9c81ea48	Chapter07_0_aa-035\n・Decisión: ¿A quién persuadirás primero?
+2503510	82e4a021	¿A quién persuadirás primero?\nHiruko
+2503520	c0adb98a	¿A quién persuadirás primero?\nKurara
 2603500	5f5e0486	Chapter07_0_aaa-035\n・Final 017
-2703500	519039fe	Chapter07_0_aab-035\n・Decisión: Sus muertes...
-2703510	4707a0c8	Sus muertes...\n...
-2703520	9ec1f0c2	Sus muertes...\nNo fueron en vano
-2903500	9ac2f83f	Chapter07_0_aaba-035\n・Decisión: ¿A SIREI...?
-2903510	ca0e7faa	¿A SIREI...?\nDestruirlo
-2903520	53b5e7d9	¿A SIREI...?\nNo destruirlo
+2703500	519039fe	Chapter07_0_aab-035\n・Decisión: ¿Fueron en vano las muertes de nuestros amigos?
+2703510	4707a0c8	¿Fueron en vano las muertes de nuestros amigos?\n...
+2703520	9ec1f0c2	¿Fueron en vano las muertes de nuestros amigos?\nNo
+2903500	9ac2f83f	Chapter07_0_aaba-035\n・Decisión: ¿Destruir a SIREI?
+2903510	ca0e7faa	¿Destruir a SIREI?\nSí
+2903520	53b5e7d9	¿Destruir a SIREI?\nNo
 3103500	b1a5ce5a	Chapter07_0_aabaa-035\n・Decisión: ¿Destruir a SIREI?
-3103510	5dc6a01b	¿Destruir a SIREI?\nDestruirlo
-3103520	0dbca9bc	¿Destruir a SIREI?\nContenerme
+3103510	5dc6a01b	¿Destruir a SIREI?\nSí
+3103520	0dbca9bc	¿Destruir a SIREI?\nNo
 3303500	368ae899	
-3303600	c8221ef1	Chapter07_0_aabaaa-036\n・Decisión: Lo que hicimos...
-3303610	376c1cb9	Lo que hicimos...\nFue inútil
-3303620	a5cd6fbd	Lo que hicimos...\n...
+3303600	c8221ef1	Chapter07_0_aabaaa-036\n・Decisión: Todo lo que hicimos...
+3303610	376c1cb9	Todo lo que hicimos...\nFue inútil
+3303620	a5cd6fbd	Todo lo que hicimos...\n...
 3503600	1fe557ce	
 3503700	5b1b1ed0	Chapter07_0_aabaaaa-037\n・Final 022
 3603600	fb7770ae	Chapter07_0_aabaaab-036\n・Final 021
@@ -442,15 +442,15 @@ id	huella_jp	es
 3809100	5df8a350	
 3809200	f9224192	
 3809300	daa86e72	Chapter08_0-093\n・Combate
-3809900	60428dbe	Chapter08_0-099\n・Decisión: ¿La realidad o el sueño?
-3809910	81ddff8d	¿La realidad o el sueño?\nVolver a la realidad
-3809920	c5728fb6	¿La realidad o el sueño?\nSeguir soñando
+3809900	60428dbe	Chapter08_0-099\n・Decisión: Toma tu decisión.
+3809910	81ddff8d	Toma tu decisión.\nVolver a la realidad
+3809920	c5728fb6	Toma tu decisión.\nQuedarme en el sueño
 3909900	a50fdf69	Chapter08_0_a-099\n・Final 023
 4009900	cb5c6020	Chapter08_0_b-099\n・Final 024
 4102100	3310eb4c	
-4102200	10c18dc3	Chapter09_0-022\n・Decisión: ¿A quién buscar?
-4102210	46e19710	¿A quién buscar?\nA Kako
-4102220	964d771b	¿A quién buscar?\nA la silueta
+4102200	10c18dc3	Chapter09_0-022\n・Decisión: ¿A quién vas a buscar?
+4102210	46e19710	¿A quién vas a buscar?\nKako
+4102220	964d771b	¿A quién vas a buscar?\nSilueta misteriosa
 4202200	24e6f97a	
 4202300	6080cfc6	
 4202400	88b12712	
@@ -468,9 +468,9 @@ id	huella_jp	es
 4204200	9f4f6e84	Chapter09_A-042\n・Tiempo libre
 4204300	c13036ca	Chapter09_A-043\n・Tiempo libre
 4204400	79a243a2	Chapter09_A-044\n・Exploración
-4204500	1bb6fb63	Chapter09_A-045\n・Decisión: ¿Qué grupo elegir?
-4204510	374f42b5	¿Qué grupo elegir?\nEl grupo de exploración
-4204520	2981379f	¿Qué grupo elegir?\nEl grupo de defensa
+4204500	1bb6fb63	Chapter09_A-045\n・Decisión: ¿A qué equipo te unirás?
+4204510	374f42b5	¿A qué equipo te unirás?\nExploración
+4204520	2981379f	¿A qué equipo te unirás?\nDefensa
 4304500	f8cc42c8	
 4304600	e841e604	Chapter09_A_a-046\n・Exploración
 4304700	17797662	Chapter09_A_a-047\n・Combate
@@ -484,9 +484,9 @@ id	huella_jp	es
 4306100	5a2ee3d0	
 4306200	506d9515	Chapter09_A_a-062\n・Exploración
 4306300	3d6358af	Chapter09_A_a-063\n・Combate
-4306400	0600cb9a	Chapter09_A_a-064\n・Decisión: ¿A qué grupo unirse?
-4306410	f6f5e728	¿A qué grupo unirse?\nEl equipo de las chicas
-4306420	5e2dced8	¿A qué grupo unirse?\nEl equipo de los chicos
+4306400	0600cb9a	Chapter09_A_a-064\n・Decisión: ¿A qué equipo te unirás?
+4306410	f6f5e728	¿A qué equipo te unirás?\nChicas
+4306420	5e2dced8	¿A qué equipo te unirás?\nChicos
 4406400	4a1a64d4	
 4406500	4040e2fe	Chapter09_A_aa-065\n・Exploración
 4407100	5575df32	
@@ -496,9 +496,9 @@ id	huella_jp	es
 4409200	bc72d111	Chapter09_A_aa-092\n・Exploración
 4409300	b754dab6	Chapter09_A_aa-093\n・Combate
 4409800	19cea77c	
-4409900	f49b404b	Chapter09_A_aa-099\n・Combate\n・Decisión: ¿Qué cajas abrir?
-4409910	49b2afa2	¿Qué cajas abrir?\nLas cajas de números primos
-4409920	3cc50b0a	¿Qué cajas abrir?\nLas cajas de números impares
+4409900	f49b404b	Chapter09_A_aa-099\n・Combate\n・Decisión: ¿Qué cajas abrirás?
+4409910	49b2afa2	¿Qué cajas abrirás?\nLas de número primo
+4409920	3cc50b0a	¿Qué cajas abrirás?\nLas de número impar
 4509900	1f61e106	Chapter09_A_aaa-099\n・Final 025
 4609900	4ca725c0	Chapter09_A_aab-099\n・Final 026
 4706400	8c9fef2c	
@@ -510,9 +510,9 @@ id	huella_jp	es
 4709200	0def73da	Chapter09_A_ab-092\n・Exploración
 4709300	18b60099	Chapter09_A_ab-093\n・Combate
 4709800	838776ee	Chapter09_A_ab-098\n・Exploración
-4709900	22358dac	Chapter09_A_ab-099\n・Combate\n・Decisión: ¿Qué hacer con Eito?
-4709910	0337f9df	¿Qué hacer con Eito?\nDejárselo a Gaku
-4709920	3dc23911	¿Qué hacer con Eito?\nEncargarme yo
+4709900	22358dac	Chapter09_A_ab-099\n・Combate\n・Decisión: ¿Qué harás con Eito?
+4709910	0337f9df	¿Qué harás con Eito?\nDejárselo a Gaku.
+4709920	3dc23911	¿Qué harás con Eito?\nEncargarme yo mismo.
 4809900	8ee773b1	Chapter09_A_aba-099\n・Final 027
 4909900	84664595	Chapter09_A_abb-099\n・Final 028
 5004500	0e08368d	
@@ -524,9 +524,9 @@ id	huella_jp	es
 5005700	83b52e7b	Chapter09_A_b-057\n・Combate
 5005800	f6f4d159	Chapter09_A_b-058\n・Exploración
 5006300	1ce26dbd	Chapter09_A_b-063\n・Combate
-5006400	d028c565	Chapter09_A_b-064\n・Decisión: ¿Con quiénes ir?
-5006410	ae245420	¿Con quiénes ir?\nIr con Shouma y los demás
-5006420	b19afc6e	¿Con quiénes ir?\nIr con Nozomi y los demás
+5006400	d028c565	Chapter09_A_b-064\n・Decisión: ¿Con qué equipo irás?
+5006410	ae245420	¿Con qué equipo irás?\nEl de Shouma
+5006420	b19afc6e	¿Con qué equipo irás?\nEl de Nozomi
 5106400	97efa34a	
 5106500	91b25916	Chapter09_A_ba-065\n・Exploración
 5107200	751fef9c	Chapter09_A_ba-072\n・Combate
@@ -534,9 +534,9 @@ id	huella_jp	es
 5108700	04a8bebb	Chapter09_A_ba-087\n・Combate
 5109200	fc6300f0	
 5109300	224a47c7	Chapter09_A_ba-093\n・Combate
-5109400	88ddae60	Chapter09_A_ba-094\n・Decisión: ¿Qué decirle?
-5109410	e7e4396f	¿Qué decirle?\nEnfrenta lo que sientes
-5109420	008cefd8	¿Qué decirle?\nEstá bien huir
+5109400	88ddae60	Chapter09_A_ba-094\n・Decisión: ¿Qué le dirás a Shouma?
+5109410	e7e4396f	¿Qué le dirás a Shouma?\n¡Enfrenta tus verdaderos sentimientos!
+5109420	008cefd8	¿Qué le dirás a Shouma?\nPuedes huir si quieres.
 5209400	54cb5d9c	Chapter09_A_baa-094\n・Tiempo libre
 5209800	5e675b11	
 5209900	d8f6995f	Chapter09_A_baa-099\n・Combate\n・Final 029
@@ -551,15 +551,15 @@ id	huella_jp	es
 5409200	04d91f3b	Chapter09_A_bb-092\n・Exploración
 5409300	605e3814	Chapter09_A_bb-093\n・Combate
 5409800	477e4d90	Chapter09_A_bb-098\n・Exploración
-5409900	2b9743a1	Chapter09_A_bb-099\n・Combate\n・Decisión: ¿Qué hacer con las cajas?
-5409910	7a43e9c1	¿Qué hacer con las cajas?\nSellarlas
-5409920	b8e16182	¿Qué hacer con las cajas?\nDestruirlas
+5409900	2b9743a1	Chapter09_A_bb-099\n・Combate\n・Decisión: ¿Qué harás con las cajas?
+5409910	7a43e9c1	¿Qué harás con las cajas?\nSellarlas
+5409920	b8e16182	¿Qué harás con las cajas?\nDestruirlas
 5509900	b8913494	Chapter09_A_bba-099\n・Final 031
 5609900	7ac68d59	Chapter09_A_bbb-099\n・Final 032
 5702200	222c0f22	
-5702300	e0bd186f	Chapter09_B-023\n・Decisión: ¿Qué hacer?
-5702310	b490cf6f	¿Qué hacer?\nLanzarse sobre el desconocido
-5702320	25255109	¿Qué hacer?\nDarme vuelta hacia la voz
+5702300	e0bd186f	Chapter09_B-023\n・Decisión: ¿Y ahora qué?
+5702310	b490cf6f	¿Y ahora qué?\nAtacar a la silueta misteriosa
+5702320	25255109	¿Y ahora qué?\nVoltearme hacia la voz
 5802300	f003db67	
 5810000	3e586d13	Chapter09_B_1-100\n・Final 033
 5902300	70a2d07c	
@@ -588,9 +588,9 @@ id	huella_jp	es
 5904600	24a87427	
 5904700	c739bdd8	Chapter09_B_0-047\n・Combate
 5904800	19b7f760	
-5904900	295cfd30	Chapter09_B_0-049\n・Decisión: ¿Qué hacer?
-5904910	3099e028	¿Qué hacer?\nIr a ayudar a SIREI
-5904920	49a7b737	¿Qué hacer?\nRecoger la caja
+5904900	295cfd30	Chapter09_B_0-049\n・Decisión: ¿Qué harás?
+5904910	3099e028	¿Qué harás?\nIr a ayudar a SIREI
+5904920	49a7b737	¿Qué harás?\nRecoger la caja
 6004900	3d3d8853	
 6005000	d7ddf8d5	
 6005100	ac613778	Chapter09_B_a-051\n・Tiempo libre
@@ -615,9 +615,9 @@ id	huella_jp	es
 6007000	d2267f79	
 6007100	53ff4cf1	
 6007200	4238ef49	Chapter09_B_a-072\n・Combate
-6007300	d600423a	Chapter09_B_a-073\n・Decisión: ¿Con quién estar de acuerdo?
-6007310	b0b30c0f	¿Con quién estar de acuerdo?\nCon Hiruko
-6007320	03004ee1	¿Con quién estar de acuerdo?\nCon Gaku
+6007300	d600423a	Chapter09_B_a-073\n・Decisión: ¿De qué lado estarás?
+6007310	b0b30c0f	¿De qué lado estarás?\nEl de Hiruko
+6007320	03004ee1	¿De qué lado estarás?\nEl de Gaku
 6107300	d93a3a5f	
 6107400	13c871b9	
 6107500	e77ad28c	
@@ -645,9 +645,9 @@ id	huella_jp	es
 6109700	60479ee5	
 6109800	b299ef99	
 6109900	b6f49ad0	Chapter09_B_aa-099\n・Combate
-6110000	5ae198b2	Chapter09_B_aa-100\n・Decisión: ¿Qué hago?
-6110010	fae848ad	¿Qué hago?\nSeñalar al culpable
-6110020	fb6c3e2e	¿Qué hago?\nNo puedo señalar al culpable
+6110000	5ae198b2	Chapter09_B_aa-100\n・Decisión: ¿Revelar al culpable?
+6110010	fae848ad	¿Revelar al culpable?\nSí
+6110020	fb6c3e2e	¿Revelar al culpable?\nNo
 6210000	04d9874e	Chapter09_B_aaa-100\n・Final 034
 6310000	ef2889e9	Chapter09_B_aab-100\n・Final 035
 6407300	d05f8dc3	
@@ -695,9 +695,9 @@ id	huella_jp	es
 6506900	07eb4f8d	
 6507000	223d28ca	
 6507100	361f38c9	
-6507200	a711ae65	Chapter09_B_b-072\n・Combate\n・Decisión: ¿Qué elegir?
-6507210	3da68341	¿Qué elegir?\nCallarme lo que vi
-6507220	a809d16b	¿Qué elegir?\nContarles a todos lo que vi
+6507200	a711ae65	Chapter09_B_b-072\n・Combate\n・Decisión: ¿Contarles a todos lo que viste?
+6507210	3da68341	¿Contarles a todos lo que viste?\nNo
+6507220	a809d16b	¿Contarles a todos lo que viste?\nSí
 6607300	0199223a	
 6607400	e067991c	
 6607500	cf47ed51	
@@ -719,9 +719,9 @@ id	huella_jp	es
 6609100	a172e551	
 6609200	d6463e82	
 6609300	b37d1e23	Chapter09_B_ba-093\n・Combate
-6609400	fa3dd89e	Chapter09_B_ba-094\n・Decisión: ¿Qué hacer?
-6609410	f3aa07c9	¿Qué hacer?\nResistirme a Gaku
-6609420	268ba904	¿Qué hacer?\nNo resistirme
+6609400	fa3dd89e	Chapter09_B_ba-094\n・Decisión: ¿Resistirte a Gaku?
+6609410	f3aa07c9	¿Resistirte a Gaku?\nSí
+6609420	268ba904	¿Resistirte a Gaku?\nNo
 6709400	45ec83b9	Chapter09_B_baa-094\n・Final 037
 6809400	00cfa459	Chapter09_B_bab-094\n・Final 038
 6907300	a134360a	
@@ -743,9 +743,9 @@ id	huella_jp	es
 6908900	8881ab1e	
 6909000	a586efe4	
 6909100	3155f618	
-6909200	6eaefaef	Chapter09_B_bb-092\n・Decisión: ¿Qué pienso?
-6909210	e24469c8	¿Qué pienso?\n¿Eva era un espíritu maligno?
-6909220	3f3ff09d	¿Qué pienso?\nEva no es un espíritu maligno
+6909200	6eaefaef	Chapter09_B_bb-092\n・Decisión: ¿Era Eva un espíritu maligno?
+6909210	e24469c8	¿Era Eva un espíritu maligno?\nSí
+6909220	3f3ff09d	¿Era Eva un espíritu maligno?\nNo
 7009200	72c50a1e	
 7009300	e2a90d19	Chapter09_B_bba-093\n・Combate
 7009400	82fb23c2	
@@ -795,9 +795,9 @@ id	huella_jp	es
 7204700	fbdf1a35	Chapter10_A-047\n・Tiempo libre
 7204800	a994a01e	Chapter10_A-048\n・Combate
 7204900	7be72ada	
-7205000	70dd9b9f	Chapter10_A-050\n・Tiempo libre\n・Decisión: Le creo a...
-7205010	4b67792d	Le creo a...\nEito Aotsuki
-7205020	0c53bae3	Le creo a...\nNozomi Kirifuji
+7205000	70dd9b9f	Chapter10_A-050\n・Tiempo libre\n・Decisión: ¿A quién creerás?
+7205010	4b67792d	¿A quién creerás?\nEito
+7205020	0c53bae3	¿A quién creerás?\nNozomi
 7305000	3eee0f7e	
 7305100	abdaf7a0	
 7305200	13e84858	
@@ -820,16 +820,16 @@ id	huella_jp	es
 7502500	aca3c745	
 7502600	85b38497	
 7502700	687be2e9	
-7502800	067d41e2	Chapter10_B-028\n・Decisión: Lo que debo hacer es...
-7502810	0805f0fc	Lo que debo hacer es...\nAsesinar a V'ehxness
-7502820	ffe7d787	Lo que debo hacer es...\nConvencer a V'ehxness
+7502800	067d41e2	Chapter10_B-028\n・Decisión: ¿Qué harás con V'ehxness?
+7502810	0805f0fc	¿Qué harás con V'ehxness?\nAsesinarla
+7502820	ffe7d787	¿Qué harás con V'ehxness?\nPersuadirla
 7602800	2d2f737f	
 7603400	12cdf0ed	Chapter10_B_a-034\n・Final 043
 7702800	f3ee33c7	Chapter10_B_b-028\n・Final 044
 7801100	9f5d486c	
-7801200	facc07dc	Chapter11_0-012\n・Decisión: Lo que debo decirles a todos es...
-7801210	82365ee1	Lo que debo decirles a todos es...\nLa verdad
-7801220	01ece1e5	Lo que debo decirles a todos es...\nUna mentira
+7801200	facc07dc	Chapter11_0-012\n・Decisión: ¿Qué les dirás a los demás?
+7801210	82365ee1	¿Qué les dirás a los demás?\nLa verdad
+7801220	01ece1e5	¿Qué les dirás a los demás?\nUna mentira
 7901200	abc66b7e	
 7901300	7b6542ee	Chapter11_0_a-013\n・Tiempo libre
 7901400	09620a3b	Chapter11_0_a-014\n・Tiempo libre
@@ -867,15 +867,15 @@ id	huella_jp	es
 7905900	7c6bf22d	
 7906000	39f73a1d	
 7906100	0bf52a66	
-7906200	eeae9c60	Chapter11_0_a-062\n・Decisión: El deseo de FB...
-7906210	4f54c625	El deseo de FB...\nAceptarla
-7906220	a154ad84	El deseo de FB...\nNo aceptarla
+7906200	eeae9c60	Chapter11_0_a-062\n・Decisión: ¿Aceptar la petición de FB?
+7906210	4f54c625	¿Aceptar la petición de FB?\nSí
+7906220	a154ad84	¿Aceptar la petición de FB?\nNo
 8006200	ba06d5cd	
 8006300	5e87bb5e	
 8006400	d4572995	Chapter11_0_aa-064\n・Tiempo libre
-8006500	1919f0f3	Chapter11_0_aa-065\n・Combate\n・Decisión: ¿Recibir la hemoánima de Nozomi?
-8006510	4a4c8fa5	¿Recibir la hemoánima de Nozomi?\n...Está bien
-8006520	02a57857	¿Recibir la hemoánima de Nozomi?\nNegarme
+8006500	1919f0f3	Chapter11_0_aa-065\n・Combate\n・Decisión: ¿Absorber la hemoánima de Nozomi?
+8006510	4a4c8fa5	¿Absorber la hemoánima de Nozomi?\nSí
+8006520	02a57857	¿Absorber la hemoánima de Nozomi?\nNo
 8206500	79af1867	Chapter11_0_aaa-065\n・Final 047
 8306500	aa83ad41	Chapter11_0_aab-065\n・Final 048
 8106200	9da3492e	
@@ -918,9 +918,9 @@ id	huella_jp	es
 8503800	46b0ffb2	
 8503900	6b806380	
 8504000	d137a6fd	Chapter12_0-040\n・Combate
-8504100	e6d6c4da	Chapter12_0-041\n・Decisión: ¿Cómo revivir a Ourtsnom?
-8504110	a6f91449	¿Cómo revivir a Ourtsnom?\nRevivirlo tal cual
-8504120	b1acfa9f	¿Cómo revivir a Ourtsnom?\nRevivirlo dentro de una persona
+8504100	e6d6c4da	Chapter12_0-041\n・Decisión: ¿Cómo revivirás a Ourtsnom?
+8504110	a6f91449	¿Cómo revivirás a Ourtsnom?\nTal como es
+8504120	b1acfa9f	¿Cómo revivirás a Ourtsnom?\nDentro de alguien
 8604100	4d7b590a	
 8604200	d8ff761d	
 8604300	0e71d8e8	Chapter12_0_a-043\n・Tiempo libre
@@ -973,9 +973,9 @@ id	huella_jp	es
 8609000	33721834	
 8609100	c3d03ebd	
 8609200	36ae33f1	
-8609300	da4faca6	Chapter12_0_a-093\n・Combate\n・Decisión: ¿Qué elegir?
-8609310	6d4f8d28	¿Qué elegir?\nTomar la mano de Darumi
-8609320	4f090d5a	¿Qué elegir?\nRechazar a Darumi
+8609300	da4faca6	Chapter12_0_a-093\n・Combate\n・Decisión: ¿Aceptar la oferta de Darumi?
+8609310	6d4f8d28	¿Aceptar la oferta de Darumi?\nSí
+8609320	4f090d5a	¿Aceptar la oferta de Darumi?\nNo
 8709300	f438b375	
 8709900	4fa4687c	Chapter12_0_aa-099\n・Combate
 8710000	dce975ce	Chapter12_0_aa-100\n・Final 049
@@ -987,9 +987,9 @@ id	huella_jp	es
 8809800	9916cf1f	
 8809900	5149fb33	
 8810000	70ef3b4e	Chapter12_0_ab-100\n・Final 050
-8904100	6713f589	Chapter12_0_b-041\n・Decisión: ¿Qué hacer con Ourtsnom?
-8904110	62c437aa	¿Qué hacer con Ourtsnom?\nAtraparlo
-8904120	31559919	¿Qué hacer con Ourtsnom?\nCalmarlo
+8904100	6713f589	Chapter12_0_b-041\n・Decisión: ¿Qué harás con Ourtsnom?
+8904110	62c437aa	¿Qué harás con Ourtsnom?\nCapturarlo
+8904120	31559919	¿Qué harás con Ourtsnom?\nCalmarlo
 9004100	a4326e96	Chapter12_0_ba-041\n・Final 051
 9104100	64ced91d	Chapter12_0_bb-041\n・Final 052
 9200300	9037b8e5	
@@ -998,9 +998,9 @@ id	huella_jp	es
 9200600	1970abed	Chapter13_0-006\n・Exploración
 9200700	ec5fd4f9	Chapter13_0-007\n・Combate
 9200800	ffd987cd	Chapter13_0-008\n・Combate
-9200900	469c35e7	Chapter13_0-009\n・Tiempo libre\n・Decisión: ¿Besar a Hiruko...?
-9200910	edfcddba	¿Besar a Hiruko...?\nNo besarla
-9200920	f55ea002	¿Besar a Hiruko...?\nBesarla
+9200900	469c35e7	Chapter13_0-009\n・Tiempo libre\n・Decisión: ¿Besar a Hiruko?
+9200910	edfcddba	¿Besar a Hiruko?\nNo
+9200920	f55ea002	¿Besar a Hiruko?\nSí
 9300900	2f70aed3	
 9301000	296f865f	
 9301100	33ae6ea0	Chapter13_A-011\n・Tiempo libre
@@ -1066,9 +1066,9 @@ id	huella_jp	es
 9406800	67146a9e	
 9406900	55774d14	
 9407000	f4c53f76	
-9407100	71ed2062	Chapter13_A_a-071\n・Tiempo libre\n・Decisión: ¿Qué lado de la moneda quedó arriba?
-9407110	0ec2a6ad	¿Qué lado de la moneda quedó arriba?\nCara
-9407120	ef545faa	¿Qué lado de la moneda quedó arriba?\nCruz
+9407100	71ed2062	Chapter13_A_a-071\n・Tiempo libre\n・Decisión: ¿Cara o cruz?
+9407110	0ec2a6ad	¿Cara o cruz?\nCara
+9407120	ef545faa	¿Cara o cruz?\nCruz
 9507100	5ff1f84e	
 9507200	418de76f	Chapter13_A_aa-072\n・Combate
 9507300	324d341a	Chapter13_A_aa-073\n・Exploración
@@ -1083,9 +1083,9 @@ id	huella_jp	es
 9508200	5a46e56b	
 9508300	1e09cf84	
 9508400	acc7a29c	Chapter13_A_aa-084\n・Tiempo libre
-9508500	cc1594e8	Chapter13_A_aa-085\n・Decisión: La tecla 4...
-9508510	bea18cb3	¿Presionar la tecla 4?\nPresionarla
-9508520	c0b5d303	¿Presionar la tecla 4?\nNo presionarla
+9508500	cc1594e8	Chapter13_A_aa-085\n・Decisión: ¿Presionar el 4?
+9508510	bea18cb3	¿Presionar el 4?\nSí
+9508520	c0b5d303	¿Presionar el 4?\nNo
 9608500	1e0d61d3	Chapter13_A_aaa-085\n・Final 053
 9708500	106a8d1e	
 9708600	b75eb723	
@@ -1102,9 +1102,9 @@ id	huella_jp	es
 9709700	05b1b116	
 9709800	2a57c866	Chapter13_A_aab-098\n・Tiempo libre
 9709900	08e327e6	Chapter13_A_aab-099\n・Combate
-9710000	a0497316	Chapter13_A_aab-100\n・Decisión: La decisión final...
-9710010	9747dd04	La decisión final...\nCon Shizuhara a la cápsula
-9710020	1c380901	La decisión final...\nCon Shizuhara al sótano
+9710000	a0497316	Chapter13_A_aab-100\n・Decisión: ¿Adónde huirás?
+9710010	9747dd04	¿Adónde huirás?\nCápsula de escape
+9710020	1c380901	¿Adónde huirás?\nSótano
 9810000	dd80e69d	Chapter13_A_aaba-100\n・Final 054
 9910000	41817feb	Chapter13_A_aabb-100\n・Final 055
 10007100	e78d7b9c	
@@ -1124,21 +1124,21 @@ id	huella_jp	es
 10008500	23371ac2	
 10008600	49b0bed7	Chapter13_A_ab-086\n・Final 056
 10105000	de9ea874	
-10107100	5e867957	Chapter13_A_b-071\n・Decisión: ¿A la batalla defensiva de mañana...?
-10107110	130a411f	¿A la batalla defensiva de mañana...?\nSalir a combatir
-10107120	2542a930	¿A la batalla defensiva de mañana...?\nNo salir
+10107100	5e867957	Chapter13_A_b-071\n・Decisión: ¿Unirte a la batalla de mañana?
+10107110	130a411f	¿Unirte a la batalla de mañana?\nSí
+10107120	2542a930	¿Unirte a la batalla de mañana?\nNo
 10207100	49cb7094	
 10207200	8b5897f5	Chapter13_A_ba-072\n・Combate
-10209800	35b70147	Chapter13_A_ba-098\n・Decisión: ¿A Kako-G...?
-10209810	f6e5d159	¿A Kako-G...?\nNo lanzarme
-10209820	c76877b7	¿A Kako-G...?\nLanzarme
+10209800	35b70147	Chapter13_A_ba-098\n・Decisión: ¿Atacar a Kako-G?
+10209810	f6e5d159	¿Atacar a Kako-G?\nNo
+10209820	c76877b7	¿Atacar a Kako-G?\nSí
 10309800	0dcf3719	
 10309900	46dd4eca	
 10310000	64f42754	Chapter13_A_baa-100\n・Final 057
 10409800	d1de0f88	
-10409900	1d390fb3	Chapter13_A_bab-099\n・Decisión: ¿A la última batalla defensiva...?
-10409910	631cbc90	¿A la última batalla defensiva...?\nSalir a combatir
-10409920	87fccac4	¿A la última batalla defensiva...?\nNo salir
+10409900	1d390fb3	Chapter13_A_bab-099\n・Decisión: ¿Unirte a la batalla final?
+10409910	631cbc90	¿Unirte a la batalla final?\nSí
+10409920	87fccac4	¿Unirte a la batalla final?\nNo
 10509900	6a9fc712	Chapter13_A_baba-099\n・Combate\n・Final 058
 10609900	877b0f46	
 10610000	8dca7059	Chapter13_A_babb-100\n・Final 059
@@ -1185,12 +1185,12 @@ id	huella_jp	es
 10804500	cfaabf3c	
 10804600	a0c061cf	
 10804700	db68e365	Chapter13_B-047\n・Combate
-10804800	d5e0e986	Chapter13_B-048\n・Decisión: La confesión de Kurara...
-10804810	1bd8d877	La confesión de Kurara...\nAceptarla
-10804820	de377503	La confesión de Kurara...\nRechazarla
-10904800	c4bd945a	Chapter13_B_a-048\nDecisión: ¿Que Kurara se ponga la máscara...?
-10904810	c56fb2de	¿Que Kurara se ponga la máscara...?\nPermitirlo
-10904820	ac10af38	¿Que Kurara se ponga la máscara...?\nNegarme
+10804800	d5e0e986	Chapter13_B-048\n・Decisión: Responde a los sentimientos de Kurara
+10804810	1bd8d877	¡Responde a los sentimientos de Kurara!\nAceptar
+10804820	de377503	¡Responde a los sentimientos de Kurara!\nRechazar
+10904800	c4bd945a	Chapter13_B_a-048\n・Decisión: ¿Dejar que Kurara se ponga su máscara?
+10904810	c56fb2de	¿Dejar que Kurara se ponga su máscara?\nSí
+10904820	ac10af38	¿Dejar que Kurara se ponga su máscara?\nNo
 11004800	17fdfb8b	Chapter13_B_aa-048\n・Final 061
 11104800	6176e38e	Chapter13_B_ab-048\n・Final 062
 11204800	5621fc5c	
@@ -1218,9 +1218,9 @@ id	huella_jp	es
 11207000	e992f2d1	
 11207100	17cd071d	
 11207200	16454bf0	Chapter13_B_b-072\n・Combate
-11207300	24d97558	Chapter13_B_b-073\n・Decisión: La confesión de Kyoshika...
-11207310	5ff2bd8a	La confesión de Kyoshika...\nAceptarla
-11207320	7228bff8	La confesión de Kyoshika...\nRechazarla
+11207300	24d97558	Chapter13_B_b-073\n・Decisión: Responde a los sentimientos de Kyoshika
+11207310	5ff2bd8a	¡Responde a los sentimientos de Kyoshika!\nAceptar
+11207320	7228bff8	¡Responde a los sentimientos de Kyoshika!\nRechazar
 11307300	ae2b5822	Chapter13_B_ba-073\n・Final 063
 11407300	a0c561df	
 11407400	5b362f5b	
@@ -1245,22 +1245,22 @@ id	huella_jp	es
 11409300	929ee707	Chapter13_B_bb-093\n・Combate
 11409400	0cb49b3b	
 11409500	fe1acdb7	
-11409600	730278ec	Chapter13_B_bb-096\n・Decisión: La confesión de Tsubasa...
-11409610	0c05e1dd	La confesión de Tsubasa...\nAceptarla
-11409620	7809ece0	La confesión de Tsubasa...\nRechazarla
+11409600	730278ec	Chapter13_B_bb-096\n・Decisión: Responde a los sentimientos de Tsubasa
+11409610	0c05e1dd	¡Responde a los sentimientos de Tsubasa!\nAceptar
+11409620	7809ece0	¡Responde a los sentimientos de Tsubasa!\nRechazar
 11509600	54ae32b9	Chapter13_B_bba-096\n・Final 064
 11609600	d4ab2afa	
 11609700	512d2230	
-11609800	0777e21a	Chapter13_B_bbb-098\n・Decisión: ¿Lo que siento por Nozomi...?
-11609810	92e1da4a	Lo que siento por Nozomi...\nAdmitirlo
-11609820	562eeabc	¿Lo que siento por Nozomi...?\nNegarlo
+11609800	0777e21a	Chapter13_B_bbb-098\n・Decisión: ¿Tengo sentimientos por Nozomi?
+11609810	92e1da4a	¿Tengo sentimientos por Nozomi?\nSí
+11609820	562eeabc	¿Tengo sentimientos por Nozomi?\nNo
 11709800	87bffc82	Chapter13_B_bbba-098\n・Final 065
-11809800	182f285a	Chapter13_B_bbbb-098\n・Decisión: ¿Al final alguna de las tres...?
-11809810	38081409	¿Al final alguna de las tres...?\nAdmitirlo
-11809820	c251d1d4	¿Al final alguna de las tres...?\nNegarlo
-12009800	f118ec9a	Chapter13_B_bbbba-098\n・Decisión: Elijo a...
-12009810	662d2102	Elijo a...\nNo lo sé
-12009820	c9468be9	Elijo a...\nLas tres
+11809800	182f285a	Chapter13_B_bbbb-098\n・Decisión: ¿Siento algo por alguna de ellas después de todo?
+11809810	38081409	¿Siento algo por alguna de ellas después de todo?\nSí
+11809820	c251d1d4	¿Siento algo por alguna de ellas después de todo?\nNo
+12009800	f118ec9a	Chapter13_B_bbbba-098\n・Decisión: ¿Con quién saldrás?
+12009810	662d2102	¿Con quién saldrás?\nNo lo sé
+12009820	c9468be9	¿Con quién saldrás?\n¡Con las tres!
 12209800	59dabddd	
 12209900	97e7a990	Chapter13_B_bb3aa-099\n・Combate
 12210000	595e83aa	Chapter13_B_bb3aa-100\n・Final 068
@@ -1268,9 +1268,9 @@ id	huella_jp	es
 11909800	040b4202	Chapter13_B_bbbbb-098\n・Final 066
 12300200	ce5c560d	
 12300300	1b14e3f4	
-12300400	bf378a65	Chapter00_0_b-004\n・Decisión: ¿Dejar la Última Academia de Defensa?
-12300410	b1e06303	¿Dejar la Última Academia de Defensa?\nIrme por un tiempo
-12300420	391dc92e	¿Dejar la Última Academia de Defensa?\nQuedarme
+12300400	bf378a65	Chapter00_0_b-004\n・Decisión: ¿Abandonar la escuela?
+12300410	b1e06303	¿Abandonar la escuela?\nSí
+12300420	391dc92e	¿Abandonar la escuela?\nNo
 12400400	49125983	
 12400500	1fa0db01	
 12400600	1b7db18b	
@@ -1283,9 +1283,9 @@ id	huella_jp	es
 12401300	bf0e36c7	Chapter14_0-013\n・Tiempo libre
 12401400	1e8c9342	Chapter14_0-014\n・Tiempo libre
 12401500	8e00aa6f	Chapter14_0-015\n・Combate
-12401600	c7c9f9d9	Chapter14_0-016\n・Decisión: El enemigo que me ataca...
-12401610	b2a7299c	El enemigo que me ataca...\nPatearle las piernas
-12401620	075e1713	El enemigo que me ataca...\nEsquivar el ataque
+12401600	c7c9f9d9	Chapter14_0-016\n・Decisión: Actúa
+12401610	b2a7299c	¡Actúa!\nPatear al atacante
+12401620	075e1713	¡Actúa!\nEsquivar el ataque
 12501600	92240f2d	
 12501700	79acdf6a	
 12501800	0671a46c	Chapter14_A-018\n・Tiempo libre
@@ -1313,9 +1313,9 @@ id	huella_jp	es
 12504000	2d874650	
 12504100	f29f64c7	
 12504200	c1e78390	
-12504300	36be4eb7	Chapter14_A-043\n・Decisión: Yo...
-12504310	aa66696c	Yo...\nAtravesar la ventana
-12504320	1019017e	Yo...\nEsquivar el ataque
+12504300	36be4eb7	Chapter14_A-043\n・Decisión: Actúa
+12504310	aa66696c	¡Actúa!\nSaltar por la ventana
+12504320	1019017e	¡Actúa!\nEsquivar el ataque
 12604300	2906f016	
 12604400	97f8ec1a	
 12604500	1b7c901e	
@@ -1346,17 +1346,17 @@ id	huella_jp	es
 12607000	09b2f5f5	
 12607100	e1ac9dda	
 12607200	ec0d5f50	Chapter14_A_a-072\n・Combate
-12607300	12b05b1b	Chapter14_A_a-073\n・Decisión: Con quien voy a pasar el tiempo es...
-12607310	871fc21c	Con quien voy a pasar el tiempo es...\nNozomi Kirifuji
-12607320	13d21889	Con quien voy a pasar el tiempo es...\nHiruko Shizuhara
+12607300	12b05b1b	Chapter14_A_a-073\n・Decisión: ¿Con quién pasarás el tiempo?
+12607310	871fc21c	¿Con quién pasarás el tiempo?\nNozomi
+12607320	13d21889	¿Con quién pasarás el tiempo?\nHiruko
 12707300	b46f9934	
 12707400	bf8f6ff3	
 12707500	10a95374	
 12709800	f1174c55	
 12709900	a1863bad	Chapter14_A_aa-099\n・Combate
-12710000	01991877	Chapter14_A_aa-100\n・Decisión: Lo que debo hacer es...
-12710010	f5d0c3ea	Lo que debo hacer es...\nEnfrentar al asesino
-12710020	f9d07729	Lo que debo hacer es...\nLanzarme al Muro de Fuego
+12710000	01991877	Chapter14_A_aa-100\n・Decisión: ¿Y ahora qué?
+12710010	f5d0c3ea	¿Y ahora qué?\nPlantarle cara
+12710020	f9d07729	¿Y ahora qué?\nCorrer hacia el Muro de Fuego
 12810000	aa58896c	Chapter14_A_aaa-100\n・Final 069
 12910000	5cd758fb	Chapter14_A_aab-100\n・Final 070
 13007300	c17c7483	
@@ -1421,14 +1421,14 @@ id	huella_jp	es
 13307000	765aa1ff	
 13307100	8374b607	
 13307200	2d18bb4f	Chapter14_A_b-072\n・Combate
-13307300	7e99904a	Chapter14_A_b-073\n・Decisión: ¿Acabar con Nozomi?
-13307310	daaa8b5e	¿Acabar con Nozomi?\nNo acabar con ella
-13307320	a26e8447	¿Acabar con Nozomi?\nAcabar con ella
+13307300	7e99904a	Chapter14_A_b-073\n・Decisión: ¿Matar a Nozomi zombi?
+13307310	daaa8b5e	¿Matar a Nozomi zombi?\nNo
+13307320	a26e8447	¿Matar a Nozomi zombi?\nSí
 13407300	b9f62091	
 13409900	6095b493	
-13410000	a56aac8e	Chapter14_A_ba-100\n・Decisión: ¿Al cuello de Kurara...?
-13410010	2a666fcb	¿Al cuello de Kurara...?\nMorderlo
-13410020	1915478c	¿Al cuello de Kurara...?\nNo morderlo
+13410000	a56aac8e	Chapter14_A_ba-100\n・Decisión: ¿Morder el cuello de Kurara?
+13410010	2a666fcb	¿Morder el cuello de Kurara?\nSí
+13410020	1915478c	¿Morder el cuello de Kurara?\nNo
 13510000	4cf68c55	Chapter14_A_baa-100\n・Final 073
 13610000	bd83c937	Chapter14_A_bab-100\n・Final 074
 13707300	5d745760	
@@ -1458,9 +1458,9 @@ id	huella_jp	es
 13709700	33b740cf	
 13709800	3f18bf8e	
 13709900	95502c3f	Chapter14_A_bb-099\n・Combate
-13710000	098645b2	Chapter14_A_bb-100\n・Decisión: La decisión que debo tomar es...
-13710010	7383a470	La decisión que debo tomar es...\nSubir los dos a la cápsula
-13710020	45224b3a	La decisión que debo tomar es...\nDetener yo a los zombis
+13710000	098645b2	Chapter14_A_bb-100\n・Decisión: ¿Qué harás?
+13710010	7383a470	¿Qué harás?\nSubir a la cápsula
+13710020	45224b3a	¿Qué harás?\nQuedarme a luchar contra los zombis
 13810000	6db10736	Chapter14_A_bba-100\n・Final 075
 13910000	6d5a990a	Chapter14_A_bbb-100\n・Final 076
 14001600	539e21f7	
@@ -1494,9 +1494,9 @@ id	huella_jp	es
 14004400	3518b793	Chapter14_B-044\n・Tiempo libre
 14004500	6886b77d	Chapter14_B-045\n・Tiempo libre
 14004600	10164c9d	Chapter14_B-046\n・Tiempo libre
-14004700	00adadfc	Chapter14_B-047\n・Combate\n・Decisión: Lo que quiero comer es...
-14004710	543cd676	Lo que quiero comer es...\nCarne asada
-14004720	3d1f4ab2	Lo que quiero comer es...\nSushi
+14004700	00adadfc	Chapter14_B-047\n・Combate\n・Decisión: ¿Carne o pescado?
+14004710	543cd676	¿Carne o pescado?\nCarne
+14004720	3d1f4ab2	¿Carne o pescado?\nPescado
 14104700	83fe5f3e	
 14104800	e85407ee	Chapter14_B_a-048\n・Tiempo libre
 14104900	a0b83857	Chapter14_B_a-049\n・Tiempo libre
@@ -1513,17 +1513,17 @@ id	huella_jp	es
 14106000	643094b4	Chapter14_B_a-060\n・Tiempo libre
 14106100	5f47ff7f	Chapter14_B_a-061\n・Tiempo libre
 14106200	1c423e38	Chapter14_B_a-062\n・Tiempo libre
-14106300	5e1c98c7	Chapter14_B_a-063\n・Combate\n・Decisión: ¿Escuchar a SIREI?
-14106310	b660c9b5	¿Escuchar a SIREI?\n¡Escuchémoslo!
-14106320	879c0776	¿Escuchar a SIREI?\nNo, mejor no
+14106300	5e1c98c7	Chapter14_B_a-063\n・Tiempo libre\n・Decisión: ¿Escuchar el anuncio de SIREI?
+14106310	b660c9b5	¿Escuchar el anuncio de SIREI?\nSí
+14106320	879c0776	¿Escuchar el anuncio de SIREI?\nNo
 14206300	3998722e	
 14206400	0b0b4acd	Chapter14_B_aa-064\n・Tiempo libre
 14206500	2a26eb66	Chapter14_B_aa-065\n・Tiempo libre
 14206600	60f0f1e4	Chapter14_B_aa-066\n・Tiempo libre
 14206700	62f23157	Chapter14_B_aa-067\n・Tiempo libre
-14210000	16f74cbc	Chapter14_B_aa-100\n・Combate\n・Decisión: ¡¿Qué hago?!
-14210010	4864d852	¡¿Qué hago?!\n¡Correr como sea!
-14210020	7b2d084e	¡¿Qué hago?!\n¡Lanzar algo!
+14210000	16f74cbc	Chapter14_B_aa-100\n・Combate\n・Decisión: ¿Y ahora qué?
+14210010	4864d852	¿Y ahora qué?\n¡Correr!
+14210020	7b2d084e	¿Y ahora qué?\n¡Lanzar algo!
 14310000	f4642b38	Chapter14_B_aaa-100\n・Final 077
 14410000	1bd042b7	Chapter14_B_aab-100\n・Final 078
 14506300	65bf23fd	
@@ -1562,9 +1562,9 @@ id	huella_jp	es
 14509600	b6e33760	Chapter14_B_ab-096\n・Tiempo libre
 14509700	b73d8b64	Chapter14_B_ab-097\n・Tiempo libre
 14509800	b7a9b8f9	Chapter14_B_ab-098\n・Tiempo libre
-14509900	5833e60c	Chapter14_B_ab-099\n・Combate\n・Decisión: Al final...
-14509910	9190a809	Al final...\n¡A todo o nada!
-14509920	b6cac5b0	Al final...\nNo es momento de apurarse
+14509900	5833e60c	Chapter14_B_ab-099\n・Combate\n・Decisión: ¿Y Nozomi?
+14509910	9190a809	¿Y Nozomi?\n¡Decirle lo que siento!
+14509920	b6cac5b0	¿Y Nozomi?\nNo hay prisa.
 14610000	97df1e92	Chapter14_B_aba-100\n・Final 079
 14709900	26725cdc	Chapter14_B_abb-099\n・Final 080
 14804700	43c8fa9c	
@@ -1583,9 +1583,9 @@ id	huella_jp	es
 14806000	2547fcd4	Chapter14_B_b-060\n・Tiempo libre
 14806100	ffe88762	Chapter14_B_b-061\n・Tiempo libre
 14806200	776c5fd0	Chapter14_B_b-062\n・Tiempo libre
-14806300	07f4c7e5	Chapter14_B_b-063\n・Combate\n・Decisión: El mensaje del diablo...
-14806310	41e24007	El mensaje del diablo...\nEnviarlo
-14806320	9efdd870	El mensaje del diablo...\nNo enviarlo
+14806300	07f4c7e5	Chapter14_B_b-063\n・Combate\n・Decisión: ¿Reenviar el mensaje?
+14806310	41e24007	¿Reenviar el mensaje?\nSí
+14806320	9efdd870	¿Reenviar el mensaje?\nNo
 14906300	0abea1b4	
 14906400	927ae3ed	Chapter14_B_ba-064\n・Tiempo libre
 14906500	9c047627	
@@ -1598,9 +1598,9 @@ id	huella_jp	es
 14909600	102d50ca	Chapter14_B_ba-096\n・Tiempo libre
 14909700	47e85fe3	Chapter14_B_ba-097\n・Tiempo libre
 14909800	9fd39f94	Chapter14_B_ba-098\n・Tiempo libre
-14909900	eac61dc7	Chapter14_B_ba-099\n・Combate\n・Decisión: ¡¿Un aprieto sin salida?!
-14909910	39edd7e4	¡¿Un aprieto sin salida?!\nRendirme y replicar
-14909920	18518e65	¡¿Un aprieto sin salida?!\nSeguirles el chiste
+14909900	eac61dc7	Chapter14_B_ba-099\n・Combate\n・Decisión: ¿Cómo reaccionarás?
+14909910	39edd7e4	¿Cómo reaccionarás?\nReplicar
+14909920	18518e65	¿Cómo reaccionarás?\nHacer el payaso
 15009900	3cc9dcc9	Chapter14_B_baa-099\n・Final 081
 15109900	0e4282c1	
 15110000	37856271	Chapter14_B_bab-100\n・Final 082
@@ -1640,9 +1640,9 @@ id	huella_jp	es
 15209600	8200a97e	Chapter14_B_bb-096\n・Tiempo libre
 15209700	36613b23	Chapter14_B_bb-097\n・Tiempo libre
 15209800	e15bcb3b	Chapter14_B_bb-098\n・Tiempo libre
-15209900	165753c4	Chapter14_B_bb-099\n・Combate\n・Decisión: La verdad sobre la extraña enfermedad...
-15209910	c961898c	La verdad sobre la extraña enfermedad...\n¡Creo que ya lo sé!
-15209920	65c77a0d	La verdad sobre la extraña enfermedad...\n¡Ni idea!
+15209900	165753c4	Chapter14_B_bb-099\n・Combate\n・Decisión: ¿Has descubierto la verdad?
+15209910	c961898c	¿Has descubierto la verdad?\n¡Creo que sí!
+15209920	65c77a0d	¿Has descubierto la verdad?\n¡Ni idea!
 15310000	e7abe810	Chapter14_B_bba-100\n・Final 083
 15410000	e204597a	Chapter14_B_bbb-100\n・Final 084
 15500400	d9e068e1	
@@ -1652,20 +1652,20 @@ id	huella_jp	es
 15500800	57ae7166	Chapter15_0-008\n・Combate
 15502100	a9b28378	Chapter15_0-021\n・Combate
 15502400	9352bdd4	
-15502500	af13cc73	Chapter15_0-025\n・Decisión: ¿La Caza de Invasores...?
-15502510	6c8a844f	¿La Caza de Invasores...?\nParticipar
-15502520	546869f4	¿La Caza de Invasores...?\nNo participar
+15502500	af13cc73	Chapter15_0-025\n・Decisión: ¿Unirte a la Caza de Invasores?
+15502510	6c8a844f	¿Unirte a la Caza de Invasores?\nSí
+15502520	546869f4	¿Unirte a la Caza de Invasores?\nNo
 15602500	ebd4708c	
 15602600	1dede3d4	Chapter15_A-026\n・Combate\n・Decisión: ¿Formar equipo con Yugamu?
-15602610	42184fc4	¿Formar equipo con Yugamu?\nFormar equipo
-15602620	762138ab	¿Formar equipo con Yugamu?\nNo formar equipo
+15602610	42184fc4	¿Formar equipo con Yugamu?\nSí
+15602620	762138ab	¿Formar equipo con Yugamu?\nNo
 15702600	be563c1d	
 15702700	78889c34	Chapter15_A_a-027\n・Combate
 15702800	cf8d37c9	
 15702900	233cd94a	
-15703000	7428c2ea	Chapter15_A_a-030\n・Decisión: ¿Ayudar a Darumi?
-15703010	dd482e84	¿Ayudar a Darumi?\nAyudarla
-15703020	c71187da	¿Ayudar a Darumi?\nNo ayudarla
+15703000	7428c2ea	Chapter15_A_a-030\n・Decisión: ¿Salvar a Darumi?
+15703010	dd482e84	¿Salvar a Darumi?\nSí
+15703020	c71187da	¿Salvar a Darumi?\nNo
 15803000	c017d5c8	Chapter15_A_aa-030\n・Combate
 15803100	4d86806c	
 15803200	b02904b3	
@@ -1684,8 +1684,8 @@ id	huella_jp	es
 15804500	9e4d8f6a	
 15804600	295cea55	
 15804700	98d7a4f5	Chapter15_A_aa-047\n・Combate\n・Decisión: ¿Dejar atrás a Moko?
-15804710	e0abea62	¿Dejar atrás a Moko?\nDejarla
-15804720	40bff20b	¿Dejar atrás a Moko?\nNo dejarla
+15804710	e0abea62	¿Dejar atrás a Moko?\nSí
+15804720	40bff20b	¿Dejar atrás a Moko?\nNo
 15904700	fff26488	Chapter15_A_aaa-047\n・Combate
 15904800	350e583f	
 15904900	ef049e0d	
@@ -1696,8 +1696,8 @@ id	huella_jp	es
 15905400	8383f209	Chapter15_A_aaa-054\n・Combate
 15905500	239a4c6e	
 15905600	46f144b4	Chapter15_A_aaa-056\n・Combate\n・Decisión: ¿Matar a Eva?
-15905610	6ae3aa91	¿Matar a Eva?\nMatarla
-15905620	760fe108	¿Matar a Eva?\nNo matarla
+15905610	6ae3aa91	¿Matar a Eva?\nSí
+15905620	760fe108	¿Matar a Eva?\nNo
 16005600	683c5f85	
 16005700	aa381781	Chapter15_A_aaaa-057\n・Combate
 16005800	0881c747	
@@ -1719,8 +1719,8 @@ id	huella_jp	es
 16007400	c25405f0	Chapter15_A_aaaa-074\n・Combate
 16007500	ce1c5043	Chapter15_A_aaaa-075\n・Combate
 16007600	71f04bf5	Chapter15_A_aaaa-076\n・Decisión: ¿Preguntar dónde están los invasores?
-16007610	9e42c92b	¿Preguntar dónde están los invasores?\nPreguntar
-16007620	5cccecd7	¿Preguntar dónde están los invasores?\nNo preguntar
+16007610	9e42c92b	¿Preguntar dónde están los invasores?\nSí
+16007620	5cccecd7	¿Preguntar dónde están los invasores?\nNo
 16107600	f5d95e9d	
 16107700	e4c2ed8f	
 16107800	d90703b3	
@@ -1728,9 +1728,9 @@ id	huella_jp	es
 16108000	ddf35a2f	
 16108100	a4a8a19b	
 16108200	5fc1c5ff	
-16108300	40f3e31c	Chapter15_A_aaaaa-083\nDecisión: Lucharé contra...
-16108310	7099050a	Lucharé contra...\nDahl'xia
-16108320	69e9e0e5	Lucharé contra...\nEl patrocinador
+16108300	40f3e31c	Chapter15_A_aaaaa-083\n・Decisión: ¿Contra quién lucharás primero?
+16108310	7099050a	¿Contra quién lucharás primero?\nDahl'xia
+16108320	69e9e0e5	¿Contra quién lucharás primero?\nEl patrocinador
 16208300	9d52e4e1	
 16208400	84d80bfd	
 16208500	45b3be08	
@@ -1745,9 +1745,9 @@ id	huella_jp	es
 16308900	176d2dd1	Chapter15_A_aa4b-089\n・Tiempo libre
 16309000	c655271f	Chapter15_A_aa4b-090\n・Tiempo libre
 16309100	55b6a85d	Chapter15_A_aa4b-091\n・Tiempo libre
-16309200	06f4c041	Chapter15_A_aa4b-092\nDecisión: ¿Matar al bebé?
-16309210	86c3a62c	¿Matar al bebé?\nMatarlo
-16309220	8556d0ff	¿Matar al bebé?\nNo matarlo
+16309200	06f4c041	Chapter15_A_aa4b-092\n・Decisión: ¿Matar al bebé?
+16309210	86c3a62c	¿Matar al bebé?\nSí
+16309220	8556d0ff	¿Matar al bebé?\nNo
 16409200	facdc702	
 16409300	6538b41f	Chapter15_A_aa4ba-093\n・Final 086
 16509200	2565091a	
@@ -1771,38 +1771,38 @@ id	huella_jp	es
 17102700	70f7eef9	
 17103900	9173797c	
 17104000	bb95ed4a	Chapter15_B-040\n・Combate
-17105000	125897b8	Chapter15_B-050\n・Decisión: La persona que mató a Kako e hirió a Shouma es
-17105010	b46da526	La persona que mató a Kako e hirió a Shouma es\nRespuesta incorrecta
-17105020	2be9ca12	La persona que mató a Kako e hirió a Shouma es\nRespuesta correcta
+17105000	125897b8	Chapter15_B-050\n・Decisión: ¿Quién mató a Kako y apuñaló a Shouma?
+17105010	b46da526	¿Quién mató a Kako y apuñaló a Shouma?\nRespuesta incorrecta
+17105020	2be9ca12	¿Quién mató a Kako y apuñaló a Shouma?\nRespuesta correcta
 17205000	bbfb9f83	
 17209900	2d86d653	Chapter15_B_a-099\n・Final 093
 17305000	fbac320d	
 17305100	3a70bda7	
-17307500	70dcfdf4	Chapter15_B_b-075\n・Decisión: El culpable de la muerte de Shouma es...
-17307510	295f9ce8	El culpable de la muerte de Shouma es...\nRespuesta incorrecta
+17307500	70dcfdf4	Chapter15_B_b-075\n・Decisión: ¿Quién mató a Shouma?
+17307510	295f9ce8	¿Quién mató a Shouma?\nRespuesta incorrecta
 17307520	15269585	¿Quién mató a Shouma?\nRespuesta incorrecta (Takumi)
-17307530	c5e3e7c0	El culpable de la muerte de Shouma es...\nRespuesta correcta
+17307530	c5e3e7c0	¿Quién mató a Shouma?\nRespuesta correcta
 17407500	f632644a	
-17410000	4fe98005	Chapter15_B_ba-100\n・Decisión: El culpable de la muerte de todos es...
-17410010	8586f5a9	El culpable de la muerte de todos es...\nMoko Mojiro
-17410020	ff053c97	El culpable de la muerte de todos es...\nNozomi Kirifuji
-17410030	5ba841c4	El culpable de la muerte de todos es...\nTakumi Sumino
+17410000	4fe98005	Chapter15_B_ba-100\n・Decisión: ¿Quién mató a todos?
+17410010	8586f5a9	¿Quién mató a todos?\nMoko
+17410020	ff053c97	¿Quién mató a todos?\nNozomi
+17410030	5ba841c4	¿Quién mató a todos?\nTakumi
 17610000	f2584461	Chapter15_B_baa-100\n・Final 094
 17710000	50b43cf7	Chapter15_B_bab-100\n・Final 095
 17810000	8c79fed7	Chapter15_B_bac-100\n・Final 096
 17507500	507d75e2	Chapter15_B_bb-075\n・Final 097
-17907500	82eec035	Chapter15_B_bc-075\n・Decisión: A Eva...
-17907510	be117ab6	A Eva...\nHacerla callar
-17907520	c37046a3	A Eva...\nDejarla hablar
+17907500	82eec035	Chapter15_B_bc-075\n・Decisión: ¿Hacer callar a Eva?
+17907510	be117ab6	¿Hacer callar a Eva?\nSí
+17907520	c37046a3	¿Hacer callar a Eva?\nNo
 18007500	76d928e1	Chapter15_B_bca-075\n・Final 098
 18107500	181a71ce	
 18108000	208e6844	
 18108100	2088aa40	
 18108200	a0520164	
 18108300	64a1bac7	
-18108400	433a25da	Chapter15_B_bcb-084\n・Decisión: La verdadera identidad de X es...
-18108410	1a0cc2db	¿Quién es X en realidad?\nRespuesta incorrecta
-18108420	ece1a9cb	¿Quién es X en realidad?\nRespuesta correcta
+18108400	433a25da	Chapter15_B_bcb-084\n・Decisión: ¿Quién es X?
+18108410	1a0cc2db	¿Quién es X?\nRespuesta incorrecta
+18108420	ece1a9cb	¿Quién es X?\nRespuesta correcta
 18208400	ce3fb218	Chapter15_B_bcba-084\n・Final 099
 18308400	82de2782	
 18309700	25de7199	
