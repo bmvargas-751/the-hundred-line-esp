@@ -18,13 +18,13 @@ id	huella_jp	es
 10017	3b940f84	Bikini diminuto
 10018	bcb07953	Traje de baño diminuto
 10019	d720ac11	Álbum de fotos
-10020	fa82a7f6	Lentes de sol negrísimos
+10020	fa82a7f6	Lentes oscuros
 10021	37de004e	Tatuaje temporal
 10022	919aca5a	Radiotelescopio
 10023	a03fde29	Objetos rituales
 10024	afa7f7e7	Cámara digital
 10025	d243cf3d	Aparato de análisis
-10026	8562740b	Figura de vinilo de gato tricolor
+10026	8562740b	Figura de gato tricolor
 10027	0c67c8a2	Globos de goma resistentes
 10028	21529bab	Cañones de confeti
 10029	80a1e073	Réplica de armadura de clase
@@ -43,9 +43,9 @@ id	huella_jp	es
 10045	e2dfd670	Videocámara
 20201	ca628d93	Casco de tigre
 20202	dbd30ed7	Sukajan de dragón
-20203	958fc546	Guantes de moto
+20203	958fc546	Guantes de conducir
 20204	bedfb189	Libro de fotos de gatos
-20205	ffa1256c	Flan rebelde
+20205	ffa1256c	Pudín rebelde
 20206	4ba80313	Lentes de sol con agallas
 20207	319e959c	Calzones de leopardo
 20301	176987c8	Vino
@@ -63,7 +63,7 @@ id	huella_jp	es
 20406	9461ba4a	Golosinas
 20407	b6a56903	Soga para ahorcarse
 20501	7656e0b9	Historia de la humanidad
-20502	4772e811	Libro elegido por libreros
+20502	4772e811	Novela de cinco estrellas
 20503	7355884d	Lector electrónico
 20504	e73d7ffd	Separador de libros
 20505	8adaea35	Forro para libros
@@ -82,15 +82,15 @@ id	huella_jp	es
 20704	24825043	Revista de modelos sexis
 20705	a6544c5b	
 20706	0840f084	Gran colección de canciones folk
-20707	37e0a4f7	Calcomanía de promoción del pan
+20707	37e0a4f7	Calcomanía de campaña promocional
 20708	a3a02e60	Palito ganador de helado
 20801	07f5ad50	Figura acrílica de Kako
-20802	8f4185ae	Caja de regalo para mi queridísima hermana
+20802	8f4185ae	Caja de regalo para la querida hermana
 20803	72128895	Condimento destructivo
-20804	d0811968	Comida popular
+20804	d0811968	Banquete de segunda categoría
 20805	f68f1d56	Ramen instantáneo de edición limitada
 20806	e4915157	Peine
-20807	546907b4	Vales de arroz
+20807	546907b4	Cupones de comida
 20901	3fe8bc22	Artículos de detective
 20902	6735f026	Colección de novelas de misterio
 20903	5472487e	Manjares exóticos
@@ -118,9 +118,9 @@ id	huella_jp	es
 21205	0e674342	Juguetes sencillos
 21206	cdd55fbd	Limusina
 21301	d7b52f5d	Dulces de anko
-21302	2d643d39	Lo mejor de las revistas shonen
+21302	2d643d39	Grandes del manga shonen
 21303	eb9c0672	Masajeador
-21304	4819d417	Polvo para espadas
+21304	4819d417	Polvo abrasivo
 21305	7afafdee	Espada de filo invertido
 21306	8714b7e6	Llavero de dragón
 21401	14122c08	Bisturí
@@ -132,12 +132,12 @@ id	huella_jp	es
 21501	db62f4bc	Silla plegable
 21502	c0871ea9	Revista semanal de lucha libre
 21503	fb043c73	Rodillo facial
-21504	89700cf0	Kit de maquillaje
-21505	3daaff39	Poder femenino
+21504	89700cf0	Brochas de maquillaje
+21505	3daaff39	
 21506	9974e63c	
 21507	a286e895	Cinturón de campeón
 21601	f0d1f939	Planta de interior
-21602	5bac48eb	Corona de flores
+21602	5bac48eb	Flor ornamental
 21603	1fa140f4	Campanilla de viento
 21604	a27462da	Suéter feo
 21605	57329379	Muñeco de mascota
@@ -147,6 +147,6 @@ id	huella_jp	es
 21703	75a0e47a	Consola de última generación
 21704	514bc5a1	Tapa de botella de leche
 21705	beff504a	Cubo de Rubik
-21706	10c5f336	Diario
+21706	10c5f336	Diario sencillo
 21707	6b13fe84	Cuadro de paisaje
 21708	d185df80	Concha bonita

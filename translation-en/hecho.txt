@@ -2572,6 +2572,10 @@ text/field_item_name
 text/field_map_name
 text/field_object_name
 text/field_player_profile
+text/field_present_explanation
+text/field_present_keyword_name
+text/field_present_name
+text/field_route_name
 text/help_tutorial_name
 text/help_tutorial_text
 text/input_name
@@ -2580,7 +2584,9 @@ text/option_dialog_name
 text/option_setting_help_name
 text/option_setting_name
 text/passive_skill_explanation
+text/passive_skill_explanation_bug
 text/passive_skill_name
+text/passive_skill_name_bug
 text/shop_build_upgrade_name
 text/shop_build_upgrade_text
 text/shop_drug_upgrade_name
@@ -2590,7 +2596,9 @@ text/shop_skill_upgrade_text
 text/shop_trap_upgrade_name
 text/shop_trap_upgrade_text
 text/skill_explanation
+text/skill_explanation_bug
 text/skill_name
+text/skill_name_bug
 text/system_message
 text/ui_archive_explanation
 text/ui_archive_name
