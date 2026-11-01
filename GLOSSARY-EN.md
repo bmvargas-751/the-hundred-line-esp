@@ -6,6 +6,8 @@ salvo lo que dice este archivo. Meta: que el subtítulo diga lo mismo que la voz
 ## Base
 
 - **La base es el inglés.** Cada línea se traduce desde el inglés oficial, frase por frase, con el mismo sentido y el mismo largo aproximado que la voz.
+- **Que se entienda.** Base en el inglés no es calco del inglés: la frase tiene que leerse natural en español, con el mismo sentido y un largo parecido a la voz. Si el inglés tiene un giro que en español no se entiende (*play into their hands*, *every chance*, *where you're coming from*), se busca el giro equivalente; no se traduce palabra por palabra ni se reescribe tan libre que se aleje de la voz.
+- **La voz del personaje no se rompe.** Cada personaje suena como suena en el juego (tuteo o *usted*, jerga, tics, cortes, registro, grosería, cómo habla de sí mismo). Una frase que se entiende pero suena a otro personaje está mal: se corrige igual. Antes de proponer o aplicar un texto, comprobar que lo diría ese personaje (*STYLE.md*, apartado de personajes, y las líneas vecinas).
 - El japonés solo ayuda a resolver lo que el inglés deja ambiguo: género, sujeto omitido, trato (tú/usted), registro.
   Si el inglés agrega, quita o cambia algo, se sigue el inglés (la voz lo dice así).
 - La traducción japonesa del repo (`ES(jp)` en el export) es un punto de partida: si ya dice lo mismo que el inglés, se deja igual.
@@ -34,5 +36,7 @@ Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre del
 
 ## Tratamientos propios de la versión inglesa
 
-- Darumi a Hiruko: *Mistress* → **Ama Hiruko** (en la versión japonesa es *Reina Hiruko*).
+- Darumi a Hiruko: *Mistress* → **la Ama Hiruko** (con artículo femenino; sin artículo solo al llamarla: *No me dejes, Ama Hiruko*). En la versión japonesa es *Reina Hiruko*.
 - Darumi habla de sí misma en primera persona (el inglés dice *I*), no en tercera.
+- Ima es un chico: habla de sí mismo en masculino (*estoy seguro*, nunca *segura*). A Kako sí le dice *buena chica* (es su hermana).
+- Cuando el destinatario es un grupo, el pronombre concuerda: *se los ruego*, *se los garantizo*, *se los dejo a ustedes* (así se dice en Chile y en buena parte de América). *Se lo* queda para uno solo o cuando "se" es otra persona (*se lo conté a todos*).
