@@ -6207,6 +6207,11 @@ message/s13_b_lovelove_00_d025_m010_010
 message/s13_b_lovelove_00_d025_m020_010
 message/s13_b_lovelove_00_d025_m030_010
 message/s13_b_lovelove_00_d026_m010_010
+message/s13_b_lovelove_00_d027_m010_010
+message/s13_b_lovelove_00_d028_m010_010
+message/s13_b_lovelove_00_d029_m010_010
+message/s13_b_lovelove_00_d030_m010_010
+message/s13_b_lovelove_00_d030_m020_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
