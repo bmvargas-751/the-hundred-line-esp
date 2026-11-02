@@ -1,40 +1,40 @@
 id	huella_jp	es
 10	e15291ef	Día 37
-20	b4c10a3f	{fc(57e4f1)...\n...}
-30	b4c10a3f	{fc(57e4f1)...\n...}
-50	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-60	7ab1d397	No se sabe cuándo van a atacar los invasores, así que descansen bien mientras puedan...
-70	b588a67e	Bueno... buenas noches...
-80	190d600c	Haah... casi dos días corriendo y Eito sin aparecer...\n¿O sea que al menos no es el peor resultado?
-90	5e511617	{fc(57e4f1)Ya sabemos que Aotsuki\nno está ni en la academia ni cerca.}
-100	52b8cb24	{fc(57e4f1)No sé dónde está,\npero seguro que no nos está apuntando.}
-110	0c28b216	A dormir.
-120	b77cbc95	{fc(57e4f1)Pero ¿qué estará pasando?}
-130	42f36e69	{fc(57e4f1)¿Adónde huyó Eito?\n¿Qué busca?}
-140	c7453d2a	{fc(57e4f1)¿Quién lo liberó para empezar?\n¿Por qué lo liberó?}
-150	91417f90	{fc(57e4f1)¿Tendrá relación con la muerte de Yugamu?}
-160	cd85d635	{fc(57e4f1)Y... ¿qué es ese fantasma?}
-170	c901d116	...No puedo dormir.
-180	4b1215f5	{fc(57e4f1)No sé nada...}
-190	9cf1f497	{fc(57e4f1)¿Existe el fantasma, para empezar?\n¿Estoy maldito?}
+20	b4c10a3f	
+30	b4c10a3f	
+50	fcd5bdde	*bostezo* Descansen, soldados. Es hora de irse a dormir.
+60	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
+70	b588a67e	Bueno, buenas noches...
+80	190d600c	Hemos corrido durante la mayor parte de dos días, y ni rastro de Eito... Supongo que lo prefiero a que aparezca y cause problemas.
+90	5e511617	{fc(57e4f1)Es seguro decir que ya no está dentro de la escuela, ni tampoco escondido justo fuera de los terrenos.}
+100	52b8cb24	{fc(57e4f1)Dondequiera que esté, no parece interesado en venir tras nosotros pronto.}
+110	0c28b216	Quizás debería descansar un poco...
+120	b77cbc95	{fc(57e4f1)Todavía no puedo evitar preguntarme por qué pasa todo esto.}
+130	42f36e69	{fc(57e4f1)¿Adónde escapó Eito? ¿Qué planea?}
+140	c7453d2a	{fc(57e4f1)¿Quién lo dejó salir en primer lugar? ¿Y por qué?}
+150	91417f90	{fc(57e4f1)¿Está todo conectado con el asesinato de Yugamu, o había alguien más detrás de eso?}
+160	cd85d635	{fc(57e4f1)Y... ¿Qué pasa con el fantasma?}
+170	c901d116	No sirve. No puedo dormir.
+180	4b1215f5	{fc(57e4f1)Estoy tan confundido...}
+190	9cf1f497	{fc(57e4f1)¿De verdad podría haber un fantasma? ¿De verdad nos han maldecido?}
 200	f4a72a8b	
-210	075e4f7e	...Oye, ¿estás ahí?
-220	d49cc111	¿Me estás mirando ahora también?
+210	075e4f7e	Oye, ¿estás ahí?
+220	d49cc111	Estás aquí vigilándome, ¿verdad?
 230	3c819df5	
 240	1d5ac593	¿Quién eres?
-250	1bfa557e	¿Por qué me persigues?\n¿Qué quieres hacer?
-260	cc54b164	¿De verdad eres un fantasma?\n¿De verdad existes ahí?
+250	1bfa557e	¿Por qué me acechas? ¿Qué quieres?
+260	cc54b164	¿De verdad eres un fantasma? ¿Siquiera existes?
 270	3c819df5	
-280	e1290a7e	¿Eres... Eva?
+280	e1290a7e	¿Eres...Eva?
 290	3c819df5	
-300	24421f50	{fc(B1221A)—ven...}
-310	12d87b47	¡¡...!!
-320	2fe981ad	¡¿Q-Qué pasa?!
-330	24421f50	{fc(B1221A)—ven...}
-340	1903d6c1	¡¿Qué dices?!
-350	772c67f2	¡Oye, si tienes algo que decir, dilo claro!
-360	24421f50	{fc(B1221A)—ven...}
-370	04ee6c50	{fc(B1221A)—sígueme... ven...}
-380	12d87b47	¡¡...!!
-390	292447c0	¿Desapareció?
-400	8aa7b7c3	No... afuera.
+300	24421f50	
+310	12d87b47	¡¿...?!
+320	2fe981ad	¡¿Qué?!
+330	24421f50	
+340	1903d6c1	¿Qué intentas decirme?
+350	772c67f2	¡Si tienes algo que decir, dilo de una vez!
+360	24421f50	{fc(B1221A)—gue...}
+370	04ee6c50	{fc(B1221A)Sígueme...}
+380	12d87b47	¡¿...?!
+390	292447c0	¿Se fue...?
+400	8aa7b7c3	No, no se fue... Solo salió.
