@@ -1,91 +1,91 @@
 id	huella_jp	es
-10	7665db1f	{fc(57e4f1)Gracias a Darumi, mi ánimo subió un poco,\ny ese día también entramos por la entrada de los pasadizos...}
-20	b66eb92b	{fc(57e4f1)y seguimos avanzando por el laberinto subterráneo.\nY entonces...}
-30	dd5ee1c6	¿Dónde... estamos...?
-40	5c842eb7	...No sé. ¿No hemos pasado varias veces por caminos parecidos?
-50	aafa25fc	No, ¿no es la primera vez que pasamos por aquí?\n¡Siento que sí...!
-60	4c07568d	¡Ah, Takumi! ¡Mira allá!\n¡Mira, eso!
-70	cf43f7eb	{fc(57e4f1)Al mirar hacia donde Darumi señalaba...}
-80	1ef926fc	¡E-Eso es...!
-90	334ef2da	¡Es igual al del documento!\n¡Es ese santuario!
-100	313cc66a	S-Sí... eso parece...
-110	cfa34f32	¡Yupi, lo encontramos!\n¡Estoy emocionadísima!
-120	b37c9d7d	Pero al encontrarlo, es sorprendentemente normal...¡de tan fácil me deprimo...!
-130	e189f1ec	...¿Cuál de las dos?
-140	056763a1	¡Al menos quería efectos más tenebrosos!
-150	ad6c3389	Pero si ese es de verdad el santuario del documento,\ndentro de la bolsa de ahí debería estar sellado Nomokeba.
-160	5f6a00a3	¿Qué hacemos? Se había dicho que mejor no abrirla\nhasta saber qué es Nomokeba...
+10	7665db1f	{fc(57e4f1)Gracias a Darumi, me sentía un poco mejor cuando llegamos a la entrada del subsuelo.}
+20	b66eb92b	{fc(57e4f1)Entramos y empezamos a explorar el laberinto de túneles. Finalmente...}
+30	dd5ee1c6	¿Dónde estamos ahora...?
+40	5c842eb7	No estoy seguro... Siento que hemos pasado muchas veces por túneles como estos, aunque.
+50	aafa25fc	No, creo que esto es un lugar nuevo. Algo es distinto...
+60	4c07568d	¡Ooh, Takumi, mira! ¡Mira, allá!
+70	cf43f7eb	{fc(57e4f1)Miré hacia donde Darumi señalaba frenética.}
+80	1ef926fc	Ese es...
+90	334ef2da	¡Es el santuario del que hablaba el libro! ¡Tiene que ser ese, ¿verdad?!
+100	313cc66a	Sí, parece que sí...
+110	cfa34f32	¡Yujuuu! ¡Lo encontramos! ¡A emocionarse!
+120	b37c9d7d	Ahora que estamos aquí, parece medio... normal. Es una decepción, la verdad.
+130	e189f1ec	Qué cambios de humor...
+140	056763a1	¡Esperaba más humo raro y gritos sobrecogedores y espeluznancia en general!
+150	ad6c3389	Si ESTE es el santuario del libro, significa que la bolsa con Retsnom está adentro.
+160	5f6a00a3	¿Qué quieres hacer? Sé que dijimos que no la abriríamos hasta saber más, pero...
 170	f4a72a8b	
-180	6ffec08b	No, abrámosla. ¡Es mejor no tardar más!
-190	cbb51dbc	Además, la sospecha de todos hacia mí... cada vez crece más.
-200	c4c23730	Sí. Si Takumi quiere, a Darumi le parece bien.
-210	85d56812	...Bien, comprobémoslo. ¡Si Nomokeba está allí dentro...!
-220	2b013153	Con que esté Nomokeba... con eso...
-230	2fa39496	Nomokeba no está allí.
-240	914e5b8d	¡¡...!!
-250	b255bc69	Dije que Nomokeba no está allí.
-260	d886fcec	{fc(57e4f1)Sin darnos cuenta, había allí un anciano.}
-270	7691e8b1	¡Guau! ¡Un viejo en un pasadizo, qué miedo!
-280	6552bc2f	¿Y si ahora nos mete en un templo,\ny nos dice que no salgamos en toda la noche?
-290	cea6907a	¡¿Q-Quién eres?!\n¡¿Por qué estás en un lugar así?!
-300	a74bb90f	¡¿No será un invasor?!\n¿O un humano que quedó atrás?
-310	0e4c199c	Eso no importa...Hace mucho que olvidé quién soy.
-320	5ded5b1b	Más importante: ustedes\nvenían buscando a Nomokeba, ¿verdad?
-330	b54ffddc	¿T-Tú sabes de Nomokeba?
-340	5275ef17	Y eso de que no está aquí, ¿qué significa?
-350	fbce9a3b	Antes estaba escondido ahí.\nPero yo lo escondí en otro lugar todavía.
-360	74b0befe	Porque eran demasiados los que buscaban a Nomokeba.
-370	01deb7da	¡Entonces dinos dónde!
-380	3dc6b5c2	...¿Por qué buscan a Nomokeba?
-390	8c87a25c	¿Eh? ¿Empieza un interrogatorio? Qué fastidio...
-400	18842893	Respondan. ¿Por qué buscan a Nomokeba?
-410	8eca73a9	Qué lata, mejor a la fuerza. Takumi, dale unos golpes a ese viejo.
+180	6ffec08b	Arriesguémonos. No podemos permitirnos perder más tiempo.
+190	cbb51dbc	Los demás confían cada día menos en mí.
+200	c4c23730	Está bien. Si esa es tu decisión, yo también estoy de acuerdo.
+210	85d56812	Primero, averigüemos si Retsnom de verdad está aquí.
+220	2b013153	Cuando tengamos a Retsnom, podremos arreglarlo todo...
+230	2fa39496	No encontrarán a Retsnom ahí dentro.
+240	914e5b8d	¡¿...?!
+250	b255bc69	Repito, no encontrarán a Retsnom ahí dentro.
+260	d886fcec	{fc(57e4f1)No tenía idea de dónde había salido ni cómo no lo había notado, pero de pronto un anciano estaba con nosotros.}
+270	7691e8b1	¡Iiih! ¡Un anciano misterioso que vive bajo tierra!
+280	6552bc2f	¿Esta es la parte en que nos encierras en tu despensa y dices que no podemos irnos hasta que nos unamos a ti "para la cena"?
+290	cea6907a	¿Q-Quién es usted? ¡¿Qué hace aquí?!
+300	a74bb90f	¡¿Es un invasor?! ¿O... es humano? ¡¿Sobrevivió de algún modo?!
+310	0e4c199c	Esos detalles no importan. Apenas recuerdo ya quién o qué soy...
+320	5ded5b1b	Más importante, ustedes dos han venido aquí buscando a Retsnom, ¿correcto?
+330	b54ffddc	¿Usted sabe de Retsnom...?
+340	5275ef17	Espere, ¿qué quiere decir con que no está aquí?
+350	fbce9a3b	Estuvo aquí, alguna vez. Pero tuve que moverlo y esconderlo en otro lugar.
+360	74b0befe	Eran demasiados los que buscaban su poder en aquel entonces...
+370	01deb7da	¡Entonces díganos dónde está ahora!
+380	3dc6b5c2	...¿Por qué quieren a Retsnom ustedes dos?
+390	8c87a25c	Ay, no me digas que ahora tenemos que resolver acertijos o algo así. Qué lata...
+400	18842893	Respóndanme. ¿Por qué lo buscan?
+410	8eca73a9	Está bien, se lo sacaremos a la fuerza. ¡Golpéalo, Takumi!
 420	f4a72a8b	
-430	66a509f3	...Lo... maté...
-440	fc468e64	¿Takumi?
-450	95c50ebc	Yo... los maté...
-460	5ad24e20	Había una opción de salvarlos...¡y los dejé morir!
-470	3107630a	Por eso... si hay posibilidad de salvarlos,\ntengo que hacer todo lo posible...
-480	b346adc1	Si encontrando a Nomokeba todos resucitan,\n¡lo que sea con tal de encontrarlo!
-490	89e56ba2	¡Yo... tengo que hacerlo!
-500	47446e9c	...Estás dentro del ciclo de la maldición.
-510	265c32f6	...¿Ciclo de la maldición?
-520	a67dd4a4	Ahora, en este momento, apareció lo que buscabas...\n¿será el azar de los encuentros?
-530	228bfe75	...Bien. Les contaré sobre Nomokeba.\nPero no ahora mismo.
-540	d058fb8f	¡¿Por qué?! ¡No te hagas el importante, viejo!
-550	075f8344	¿Por qué creen que Nomokeba está sellado?
-560	43363152	Un ser con el poder de revivir a la gente...¿por qué sellarían algo tan maravilloso?
-570	24955e8d	E-Eso es... ¿porque todos lo querían y se lo disputaban?
-580	22e3c39a	Eso también influye. Pero la respuesta es más simple.
-590	095f39e5	Nomokeba es peligroso.
-600	0a3cc9b7	¿Peligroso...?\n¿Es un ser violento...?
-610	ba787d77	No solo violento... es un ser que trasciende la sabiduría humana,\ntanto que hay que sellarlo.
-620	bb5b2d7c	Aunque se rompa el sello de Nomokeba,\nsi no se lo puede controlar...
-630	1bfccb8a	el desastre que ocurra no será comparable a una guerra.
-640	15ead41e	No entiendo qué dices...¿Al final nos lo dirás o no?
-650	0992afa5	No se apuren por la conclusión...
-660	52495ff5	En resumen, basta con que ustedes demuestren\nser lo bastante fuertes para controlar a Nomokeba.
-670	a3b7f9cf	A ver... pronto en esta guerra aparecerá\nun Paragon del Odio.
-680	6524da69	¿Un Paragon... del Odio...?
-690	a6853445	Sí, un joven llamado Addamaque.
-700	cfed0152	Si tienen un poder superior al suyo...\nbueno, algo se hará con Nomokeba.
-710	4edaef1d	Cuando lo derroten, vuelvan.
-720	a2ba8955	...¿Cómo sabes eso?
+430	66a509f3	...maté a...
+440	fc468e64	¿Takumi...?
+450	95c50ebc	Yo... los maté.
+460	5ad24e20	Mis amigos... Tuve la oportunidad de salvarlos, pero elegí dejarlos morir.
+470	3107630a	Así que... si hay una posibilidad de enmendarlo, haré lo que sea para lograrlo.
+480	b346adc1	¡Si encontramos a Retsnom, podemos traerlos de vuelta. ¡Por eso tenemos que encontrarlo!
+490	89e56ba2	¡Tengo que hacerlo... Jamás me lo perdonaré si no!
+500	47446e9c	Ah... Usted está dentro del ciclo maldito.
+510	265c32f6	¿El ciclo... maldito?
+520	a67dd4a4	Que aparezcan aquí y ahora, así... Quizás sea el destino.
+530	228bfe75	Muy bien, les diré dónde está Retsnom. Pero no ahora.
+540	d058fb8f	¡Oh, vamos! ¡Deja de ponértelo tan difícil!
+550	075f8344	¿Por qué creen que hubo que sellar a Retsnom en primer lugar?
+560	43363152	Una criatura con la capacidad de resucitar a los muertos es algo maravilloso. Entonces, ¿por qué encerrarla?
+570	24955e8d	Supongo que... ¿Porque de lo contrario la gente pelearía por quién la usa?
+580	22e3c39a	Eso es bastante cierto. Pero la verdadera respuesta es mucho más simple.
+590	095f39e5	Retsnom es peligroso.
+600	0a3cc9b7	¿Peligroso? ¿Es algún tipo de bestia salvaje...?
+610	ba787d77	No solo salvaje... sino impredecible. Estaba tan lejos de la comprensión humana que sellarlo fue cuestión de supervivencia.
+620	bb5b2d7c	Si el sello alguna vez se rompe y Retsnom pierde el control...
+630	1bfccb8a	Bueno, digamos que esta guerra no es nada comparada con la carnicería que desataría.
+640	15ead41e	Entonces... me distraje los últimos minutos. ¿Nos va a decir dónde está o no?
+650	0992afa5	No nos apresuremos.
+660	52495ff5	Primero necesito saber si son lo bastante fuertes como para mantener a Retsnom bajo control.
+670	a3b7f9cf	Creo que... El Paragon del Odio aparecerá pronto ante ustedes.
+680	6524da69	¿El Paragon del Odio...?
+690	a6853445	Sí. Un joven llamado Addamaque.
+700	cfed0152	Si pueden vencerlo, no deberían tener demasiados problemas con Retsnom.
+710	4edaef1d	Vuelvan aquí después de su batalla con Addamaque.
+720	a2ba8955	¿Cómo sabe todo esto...?
 730	f4a72a8b	
-740	c4845286	¿No piensas responder? Bueno, da igual...
-750	0757c0a9	En todo caso, si lo derrotamos,\n¿nos entregarás a Nomokeba?
-760	e606f99f	La manera de romper el sello, todo lo que se sabe de Nomokeba,\ntodo se los entregaré...
-770	7a132097	...Entendido. Por hoy volvemos.
-780	2b70f620	¿Está bien? Para Darumi no sería problema\narrancar con la parte de tortura gore...
-790	206f5d9e	No, el conocimiento de este hombre\nlo quiero obtener sin falta.
-800	4cdb089c	Si lo va a decir por voluntad propia,\nmejor aún, ¿no?
+740	c4845286	¿No nos lo dirá? Eso depende de usted, supongo...
+750	0757c0a9	Pero ¿de verdad nos dará a Retsnom si derrotamos a este comandante?
+760	e606f99f	A Retsnom, junto con instrucciones para romper el sello y todo lo que sé de la criatura.
+770	7a132097	Muy bien. En ese caso, mejor nos vamos.
+780	2b70f620	¿Seguro de esto? Probablemente podríamos sacárselo con tortura si nos ponemos creativos...
+790	206f5d9e	No quiero lastimar a este hombre. Solo quiero saber lo que sabe.
+800	4cdb089c	Hacernos más fuertes y demostrarle nuestra valía es la mejor forma de lograrlo.
 810	f4a72a8b	
-820	3e104975	{fc(57e4f1)Cuando me di cuenta, el anciano se había quedado de pie,\nsin mirarnos siquiera, ausente.}
-830	2b6574f8	{fc(57e4f1)Como si se hubiera olvidado de nosotros,\nsu mirada capturaba solo el vacío.}
-840	ccd86d98	Cuando derrote a Addamaque, volveremos. ¿Nos encontramos aquí otra vez?
+820	3e104975	{fc(57e4f1)Miré al anciano. Estaba parado a un lado, con la mirada perdida.}
+830	2b6574f8	{fc(57e4f1)Era como si hubiera olvidado siquiera que estábamos ahí.}
+840	ccd86d98	Volveremos después de derrotar a Addamaque. ¿Nos reunimos aquí otra vez?
 850	f4a72a8b	
-860	a9681fa3	Entonces, hasta ese momento.
+860	a9681fa3	Está bien. Hasta la próxima, entonces.
 870	f4a72a8b	
-880	e72abebd	{fc(57e4f1)Dejamos al anciano allí y volvimos a la academia.}
-890	57d5a2dd	{fc(57e4f1)...Ahora lo que hay que hacer está claro.}
-900	afdf757c	{fc(57e4f1)Primero derrotar al comandante llamado Addamaque,\ny volver a ver a este anciano.}
+880	e72abebd	{fc(57e4f1)Dejamos al anciano donde estaba y volvimos a la academia por el día.}
+890	57d5a2dd	{fc(57e4f1)Nuestro siguiente objetivo estaba claro.}
+900	afdf757c	{fc(57e4f1)Esperar a que Addamaque apareciera, derrotarlo e ir donde el anciano por más información.}
