@@ -64,3 +64,10 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
   - EN: lluvia de nombres para el chico de las llamas (*Enma Daio, Underlord of the Flames*, *Acacia* = "friendship" en el lenguaje de las flores, *Phoenix Yuurei*, *Burnie*, *Firesoul*, *Lashes*, *Niceperm*) y el elegido, *Fireboy* / *FB*.
   - ES provisional: se tradujeron los nombres descriptivos (*Enma Daio, Señor del Inframundo de las Llamas*, *Fénix Yuurei*, *Alma de Fuego*, *Pestañas*, *Buenpermanente*) y se dejaron *Burnie*, *Fireboy* y *FB* en inglés, como en el doblaje.
   - Por qué: el chiste es que los nombres son malos y el elegido es el más simple; en español se mantuvo ese efecto. Revisar si conviene dejar más nombres en inglés o traducir *Fireboy* a "Chico de Fuego".
+
+## s11 (seisyunr, rama a0) · Días 36 a 39 — nombres del material Ω
+
+- `s11_0_seisyunr_a0_d038_m050_020` · #20–#60 · Eva
+  - EN: *Material Ω*, *Pseudo Material Ω*, *Fool's Material Ω*, *Fool's Pseudo Material Ω*, *False Fool's Pseudo Material Ω* (imitaciones cada vez más absurdas).
+  - ES provisional: *Material Ω*, *Pseudo Material Ω*, *Material Ω Falaz*, *Pseudo Material Ω Falaz*, *Falso Pseudo Material Ω Falaz*.
+  - Por qué: el chiste es la acumulación de calificativos; "Fool's" (como en *fool's gold*) se tradujo como "Falaz" porque no hay equivalente directo. Revisar si conviene "de los tontos".
