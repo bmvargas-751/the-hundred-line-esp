@@ -50,3 +50,10 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
   - EN: *"clean your little Sir"*, *"wash Sir Takumi's sword and sheath"*, *"touch myself under the waist with the Holy Jumonji Sword"*.
   - ES provisional: *"limpiar a su pequeño don"*, *"lavar la espada y la vaina de don Takumi"*, *"tocarme bajo la cintura con la Sagrada Espada Jumonji"*.
   - Por qué: el chiste juega con el título "Sir" de Takumi como eufemismo de genitales; en español se usó "don" para mantener el doble sentido. Revisar si funciona.
+
+## s10 (kawanatk, rama 00) · Día 28 — referencia de Kyoshika
+
+- `s10_b_kawanatk_00_d028_m040_010` · #120 · Kyoshika
+  - EN: *"This is just like when Ace broke out of Impel Down!"* (referencia a un manga shonen conocido).
+  - ES provisional: *"¡Esto es igual a cuando Ace escapó de Impel Down!"*
+  - Por qué: se mantuvo la referencia del EN tal cual (nombres propios sin traducir), igual que otras referencias de manga de Kyoshika. Revisar si conviene dejarla o neutralizarla.
