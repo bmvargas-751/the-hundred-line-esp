@@ -88,3 +88,4 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
 - `d010_m210_010` (las opciones #2300-#2630 y las frases de cada rama): traducidas juntas y con el mismo tono; "I'll take it on for you" → "Lo asumiré por ti". Revisar las opciones en el juego.
 - `d010_m230_010#270-#310`: "time traveler / leap / time loop / time looper" → "viajero del tiempo / saltáramos / bucle temporal / viajero del bucle".
 - Día 10, `d010_m010`, `m140`: "Kurara: take off her top" (confusión con "open her heart") → "quite la blusa".
+- s13 sfsfsfsf 00, Día 12 `d012_m030_010#50`: "lab-otomy" → "laboratomía". Día 11: "salmon roe" → "hueva de salmón". Términos: Caza-Misterio / Caza / Misterio / Cacería de Invasores, MSP = Máquina de Salto Paralelo, daño de salto, primer ciclo, LT.
