@@ -148,9 +148,6 @@ peninsular,message/r00_0_1sttruer_00_d090_m040_020/000_Sheet1#10,vale: verbo val
 codigos,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#90,Colores como el japonés; el inglés agrega un tramo al principio
 peninsular,message/r00_0_1sttruer_00_d094_m040_010/000_Sheet1#240,vale: más vale prevenir
 peninsular,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#680,vale: verbo valer (no vale más que)
-codigos,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#90,Colores como el japonés; el inglés agrega un tramo al principio
-peninsular,message/r00_0_1sttruer_00_d094_m040_010/000_Sheet1#240,vale: más vale prevenir
-peninsular,message/r00_0_1sttruer_00_d094_m050_030/000_Sheet1#680,vale: verbo valer (no vale más que)
 peninsular,message/r00_0_1sttruer_00_d100_m040_010/000_Sheet1#90,venga: subjuntivo de venir (que venga ningún enemigo)
 codigos,message/s00_0_2ndtruer_00_d002_m040_010/000_Sheet1#130,Sigue el orden de colores del japonés
 codigos,message/s00_0_2ndtruer_00_d002_m120_010/000_Sheet1#310,Sigue el orden de colores del japonés
@@ -770,6 +767,12 @@ peninsular,message/s00_0_2ndtruer_00_d093_m110_010/000_Sheet1#110,"falso positiv
 peninsular,message/s00_0_2ndtruer_00_d098_m030_010/000_Sheet1#160,"falso positivo: ""vale"" es uso general/chileno"
 peninsular,message/s00_0_2ndtruer_00_d099_m070_010/000_Sheet1#20,"falso positivo: ""vale"" es uso general/chileno"
 peninsular,message/s00_0_2ndtruer_00_d100_m070_010/000_Sheet1#270,"falso positivo: ""vale"" es uso general/chileno"
+peninsular,message/s02_0_aotukino_00_d087_m010_020/000_Sheet1#160,"falso positivo: ""venga"" es subjuntivo de venir"
+peninsular,message/s03_0_dokusair_00_d079_m020_010/000_Sheet1#551,falso positivo: uso general/chileno (vale)
+peninsular,message/s03_0_dokusair_00_d079_m020_010/000_Sheet1#554,falso positivo: uso general/chileno (vale)
+peninsular,message/s03_0_dokusair_a0_d092_m020_010/000_Sheet1#310,falso positivo: uso general/chileno (pasta)
+peninsular,message/s03_0_dokusair_a0_d097_m020_010/000_Sheet1#20,falso positivo: uso general/chileno (vale)
+peninsular,message/s03_0_dokusair_a0_d098_m020_010/000_Sheet1#30,falso positivo: uso general/chileno (pilles)
 peninsular,message/s04_0_ivachanr_00_d063_m010_010/000_Sheet1#150,falso positivo: uso general/chileno (vale)
 peninsular,message/s04_0_ivachanr_00_d067_m020_010/000_Sheet1#160,falso positivo: uso general/chileno (vale)
 peninsular,message/s04_0_ivachanr_00_d070_m020_010/000_Sheet1#470,falso positivo: uso general/chileno (vale)
