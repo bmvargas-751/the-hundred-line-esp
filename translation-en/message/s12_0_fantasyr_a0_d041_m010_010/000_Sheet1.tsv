@@ -1,23 +1,23 @@
 id	huella_jp	es
-10	ca704096	...Hagamos que Nomokeba habite en una persona.
-20	a046aaac	Pónmelo a mí.
+10	ca704096	Reviviré a Retsnom dentro de alguien.
+20	a046aaac	...Póngalo en mí.
 30	5b8d7982	¿Eh?
-40	4af59bef	Oh, ¿en ti mismo?\n¿De verdad estás seguro?
-50	2ece2152	Vine hasta aquí para resucitar a todos...
-60	7d454c75	¿La más probable no es hacerlo habitar en una persona?\n¡Entonces no queda más que elegir eso!
-70	b86d75d7	Su dolor probablemente supere lo imaginable.
-80	fc099ae1	Y qué te ocurrirá después\ntampoco se sabe.
-90	fc723379	Lo acepto. Estoy preparado\npara resucitar a todos.
-100	b3b80982	...Hazlo.
-110	bbfe1be4	Si tú lo has elegido,\nyo no objeto...
-120	8929c847	Pero la persona que está detrás de ti,\n¿qué opinará?
-130	3c128dfa	¿Detrás...?
-140	033d941f	{fc(57e4f1)Al voltearme, lo que vi\nfue la sonrisa de Darumi.}
-150	9f9e2b8b	{fc(57e4f1)En su mano tenía un palo grueso,\nque parecía haber recogido de por ahí.}
-160	603ab901	¡Eeey, bateador, bateador, swing!
-170	8d64953b	{fc(57e4f1)Un instante después, el palo, blandido sin piedad,\nme alcanzó en la sien.}
-180	6dec1031	{fc(cfff3f)"¡Pam!"}
-190	1133b3b3	¡Gh... ah...!
-200	4589c4ee	{fc(57e4f1)Mi cabeza se sacudió y las fuerzas abandonaron mis miembros.\nMe desplomé en el lugar.}
-210	8f27cd72	{fc(57e4f1)Justo antes de perder la conciencia,\nlo que oí fue la voz divertida de Amemiya.}
-220	6324dc30	Takumi, perdón~.
+40	4af59bef	Oho, ¿te ofreces como anfitrión? ¿Estás seguro de esto?
+50	2ece2152	La razón por la que hago todo esto es traer de vuelta a los amigos que perdí.
+60	7d454c75	Y fusionar a Retsnom con un humano es nuestra mejor opción para eso, ¿no? Entonces esta es en realidad la única decisión que puedo tomar.
+70	b86d75d7	El dolor será mucho peor de lo que imaginas.
+80	fc099ae1	Tampoco tenemos forma de saber qué otros efectos podría tener el proceso en ti.
+90	fc723379	Lo sé. Pero si es lo que hace falta para traerlos de vuelta, estoy dispuesto a arriesgarme.
+100	b3b80982	Por favor... Hágalo.
+110	bbfe1be4	Si esa es tu decisión, no tengo motivo para intentar disuadirte.
+120	8929c847	Pero creo que la señorita que tienes detrás podría tener algo que decir al respecto.
+130	3c128dfa	¿Detrás de mí...?
+140	033d941f	{fc(57e4f1)Me di la vuelta y vi a Darumi con su habitual sonrisa desquiciada.}
+150	9f9e2b8b	{fc(57e4f1)Sostenía algo largo y grueso en las manos. ¿Quizás un tubo o una viga que recogió por ahí?}
+160	603ab901	¡Ooooye, bateador, bateador, swing!
+170	8d64953b	{fc(57e4f1)Echó el arma hacia atrás y la blandió contra mi cabeza con todas sus fuerzas.}
+180	6dec1031	{fc(cfff3f)*¡PUM!*}
+190	1133b3b3	¡¿Nrgh?! ¡Gah...!
+200	4589c4ee	{fc(57e4f1)Me tambaleé hacia atrás, con los oídos zumbando y la vista borrosa. Toda la vida se me escapó y caí hecho un bulto al suelo.}
+210	8f27cd72	{fc(57e4f1)Lo último que oí antes de que mi conciencia se apagara por completo fue una voz familiar y despreocupada...}
+220	6324dc30	Perdón por esto, Takumi...

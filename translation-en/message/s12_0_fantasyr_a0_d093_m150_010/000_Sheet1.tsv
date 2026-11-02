@@ -1,26 +1,26 @@
 id	huella_jp	es
-10	3d406f9e	Bien, con esto terminó la batalla.\n¡Qué bueno, qué bueno!
-20	53b57db0	¡Oye, no remates por tu cuenta!\nY además, ¿eres el verdadero Eito?
-30	b3fbf2cd	Oigan... no esparzan fluidos sucios\ncon esa cara fea y esa voz desagradable...
-40	145dead9	...¡Es el verdadero Eito, este!
-50	c44b52ad	Obvio, ¿no?\n¿Quién más podría parecerles?
-60	e1005ae8	¿Entonces la Srta. Amemiya de verdad pudo crear la {fc(ff635b)"gota roja"}?\n¿Y con eso el Sr. Aotsuki resucitó?
-70	5414812f	...Parece que sí.\nAunque por ahora solo alcanzó para una persona.
-80	86c39e24	Además, la Srta. Amemiya sigue siendo una masa de carne.\nDice que hacer la {fc(ff635b)"gota roja"} de los demás requiere más tiempo.
-90	03ad4493	Parece que con la primera que le salió\nresucitó por ahora a mí.
-100	bcb804c4	Todavía... tarda...
-110	2499a22b	¡Pero la {fc(ff635b)"gota roja"} era real!\n¡¿Entonces podemos resucitar a todos?!
-120	19f21ee1	¡¿Voy a poder... volver a ver a todos?!
-130	a8e1fdd6	Si es así, también nos ayuda mucho en fuerza.\nTodavía puede haber pelea contra V'ehxness.
-140	ac290f86	Sí, esta vez llegaste en buen momento,\nEito.
-150	753c04be	Jaja, qué raro que tú me elogies.
-160	2ca6aff9	Pero ahora sí se ve esperanza de verdad...\nEs gracias a la Srta. Darumi...
+10	3d406f9e	Ah, otra batalla exitosa para los libros. Qué alivio.
+20	53b57db0	¿Por qué lo remataste tú solo? ¿Seguro que eres el verdadero Eito?
+30	b3fbf2cd	¿Te importaría no escupir esa saliva pútrida cuando hablas con esa voz tuya que parece uñas en una pizarra?
+40	145dead9	Sí, es el verdadero Eito, sin duda...
+50	c44b52ad	Por supuesto que lo soy. Cualquiera puede verlo.
+60	e1005ae8	¿Así que la señorita Amemiya de verdad creó una {fc(ff635b)Lágrima de Rubí} y la usó para traerlo de vuelta, señor Aotsuki?
+70	5414812f	Eso parece. Solo una, eso sí.
+80	86c39e24	Todavía está en su forma de gigantesca masa de carne. Dijo que necesitará más tiempo para crear suficientes {fc(ff635b)lágrimas} para los demás.
+90	03ad4493	La primera que hizo se usó entera para revivirme a mí.
+100	bcb804c4	Todavía tendremos que esperar, ¿eh...?
+110	2499a22b	¡Pero esto demuestra que la {fc(ff635b)Lágrima de Rubí} de verdad funciona! ¡Significa que podemos traer de vuelta a los demás también!
+120	19f21ee1	¡Por fin podré volver a verlos... ¿verdad que sí?!
+130	a8e1fdd6	Sin duda nos vendrían bien más brazos. Nuestra batalla final con V'ehxness no puede estar lejos ya.
+140	ac290f86	Tengo que reconocerlo, Eito. Volviste justo cuando te necesitábamos.
+150	753c04be	Jaja... Nunca pensé que llegaría el día en que me felicitaras, Takemaru.
+160	2ca6aff9	Por fin tenemos esperanza... y todo es gracias a Darumi.
 170	f4a72a8b	
-180	3478d549	...¿Takumi? ¿Qué pasa?
-190	bda807d9	Ah, no... nada...
-200	09aef60e	Tienes razón... qué bueno de verdad.\nTodos van a resucitar. No hay nada mejor.
-210	0bde7cf0	...De verdad qué bueno.
-220	9d0e91ab	{fc(57e4f1)Terminada la batalla, nos dispersamos aliviados,}
-230	a1111885	{fc(57e4f1)y cada uno se fue a descansar a su cuarto.}
-240	9da25a59	{fc(57e4f1)...\nPero yo tenía algo que sí o sí debía comprobar.}
-250	763991cb	{fc(57e4f1)Y, al comprobarlo, tenía que interrogar a}{fc(ff635b)"esa persona"}{fc(57e4f1)sobre ello.}
+180	3478d549	¿Takumi? ¿Qué pasa?
+190	bda807d9	¿Eh? O-Oh, nada...
+200	09aef60e	Tienes razón, esto es genial. Traeremos de vuelta a todos y ganaremos esta guerra juntos.
+210	0bde7cf0	Las cosas por fin se ven mejor para nosotros.
+220	9d0e91ab	{fc(57e4f1)Con la batalla terminada, todos soltamos un gran suspiro colectivo de alivio.}
+230	a1111885	{fc(57e4f1)Agotados tras una larga y dura pelea, todos volvieron a sus cuartos a descansar.}
+240	9da25a59	{fc(57e4f1)Pero yo no. Había algo que necesitaba revisar primero.}
+250	763991cb	{fc(57e4f1)Y una vez hecho eso, tenía que tener una conversación con }{fc(ff635b)la persona responsable de todo esto}{fc(57e4f1).}

@@ -1,34 +1,34 @@
 id	huella_jp	es
-10	3c9456cc	Si fuera un perro o un gato...\nprimero habría que tranquilizarlo.
-20	19f65ec7	Cierto. Es como una mascota,\nasí que hay que tratarlo como mascota.
-30	7ddb9d38	Anda, anda~, Darumi y Takumi no dan miedo~.\n¡¿Somos papá y mamá, ¿ves?!
-40	49bcc3ac	Eso no, por favor...
-50	f64daa75	¡Ah, ya sé!\n¡Si le damos de comer, quizás se encariñe!
-60	ac9d553d	Ah, ¿no dijo el viejo\nque come cualquier cosa?
-70	14099bfc	Justo, ¿comerá mi cuaderno\nde pasado vergonzoso?
-80	ac4dc694	¿Por qué tendrías algo así...?
-90	cc707e05	...Pero cuidado.\nSi te acercas mal, podría morderte.
-100	f692212e	¡Tranquilo, tranquilo! Con algo tan chiquito,\ncomo mucho me da un mordisquito en la punta del dedo, ¿no?
-110	31094ec5	{fc(57e4f1)Tras esa broma,\nDarumi acercó a Nomokeba un cuaderno de tapa negra...}
-120	1213d82b	{fc(57e4f1)...Y justo en ese instante.}
-130	1c29d0f0	...¿Eh?
-140	906a2b33	¡A-Darumi!
-150	153f648d	{fc(cfff3f)"¡Crash!"}
-160	a9e2d95c	{fc(cfff3f)"...Crac, crac... crac, crac"}
+10	3c9456cc	Quizás sea como un gato o un perro... Deberíamos intentar calmarlo.
+20	19f65ec7	Cierto, cierto. Lo vamos a tener de mascota, mejor tratarlo como tal.
+30	7ddb9d38	¡Aquííí, pequeño Wetsnom...! ¡No tengas miedito, somos tu mami y tu papi...!
+40	49bcc3ac	No lo decía en ese sentido...
+50	f64daa75	Oye, ¿y si le damos algo de comer? Quizás así empiece a querernos.
+60	ac9d553d	El viejo dijo que puede comer cualquier cosa, ¿no?
+70	14099bfc	¿Quizás pueda empezar con este cuaderno donde escribí todos mis secretos más vergonzosos?
+80	ac4dc694	¿Por qué tienes algo así por ahí tirado...?
+90	cc707e05	Solo ten cuidado, ¿ya? No queremos que le muerda la mano a quien lo alimenta.
+100	f692212e	Ay, te preocupas demasiado. ¿Qué va a hacer este frijolito? ¿Mordisquearme los dedos?
+110	31094ec5	{fc(57e4f1)Completamente despreocupada, Darumi le extendió su cuaderno a Retsnom.}
+120	1213d82b	{fc(57e4f1)Al instante siguiente...}
+130	1c29d0f0	¿Eh...?
+140	906a2b33	¡Darumi, aléjate de eso!
+150	153f648d	{fc(cfff3f)*ñam*}
+160	a9e2d95c	{fc(cfff3f)*crac* *crunch...*}
 170	f4a72a8b	
-180	febdfbcf	Mentira...
-190	fada7231	Mentira... ¿verdad...?
-200	5b0a290c	Es que... algo así...\n¡no puede ser...!
-210	05907f53	{fc(cfff3f)"...Glup"}
-220	7f917c4a	{fc(57e4f1)La parte superior del cuerpo de Darumi había desaparecido,\ncomo arrancada.}
-230	277b02d4	{fc(57e4f1)Nomokeba se la había comido.}
-240	83897135	{fc(57e4f1)Por eso, Nomokeba era\nclaramente más grande que hace un momento.}
+180	febdfbcf	
+190	fada7231	No puede ser...
+200	5b0a290c	E-Esto... ¡no puede estar pasando...!
+210	05907f53	{fc(cfff3f)*glup*}
+220	7f917c4a	{fc(57e4f1)La parte superior del cuerpo de Darumi desapareció como si la hubieran arrancado de repente.}
+230	277b02d4	{fc(57e4f1)Y así había sido. Retsnom le había arrancado el torso... y se lo había comido.}
+240	83897135	{fc(57e4f1)Tras comer por primera vez en siglos, la criatura empezó a crecer. En pocos segundos, ya era mucho más grande que antes.}
 250	f4a72a8b	
-260	912bd8f7	{fc(57e4f1)Mis}{fc(ff635b)"ojos"}{fc(57e4f1)se cruzan con los del Nomokeba, ahora un poco más grande.}
-270	2cf6962d	{fc(57e4f1)Aunque ese monstruo no tiene ojos,\nsé con certeza que}{fc(ff635b)"nuestras miradas se cruzan"}{fc(57e4f1)...}
-280	9d08a2c7	{fc(57e4f1)Y hay otras dos cosas seguras:}
-290	c95fef23	{fc(57e4f1)que en algún punto me equivoqué de elección,}
-300	d9952c36	{fc(57e4f1)y que no podré huir de este monstruo.}
-310	153f648d	{fc(cfff3f)"¡Crash!"}
-320	a9e2d95c	{fc(cfff3f)"...Crac, crac... crac, crac"}
-330	05907f53	{fc(cfff3f)"...Glup"}
+260	912bd8f7	{fc(57e4f1)Ahora varias veces más grande, Retsnom se volvió hacia mí y nuestros }{fc(ff635b)ojos}{fc(57e4f1) se encontraron.}
+270	2cf6962d	{fc(57e4f1)A decir verdad, ni siquiera sabía si la cosa tenía ojos. Pero en ese momento, estuve seguro de que }{fc(ff635b)me estaba mirando}{fc(57e4f1).}
+280	9d08a2c7	{fc(57e4f1)Había otras cosas de las que también estaba seguro.}
+290	c95fef23	{fc(57e4f1)Primero, sin sombra de duda, había tomado la decisión equivocada.}
+300	d9952c36	{fc(57e4f1)Y segundo, no había forma de que sobreviviera a este encuentro.}
+310	153f648d	{fc(cfff3f)*ñam*}
+320	a9e2d95c	{fc(cfff3f)*crac* *crunch...*}
+330	05907f53	{fc(cfff3f)*glup*}

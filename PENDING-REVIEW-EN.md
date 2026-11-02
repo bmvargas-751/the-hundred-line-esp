@@ -71,3 +71,7 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
   - EN: *Material Ω*, *Pseudo Material Ω*, *Fool's Material Ω*, *Fool's Pseudo Material Ω*, *False Fool's Pseudo Material Ω* (imitaciones cada vez más absurdas).
   - ES provisional: *Material Ω*, *Pseudo Material Ω*, *Material Ω Falaz*, *Pseudo Material Ω Falaz*, *Falso Pseudo Material Ω Falaz*.
   - Por qué: el chiste es la acumulación de calificativos; "Fool's" (como en *fool's gold*) se tradujo como "Falaz" porque no hay equivalente directo. Revisar si conviene "de los tontos".
+
+## s12 (fantasyr a0), apodos de Ima a Gaku
+
+- Días 72, `message/s12_0_fantasyr_a0_d072_m080_010#70` y `d072_m090_010#70`: "Mr. Wussy Baby" → "señor Gallina Llorón" (Gaku: "no soy ningún gallina") y "Mr. Pantswetter" → "señor Mojacalzones" (Gaku: "yo nunca me measé los pantalones"). Apodos provisionales; revisar si se prefiere otro par.
