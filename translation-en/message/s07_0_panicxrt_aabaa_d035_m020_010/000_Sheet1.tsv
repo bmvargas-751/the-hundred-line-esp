@@ -1,30 +1,30 @@
 id	huella_jp	es
-20	fcd5bdde	Ñam, ñam...\nAtención, tropa, hora de dormir...
-30	7ab1d397	No se sabe cuándo van a atacar los invasores,\nasí que descansen bien mientras puedan...
-40	b588a67e	Entonces... buenas noches...
-50	69a383b1	{fc(57e4f1)Es una sensación extraña.}
+20	fcd5bdde	*bostezo* Descansen, soldados. Es hora de irse a dormir.
+30	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
+40	b588a67e	Bueno, buenas noches...
+50	69a383b1	{fc(57e4f1)Esa noche me sentí extrañamente dividido.}
 60	f4a72a8b	
-70	17a06597	{fc(57e4f1)Estoy muy nervioso, pero no siento que sea real.}
-80	a924be74	{fc(57e4f1)...De aquí a un rato voy a romper a SIREI.}
-90	536ee1e4	{fc(57e4f1)...El plan es así.}
-100	e42dd085	{fc(57e4f1)Dentro de poco, GOTOH traerá a SIREI,\npor supuesto, fingiendo ser NIGOU.}
-110	f53219b7	{fc(57e4f1)"¡Pasó algo terrible en la cafetería!\n¡Acuda enseguida!"}
-120	35ab40e6	{fc(57e4f1)Yo lo esperaré en la cafetería.}
-130	11d1a8d4	{fc(57e4f1)Con la armadura de clase puesta de antemano,\npara poder abalanzarme sobre SIREI.}
-140	313ad9ec	{fc(57e4f1)Kurara, por si hay imprevistos,\nesperará en un aula vacía cerca de la cafetería.}
-150	962433ce	{fc(57e4f1)El momento de abalanzarse lo da GOTOH.}
-160	8d147972	{fc(57e4f1)Porque es quien, desde más cerca, puede ver a SIREI\ny juzgar si está en guardia.}
-170	c8a06509	{fc(57e4f1)...Parece un plan perfecto.}
-180	c13e4e34	{fc(57e4f1)...Salvo porque no quiero romper a SIREI.}
-190	68ce8c90	{fc(57e4f1)...Salvo por mis sentimientos.}
-210	107fa414	{fc(57e4f1)La puerta se abre.}
-220	b854b4ab	¿Qué pasa, en realidad?
-230	fd9c023f	Dijiste que había una emergencia en la cafetería...
-240	7ad5b26c	¡Sí! No pude dejarla pasar la noche así...
-250	523bd00f	...A simple vista, no veo nada raro.
-260	ed885e8b	¿No será que apareció un bicho de los que corretean, alguna tontería?
-270	3745724d	Eso es...
-280	4e0f22e5	{fc(57e4f1)De pronto, GOTOH mira hacia aquí.}
-290	6dfaaf84	{fc(57e4f1)Cruza la mirada conmigo, escondido en la sombra.}
-300	ff9fd136	{fc(57e4f1)"Ahora, hazlo".}
-310	9e00631c	{fc(57e4f1)Eso dice.}
+70	17a06597	{fc(57e4f1)Estaba sumamente ansioso por nuestro plan, y aun así no me parecía real.}
+80	a924be74	{fc(57e4f1)De verdad íbamos a destruir a Sirei...}
+90	536ee1e4	{fc(57e4f1)Habíamos ido ideando el plan paso a paso.}
+100	e42dd085	{fc(57e4f1)Gotoh, fingiendo ser Nigou, pronto traería a Sirei hasta aquí.}
+110	f53219b7	{fc(57e4f1)Le diría que había pasado algo descabellado en la Cafetería y que viniera rápido.}
+120	35ab40e6	{fc(57e4f1)Cuando llegara, yo lo estaría esperando.}
+130	11d1a8d4	{fc(57e4f1)Estaría con mi Armadura de Clase, listo para atacar.}
+140	313ad9ec	{fc(57e4f1)Kurara esperaría en un aula vacía cercana, lista para lidiar con cualquier imprevisto.}
+150	962433ce	{fc(57e4f1)Gotoh daría la señal de ataque.}
+160	8d147972	{fc(57e4f1)Al ser quien estaría más cerca de Sirei, le resultaría más fácil calcular cuándo bajara la guardia.}
+170	c8a06509	{fc(57e4f1)Parecía el plan perfecto...}
+180	c13e4e34	{fc(57e4f1)Salvo por el hecho de que en realidad no quería destruir a Sirei.}
+190	68ce8c90	{fc(57e4f1)Pero tendría que dejar de lado esos sentimientos.}
+210	107fa414	{fc(57e4f1)La puerta se abrió.}
+220	b854b4ab	¿Qué demonios pasa aquí?
+230	fd9c023f	Dijiste que había alguna emergencia en la Cafetería...
+240	7ad5b26c	¡Oh, sí, señor! Tenemos que ocuparnos de ello ahora mismo, o se saldrá totalmente de control.
+250	523bd00f	¿En serio? Porque no veo nada de qué ocuparse aquí.
+260	ed885e8b	¿Seguro que no oíste solo unos bichos corriendo por ahí, o algo igual de inútil?
+270	3745724d	Yo...
+280	4e0f22e5	{fc(57e4f1)De repente, Gotoh miró en mi dirección.}
+290	6dfaaf84	{fc(57e4f1)Sus ojos se encontraron con los míos desde mi escondite en las sombras.}
+300	ff9fd136	{fc(57e4f1)"Ahora, vamos."}
+310	9e00631c	{fc(57e4f1)Y a la señal de Gotoh...}
