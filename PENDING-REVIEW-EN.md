@@ -57,3 +57,10 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
   - EN: *"This is just like when Ace broke out of Impel Down!"* (referencia a un manga shonen conocido).
   - ES provisional: *"¡Esto es igual a cuando Ace escapó de Impel Down!"*
   - Por qué: se mantuvo la referencia del EN tal cual (nombres propios sin traducir), igual que otras referencias de manga de Kyoshika. Revisar si conviene dejarla o neutralizarla.
+
+## s11 (seisyunr, rama a0) · Día 34 — el nombre de Shion
+
+- `s11_0_seisyunr_a0_d034_m020_030` · #830–#1410 · Moko, Gaku, Takemaru, Hiruko, Tsubasa y otros
+  - EN: lluvia de nombres para el chico de las llamas (*Enma Daio, Underlord of the Flames*, *Acacia* = "friendship" en el lenguaje de las flores, *Phoenix Yuurei*, *Burnie*, *Firesoul*, *Lashes*, *Niceperm*) y el elegido, *Fireboy* / *FB*.
+  - ES provisional: se tradujeron los nombres descriptivos (*Enma Daio, Señor del Inframundo de las Llamas*, *Fénix Yuurei*, *Alma de Fuego*, *Pestañas*, *Buenpermanente*) y se dejaron *Burnie*, *Fireboy* y *FB* en inglés, como en el doblaje.
+  - Por qué: el chiste es que los nombres son malos y el elegido es el más simple; en español se mantuvo ese efecto. Revisar si conviene dejar más nombres en inglés o traducir *Fireboy* a "Chico de Fuego".
