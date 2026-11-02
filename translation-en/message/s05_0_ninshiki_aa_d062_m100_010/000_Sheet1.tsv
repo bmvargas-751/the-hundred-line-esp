@@ -1,39 +1,39 @@
 id	huella_jp	es
-10	8d9dab46	Ugh... uuugh...
-20	77a6826c	Por favor... ya basta...
-30	120e1623	¿Por qué... por qué haces esto...?
-40	2f962ee7	T-Tengo... que hacerlo...
-50	a7123543	{fc(57e4f1)Dicho eso, entré al edificio\na buscar una nueva forma de suicidarme.}
+10	8d9dab46	Ngh...
+20	77a6826c	Por favor, te lo ruego... Deja de hacer esto...
+30	120e1623	No entiendo... ¿Por qué tiene que ser así?
+40	2f962ee7	Yo... Tengo que hacer esto...
+50	a7123543	{fc(57e4f1)Salí tambaleándome de mi habitación a buscar una manera nueva y más dolorosa de acabar con mi vida.}
 60	f4a72a8b	
-70	3004fe9e	¿No será obra de un comandante?
-80	db0fe82e	¿Eh? ¿Qué quieres decir?
-90	f39e7461	Las acciones de Takumi son anormales, sin duda.\nSolo puede ser un ataque mental del enemigo.
-100	34dba683	Quizás lo empujaron a suicidarse...\no se suicida una y otra vez para romper el efecto.
-110	4c80091d	Aun así, ¿por qué solo le afecta a Takumi\ny a nosotros no?
-120	6ba1d626	Eso... no lo sé...
-130	e9b8f6a2	Oigan... Takumi empezó a estar raro\ndespués de la última batalla de defensa, ¿no?
-140	2121e6ce	Si es así, ¿no habrá recibido ya entonces\nalgún ataque especial?
-150	f9714cab	¿En la batalla anterior?\n¡Pero ningún ataque le tocó solo a Takumi!
-160	a690aec0	Y tampoco hubo un enemigo especial contra el que solo él peleara...
-170	b62294ac	...No, sí lo hubo.
-180	17810179	¿Eh? ¿Cómo que sí lo hubo?
-190	850ff7c7	Mira, hay una cosa que solo hizo Takumi,\nque nosotros no...
-200	4a14e887	...¿No será lo de Eito?\n¡Takumi lo mató y absorbió su hemoánima!
-210	9854c05f	¡¿Fue entonces cuando pasó algo?!
-220	427cf548	Es posible... desde ese día Takumi cambió, eso es seguro.
-230	ae56df31	Pero... ¿qué habrá pasado...?\n¿Cómo Takumi pudo terminar así...?
-240	336d178b	Por ejemplo, digo...
-250	111f15a1	Si al absorber la hemoánima también absorbió algo así como la conciencia de Eito...
-260	34f03b79	¡¿Hasta la conciencia de Eito?!
-270	0cfafd82	¡¿Eso no significaría que Eito está dentro de Takumi?!
-280	be877a10	Es difícil de creer, pero...
-290	a36f8d43	No se puede decir que sea imposible. ¡Después de todo, es un poder que salta incluso el tiempo!
-300	1a296826	Si eso fuera cierto,\nTakumi ahora mismo...
-310	d467c1af	Ah, está peleando con el Eito que tiene en la cabeza.
-320	64b3a6c9	Como el cuerpo que sube fiebre para expulsar un virus,\nintenta expulsarlo de su cabeza muriendo una y otra vez...
-330	7bf9d364	...Peleando entre sufrimientos.
-340	c3118f37	P-Por eso... ¿hace algo tan doloroso tantas veces?
-350	f9f6a8fd	Seguro que lo cargaba solo.\nSin poder consultarlo con nadie...
+70	3004fe9e	¿Podría un comandante estar obligando a Takumi a hacer esto?
+80	db0fe82e	¿Eh? ¿A qué te refieres?
+90	f39e7461	Lo que hace claramente no es normal. Empiezo a preguntarme si un enemigo le está haciendo un ataque psíquico.
+100	34dba683	Quizás lo obligan a seguir matándose... O quizás matarse es la única manera de que se libre del ataque.
+110	4c80091d	¿Pero por qué solo afectaría a Takumi y no al resto de nosotros?
+120	6ba1d626	Sinceramente, no tengo idea...
+130	e9b8f6a2	Fue después de nuestra última batalla defensiva que Takumi empezó a actuar tan raro, ¿no?
+140	2121e6ce	¿Será posible que lo hayan atacado con alguna técnica especial entonces?
+150	f9714cab	¿En esa última batalla? Pero no recuerdo ningún ataque que solo golpeara a Takumi.
+160	a690aec0	Y tampoco es que hubiera enemigos especiales que lo tuvieran como único objetivo...
+170	b62294ac	No, espera... Quizás sí hubo.
+180	17810179	¿Eh? ¿A qué te refieres, Eito?
+190	850ff7c7	Piénsenlo. SÍ hay algo que le pasó a Takumi y no al resto de nosotros.
+200	4a14e887	¿Te refieres a... lo de Eito? ¡Claro! ¡Takumi absorbió su hemoánima...!
+210	9854c05f	¿Crees que le pasó algo entonces?
+220	427cf548	Es posible, ¿no? Desde entonces, Takumi no ha sido el mismo.
+230	ae56df31	Pero ¿qué pasó? ¿Qué podría hacerlo actuar así?
+240	336d178b	No puedo estar seguro, pero...
+250	111f15a1	¿Y si Eito pudo transferir parte de su conciencia a Takumi junto con su hemoánima?
+260	34f03b79	¡¿La conciencia de Eito...?!
+270	0cfafd82	¡¿Quieres decir que Eito sigue vivo dentro de Takumi?!
+280	be877a10	Todo suena bastante rebuscado...
+290	a36f8d43	Pero tampoco puedo negar la posibilidad. Si la hemoánima hace posible viajar en el tiempo, ¿por qué no esto también?
+300	1a296826	Si todo eso es cierto, entonces lo que hace Takumi ahora es...
+310	d467c1af	Así es. Creo que sigue peleando contra Eito.
+320	64b3a6c9	Igual que inducir fiebre puede volver inerte a un virus, Takumi usa el dolor de la muerte para intentar destruir lo que queda de él.
+330	7bf9d364	Esos son los extremos a los que está dispuesto a llegar para terminar con esto.
+340	c3118f37	¿Se está sometiendo a todo eso una y otra vez...?
+350	f9f6a8fd	Conociendo a Takumi, se lo guarda para no cargarnos a ninguno de nosotros...
 360	f4a72a8b	
-370	83abd29e	¿Qué podemos hacer nosotros?
-380	9359d9e1	Por Takumi...¿qué podemos hacer?
+370	83abd29e	¿No hay nada que podamos hacer?
+380	9359d9e1	Aunque no podamos pelear nosotros contra Eito... Tiene que haber alguna forma de ayudar...

@@ -1,83 +1,83 @@
 id	huella_jp	es
 10	88902fda	
-20	019c34e1	{fc(57e4f1)...Tranquilo.\nLa respuesta de recién debe de ser correcta.}
-30	4e7d56b0	{fc(57e4f1)...Confía en ti.}
-40	a0de1296	...¡!
-50	a936542b	Hola, Takumi.\nTe estaba esperando todo este tiempo.
-60	6e0c5316	{fc(57e4f1)...¡Estaba aquí! ¡Acerté!\n¡Así que era eso!}
-70	b08b190c	...¡Gané, Eito!
+20	019c34e1	{fc(57e4f1)Todo saldrá bien. Descubrí la respuesta.}
+30	4e7d56b0	{fc(57e4f1)¡Tengo que creer en mí mismo...!}
+40	a0de1296	¡...!
+50	a936542b	Hola, Takumi. Me preguntaba cuándo te decidirías a llegar.
+60	6e0c5316	{fc(57e4f1)¡Está aquí! ¡Lo sabía! ¡Tenía razón!}
+70	b08b190c	¡Gané, Eito!
 80	0ded5105	¿Eh...?
-90	6c779dbf	{fc(57e4f1)Con el cuchillo con que maté a Eva,\napuñalé a la ilusión de Eito.}
-100	c2b4ef98	{fc(cfff3f)"¡¡Zas!!"}
-110	1544fb04	¡Gah...!
-120	651af4c6	Pensaste que yo no confiaría en ti, ¿verdad?\n¡Ese fue tu error!
-125	6b7431f0	P-Por qué...
-130	fc538592	{fc(cfff3f)"Plaf..."}
-140	3b673a00	{fc(57e4f1)El Eito que tenía delante cayó al suelo.}
-150	4d6022d5	...Lo logré. Por fin lo logré.\nDerroté a la ilusión del Eito número 11.
-160	cf6845a2	{fc(57e4f1)Con esto gané...\nAhora desaparecerá el Eito que está en mi cabeza...}
+90	6c779dbf	{fc(57e4f1)Saqué el cuchillo que había matado a Eva y se lo clavé al falso Eito.}
+100	c2b4ef98	{fc(cfff3f)*¡zas!*}
+110	1544fb04	¡Gagh...!
+120	651af4c6	¡Creíste que no te creería, ¿verdad? ¡Por eso perdiste!
+125	6b7431f0	¿P-Por qué...?
+130	fc538592	{fc(cfff3f)*pum*}
+140	3b673a00	{fc(57e4f1)Eito se desplomó hacia delante y cayó al suelo.}
+150	4d6022d5	Lo logré... Encontré al falso Eito y lo maté.
+160	cf6845a2	{fc(57e4f1)He ganado el juego... Ahora el Eito que llevo en la cabeza desaparecerá.}
 170	88902fda	
-180	b746c5e7	...Un momento.\n¿Por qué la ilusión de Aotsuki no desaparece y sigue ahí caída?
-190	0113cd6e	{fc(57e4f1)El Eito que tengo delante\nyace en el suelo sangrando.}
+180	b746c5e7	Un momento... Maté al falso, ¿por qué ESE no se desvanece?
+190	0113cd6e	{fc(57e4f1)El cuerpo de Eito seguía en el suelo frente a mí, con un charco de sangre extendiéndose debajo.}
 200	3cb69d0f	¿Por qué...?
-210	a0864466	...Es fácil.\nPorque no es una ilusión.
+210	a0864466	Es muy simple. Ese no era el falso.
 220	4df22bb1	¡¿Qué?!
-230	50ddee13	¡N-No puede ser! ¡Entonces, ¿quién es este?!\n¡¿Por qué en tu cuarto...?!
-240	5d16747a	Ah, ese Aotsuki parece que tiene una nota. ¿Por qué no la miras?
-250	1ab30597	...¿Una nota?
-260	831c4e2f	{fc(57e4f1)Efectivamente, el Eito caído tenía una nota en la mano.\nDecía }{fc(ff635b)"1"}{fc(57e4f1)...}
-270	838ef18e	Esto es... lo que yo escribí para distinguir a los 10...
-280	8e24e4b2	...¡¿?!\n¡¿Hay algo escrito atrás?!
-290	85e8d272	{fc(57e4f1)Di vuelta la nota a toda prisa,\ny allí decía...}
-300	eabe155f	"Cuando llegue el Día 62, ve al cuarto de Eito.\nEspérame hasta que yo llegue."
-310	060caff5	"Te explicaré el motivo entonces.\nNo se lo digas a nadie."
-320	b8b6a6d0	¡...!\n¡¿Tú escribiste esto...?!
-330	ec805e01	Claro, con tu mano, ¿sabes?\n¡Alterando tu percepción para que no lo vieras!
-340	a93259ba	Jaja, de verdad no te diste cuenta. ¡Esto es genial!
-350	2426e205	N-No me digas que cuando escribí esta nota,\nya habías calculado que yo vendría aquí...
-360	9ad7e42b	Para alguien tan tonto como tú, ocurrírsele a ti,\n¿y yo no? ¿Cómo no se me iba a ocurrir?
-370	116bce1a	Más bien, pensé que si evitaba mencionarlo y lo dejaba aparte,\ntú sospecharías que ahí había algo.
-380	1b82b584	Entonces este de aquí...
-390	a820d11f	{fc(57e4f1)Bajé la vista hacia el Eito caído.\nEstaba agonizando.}
-400	4176e438	¿Quién será?\n¿A quién crees que elegí?
-410	4a0c6737	{fc(57e4f1)N-No puede ser... yo, a un compañero...\ncon mis propias manos, a un compañero...}
-420	75715bf1	Takumi, ya van dos, contando a la prisionera.\nAh, contándome a mí serían tres...
-430	c4a438cd	U-Uaaaaaaaaaaah...
-440	459dc597	¡Eito! ¡Voy a matarte!
-450	b377cc0e	¡Esa cara, Takumi!\n¡Esa es la que yo quería ver!
-460	a59a1407	¡Quería que sintieras odio,\nigual que yo siento odio por la humanidad!
-470	23cd86ee	¡La hipocresía no te queda!\n¡Como yo, tu esencia es el odio!
-480	1ad389bf	¡No! ¡No me compares contigo!
-490	efd03c70	¡Es lo mismo!\n¡Que me mataras tan fácil, sin escucharme, lo prueba!
-500	8d738b80	¡Cállate! ¡¡Cállate cállate!!
-510	87b778ae	...¿Q-Qué te pasa, Takumi?\n¿Por qué te enojas tanto?
-520	24a0152e	¡Eito! ¡¡Te mataré!!
-530	c2b4ef98	{fc(cfff3f)"¡¡Zas!!"}
-540	b4c9729d	¡Gah...!
-550	88b24302	T-Takumi... ¿por qué...?
+230	50ddee13	¡P-Pero tenía que serlo! ¿Quién más podría ser? ¿Por qué iba alguien más a estar en tu habitación...?
+240	5d16747a	Oh, mira. Tiene una de las notas que repartiste. Quizás eso te dé la respuesta.
+250	1ab30597	¿Una nota...?
+260	831c4e2f	{fc(57e4f1)Era cierto. El Eito que yacía en el suelo sostenía una nota con el número }{fc(ff635b)1}{fc(57e4f1).}
+270	838ef18e	Esto es de cuando intentaba distinguirlos a todos...
+280	8e24e4b2	¿Eh? ¿Hay algo en el reverso...?
+290	85e8d272	{fc(57e4f1)Di vuelta la nota, con una inquietud creciente en el estómago.}
+300	eabe155f	"Ven a la habitación de Eito el Día 62. Espérame adentro."
+310	060caff5	"Luego te explicaré todo, pero no le cuentes esto a nadie hasta entonces."
+320	b8b6a6d0	No... ¿Tú hiciste esto...?
+330	ec805e01	Tú mismo la escribiste, Takumi. Yo solo alteré un poco tu percepción para que no lo notaras.
+340	a93259ba	De verdad no tenías idea... Si me permites decirlo, hice un trabajo magistral para ocultarlo.
+350	2426e205	Entonces... ¿Incluso cuando escribía estas notas, sabías que vendría aquí...?
+360	9ad7e42b	Dame algo de crédito, Takumi. Cuando se te ocurre algo, yo ya voy dos pasos adelante.
+370	116bce1a	Solo no quise hacer nada que llamara tu atención y arriesgarme a que sospecharas.
+380	1b82b584	E-Entonces... ¿Quién es este?
+390	a820d11f	{fc(57e4f1)Miré al Eito tendido a mis pies. Seguía vivo, pero parecía que podía dar su último aliento en cualquier momento.}
+400	4176e438	¿Quién podrá ser...? ¿A quién crees que elegí?
+410	4a0c6737	{fc(57e4f1)No puede ser... ¿Yo...le hice esto...a uno de mis amigos?}
+420	75715bf1	Contando al prisionero, ya son dos víctimas. Tres, si me cuentas a mí.
+430	c4a438cd	Ngh... ¡Aaaaagh!
+440	459dc597	¡Voy a matarte, Eito!
+450	b377cc0e	¡Sí, eso es! ¡Esa es la cara que quería ver en ti, Takumi!
+460	a59a1407	Quería que sintieras el mismo odio que siento yo por toda la humanidad.
+470	23cd86ee	¡Admítelo: nunca estuviste hecho para ser un héroe! Eres como yo... ¡el odio es lo que te mueve!
+480	1ad389bf	¡Cállate! ¡No me parezco en nada a ti!
+490	efd03c70	¡Eres exactamente como yo! ¡El que me hayas matado sin escuchar lo que tenía que decir lo prueba!
+500	8d738b80	¡Cállate! ¡Cállate, cállate...!
+510	87b778ae	¿Por qué tanta rabia, Takumi? ¿Toqué un nervio sensible?
+520	24a0152e	Eito... ¡Estás muerto!
+530	c2b4ef98	{fc(cfff3f)*¡zas!*}
+540	b4c9729d	¡Gagh...!
+550	88b24302	T-Takumi... ¿Por qué?
 560	57c811bd	¿Eh...?
-570	2d2c1364	Ay, ay, ¡lo hiciste otra vez!
-580	467b5f39	¿Q-Qué...?
-590	e24878f3	¿Creías que le di la nota solo a una persona?\n¿No especifiqué la hora, no?
-600	6543f182	Solo pasó que la primera en llegar fue {fc(ff635b)"ella"}.
-610	1ba3e693	¿Ella, dices...?
-620	6091db25	Uy, se me escapó.
-630	749e659d	...Más importante, ¿qué harás?\n¿Apuñalaste a dos compañeros dentro de la academia?
-640	61d263f4	Los dos aún respiran...¡Si uso el Revive-O-Matic...!
-650	bde846f3	{fc(57e4f1)"¡Dum...!"}
-660	d3c5ab4f	¡Uaaaaaaah...!
-670	60878d5e	¡Ugh...! ¡¡Uuuugh!!
-680	db7b3f39	...¡Ah, magnífico!\n¡Siento cómo me llega el poder!
-690	e77da9a2	E-Eso fue... no me digas...
-700	a15a1b45	{fc(57e4f1)Frente a mí había dos cadáveres\nconvertidos en momias negras.}
-710	1a9fb572	Ay, ay, absorber la hemoánima de tus compañeros...¡Qué cosa tan terrible hiciste!
-720	787768c7	{fc(57e4f1)E-Este tipo... usó mi brazo\npara absorber la hemoánima...}
-730	308e64b7	¡T-Tú... qué has hecho...!
-740	7854dd80	...Ya no podrán revivir.\nYa no hay vuelta atrás.
-750	5bfb98ab	Eres un asesino. Un asesino de compañeros.\nDijiste que eras como yo, pero eres peor que yo.
-760	78ed241c	Uuh... uuuuugh...
+570	2d2c1364	Ahí tienes, lo has vuelto a hacer.
+580	467b5f39	¿H-Hacer qué...?
+590	e24878f3	¿Creíste que le di esa nota a UNO solo de los demás? Y no tenía hora especificada, ¿recuerdas?
+600	6543f182	Es pura casualidad que {fc(ff635b)ella} fuera la primera en aparecer.
+610	1ba3e693	¿"Ella"...?
+620	6091db25	Ups. ¿Me delaté?
+630	749e659d	Entonces, ¿qué vas a hacer ahora? Has apuñalado a dos de tus queridísimos amigos.
+640	61d263f4	N-No están muertos todavía... Y aún tenemos el Revive-O-Matic, así que...
+650	bde846f3	{fc(57e4f1)*pum*}
+660	d3c5ab4f	¡Aaaaagh!
+670	60878d5e	Nrgh... ¡Graaargh...!
+680	db7b3f39	¡Maravilloso! ¡Siento cómo el poder me recorre!
+690	e77da9a2	¿Q-Qué hiciste...?
+700	a15a1b45	{fc(57e4f1)Los cuerpos se habían convertido en momias negras y resecas.}
+710	1a9fb572	¿Robarles la hemoánima a tus amigos, Takumi? Eso es cruzar una línea.
+720	787768c7	{fc(57e4f1)Él... Tomó control de mi brazo... ¿Y absorbió su hemoánima?}
+730	308e64b7	¡¿C-Cómo pudiste hacerme hacer eso...?!
+740	7854dd80	Ahora nunca podrán volver a la vida. No puedes arreglar esto, Takumi.
+750	5bfb98ab	Eres un asesino. Un homicida. Un traidor. Dije que eras igual a mí, pero creo que en realidad eres peor.
+760	78ed241c	Ngh... ¡Hrgh...!
 770	057d327b	{fc(57e4f1)¡Eito...!}
-780	ddc952ec	{fc(57e4f1)¡Lo mataré lo mataré!}
-790	0927cf32	{fc(57e4f1)Lo mataré lo mataré lo mataré lo mataré lo mataré\nlo mataré lo mataré lo mataré lo mataré lo mataré}
-800	0927cf32	{fc(57e4f1)Lo mataré lo mataré lo mataré lo mataré lo mataré\nlo mataré lo mataré lo mataré lo mataré lo mataré}
-810	ec1ecd36	¡¡Aotsuki, te mataré!!
+780	ddc952ec	{fc(57e4f1)¡Tengo que matarlo...! Matar... matar... matar...}
+790	0927cf32	{fc(57e4f1)Matar matar matar matar matar matar matar matar matar matar matar matar matar matar matar matar matar...!}
+800	0927cf32	{fc(57e4f1)Matar matar matar matar matar matar matar matar matar matar matar matar matar matar matar matar matar...!}
+810	ec1ecd36	¡¡¡VOY A MATARTE, EITO!!!
