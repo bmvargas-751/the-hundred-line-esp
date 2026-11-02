@@ -1,49 +1,49 @@
 id	huella_jp	es
 10	f37a20d8	Día 66
-20	37d39af7	Otro día sin resultados...
-30	4440dc2c	No, el área de búsqueda se va reduciendo,\nasí que sí hay resultados.
-40	a75af5d1	A este paso quizás encuentre la aldea\nen poco tiempo...
-50	e947b891	...¿Mm? Parece que hay alboroto...
-60	5872d9a1	Uuh, uuuh...
+20	37d39af7	Takumi Sumino: Tampoco hubo suerte hoy...
+30	4440dc2c	Takumi Sumino: Pero al menos esto me ayuda a descartar algunos lugares de la búsqueda. Es un avance, supongo.
+40	a75af5d1	Takumi Sumino: Si sigo así, no debería tardar mucho en encontrar la aldea.
+50	e947b891	Takumi Sumino: ¿Eh...? Parece que hay algún alboroto...
+60	5872d9a1	Shouma Ginzaki: Ngh...
 70	f4a72a8b	
-80	ab4e4ba1	U-Uf... lo vi...
-90	a7700fa1	¿Qué hacen ustedes?
-100	76aeee2e	¡Ah, Takumi!\n¡¿Dónde andabas en un momento como este?!
-110	d915ad32	Eh, ¿no lo explicó Hiruko?
-120	22fe4eb7	¡No es eso lo que digo!\n¡Oye, ¿qué está pasando, maldición?!
-130	e36c2cf9	Pero ¿qué pasó——
-140	fdc3d659	¡Apareció! ¡Un fantasma!\n¡Una mujer cubierta de sangre!
+80	ab4e4ba1	Tsubasa Kawana: L-Lo vi... ¡Hurk...!
+90	a7700fa1	Takumi Sumino: Oigan, chicos, ¿qué pasa?
+100	76aeee2e	Gaku Maruko: ¡Takumi! ¡¿A qué viene salir solo en un momento como este?!
+110	d915ad32	Takumi Sumino: ¿Eh? ¿Hiruko no les dijo adónde iba?
+120	22fe4eb7	Gaku Maruko: ¡Ese no es el punto! ¡¿Perdiste la cabeza por completo o qué?!
+130	e36c2cf9	Takumi Sumino: Eh, sigo sin entender...
+140	fdc3d659	Gaku Maruko: ¡Vimos un fantasma! ¡Una mujer cubierta de sangre!
 150	e9c83835	¡¿Qué?!
-160	e79810fe	¡¿No dijiste que Eva estaba contigo\ny que no nos tenía hostilidad?!
-170	2686d1e9	Se suponía... pero ¿no será una confusión?
-180	c4fb7d7b	N-No... lo vio bastante gente...\n¡Yo también...!
-190	af4830f0	Estábamos preparando la comida todos juntos,\ny de repente apareció, y salieron volando cosas...
-200	2edf12d5	Menos mal que nadie salió herido, pero\neso no tuvo gracia...
-210	d388596f	Y de paso el comedor quedó hecho un desastre...
-220	a656f431	Eso dicen...\n¡Yo no estaba en ese momento!
-230	d9417116	¿Pasó algo así...?
-240	fac7fa11	{fc(57e4f1)Antes también vi cosas parecidas a fantasmas,\nde vez en cuando.}
-250	1c4c9d53	{fc(57e4f1)Pero casi todas eran yo,\ny nunca las había visto tanta gente.}
-260	310cf675	{fc(57e4f1)...¿Qué demonios está pasando?}
-270	f464ce91	Entonces, Takumi.\n¿Eva estuvo hoy contigo?
-280	ec3b08f1	Eh, no, hoy no la vi.
+160	e79810fe	Gaku Maruko: ¡¿No se suponía que estos ataques pararían ahora que tú y Eva son tan amiguitos?!
+170	2686d1e9	Takumi Sumino: ¡Así era! ¿Seguro que no vieron cosas...?
+180	c4fb7d7b	Tsubasa Kawana: Imposible... Esta vez no fue solo una persona la que lo vio; fuimos un montón.
+190	af4830f0	Tsubasa Kawana: Apareció mientras comíamos y empezó a lanzar cosas...
+200	2edf12d5	Takemaru Yakushiji: Ninguno salió herido, pero estuvo muy cerca.
+210	d388596f	Takemaru Yakushiji: La Cafetería también quedó bastante destrozada.
+220	a656f431	Nozomi Kirifuji: Yo no estaba ahí en ese momento, pero suena a que fue realmente intenso.
+230	d9417116	Takumi Sumino: Vaya, qué locura...
+240	fac7fa11	{fc(57e4f1)No era la primera vez que había una aparición fantasmal en la escuela.}
+250	1c4c9d53	{fc(57e4f1)Pero normalmente solo yo las veo. Era la primera vez que algo se aparecía ante todo el grupo.}
+260	310cf675	{fc(57e4f1)¿Qué está pasando aquí...?}
+270	f464ce91	Hiruko Shizuhara: Dime, Takumi. ¿Eva ha estado contigo todo el día de hoy?
+280	ec3b08f1	Takumi Sumino: ¿Eh? No, no la he visto para nada.
 290	f4a72a8b	
-300	90fe26f8	¡E-Esperen!
-310	c01924ff	¡Ella puede aparecer o no aparecer!\n¡Ni ella lo controla!
-320	60217c5d	¡Que hoy no estuviera era solo porque\nle tocaba ese momento...!
-330	066296a7	Eso lo dice ella, nada más.
-340	3745724d	Eso es...
-350	9e337cb8	Además, aunque fuera verdad.
-360	e6229951	"Cuando puede aparecer, siempre viene ante Sumino":\neso no está asegurado.
-370	18525e6d	No prueba que el fantasma que vimos hoy\nno sea Eva.
-380	139addb7	Pero...
-390	205b54a9	{fc(57e4f1)Ella no debería poder aparecer lejos de mí.}
-400	c56f4126	{fc(57e4f1)Estuve a punto de decirlo, pero me detuve.}
-410	d08a7cda	{fc(57e4f1)Eso también es "lo que dijo Eva".}
-420	1c7bed42	Oye, Takumi. ¿De verdad estás bien?
-430	1860c7cc	¿Qué es lo que te atrae para que andes por ahí afuera?
+300	90fe26f8	Takumi Sumino: ¡Alto, alto, espera!
+310	c01924ff	Takumi Sumino: Desaparece y reaparece todo el tiempo. No puede controlarlo.
+320	60217c5d	Takumi Sumino: ¡Que no estuviera hoy no significa que debamos sacar conclusiones apresuradas...!
+330	066296a7	Hiruko Shizuhara: ¿No sería más exacto decir que ELLA DICE que no puede controlarlo?
+340	3745724d	Pues...
+350	9e337cb8	Kurara Oosuzuki: Supongamos por un momento que dice la verdad.
+360	e6229951	Kurara Oosuzuki: Eso no significa que tú siempre estarás cerca para verla cuando aparezca.
+370	18525e6d	Kurara Oosuzuki: No tenemos motivos para suponer que el fantasma que vimos no era Eva.
+380	139addb7	P-Pero...
+390	205b54a9	{fc(57e4f1)"No puede alejarse mucho de mí", estuve a punto de decir.}
+400	c56f4126	{fc(57e4f1)Pero me contuve antes de plantear ese punto.}
+410	d08a7cda	{fc(57e4f1)Al fin y al cabo, solo teníamos su palabra.}
+420	1c7bed42	Takumi, ¿de verdad estás bien?
+430	1860c7cc	Nozomi Kirifuji: ¿Qué te hace hacer ella allá afuera todos los días?
 440	f4a72a8b	
-450	aecc1205	...En todo caso, el comedor está hecho un desastre, ¿no?\n¡Vamos a limpiarlo!
-460	719f72e4	{fc(57e4f1)En un ambiente incómodo,\nlimpiamos el comedor, enorme y sucio.}
-470	f4a1394a	{fc(57e4f1)Durante todo eso, la pregunta de Nozomi\ndaba vueltas y vueltas en mi cabeza.}
-480	96c9b42a	{fc(57e4f1)¿Yo... ahora, qué me está incitando...\ny qué estoy haciendo?}
+450	aecc1205	Takumi Sumino: Dijeron que este fantasma dejó hecha un desastre la Cafetería, ¿no? Mejor la limpiamos.
+460	719f72e4	{fc(57e4f1)Incapaces de sacudirnos el ambiente tenso e incómodo, nos pusimos a limpiar el caos que el fantasma había dejado a su paso.}
+470	f4a1394a	{fc(57e4f1)Durante todo ese tiempo, la pregunta de Nozomi siguió rondándome.}
+480	96c9b42a	{fc(57e4f1)¿Qué estaba haciendo exactamente por Eva? ¿Y por qué?}
