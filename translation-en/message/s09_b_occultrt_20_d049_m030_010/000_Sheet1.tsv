@@ -1,51 +1,51 @@
 id	huella_jp	es
-10	f926a16f	¡Oye, ¿hay alguien?!
-20	297cbdbc	{fc(57e4f1)Llamando, avancé por la cafetería.\nY lo que había allí era...}
-30	8e94cc99	¡M-Moko...!
-40	4445376b	¡Oye, Moko! ¡Responde!\n¡¿Por qué estás así...?! ¡Sangre...!
+10	f926a16f	¿Hola? ¿Hay alguien aquí?
+20	297cbdbc	{fc(57e4f1)Llamé al empujar las puertas, solo para quedarme helado al ver lo que había dentro.}
+30	8e94cc99	¡¿Moko?!
+40	4445376b	¡Moko! ¡Respóndeme! ¡Agh, hay tanta sangre...!
 50	416897cb	¿E-Está muerta...?
-60	b0557bf7	{fc(57e4f1)¡¿Otra vez no se movió el dron de recolección?!\n¡En todo caso, al Revive-O-Matic...!}
-70	d2a90943	{fc(57e4f1)Pensando eso, toqué a Moko y sentí desesperación.}
-80	b725f627	{fc(57e4f1)El cadáver de Mojiro, helado y rígido.}
-90	d5b99ce6	{fc(57e4f1)Al tacto, decía claramente que ya había pasado tanto tiempo\nque no se podía resucitar.}
+60	b0557bf7	{fc(57e4f1)¿El dron de recuperación sigue sin funcionar? Entonces quizás el Revive-O-Matic...}
+70	d2a90943	{fc(57e4f1)Pero en cuanto toqué el cuerpo de Moko, sentí un escalofrío de desesperación recorrerme la espalda.}
+80	b725f627	{fc(57e4f1)Ya estaba fría.}
+90	d5b99ce6	{fc(57e4f1)No era forense, pero hasta yo podía saber que llevaba muerta demasiado tiempo para ser revivida.}
 100	3cb69d0f	¿Por qué...?
-110	289a4594	{fc(57e4f1)¿Por qué Mojiro...?}
-120	afa95955	{fc(57e4f1)¿No éramos atacados por la maldición de Eva?}
-130	d83622fc	{fc(57e4f1)Y entonces, ¿por qué atacaron a Moko antes que a mí?}
-140	f77b2e4d	{fc(57e4f1)¿O... será obra de ese tal espectro?}
-150	a5e16cca	{fc(57e4f1)No, aun así, ¿por qué Mojiro...?}
-160	9295ed3c	{fc(57e4f1)A quien ataca el espectro debería ser solo a quien\nabrió la "Caja de la Desdicha"...}
-170	e614238f	{fc(57e4f1)Y entonces algo me golpeó el pie.}
+110	289a4594	{fc(57e4f1)¿Por qué le pasó esto a ella...?}
+120	afa95955	{fc(57e4f1)Pensé que estos ataques eran algún tipo de manifestación del rencor de Eva.}
+130	d83622fc	{fc(57e4f1)Entonces, ¿por qué fue por Moko?}
+140	f77b2e4d	{fc(57e4f1)¿O siempre fue el espectro?}
+150	a5e16cca	{fc(57e4f1)No... Eso tampoco tendría sentido.}
+160	9295ed3c	{fc(57e4f1)El espectro ataca a quien abre la Caja de Calamidad, y Moko jamás...}
+170	e614238f	{fc(57e4f1)Justo entonces, mi pie rozó algo.}
 180	9f71d203	¡Esto es...!
-190	44690009	{fc(57e4f1)Esta caja... con dibujo de luna...}
-200	0555c7a6	{fc(57e4f1)¿Será la "Caja de la Dicha" de la que hablaba Eva?}
-210	af96135d	{fc(57e4f1)¿Por qué está aquí...?\n¿Tendrá relación con la muerte de Moko?}
+190	44690009	{fc(57e4f1)Era una cajita con un diseño de luna.}
+200	0555c7a6	{fc(57e4f1)¿Podría ser...la Caja de Bendiciones de la que habló Eva...?}
+210	af96135d	{fc(57e4f1)¿Qué hace esto aquí? ¿Fue esto lo que mató a Moko?}
 220	3c819df5	
-230	b3117d46	T-Tú... ¡Eva...!
-240	702fc597	¿Por qué aquí...?
-250	7381acfa	¡Como sospechaba: la muerte de Moko es obra tuya...!
+230	b3117d46	E-Eva, eres tú...
+240	702fc597	¿Qué haces aquí?
+250	7381acfa	¡¿L-Le hiciste esto a Moko...?!
 260	3c819df5	
-270	bde2cefc	{fc(B1221A)... eso.}
-280	0ec8670f	{fc(57e4f1)¿Qué es? ¿Dice algo...?}
-290	9be2373b	{fc(B1221A)...eso.}
-300	8b98de77	{fc(B1221A)...Recógelo. ...Escóndelo.}
+270	bde2cefc	{fc(B1221A)——la...}
+280	0ec8670f	{fc(57e4f1)¿Intenta decirme algo?}
+290	9be2373b	{fc(B1221A)...Tómala...}
+300	8b98de77	{fc(B1221A)La caja... Tómala...escóndela...}
 310	e9c83835	¡¿Qué?!
-320	a72fcea9	{fc(57e4f1)Esta... ¿qué dice...?}
-330	12d87b47	¡¡...!!
-340	adbea8d0	¡Atención, todos, escuchen!
-350	c3c1a134	¡Es grave! ¡Algo nos está atacando!
-360	4c84caf0	¡NIGOU ya cayó! ¡Esta oficial también está en grave peligro!
-370	1a398698	¡¿Qué es eso?! ¡¿Qué es eso?!
-380	a265ece1	¡Por favor, que alguien se levante! ¡Que alguien me ayude!
-390	928a226e	¡¿SIREI y NIGOU...?!
-400	2e089388	{fc(57e4f1)¡¿Qué rayos pasa...?!}
-410	4fae9e13	{fc(57e4f1)¡En todo caso, hay que ayudar a SIREI...!}
-420	8b98de77	{fc(B1221A)...Recógelo. ...Escóndelo.}
-430	1cb6200d	{fc(57e4f1)¡No es momento de oír a un fantasma así!}
-440	7102873c	{fc(57e4f1)¡Los fantasmas son alucinaciones!\n¡¿Qué hago obedeciendo a una alucinación?!}
-450	8b98de77	{fc(B1221A)...Recógelo. ...Escóndelo.}
-460	542b74ae	{fc(57e4f1)Pero... ¿y si el fantasma existe de verdad?}
-470	6118e183	{fc(57e4f1)¿Y si lo que dice es algo muy importante?}
-480	43886a89	{fc(57e4f1)¿Más que salvar a SIREI?\n¿Incluso desobedeciendo la orden de SIREI?}
-490	42f98d1b	{fc(B1221A)...Por favor.}
-500	0ec373b4	{fc(57e4f1)¿Qué hago...?\n¡¿A quién le hago caso...?!}
+320	a72fcea9	{fc(57e4f1)No entiendo nada de esto...}
+330	12d87b47	¡¿...?!
+340	adbea8d0	¡Atención, todas las tropas!
+350	c3c1a134	¡Tenemos una emergencia! ¡Nos atacan!
+360	4c84caf0	¡Ya se llevaron a Nigou, y ahora vienen por mí!
+370	1a398698	¡¿Qué diablos es eso?!
+380	a265ece1	¡Se lo ruego, necesito ayuda aquí! ¡Que alguien me salve!
+390	928a226e	¡¿Atacan a Sirei y a Nigou?!
+400	2e089388	{fc(57e4f1)¿Qué demonios está pasando aquí...?}
+410	4fae9e13	{fc(57e4f1)En todo caso, mejor voy a ayudarlos.}
+420	8b98de77	{fc(B1221A)La caja... Tómala...escóndela...}
+430	1cb6200d	{fc(57e4f1)Este no es momento de quedarme a escuchar a un fantasma.}
+440	7102873c	{fc(57e4f1)¡Lo que dice no significa nada; solo es una alucinación!}
+450	8b98de77	{fc(B1221A)La caja... Tómala...escóndela...}
+460	542b74ae	{fc(57e4f1)Pero... ¿Y si es real?}
+470	6118e183	{fc(57e4f1)Si de verdad es un fantasma, lo que intenta decirme podría ser importante.}
+480	43886a89	{fc(57e4f1)¿Más importante que salvar a Sirei, sin embargo? ¿Lo bastante importante como para ignorar sus órdenes?}
+490	42f98d1b	{fc(B1221A)Por favor...}
+500	0ec373b4	{fc(57e4f1)No hay tiempo que perder. ¡Tengo que elegir!}
