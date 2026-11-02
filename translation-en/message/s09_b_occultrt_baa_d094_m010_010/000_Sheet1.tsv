@@ -1,51 +1,51 @@
 id	huella_jp	es
-10	a9e582f2	No... ¡yo no soy el culpable...!
-20	d0c897de	¡Solo quedas tú!\n¡Muere, si quieres matarme, muere!
-30	ceea5878	{fc(57e4f1)Me resistí como pude a Gaku, que se lanzó.}
-40	c76d43c3	{fc(57e4f1)Aparté como pude el filo del cuchillo dirigido a mi cuerpo.}
-50	cc47b90c	{fc(57e4f1)Golpeé, me golpearon, lo sujeté, me sujetó,\nrodamos, rodamos, rodamos——}
-52	8d7ad5d6	{fc(57e4f1)En el siguiente instante... mi conciencia se apagó.}
-54	771a1f95	{fc(57e4f1)No solo la conciencia: también el cuerpo...}
-56	f2232fdb	{fc(57e4f1)Al reaccionar, mi cuerpo y el de Gaku estaban en otro lugar.}
-58	c26e2b82	{fc(57e4f1)Y por alguna razón... de alguna manera...}
-60	7de6fc86	{fc(57e4f1)Yo... a Gaku...}
-70	cc9a4411	...¿Eh?
-80	2da851d2	...Maldición... lo hiciste... tú...
-90	202258d6	N-No... yo no quería hacer esto...
-100	084eab2a	Maldición... maldición... ¿por qué esto...?
-110	b372fdf5	¿Por qué... no quiero morir... no, no...?
-120	c7090593	...Ay, duele...
-130	acdd4e58	¿Gaku...? Oye, ¿Gaku...?
-140	9d13e06b	{fc(57e4f1)Gaku, caído, ya no respondía.}
-150	849a10bb	{fc(57e4f1)Era evidente que no se salvaría.}
-160	1402d270	Yo... no... ¡No es mi culpa...!
-170	b08cb4da	Es verdad... todo es culpa de ella...\n¡Por culpa de ese espectro que me rondaba...!
-180	f72a9d94	¡Es culpa del espectro...!\n¡Todo por la maldición, y por eso todos murieron...!
-190	3c819df5	
-200	71bb80be	¡Eres tú! ¡Por tu culpa...!
-202	7d5893c5	{fc(57e4f1)Y entonces... mi conciencia se borró otra vez.}
-204	c5b9b9bf	{fc(57e4f1)Cuando volví en mí, otra vez estaba en otro lugar.}
-206	529c886f	{fc(57e4f1)El tiempo, la situación, todo había cambiado...}
-208	f260b7bf	{fc(57e4f1)Y por alguna razón... de alguna manera...}
-210	00e59759	{fc(57e4f1)Yo a ella... a esa mujer...}
-215	d0abaf40	{fc(57e4f1)me estaba estrangulando con fuerza.}
-220	3c819df5	
-230	cd7f2ba7	{fc(57e4f1)Los dedos del espectro se clavan en mi garganta.}
-240	4c6b674f	{fc(57e4f1)No puedo respirar. Pierdo la conciencia.}
-250	9eb2b6da	¡Gh, uh...!
-260	77ea7b24	{fc(57e4f1)Pero... también sentí un extraño alivio.}
-270	21759792	{fc(57e4f1)Así debieron matar a todos.\nEste espectro.}
-280	537847a4	{fc(57e4f1)Si es un espectro, no hay remedio.\nNo había remedio.}
-290	d75dbd5b	{fc(57e4f1)Todo era inevitable.}
-300	b3838468	...J-Ja, ja...
-310	56c74688	{fc(B1221A)...Sí, así es. Es por tu culpa.}
-320	36b00ddb	¡¿...?!
-330	6e4d1600	Esa voz...
-340	ef4d1e50	{fc(B1221A)Todo es por tu culpa.}
-350	0f3a913b	{fc(57e4f1)La conciencia se va.\nLa vida se va.}
-360	0687e9d8	{fc(57e4f1)En ese último instante...\nvi ese hecho.}
-370	150a1ab3	{fc(57e4f1)Un hecho desesperante.}
-380	1bf3192c	No... ¿cómo puede ser...?
-390	27d69b58	No, no es así, no, no, no, no, no...
-400	311cd80f	{fc(B1221A)Todos murieron por tu culpa.}
-410	6d306f9c	{fc(B1221A)Dime, Takumi Sumino.}
+10	a9e582f2	Takumi Sumino: No... ¡Yo no soy el asesino!
+20	d0c897de	Gaku Maruko: ¡Eres el único que queda! ¡MUERE! ¡Si quieres intentar matarme, MUERE!
+30	ceea5878	{fc(57e4f1)De algún modo, resistí a Gaku cuando se abalanzó sobre mí.}
+40	c76d43c3	{fc(57e4f1)Logré apartar el cuchillo que apuntaba a mi cuerpo.}
+50	cc47b90c	{fc(57e4f1)Yo lo golpeé, él me golpeó. Yo lo inmovilicé, él me inmovilizó. Rodamos, caímos, nos revolcamos...}
+52	8d7ad5d6	{fc(57e4f1)Y entonces perdí el conocimiento en el instante siguiente.}
+54	771a1f95	{fc(57e4f1)No solo la conciencia, sino también el control de mi cuerpo...}
+56	f2232fdb	{fc(57e4f1)Cuando volví en mí, mi cuerpo y el de Gaku estaban en lugares distintos.}
+58	c26e2b82	{fc(57e4f1)Y de algún modo...por alguna razón...}
+60	7de6fc86	{fc(57e4f1)Yo... Gaku, yo...}
+70	cc9a4411	¿Eh...?
+80	2da851d2	Gaku Maruko: Tú...de verdad lo hiciste...
+90	202258d6	Takumi Sumino: N-No... No fue mi intención...
+100	084eab2a	Gaku Maruko: Maldición... ¿Por qué tuvo que pasar esto...?
+110	b372fdf5	Gaku Maruko: ¿Por qué? No quiero morir... No... No...
+120	c7090593	Gaku Maruko: Agh, duele...
+130	acdd4e58	Takumi Sumino: ¿Gaku...? ¡Oye, Gaku...!
+140	9d13e06b	{fc(57e4f1)No hubo respuesta del cuerpo desplomado de Gaku.}
+150	849a10bb	{fc(57e4f1)Supe que ya no había salvación para él.}
+160	1402d270	Takumi Sumino: No... No es...¡mi culpa...!
+170	b08cb4da	Takumi Sumino: Sí... Todo es por culpa de esa COSA. ¡De todo! ¡Por ese fantasma que me sigue...!
+180	f72a9d94	Takumi Sumino: ¡Es el fantasma...! ¡Todo es por la maldición... Por eso todos están muertos...!
+190	3c819df5	Mujer espectral: {fc(B1221A)...}
+200	71bb80be	Takumi Sumino: ¡Así es! ¡Es tu culpa! ¡Tú hiciste esto!
+202	7d5893c5	{fc(57e4f1)Fue entonces cuando mi conciencia se desvaneció una vez más.}
+204	c5b9b9bf	{fc(57e4f1)Cuando volví en mí, estaba en otro lugar distinto.}
+206	529c886f	{fc(57e4f1)Sentía que el tiempo era distinto. Que las circunstancias eran distintas. Todo había cambiado.}
+208	f260b7bf	{fc(57e4f1)Y de algún modo...por motivos que no comprendía...}
+210	00e59759	{fc(57e4f1)Ella estaba allí conmigo.}
+215	d0abaf40	{fc(57e4f1)Y me estaba estrangulando.}
+220	3c819df5	Mujer espectral: {fc(B1221A)...}
+230	cd7f2ba7	{fc(57e4f1)Los dedos del fantasma se clavaron en mi garganta.}
+240	4c6b674f	{fc(57e4f1)No podía respirar. Entraba y salía de la inconsciencia.}
+250	9eb2b6da	Takumi Sumino: ¡Nngh...!
+260	77ea7b24	{fc(57e4f1)Pero...también sentí un extraño alivio.}
+270	21759792	{fc(57e4f1)Esto significaba que a todos los habían matado así. El fantasma.}
+280	537847a4	{fc(57e4f1)No se puede resistir a un fantasma. Nunca hubo nada que pudiéramos haber hecho.}
+290	d75dbd5b	{fc(57e4f1)Todo escapaba de nuestras manos.}
+300	b3838468	Takumi Sumino: Jajaja...
+310	56c74688	Takumi Sumino: {fc(B1221A)Sí, así es. Todo es culpa tuya.}
+320	36b00ddb	¿Eh?
+330	6e4d1600	Takumi Sumino: Es-Esa voz...
+340	ef4d1e50	Takumi Sumino: {fc(B1221A)Todo es culpa tuya.}
+350	0f3a913b	{fc(57e4f1)Perdía la conciencia. Perdía la vida.}
+360	0687e9d8	{fc(57e4f1)En ese último momento, vi la verdad.}
+370	150a1ab3	{fc(57e4f1)La verdad sin esperanza.}
+380	1bf3192c	Takumi Sumino: No, no puede ser...
+390	27d69b58	Takumi Sumino: ¡NO, NO, NO, NO, NO...!
+400	311cd80f	Takumi Sumino: {fc(B1221A)Todos murieron por tu culpa.}
+410	6d306f9c	Takumi Sumino: {fc(B1221A)¿No es así...Takumi Sumino?}
