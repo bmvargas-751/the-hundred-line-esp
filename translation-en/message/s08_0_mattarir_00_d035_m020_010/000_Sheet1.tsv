@@ -1,61 +1,61 @@
 id	huella_jp	es
-10	21aead4a	{fc(57e4f1)Cuando me di cuenta, había llegado al Patio.}
-20	a45e1cce	{fc(57e4f1)Frente a mí estaba Eito, sentado con calma en la jaula.}
-30	f77a9295	¿Volviste a venir?\n¡Qué alegría, Takumi!
-40	80d5fd9d	Aquí se está bastante cómodo, pero\nestoy tan aburrido que no sé qué hacer.
-50	3253f95c	¿Cómodo? No creo que una jaula así\nsea ningún paraíso.
-60	9dd1ca3e	Para mí es el cielo.\nTotal, aquí no tengo que ver ni oír nada feo.
-70	7fbc57e1	{fc(57e4f1)Lo feo para Aotsuki...\nsomos nosotros, los humanos.}
-80	9baa441f	Entonces es raro que te alegres de verme la cara.
-90	05a5e96b	Mi apariencia y mi voz\ndeberían ser algo insoportable para ti, ¿no?
-100	01bfbccf	Jeje... tú eres especial.\nLa curiosidad le gana a la fealdad.
-110	476d77d6	{fc(57e4f1)Con esa mirada tan cargada de interés,\nsiento que me muestran algo raro.}
-120	d22690bc	Bueno, si viniste aquí...¿No será que quieres consultarme algo?
-130	0165f595	Si no, ni querrías verme la cara.
+10	21aead4a	{fc(57e4f1)Me encontré en el Patio.}
+20	a45e1cce	{fc(57e4f1)Eito estaba sentado cómodamente en la jaula frente a mí.}
+30	f77a9295	¿Otra vez por aquí? Qué agradable verte, Takumi.
+40	80d5fd9d	Se está bastante bien aquí dentro, pero me aburro bastante.
+50	3253f95c	¿Bien? ¿Esa jaula?
+60	9dd1ca3e	Es prácticamente el cielo para mí. Significa que no tengo que ver ni oír ninguna fealdad.
+70	7fbc57e1	{fc(57e4f1)Con lo cual se refiere a...nosotros, los humanos.}
+80	9baa441f	Entonces es raro que te alegre verme.
+90	05a5e96b	Debe ser insoportable para ti oírme y verme.
+100	01bfbccf	Jeje... Eres especial, Takumi. Tu interés pesa más que tu fealdad.
+110	476d77d6	{fc(57e4f1)Sentí que veía algo que no debía mientras Eito me hablaba con tanto ardor en la mirada.}
+120	d22690bc	Ahora bien, supongo que vienes porque tienes algo que preguntarme.
+130	0165f595	Si no, no querrías verme.
 140	f4a72a8b	
-150	cb2cb70d	{fc(57e4f1)Me molestaba que me hubiera descubierto,\npero le conté a Aotsuki lo del incidente de los calcetines.}
-160	ede5c93b	...Ya veo.\nLes tengo envidia.
-170	9d487557	En medio de una batalla desesperada,\ntienen margen para ocuparse de esas cosas.
-180	a7d3e8ef	No vine a oír sarcasmos.\nSi no piensas ayudar, me voy.
-190	f0a1597d	Oh, espera.\nVoy a hacer de detective de sillón en serio.
-200	4bbcb042	Dame un poco de tiempo para pensar.
-210	22511f56	{fc(57e4f1)Dicho eso, Eito se puso a reflexionar.}
-220	7fb9d086	{fc(57e4f1)Un detective de sillón en una jaula...\nahora que lo pienso, había una película así.}
-230	fb6847ad	{fc(57e4f1)Creo que el protagonista pedía consejo sobre un caso\na un doctor, asesino anormal.}
-240	9d49f9ff	{fc(57e4f1)En anormalidad, quizás Eito esté a la par de ese preso.}
-250	9370d281	{fc(57e4f1)Ahora que lo pienso... en esa película,\nal final el doctor se escapa de la cárcel.}
-260	74676f13	{fc(57e4f1)Escapar de la cárcel...}
-270	cd255492	Oye, Eito... creo que tú...¿una vez te escapaste de esta jaula?
-280	cccd1f61	¿Qué dices, Takumi?
-290	9fc217c2	Es cierto que una vez logré escapar.
-300	4680cbae	Pero luego ustedes me capturaron otra vez...¿y por eso estoy de nuevo aquí?
-310	e4bef450	¿Eh...?
-320	cca91cd8	{fc(57e4f1)¿De nuevo... capturado?\n¿Eso... cuándo fue?}
-330	fc16f76a	Ug... la cabeza...
-340	adb99f38	Otra vez, la cabeza con niebla...
-350	a53f4054	...¿Takumi?\n¿Qué te pasa, Takumi?
-360	650552cc	Uuh... uuugh...
-370	f7ecf22c	...¡¿?!
-380	b44f04e7	Hola, despertaste, Takumi.
-390	f3fba8c9	Me preocupaste.\nEs que te desmayaste de repente.
-400	470673f3	¿Me... desmayé?\n¿Cuánto tiempo...?
-410	546af84c	Como una hora, aproximadamente.\nTu cara dormida era fea y no me aburrí.
-420	56fae5b5	{fc(57e4f1)...Saber que este me observó todo el rato\nindefenso me da el peor despertar.}
-430	ebcd17cf	Más importante, quería decírtelo\ncuando despertaras.
-440	370461e1	Un consejo desde la cárcel sobre el incidente de los calcetines.
-450	898960c1	¡¿Descubriste al culpable?!
-460	83f2744c	No, tanto no. Pero te doy este consejo.
-470	baf6aefe	"Lo que se ve tal cual no necesariamente es la verdad".
-480	8f9e3c61	Lo que se ve tal cual...\nno necesariamente... es la verdad...
-490	78756db7	{fc(57e4f1)...Eso es muy propio de Eito.}
-500	e2997c23	{fc(57e4f1)Pero a mí también me sonó extrañamente...\nbastante apropiado.}
-510	5e7ce376	Si te fijas en esa frase,\nquizás se resuelva el misterio.
-520	7d43e31b	...Entendido, te lo agradezco.
-530	5d9e065e	Bien, con esto ya me debes dos.
-540	81fde285	{fc(57e4f1)Dos... ahora que lo pienso, también con la apuesta con Gaku\nterminé en deuda con este.}
-550	d68b1bd0	¿Hago una tarjeta de sellos?
-560	971cea97	Qué idea estupenda. ¿Qué me darán al llenarla?
-570	81274d83	No creo que haya nada que yo pueda darte\nde lo que tú deseas.
-580	8ba6252f	No creo que sea así.\nBueno, da igual.
-590	1a398102	Nos vemos, Takumi.\nPensaré el diseño de la tarjeta de sellos.
-600	5a38ed90	{fc(57e4f1)¿Hablaba en serio, este tipo...?}
+150	cb2cb70d	{fc(57e4f1)Me irritaba cómo me calaba por completo, pero... Me tragué el orgullo y le expliqué el incidente de los calcetines.}
+160	ede5c93b	Ya veo. Los envidio a ustedes.
+170	9d487557	Qué bueno que pueden permitirse preocuparse por asuntos tan triviales mientras nosotros estamos atrapados en una zona de guerra...
+180	a7d3e8ef	No vine a escuchar tu sarcasmo. Si no quieres participar en esto, me voy.
+190	f0a1597d	Espera, un momento. Con gusto haré de detective de salón para ti.
+200	4bbcb042	Dame un momento para pensarlo.
+210	22511f56	{fc(57e4f1)Dicho eso, Eito empezó a reflexionar.}
+220	7fb9d086	{fc(57e4f1)Un criminal atrapado en una jaula que ayuda con una investigación... Creo que esa película arrasó en los Oscar.}
+230	fb6847ad	{fc(57e4f1)La protagonista recibía consejos sobre su caso de un médico asesino en serie.}
+240	9d49f9ff	{fc(57e4f1)Eito podría rivalizar con él en pura locura.}
+250	9370d281	{fc(57e4f1)Ahora que lo pienso... ¿No escapaba el médico de su prisión al final?}
+260	74676f13	{fc(57e4f1)Escapó...}
+270	cd255492	Oye, Eito... Antes te escapaste de esta jaula, ¿verdad...?
+280	cccd1f61	¿Por qué sacas eso a colación ahora, Takumi?
+290	9fc217c2	Es cierto. Logré escapar una vez.
+300	4680cbae	Pero me atrapaste poco después... Así que ahora estoy aquí otra vez.
+310	e4bef450	Ah...
+320	cca91cd8	{fc(57e4f1)¿Lo atrapamos...? ¿Cuándo pasó eso?}
+330	fc16f76a	U-Urk, mi cabeza...
+340	adb99f38	Se siente...tan nublada...
+350	a53f4054	¿T-Takumi? ¡¿Estás bien, Takumi?!
+360	650552cc	Nngh... Agh...
+370	f7ecf22c	¿Eh?
+380	b44f04e7	Buenos días, Takumi.
+390	f3fba8c9	Estaba muy preocupado. Te desmayaste tan de repente.
+400	470673f3	¿Sí...? ¿Cuánto tiempo estuve...?
+410	546af84c	Poco menos de una hora. Tu espantosa cara dormida fue bastante divertida.
+420	56fae5b5	{fc(57e4f1)Enterarme de que Eito me observó mientras estaba completamente indefenso tiene que ser lo peor con lo que despertar.}
+430	ebcd17cf	En fin, tengo algo que decirte ahora que despertaste.
+440	370461e1	Un consejito desde mi jaula sobre tu caso del robo de calcetines.
+450	898960c1	¡¿Sabes quién fue?!
+460	83f2744c	No he llegado a tanto. Pero esto podría ayudarte.
+470	baf6aefe	Lo que ves no siempre es la verdad.
+480	8f9e3c61	¿"Lo que ves no siempre es la verdad"...?
+490	78756db7	{fc(57e4f1)Dios, qué típico de Eito decir eso.}
+500	e2997c23	{fc(57e4f1)Pero de un modo extraño...encajó.}
+510	5e7ce376	Ten eso en mente y quizás logres resolver tu misterio.
+520	7d43e31b	Entendido. Gracias.
+530	5d9e065e	Ahora te he hecho dos favores, ¿no es así?
+540	81fde285	{fc(57e4f1)Dos... Cierto, le debo uno por haberse puesto de mi lado en mi apuesta con Gaku.}
+550	d68b1bd0	¿Quieres que hagamos una tarjeta de puntos para llevar la cuenta?
+560	971cea97	Qué idea maravillosa. ¿Qué obtendré cuando se llene, mm?
+570	81274d83	Probablemente no haya nada que pueda hacer por ti.
+580	8ba6252f	Lo dudo mucho. Bueno, como quieras.
+590	1a398102	Volveré a verte, Takumi. Mientras tanto, pensaré en un lindo diseño para el sello de la tarjeta.
+600	5a38ed90	{fc(57e4f1)¿Este tipo habla en serio...?}

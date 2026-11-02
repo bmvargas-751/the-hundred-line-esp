@@ -1,105 +1,105 @@
 id	huella_jp	es
-10	8aec476b	{fc(57e4f1)En la sala de recreo, Takemaru y Yugamu ya estaban\nfrente a frente al otro lado de la mesa.}
-20	adb821e3	{fc(57e4f1)Eva, como una segunda en la esquina,\nestaba detrás de Takemaru.}
-30	7bcd5a93	Qué bien que vinieras sin huir.\nJeje... me alegro.
-40	9e5f63a8	¡Ey! ¿Con quién hablas?\n¡Yo no pienso salir corriendo!
-50	f7283a53	{fc(57e4f1)La personalidad parece haber dado una vuelta completa\ny volvió al Takemaru de siempre...}
-60	945dee1c	{fc(57e4f1)Aunque no me parece que eso signifique\nque ganará.}
-70	44cee17a	Antes del combate... confirmemos algo.
-80	0702f663	Como dije antes, yo, como asesina,\ndoy importancia a un contrato una vez sellado.
-90	c17fe69b	O sea que tú, si pierdes, serás mi conejillo de indias de tortura,\nsin ninguna clemencia.
-100	7f17650c	{fc(57e4f1)Las palabras de Yugamu traían un frío que daba escalofríos.}
-110	7613acdf	{fc(57e4f1)Seguramente es así... aunque sea un compañero,\nlo hará sin una pizca de piedad.}
-120	32c50ba5	¡Bah, eso ya lo sé!\n¿Creías que ahora me iba a asustar?
-130	980d4e1d	No, solo lo confirmé por si acaso. ¡Entonces, la revancha de póker...
-140	87e1e250	Oye, espera un momento. ¡No es póker!
+10	8aec476b	{fc(57e4f1)Takemaru y Yugamu ya estaban frente a frente en una mesa de la Sala de Descanso.}
+20	adb821e3	{fc(57e4f1)Eva estaba justo detrás de Takemaru, como una verdadera entrenadora.}
+30	7bcd5a93	De verdad viniste a enfrentarme. Ejejeje... Qué delicia.
+40	9e5f63a8	¿Con quién crees que hablas? Yo nunca me echo atrás.
+50	f7283a53	{fc(57e4f1)Parece que dio la vuelta completa y volvió al Takemaru que todos conocemos y queremos...}
+60	945dee1c	{fc(57e4f1)Lo que significa que no puedo decir que confíe mucho en que vaya a ganar.}
+70	44cee17a	Antes de comenzar, permíteme reafirmar los términos de nuestro acuerdo.
+80	0702f663	Como mencioné antes, como asesino, valoro la importancia de un contrato en regla.
+90	c17fe69b	Cuando pierdas, serás de inmediato mi conejillo de indias para torturar sin piedad.
+100	7f17650c	{fc(57e4f1)Las palabras de Yugamu me hicieron correr un escalofrío por la espalda.}
+110	7613acdf	{fc(57e4f1)Dudaba que estuviera mintiendo... Aunque Takemaru sea su amigo, no mostrará ni una pizca de piedad.}
+120	32c50ba5	Sí, no jodas. ¿Crees que me harás acobardarme tan tarde en el juego?
+130	980d4e1d	No, no. Solo me aseguraba. Bien, es hora de la revancha de nuestra partida de póquer...
+140	87e1e250	Alto ahí. No jugaremos póquer.
 150	0ded5105	¿Eh...?
-160	65618e8c	La modalidad de la revancha es...¡el {fc(ff635b)"Descarte"} (baba nuki)!
-170	aef48060	...¿Qué?
-180	e836b640	Qué cosas dices. ¿No es una broma impropia de ti?
-190	c32925a7	No, no es broma.
-200	7fcbcd38	Yugamu, tú dijiste: ¡"En 9 días, otra vez con cartas"!
-210	4711dd93	¡Ah...!\n¡Ahora que lo pienso, dijo algo así...!
-220	79bb56ee	...Ya veo.\nRecuerdo haberlo dicho.
-230	73e2cabf	O sea que, siendo con cartas,\ncualquier modalidad no contradice el contrato.
-240	0e6a1542	El contrato... ¿eh?\n¡Jeje, qué ángulo tan bueno has encontrado!
-250	56b10430	...De acuerdo.\nAcepto la revancha con el Descarte.
-260	6738fef3	{fc(57e4f1)Ya veo... usaron en su contra el carácter de Yugamu,\nque da importancia al concepto de contrato.}
-270	e0f3c6a3	{fc(57e4f1)Si este es el plan de Eva, en los últimos 3 días\nhabrán entrenado en secreto el Descarte.}
-280	f66c06ce	{fc(57e4f1)Se puede decir que lo llevaron\na una situación relativamente ventajosa.}
-290	48441f9a	{fc(57e4f1)Pero aun así, ¿ganará Takemaru...?}
-300	a260b3c7	{fc(57e4f1)El Descarte de 1 contra 1, en el extremo,\nes una pura batalla de faroles y cara de póker.}
-310	6dc91917	{fc(57e4f1)Para Takemaru, esa parte\nsigue siendo su punto débil...}
-320	0cf56742	{fc(57e4f1)Así comenzó la partida única de Descarte,\ncon el conejillo de torturas como apuesta.}
-330	515b0c99	{fc(57e4f1)Naturalmente, mientras no robes el comodín,\nlas cartas de la mano van disminuyendo.}
-340	32bd7db3	Jeje... qué buena partida.
-350	d4120af9	Ambos lo sabemos:\nel comodín está ahora en tu mano.
-360	e4bb1c08	Ese intercambio de hacerlo tomar o no tomar...\nun Descarte de 2 jugadores tampoco está mal.
-370	1733da7a	¡Bah, no sigas hablando de cosas obvias!
-380	bea6472c	¡Oye, saca una de una vez...!
-390	80791ae8	Por el amor de la muerte... qué impaciente.\nDisfrutemos con calma.
-400	281b4844	{fc(57e4f1)Los dedos de Yugamu vagaban de forma ostentosa sobre las 2 cartas.\nPor supuesto, observando fijo la expresión de Takemaru...}
+160	65618e8c	Jugaremos...{fc(ff635b)LA SOLTERONA}!
+170	aef48060	¿Eh...?
+180	e836b640	¿De qué demonios hablas? No te tenía por bromista.
+190	c32925a7	Esto no es una broma.
+200	7fcbcd38	Yugamu, tú mismo lo dijiste. Dijiste que "jugaríamos a las cartas" otra vez en nueve días.
+210	4711dd93	¡Oh...! ¡Es cierto, de verdad lo dijo...!
+220	79bb56ee	Ya veo. Recuerdo haberlo dicho.
+230	73e2cabf	En otras palabras, mientras sea un juego de cartas, no viola su contrato.
+240	0e6a1542	¿Nuestro contrato, dices? Ejejeje, te has encontrado una buena laguna, ¿verdad?
+250	56b10430	Muy bien. Acepto jugar a la solterona para nuestra revancha.
+260	6738fef3	{fc(57e4f1)Ya veo... Usaron contra él la propia lealtad de Yugamu a los contratos...}
+270	e0f3c6a3	{fc(57e4f1)Si esta es la estrategia de Eva, eso debe significar que han estado practicando en secreto la solterona estos tres días.}
+280	f66c06ce	{fc(57e4f1)Quizás le haya dado la ventaja, en términos relativos.}
+290	48441f9a	{fc(57e4f1)Pero, incluso con esto, ¿puede ganar Takemaru...?}
+300	a260b3c7	{fc(57e4f1)Una partida de solterona uno contra uno es un juego de puro engaño y caras de póquer.}
+310	6dc91917	{fc(57e4f1)Es probable que Takemaru siga siendo bastante malo en ambas cosas...}
+320	0cf56742	{fc(57e4f1)Y así comenzó la partida de solterona que determinaría si Takemaru sería torturado o no.}
+330	515b0c99	{fc(57e4f1)Naturalmente, las cartas en tu mano siguen disminuyendo a menos que tengas a la solterona.}
+340	32bd7db3	Ejejeje... Qué juego tan maravilloso.
+350	d4120af9	Ambos sabemos que la solterona está en tu mano ahora mismo.
+360	e4bb1c08	Es a todo o nada. ¿Puedes hacer que la tome o no? La solterona uno contra uno es muy emocionante.
+370	1733da7a	Basta de decir lo obvio.
+380	bea6472c	Toma una maldita carta, si te atreves...
+390	80791ae8	Ay, por el amor al asesinato... Qué impaciente eres. Deberíamos saborear esto.
+400	281b4844	{fc(57e4f1)Yugamu hizo un espectáculo de mover el dedo entre dos cartas. Por supuesto, observaba con atención la expresión de Takemaru...}
 410	f4a72a8b	
-420	d88b7787	{fc(57e4f1)La verdad, me sorprendió...\nno se le nota ningún cambio en la cara.}
-430	891aabdd	{fc(57e4f1)Takemaru, que no era apto para los faroles...\n¿será fruto del entrenamiento con Eva?}
-440	c69de6e0	Tú, que no conocías ni la "p" de cara de póker,\nhas crecido mucho en tan poco tiempo.
-450	b953ba66	Pero... es una lástima.\nA mí no me funciona.
-460	22f6d5d3	Esta... no es el comodín, ¿verdad?
-470	b2168c3a	{fc(57e4f1)Yugamu sacó una carta sin dudar...}
-480	049e5949	{fc(57e4f1)y mostró de su mano dos 7 que hicieron pareja.}
-490	ae7afd5a	La verdad, yo en la expresión de Takemaru\nno pude leer nada...
-500	0905d4d9	...Mal.\nOmokage no está mirando la expresión.
-510	3f6fd8aa	¿Eh?\n¿Qué va a mirar aparte de la expresión?
-520	54de89b0	Eva tiene razón.\nLo que miro son los músculos de Takemaru.
-530	242df763	¿Músculos...? ¡¿Qué?!
-540	a45ec602	Por mucho que controles la expresión,\nhay reacciones involuntarias que la voluntad no controla...
-550	3c0f479c	Tu tensión, tus emociones, se manifiestan\nen delicados cambios de los músculos faciales.
-560	170c08cf	Yo puedo detectarlos.\nCon conocimiento médico y experiencia profesional.
-570	73188b5c	{fc(57e4f1)¡En un lugar tan irrelevante,\nsaca una habilidad nueva como de manga de batalla...!}
-580	5877f657	{fc(57e4f1)¡Pero mal! ¡Así Takemaru no tiene posibilidades!}
-590	fe57b4b9	¡Tsk...!
-600	c33479e2	Siéntete orgulloso...\nde que hayas crecido hasta obligarme a usar esto.
-610	2621a985	Y arrepiéntete...¡de haber peleado con el peor método, el Descarte...!
-620	15120464	{fc(57e4f1)Tal como anunció, Yugamu no robó el comodín ni una vez\ny las manos de ambos siguieron disminuyendo...}
-630	0ce716ee	{fc(57e4f1)Por fin quedó Takemaru con 2 cartas, incluido el comodín,\ny Yugamu con 1.}
-640	9dafbbaf	¡Ugh, si ahora Yugamu saca la que no es el comodín\nse acabó...!
+420	d88b7787	{fc(57e4f1)La ausencia total de cambio en su rostro era, sinceramente, impactante de ver...}
+430	891aabdd	{fc(57e4f1)Takemaru había sido tan pésimo para hacer faroles antes... ¿Era por el entrenamiento de Eva?}
+440	c69de6e0	Has llegado muy lejos para alguien que no podía mantener una cara de póquer ni para salvar su vida.
+450	b953ba66	Pero lamentablemente para ti, no funcionará conmigo.
+460	22f6d5d3	Esta no debe ser la solterona.
+470	b2168c3a	{fc(57e4f1)Yugamu sacó con confianza una de las cartas de Takemaru...}
+480	049e5949	{fc(57e4f1)Y luego reveló el par de sietes que ahora tenía en la mano.}
+490	ae7afd5a	Sinceramente, no pude leer nada en la cara de Takemaru...
+500	0905d4d9	Esto está mal. El señor Omokage no está mirando su cara.
+510	3f6fd8aa	¿Eh? ¿Qué más hay que mirar?
+520	54de89b0	Eva tiene razón. Estoy mirando los músculos de Takemaru.
+530	242df763	¿Mis músculos...?
+540	a45ec602	Por más que trates de ocultar tu expresión, hay algunas acciones involuntarias que no se pueden controlar...
+550	3c0f479c	Tu tensión y tu emoción aparecen como cambios minúsculos en los músculos de tu cara.
+560	170c08cf	Puedo leerlos. Gracias a mis conocimientos médicos y experiencia profesional, claro.
+570	73188b5c	{fc(57e4f1)¡Sacó una nueva habilidad en un juego de niños como si esto fuera una batalla de verdad!}
+580	5877f657	{fc(57e4f1)¡Pero esto no pinta bien. No hay forma de que Takemaru pueda ganar ahora!}
+590	fe57b4b9	¡Tch...!
+600	c33479e2	Deberías estar orgulloso de haber llegado lo bastante lejos como para hacerme usar estas tácticas.
+610	2621a985	¡Y deberías lamentar tener que enfrentarme con la solterona en tu mano!
+620	15120464	{fc(57e4f1)El número de cartas en sus manos seguía disminuyendo. Yugamu nunca sacó la solterona ni una sola vez.}
+630	0ce716ee	{fc(57e4f1)Por fin, Takemaru sostenía dos cartas, incluida la solterona, mientras que a Yugamu solo le quedaba una.}
+640	9dafbbaf	¡Urk! ¡Si Yugamu no saca la solterona en su próxima jugada, todo habrá terminado...!
 650	f4a72a8b	
-660	69c81d29	No... todavía, quizás...
-670	28d9ebda	...Está bien, sácala de una vez.
-680	5ba304ac	Jeje... sin que me lo digas.\nCon esto termino.
-690	dbe60dc0	{fc(57e4f1)La sonrisa de Yugamu, segura de la victoria.}
-700	55eca503	{fc(57e4f1)Pero en cuanto vio la cara de la carta que sacó,\nesa sonrisa se congeló.}
-710	fdc9c765	¡¿Imposible... el comodín?!
-720	409f5704	¡¿Eh?! ¡¿Cómo?!
-730	8ae186ac	¡Jeh, entonces me toca sacar a mí!\n¡Allá voy, Yugamu!
-740	8df5f713	¡Ugh...! ¡M-Mal!
-750	df0c689b	{fc(57e4f1)La carta que Takemaru sacó sin dudar\nse estrelló en la mesa junto a otra de su mano.}
-760	2a3c9adb	{fc(57e4f1)En la mano de Yugamu solo quedó el comodín.}
-770	2923dcaf	¡¡Bieeen!!\n¡¡Gané yo!!
-780	8521a27e	...Excelente, Takemaru.
-790	8b1a1f11	Imposible... ¿cómo logró engañarme los ojos?
-800	009b5b97	¡Cuando puse la mano en la carta, sin duda\ntus músculos faciales mostraron dolor y agitación...!
-810	f347c5aa	Je, la razón es... esto.
-820	4a702b11	{fc(57e4f1)Takemaru mostró la mano en la que no tenía la carta.\nDe la palma goteaba mucha sangre.}
-830	7aeea72c	Ya veo, te autolesionaste a tiempo...\ny usaste ese dolor de camuflaje.
-840	01975699	El estratega se ahogó en su propia estrategia.
-850	93b6cdee	Pero eso solo no explica\nque sacaras de una vez la carta correcta.
-860	866a5f50	¡Bah, eso fue pura suerte!
-870	5c912a02	¡¿Hasta aquí... pura suerte?!
-880	0deb89f2	Pero tú, desconcertado, en ese momento te dejaste llevar por mí.
-890	7cb5c832	A los así, está decidido:\npierden la pelea.
-900	981f0bcf	Fu, fufu... ya veo... ¡interesante...!
-910	84b7a8d2	Qué buena partida, de verdad. ¡Reconozco mi derrota!
-920	b8173854	¡Perdiste y qué haces con los ojos brillando, asco!
-930	83270dd1	Jeje... porque me divertí contigo.\nAh, qué combate tan pleno de matar...
-940	8be57c4d	¿O mejor dicho, un "amar a matar"?
-950	962b3836	Ah, esa herida de la mano...¿por qué no me dejas tratártela con dedicación?
-960	63b1b451	¡No digas cosas realmente asquerosas!
-970	0e33f8a3	{fc(57e4f1)Qué sorpresa...\nno pensé que Takemaru de verdad ganaría.}
-980	1689a474	{fc(57e4f1)Aunque no entendí bien el sentido,\n¿habrá acertado el entrenamiento de Eva...?}
-990	1c851acc	{fc(57e4f1)En todo caso, caso cerrado... pensé, cuando de pronto.}
-1000	7479921e	Intrusión enemiga. Intrusión enemiga.\nSe detecta un ataque enemigo en esta zona.
-1010	860ad3e8	Se despliega de inmediato el modo de defensa.\nComiencen cuanto antes los preparativos de la batalla defensiva.
-1020	91160109	¡Ugh...!
-1030	a08aea56	Un ataque enemigo...
-1040	236d3cb3	Parece que sí...
+660	69c81d29	No... ¡A menos que...!
+670	28d9ebda	Adelante. Toma una.
+680	5ba304ac	Ejejeje, no hace falta que me lo digas dos veces. Este es el final.
+690	dbe60dc0	{fc(57e4f1)Yugamu sonrió, seguro de su victoria.}
+700	55eca503	{fc(57e4f1)Pero su sonrisa se heló en cuanto vio qué carta había sacado.}
+710	fdc9c765	Imposible... ¡¿La solterona?!
+720	409f5704	¡¿Eh?! ¡¿Pero cómo...?!
+730	8ae186ac	¡Ja! ¡Ahora me toca apretar el gatillo! ¡¿Listo, Yugamu?!
+740	8df5f713	¡Agh! ¡Maldición!
+750	df0c689b	{fc(57e4f1)Takemaru agarró la carta sin vacilar y la estampó sobre la mesa con su última carta.}
+760	2a3c9adb	{fc(57e4f1)Lo único que quedó en las manos de Yugamu fue el comodín.}
+770	2923dcaf	¡SÍÍÍÍÍÍÍ! ¡GANÉ!
+780	8521a27e	Espléndido trabajo, señor Takemaru.
+790	8b1a1f11	¿Cómo lograste engañarme?
+800	009b5b97	¡Estaba seguro de que podía ver dolor e inquietud en tus músculos faciales cuando puse la mano sobre esa carta!
+810	f347c5aa	Je, déjame mostrarte por qué,
+820	4a702b11	{fc(57e4f1)Takemaru mostró su otra mano, la que no usaba para sostener las cartas. La sangre le corría por la palma.}
+830	7aeea72c	Ya veo, te hiciste daño en el momento exacto... Y usaste ese dolor para camuflar tu reacción.
+840	01975699	Víctima de su propia trampa.
+850	93b6cdee	Pero eso no explica cómo lograste sacar la carta correcta inmediatamente después.
+860	866a5f50	¡Ja! ¡Eso fue pura suerte!
+870	5c912a02	¡¿Pura suerte?! ¡¿Después de todo eso?!
+880	0deb89f2	Estabas tan alterado que te abrumé.
+890	7cb5c832	Cualquiera que haga eso va a perder una pelea.
+900	981f0bcf	Je, jeje... Ya veo... ¡Qué fascinante!
+910	84b7a8d2	¡Bueno, fue una gran partida! ¡Acepto mi derrota!
+920	b8173854	Perdiste pero tus ojos siguen encendidos de emoción, me da un susto de los demonios.
+930	83270dd1	Ejejeje, la pasé tan bien contigo. Una lucha a muerte muy satisfactoria...
+940	8be57c4d	Lo siento en lo más hondo de mi corazón...
+950	962b3836	Cierto, la herida de tu mano... Por favor, déjame colmarla de un tratamiento intenso.
+960	63b1b451	¡Me estás dando un susto de los mil demonios, hombre!
+970	0e33f8a3	{fc(57e4f1)Qué sorpresa... Takemaru de verdad ganó.}
+980	1689a474	{fc(57e4f1)No lo entiendo del todo, pero supongo que esto significa que fue buena idea que Eva lo entrenara...}
+990	1c851acc	{fc(57e4f1)Justo cuando me sentía satisfecho por un trabajo bien hecho...}
+1000	7479921e	Alerta de intrusos. Alerta de intrusos. Se ha detectado personal no autorizado en los terrenos de la escuela.
+1010	860ad3e8	Modo de defensa activado. Todas las tropas disponibles, prepárense para la batalla de inmediato.
+1020	91160109	¡Urk...!
+1030	a08aea56	Un ataque enemigo, ¿eh...?
+1040	236d3cb3	Eso parece.
