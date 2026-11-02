@@ -5682,6 +5682,10 @@ message/s11_0_seisyunr_aa_d065_m100_010
 message/s11_0_seisyunr_aa_d065_m120_010
 message/s11_0_seisyunr_aa_d065_m130_010
 message/s11_0_seisyunr_aa_d065_m150_010
+message/s11_0_seisyunr_aaa_d065_m010_010
+message/s11_0_seisyunr_aaa_d065_m060_010
+message/s11_0_seisyunr_aab_d065_m010_010
+message/s11_0_seisyunr_aab_d065_m040_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
