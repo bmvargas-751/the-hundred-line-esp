@@ -1,38 +1,38 @@
 id	huella_jp	es
-10	4b526561	{fc(57e4f1)Las caras de todos en la cafetería\neran igualmente sombrías...}
-20	49bd2fa7	{fc(57e4f1)Cuando me notaron llegar,\nel ambiente se puso aún más tenso.}
-30	49bf2d84	...De ahora en adelante, Eva tendrá que quedarse\ntodo el tiempo en la jaula. Eso se decidió.
+10	4b526561	{fc(57e4f1)En la Cafetería, todos tenían un semblante solemne.}
+20	49bd2fa7	{fc(57e4f1)Cuando entré, el ambiente pareció tensarse un poco más.}
+30	49bf2d84	Eva lleva en su jaula desde ayer.
 40	149e5eda	Ya veo...
-50	ddac5614	Bueno, es una medida inevitable.\nSi vuelve a pasar algo así, hasta Kako corre peligro.
-60	0288ce81	La llave de la jaula que guardaba Shouma,\nla guardaremos en la Sala de Guerra.
-70	1e5b7d24	¿Y la jaula de ese tipo, Eito, la movemos al patio?
-80	57616b91	Sí, tenerla cerca de la Eva de ahora\nes realmente peligroso.
-90	effaed55	{fc(57e4f1)Es verdad, es lo más prudente.\nY ahora SIREI tampoco está...}
-100	1379ef92	SIREI... ¿Tsubasa sigue intentando repararlo?
-110	7a83f6ae	Parece que todavía no se sabe\nsi se podrá arreglar...
-120	ab4ff2b5	Pero después de SIREI, matar también a Shouma...\nMe quito el sombrero ante su eficiencia.
-130	39338000	Aunque... Shouma también se le lanzó encima,\nasí que en ese sentido quizás se pueda hablar de defensa propia...
-140	2a05d3a0	{fc(57e4f1)De hecho, para Eva y los futuranos,\nesta guerra entera es defensa propia.}
-150	8f8e9e73	{fc(57e4f1)Pero aunque todos lo sentían,\nnadie parecía poder decirlo en voz alta.}
-160	0b3c2066	{fc(57e4f1)Esa verdad es demasiado pesada...\nla verdad es que yo tampoco sé cómo digerirla...}
-170	e58d552e	No, no es defensa propia...\nEva no es igual a nosotros.
-180	2ba2277e	Es una prisionera... y originalmente una enemiga.
-190	c74ddeec	Además, todos lo vieron. ¡Cómo estaba ella cuando le absorbió la criptoglobina a Shouma!
-200	ecc0a6eb	Sí, eso fue anormal...\nParecía un monstruo.
-210	ac7fd7ce	De verdad, estuvo bien meterla en la jaula.
-220	1f8e7ea4	...Pero ¿eso basta para estar a salvo?
-230	a9b2fac6	Si por cualquier cosa vuelve a descontrolarse así,\nya no podemos usarla ni como fuerza de combate...
-240	7febb62e	¿Q-Qué quieres decir...?
-250	2adaf6b3	Que mantener viva a Eva\nya solo trae riesgos, ¿no?
-260	f451da37	...¿Dices que hay que matar a Eva?
-270	62b02dd6	Pero... matar solo por ser peligrosa...
-280	a39326b4	¡Shouma murió a manos de ella!\n¡Ya nosotros tampoco estamos a salvo!
-290	37756e8e	Si algo rompe la jaula... ¡puede que nos ataque a nosotros también!
-300	a86eca24	El que mata a un compañero... ya no es compañero.\nQuizás haya que acabar con esto...
-310	d451e4f5	Yak-Takemaru también...
+50	ddac5614	Es una precaución necesaria. Si se descontrola así otra vez, Kako podría estar en peligro.
+60	0288ce81	Shouma era quien se encargaba de la llave, pero por ahora la pusimos en la Sala de Guerra.
+70	1e5b7d24	¿Creen que deberíamos mover la jaula de Eito a un rincón del Patio de la escuela?
+80	57616b91	Creo que sí. Dejarlo cerca de Eva como está ahora sería buscarse problemas.
+90	effaed55	{fc(57e4f1)Sí, probablemente sea la opción más segura ahora. Sobre todo con SIREI todavía fuera de servicio.}
+100	1379ef92	¿Hay alguna posibilidad de que Tsubasa pueda arreglar a SIREI?
+110	7a83f6ae	Todavía no ha podido evaluar los daños. Ha estado muy preocupada por otras cosas...
+120	ab4ff2b5	Eva fue y mató a Shouma y a SIREI. Hasta yo tengo que quitarme el sombrero ante ella.
+130	39338000	Shouma fue quien la atacó primero. Probablemente podríamos considerar su muerte como defensa propia.
+140	2a05d3a0	{fc(57e4f1)Técnicamente toda esta guerra fue defensa propia, al menos desde el punto de vista de Eva y los demás futuranos.}
+150	8f8e9e73	{fc(57e4f1)Todos lo sabíamos, pero este no era el momento de señalarlo.}
+160	0b3c2066	{fc(57e4f1)Era un hecho que todavía nos costaba asimilar.}
+170	e58d552e	¿Defensa propia? No sé si tanto. Eva nunca ha sido realmente de los nuestros.
+180	2ba2277e	Antes era nuestra enemiga, y solo peleó por nosotros porque le lavamos el cerebro.
+190	c74ddeec	¡O sea, todos vieron cómo estaba cuando mató a Shouma y se llevó su criptoglobina, ¿no?!
+200	ecc0a6eb	Sí, fue bastante intenso... Era como una especie de monstruo.
+210	ac7fd7ce	Entonces menos mal que la volvimos a poner en su jaula, ¿no?
+220	1f8e7ea4	Quizás, pero... ¿Será suficiente?
+230	a9b2fac6	Si se vuelve a descontrolar, no sé si podamos controlarla.
+240	7febb62e	¿A-Adónde quieres llegar?
+250	2adaf6b3	Estás diciendo que es demasiado arriesgado dejar vivir a Eva, ¿verdad?
+260	f451da37	¿Tú... quieres matarla?
+270	62b02dd6	No me parece justo. ¿Solo porque podría ser peligrosa?
+280	a39326b4	¡"Podría" nada, mató a Shouma! ¡Jamás estaremos seguros con alguien así cerca!
+290	37756e8e	¿O prefieres esperar a que se escape de su jaula y ataque a otra persona?
+300	a86eca24	Dejó de ser miembro de este equipo en el momento en que mató a uno de los nuestros. Tenemos que tratarla como a cualquier otro enemigo ahora.
+310	d451e4f5	¿Tú también, Takemaru...?
 320	f4a72a8b	
-330	3c6442b6	Sé que Takumi quiere que Eva viva.\nPor eso no digo que haya que decidir de inmediato...
-340	49d126c5	La conclusión es considerar esa posibilidad,\npero estar en guardia con Eva.
-350	c274e66c	...Para vigilarla, que lo haga otro.\nYo no quiero que me ataque.
-360	6fe574e2	{fc(57e4f1)Siento cómo se extiende entre todos\nla desconfianza y el miedo hacia Eva...}
-370	f11d7822	{fc(57e4f1)En ese ambiente, no pude decir nada\ny salí de la cafetería...}
+330	3c6442b6	Sé que no quieres esto, Takumi. Por eso no te voy a forzar la decisión de inmediato.
+340	49d126c5	Pero debemos ser conscientes del peligro y tratar a Eva con la cautela adecuada.
+350	c274e66c	Con tal de que yo no sea quien tenga que vigilarla. No quiero ser su próxima víctima.
+360	6fe574e2	{fc(57e4f1)Eva se estaba convirtiendo rápidamente en blanco de desconfianza y miedo. Y no sin cierta razón.}
+370	f11d7822	{fc(57e4f1)No había realmente nada que pudiera decir en su defensa, así que simplemente me fui.}

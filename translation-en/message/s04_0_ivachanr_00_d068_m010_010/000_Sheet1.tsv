@@ -1,70 +1,70 @@
 id	huella_jp	es
 10	7fb888fd	Día 68
-30	69ceab21	¡Atención, tropa, hora de levantarse!
-40	55ee6732	¡Amaneció el sexagésimo octavo día en la Última Academia de Defensa!
-50	f67d5c09	¡Hoy también, por la gran humanidad,\nno hay penuria ni sufrimiento que nos detenga!
-60	d9f7e380	¡Protejamos hasta el final nuestra amada academia\ndel enemigo salvaje y vil!
-70	63aaab7c	{fc(57e4f1)Ese día, tras un desayuno sencillo en la cafetería,\nesperé el momento y fui al Patio.}
-80	eb64d25c	{fc(57e4f1)Por supuesto, para hablar con Eva\nsobre lo que haremos.}
+30	69ceab21	¡Arriba, tropa! ¡Es hora de levantarse!
+40	55ee6732	¡Prepárense para su sexagésimo octavo día de servicio activo aquí, en la Última Academia de Defensa!
+50	f67d5c09	¡Prepárense para pasar otro día soportando lo insoportable y sufriendo lo insufrible, para allanar el camino a la futura grandeza de la humanidad!
+60	d9f7e380	¡Estén listos para dar la vida por proteger a nuestra amada escuela del vil y bárbaro enemigo!
+70	63aaab7c	{fc(57e4f1)Tras tomar un desayuno rápido y sencillo en la Cafetería, me dirigí al Patio cuando nadie miraba.}
+80	eb64d25c	{fc(57e4f1)Naturalmente, iba a hablar con Eva. Sobre el futuro.}
 90	be1f2472	
-100	c9181699	{fc(57e4f1)Al notar que me acercaba,\nEva dejó la máscara de su actuación inexpresiva.}
-110	dce12a9e	...Tardaste.\nPiensa en lo que es esperar solo.
-120	b4be7f9b	{fc(57e4f1)Aunque lo decía así, se notaba cierto alivio\ny una familiaridad en su aire.}
-130	e5c717b2	Perdón. Pensé que si me apuraba de forma rara con el desayuno,\nlos demás sospecharían...
-140	17cc74a0	Lo sé.\nLo dije para molestar un poquito.
-150	366a70f5	Molestar... bueno,\nes lo menos que me merezco.
-160	2253f688	...Porque somos enemigos.
-170	f054443f	Sí... nosotros...
-180	dbae45e6	...Somos enemigos.\nLos que invaden y los invadidos.
-190	07123488	{fc(57e4f1)En el fondo de los ojos de Eva, que me miraban fijo,\nse encendió una oscura llama de emociones.}
-200	d0a5ce2e	{fc(57e4f1)Ira, odio, tristeza.}
-210	8ae5f3ed	¿Por qué vinieron a atacarnos?\nSi ustedes no hubieran venido a Futurum...
-220	85ec26e8	...No tengo excusas.\nSé que los terrícolas trajimos la guerra a este planeta.
+100	c9181699	{fc(57e4f1)Al verme, Eva dejó caer su actuación y permitió que la emoción volviera a asomar en su rostro.}
+110	dce12a9e	Llegas tarde. Deberías pensar en cómo me siento esperándote aquí sola.
+120	b4be7f9b	{fc(57e4f1)A pesar del reproche, parecía más relajada ahora, casi como si me estuviera tomando cariño.}
+130	e5c717b2	Perdona. No quería parecer demasiado apurado y arriesgarme a delatarnos.
+140	17cc74a0	Lo sé. Solo intentaba hacerte sentir mal.
+150	366a70f5	Supongo que al menos eso me lo merezco.
+160	2253f688	Somos enemigos, después de todo.
+170	f054443f	Tú y yo somos...
+180	dbae45e6	Enemigos. Invasores e invadidos.
+190	07123488	{fc(57e4f1)Eva me miró fijamente, con una mirada ardiendo de una docena de emociones en conflicto.}
+200	d0a5ce2e	{fc(57e4f1)Rabia, odio, dolor... Y más aún.}
+210	8ae5f3ed	¿Por qué nos atacaron? Si nunca hubieran venido a Futurum, nada de esto habría pasado...
+220	85ec26e8	No pondré excusas. Ahora sé que fuimos nosotros quienes empezamos esta guerra.
 230	f4a72a8b	
-240	633c1450	No... no quiero culparte.
-250	73dcc86f	Porque tú tampoco sabías nada,\ny solo te hicieron pelear por tus compañeros y tu familia.
-260	b391e9dc	{fc(57e4f1)La emoción que quedaba mezclada en los ojos de Eva...\nera compasión.}
-270	118900cf	{fc(57e4f1)Para ella, nosotros seremos como niños soldados ignorantes\na los que adultos del país enemigo les dieron armas.}
-280	3a0b47b7	...Y yo, ¿qué va a pasar conmigo?
-290	36932063	Perdón... la verdad es que todavía no sé.
-300	af7804b1	Bueno... tampoco esperaba\nque me dejaras escapar...
-310	43220fe5	Pero al menos no pienso avisarle a nadie más.\nTodos te ven ahora como una amenaza.
-320	237614b3	¿Amenaza? ¿No es exagerado, para una sola prisionera?
-330	ccdb3219	Incluso me hicieron ponerme esta ropa...\nantes no había nada así, ¿por qué de repente...?
-340	257ff880	...¿Eh?
-350	8d80b849	{fc(57e4f1)En ese momento sentí una incongruencia.\nSerá que Eva...}
-360	9b83dae0	...Oye, ¿te acuerdas de Ginzaki, uno de los nuestros?
-370	9fe8e213	Shouma... claro que me acuerdo.\nVenía a mi jaula y me cuidaba bien.
-380	b03c021c	Ahora que lo pienso, dejó de venir cuando llegaste tú.\n¿Le pasó algo...?
-390	1132f811	{fc(57e4f1)¡No hay duda...!}
-400	7cdee9b1	{fc(57e4f1)Eva no recuerda haber matado a Shouma.\nEs verdad, dijo que parte de sus recuerdos eran confusos...}
-410	c63cf69d	{fc(57e4f1)¿Qué hago...? ¿Debo decírselo?}
-420	72b04bf6	{fc(57e4f1)No... si se altera por el shock sería grave.\nMejor disimularlo.}
-430	a8191adc	Oye, estás pálido...\nNo me digas que él...
-440	95e6fb2a	S-Sí... murió en combate.
-450	e16d0645	...¡!
-460	4870fbd9	Así que fue eso...\nPobrecito...
-470	ad23f30f	{fc(57e4f1)Eva notó el cambio en mi cara y no pude ocultarlo todo,}
-480	8750e235	{fc(57e4f1)pero logré disimular de algún modo lo más grave.}
-490	8531d2cd	Era amable incluso con una prisionera como yo.\nPensé que no era para un campo de batalla...
-500	b390ee48	Sí, era muy amable y buena persona.\nAunque su autoestima era anormalmente baja.
-510	c837f2db	A ti también te dolerá.
-520	5de94399	{fc(57e4f1)En la voz de Eva había compasión sincera.}
-530	369859b6	{fc(57e4f1)Encerrada en una jaula así,\nse preocupa por mí, que soy su enemigo...}
-540	22d5bbd1	{fc(57e4f1)Después de todo, ella también es una }{fc(ff635b)"buena persona"}{fc(57e4f1).}
-550	e6f901f7	¿Te preocupas por mí? ¿Por quien mató a los comandantes,\na tus compañeros?
-560	9cedf59e	...¿Compañeros?\nAh... ¿los {fc(ff635b)"héroes"}?
-570	5c11ee1a	No sé si se les puede llamar compañeros.\nSobre todo, ellos no me ven así a mí, creo.
-580	dd2378b9	Yo no quería que me eligiera el {fc(ff635b)"poder de Dios"}...\nNo quería ir a la guerra...
-590	3ad4fc3a	No quería ser una heroína.
-600	d1a16a6b	{fc(57e4f1)...Entonces por fin lo entendí.\nAunque hayamos nacido en planetas y bandos distintos...}
-610	7b3fe931	{fc(57e4f1)ella es igual que yo.}
-620	3a5e11b4	{fc(57e4f1)Ella y yo, por nuestra tierra,\nfuimos obligados a ensuciarnos las manos de sangre peleando.}
-630	3e92774e	{fc(57e4f1)No había opciones entonces.\nSeguro que para ella tampoco.}
-640	483fd2ef	Ustedes también, ¿verdad?
-650	ed9a89f7	Tratando con ustedes me di cuenta.\nNadie desea pelear...
-660	9ed8abf7	¿Por qué nos encontramos en un campo de batalla?\nSi nos hubiéramos conocido de otra forma...
+240	633c1450	No, yo... No pretendía culparte a ti en particular.
+250	73dcc86f	Tú no lo sabías... Te dijeron que peleabas para proteger a tus amigos y familia.
+260	b391e9dc	{fc(57e4f1)Si tuviera que ponerle nombre a la emoción en el rostro de Eva ahora, tendría que llamarla... Lástima. Compasión, quizás.}
+270	118900cf	{fc(57e4f1)Supongo que a sus ojos éramos simplemente soldados engañados, obligados a pelear una guerra que no entendíamos del todo.}
+280	3a0b47b7	Entonces, ¿qué va a pasar conmigo ahora?
+290	36932063	Lo siento. Todavía estoy intentando averiguarlo...
+300	af7804b1	No espero necesariamente que me liberes, pero sería bueno saberlo.
+310	43220fe5	Al menos, puedo prometer que no le diré a nadie que volviste a ser la de antes. Ya te odian bastante.
+320	237614b3	¿Odiarme? ¿No es un poco... excesivo?
+330	ccdb3219	Antes no me trataban así ni me hacían usar esta ropa tan extraña. ¿Por qué cambiaron las cosas tan de repente?
+340	257ff880	¿Eh...?
+350	8d80b849	{fc(57e4f1)Algo en la actitud de Eva me pareció raro. ¿Podría ser que...?}
+360	9b83dae0	Eva, ¿recuerdas a un miembro de nuestro equipo llamado Shouma? ¿Shouma Ginzaki?
+370	9fe8e213	Shouma... Sí, lo recuerdo. Venía a verme a mi jaula y me ayudaba con pequeñas cosas de todos los días.
+380	b03c021c	Ahora que lo mencionas, hace tiempo que no lo veo... ¿Qué le pasó?
+390	1132f811	{fc(57e4f1)¡Tenía razón!}
+400	7cdee9b1	{fc(57e4f1)Eva no recuerda haber matado a Shouma... Sí dijo que su memoria seguía borrosa.}
+410	c63cf69d	{fc(57e4f1)¿Y ahora qué? ¿Debería decírselo?}
+420	72b04bf6	{fc(57e4f1)No... El impacto podría ser demasiado para ella. Pero tengo que decirle algo.}
+430	a8191adc	Te has puesto pálido... Oh, no. ¿Él...?
+440	95e6fb2a	Murió. En combate.
+450	e16d0645	¡...!
+460	4870fbd9	Ya veo... Lamento oírlo.
+470	ad23f30f	{fc(57e4f1)Eva era demasiado observadora como para ocultarle por completo la verdad.}
+480	8750e235	{fc(57e4f1)Pero al menos logré callar el detalle más importante, por ahora.}
+490	8531d2cd	Fue... amable conmigo, incluso cuando era prisionera. Tuve la impresión de que simplemente no estaba hecho para la guerra.
+500	b390ee48	Sí, era un buen tipo. Y una persona mucho más valiente y amable de lo que él mismo creía.
+510	c837f2db	Tú también lo has pasado mal, ¿verdad...?
+520	5de94399	{fc(57e4f1)Eva habló con una simpatía que supe por instinto que era sincera.}
+530	369859b6	{fc(57e4f1)Incluso encerrada en esta jaula tras las líneas enemigas, encontraba en su corazón la forma de pensar en mis sentimientos.}
+540	22d5bbd1	{fc(57e4f1)Obviamente, Shouma no era la única }{fc(ff635b)alma valiente y amable}{fc(57e4f1) por aquí.}
+550	e6f901f7	No estás preocupada por mí, ¿verdad? Soy el responsable de matar a todos tus amigos.
+560	9cedf59e	¿Amigos...? Oh, ¿te refieres a los otros {fc(ff635b)héroes}?
+570	5c11ee1a	Peleábamos del mismo lado, pero no los llamaría amigos... Ciertamente ellos no me veían así.
+580	dd2378b9	Yo no pedí ser elegida por el {fc(ff635b)poder de Dios}... Si no fuera por eso, jamás habría ido a la guerra en primer lugar.
+590	3ad4fc3a	Nunca quise... ser una heroína.
+600	d1a16a6b	{fc(57e4f1)Y con eso, por fin comprendí. Eva y yo quizás estuviéramos en bandos distintos, nacidos en planetas distintos...}
+610	7b3fe931	{fc(57e4f1)Pero éramos básicamente iguales.}
+620	3a5e11b4	{fc(57e4f1)Ninguno de los dos quería pelear ni matar a otras personas, pero con nuestros hogares y familias en juego, no nos había quedado más opción.}
+630	3e92774e	{fc(57e4f1)No elegimos esta vida. Nos la eligieron.}
+640	483fd2ef	Para todos ustedes es igual, ¿no?
+650	ed9a89f7	Lo entendí en cuanto los vi fuera del combate. Ustedes tampoco quieren pelear de verdad.
+660	9ed8abf7	Qué pena que hayamos tenido que conocernos así... En otro tiempo y lugar, quizás habríamos sido...
 670	f4a72a8b	
-680	cc6f30e2	{fc(57e4f1)No pudo seguir hablando y se quedó callada.}
-690	28b0674a	{fc(57e4f1)Yo tampoco pude hacer más que mirar\nsus ojos tristes...}
-700	8a74e3a2	{fc(57e4f1)Comprobando que nadie me vigilaba,\nvolví del Patio al edificio.}
+680	cc6f30e2	{fc(57e4f1)Eva no logró terminar esa frase.}
+690	28b0674a	{fc(57e4f1)Yo tampoco pude decir nada para consolarla. Solo la miré fijamente a esos ojos grandes y tristes.}
+700	8a74e3a2	{fc(57e4f1)Tras un rato, volví a comprobar que nadie mirara y volví a entrar.}

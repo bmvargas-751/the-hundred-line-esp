@@ -1,40 +1,40 @@
 id	huella_jp	es
-10	806eca61	Ay, ay, ay...\n¿Están todos bien...?
-11	53a1b9e9	Sí, sobrevivo como puedo...
-20	55b10861	Esa V'ehxness es de lo más persistente...\nTramar llevarse a alguien con su autodestrucción...
-30	f8a822fb	{fc(57e4f1)...Todos estábamos hechos pedazos.\nCon las heridas de la autodestrucción de V'ehxness, estábamos aturdidos...}
-40	e11081e9	{fc(57e4f1)Pero, de algún modo, todos vivos...}
-50	d30038ff	...¡Ah!\n¡Nozomi...! ¡Kamyuhn...!
+10	806eca61	Auuu. ¿Están todos bien?
+11	53a1b9e9	Sí. De algún modo seguimos vivos...
+20	55b10861	Qué bajeza de V'ehxness intentar llevarnos con ella...
+30	f8a822fb	{fc(57e4f1)Todos habían resultado heridos por la autodestrucción de V'ehxness y apenas conservaban la conciencia.}
+40	e11081e9	{fc(57e4f1)Pero todos seguían vivos...}
+50	d30038ff	¡...! ¡Nozomi...! ¡Kamyuhn!
 60	83086f42	
-70	9c714be8	Ngh...
-80	30451db7	{fc(57e4f1)En el abdomen de las dos\nhabía fragmentos profundamente clavados.}
-90	ecc0e7e0	{fc(57e4f1)Nosotros, aunque muramos, nos regeneramos con el Revive-O-Matic.\nPero ellas dos...}
-100	946213b9	{fc(57e4f1)¡No se las puede revivir...!}
-110	d904af3d	La cagué... Takumi... en este caso...\ninyecta mi criptoglobina...
-120	53862490	¡Inyecta mi criptoglobina en Nozomi!\n¡Así... al menos ella se salva!
-130	193cdd6b	¿Cómo...? ¿Qué quieres decir...?
-140	ed433c01	Mi criptoglobina puede estabilizar la tuya...\n¡Al menos tú...!
-150	035626fd	¡Entonces al revés...!\n¡Con mi criptoglobina, salva a Kamyuhn...!
-160	e261f1b2	Kamyuhn... es alguien que necesita el futuro de Futurum...\nSin ella, no sé qué pasaría con la guerra...
-170	1ee67e43	Y además... ¡Kamyuhn es mi amiga!
-180	92fe3067	¡No digas tonterías!\n¡Tú también eres mi amiga! ¡Por eso...!
-190	1c7536a6	{fc(57e4f1)Las dos alzaban la voz desesperadas...}
-200	601305ea	{fc(57e4f1)Kirifuji pedía que salvara a Kamyuhn...\nKamyuhn pedía que salvara a Kirifuji...}
-220	a4d279c5	{fc(57e4f1)Sin pensar en sí mismas,\nsolo pensando en su amiga...}
-230	b5029889	...No hay tiempo.\nElige, Takumi.
+70	9c714be8	
+80	30451db7	{fc(57e4f1)Las dos chicas tenían fragmentos de escombros clavados profundamente en el vientre.}
+90	ecc0e7e0	{fc(57e4f1)El resto de nosotros podíamos usar el Revive-O-Matic para volver tras morir, pero Nozomi y Kamyuhn...}
+100	946213b9	{fc(57e4f1)...¡no podían...!}
+110	d904af3d	¿Cómo pude ser tan descuidada...? Takumi... Sabes lo que hay que hacer.
+120	53862490	¡Dale mi criptoglobina a Nozomi! Al menos así... ¡una de nosotras podrá sobrevivir...!
+130	193cdd6b	¿Eh? ¿De qué hablas, Kamyuhn...?
+140	ed433c01	Si tomas mi poder, estabilizará tu criptoglobina. Por favor, ¡es la única manera...!
+150	035626fd	¡No, no lo aceptaré...! ¡Takumi, usa MI criptoglobina para salvar a Kamyuhn!
+160	e261f1b2	Este planeta la necesita muchísimo más a ella que a mí. Ella es quien sacará a Futurum de esta guerra...
+170	1ee67e43	Además... Es mi amiga. Quiero que viva...
+180	92fe3067	¡No seas necia! Tú también eres mi amiga... Jamás podría dejarte morir...
+190	1c7536a6	{fc(57e4f1)Las voces de Nozomi y Kamyuhn se debilitaban.}
+200	601305ea	{fc(57e4f1)Las dos nos suplicaban que salváramos a la otra.}
+220	a4d279c5	{fc(57e4f1)Ambas dispuestas a morir para salvar a su amiga.}
+230	b5029889	Se les acaba el tiempo a las dos. Vas a tener que elegir, Takumi.
 240	5351680a	¿E-Elegir...?
-250	f63fe2a5	Si seguimos así, las dos mueren...\nPero si se inyecta criptoglobina, una de las dos se salva.
-260	e059942b	...Sé que es una decisión dolorosa.\nPero es mejor que dejar morir a las dos...
-270	937ea92c	...Tú debes elegir.\n¿Quieres que otra persona decida?
-271	e16d0645	...¡Ah!
-280	b21a0193	{fc(57e4f1)¡¿Yo... decidir sobre las vidas de Nozomi y Kamyuhn?!}
-290	0e91b49f	{fc(57e4f1)Hiruko tiene razón... como líder,\nme corresponde decidir.}
-300	b5a6ea51	{fc(57e4f1)Nozomi y Kamyuhn...\nA cuál salvar y a cuál dejar morir.}
-310	1fbcbf16	{fc(57e4f1)Rehice el mundo\npara salvar la vida de Nozomi...}
-320	00df1ffb	{fc(57e4f1)Si dejo morir aquí a Nozomi,\nno sabré para qué crucé el tiempo.}
-330	2276814e	{fc(57e4f1)Pero ¿se me permite por eso\ndejar morir a Kamyuhn...?}
-340	4889fef6	{fc(57e4f1)Kamyuhn es la Doncella que reúne\nla fe del pueblo de Futurum...}
-341	1bcda5bb	{fc(57e4f1)Si Kamyuhn desaparece, ya no habrá líder\nque unifique el mundo de posguerra...}
-342	2f005924	¡Decide rápido...!\n¡Se van a morir las dos!
-343	ecad18c6	{fc(57e4f1)Nozomi y Kamyuhn.}
-344	9be41eb4	{fc(57e4f1)A quien salvaré es...}
+250	f63fe2a5	A este paso, las dos morirán. Solo podemos salvar a una.
+260	e059942b	Sé que es una decisión difícil, pero es mejor que verlas morir a las dos.
+270	937ea92c	Tú eres quien debe decidir. ¿De verdad querrías cargarle esta decisión a otra persona?
+271	e16d0645	¡...!
+280	b21a0193	{fc(57e4f1)¡¿Tengo que elegir... entre Nozomi y Kamyuhn?!}
+290	0e91b49f	{fc(57e4f1)Hiruko tenía razón, sin embargo. Tenía que tomar esta decisión como líder del equipo.}
+300	b5a6ea51	{fc(57e4f1)¿Nozomi o Kamyuhn... A quién salvar y a quién sacrificar?}
+310	1fbcbf16	{fc(57e4f1)Reinicié la línea temporal para salvar a Nozomi...}
+320	00df1ffb	{fc(57e4f1)¿Para qué volví siquiera si dejo morir aquí a Nozomi?}
+330	2276814e	{fc(57e4f1)¡¿Pero eso me da permiso para dejar morir a Kamyuhn sin más?!}
+340	4889fef6	{fc(57e4f1)Kamyuhn es una doncella sacerdotisa con muchos seguidores en Futurum.}
+341	1bcda5bb	{fc(57e4f1)Sin ella, este mundo se quedaría sin una líder que ayude a unirlos tras la guerra.}
+342	2f005924	¡Tienes que decidir ahora! ¡O morirán las dos!
+343	ecad18c6	{fc(57e4f1)Nozomi o Kamyuhn.}
+344	9be41eb4	{fc(57e4f1)¿A quién voy a salvar?}

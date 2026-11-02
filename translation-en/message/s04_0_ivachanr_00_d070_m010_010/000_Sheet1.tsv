@@ -1,70 +1,70 @@
 id	huella_jp	es
 10	d78eceb1	Día 70
-20	1526e019	{fc(57e4f1)De madrugada, antes de que sonara el acostumbrado anuncio...}
-30	742e79f5	{fc(57e4f1)terminé todos los preparativos\ny llegué frente a la jaula de Eva.}
-40	8e7d2fd2	{fc(57e4f1)Primero le pasé a Eva un cúter pequeño y fino,\npara que cortara las ataduras de manos y pies.}
-50	617bb2a0	Fuu... por fin libre de manos y pies...\nLa parte del pecho me apretaba...
-60	aea32e9c	S-Sí, bueno...\nAhora solo falta abrir la llave de la jaula, pero...
-70	fdff17a9	Quizás Hiruko, tan precavida,\nhaya puesto alguna alarma o algo...
-80	bc30c3e6	Cuando abra la jaula, huye enseguida.
+20	1526e019	{fc(57e4f1)Me levanté temprano, antes del anuncio de la mañana.}
+30	742e79f5	{fc(57e4f1)Repasé todo en mi mente por última vez y luego me dirigí a la jaula de Eva.}
+40	8e7d2fd2	{fc(57e4f1)Primero le pasé un pequeño cuchillo para que cortara sus ataduras.}
+50	617bb2a0	Uf... Por fin puedo mover los brazos y las piernas otra vez. Esas cuerdas también me apretaban mucho el pecho.
+60	aea32e9c	S-Sí, ya lo habías mencionado. Ahora solo falta abrir la jaula.
+70	fdff17a9	Pero conociendo a Hiruko y a los demás, seguro tendrán algún tipo de seguridad extra que les avise si se abre...
+80	bc30c3e6	Así que cuando la abra, sal de aquí lo más rápido que puedas.
 90	f4a72a8b	
-100	18a7da3e	...Pero ¿tú de verdad estás bien?
-110	64d5dbb9	{fc(57e4f1)A esa mirada preocupada por mí,\nrespondí con una sonrisa deliberada.}
-120	7d05357c	A estas alturas... si no, no estaría aquí.
-130	39192248	...De verdad gracias, Takumi.
-140	194749bd	Mientras esté V'ehxness,\nserá difícil dialogar, pero...
-150	bd20a081	por ti también... haré lo que pueda a mi manera.
-160	453c9100	Pase lo que pase conmigo,\njamás olvidaré lo que hiciste.
+100	18a7da3e	¿Estás seguro de querer hacer esto?
+110	64d5dbb9	{fc(57e4f1)Le sostuve la mirada unos instantes y luego sonreí.}
+120	7d05357c	Ya es tarde para arrepentirse. Llegué hasta aquí, no voy a retroceder.
+130	39192248	Gracias, Takumi. Te lo agradezco de verdad.
+140	194749bd	Quizás la negociación pacífica no sea posible mientras V'ehxness siga al mando...
+150	bd20a081	Pero haré lo que pueda. Por ti.
+160	453c9100	Pase lo que pase conmigo de aquí en adelante, jamás olvidaré lo que hiciste por mí.
 170	442a5ff7	
-180	7530fc18	{fc(57e4f1)Quería responderle algo acertado,\npero sentí que ninguna palabra alcanzaría.}
-190	7794ded8	{fc(57e4f1)Así que bajé la mirada y metí en la cerradura\nla llave que saqué de la Sala de Guerra...}
-200	c1f3e959	{fc(cfff3f)"Clic, clac..."}
+180	7530fc18	{fc(57e4f1)Quería decir algo. Algo inteligente, algo significativo. Pero sabía que jamás haría justicia a todas las cosas complejas y confusas que sentía.}
+190	7794ded8	{fc(57e4f1)En cambio, manipulé torpemente la llave que había sacado de la Sala de Guerra y la metí en la cerradura...}
+200	c1f3e959	{fc(cfff3f)*clic-clac*}
 210	f4a72a8b	
-220	a8094f15	...¿E-Eh?
+220	a8094f15	...¿Eh?
 230	a29ff79f	¿Qué pasa, Takumi?
-240	aa20f8c1	La llave... la llave no encaja.\n¿Por qué...? No puede ser...
-250	7b19cea7	¿No te habrás equivocado de llave?
-260	5559c839	No me equivoqué.\nSolo mandé cambiar la cerradura.
-270	5ac64df9	¡...! ¡¿Hiruko?!
-285	3b364741	{fc(57e4f1)Enseguida, otras 3 siluetas nos rodearon.}
-280	52f4945c	¡Gaku, Yugamu, Takemaru...!
-290	637357d0	...Qué lástima.\nNo pensé que de verdad intentarías liberar a la prisionera.
-300	75876be6	¡Te dejaste engatusar por una prisionera!\n¡Qué haces, siendo el líder!
-310	1f9f7147	Quería creer en ti, pero...\nviendo esta escena, no puedo.
-320	f7432d12	¡Traidor...!\n¡Ya no te reconozco como líder...!
-330	8d47559a	¡T-Todos...! ¡¿Por qué...?!
-340	66e93c0c	Ya, ya, no hay por qué, ¿no?~\nHiciste de las tuyas, Takumi.
-350	b1b88510	¡¿SIREI...?!\n¿Cómo? ¡Todavía faltaba para la reparación...!
-360	8581f921	Tsubasa es muy capaz, ¿sabes?\n¡Mi cuerpo adorable, gran resurrección anticipada!
-370	67f3621d	Y gracias a eso, pude detectar\ntu rebelión en el último segundo.
-380	38ff1963	N-No puede ser...
-390	2e45c57c	Mm, parece que Eva de verdad\nse quitó el lavado de cerebro sola.
-400	941e3425	¿Será por el efecto de haber absorbido la criptoglobina de Ginzaki?
-410	f07d2d00	¿Absorbido... el efecto...?\n¿Eh? ¿Qué significa eso...?
-420	96139a58	¡Basta, SIREI! ¡No digas más!
-430	7006f9b6	Vaya, ¿Eva no se da cuenta?\n¿No fuiste tú quien dejó seca la criptoglobina de Ginzaki?
-440	1e84974d	Eso que ustedes llaman {fc(ff635b)"poder de Dios"}.\n¿No será que con ese poder aumentado se te soltó el lavado de cerebro?
-450	c047a635	{fc(57e4f1)¡Mal! ¡Si le dicen eso,\nEva va a...!}
-460	a3a64f4c	¿Y-Yo... lo hice?\n¡¿Devoré el {fc(ff635b)"poder de Dios"}...?!
-470	90a20048	¡N-No puede ser!\n¡Cometí un tabú...!
-480	2f7f89f1	...¡¡Noooooooo!!
-490	e1b82a78	¡Eva, tranquila!
-500	c4bf8a29	Matar a un miembro importante de la Unidad de Defensa Especial\ny no acordarse. Qué falta de respeto.
-510	5bfd7b43	...Ya basta, SIREI.\nAhora lo primero es sujetar a Takumi.
-520	67204a5b	¿S-Sujetarme...?
-530	72e1bc42	Perdón, pero si te dejamos suelto ahora,\nno sabemos qué harás esta vez...
-540	870b15d9	No te resistas...\nNo queremos pelear contigo.
-550	9e091231	4 contra 1... ¿ya ves que no puedes ganarnos\nni peleando a matar?
-560	d8cd5c4a	{fc(57e4f1)El cerco de todos se cierra poco a poco.}
-570	5aae7c68	¡Cometí un tabú...!\n¡Mentira! ¡Es mentira...!
-580	1afad494	{fc(57e4f1)Eva está así,\ny con esta llave no se puede abrir la jaula...}
-590	c9bfca5f	{fc(57e4f1)Aunque quisiera liberarla,\nya no hay salida...}
-600	07d8cbbc	{fc(57e4f1)Justo cuando estaba por renunciar a todo.}
-610	8cec1e14	{fc(cfff3f)"¡Bum!"}
-620	79e73dd9	{fc(57e4f1)Con un estallido repentino,\nun destello intenso nos quitó la vista.}
-630	965cfd9b	¡Guau! ¡¿Q-Qué es esto?!
-640	e1d4a49a	¡¿Una granada de luz?!\n¡¿Quién...?!
-650	3450f0a8	¡Por aquí, Takumi!\n¡Rápido!
-660	288a4e4d	¡...! ¡¿Tú eres...?!
-670	7457ae81	{fc(57e4f1)Sin poder ver, me llevó de la mano }{fc(ff635b)"esa persona"}{fc(57e4f1)\ny corrimos un buen trecho hasta que...}
-680	1ae08768	{fc(57e4f1)por fin nos detuvimos,\ny la vista fue volviendo poco a poco.}
+240	aa20f8c1	Qué raro... No abre; la llave no calza.
+250	7b19cea7	¿Seguro que es la llave correcta?
+260	5559c839	Es la correcta, sí. Solo la cambié por una falsa.
+270	5ac64df9	¡¿...?! ¡Hiruko!
+285	3b364741	{fc(57e4f1)En un abrir y cerrar de ojos, aparecieron tres figuras más y me rodearon.}
+280	52f4945c	¿Gaku? ¿Yugamu? ¡¿Takemaru...?!
+290	637357d0	Qué lástima... No pensé que de verdad intentarías liberar a la prisionera.
+300	75876be6	¡¿Cómo pudiste dejar que se te metiera en la cabeza?! ¡Se supone que eres el líder aquí!
+310	1f9f7147	Yo tampoco quería creerlo... Pero ahora que te pillamos con las manos en la masa, no podemos dejarlo pasar.
+320	f7432d12	¡Nos traicionaste, Takumi! ¡No hay forma de que te acepte como líder ya!
+330	8d47559a	¿Q-Qué pasa? ¡¿Cómo supieron ustedes...?!
+340	66e93c0c	Tienes cosas más importantes de qué preocuparte. Esta vez sí que la hiciste, Sumino.
+350	b1b88510	¡¿SIREI?! ¿Pero por qué? ¡Creí que las reparaciones no estaban terminadas...!
+360	8581f921	Kawana es así de buena. ¡Gracias a ella, tu amado oficial al mando está de vuelta y mejor que nunca!
+370	67f3621d	Y menos mal. Llegué justo a tiempo para impedir que cometieras un terrible error.
+380	38ff1963	¡No...!
+390	2e45c57c	Y parece que Eva también se liberó del lavado de cerebro por sí sola.
+400	941e3425	¿Será que absorber la criptoglobina de Ginzaki te dio la fuerza para hacerlo?
+410	f07d2d00	¿A-Absorber...? ¿D-De qué hablas...?
+420	96139a58	¡Basta, SIREI! ¡No se lo digas!
+430	7006f9b6	¿Quieres decir que no lo recuerdas, Eva? Mataste a Ginzaki y lo dejaste seco.
+440	1e84974d	Tomar su criptoglobina fortaleció tu propio {fc(ff635b)"poder de Dios"}. Lo bastante como para atravesar mi lavado de cerebro.
+450	c047a635	{fc(57e4f1)¡Esto no es bueno...! Cuando Eva descubra lo que hizo, ella...}
+460	a3a64f4c	¿Le quité... su poder? ¿Consumí el {fc(ff635b)poder de Dios}...?
+470	90a20048	¡No puede ser...! Yo... ¿violé el tabú...?
+480	2f7f89f1	¡¡¡NOOO!!!
+490	e1b82a78	¡Eva, cálmate...!
+500	c4bf8a29	Mataste a un miembro irremplazable de nuestra Unidad Especial de Defensa. Lo mínimo que puedes hacer es recordarlo.
+510	5bfd7b43	Basta, SIREI. Primero hay que reducir a Takumi.
+520	67204a5b	¿R-Reducirme...?
+530	72e1bc42	Perdona, amigo. Pero no podemos arriesgarnos a que andes por ahí intentando algo así otra vez.
+540	870b15d9	Hazme el favor de venir sin armar escándalo, ¿okey? De verdad no quiero pelear contigo.
+550	9e091231	Además, son cuatro contra uno. No pensarás de verdad que puedes ganar con esas probabilidades, ¿o sí?
+560	d8cd5c4a	{fc(57e4f1)Los cuatro empezaron a cerrar el cerco.}
+570	5aae7c68	Rompí la ley de Dios... ¡No puede ser! ¡Es mentira...!
+580	1afad494	{fc(57e4f1)No puedo dejar salir a Eva estando así...}
+590	c9bfca5f	{fc(57e4f1)¡Aunque lograra salir, no está en condiciones de correr ni de defenderse!}
+600	07d8cbbc	{fc(57e4f1)Justo cuando estaba a punto de perder la esperanza...}
+610	8cec1e14	{fc(cfff3f)*¡bum!*}
+620	79e73dd9	{fc(57e4f1)Se oyó una explosión y una luz cegadora inundó mi vista.}
+630	965cfd9b	¡Wargh! ¡¿Q-Qué es esto?!
+640	e1d4a49a	¿Una granada de destello? ¡¿Pero quién pudo haberla lanzado...?!
+650	3450f0a8	Por aquí, Takumi. ¡Rápido!
+660	288a4e4d	¡...! ¡¿Tú?!
+670	7457ae81	{fc(57e4f1)Aún deslumbrado por la luz, tomé }{fc(ff635b)su}{fc(57e4f1) mano y me dejé guiar lejos de allí.}
+680	1ae08768	{fc(57e4f1)Tras unos aterradores segundos de correr a ciegas, la luz empezó a disiparse...}
