@@ -5451,6 +5451,11 @@ message/s10_b_kawanatk_00_d028_m040_010
 message/s10_b_kawanatk_00_d028_m050_010
 message/s10_b_kawanatk_00_d028_m060_010
 message/s10_b_kawanatk_00_d028_m070_010
+message/s10_b_kawanatk_a0_d028_m010_010
+message/s10_b_kawanatk_a0_d028_m020_020
+message/s10_b_kawanatk_a0_d028_m030_010
+message/s10_b_kawanatk_a0_d034_m010_010
+message/s10_b_kawanatk_a0_d034_m020_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
