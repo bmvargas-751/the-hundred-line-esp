@@ -1,53 +1,53 @@
 id	huella_jp	es
-10	bad39a14	{fc(57e4f1)Cuando estuvimos todos reunidos en la cafetería,\nNozomi alzó la voz, algo quebrada.}
-20	e86534e1	...¡E-Esto!\n¡Chicos, ¿tienen un momento?!
-30	2b46096f	{fc(57e4f1)Todos se volvieron hacia Kirifuji a la vez.}
-40	05e852d1	{fc(57e4f1)Parecía que esas miradas la intimidaron un instante,\npero se rehízo enseguida y continuó.}
-50	d355157e	¡Lo de mi origen del que se habló antes...\nquiero contárselo bien a todos!
-60	9263f174	{fc(57e4f1)Ante el ambiente de desconcierto,\nNozomi empezó a explicar.}
-70	4594510c	{fc(57e4f1)La operación de trasplante de criptoglobina en el Hospital General Kamukura...\nque el trasplante no funcionó y no la eligieron para el cuerpo...}
-90	0d43d565	{fc(57e4f1)que por casualidad descubrió el aparato donde entraron todos,\ny se subió al aparato de reserva para participar en la operación...}
-120	1e17811a	{fc(57e4f1)y que, por miedo a que desconfiaran de ella,\nno había podido contarlo hasta ahora...}
-125	c6139c51	{fc(57e4f1)Lo confesó todo, tal cual.}
-130	4cac320f	Esto es... todo lo que sé.
-140	a18f84de	Por haberles ocultado esto,\nentiendo que sospecharan de mí...
-150	88c6bbbc	Por cuidarme a mí misma, no lo dije hasta ahora...¡de verdad, perdón!
-160	b8899305	{fc(57e4f1)Dicho eso, Nozomi hizo una profunda reverencia.}
+10	bad39a14	{fc(57e4f1)Cuando todos estuvieron en la Cafetería, Nozomi habló con voz temblorosa.}
+20	e86534e1	¡Disculpen! ¿Pueden prestarme atención un momento?
+30	2b46096f	{fc(57e4f1)Todos se volvieron a mirarla.}
+40	05e852d1	{fc(57e4f1)Nozomi pareció intimidarse un momento por sus miradas, pero se recompuso rápido y continuó.}
+50	d355157e	Hoy quiero hablarles... de mi verdadera identidad.
+60	9263f174	{fc(57e4f1)Mirando los rostros atónitos del equipo, Nozomi comenzó su explicación.}
+70	4594510c	{fc(57e4f1)Les habló de la transfusión de criptoglobina que le hicieron en el Hospital General de Kamukura... Y de cómo fracasó, por lo que no fue elegida para la Unidad de Defensa Especial.}
+90	0d43d565	{fc(57e4f1)De cómo dio por casualidad con los dispositivos en los que estábamos y se coló en una máquina de repuesto para poder venir con nosotros...}
+120	1e17811a	{fc(57e4f1)Y de cómo había guardado silencio para que no sospecháramos ni desconfiáramos de ella.}
+125	c6139c51	{fc(57e4f1)Puso todas sus cartas sobre la mesa.}
+130	4cac320f	Eso es... todo lo que sé.
+140	a18f84de	Entiendo que sospechen de mí, sabiendo que he ocultado esto.
+150	88c6bbbc	Mi instinto de supervivencia me impidió contárselo hasta ahora... ¡Y lo lamento de verdad!
+160	b8899305	{fc(57e4f1)Nozomi inclinó la cabeza para disculparse.}
 170	88902fda	
-180	bdbda536	{fc(57e4f1)Todos no podían ocultar su desconcierto\nante los hechos que salían de su boca.}
-190	0cbc743c	Que de repente me pidan creer algo así...
-200	b94ed8df	...Sí, no sé qué decir.
-210	cf27571e	Yo oí la misma historia antes del viaje en el tiempo.\nPor eso es seguro que Nozomi no es traidora ni espía.
-220	509a96fb	Solo quiere proteger a la humanidad con nosotros.
+180	bdbda536	{fc(57e4f1)Nadie pudo ocultar su desconcierto tras oír la verdad sobre ella.}
+190	0cbc743c	No sé, hermano, es medio difícil creerse todo eso...
+200	b94ed8df	Sí, no sé qué decir...
+210	cf27571e	Yo oí la misma historia en mi línea temporal. Así que puedo garantizar que Nozomi no es una traidora ni una espía.
+220	509a96fb	Está aquí para arriesgar su vida por el futuro de la humanidad, igual que todos nosotros.
 230	f4a72a8b	
-235	f27de34b	...¡Ya veo!\n¡El valor de Nozomi llegó a mi corazón!
-240	39656a92	¡De ahora en adelante es una compañera de verdad!
-250	3cc09d41	Qué fácil, Srta. Mojiro.
-260	90a3818f	¿Sí? Yo le creo.
-270	e3e83827	La verdad no entendí mucho, pero...¡sus palabras tenían {fc(ff635b)"alma"}!
-280	8317c985	Cabeza hueca...
-290	25271f78	¡¿Qué dijiste, grr?!
-300	3ff1a503	¡Pero qué bien!
-310	25b5d1c6	Más que ocultarlo, me alegra que haya creído\ny haya hablado con sinceridad...
-320	5ed00b51	¡Ah, perdón por hablar sin permiso!\n¡Como disculpa, que alguien me deje lamerle el zapato!
-330	05f5c61e	¡N-No te me acerques!
-340	09094514	Pero esta servidora opina igual. ¡Siento que doña Nozomi nos abrió su corazón...!
+235	f27de34b	¡Ya veo! ¡Nozomi, tu valentía me tocó las fibras del corazón!
+240	39656a92	¡Ahora somos AMIGAS DEL ALMA!
+250	3cc09d41	Eres demasiado rápida para creerle.
+260	90a3818f	¿En serio? Yo también le creo.
+270	e3e83827	No estoy seguro de entender todo lo que dijo, pero... ¡su discurso tenía {fc(ff635b)alma}!
+280	8317c985	Eres un completo imbécil...
+290	25271f78	¡Ven acá y repítelo!
+300	3ff1a503	¡P-Pero esto es bueno!
+310	25b5d1c6	Me alegra que hayas decidido confiar en nosotros y dejar de ocultar la verdad...
+320	5ed00b51	¡Agh! ¡Perdón por hablar sin permiso! ¡Me disculparé lamiéndole los zapatos a alguien!
+330	05f5c61e	¡Atrás, bribón!
+340	09094514	Pero estoy de acuerdo. Siento que doña Nozomi nos ha abierto el corazón...
 350	91f717b6	¡Y eso me alegra!
-360	2dbdbf98	{fs25}Al final... me habían ocultado cosas a mí...
-370	573392e9	...¿Mm? Kurara, ¿dijiste algo?
-375	3e20d498	...Nada.
-380	2c7e8b72	Ay, pero qué sorpresa.
-390	95f8488d	Qué alguien relacionado con el Hospital General Kamukura\nse colara de esa manera...
-400	15c17848	¡Pero con esto cuadran muchas cosas!
-410	48edfe5a	¡Nada de "cuadran"!\n¡Si desde el principio hubieras hecho bien tu trabajo...!
-420	36c4edca	¡Perdón, perdón!\n¡No pensé que no fuera del cuerpo de Defensa Especial...!
-430	08a618bc	¡Qué barbaridad, te tengo que reeducar!\n¡Ven acá!
-440	2a980fff	¡Aaaah, perdónenmeeee!
-450	efee81bc	...En todo caso, con esto se aclaran las sospechas sobre Nozomi.
-460	3650d78c	Jejeje... sí. ¡Qué bueno no haber tenido que torturar a Nozomi...!
-470	dfb4b003	Bueno, qué pena, tal vez...¿Cómo habría gritado? Quería oírlo...
-480	5468232b	¿No será este peor que Nozomi...?
-490	4e134d9c	Jaja... pero gracias a todos, de verdad.
-500	3c37f04f	{fc(57e4f1)Así quedó resuelto el asunto de Nozomi.}
-510	b492c47e	{fc(57e4f1)Esta elección no fue un error.}
-520	15d97b6d	{fc(57e4f1)Al ver a Kirifuji riendo con todos,\nlo pensé de corazón.}
+360	2dbdbf98	{fs25}Igual me ocultaste cosas a mí...
+370	573392e9	¿Mm? ¿Dijiste algo, Kurara?
+375	3e20d498	No te preocupes.
+380	2c7e8b72	Caramba, qué giro.
+390	95f8488d	Pensar que alguien de Kamukura podía colarse así... Vaya punto ciego de seguridad.
+400	15c17848	¡Pero todo en su historia cuadra!
+410	48edfe5a	¡Tienes el descaro de alegrarte! ¡Si hubieras hecho bien tu trabajo desde el principio...!
+420	36c4edca	¡L-Lo siento, señor! ¡Jamás imaginé que nadie más que el personal autorizado supiera siquiera de esta operación...!
+430	08a618bc	¡Hora de una clase especial de refuerzo con el jefe! ¡Ven acá!
+440	2a980fff	¡NOOO! ¡TENGA PIEDAD!
+450	efee81bc	En fin, creo que con esto queda aclarado todo sobre el pasado de Nozomi.
+460	3650d78c	Jiji... Así es. Qué bueno que logramos resolverlo sin torturarla.
+470	dfb4b003	En realidad, es una verdadera lástima... Me habría encantado oírla llorar y gemir...
+480	5468232b	Quizás deberíamos preocuparnos menos por Nozomi y más por este bicho raro.
+490	4e134d9c	Jaja... Pero de verdad, gracias a todos.
+500	3c37f04f	{fc(57e4f1)Y así, el asunto del pasado de Nozomi se resolvió sin problemas.}
+510	b492c47e	{fc(57e4f1)Habíamos tomado la decisión correcta, después de todo.}
+520	15d97b6d	{fc(57e4f1)Verla reír y conversar otra vez con todos me dio más certeza que nunca.}
