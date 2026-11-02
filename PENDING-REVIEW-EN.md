@@ -22,3 +22,10 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
   - EN: *"We call it the System Information Reinforcement Exalted Intelligence. Or the SIREI Project, for short."*
   - ES provisional: *"La llamamos Inteligencia Exaltada de Refuerzo de Información del Sistema. O Proyecto SIREI, para abreviar."*
   - Por qué: el acrónimo SIREI se forma con las iniciales inglesas; la expansión en español no las conserva. Se mantuvo SIREI como nombre y se tradujo la expansión sin buscar que coincidan las letras.
+
+## s09 (occultrt, rama ab) · Día 84 — el canto invertido
+
+- `s09_b_occultrt_ab_d084_m010_010` · #70, #80, #120–#170 · Gaku / Takumi
+  - EN: *"Ecalp siht evael, stirips live..."* (invertido: "evil spirits, leave this place")
+  - ES provisional: *"¡Íuqa ed esnayáv, solam sutirípse..."* (invertido: "espíritus malos, váyanse de aquí")
+  - Por qué: texto invertido que sigue al EN (en el original japonés es un conjuro al revés, y la versión doblaje JP usó la misma frase); se verificó con Python que al revés da la frase exacta. Revisar si conviene "malignos" en vez de "malos".
