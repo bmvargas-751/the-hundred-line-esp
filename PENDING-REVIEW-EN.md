@@ -89,3 +89,4 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
 - `d010_m230_010#270-#310`: "time traveler / leap / time loop / time looper" → "viajero del tiempo / saltáramos / bucle temporal / viajero del bucle".
 - Día 10, `d010_m010`, `m140`: "Kurara: take off her top" (confusión con "open her heart") → "quite la blusa".
 - s13 sfsfsfsf 00, Día 12 `d012_m030_010#50`: "lab-otomy" → "laboratomía". Día 11: "salmon roe" → "hueva de salmón". Términos: Caza-Misterio / Caza / Misterio / Cacería de Invasores, MSP = Máquina de Salto Paralelo, daño de salto, primer ciclo, LT.
+- s13 sfsfsfsf 00, Día 15 `d015_m060_010#60-70`: "butter your lips / button your lip" → "untarse los labios con mantequilla / morderse la lengua". `d015_m010_030#140`: "vichyssoise" conservado.
