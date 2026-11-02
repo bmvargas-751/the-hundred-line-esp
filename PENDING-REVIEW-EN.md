@@ -95,3 +95,4 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
 
 - `d036_m010_010#350`: "58008" (calculadora) se dejó igual; no funciona como chiste en español. Revisar si se prefiere otro número/chiste.
 - `d035+`: "gamemaster" → "maestra del juego"; "{game}" → "{juego}" (resaltado rojo).
+- s13 sfsfsfsf 00, Día 20 `d020_m090_010#40`: anciano "Marinate!" → "¡Marinado!" (juego con "Llegan tarde"), provisional.
