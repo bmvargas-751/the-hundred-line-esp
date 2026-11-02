@@ -1,20 +1,20 @@
 id	huella_jp	es
 10	9fcd278c	Día 92
-20	d8544470	¿El veneno está terminado... de verdad?
-30	9999429b	Uf... estuve trabajando sin parar...\nQuizás fue más duro que la batalla defensiva.
-40	33ef3f3b	Pero qué bueno que lo terminamos antes de que llegara Dahl'xia.
-50	60184ee1	...¿Y ya no hace falta darlo en gran cantidad?\n¿Cómo lo mejoraron?
-60	b846aded	Esta vez, como la forma más apropiada para mejorarlo al máximo,\nintenté convertir el veneno en aerosol.
-70	a2e47be3	¿Aerosol...?
-80	183741a3	Aerosol: volver el líquido una niebla muy fina,\npara que se pueda inhalar como gas.
-90	0e421a57	Se vaporiza el veneno para que el enemigo lo aspire...\nAsí se le hace daño desde dentro.
-100	6d590276	Pero si lo usamos con nosotros alrededor,\nnos va a alcanzar a nosotros también...
-110	92e40694	Por eso pienso hacer una trampa.\nUn arma instalable que expulse el gas venenoso vaporizado.
-120	547706db	Un arma instalable...\nEra la especialidad de Kurara...
-130	9777f461	Entonces la haré yo en su lugar.\nNo la haré tan bien como Kurara.
-140	638c798b	Entonces conviene que sea cuanto antes...\nDahl'xia podría venir incluso mañana.
-150	20e8caf6	Entonces te ayudo. ¡Hoy no sonó la alarma!\n¿Hay algo en que pueda ayudar?
-160	b7dd5d35	Gracias. Entonces...
-170	d41136a9	{fc(57e4f1)Luego fuimos al taller metalúrgico\ny empezamos a hacer el arma instalable con gas venenoso.}
-180	35cd264b	{fc(57e4f1)El trabajo continuó sin descanso, hasta la medianoche...}
-190	beec71ed	{fc(57e4f1)Y entonces... llegó el momento.}
+20	d8544470	¡¿Es cierto?! ¡¿Terminaron de hacer el veneno?!
+30	9999429b	He trabajado sin parar, así que estoy muerto de cansancio... Esto ha sido más laborioso que el combate físico.
+40	33ef3f3b	Por suerte logramos terminarlo antes de que Dahl'xia reapareciera...
+50	60184ee1	¿Lo modificaron para que no tenga que ingerir una gran cantidad para que funcione?
+60	b846aded	Determinamos que la mejor y más eficaz forma de administrar el veneno esta vez era formularlo como aerosol.
+70	a2e47be3	¿Un qué...?
+80	183741a3	Un aerosol. Es una fina niebla que se puede inhalar.
+90	0e421a57	Nuestra estrategia es dañar al enemigo desde dentro vaporizando el veneno y haciendo que lo inhale.
+100	6d590276	El problema es que cualquiera que esté cerca también se verá afectado por el veneno.
+110	92e40694	Así que pienso que podríamos fabricar una trampa que emita el gas venenoso.
+120	547706db	Las trampas de gas venenoso eran más lo de Kurara...
+130	9777f461	No puedo hacerlo tan bien como Kurara, pero lo intentaré en su lugar.
+140	638c798b	Intenten hacerla lo antes posible. Dahl'xia podría aparecer mañana, por lo que sabemos...
+150	20e8caf6	Yo ayudaré, ya que hoy no sonó la alarma de intrusos... ¿Qué puedo hacer?
+160	b7dd5d35	¡Gracias! En ese caso...
+170	d41136a9	{fc(57e4f1)Tras nuestra conversación, caminamos juntos hasta el Taller de Metalurgia y empezamos a construir la trampa de gas venenoso.}
+180	35cd264b	{fc(57e4f1)Trabajamos sin pausa hasta entrada la noche, sin siquiera detenernos a descansar...}
+190	beec71ed	{fc(57e4f1)Y entonces llegó el momento...}
