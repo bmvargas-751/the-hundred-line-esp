@@ -1,20 +1,20 @@
 id	huella_jp	es
-10	91c04535	{fc(57e4f1)Al salir del cuarto, oí voces de alguien.}
-20	1736e8a1	{fc(57e4f1)Son... Nozomi y Kurara.}
+10	91c04535	{fc(57e4f1)Cuando salí de mi cuarto, oí gente hablando.}
+20	1736e8a1	{fc(57e4f1)Eran Nozomi y Kurara...}
 30	e4633573	Kurara, ¿tienes un momento?
-40	f71934a7	...¿Qué?
-50	d2180fa7	Eh... aunque sea poco, ¿podemos hablar ahora?
-60	e6fc012d	¿Hablar? No tengo nada que hablar contigo.
+40	f71934a7	¿Qué pasa?
+50	d2180fa7	Eh... ¿Podríamos conversar un ratito, quizás?
+60	e6fc012d	¿Conversar? No tengo nada que hablar contigo.
 70	f4a72a8b	
-80	f6533617	Lo que más odio es que me oculten cosas.
-90	f667e70d	Si desde el principio no dijiste quién eras...\nal final no confiabas en nosotros, ¿no?
-100	b0bb734a	¡E-Eso no...!
-110	559536dc	Quizás tú te sientas aliviada de haber hablado con sinceridad y que todos te acepten,
-120	d2678199	pero yo no.\nNo quiero ser amiga de esa clase de persona.
-130	be57dac5	Eso es todo.\nAdiós.
-140	68937c51	{fc(57e4f1)Ya me preocupaba antes,\npero no pensé que la relación entre ellas estuviera tan enredada...}
+80	f6533617	Odio los secretos y las mentiras más que nada.
+90	f667e70d	El hecho de que no nos dijeras quién eres de verdad desde el principio significa que no confías en nosotros.
+100	b0bb734a	¡N-No es...!
+110	559536dc	Quizás sientas que todo está mejor ahora que fuiste honesta y todos te aceptaron.
+120	d2678199	Pero yo no soy así. No quiero ser amiga de alguien que nos mintió en primer lugar.
+130	be57dac5	¿Entendido? Me voy.
+140	68937c51	{fc(57e4f1)Ya era preocupante antes, pero no me había dado cuenta de que las cosas entre esas dos habían empeorado aún más...}
 150	f4a72a8b	
-160	bb5a21d8	{fc(57e4f1)Nozomi volvió a su cuarto, cabizbaja.}
-170	3af5a658	{fc(57e4f1)...Ahora mejor no hablarle.\nPodría hacerla preocuparse de más.}
-180	428d36bf	{fc(57e4f1)Le daré las gracias otro día. ¿Habrá alguna forma de reconciliarlas...?}
-190	2f4af089	{fc(57e4f1)Pensando en eso, volví a mi cuarto.}
+160	bb5a21d8	{fc(57e4f1)Nozomi volvió arrastrando los pies a su cuarto.}
+170	3af5a658	{fc(57e4f1)Probablemente no debería intentar hablar con ella ahora. No quiero desplazar el foco hacia mis sentimientos cuando ella está pasando por algo.}
+180	428d36bf	{fc(57e4f1)Le daré las gracias otro día y trataré de pensar en alguna forma de mediar entre ella y Kurara...}
+190	2f4af089	{fc(57e4f1)Me retiré a mi cuarto, tratando de pensar en cualquier cosa que pudiera hacer.}
