@@ -75,3 +75,16 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
 ## s12 (fantasyr a0), apodos de Ima a Gaku
 
 - Días 72, `message/s12_0_fantasyr_a0_d072_m080_010#70` y `d072_m090_010#70`: "Mr. Wussy Baby" → "señor Gallina Llorón" (Gaku: "no soy ningún gallina") y "Mr. Pantswetter" → "señor Mojacalzones" (Gaku: "yo nunca me measé los pantalones"). Apodos provisionales; revisar si se prefiere otro par.
+
+## s13 (sftolove 00), chiste de Shouma
+
+- Día 6, `message/s13_0_sftolove_00_d006_m100_020#20` y `#60`: "0.01 mm-thin piece of rubber" → "lámina de goma de 0,01 mm" y "una goma tan fina" (alusión a un preservativo, como en el inglés). Revisar si se prefiere decirlo más explícito o más velado.
+- s13 sftolove 00, Día 7 `d007_m060_010#160`: "fennel-tastic" → "hinojo-tásticos". Día 8 `d008_m020_010#10`: "Bored... Gored" → "Aburrida... Abatida" (Kako: "¿Dijiste 'abatida'?"). Día 8 `d008_m050_060#480-490`: "How enraging" / "rager" → "Qué rabia" / "berrinche". Provisionales.
+
+## s13 (sfsfsfsf 00), Día 10 y revelación del bucle
+
+- `d010_m030/m040/m050/...`: "open her heart" (palabra clave en rojo) → "abrirle/abra su corazón", con los chistes de corazón (desfibrilador, "arrancarle el corazón").
+- `d010_m080_010#30`: "SAD / Scandalous Aotsuki Disappearance" → "EDA / Escandalosa Desaparición de Aotsuki" (el chiste de "la versión abreviada es más larga" se mantiene).
+- `d010_m210_010` (las opciones #2300-#2630 y las frases de cada rama): traducidas juntas y con el mismo tono; "I'll take it on for you" → "Lo asumiré por ti". Revisar las opciones en el juego.
+- `d010_m230_010#270-#310`: "time traveler / leap / time loop / time looper" → "viajero del tiempo / saltáramos / bucle temporal / viajero del bucle".
+- Día 10, `d010_m010`, `m140`: "Kurara: take off her top" (confusión con "open her heart") → "quite la blusa".
