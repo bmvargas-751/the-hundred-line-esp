@@ -1,100 +1,100 @@
 id	huella_jp	es
-10	20aaf2fd	...¿Qué pasa, invadirme de repente diciendo que tienes algo que hablar?
-20	97decd30	Si es una conversación aburrida,\nte arranco la piel de la cara.
-30	3fabb2db	...Qué miedo desde el primer momento.
-40	b7c35077	{fc(57e4f1)No, más importante...}
-50	0a68f9fa	{fc(57e4f1)Voy directo al grano.}
-60	262d1e80	Ya no hace falta que peleemos.\nPodemos huir.
-70	2ceec7f9	...¿Qué? Si es broma,\nes de lo más aburrido.
+10	20aaf2fd	¿Qué necesitas hablar con tanta urgencia como para venir a mi habitación sin invitación?
+20	97decd30	Si es alguna trivialidad, te arrancaré la piel de la cara.
+30	3fabb2db	Empiezas con fuerza, veo.
+40	b7c35077	{fc(57e4f1)Pero más importante que eso...}
+50	0a68f9fa	{fc(57e4f1)Tengo que decírselo sin rodeos.}
+60	262d1e80	Kurara, ya no tenemos que pelear. Podemos simplemente huir.
+70	2ceec7f9	¿Eh...? Si es una broma, es aún más floja de lo que esperaría de ti.
 80	b95daa7e	Hablo en serio.
-90	fc91e785	¿Que hablas en serio...?
-100	5f601afa	...Por favor, escúchame primero.
-110	032e13b0	{fc(57e4f1)La miré fijo a los ojos.}
+90	fc91e785	¿Qué, y se supone que eso me hará creerte?
+100	5f601afa	Por favor, solo escúchame.
+110	032e13b0	{fc(57e4f1)Miré a Kurara directo a los ojos.}
 120	f4a72a8b	
-130	7947b418	{fc(57e4f1)Oosuzuki me devolvió una mirada fija y desafiante.}
+130	7947b418	{fc(57e4f1)Ella, a su vez, me devolvió la mirada fulminante.}
 140	f4a72a8b	
 150	f4a72a8b	
 160	f4a72a8b	
-170	5bc372c6	...Cuéntame los detalles.
-180	3b6f28b2	{fc(57e4f1)Le expliqué tal cual lo que me dijo GOTOH ayer.}
-190	cfb07f54	{fc(57e4f1)Kurara no se quejó de lo que yo sentí ayer,\nla cabeza que se iba...}
-200	64f9f6b5	{fc(57e4f1)Parece que el lavado de cerebro que le hicieron\nera solo sobre su razón para pelear.}
-210	6e60ada2	{fc(57e4f1)Después de oírme hasta el final,\nOosuzuki dijo, como dejando escapar:}
-220	4ddcbdea	...Es difícil de creer.
-230	13a9d7c5	Ya, lo sé. Pero yo decidí creerlo.\nSi puedes, quiero que tú también lo creas.
-240	f029cfaf	Quiero que lo creas y que vuelvas conmigo al Satélite Artificial.
-250	8955cd06	...Pero también sabes que...
-260	6ef4b188	Soy la heredera legítima de la casa Oosuzuki.\nY yo, sea cual sea el motivo, huir...
+170	5bc372c6	Cuéntamelo todo.
+180	3b6f28b2	{fc(57e4f1)Y así lo hice. Le relaté todo lo que Gotoh me había dicho el día anterior.}
+190	cfb07f54	{fc(57e4f1)Kurara no mostró nada de la sensación de aturdimiento que yo había sentido.}
+200	64f9f6b5	{fc(57e4f1)Parecía que su lavado de cerebro solo había servido para inculcarle su razón para pelear.}
+210	6e60ada2	{fc(57e4f1)Cuando terminó de escuchar mi explicación, habló en un murmullo bajo.}
+220	4ddcbdea	Todo suena bastante inverosímil...
+230	13a9d7c5	Sí, lo sé...pero yo lo creo. Quiero que tú también lo creas, si puedes.
+240	f029cfaf	Quiero que confíes en mí, para que podamos volver juntos al Satélite Artificial.
+250	8955cd06	Pero...debes comprender.
+260	6ef4b188	Como orgullosa hija del clan Oosuzuki, jamás podría huir, sin importar...
 270	f4a72a8b	
-280	095dcdf2	No...
-290	94879e01	{fc(57e4f1)Quizás se dio cuenta mientras hablaba:\nel rostro de Kurara se nubló a mitad de frase.}
-300	7eb5c5d1	{fc(57e4f1)Sintiendo culpa, tracé yo\nesa misma inquietud.}
-310	85bccb37	...Si lo que te hace pelear es ser la heredera de la casa Oosuzuki,\nquizás...
-320	0c3f04db	eso sea el lavado de cerebro\nque te hicieron.
-330	9b7df703	{fc(57e4f1)Quizás la casa Kurara real\nno sea la casa admirable que Kurara cree.}
-340	8d5dc170	{fc(57e4f1)O quizás no haya ninguna relación\nentre la casa Oosuzuki y Kurara Oosuzuki.}
-350	920901ad	{fc(57e4f1)Si la razón de Oosuzuki para pelear es "ser la heredera de la casa Oosuzuki".}
+280	095dcdf2	No, no puede ser...
+290	94879e01	{fc(57e4f1)La expresión de Kurara se ensombreció a media frase, como si acabara de darse cuenta de algo.}
+300	7eb5c5d1	{fc(57e4f1)Esa aprensión pareció avivar mi propia culpa, pero seguí adelante de todos modos.}
+310	85bccb37	Si tu orgullo como Oosuzuki es lo que te hace pelear, entonces...
+320	0c3f04db	Quizás eso es parte del lavado de cerebro que te hicieron.
+330	9b7df703	{fc(57e4f1)Los verdaderos Oosuzuki quizás no eran la prominente familia que Kurara creía.}
+340	8d5dc170	{fc(57e4f1)O quizás ni siquiera pertenecía a la familia Oosuzuki.}
+350	920901ad	{fc(57e4f1)Si su obligación con su familia era el cimiento de lo que la motivaba a seguir peleando, cualquiera de esas cosas era posible.}
 360	f4a72a8b	
-370	1a4baaa5	...Esto, por si lo necesitas.
-380	cc2e96e5	Parece que tiene pistas sobre el contenido\ndel lavado de cerebro.
-390	00f2f23e	...¿Pistas?
-400	5f7a5231	Sí, porque algo demasiado concreto\npodría causar un shock enorme.
-410	c0567fe9	...Entendido. Entonces miro lo que hay dentro.\nPréstamelo.
-420	2945a939	{fc(57e4f1)Dicho eso, me arrebató el sobre de la mano.}
-430	1e9ccf9d	¡¿L-Lo vas a mirar?!
-440	6bf30b2f	Claro, también me da miedo, pero...
-450	929d9162	Me molesta mucho más tener siempre rondando la posibilidad\nde que lo que creo importante sea falso.
-460	ba3803d8	Si hay alguna posibilidad de quitármelo de encima,\nmiraré lo que sea.
-470	b1b534f1	...Eres fuerte.
-480	16127dfd	Sí, soy la heredera de la casa Oosuzuki.
-490	ad37fba8	...Al menos, hasta abrir este sobre.
-500	f22d4a17	{fc(57e4f1)Dijo esa frase como despedida,\ny Kurara abrió el sobre.}
-510	5ee73df9	{fc(57e4f1)Leyó con atención\nla única hoja que contenía.}
+370	1a4baaa5	Toma, por si lo necesitas.
+380	cc2e96e5	Me dijeron que contiene una pista sobre tu lavado de cerebro.
+390	00f2f23e	¿Una pista...?
+400	5f7a5231	Sí, dijeron que una explicación directa sería demasiado impactante.
+410	c0567fe9	...Está bien, le echaré un vistazo. Pásamelo.
+420	2945a939	{fc(57e4f1)Kurara me arrebató el sobre de la mano.}
+430	1e9ccf9d	¡¿V-Vas a abrirlo?!
+440	6bf30b2f	Por supuesto. Naturalmente tengo miedo, pero...
+450	929d9162	Sería sencillamente miserable vivir con la posibilidad de que lo que más aprecio sea falso. No puedo dejar que eso me persiga para siempre.
+460	ba3803d8	Si lo que hay aquí puede disipar esa miseria, es una oportunidad que debo aprovechar.
+470	b1b534f1	Eres una chica muy dura...
+480	16127dfd	Por supuesto. Soy una Oosuzuki, después de todo.
+490	ad37fba8	...Lo seré hasta que abra este sobre, al menos.
+500	f22d4a17	{fc(57e4f1)Con ese comentario afilado, Kurara abrió el sobre.}
+510	5ee73df9	{fc(57e4f1)Dentro había una sola hoja de papel que recorrió con la vista atentamente.}
 520	f4a72a8b	
 530	f4a72a8b	
 540	f4a72a8b	
-550	e69013fd	...Vaya.
-560	c710fdb1	...¿Qué decía?
-570	ba4efaaa	Mi papá, en realidad...
-580	8a1d0454	...murió hace 5 años.
+550	e69013fd	Mmm...
+560	c710fdb1	¿Qué dice?
+570	ba4efaaa	Es sobre mi padre.
+580	8a1d0454	Dice que murió hace cinco años...
 590	f4a72a8b	
-600	99dbe9d1	Claro que yo no tengo ese recuerdo.\nNo sabía que había muerto.
-610	220cab72	Es más, hasta justo antes de venir a esta academia,\nrecuerdo que estaba sano.
-620	cc9eb0bb	...¿Entonces lo que te hicieron a Kurara fue un lavado de cerebro\nsobre la vida o muerte de tu padre?
-630	f62704c2	Sí, si creo en este papel,\nsería eso.
-640	49238714	Aunque mi papá, Kurama Oosuzuki,\nera el jefe de la casa Oosuzuki...
-650	8388229b	si dice que murió,\nquizás la casa Oosuzuki ya no exista...
-660	e7c9d9cd	En ese sentido, también se podría decir que es un lavado sobre la casa Oosuzuki,\nquizás.
+600	99dbe9d1	Efectivamente, no tengo ningún recuerdo de esto. No tenía idea de que había muerto.
+610	220cab72	De hecho, lo recuerdo en perfecto estado de salud justo antes de llegar a esta escuela.
+620	cc9eb0bb	¿Entonces tu lavado de cerebro era para hacerte olvidar el fallecimiento de tu padre...?
+630	f62704c2	Sí, si he de confiar en esta nota, parece ser el caso.
+640	49238714	Pero más que eso, mi padre, Kurama Oosuzuki, era el jefe del clan Oosuzuki.
+650	8388229b	Si está muerto, entonces la familia ya no existe...
+660	e7c9d9cd	Creo que podemos decir que mi lavado de cerebro en realidad trataba sobre el estado de la propia familia Oosuzuki.
 670	f4a72a8b	
-680	99bf38ff	Lo que me hacía pelear hasta ahora\nera una especie de orgullo de heredera de la casa Oosuzuki.
-690	abef29ca	Quizás se trate de que eso era una falsedad.
-700	a12028a8	En realidad, desde que murió mi papá, hace 5 años,\nla casa Oosuzuki estaba en decadencia, y yo lo olvidé...
-710	01844d89	No, quizás me lo hicieron olvidar.
-720	2e105b75	El contenido de ese sobre...
-730	350c0c9d	¿no dice nada aparte de que murió tu padre?
-740	011f829e	Así es, esta hoja es una copia\ndel informe de defunción.
-750	b1093490	La causa de la muerte de mi papá,\ndice simplemente que fue cáncer.
-760	bbb687a0	...Ya veo.
-770	d5bf26ce	...Qué desesperante, ¿no?
-780	c43fae20	Como decían "pistas", pensé que serían algo más suave.
-790	576d9364	Un bolazo directo a la cara: me dejó fría\nlo poco delicada que es esa facción opositora.
-800	0fa6edab	...Opino igual.
-810	c6aed156	Claro, tampoco es que me haya creído del todo\nesta hojita.
-820	16168706	Eso del tal GOTOH que dices\nquizás sea mentira de punta a punta.
-830	f3b6b2fd	Quizás tú, que te dejaste engañar, me estés engañando a mí.
-840	a55736ed	...Es verdad.
-850	1b758931	No hay prueba de que el lavado de cerebro sea cierto, ni de que sea falso.\nSolo es elegir en cuál creer.
-860	38639073	...Así es.
-870	6be36bc4	...Lo sé.
-880	a56da1d5	Sabiéndolo...
+680	99bf38ff	Lo único que me ha mantenido peleando hasta ahora ha sido mi orgullo como Oosuzuki.
+690	abef29ca	Y según esta nota... Todo eso era mentira.
+700	a12028a8	Mi padre lleva cinco años muerto, y olvidé la caída de la familia Oosuzuki...
+710	01844d89	No... Me hicieron olvidar.
+720	2e105b75	Sobre ese sobre...
+730	350c0c9d	¿Había algo más ahí aparte de lo del fallecimiento de tu padre?
+740	011f829e	Bueno, esta hoja de aquí es una copia de su certificado de defunción.
+750	b1093490	La causa de su muerte fue cáncer, sin más.
+760	bbb687a0	Ya veo...
+770	d5bf26ce	Esto es un poco demasiado desalentador, ¿no?
+780	c43fae20	Imaginaba que la pista sería algo menos contundente que esto.
+790	576d9364	Esos simplones de la Anti-Éxodo son dolorosamente directos. Su falta de consideración resulta bastante desagradable.
+800	0fa6edab	Estoy de acuerdo...
+810	c6aed156	Naturalmente, esto no significa que acepte esta hoja como verdad absoluta.
+820	16168706	Ese Gotoh del que me hablaste podría estar inventándolo todo.
+830	f3b6b2fd	Podría estar engañándote a ti, y a su vez engañándome a mí también.
+840	a55736ed	Sí, esa también es una posibilidad.
+850	1b758931	No hay pruebas de si esto del lavado de cerebro es verdad o no. Es realmente cuestión de elegir en quién confiar.
+860	38639073	Supongo que sí.
+870	6be36bc4	...Sí, lo entiendo.
+880	a56da1d5	Por eso...
 890	f4a72a8b	
-900	3fb38990	Yo quiero creerte.
-910	cafba9bc	¡¿D-De verdad?!
-920	9187765e	Por desgracia, lo que dices\nme parece creíble...
-930	4c809cab	y si existe la posibilidad de volver sin pelear,\nme quiero aferrar a ella...
+900	3fb38990	Por eso elijo confiar en ti, Takumi.
+910	cafba9bc	¡¿E-En serio?!
+920	9187765e	No me gusta, pero parece que lo que me has contado tiene algo de credibilidad.
+930	4c809cab	Si hay una posibilidad de que volvamos a casa sin pelear, quiero aferrarme a ella.
 940	f4a72a8b	
-950	b915961b	Pero queda una espina...\nalgo que me atora...
-960	2477b55b	Si yo te creo, dejo de pelear\ny elijo huir...
-970	08ff5f1f	entonces esos que murieron...\n¿para qué murieron?
-980	b4e6278a	...¿Su muerte no sería en vano?
+950	b915961b	Es solo que siento una especie de...arrepentimiento que me frena.
+960	2477b55b	Si te creo y decidimos dejar de pelear y huir...
+970	08ff5f1f	Entonces los otros que murieron... ¿Cuál fue el sentido de su sacrificio?
+980	b4e6278a	Sus muertes habrán sido en vano, ¿no es así?
 990	f4a72a8b	
