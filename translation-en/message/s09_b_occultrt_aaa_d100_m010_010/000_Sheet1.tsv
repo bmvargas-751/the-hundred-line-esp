@@ -1,106 +1,106 @@
 id	huella_jp	es
-10	1737b424	El culpable es...
-20	88900fd2	El culpable es...
-30	c118ccc4	...Eres tú, Nozomi.
+10	1737b424	Takumi Sumino: El verdadero asesino...
+20	88900fd2	Takumi Sumino: Solo puede ser una persona...
+30	c118ccc4	Takumi Sumino: ¡Eres tú, Nozomi!
 40	f4a72a8b	
-50	6ab7435c	¿Por qué dices eso?
-60	9fe07267	...Porque no puede ser otra persona.
-70	b2ce0b8e	No, no soy yo.
-80	5298fa37	...Quisiera decirlo, pero\nprimero escuchemos tu fundamento.
-90	a4a495af	Ya expliqué por qué excluyo a Hiruko y a mí.
-100	f7424b00	Pero así quedamos solo Tsubasa y yo, ¿no?
-110	e59ab559	No, hay una opción más.
-120	7216a76c	Porque las víctimas no son solo tres...\n¡sino también SIREI y NIGOU!
-130	45bb273d	¿SIREI y NIGOU...?\n¿Por qué ahora esas dos...?
-140	617c48b0	Esas dos fueron destruidas el mismo día que mataron a Moko.
-150	30c5d7b7	Probablemente... al "culpable" le estorbaban esas dos\npara actuar.
-160	d7c7f5aa	No creo que Leo Jr. pensara en algo así,\nasí que el "culpable" debió de darle esas instrucciones.
-170	f07d1692	{fc(57e4f1)Después de matar a Moko, se movió de la escena...\n¿sería ese el orden?}
-180	4d79a4d4	{fc(57e4f1)Ahora que lo pienso, la caja había cambiado de lugar.}
-190	a3bc242a	{fc(57e4f1)Cuando la vi por primera vez, Leo Jr.\nno estaba en la caja...}
-200	c4150723	{fc(57e4f1)Probablemente entró mientras yo volvía\nde la escena de SIREI y los demás.}
-210	024a0952	Entonces, ¿por qué eso hace que yo sea la culpable?
-220	3ad18939	Oye, Takumi. No digas cosas crueles.\nSomos compañeros, ¿no...?
-230	621887a5	La reina Gii obtiene los conocimientos y recuerdos\nde quien posee.
-240	d5995a00	Eso lo sé, pero...
-250	f7b32424	Y... Tsubasa tiene la técnica para mover\na SIREI y NIGOU.
+50	6ab7435c	Nozomi Kirifuji: ¿Por qué lo dices?
+60	9fe07267	Takumi Sumino: Es la única conclusión lógica. Todo apunta a ti.
+70	b2ce0b8e	Nozomi Kirifuji: Te equivocas... No fui yo.
+80	5298fa37	Nozomi Kirifuji: Pero ¿podrías decirme en qué te basas para sospechar de mí, de todos modos?
+90	a4a495af	Takumi Sumino: Ya expliqué por qué no pudimos ser ni Hiruko ni yo.
+100	f7424b00	Nozomi Kirifuji: Pero eso solo lo reduce a Tsubasa y a mí, ¿no?
+110	e59ab559	Takumi Sumino: No. Solo puedes ser tú.
+120	7216a76c	Takumi Sumino: No buscamos solo al asesino de Yugamu, Kurara y Shouma...sino también al de Sirei y Nigou.
+130	45bb273d	Nozomi Kirifuji: ¿Sirei y Nigou? ¿Por qué los mencionas?
+140	617c48b0	Takumi Sumino: A los dos los destruyeron la misma noche en que mataron a Moko.
+150	30c5d7b7	Takumi Sumino: Probablemente el verdadero asesino quería sacarlos del camino para eliminar más fácilmente al resto.
+160	d7c7f5aa	Takumi Sumino: No creo que Leo Jr. pudiera habérsele ocurrido eso por su cuenta. Se lo ordenaron.
+170	f07d1692	{fc(57e4f1)Debió de matar a Moko, ir tras los otros y luego volver.}
+180	4d79a4d4	{fc(57e4f1)Eso explicaría por qué la caja se movió.}
+190	a3bc242a	{fc(57e4f1)No había nada dentro de esa caja cuando llegué por primera vez.}
+200	c4150723	{fc(57e4f1)Leo Jr. debió de volver a colarse mientras yo revisaba a Sirei y Nigou.}
+210	024a0952	Nozomi Kirifuji: Está bien, pero ¿por qué eso significaría que yo soy la asesina?
+220	3ad18939	Nozomi Kirifuji: Por favor, Takumi, deja de ser tan malo conmigo... Somos amigos, ¿no?
+230	621887a5	Takumi Sumino: La reina G'ie...puede acceder a los conocimientos de su huésped.
+240	d5995a00	Nozomi Kirifuji: Lo sé, pero...
+250	f7b32424	Takumi Sumino: Y Tsubasa sabe operar los cuerpos de Sirei y Nigou.
 260	c98ee14e	¡...!
-270	33e2821f	Eh, ¿qué quieres decir?
-280	5ff03d82	Que si tuviera la técnica para mover a SIREI y los demás,\nno los habría destruido tan de pasada.
-290	09907429	Por ejemplo, si lograra apoderarse de SIREI y los demás,\npodría moverse mucho más fácil que solo rompiéndolos, ¿no?
-300	18d68a8b	También habría cometido los distintos asesinatos con más facilidad.
-310	5e28c03d	Ah, ya veo.\nYo tengo la técnica para mover a SIREI y los demás...
-320	60acda97	...¡Soy inocente!
-330	292cb2a1	Habría querido que al menos\nestuvieras segura de tu inocencia...
-340	6c7e7190	Así es. Por eso, que Tsubasa sea el huésped\nes imposible.
+270	33e2821f	Tsubasa Kawana: ¿Eh? ¿Y eso qué significa?
+280	5ff03d82	Hiruko Shizuhara: Si pudieras controlar a esos dos, no habría necesidad de destruirlos.
+290	09907429	Hiruko Shizuhara: Costaría mucho menos esfuerzo mantenerlos intactos y controlarlos a distancia.
+300	18d68a8b	Hiruko Shizuhara: Probablemente también facilitaría cometer futuros asesinatos.
+310	5e28c03d	Tsubasa Kawana: Ah, ya entiendo. Yo sabía operarlos, así que no necesitaba destruirlos...
+320	60acda97	Tsubasa Kawana: ¡Eso significa que soy inocente!
+330	292cb2a1	Hiruko Shizuhara: Habría esperado que no necesitaras que te lo dijéramos.
+340	6c7e7190	Takumi Sumino: Ahí lo tienen. No tendría sentido que Tsubasa fuera la del parásito.
 350	f4a72a8b	
-360	1da91a26	Bien, ¿tienes algo que decir, Nozomi?
-370	3fcd94b3	No... ¡reina Gii!
+360	1da91a26	Takumi Sumino: Eso solo te deja a ti, Nozomi.
+370	3fcd94b3	Takumi Sumino: O debería decir... ¡La Reina G'ie!
 380	f4a72a8b	
-390	e5afb11a	Q-Qué cruel... ¿me llamas culpable\ncon esa clase de fundamento...?
+390	e5afb11a	Nozomi Kirifuji: Qué cruel eres... ¿Con eso basta para que te vuelvas contra mí?
 400	f4a72a8b	
-410	f30d90a4	...Aunque lo diga, no servirá de nada, ¿verdad?
-420	217c6c15	Así es, yo soy... la reina Gii.
-430	0c336738	...Lo admitiste.
-440	c647590a	Ay, qué fastidio.\nNo sabía que existía un cerebro tan poco apto para matar.
-450	8ed581f3	Como ni siquiera estoy acostumbrada a engañar,\nme costó muchísimo.
-460	3cba9cc1	¿D-Desde cuándo...?\n¡¿Desde cuándo te hacías pasar por Nozomi...?!
-470	86fd9474	Si no recuerdo mal, desde el día 26.
-480	1fa328b7	Desde tan atrás...
-490	9075450e	Además, "hacerse pasar" no es la expresión adecuada.
-500	bc5e5fc5	Heredé todos sus recuerdos y conocimientos,\nasí que soy lo mismo que este cuerpo.
-510	543f89d2	¿Tú mataste a los tres... no hay error?
-520	c0692409	Sí, así es.
-530	9c69505c	Qué curioso: el cuento de Shouma acertó casi en todo.
-540	f8d129a6	Yugamu... y también Kurara.\nFue fácil matarlos de manera similar.
-550	055ea71c	¿Por qué empezaste por esos dos...?
-560	723eadc6	No hay razón.\nMaté primero a los más fáciles de matar. Eso es todo.
-570	701dd3a2	¡E-Entonces, ¿por qué no mataste a Ima?!\n¡Tú también podías haber muerto...!
-580	cd49663d	¿Cómo se supone que lo mate con manos y pies atados?
-590	8f61b42d	Traté de llamar al macho... a Leo Jr.,\npara que me ayudara en secreto, pero también fallé.
-600	43fcb5dc	Y entonces pensé en deshacerme de paso de SIREI y los demás,\nque estorbaban, y eso al final me retrasó.
-610	eeacb7f3	De haber sido así, habría cambiado el orden de los asesinatos—
-620	4ef556dd	—¡Basta ya!
+410	f30d90a4	Nozomi Kirifuji: Muy bien, veo que ese enfoque ya no va a funcionar.
+420	217c6c15	Nozomi Kirifuji: Es verdad. Yo soy la Reina G'ie.
+430	0c336738	Takumi Sumino: Entonces lo admites.
+440	c647590a	Nozomi Kirifuji: Yo también la he pasado mal, ¿sabes? No es nada divertido quedar atrapada en un cerebro tan poco apto para matar.
+450	8ed581f3	Nozomi Kirifuji: Ni siquiera engañar a la gente va con la naturaleza de esta. Me lo puso mucho más difícil de lo necesario.
+460	3cba9cc1	Tsubasa Kawana: ¡¿Cuánto tiempo llevas haciéndote pasar por Nozomi?!
+470	86fd9474	Nozomi Kirifuji: Veamos... Desde más o menos el Día 26.
+480	1fa328b7	Tsubasa Kawana: ¿Tanto...?
+490	9075450e	Nozomi Kirifuji: Pero "hacerme pasar por ella" no es del todo exacto, ¿sabes?
+500	bc5e5fc5	Nozomi Kirifuji: ESTE es su cuerpo, y tengo todos los mismos recuerdos que la Nozomi "real".
+510	543f89d2	Hiruko Shizuhara: ¿Y de verdad fuiste tú quien mató a Yugamu y a los demás?
+520	c0692409	Así es.
+530	9c69505c	Nozomi Kirifuji: Es curioso, pero la historia que inventó Shouma es casi como ocurrió en realidad.
+540	f8d129a6	Nozomi Kirifuji: A Yugamu y a Kurara...los atraje y los maté. Al menos esa parte fue fácil.
+550	055ea71c	Tsubasa Kawana: ¿Pero por qué a esos dos?
+560	723eadc6	Nozomi Kirifuji: Sin ningún motivo real. Eran blancos fáciles; nada más.
+570	701dd3a2	Tsubasa Kawana: ¡¿Pero por qué no mataste a Ima cuando te tomó de rehén?! ¡Podría haberte matado!
+580	cd49663d	Nozomi Kirifuji: ¿Y cómo exactamente lo habría matado con los brazos y las piernas atados?
+590	8f61b42d	Nozomi Kirifuji: Intenté que el macho...perdón, "Leo Jr."...ayudara, pero no resultó.
+600	43fcb5dc	Nozomi Kirifuji: Debo decir que jamás esperé que matar a Sirei y a Nigou fuera lo que por fin me delataría.
+610	eeacb7f3	Nozomi Kirifuji: De haberlo sabido, habría cambiado el orden de las víctimas y...
+620	4ef556dd	Takumi Sumino: ¡Basta!
 630	f4a72a8b	
-640	c15c2404	Ya no hables... con esa cara y esa voz...
+640	c15c2404	Takumi Sumino: No soporto oírte decir estas cosas con su voz...
 650	f4a72a8b	
 660	f4a72a8b	
-670	10147fef	En 300 segundos se iniciará el ataque omnidireccional...
-680	bda16896	Miembros de la Unidad de Defensa Especial, de inmediato,\nsuban a la {fc(ff635b)"cápsula de escape"} que saldrá en el Patio de la escuela.
-690	7360f557	Bueno, ¿no es hora de abordar?
-700	9266c5b0	Si no suben a las cápsulas de escape,\ntodos morirán.
-710	15c3b894	¡No pienso dejar que subas!
-720	986e4289	Oh, ¿entonces... puedes matarme?
+670	10147fef	El ataque omnidireccional se lanzará en 300 segundos...
+680	bda16896	Miembros de la Unidad Especial de Defensa, aborden de inmediato la {fc(ff635b)cápsula de escape} en el Patio de la escuela.
+690	7360f557	Nozomi Kirifuji: Bien, entonces supongo que deberíamos irnos.
+700	9266c5b0	Nozomi Kirifuji: Si no subimos a la cápsula, vamos a morir todos, ¿sabes?
+710	15c3b894	Hiruko Shizuhara: ¡No vamos a dejarte subir a bordo!
+720	986e4289	Nozomi Kirifuji: ¿Oh? ¿Entonces van a matarme?
 730	f4a72a8b	
 740	f4a72a8b	
-750	8445bec8	...Veo que dudas.
-760	affb50e8	Escucha. Yo solo no quiero morir.\nSolo... quiero vivir.
-770	f43a1078	Si me dejas ir,\nseguiré actuando como este cuerpo.
-780	8e6f3d5e	Y tampoco mataré.
-790	ce57df3b	Bueno... al menos no a la vista de ustedes.
-800	4f320e7c	¡Qué tontería...!
-810	b06bdcb6	¿Tú crees? Ustedes nunca pensaron que yo pudiera ser falsa,\n¿verdad?
-820	ca919905	Mientras no se sabe, no se distingue de la verdadera.
-830	c25ad2dd	Y de ahora en adelante actuaré igual que la verdadera.
-840	77be4b96	¿No basta con eso?
-850	52868da3	Oye, con eso bas——————
-860	40379ade	{fc(57e4f1)En ese instante, el cuerpo de Nozomi estalló.}
-870	fcb7a821	{fc(57e4f1)El cuerpo perdió la fuerza y cayó lentamente.}
+750	8445bec8	Nozomi Kirifuji: Su vacilación es evidente.
+760	affb50e8	Nozomi Kirifuji: Intenten verlo desde mi punto de vista. No quiero morir. Solo quiero vivir, nada más.
+770	f43a1078	Nozomi Kirifuji: Incluso puedo seguir actuando como la Nozomi que todos conocen. No tiene que cambiar nada.
+780	8e6f3d5e	Nozomi Kirifuji: Ni siquiera volveré a matar a nadie.
+790	ce57df3b	Nozomi Kirifuji: Bueno... Aunque no se darán cuenta, de todos modos.
+800	4f320e7c	Takumi Sumino: ¡No digas tonterías...!
+810	b06bdcb6	Nozomi Kirifuji: ¿Qué tiene de tonto? En todo este tiempo, nunca sospecharon que era una impostora, ¿verdad?
+820	ca919905	Nozomi Kirifuji: Si no supieran la verdad, jamás notarían la diferencia.
+830	c25ad2dd	Nozomi Kirifuji: Puedo ser tan buena como la original.
+840	77be4b96	Nozomi Kirifuji: No es un mal trato, ¿no?
+850	52868da3	Nozomi Kirifuji: Así que, ¿por qué no...?
+860	40379ade	{fc(57e4f1)Antes de que pudiera terminar, la mitad superior del cuerpo de Nozomi voló en pedazos.}
+870	fcb7a821	{fc(57e4f1)Lo que quedó de ella cayó inerte al suelo.}
 880	f4a72a8b	
-890	25b2782e	Esto es...
-900	4e098c2f	Perdón... pero... no debía seguir oyendo\nla voz que salía de esa boca...
-910	b3e92191	Pensé eso... y por eso...
-920	bfae2e40	...Perdón.
-930	9df2d0fd	No, está bien, Tsubasa.\nNo hubo otra opción.
-940	b004e5a6	Alguien tenía que hacerlo.
-950	89454e35	Perdona que te haya hecho hacer algo así.
-960	8d9dab46	Ugh... uuugh...
-970	8552c3eb	¡Espera, Takumi!\n¡La reina Gii sigue viva!
-980	5ec64697	¡G-Giii...!
+890	25b2782e	Hiruko Shizuhara: Esto es...
+900	4e098c2f	Tsubasa Kawana: Lo siento... Sonaba tanto como Nozomi que sentí que podríamos terminar de acuerdo con ella...
+910	b3e92191	Tsubasa Kawana: Y yo simplemente... No podía dejar que pasara.
+920	bfae2e40	Tsubasa Kawana: Yo... Lo siento...
+930	9df2d0fd	Takumi Sumino: Está bien, Tsubasa. Había que hacerlo.
+940	b004e5a6	Takumi Sumino: Alguien tenía que detenerla.
+950	89454e35	Takumi Sumino: Solo lamento que tuvieras que ser tú.
+960	8d9dab46	Tsubasa Kawana: *sniff*
+970	8552c3eb	Hiruko Shizuhara: Espera, Takumi. ¡La reina G'ie sigue viva!
+980	5ec64697	Reina de los G'ie: G-G'ieeeeee...
 990	f4a72a8b	
-1000	9321a3b7	¿Qué hacemos?\nAunque la dejemos, creo que las llamas la quemarán.
-1010	55f2ee23	No, fui yo quien decidió poner fin a esto.
-1020	5f7ea93c	¡¡Giiiiiiiiiiiii...!!
-1030	79cf2807	Con esto... se acabó.
-1040	2d4fffd2	"Faltan 60 segundos para el ataque en todas direcciones.\nComienza la cuenta regresiva..."
-1050	b1ea9f55	...No hay tiempo.\nSubamos a la cápsula de escape.
+1000	9321a3b7	Hiruko Shizuhara: ¿Y ahora? Morirá en el ataque final de todos modos, aunque no hagamos nada.
+1010	55f2ee23	Takumi Sumino: No, no podemos arriesgarnos. Voy a terminar esto.
+1020	5f7ea93c	Reina de los G'ie: ¡G'ieeeeeeeee!
+1030	79cf2807	Takumi Sumino: Se acabó, "Su Majestad".
+1040	2d4fffd2	60 segundos para el ataque omnidireccional. Iniciando cuenta regresiva...
+1050	b1ea9f55	Takumi Sumino: Rápido, hay que llegar a la cápsula.
