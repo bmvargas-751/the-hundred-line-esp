@@ -6045,6 +6045,11 @@ message/s12_0_fantasyr_ab_d097_m010_010
 message/s12_0_fantasyr_ab_d098_m010_010
 message/s12_0_fantasyr_ab_d099_m010_010
 message/s12_0_fantasyr_ab_d100_m010_010
+message/s12_0_fantasyr_b0_d041_m010_010
+message/s12_0_fantasyr_b0_d041_m020_010
+message/s12_0_fantasyr_ba_d041_m010_010
+message/s12_0_fantasyr_ba_d041_m010_020
+message/s12_0_fantasyr_bb_d041_m010_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
