@@ -8,50 +8,50 @@ id	huella_jp	es
 80	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
 90	b588a67e	Bueno, buenas noches...
 100	8156e74d	{fc(57e4f1)Sonó el anuncio de la noche, como siempre, y entonces...apareció él.}
-110	9d4fec9d	Shion: Hola. Ha pasado tiempo. Creo que por fin tengo algo que informar.
-120	696e2ce4	Takumi Sumino: ¿Qué es?
-130	91123116	Shion: Antes de contártelo, me gustaría saber qué piensas de lo que ha estado pasando aquí.
-140	b65d9e79	Takumi Sumino: Está bien, pero todavía no he llegado a nada definitivo...
+110	9d4fec9d	Hola. Ha pasado tiempo. Creo que por fin tengo algo que informar.
+120	696e2ce4	¿Qué es?
+130	91123116	Antes de contártelo, me gustaría saber qué piensas de lo que ha estado pasando aquí.
+140	b65d9e79	Está bien, pero todavía no he llegado a nada definitivo...
 150	979af932	{fc(57e4f1)Le conté al chico fantasma todo lo que había logrado deducir hasta el momento.}
-160	227be7c1	Shion: Ya veo...
-170	e1e025ec	Shion: Kako cambió por una caja extraña...y ahora necesitan otra para avanzar.
-180	64ff372c	Shion: En ese caso, creo que lo que tengo que decirte les servirá.
-190	892a6038	Takumi Sumino: ¡¿En serio?! ¿Qué descubriste?
-200	b16a22d0	Shion: Bueno, lo más importante...
-210	8d05c38e	Shion: Parece haber una leyenda sobre la Caja de Bendiciones en la sociedad de los invasores.
-220	cb1846f9	Shion: Se dice que hay siete repartidas por el mundo, y quien encuentre una hallará la felicidad.
-230	047d4492	Takumi Sumino: ¡¿Entonces lo que dijo Eva era cierto?!
-240	6accbe58	Shion: Yo...no lo creo.
-250	3c1c0548	Shion: También existe una leyenda equivalente sobre las Cajas de Calamidad.
-260	9aa7700b	Shion: Aparece incluso en fuentes más antiguas. Dicen que hay un total de seis de estas cajas ocultas por el mundo.
-270	7f0ec031	Takumi Sumino: Entonces... ¿Qué significa eso?
-280	1c63a556	Shion: Las dos leyendas parecen legítimas. Pero hay otro detalle importante.
-285	b2e71d14	Shion: Al parecer, las Cajas de Bendiciones y las Cajas de Calamidad se ven casi iguales.
-290	2fc0d0f3	Shion: Los patrones de las cajas también son los mismos, pero cambia su cantidad de símbolos.
-295	061fbe42	Shion: Así que a primera vista...
-300	c313df5b	Shion: Probablemente nadie pueda distinguir si una caja es de Bendiciones o de Calamidad.
-303	f4f3cd0c	Eva: T-Tenía un diseño en particular...
-306	d1485b27	Eva: En su cultura, creo que lo llaman {fc(ff635b)luna}.
-308	59b0ba23	Eva: S-Sí, era...una cajita de madera adornada con {fc(ff635b)un diseño de luna}...
-310	9d1f563c	Takumi Sumino: Estoy bastante seguro de que Eva dijo que la Caja de Bendiciones tenía un {fc(ff635b)diseño de luna}.
-315	94f864d3	Shion: Así es...pero lo mismo vale para una Caja de Calamidad.
-320	144c8d81	Shion: Sin embargo, parece que las Cajas de Calamidad siguen cierto orden en la cantidad de {fc(ff635b)lunas}.
-325	0f495e7c	Shion: Por desgracia, no sé nada de ese orden.
-330	9c1ea334	Takumi Sumino: ¿...?
-340	fe5f7f73	Shion: En todo caso, creo que Eva calló a propósito la existencia de las Cajas de Calamidad.
-350	ff25996e	Shion: Como dije antes, las Cajas de Bendiciones y las de Calamidad se parecen de forma asombrosa.
-360	671d38d1	Shion: Así que si alguien encontrara una caja sin saber de las Cajas de Calamidad...
-370	af148a47	Shion: Estaría seguro de que es una Caja de Bendiciones y la abriría sin dudar.
-380	7eca0d46	Shion: Suponiendo que fuera una Caja de Calamidad en la que había un espectro sellado...
-390	9949e2b4	Shion: Ese era el objetivo de Eva.
-400	26a10730	Shion: Creo que planeaba dejar que ustedes abrieran la Caja de Calamidad para aniquilar a la Unidad de Defensa Especial.
-410	29656831	Takumi Sumino: Y ideó ese plan tan rápido...
-420	a90a7ecb	Shion: Lo importante es que este espectro es algo que Eva realmente creyó capaz de hacernos daño.
-430	100d1096	Takumi Sumino: No es algo abstracto como la mala suerte, sino una amenaza real y tangible.
-440	ca01080e	Shion: La caja que abrió Kako en el santuario...y la que encontraron en la Cafetería.
-450	cceb1856	Shion: Aunque las contemos como dos distintas, todavía quedan cuatro Cajas de Calamidad en alguna parte.
-460	1104b077	Shion: Si podemos encontrar una, quizás logremos averiguar qué le pasó a Kako.
-470	7878b952	Takumi Sumino: ¡Tienes razón! Nosotros también lo pensábamos, ¡pero esto lo confirma! ¡Gracias!
-480	1a22c6f4	Shion: ¿Pude ayudarte un poco? Me alegro.
+160	227be7c1	Ya veo...
+170	e1e025ec	Kako cambió por una caja extraña...y ahora necesitan otra para avanzar.
+180	64ff372c	En ese caso, creo que lo que tengo que decirte les servirá.
+190	892a6038	¡¿En serio?! ¿Qué descubriste?
+200	b16a22d0	Bueno, lo más importante...
+210	8d05c38e	Parece haber una leyenda sobre la Caja de Bendiciones en la sociedad de los invasores.
+220	cb1846f9	Se dice que hay siete repartidas por el mundo, y quien encuentre una hallará la felicidad.
+230	047d4492	¡¿Entonces lo que dijo Eva era cierto?!
+240	6accbe58	Yo...no lo creo.
+250	3c1c0548	También existe una leyenda equivalente sobre las Cajas de Calamidad.
+260	9aa7700b	Aparece incluso en fuentes más antiguas. Dicen que hay un total de seis de estas cajas ocultas por el mundo.
+270	7f0ec031	Entonces... ¿Qué significa eso?
+280	1c63a556	Las dos leyendas parecen legítimas. Pero hay otro detalle importante.
+285	b2e71d14	Al parecer, las Cajas de Bendiciones y las Cajas de Calamidad se ven casi iguales.
+290	2fc0d0f3	Los patrones de las cajas también son los mismos, pero cambia su cantidad de símbolos.
+295	061fbe42	Así que a primera vista...
+300	c313df5b	Probablemente nadie pueda distinguir si una caja es de Bendiciones o de Calamidad.
+303	f4f3cd0c	T-Tenía un diseño en particular...
+306	d1485b27	En su cultura, creo que lo llaman {fc(ff635b)luna}.
+308	59b0ba23	S-Sí, era...una cajita de madera adornada con {fc(ff635b)un diseño de luna}...
+310	9d1f563c	Estoy bastante seguro de que Eva dijo que la Caja de Bendiciones tenía un {fc(ff635b)diseño de luna}.
+315	94f864d3	Así es...pero lo mismo vale para una Caja de Calamidad.
+320	144c8d81	Sin embargo, parece que las Cajas de Calamidad siguen cierto orden en la cantidad de {fc(ff635b)lunas}.
+325	0f495e7c	Por desgracia, no sé nada de ese orden.
+330	9c1ea334	¿...?
+340	fe5f7f73	En todo caso, creo que Eva calló a propósito la existencia de las Cajas de Calamidad.
+350	ff25996e	Como dije antes, las Cajas de Bendiciones y las de Calamidad se parecen de forma asombrosa.
+360	671d38d1	Así que si alguien encontrara una caja sin saber de las Cajas de Calamidad...
+370	af148a47	Estaría seguro de que es una Caja de Bendiciones y la abriría sin dudar.
+380	7eca0d46	Suponiendo que fuera una Caja de Calamidad en la que había un espectro sellado...
+390	9949e2b4	Ese era el objetivo de Eva.
+400	26a10730	Creo que planeaba dejar que ustedes abrieran la Caja de Calamidad para aniquilar a la Unidad de Defensa Especial.
+410	29656831	Y ideó ese plan tan rápido...
+420	a90a7ecb	Lo importante es que este espectro es algo que Eva realmente creyó capaz de hacernos daño.
+430	100d1096	No es algo abstracto como la mala suerte, sino una amenaza real y tangible.
+440	ca01080e	La caja que abrió Kako en el santuario...y la que encontraron en la Cafetería.
+450	cceb1856	Aunque las contemos como dos distintas, todavía quedan cuatro Cajas de Calamidad en alguna parte.
+460	1104b077	Si podemos encontrar una, quizás logremos averiguar qué le pasó a Kako.
+470	7878b952	¡Tienes razón! Nosotros también lo pensábamos, ¡pero esto lo confirma! ¡Gracias!
+480	1a22c6f4	¿Pude ayudarte un poco? Me alegro.
 490	39eca19a	{fc(57e4f1)Con una sonrisa, el chico fantasma se desvaneció.}
 500	1f6bc2aa	{fc(57e4f1)Por fin teníamos información nueva y concreta. Esa noche estaba tan emocionado que casi no pude dormir.}

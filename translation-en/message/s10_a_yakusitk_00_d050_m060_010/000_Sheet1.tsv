@@ -1,12 +1,12 @@
 id	huella_jp	es
-10	17c90d25	{fc(57e4f1)Al abrir la puerta,\nquien estaba allí era...}
-20	8da7a479	Eh... perdón por molestarte. ¿Tienes un momento?
-30	b9582af1	S-Sí... ¿qué pasa?\n¿Necesitas algo?
-40	79dd8937	{fc(57e4f1)Ver a quien menos esperaba\nme puso nervioso sin querer.}
-50	bdbbea29	Eh... quiero hablar contigo a solas de algo,\n¿podemos hablar un poco?
-60	81b60623	¿Eh? Bueno... está bien...
-70	14cd5feb	Entonces, ¿puedes venir luego al aula junto al vestíbulo?\nTe espero allí.
-80	d171bc88	{fc(57e4f1)Con voz apagada, Nozomi\nse fue en silencio.}
+10	17c90d25	{fc(57e4f1)Abrí la puerta para recibir a mi visita de la tarde.}
+20	8da7a479	Eh... Perdón por molestarte mientras estás ocupado. ¿Tienes un momento?
+30	b9582af1	S-Sí... ¿Qué pasa? ¿Puedo hacer algo por ti?
+40	79dd8937	{fc(57e4f1)Estaba aturdido. No esperaba verla.}
+50	bdbbea29	Eh, hay algo de lo que quiero hablar contigo. ¿Te molestaría?
+60	81b60623	O-Oh, claro, supongo.
+70	14cd5feb	Entonces, ¿podrías venir al aula junto al Vestíbulo? Te esperaré allí.
+80	d171bc88	{fc(57e4f1)Nozomi habló con voz apagada antes de marcharse en silencio.}
 90	f4a72a8b	
-100	49b7ad27	Quiere hablar de algo...
-110	5f011ab8	{fc(57e4f1)Por ahora iré a ver.\nEl aula junto al vestíbulo, ¿verdad?}
+100	49b7ad27	Quiere hablar, ¿eh...
+110	5f011ab8	{fc(57e4f1)Supongo que iré. Dijo el aula junto al Vestíbulo, ¿verdad?}

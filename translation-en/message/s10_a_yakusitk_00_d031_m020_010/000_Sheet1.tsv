@@ -1,31 +1,31 @@
 id	huella_jp	es
-10	211b9ed6	...Ah, Takumi.\n¿Acabas de despertar?
-20	a051a704	Nosotros justo estábamos en la reunión de estrategia.
-30	67d69140	...¿Reunión de estrategia?
-40	cd488434	Sí, sobre la preparación para las próximas batallas defensivas\ny la línea de entrenamiento de cada miembro.
-50	da50d496	Hasta ahora toda la carga recayó sobre Sumino,\npero de ahora en adelante queremos aliviarla...
-60	94beed6d	También queremos lucirnos ante Sumino.
-70	2f3b93a2	Por un tiempo déjanos todo a nosotros,\nTakumi, puedes descansar tranquilo.
-80	59988215	Gracias... pero estoy bien.\nSi no hago lo que puedo, me arrepentiré.
-90	9ade589e	Qué grande... es el Sr. Takumi.\nUn digno salvador de la humanidad...
-100	2d892d5c	...Más que salvador, es Dios.\nDios, si necesita algo, ordéneme lo que desee.
+10	211b9ed6	Oh, Sumino. ¿Acabas de despertar?
+20	a051a704	Estábamos teniendo una reunión de estrategia...
+30	67d69140	¿Una reunión de estrategia...?
+40	cd488434	Sí, sobre planes de entrenamiento individuales y preparativos para futuras batallas defensivas.
+50	da50d496	Hasta ahora hemos dejado que cargues con gran parte de la responsabilidad, pero queremos quitarte algo de peso de aquí en adelante...
+60	94beed6d	Queremos mostrarte de lo que somos capaces.
+70	2f3b93a2	¡Puedes tomártelo con calma y dejar que nos encarguemos nosotros un tiempo, Takumi!
+80	59988215	Gracias, pero no será necesario. Me arrepentiré si no hago todo lo que pueda para ayudarnos a ganar esta guerra.
+90	9ade589e	Ese es nuestro Takumi. Verdaderamente digno de ser el salvador de la humanidad...
+100	2d892d5c	No es un simple salvador, sino un Dios. Mi Señor, por favor avíseme si hay algo que pueda hacer por usted.
 110	f4a72a8b	
-120	6261ce27	...¿Ves, Takumi?\n¡Como dije yo, todos están con ánimos!
-130	c73f4fe1	Es gracias a ese eje que eres tú.\nTodos se unen alrededor de ti.
-140	5bc28138	{fc(57e4f1)Bueno, que tienen ánimo es cierto,\neso no se puede negar, pero...}
-150	4b0e833e	Ah, por cierto... no veo a Gaku. ¿Qué fue de él?
-160	28eb62ba	{fc(57e4f1)Al decir yo el nombre }{fc(ff635b)"Gaku"}{fc(57e4f1)\nnoté que el ambiente se tensaba claramente.}
-170	3ec14a65	Ese te molestó muchísimo, ¿no?\nNormalmente lo mandaría ejecutar y enterrar en una pila de abono, pero...
-180	34c2da77	¡¿Enterrado en abono?! ¿Eso existe?\nSuena horrible...
-190	bb1673b0	Como es su primera infracción, le rebajamos la pena,\ny por un tiempo se enfriará la cabeza fuera del edificio.
-200	b1cc16a3	¿Fuera del edificio...? ¿Desde ayer?\n¡Ya basta! Perdonémoslo.
-210	15e1d379	¿Eh...? ¿Así de fácil?\n¿Después de causarle muchísimos problemas al Sr. Sumino?
-220	d88d086e	Después de causarle problemas enormes a don Takumi,\nno debería perdonársele con un castigo tan leve...
-230	ca4c0473	{fc(57e4f1)Bueno, en el fondo es por la medicina que tomé.}
-240	77ee0489	En todo caso... perdonémoslo ya.\nSeguro que se arrepintió de sobra.
-250	849ba9ad	Es un dios... ¡Qué corazón tan grande tiene...!
-260	e0f4398e	...Dios. Sumino era Dios, sin duda.
-270	fd41d405	¡Todos! ¡Alabemos a Takumi\ny hagamos retumbar su gran nombre en esta academia!
+120	6261ce27	Bueno, ¿Sumino? Tal como te dije, todos están motivados.
+130	c73f4fe1	Es gracias a tu magnetismo. Todos están unidos en torno a ti.
+140	5bc28138	{fc(57e4f1)Bueno, quizás tenga razón en cuanto a lo motivados que están...}
+150	4b0e833e	Ah, por cierto, no veo a Gaku. ¿Qué anda haciendo?
+160	28eb62ba	{fc(57e4f1)La sola mención del nombre }{fc(ff635b)Gaku}{fc(57e4f1) puso a todos claramente en tensión.}
+170	3ec14a65	Gaku te perturbó seriamente. Normalmente haría que lo ejecutaran y lo enterraran en un montón de abono, pero...
+180	34c2da77	¡¿Enterrado en abono?! ¿Eso existe? Suena horrible...
+190	bb1673b0	Le di una sentencia leve porque era su primera infracción. Se está enfriando afuera un rato.
+200	b1cc16a3	¿Afuera? ¿Ha estado allá desde ayer? Vamos, ya es suficiente... Déjenlo salir.
+210	15e1d379	¿Eh? ¿Así nada más? ¿Incluso después de todo lo que te hizo?
+220	d88d086e	Un castigo tan menor no debería bastar para compensar la molestia que le causó, don Takumi...
+230	ca4c0473	{fc(57e4f1)Bueno, solo pasó porque tomé la droga.}
+240	77ee0489	Bueno, perdónenlo sin más. Seguro que ya reflexionó bastante sobre su comportamiento.
+250	849ba9ad	C-Sin duda es un Dios... Tan indulgente y tolerante...
+260	e0f4398e	Lo sabía. Sabía que el señor Sumino era un verdadero Dios.
+270	fd41d405	¡Todos! ¡Canten su nombre para que su grandeza resuene por los pasillos de nuestra escuela!
 280	cd0f75da	¡Takumi! ¡Takumi!
 290	cd0f75da	¡Takumi! ¡Takumi!
 300	cd0f75da	¡Takumi! ¡Takumi!
@@ -39,20 +39,20 @@ id	huella_jp	es
 380	cd0f75da	¡Takumi! ¡Takumi!
 390	cd0f75da	¡Takumi! ¡Takumi!
 400	cd0f75da	¡Takumi! ¡Takumi!
-410	0bddc742	¡¡Takumi!! ¡¡Takumi!!
+410	0bddc742	¡Takumi! ¡Takumi!
 420	cd0f75da	¡Takumi! ¡Takumi!
-430	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-440	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-450	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-460	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-470	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-480	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-490	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-500	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-510	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-520	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-530	0bddc742	¡¡Takumi!! ¡¡Takumi!!
-540	4e29f1e3	{fc(57e4f1)¡¿Qué es esto?! ¡Ya da miedo!}
+430	0bddc742	¡Takumi! ¡Takumi!
+440	0bddc742	¡Takumi! ¡Takumi!
+450	0bddc742	¡Takumi! ¡Takumi!
+460	0bddc742	¡Takumi! ¡Takumi!
+470	0bddc742	¡Takumi! ¡Takumi!
+480	0bddc742	¡Takumi! ¡Takumi!
+490	0bddc742	¡Takumi! ¡Takumi!
+500	0bddc742	¡Takumi! ¡Takumi!
+510	0bddc742	¡Takumi! ¡Takumi!
+520	0bddc742	¡Takumi! ¡Takumi!
+530	0bddc742	¡Takumi! ¡Takumi!
+540	4e29f1e3	{fc(57e4f1)¡¿Qué están haciendo?! ¡Esto me da miedo!}
 550	f4a72a8b	
-560	18711ba8	{fc(57e4f1)Tras ese misterioso coro,\nGaku fue traído de vuelta enseguida desde afuera...}
-570	46cbb84a	{fc(57e4f1)y después de que me ofreciera disculpas y agradecimientos\na mí y a todos, la reunión se disolvió por el momento.}
+560	18711ba8	{fc(57e4f1)Después de su extraño canto, llevaron a Gaku adentro...}
+570	46cbb84a	{fc(57e4f1)Se disculpó por su comportamiento y expresó su gratitud, y luego cada uno se fue por su lado.}

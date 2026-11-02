@@ -1,39 +1,39 @@
 id	huella_jp	es
-10	5349ddc8	Takumi Sumino: ¿Ya pusieron a Ima en la cápsula?
-20	77471fb4	Hiruko Shizuhara: Sí, pero tuvimos que sedarlo primero. Habría sido un peligro para nosotros si se resistía.
-60	9fdf99ec	Gaku Maruko: Aun así, ¿qué va a pasar con nosotros?
-70	7de7a8f0	Gaku Maruko: Detuvimos los misiles y ahora volvemos al satélite... ¡¿Pero luego qué?!
-80	2bc1f772	Takemaru Yakushiji: Pase lo que pase, pasará.
-90	6b7e5960	Takemaru Yakushiji: Solo tenemos que luchar para abrirnos nuestro propio camino en el mundo.
-100	e6ba5c32	Kurara Oosuzuki: Bueno, hemos eliminado a la mayor parte de las fuerzas invasoras, así que no debería pasar nada demasiado horrible.
-110	061f613a	Kurara Oosuzuki: Eso es lo que necesitamos creer si queremos llegar a alguna parte, al menos.
-120	a84768f5	Shouma Ginzaki: Protegimos toda la naturaleza y los animales de este planeta...
-130	ab368762	Tsubasa Kawana: Vamos, chicos. ¡Volvamos a casa!
-140	2cff13f6	Takumi Sumino: No... Me voy a quedar.
-150	206c1eea	Takemaru Yakushiji: ¡¿Eh?! ¿Tienes idea de lo que estás diciendo?
-160	e872e557	Takumi Sumino: Sí, la tengo.
-200	caa47900	Takumi Sumino: Entiendo pero...hay un lugar adonde tengo que ir.
-210	5ea86664	Takumi Sumino: No sé si alguna vez podremos volver después de ir al satélite.
-220	139bbfe5	Takumi Sumino: Así que necesito ir allí primero.
-230	27ab1ce3	Tsubasa Kawana: ¿Adónde...?
-240	79999503	Takumi Sumino: A la aldea de Eva.
-250	55db96fd	Takumi Sumino: Llevo mucho tiempo pensando en esto. Ya lo decidí.
-260	7c5d1a67	Hiruko Shizuhara: Ya tomaste tu decisión, entonces.
-270	2daa2f34	Hiruko Shizuhara: Muy bien, todos. Vámonos. Takumi se quedará.
-280	2d69c5cc	Gaku Maruko: ¡¿Guau, así sin más?!
-290	f05c70a6	Hiruko Shizuhara: La cápsula de escape no nos va a esperar para siempre. No tenemos tiempo para persuadirlo.
-300	03b3d61c	Hiruko Shizuhara: Y...entiendo por qué siente que necesita hacerlo.
-310	31c0790a	Takumi Sumino: Gracias, Hiruko.
-314	ed1dfb37	Takemaru Yakushiji: Maldición... Así son las cosas, ¿eh?
-318	e54a0dc5	Gaku Maruko: Supongo que eso es todo.
-322	c6307b85	Kurara Oosuzuki: Adiós, Takumi...
-324	ad1293f3	Shouma Ginzaki: Cuídate.
-328	dbb17d43	Tsubasa Kawana: Nos vemos, Takumi...
-330	d2420fc1	Takumi Sumino: Sí. No puedo prometer que nos volvamos a encontrar, pero...
-340	cd0737bb	Takumi Sumino: Creo que sí. En algún lugar... Algún día...
+10	5349ddc8	¿Ya pusieron a Ima en la cápsula?
+20	77471fb4	Sí, pero tuvimos que sedarlo primero. Habría sido un peligro para nosotros si se resistía.
+60	9fdf99ec	Aun así, ¿qué va a pasar con nosotros?
+70	7de7a8f0	Detuvimos los misiles y ahora volvemos al satélite... ¡¿Pero luego qué?!
+80	2bc1f772	Pase lo que pase, pasará.
+90	6b7e5960	Solo tenemos que luchar para abrirnos nuestro propio camino en el mundo.
+100	e6ba5c32	Bueno, hemos eliminado a la mayor parte de las fuerzas invasoras, así que no debería pasar nada demasiado horrible.
+110	061f613a	Eso es lo que necesitamos creer si queremos llegar a alguna parte, al menos.
+120	a84768f5	Protegimos toda la naturaleza y los animales de este planeta...
+130	ab368762	Vamos, chicos. ¡Volvamos a casa!
+140	2cff13f6	No... Me voy a quedar.
+150	206c1eea	¡¿Eh?! ¿Tienes idea de lo que estás diciendo?
+160	e872e557	Sí, la tengo.
+200	caa47900	Entiendo pero...hay un lugar adonde tengo que ir.
+210	5ea86664	No sé si alguna vez podremos volver después de ir al satélite.
+220	139bbfe5	Así que necesito ir allí primero.
+230	27ab1ce3	¿Adónde...?
+240	79999503	A la aldea de Eva.
+250	55db96fd	Llevo mucho tiempo pensando en esto. Ya lo decidí.
+260	7c5d1a67	Ya tomaste tu decisión, entonces.
+270	2daa2f34	Muy bien, todos. Vámonos. Takumi se quedará.
+280	2d69c5cc	¡¿Guau, así sin más?!
+290	f05c70a6	La cápsula de escape no nos va a esperar para siempre. No tenemos tiempo para persuadirlo.
+300	03b3d61c	Y...entiendo por qué siente que necesita hacerlo.
+310	31c0790a	Gracias, Hiruko.
+314	ed1dfb37	Maldición... Así son las cosas, ¿eh?
+318	e54a0dc5	Supongo que eso es todo.
+322	c6307b85	Adiós, Takumi...
+324	ad1293f3	Cuídate.
+328	dbb17d43	Nos vemos, Takumi...
+330	d2420fc1	Sí. No puedo prometer que nos volvamos a encontrar, pero...
+340	cd0737bb	Creo que sí. En algún lugar... Algún día...
 350	396483a0	{fc(57e4f1)La cápsula de escape se elevó muy alto en el cielo.}
 360	0a25847f	{fc(57e4f1)Los vi partir de pie, completamente solo en la superficie.}
-370	2ccb0851	Takumi Sumino: Será mejor que me ponga en marcha.
+370	2ccb0851	Será mejor que me ponga en marcha.
 380	6170df88	{fc(57e4f1)Con la decisión tomada, empecé a caminar.}
 390	b7494835	{fc(57e4f1)Los únicos otros que quedaban en la superficie eran los invasores. Ninguno de los camaradas que habían luchado a mi lado tanto tiempo seguía allí.}
 400	9a591ada	{fc(57e4f1)Tenía miedo. Pensar en morir bastaba para que las rodillas amenazaran con doblárseme.}
@@ -43,5 +43,5 @@ id	huella_jp	es
 440	404b8f3e	{fc(57e4f1)Y cómo murió de una vez por todas.}
 450	6462c524	{fc(57e4f1)Tenía que contarles a los habitantes de la aldea todo lo que sabía.}
 460	c3bd9c9a	{fc(57e4f1)Eso solo no bastaría para pagar todo lo que Eva había hecho por mí.}
-470	58ec00f6	Takumi Sumino: Pero aun así... Tengo que intentarlo.
+470	58ec00f6	Pero aun así... Tengo que intentarlo.
 480	01b582aa	{fc(57e4f1)Empecé a caminar hacia la aldea, paso a paso.}

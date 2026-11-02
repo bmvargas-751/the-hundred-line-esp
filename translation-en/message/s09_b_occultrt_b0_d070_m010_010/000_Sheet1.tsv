@@ -1,26 +1,26 @@
 id	huella_jp	es
 10	d78eceb1	Día 70
-20	8913d2bc	Eva: ¡Oh, Takumi!
-30	850ef9bb	Takumi Sumino: Buenos días, Eva.
-40	159a59b3	Eva: Buenos dí... ¡Eso no importa ahora!
-50	44360801	Eva: ¿Qué haces otra vez aquí afuera? ¿Y tus heridas?
-60	1a9af108	Eva: Estaba muy preocupada... Quería quedarme contigo, pero entonces desaparecí y...
-70	2f91a9ed	Takumi Sumino: Está bien. Volví a la academia sin problemas. Ya descansé y estoy listo para retomar la búsqueda.
-80	421fe583	Eva: Aun así no me gusta la idea de que estés aquí afuera solo.
-90	ab164f18	Eva: Lo siento mucho... Todo esto es culpa mía por haber mencionado la aldea en primer lugar...
-100	0d3244c6	Takumi Sumino: No tienes que disculparte. Solo mira allá.
-110	ecca3f10	Eva: ¿Qué...?
-120	d4d16901	Takumi Sumino: Mira. Justo ahí.
-130	207bea27	Eva: ¡E-Eso es...!
-140	96e03c2e	Takumi Sumino: Esa es tu aldea, ¿verdad?
-150	b654e12b	Takumi Sumino: Probablemente no debería acercarme demasiado, pero se ve bastante bien desde aquí.
-160	f709fbca	Takumi Sumino: Esa niña de ahí... ¿Es tu hija?
-170	993a1c9a	Eva: Sí... Sí, es ella...
-180	5aa5861b	Takumi Sumino: Primero era tu sobrina, ahora tu hija. Menudo árbol genealógico.
-190	07b9a996	Eva: Se suponía que debía cuidarla... Se suponía que debía protegerla...
-200	d9e656f4	Eva: Pasara lo que pasara conmigo, estaba decidida a volver aquí algún día.
+20	8913d2bc	¡Oh, Takumi!
+30	850ef9bb	Buenos días, Eva.
+40	159a59b3	Buenos dí... ¡Eso no importa ahora!
+50	44360801	¿Qué haces otra vez aquí afuera? ¿Y tus heridas?
+60	1a9af108	Estaba muy preocupada... Quería quedarme contigo, pero entonces desaparecí y...
+70	2f91a9ed	Está bien. Volví a la academia sin problemas. Ya descansé y estoy listo para retomar la búsqueda.
+80	421fe583	Aun así no me gusta la idea de que estés aquí afuera solo.
+90	ab164f18	Lo siento mucho... Todo esto es culpa mía por haber mencionado la aldea en primer lugar...
+100	0d3244c6	No tienes que disculparte. Solo mira allá.
+110	ecca3f10	¿Qué...?
+120	d4d16901	Mira. Justo ahí.
+130	207bea27	¡E-Eso es...!
+140	96e03c2e	Esa es tu aldea, ¿verdad?
+150	b654e12b	Probablemente no debería acercarme demasiado, pero se ve bastante bien desde aquí.
+160	f709fbca	Esa niña de ahí... ¿Es tu hija?
+170	993a1c9a	Sí... Sí, es ella...
+180	5aa5861b	Primero era tu sobrina, ahora tu hija. Menudo árbol genealógico.
+190	07b9a996	Se suponía que debía cuidarla... Se suponía que debía protegerla...
+200	d9e656f4	Pasara lo que pasara conmigo, estaba decidida a volver aquí algún día.
 210	f4a72a8b	
-220	90b3c62c	Eva: Pero ahora yo... ¡Yo...!
+220	90b3c62c	Pero ahora yo... ¡Yo...!
 230	122d519e	{fc(57e4f1)Eva se quebró, abrumada por la emoción.}
 240	ef24e415	{fc(57e4f1)Me quedé ahí en silencio mientras ella sollozaba sin palabras para sí misma.}
 250	a4a39379	{fc(57e4f1)¿Qué podría decir en una situación así?}
@@ -30,5 +30,5 @@ id	huella_jp	es
 290	d7294e56	{fc(57e4f1)Si no lo hubiera sabido, habría pensado que era una comunidad humana normal.}
 300	f7ef4e02	{fc(57e4f1)Dondequiera que miraba, solo veía gente común viviendo vidas comunes.}
 305	4abda3e8	{fc(57e4f1)Y sin darme cuenta, se me ocurrió un pensamiento sencillo.}
-310	2730ae6f	Takumi Sumino: Ustedes también solo intentan vivir, ¿eh...?
+310	2730ae6f	Ustedes también solo intentan vivir, ¿eh...?
 320	223311e5	{fc(57e4f1)Tuve la extraña sensación de que me arrepentiría de haber puesto en palabras ese sentimiento.}

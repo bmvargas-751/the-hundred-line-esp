@@ -3,58 +3,58 @@ id	huella_jp	es
 20	fcd5bdde	*bostezo* Descansen, soldados. Es hora de irse a dormir.
 30	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
 40	b588a67e	Bueno, buenas noches...
-50	9052199e	Takumi Sumino: Hiruko dijo que haría lo posible por atraer al enemigo.
-60	98bbd166	Takumi Sumino: Eso debería permitirnos ocuparnos de V'ehxness de algún modo...
+50	9052199e	Hiruko dijo que haría lo posible por atraer al enemigo.
+60	98bbd166	Eso debería permitirnos ocuparnos de V'ehxness de algún modo...
 70	9d5e60bf	{fc(57e4f1)Ahora solo hay que esperar a la batalla.}
 80	cab7fadf	{fc(57e4f1)Ojalá las cosas empiecen a mejorar después... Quizás incluso descubra quién es el fantasma.}
 90	af7a63ef	{fc(57e4f1)¿...?}
 100	d0ff3451	{fc(57e4f1)¡¿...?!}
-110	e21b9cb3	Takumi Sumino: ¡¿Q-Qué...?!
-120	8fa09e54	Takumi Sumino: ¡¿Qué es esto?! ¡La habitación tiembla como loca!
+110	e21b9cb3	¡¿Q-Qué...?!
+120	8fa09e54	¡¿Qué es esto?! ¡La habitación tiembla como loca!
 130	9956dd16	{fc(57e4f1)La alarma no ha sonado, así que no puede ser un ataque de los invasores.}
 140	936a1b4d	{fc(57e4f1)¿Podría ser...algo sobrenatural?}
-150	f8f48f42	???: G'ieee...
+150	f8f48f42	
 160	57c811bd	¿Eh?
-170	6809d319	???: ¡G'ieeeeee!
+170	6809d319	¡G'ieeeeee!
 180	cfefe9b8	¡Aaagh!
-190	12aa43f2	Muñeca: ¡G'ieeeeee!
-200	80d7d894	Takumi Sumino: ¡¿Qué...? ¿Una muñeca...?!
-210	83b8c9f2	Muñeca: ¡G'ieeeeeeeee!
-220	cfefe9b8	Takumi Sumino: ¡Guau...!
+190	12aa43f2	¡G'ieeeeee!
+200	80d7d894	¡¿Qué...? ¿Una muñeca...?!
+210	83b8c9f2	¡G'ieeeeeeeee!
+220	cfefe9b8	¡Guau...!
 230	ade5e73f	{fc(57e4f1)La muñeca volvió a saltar hacia mí, blandiendo el cuchillo que tenía en la mano. Apenas logré esquivarla.}
 240	f47eda9c	{fc(57e4f1)Ya estaba completamente despierto. Fuera lo que fuera lo que pasaba, estaba claro que mi vida corría peligro.}
-250	82e54c21	Muñeca: ¡G'ieee... G'ieee...!
-260	42c3c3b3	Takumi Sumino: Tengo que salir de aquí--
-270	9ed74769	Takumi Sumino: ¡Argh!
+250	82e54c21	¡G'ieee... G'ieee...!
+260	42c3c3b3	Tengo que salir de aquí--
+270	9ed74769	¡Argh!
 280	ed491895	{fc(57e4f1)Solté un grito de dolor al tropezar con algo y caer al suelo.}
 290	620f8526	{fc(57e4f1)La muñeca asesina no podía ignorar una oportunidad así.}
-300	b6d5d81c	Muñeca: ¡G'ieeeeee!
-310	ad06be4c	Takumi Sumino: ¡Maldición...!
+300	b6d5d81c	¡G'ieeeeee!
+310	ad06be4c	¡Maldición...!
 320	3af0393a	{fc(57e4f1)Cerré los ojos por instinto.}
 330	ba0178ea	{fc(57e4f1)Sentí que la muñeca se acercaba y entonces...}
-340	1cc7f4ed	???: ¡Hah!
-350	f4e13323	Muñeca: ¡¿G'ieee?!
+340	1cc7f4ed	¡Hah!
+350	f4e13323	¡¿G'ieee?!
 360	be9eff0a	¿Eh...?
-370	bdbd4faf	Hiruko Shizuhara: Parece que llegué justo a tiempo.
-380	b0bb86fa	Takumi Sumino: ¡¿Hiruko?!
-390	bf69fc89	Hiruko Shizuhara: ¿A qué viene todo este ruido? ¿Qué pasa aquí?
-400	63f4c103	Takumi Sumino: La verdad es que ni yo lo sé... Pero me alegra mucho verte.
-410	ff843834	Takumi Sumino: Creo que acabas de salvarme la vida. Otra vez.
-420	fa1e3207	Hiruko Shizuhara: Tienes que ser más cuidadoso. ¿Y si hubiera dormido durante todo esto?
-430	1d9a5dce	Hiruko Shizuhara: En fin, ¿qué es esta cosa?
-440	c7324b24	Takumi Sumino: Buena pregunta...
-450	cb8f0e9b	Muñeca: G-G'ieee...
-460	5229aa85	Takumi Sumino: No tengo idea. Esta muñeca me atacó de repente...
-490	e949e0e4	Takumi Sumino: Han estado pasando muchas cosas raras últimamente... Quizás esta muñeca también sea parte de la maldición.
-500	3fa9ab2c	Hiruko Shizuhara: De cualquier modo, deberíamos acabar con ella antes de que tenga oportunidad de escapar.
-510	0fd6732d	Muñeca: G'ieee...
-520	cd78dc2a	Hiruko Shizuhara: Cállate.
+370	bdbd4faf	Parece que llegué justo a tiempo.
+380	b0bb86fa	¡¿Hiruko?!
+390	bf69fc89	¿A qué viene todo este ruido? ¿Qué pasa aquí?
+400	63f4c103	La verdad es que ni yo lo sé... Pero me alegra mucho verte.
+410	ff843834	Creo que acabas de salvarme la vida. Otra vez.
+420	fa1e3207	Tienes que ser más cuidadoso. ¿Y si hubiera dormido durante todo esto?
+430	1d9a5dce	En fin, ¿qué es esta cosa?
+440	c7324b24	Buena pregunta...
+450	cb8f0e9b	
+460	5229aa85	No tengo idea. Esta muñeca me atacó de repente...
+490	e949e0e4	Han estado pasando muchas cosas raras últimamente... Quizás esta muñeca también sea parte de la maldición.
+500	3fa9ab2c	De cualquier modo, deberíamos acabar con ella antes de que tenga oportunidad de escapar.
+510	0fd6732d	
+520	cd78dc2a	Cállate.
 525	2ed6500b	{fc(57e4f1)Hiruko dejó caer el talón sobre la extraña muñeca, con rapidez y sin piedad.}
-530	26e64d31	Takumi Sumino: Entonces, eh... ¿Y ahora qué?
-540	5d26e06f	Takumi Sumino: ¿Le hacemos una autopsia o algo? ¿Cómo empezaríamos siquiera con esta cosa...?
+530	26e64d31	Entonces, eh... ¿Y ahora qué?
+540	5d26e06f	¿Le hacemos una autopsia o algo? ¿Cómo empezaríamos siquiera con esta cosa...?
 550	f4a72a8b	
-560	0a0184ce	Hiruko Shizuhara: Antes de eso, quiero preguntarte algo, Takumi.
-570	ed306d71	Takumi Sumino: ¿Qué cosa?
-580	bf8ed37c	Hiruko Shizuhara: ¿Qué es esa caja que tienes ahí?
+560	0a0184ce	Antes de eso, quiero preguntarte algo, Takumi.
+570	ed306d71	¿Qué cosa?
+580	bf8ed37c	¿Qué es esa caja que tienes ahí?
 590	1ab4b717	¡Ah...!
-600	baee745b	Hiruko Shizuhara: ¿Por qué exactamente la tienes en tu cuarto?
+600	baee745b	¿Por qué exactamente la tienes en tu cuarto?

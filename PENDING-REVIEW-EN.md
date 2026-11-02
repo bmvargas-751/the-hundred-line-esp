@@ -36,3 +36,24 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
   - EN: *"he doesn't seem hardy enough..."* → *"Hard?! What part of him..."* → *"Just forget the whole thing..."* → *"HOLE?! THING?!"*
   - ES provisional: *"no parece lo bastante duro…"* → *"¿D-Duro? ¿Qué parte de él insinúas que está dura?"* → *"Olvida todo el asunto…"* → *"¡¿A-ASUNTO?! ¡¿QUÉ ASUNTO?!"*
   - Por qué: el chiste del EN malinterpreta "whole" como "hole"; en español se rehízo con "duro" y "asunto" (eufemismo de genitales) para mantener la mala interpretación de Kyoshika. Revisar si funciona.
+
+## s10 (yakusitk, rama 00) · Día 41 — Shouma delira en el sauna
+
+- `s10_a_yakusitk_00_d041_m060_010` · #280–#330 · Shouma
+  - EN: Shouma, al borde del desmayo por el calor, mezcla palabras: *"throw in the dowel"* (towel), *"totally grape"* (great), *"ash a draw"*, *"blue...competition"*, *"You lin...or you woose"* (win/lose).
+  - ES provisional: *"tiras... la toaya"*, *"No existe... el empate en una... competensha..."*, *"O ganash... o perdesh"*; el "grape" se perdió y se dejó *"totalmente en forma"*.
+  - Por qué: no hay equivalente 1 a 1 de los deslices; se imitó el efecto de habla pastosa. Revisar si conviene conservar alguna confusión de palabras más marcada.
+
+## s10 (yakusitk, rama 00) · Día 42 — insinuaciones de Kyoshika en la ducha
+
+- `s10_a_yakusitk_00_d042_m050_010` · #100, #140, #270 · Kyoshika
+  - EN: *"clean your little Sir"*, *"wash Sir Takumi's sword and sheath"*, *"touch myself under the waist with the Holy Jumonji Sword"*.
+  - ES provisional: *"limpiar a su pequeño don"*, *"lavar la espada y la vaina de don Takumi"*, *"tocarme bajo la cintura con la Sagrada Espada Jumonji"*.
+  - Por qué: el chiste juega con el título "Sir" de Takumi como eufemismo de genitales; en español se usó "don" para mantener el doble sentido. Revisar si funciona.
+
+## s10 (kawanatk, rama 00) · Día 28 — referencia de Kyoshika
+
+- `s10_b_kawanatk_00_d028_m040_010` · #120 · Kyoshika
+  - EN: *"This is just like when Ace broke out of Impel Down!"* (referencia a un manga shonen conocido).
+  - ES provisional: *"¡Esto es igual a cuando Ace escapó de Impel Down!"*
+  - Por qué: se mantuvo la referencia del EN tal cual (nombres propios sin traducir), igual que otras referencias de manga de Kyoshika. Revisar si conviene dejarla o neutralizarla.
