@@ -3915,6 +3915,8 @@ message/s06_0_jigokurt_00_d070_m080_010
 message/s06_0_jigokurt_00_d070_m080_020
 message/s06_0_jigokurt_00_d070_m090_010
 message/s06_0_jigokurt_00_d070_m110_010
+message/s06_0_jigokurt_00_d071_m010_010
+message/s06_0_jigokurt_00_d071_m020_010
 message/staffrole_end_name
 message/sugoroku_start
 text/battle_explanation
