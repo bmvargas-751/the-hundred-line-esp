@@ -29,3 +29,10 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
   - EN: *"Ecalp siht evael, stirips live..."* (invertido: "evil spirits, leave this place")
   - ES provisional: *"¡Íuqa ed esnayáv, solam sutirípse..."* (invertido: "espíritus malos, váyanse de aquí")
   - Por qué: texto invertido que sigue al EN (en el original japonés es un conjuro al revés, y la versión doblaje JP usó la misma frase); se verificó con Python que al revés da la frase exacta. Revisar si conviene "malignos" en vez de "malos".
+
+## s09 (occultrt, rama ba) · Día 90 — la insinuación de Kyoshika
+
+- `s09_b_occultrt_ba_d090_m010_010` · #110–#140 · Kako / Kyoshika
+  - EN: *"he doesn't seem hardy enough..."* → *"Hard?! What part of him..."* → *"Just forget the whole thing..."* → *"HOLE?! THING?!"*
+  - ES provisional: *"no parece lo bastante duro…"* → *"¿D-Duro? ¿Qué parte de él insinúas que está dura?"* → *"Olvida todo el asunto…"* → *"¡¿A-ASUNTO?! ¡¿QUÉ ASUNTO?!"*
+  - Por qué: el chiste del EN malinterpreta "whole" como "hole"; en español se rehízo con "duro" y "asunto" (eufemismo de genitales) para mantener la mala interpretación de Kyoshika. Revisar si funciona.
