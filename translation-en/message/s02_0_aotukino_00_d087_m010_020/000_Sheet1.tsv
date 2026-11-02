@@ -1,31 +1,31 @@
 id	huella_jp	es
-10	69393a12	{fc(57e4f1)Salí al Patio de la escuela y agucé el oído hacia el exterior.}
-20	b76f6f6d	{fc(57e4f1)Se oyen pasos que corren desesperados,\nacercándose.}
-30	f50466f7	{fc(57e4f1)No sé dónde están,\npero agité la mano hacia donde se oían las voces.}
+10	69393a12	{fc(57e4f1)Llegué corriendo al Patio de la escuela y concentré el oído en lo que ocurría fuera.}
+20	b76f6f6d	{fc(57e4f1)Oía varios pares de pasos acercándose.}
+30	f50466f7	{fc(57e4f1)Como no podía ver dónde estaban exactamente, simplemente hice señas en la dirección general de los sonidos.}
 40	f744741e	¡Por aquí!
-50	f75d6025	{fc(57e4f1)Sigo agitando la mano.}
-60	60b77459	{fc(57e4f1)...Parece que me notaron.\nLos pasos veloces se acercan hacia mí.}
-70	09eafde9	{fc(57e4f1)Para mostrar que no llevaba armas,\nlevanté las dos manos.}
-80	45b325ad	{fc(57e4f1)Entonces el grupo se detuvo\nbastante lejos de mí.}
-90	b8dc4c77	{fc(57e4f1)Como si hubieran corrido mucho, parecen sin aliento.}
-100	55a9c407	{fc(57e4f1)...Por cierto, ¿quiénes serán?}
-110	33155ca7	{fc(57e4f1)Seguro que no son miembros de la Unidad de Defensa Especial.\nEntonces, ¿gente de este planeta...?}
-120	e1bc053a	¿Los persiguen?\n¿Quién los persigue?
-130	6dd91a90	{fc(57e4f1)Pregunté, pero no hubo respuesta.\nNi siquiera sé si entienden mis palabras.}
-140	9a722a70	{fc(57e4f1)No creo que los persiguieran Takumi y los demás...\nEntonces, ¿los perseguían invasores?}
-150	dc9556a0	Si los persiguen, pueden esconderse aquí.
-160	f0b5bd4d	Este lugar fue abandonado hace mucho...\nsi se esconden, es poco probable que los encuentren.
-170	79aff434	{fc(57e4f1)Seguía sin haber reacción, pero\nde algún modo sentí que escuchaban mi voz.}
-180	c3bbdd74	En la cafetería... también hay comida.\nMás de la que yo solo podría comer.
-190	0c6d9d1b	{fc(57e4f1)El misterioso grupo se había quedado inmóvil.\nTampoco se oían voces.}
-200	d1dba495	{fc(57e4f1)Estarán decidiendo con la mirada\nqué hacer ahora...}
-210	60b0b0bd	{fc(57e4f1)O quizás estén decidiendo\nquién me ataca primero.}
-220	5b08bd5e	{fc(57e4f1)Para la gente de este planeta, yo soy un invasor.}
-230	a507216f	...Como ven, no veo.
-240	ffe96d57	Así que no sé cómo son ni cuántos son.\nY por supuesto, no puedo atacarlos.
-250	2a08a0c1	{fc(57e4f1)No hay reacción...}
-260	7c2de02b	...Yo vuelvo adentro.\nSi quieren esconderse, síganme.
-270	369cb8ff	{fc(57e4f1)Le di la espalda al misterioso grupo y empecé a caminar.}
-280	39237399	{fc(57e4f1)...Estoy indefenso.\nSi me atacaran, podrían esconderse aquí solos.}
-290	e6750a08	{fc(57e4f1)Y sin embargo me siguen con toda disciplina.\nCuando tropiezo, hasta se detienen con consideración.}
-300	5848de31	{fc(57e4f1)Camino tocando la pared que uso de guía,\nadentrándome más y más para que no nos vean desde afuera.}
+50	f75d6025	{fc(57e4f1)Seguí haciendo señas.}
+60	60b77459	{fc(57e4f1)Pareció funcionar. Los pasos frenéticos se oían cada vez más fuertes.}
+70	09eafde9	{fc(57e4f1)Levanté las manos para indicar que no llevaba armas.}
+80	45b325ad	{fc(57e4f1)Al hacerlo, el grupo que se acercaba se detuvo a cierta distancia de mí.}
+90	b8dc4c77	{fc(57e4f1)Jadeaban fuerte, como si hubieran corrido mucho rato.}
+100	55a9c407	{fc(57e4f1)Un momento, ¿quiénes SON estos?}
+110	33155ca7	{fc(57e4f1)Definitivamente no la Unidad Especial de Defensa. ¿Serán nativos de este planeta?}
+120	e1bc053a	¿Los estaban persiguiendo? ¿Quién?
+130	6dd91a90	{fc(57e4f1)Nadie me respondió. Ni siquiera sabía si hablábamos el mismo idioma.}
+140	9a722a70	{fc(57e4f1)No podían ser Takumi y los demás quienes los perseguían, así que... ¿invasores?}
+150	dc9556a0	Pueden esconderse aquí si quieren.
+160	f0b5bd4d	Este lugar fue destruido hace tiempo. Es poco probable que alguien venga a buscarlos aquí.
+170	79aff434	{fc(57e4f1)Seguía sin haber respuesta, pero percibía que me escuchaban.}
+180	c3bbdd74	La Cafetería de aquí tiene comida más que suficiente para todos.
+190	0c6d9d1b	{fc(57e4f1)El grupo misterioso no se movía en absoluto. Ni siquiera los oía susurrar entre ellos.}
+200	d1dba495	{fc(57e4f1)Probablemente se comunicaban de forma no verbal.}
+210	60b0b0bd	{fc(57e4f1)O quizás intentaban decidir quién me atacaría primero.}
+220	5b08bd5e	{fc(57e4f1)Después de todo, para los nativos de este planeta, yo era el invasor.}
+230	a507216f	Por si no lo notaron, soy ciego.
+240	ffe96d57	No sé cuántos son ustedes ni obviamente podré atacarlos.
+250	2a08a0c1	{fc(57e4f1)Seguía sin haber respuesta.}
+260	7c2de02b	En fin... Voy a volver adentro. Síganme si piensan esconderse aquí.
+270	369cb8ff	{fc(57e4f1)Le di la espalda al grupo misterioso y empecé a caminar.}
+280	39237399	{fc(57e4f1)Estaba completamente indefenso. Si me mataban, podrían quedarse con este escondite para ellos solos.}
+290	e6750a08	{fc(57e4f1)Sin embargo, me siguieron con educación. Cuando tropezaba, incluso se detenían a esperarme por consideración.}
+300	5848de31	{fc(57e4f1)Paso a paso, me adentré en el edificio con una mano en la pared, cuidando de usar una ruta que no se viera desde afuera.}
