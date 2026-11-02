@@ -1,14 +1,14 @@
 id	huella_jp	es
-10	16103242	¡¿Kako?! ¿Ya estás bien de la herida?
-20	7dd6d495	Sí, ya estoy bien. Yo también puedo pelear.\nPerdón por preocuparte...
-30	70d7a56e	...Sumino, mira primero ese monitor.
-40	778cba24	Verás algo que da mucha rabia.
-50	8b408f36	{fc(57e4f1)Dicho eso, SIREI señaló el monitor.}
+10	16103242	¡Kako! ¿Seguro que ya estás bien?
+20	7dd6d495	Sí, estoy bien. También puedo pelear. Perdón por la preocupación que causé.
+30	70d7a56e	Eh, Sumino... Mira el monitor.
+40	778cba24	Probablemente no te gustará lo que veas.
+50	8b408f36	{fc(57e4f1)SIREI señaló el monitor.}
 60	f4a72a8b	
-70	9472c121	{fc(57e4f1)En el monitor se veía a Kako.}
-80	f076322e	{fc(57e4f1)Por supuesto, la verdadera Kako está aquí.\nO sea que esa es...}
-90	69f79d3a	Ese monstruo de entonces se llevó mis datos,\ny copió a Kako, ¿no?
-100	c9537fb6	Qué asco... ya me da rabia\nque me hirieran, y encima esto...
-110	81cce2d4	Es normal que te moleste.\n¡A la falsa la voy a moler hasta hacerla puré!
-120	2f85a1d9	La apariencia no importa. Es un enemigo de la humanidad.\n¡Lo que deben hacer es una sola cosa! ¿Verdad?
-130	04ebed58	Sí... ¡empieza la batalla defensiva!\n¡No entregaré la caja ni dejaré que entre a la academia!
+70	9472c121	{fc(57e4f1)Allá afuera, de pie en el campo de batalla...estaba Kako.}
+80	f076322e	{fc(57e4f1)Obviamente, la verdadera Kako estaba justo a mi lado. Así que esa debía ser...}
+90	69f79d3a	¡Copiaron a Kako después de que ese monstruo robara los datos...!
+100	c9537fb6	¿No bastaba con que me hicieran daño? ¿Ahora esto?
+110	81cce2d4	Haces bien en enojarte. Aplastemos a esta falsa contra el suelo.
+120	2f85a1d9	Ignoren cómo se ve. Sigue siendo una enemiga de la humanidad. Saben lo que tienen que hacer, ¿verdad?
+130	04ebed58	Por supuesto. No entrarán a la escuela ni se llevarán nuestras cajas. ¡Comencemos esta batalla!

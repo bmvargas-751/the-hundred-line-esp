@@ -1,61 +1,61 @@
 id	huella_jp	es
-10	9c759c3c	...Eh, ¿por qué estoy en un lugar así?
-20	f6ab5628	Y tú...
-30	bffe4191	{fc(B1221A)Takumi, eso no era lo que sentías de verdad, ¿no?}
-40	d5184b9a	Kako... ¿"eso" qué?
-50	6be55987	{fc(B1221A)Lo de ayer... dijiste "solo queda esperar que vuelva viva".\nEso dijiste.}
-60	8fb59a3c	{fc(B1221A)Pero eso es mentira, ¿verdad?\n¿En el fondo piensas que yo morí?}
-70	e406d12b	{fc(B1221A)Porque si no... no sería posible que yo estuviera aquí...}
-80	ce4b6c99	T-Tú... ¿qué dices...?
-90	d3f2d0b2	{fc(B1221A)¿O es otra cosa?\n¿Tanto te molestaba que hubiera una persona más?}
-100	da6f0154	{fc(B1221A)¿Tanto te molestaba que aumentaran\nlos muertos por tu culpa...?}
-110	d18e122c	No... yo no... eso...
-120	2978888b	{fc(B1221A)¡No mientas...!}
-130	36357c1d	¡Gh...!
-140	afc85948	{fc(B1221A)¡No apartes la vista!}
-150	629ee275	¡Gh, ah—
-160	5cb377a3	{fc(B1221A)¡Fuiste tú! ¡Todo, todo, todo!}
-170	b932bacb	{fc(B1221A)¡Por tu culpa, por tu culpa pasó esto!}
-180	e1c81266	P-Para... Kako... me ahogo...
-190	31d298cc	{fc(B1221A)¡Tú, tú, tú—!}
-200	4720bc75	—¡
-210	d78a815e	—¡mino!
-220	ea9d9b99	—¡Takumi, reacciona! ¡Takumi!
+10	9c759c3c	¿Eh...? ¿Qué hago aquí?
+20	f6ab5628	Y... ¿Por qué estás tú también aquí?
+30	bffe4191	{fc(B1221A)Takumi... No lo decías en serio, ¿verdad?}
+40	d5184b9a	¿Kako? ¿Que no decía en serio qué?
+50	6be55987	{fc(B1221A)"Todo lo que podemos hacer es esperar que encuentre pronto el camino de vuelta". Eso dijiste.}
+60	8fb59a3c	{fc(B1221A)Pero era mentira, ¿no? SÍ piensas que estoy muerta.}
+70	e406d12b	{fc(B1221A)Si no lo estuviera, no habría forma de que apareciera así, ¿verdad?}
+80	ce4b6c99	¿Q-Qué dices...?
+90	d3f2d0b2	{fc(B1221A)¿O simplemente no quieres admitirlo? ¿Que tienes una muerte más a tus espaldas?}
+100	da6f0154	{fc(B1221A)Otra persona más que sumar a la lista de quienes han muerto por tu culpa... ¿Es eso lo que temes?}
+110	d18e122c	N-No... Yo no... Quiero decir, no fue...
+120	2978888b	{fc(B1221A)¡No me mientas!}
+130	36357c1d	¡¿Hngh...?!
+140	afc85948	{fc(B1221A)¡Deja de huir de la verdad!}
+150	629ee275	Nrgh... ¡Gwuuugh...!
+160	5cb377a3	{fc(B1221A)¡Tú hiciste esto! ¡Todo!}
+170	b932bacb	{fc(B1221A)Es culpa tuya... ¡Es toda culpa tuya!}
+180	e1c81266	B-Basta, Kako... Por favor... Duele...
+190	31d298cc	{fc(B1221A)¡Tú me hiciste esto! ¡Tú me hiciste esto...!}
+200	4720bc75	
+210	d78a815e	—mi...
+220	ea9d9b99	...¡Takumi! ¡Reacciona, Takumi!
 230	cf5c8129	{fc(57e4f1)Esta voz...}
-240	0cf865aa	¡Takumi, ¿qué haces?! ¡Cálmate!
-250	fc4f2fa4	¡M-Me ahogo...! ¡Alguien... el cuello...!
-260	59ab0372	¡Cálmate, te digo!\n¡Eres tú quien se aprieta el cuello con tus manos!
-270	290d67b5	¡Quien te estrangula eres tú mismo!\n¡Nadie te está atacando!
-280	deffec90	¿Q-Qué... dices...?
-290	88bd9b6c	¡Gah, haa... haa...
-300	dac7e108	Y-Yo... ¿qué hacía...?
-310	7eda40c6	Eso te lo pregunto yo.
-320	14cfc734	Te seguí porque caminabas tambaleándote,\ny me encuentro esto...
-330	52fcd690	Yo... Kako... un fantasma...
+240	0cf865aa	¡Takumi, para! ¡¿Qué haces?!
+250	fc4f2fa4	No puedo respirar... ¡Me estrangula...!
+260	59ab0372	¡Reacciona! Aquí no hay nadie; nadie te ataca.
+270	290d67b5	Esas son tus propias manos alrededor de tu cuello. ¡Te estás estrangulando tú mismo!
+280	deffec90	¿Q-Qué? Pero...
+290	88bd9b6c	¡Gwagh! Hah...haaahhh...
+300	dac7e108	¿Q-Qué estaba haciendo...?
+310	7eda40c6	Eso quisiera saber yo.
+320	14cfc734	Te vi tambaleándote, así que te seguí, y entonces te encontré así.
+330	52fcd690	Yo... Fue Kako... El fantasma...
 340	6392bb76	Cálmate. No existen los fantasmas.
-350	7cb7f74c	Solo te atormenta la culpa que se infló dentro de ti.
-360	55edc30b	¡No! ¡Yo... me atacó un fantasma de verdad...!
-370	312c76ac	¡Mira, mira esto!
-380	38a9ba2c	Ahora mismo me estrangularon de verdad, y por eso las marcas...
-390	b0870af6	...¿Conoces un experimento antiguo?\nAl sujeto primero le muestran una barra de hierro al rojo vivo.
-400	41af7f41	Y sin que el sujeto vea,\nla cambian por una barra de temperatura normal que parece al rojo.
-410	dc202d34	Luego aprietan esa barra normal contra el sujeto...
-420	86167da0	y en el brazo del sujeto aparece una roncha\ncomo si fuera una quemadura.
-430	4cd18e7c	¿Y eso a mí qué me importa...?
-440	697ebc8b	Esas marcas son producto de tu propia convicción.
-450	4121367e	El fenómeno de que aparezcan marcas por una emoción intensa\nse ha confirmado muchas veces desde antaño.
+350	7cb7f74c	Simplemente dejas que tus sentimientos de culpa te lleven por un camino de autodestrucción.
+360	55edc30b	¡No, no es eso! De verdad me atacó el fantasma.
+370	312c76ac	¡Mira esto!
+380	38a9ba2c	Tenía las manos alrededor de mi cuello hace un momento. ¿Cómo más explicas estas marcas?
+390	b0870af6	...Oí hablar de un experimento que se realizó hace mucho. Empezaron mostrándole al sujeto una barra de metal al rojo vivo.
+400	41af7f41	Luego, mientras no miraba, la cambiaron por una barra normal, a temperatura ambiente, pintada de rojo.
+410	dc202d34	Cuando pusieron esa barra sobre la piel del sujeto...
+420	86167da0	Dejó ronchas, como si de verdad lo hubiera quemado.
+430	4cd18e7c	¿Y eso qué tiene que ver con lo que pasa aquí...?
+440	697ebc8b	Esas marcas de tu cuello son iguales. Te las hiciste tú mismo.
+450	4121367e	Si crees que algo es real, pueden aparecer cicatrices aunque no haya ningún estímulo físico real. Es un fenómeno bien establecido.
 460	80919597	¡Pero...!
-470	24536fd8	Primero cálmate, Takumi.\nDejemos aparte la causa de esas marcas.
-480	95e1b385	Ahora eres consciente de que no estás en un estado mental normal, ¿verdad?
-490	17a35c74	Cálmate. Recobra la calma como sea.
-500	60281f75	Si esas marcas vienen de la convicción, como digo yo,\ncon la calma desaparecerán.
-510	a95899f3	¿Será así...?
+470	24536fd8	¡Solo escucha, Takumi! Olvida esas marcas por un momento.
+480	95e1b385	Trata de reconocer el hecho de que no estás pensando con claridad.
+490	17a35c74	Tómate un minuto para calmarte y respirar.
+500	60281f75	Si esas marcas son psicosomáticas como creo, desaparecerán cuando te calmes y les des un poco de tiempo.
+510	a95899f3	¿D-De verdad?
 520	f4a72a8b	
-530	3522616c	Quizás...
-540	e7dc3145	Hace tiempo que tengo la cabeza hecha un lío...\nPero soy el líder...
-550	8444f316	Bien, vuelve al cuarto y duerme.\nO si no puedes dormir, al menos te acompaño con un té.
-560	cdfd5d83	Estoy bien. Mañana también hay que trabajar, así que dormiré.
-570	46f1bad8	Por cierto, Hiruko... eres más amable de lo que pensaba.
-580	4c9d1774	Yo también tengo mis cosas.
-590	a2971f4e	Bueno, buenas noches.
-600	33e41659	Sí, buenas noches...
+530	3522616c	Q-Quizás tengas razón...
+540	e7dc3145	Han pasado muchas cosas últimamente, y se supone que soy el líder, y bueno...
+550	8444f316	Lo sé. Vuelve a tu habitación y duerme. O puedo prepararnos un té de hierbas y nos quedamos un rato en silencio.
+560	cdfd5d83	Gracias. Me iré a la cama; quiero descansar para mañana.
+570	46f1bad8	Sabes... Todavía me sorprende lo amable que puedes ser a veces, Hiruko.
+580	4c9d1774	Bueno, yo también he pasado por cosas...
+590	a2971f4e	Buenas noches, Takumi.
+600	33e41659	Sí, nos vemos por la mañana.

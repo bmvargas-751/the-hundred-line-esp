@@ -1,20 +1,20 @@
 id	huella_jp	es
-10	503282f2	{fc(57e4f1)Siguiendo las pistas del mapa,\nlo que encontramos fue una enorme mansión.}
-20	6758b51b	¡Guau, qué casona!\n¡Algo así no se ve en el Complejo Residencial de Tokio!
-30	cde7511a	...¿Qué clase de gente viviría aquí?
-40	062592a9	No hace falta especular sobre las vidas ajenas.\nLos actuales ocupantes están claros.
+10	503282f2	{fc(57e4f1)Seguimos el mapa hasta nuestro destino y nos encontramos frente a una mansión gigantesca.}
+20	6758b51b	¡Vaya, este lugar es enorme! Nunca vi casas así en el complejo.
+30	cde7511a	¿Me pregunto qué tipo de persona vivía aquí?
+40	062592a9	No hace falta andar husmeando en el pasado. Solo miren quién vive aquí ahora.
 50	4ae327bf	¡Invasores...!
-60	9fb5e867	¿Protegen una caja... o buscan una?\nEn todo caso, son muchísimos.
-70	586a0946	¿Qué hacemos? ¿Entramos de frente?
-80	05b499d4	{fc(57e4f1)Para entrar de frente, son demasiados.\nY además nosotros somos cuatro...}
-90	95617808	Estamos en desventaja numérica, y el terreno les favorece.\nNo hace falta ir a que nos hagan carne molida.
-100	f0f9f9e0	Pero retirarse tampoco es agradable.\nAseguremos la ventaja con una acción sigilosa.
-110	35aa5fb2	Sí... me parece bien.
-120	0d3de766	Bien, vayamos con cuidado para que no nos descubran.
-130	d7ca9cf2	{fc(57e4f1)Avanzamos sin hacer ruido.\nY lo que encontramos fue...}
-140	db2531ee	¡Bien! ¡Una caja!\n¡Parece que no hay trampas!
-150	a7f67532	...Llevémosla.\nOjalá sea una Caja de la Dicha.
-160	0f63ebd0	Tiene once dibujos en la tapa...\n¿Qué significará?
-170	d36a8e96	Como en las demás partes no hay diferencia,\neste dibujo debe de ser la pista.
-180	ff888eff	En todo caso, no hay que quedarse.\nTodavía puede haber invasores de reconocimiento.
-190	40b606d3	¡Listo, volvamos a la academia!
+60	9fb5e867	Pueden estar protegiendo la caja...o buscándola ellos mismos. De cualquier modo, es mucho con lo que lidiar.
+70	586a0946	¿Qué quieres hacer? ¿Entrar a la carga y empezar a romper cabezas?
+80	05b499d4	{fc(57e4f1)Probablemente son demasiados para derrotarlos así. Sobre todo siendo solo cuatro...}
+90	95617808	Tienen la ventaja en número y en terreno. No tengo prisa por correr hacia mi muerte.
+100	f0f9f9e0	Dicho eso, tampoco podemos retroceder. Rodeemos a hurtadillas hasta un mejor lugar.
+110	35aa5fb2	Sí, creo que es buena idea.
+120	0d3de766	Mantengan la cabeza baja. No queremos que nos vean.
+130	d7ca9cf2	{fc(57e4f1)Entramos con sigilo en la mansión. Y dentro...}
+140	db2531ee	¡Sí! ¡Encontramos la caja! Tampoco parece que haya trampas a su alrededor.
+150	a7f67532	Agárrenla y vámonos. Ojalá esta sea una Caja de Bendiciones...
+160	0f63ebd0	Hay once símbolos en la tapa... Me pregunto si significa algo.
+170	d36a8e96	Debe de ser significativo de algún modo. Es la única diferencia entre todas las cajas que hemos encontrado hasta ahora.
+180	ff888eff	En fin, no tiene sentido quedarnos más aquí. Y podría haber exploradores invasores por los alrededores.
+190	40b606d3	¡Cierto. De vuelta a la escuela!

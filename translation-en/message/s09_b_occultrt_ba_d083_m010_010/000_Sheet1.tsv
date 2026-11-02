@@ -1,24 +1,24 @@
 id	huella_jp	es
 10	f065c460	Día 83
-30	73089891	¡――――――――――!
-40	c5bc2ae0	¡――――――――――――――――――!
-50	8d477b47	¡――――――――――\n―――――――――――!
-60	7306c356	¡――――――――――\n――――――――――――!
-70	207546c9	¿Takumi? ¿Estás bien?
-80	a11be916	Me dijeron que estabas mal... y sí,\nestás pálido.
-90	394a4914	...Nozomi.
-100	d005358a	Te traje algo que quizás puedas comer.
-110	32d065e0	Si puedes, come aunque sea un poco.
-120	e348c059	...Oye, Nozomi.\nSobre antier...
-130	fde94a30	...¿Antier?
-140	b16ece34	{fc(57e4f1)Miro la cara de Nozomi, que pregunta.}
-150	b756b2d8	{fc(57e4f1)¿La Kirifuji que me atacó\nfue una alucinación?}
-160	d9dd904a	{fc(57e4f1)¿O de verdad me atacó\ny ahora se hace la desentendida?}
-170	59a10fc1	{fc(57e4f1)Al pensarlo, me burlé de mí mismo.}
-180	3b2450c5	{fc(57e4f1)Sospecho de mis compañeros como si nada.\nNozomi no tiene motivo para atacarme.}
-190	ac986af5	{fc(57e4f1)Los demás cambiaron... y yo también cambié.\nCambié por culpa de esta escuela.}
-200	f3365c9f	...No es nada.
-210	ca9b4680	Ya veo. ¡Entonces descansa tranquilo!
-220	0c4f5f3b	No creo que pueda comer nada...
-230	691bbf44	{fc(57e4f1)Cerré los ojos en el cuarto, ya sin Nozomi.}
-240	d7083496	{fc(57e4f1)El sueño estaba lejos,\npero mantener los ojos abiertos era un tormento.}
+30	73089891	SIREI: —————!
+40	c5bc2ae0	SIREI: ———————!
+50	8d477b47	SIREI: ————— ———————!
+60	7306c356	SIREI: ————— —————————!
+70	207546c9	Nozomi Kirifuji: ¿Takumi? ¿Estás bien?
+80	a11be916	Nozomi Kirifuji: Oí que no te sientes bien... Definitivamente estás pálido.
+90	394a4914	Takumi Sumino: Nozomi.
+100	d005358a	Nozomi Kirifuji: Te traeré algo de comer.
+110	32d065e0	Nozomi Kirifuji: Intenta comer un poco.
+120	e348c059	Takumi Sumino: Oye, Nozomi. Sobre anteayer...
+130	fde94a30	Nozomi Kirifuji: ¿Anteayer...?
+140	b16ece34	{fc(57e4f1)Miré su rostro desconcertado mientras repetía mi pregunta.}
+150	b756b2d8	{fc(57e4f1)¿Fue una alucinación cuando me atacó?}
+160	d9dd904a	{fc(57e4f1)¿O de verdad lo hizo y ahora se hacía la inocente?}
+170	59a10fc1	{fc(57e4f1)Tuve que reírme de mí mismo por dejar que ese pensamiento cruzara mi mente.}
+180	3b2450c5	{fc(57e4f1)Dudaba de mis amigos sin vacilar. Aunque Nozomi no tenía motivo alguno para atacarme.}
+190	ac986af5	{fc(57e4f1)Todos habían cambiado, pero...yo también. Esta escuela me cambió.}
+200	f3365c9f	Takumi Sumino: Olvídalo...
+210	ca9b4680	Nozomi Kirifuji: Claro. ¡Tómatelo con calma!
+220	0c4f5f3b	Takumi Sumino: No creo...que pueda comer...
+230	691bbf44	{fc(57e4f1)Cerré los ojos en mi cuarto después de que Nozomi se fue.}
+240	d7083496	{fc(57e4f1)El sueño seguía lejos, pero me dolía mantener los ojos abiertos.}

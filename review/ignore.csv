@@ -778,3 +778,142 @@ peninsular,message/s04_0_ivachanr_00_d067_m020_010/000_Sheet1#160,falso positivo
 peninsular,message/s04_0_ivachanr_00_d070_m020_010/000_Sheet1#470,falso positivo: uso general/chileno (vale)
 peninsular,message/s04_0_ivachanr_00_d070_m030_010/000_Sheet1#30,falso positivo: uso general/chileno (vale)
 peninsular,message/s04_0_ivachanr_a0_d099_m010_010/000_Sheet1#470,falso positivo: uso general/chileno (venga)
+sin_traducir,message/s09_a_boukenrt_b0_d050_m010_010/000_Sheet1#20,onomatopeya del timbre: se deja igual
+falta_apertura,message/s09_b_occultrt_10_d100_m010_010/000_Sheet1#10,"rótulo ""Día ???"": no es una oración"
+peninsular,message/s09_0_boknoclt_00_d022_m060_010/000_Sheet1#20,falso positivo: uso general/chileno (venga)
+peninsular,message/s09_a_boukenrt_00_d036_m010_010/000_Sheet1#80,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_00_d038_m010_010/000_Sheet1#100,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_00_d039_m010_010/000_Sheet1#90,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_00_d040_m030_010/000_Sheet1#80,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_a0_d045_m010_010/000_Sheet1#40,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_a0_d046_m020_010/000_Sheet1#20,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_a0_d046_m020_050/000_Sheet1#10,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_a0_d049_m050_010/000_Sheet1#350,falso positivo: uso general/chileno (pillar)
+peninsular,message/s09_a_boukenrt_a0_d062_m010_010/000_Sheet1#110,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_aa_d098_m060_010/000_Sheet1#120,falso positivo: uso general/chileno (venga)
+peninsular,message/s09_a_boukenrt_ab_d072_m020_010/000_Sheet1#280,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_ab_d073_m010_040/000_Sheet1#10,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_ab_d092_m030_030/000_Sheet1#10,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_b0_d047_m010_010/000_Sheet1#240,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_baa_d098_m030_010/000_Sheet1#40,falso positivo: uso general/chileno (venga)
+peninsular,message/s09_a_boukenrt_baa_d099_m140_010/000_Sheet1#40,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_a_boukenrt_bab_d098_m030_010/000_Sheet1#40,falso positivo: uso general/chileno (venga)
+peninsular,message/s05_0_ninshiki_00_d057_m010_010/000_Sheet1#360,falso positivo: uso general/chileno (vale)
+peninsular,message/s05_0_ninshiki_00_d058_m020_010/000_Sheet1#180,falso positivo: uso general/chileno (vale)
+peninsular,message/s05_0_ninshiki_00_d060_m050_020/000_Sheet1#150,falso positivo: uso general/chileno (vale)
+peninsular,message/s06_0_jigokurt_00_d071_m010_010/000_Sheet1#120,falso positivo: uso general/chileno (vale)
+peninsular,message/s06_0_jigokurt_00_d073_m030_010/000_Sheet1#90,falso positivo: uso general/chileno (vale)
+peninsular,message/s06_0_jigokurt_00_d091_m010_010/000_Sheet1#20,falso positivo: uso general/chileno (vale)
+peninsular,message/s06_0_jigokurt_00_d099_m070_010/000_Sheet1#100,falso positivo: uso general/chileno (vale)
+peninsular,message/s07_0_panicxrt_00_d034_m020_010/000_Sheet1#790,falso positivo: uso general/chileno (vale)
+peninsular,message/s07_0_panicxrt_aaa_d035_m010_030/000_Sheet1#30,falso positivo: uso general/chileno (vale)
+falta_apertura,message/s08_0_mattarir_00_d032_m050_030/000_Sheet1#20,onomatopeya de signos repetidos: se deja igual
+falta_apertura,message/s08_0_mattarir_00_d032_m050_030/000_Sheet1#20,onomatopeya de signos repetidos: se deja igual
+peninsular,message/s08_0_mattarir_00_d031_m020_010/000_Sheet1#350,falso positivo: uso general/chileno (vale)
+peninsular,message/s08_0_mattarir_00_d031_m020_010/000_Sheet1#360,falso positivo: uso general/chileno (vale)
+peninsular,message/s08_0_mattarir_00_d031_m020_010/000_Sheet1#870,falso positivo: uso general/chileno (vale)
+peninsular,message/s08_0_mattarir_00_d075_m020_010/000_Sheet1#70,falso positivo: uso general/chileno (vale)
+vosotros,message/s08_0_mattarir_00_d032_m050_050/000_Sheet1#140,falso positivo: «samuráis» no es vosotros
+peninsular,message/s09_b_occultrt_20_d027_m030_010/000_Sheet1#510,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_b_occultrt_20_d034_m020_010/000_Sheet1#200,falso positivo: uso general/chileno (venga)
+peninsular,message/s09_b_occultrt_20_d041_m010_010/000_Sheet1#100,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_b_occultrt_20_d041_m020_010/000_Sheet1#120,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_b_occultrt_20_d042_m020_010/000_Sheet1#110,falso positivo: uso general/chileno (vale)
+peninsular,message/s09_b_occultrt_a0_d056_m015_010/000_Sheet1#360,falso positivo: uso general/chileno (vale)
+falta_apertura,message/s09_b_occultrt_aa_d099_m090_010/000_Sheet1#60,Falso positivo (vale la pena / etiqueta ???)
+falta_apertura,message/s09_b_occultrt_aa_d099_m090_010/000_Sheet1#70,Falso positivo (vale la pena / etiqueta ???)
+falta_apertura,message/s09_b_occultrt_aa_d099_m090_010/000_Sheet1#80,Falso positivo (vale la pena / etiqueta ???)
+falta_apertura,message/s09_b_occultrt_aa_d099_m090_010/000_Sheet1#90,Falso positivo (vale la pena / etiqueta ???)
+peninsular,message/s09_b_occultrt_aa_d076_m010_010/000_Sheet1#315,Falso positivo (vale la pena / etiqueta ???)
+peninsular,message/s09_b_occultrt_aa_d085_m020_010/000_Sheet1#90,Falso positivo (vale la pena / etiqueta ???)
+peninsular,message/s09_b_occultrt_aa_d094_m020_010/000_Sheet1#110,Falso positivo (vale la pena / etiqueta ???)
+peninsular,message/s09_b_occultrt_aa_d096_m010_010/000_Sheet1#140,Falso positivo (vale la pena / etiqueta ???)
+falta_apertura,message/s09_b_occultrt_b0_d050_m030_010/000_Sheet1#30,Falso positivo (vale/etiqueta ???)
+falta_apertura,message/s09_b_occultrt_b0_d050_m030_010/000_Sheet1#50,Falso positivo (vale/etiqueta ???)
+falta_apertura,message/s09_b_occultrt_b0_d056_m020_010/000_Sheet1#150,Falso positivo (vale/etiqueta ???)
+falta_apertura,message/s09_b_occultrt_b0_d056_m020_010/000_Sheet1#170,Falso positivo (vale/etiqueta ???)
+falta_apertura,message/s09_b_occultrt_b0_d056_m020_010/000_Sheet1#340,Falso positivo (vale/etiqueta ???)
+peninsular,message/s09_b_occultrt_b0_d056_m010_010/000_Sheet1#30,Falso positivo (vale/etiqueta ???)
+peninsular,message/s09_b_occultrt_b0_d058_m020_010/000_Sheet1#400,Falso positivo (vale/etiqueta ???)
+falta_apertura,message/s09_b_occultrt_ba_d080_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d080_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d080_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d080_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d081_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d081_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d081_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d081_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d082_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d082_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d082_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d082_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d083_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d083_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d083_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d083_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d085_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d085_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d085_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d085_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d087_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d087_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d087_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d087_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d088_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d088_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d088_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d088_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d089_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d089_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d089_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d089_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d090_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d090_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d090_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d090_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d091_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d091_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d091_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d091_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d093_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d093_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d093_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d093_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d094_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d094_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d094_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_ba_d094_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+peninsular,message/s09_b_occultrt_bb_d088_m010_010/000_Sheet1#300,Falso positivo (vale la pena)
+peninsular,message/s09_b_occultrt_bba_d092_m030_010/000_Sheet1#120,Falso positivo (ratón = animal)
+falta_apertura,message/s09_b_occultrt_bbb_d093_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d093_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d093_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d093_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d094_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d094_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d094_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d094_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d095_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d095_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d095_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d095_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d096_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d096_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d096_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d096_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d097_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d097_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d097_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d097_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d098_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d098_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d098_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d098_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d099_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d099_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d099_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d099_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d100_m010_010/000_Sheet1#30,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d100_m010_010/000_Sheet1#40,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d100_m010_010/000_Sheet1#50,Texto de SIREI glitcheado: solo guiones
+falta_apertura,message/s09_b_occultrt_bbb_d100_m010_010/000_Sheet1#60,Texto de SIREI glitcheado: solo guiones

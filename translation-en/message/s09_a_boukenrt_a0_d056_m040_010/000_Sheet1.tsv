@@ -1,74 +1,74 @@
 id	huella_jp	es
-10	f1cfb7f4	Oye, ¿en los documentos antiguos\nescribía "museo" expresamente?
-20	cd0fecbc	No lo decía el documento mismo.\nHabía una nota que decía que ahora estaba guardada aquí.
-30	ee267341	El sabio que estudiaba eso era bastante meticuloso...
-40	b4625253	¡El resultado de combinar esa información y analizarla\nes la ubicación actual!
-50	0076a8ae	Cuando se hace un buen trabajo así,\nuno se siente realizado como ingeniera.
-60	908b663b	Las emociones, para después.\nDe camino a este museo vi varias veces a invasores.
-70	ffe45976	Si nos siguen, se complicará.\nBusquemos pronto la caja.
-80	571132b8	Tsubasa... ¿no sabemos en qué parte del museo está guardada?
-90	152f4b9e	Ah, eso, lamentablemente no.
-100	4ee43f32	Entonces conviene buscar por separado.\n¡No es plan de pasear todos juntos por el museo!
-110	26d7aecd	Entonces... nosotros buscamos por allá.
-120	0642dde1	...Se fueron.\n¡Bien, busquemos nosotros también por ahí!
+10	f1cfb7f4	¿El viejo libro mencionaba realmente la galería de arte?
+20	cd0fecbc	No exactamente. Había una nota escrita que decía que se había recogido aquí una caja.
+30	ee267341	El erudito que la investigaba parecía bastante diligente.
+40	b4625253	¡Y analizar toda su meticulosa investigación nos ha traído hasta aquí!
+50	0076a8ae	Este tipo de trabajo hace tan gratificante ser ingeniera.
+60	908b663b	Ya agradeceremos después. Vi algunos invasores de camino hacia acá.
+70	ffe45976	Encontremos la caja antes de que vengan hacia nosotros.
+80	571132b8	Tsubasa... No sabemos DÓNDE exactamente de la galería las guardan, ¿verdad?
+90	152f4b9e	No, por desgracia.
+100	4ee43f32	Entonces quizás tengamos mejor suerte separándonos. Además, parece raro pasearse juntos por una galería.
+110	26d7aecd	Está bien... Iremos a mirar por allá.
+120	0642dde1	Supongo que nosotros también deberíamos ir a echar un vistazo.
 130	d357e9e0	Sí.
-140	a1679583	De acuerdo. Si la encuentran, griten fuerte.\nSi no hay caso, nos reunimos en este salón.
-150	32184722	Entonces yo recorro por aquí...
-160	f6e861f0	{fc(57e4f1)Un museo enorme... esculturas, pinturas, de todo...}
-170	2b1d624f	{fc(57e4f1)Algo me parece distinto de lo que habíamos visto,\npero no sé de arte y no puedo señalar en qué.}
-180	48de57dd	{fc(57e4f1)Los cuadros son hermosos y las esculturas, magníficas.\n¿De verdad es otra estrella?}
-190	e1a8cb56	{fc(57e4f1)No puedo evitar pensarlo.}
-200	40dd154c	Si hay una caja, ¿estará expuesta tan ingenuamente...?
-210	b8df9a21	¿Convendrá revisar los depósitos?
-220	713cb85e	{fc(57e4f1)Justo pensaba eso.}
-230	ef75c352	Esa es... ¿Hiruko?
-240	f8fa4bd3	{fc(57e4f1)Más allá, frente a un cuadro especialmente grande,\nvi a Hiruko parada, inmóvil.}
-250	3ce26d84	{fc(57e4f1)Era un cuadro de una fiesta de los cerezos.}
-260	17c95923	{fc(57e4f1)En algún parque, cerezos floreciendo a montones\ny mucha gente contemplándolos con sonrisas.}
-270	24c36120	{fc(57e4f1)Un paisaje pacífico, sereno...\nsi no fuera por el cielo pintado, podría verse en una primavera del Complejo Residencial de Tokio.}
-280	95832faa	Esto... es un paisaje del planeta Futurum, ¿verdad?
-290	644c6600	Sí... así debe de ser.
-300	100cbf6b	{fc(57e4f1)En realidad, todavía no lo creía del todo.\nEra más fácil entender que esto fuera una Tierra destruida.}
-310	d228fb1d	{fc(57e4f1)Pero la existencia de los documentos, el encuentro con el anciano,\ny sobre todo haber matado a la prisionera,}
-320	91769849	{fc(57e4f1)me impedían negar ese deseo.\nEste es... el planeta Futurum. Una estrella ajena.}
-330	64a69870	Había un mundo que no conocíamos...\ny una vida de gente que no conocíamos.
-340	bc41169e	Pisotearlo ahora me hace pensar algo, incluso a mí.
-350	d285028b	Aunque sea una guerra.
-360	2ad735f1	{fc(57e4f1)No imaginé oír eso de boca de Hiruko,\npero entendí muy bien ese sentimiento.}
-370	ddd74fca	Tienes razón... yo también lo pienso.
-380	1184c5e7	Podemos pelear contra los invasores porque ellos intentan matarnos.\n¡Incluso en el Complejo Residencial de Tokio hicieron una masacre!
-390	9d9714c8	Pero si me preguntas si puedo pelear contra gente como esta...\nla verdad, es imposible.
-400	e9ed5b11	...Eres amable, Takumi.
-410	c2c32d1e	¿Amable...? No sé.\nQuizás solo soy indeciso.
-420	b138c3a1	Con la Caja de la Dicha,\nquizás se pueda terminar esta guerra...
-430	99ecd5e1	Sí... quiero creer que al menos hallaremos una pista.
-440	bc6eb96e	Oye... ¿ahora tienes tú esa caja?
-450	61b88624	No... la caja está en la academia.\n¡Es más seguro dejarla detrás de aquel muro!
-460	81aa1ed6	Ya veo...
-470	32b2c9fe	{fc(57e4f1)Hiruko se acercó a mí.}
-480	3ece2396	{fc(57e4f1)En ese instante...}
+140	a1679583	Griten si la encuentran. Si no, nos reagruparemos en este salón.
+150	32184722	Entonces yo iré a mirar por aquí.
+160	f6e861f0	{fc(57e4f1)La galería era bastante grande. No solo había cuadros, sino también esculturas.}
+170	2b1d624f	{fc(57e4f1)Era un poco distinta de otras que había visto, pero no sabía lo suficiente de arte como para señalar qué era exactamente lo distinto.}
+180	48de57dd	{fc(57e4f1)Los cuadros eran bonitos y las esculturas, impresionantes. ¿De verdad era un planeta distinto?}
+190	e1a8cb56	{fc(57e4f1)Era difícil no tener ese tipo de pensamientos.}
+200	40dd154c	Suponiendo que hubiera una caja aquí, ¿de verdad la exhibirían a la vista de todos?
+210	b8df9a21	¿Deberíamos buscar más bien en el depósito?
+220	713cb85e	{fc(57e4f1)Mientras consideraba la posibilidad...}
+230	ef75c352	¿Esa es Hiruko?
+240	f8fa4bd3	{fc(57e4f1)Divisé a Hiruko de pie frente a un gran cuadro a lo lejos.}
+250	3ce26d84	{fc(57e4f1)Era un cuadro de una fiesta de contemplación de los cerezos.}
+260	17c95923	{fc(57e4f1)Los cerezos florecían en un parque, y mucha gente miraba las flores con una sonrisa en la cara.}
+270	24c36120	{fc(57e4f1)Tan pacífico y tranquilo... Era algo que podrías haber visto en el Complejo Residencial de Tokio en primavera, salvo por el cielo que aparecía arriba.}
+280	95832faa	Así que esta es una escena del planeta Futurum.
+290	644c6600	Supongo que sí.
+300	100cbf6b	{fc(57e4f1)Sinceramente, aún no podía creerlo. Tendría mucho más sentido si esto fuera solo una Tierra postapocalíptica.}
+310	d228fb1d	{fc(57e4f1)Pero la existencia del viejo libro, conocer al anciano y, más que nada, la prisionera que fue asesinada...}
+320	91769849	{fc(57e4f1)Todo eso negaba mi esperanzado deseo. Este era el planeta Futurum... Un planeta alienígena.}
+330	64a69870	Había un mundo que nunca conocimos donde vivía gente que nunca conocimos.
+340	bc41169e	Debo decir que tengo ciertos reparos con lo que hacemos aquí.
+350	d285028b	Aunque esto sea la guerra.
+360	2ad735f1	{fc(57e4f1)Jamás esperé oír a Hiruko decir algo así, pero entendía de dónde venía con una claridad dolorosa.}
+370	ddd74fca	Sí. Yo también.
+380	1184c5e7	Puedo pelear contra los invasores porque intentan matarnos. En el complejo masacraban gente en las calles.
+390	9d9714c8	¿Pero pelear contra gente capaz de hacer arte como este? No creo que pueda...
+400	e9ed5b11	Eres una persona amable, Takumi.
+410	c2c32d1e	No sé si tanto. Quizás solo soy blando.
+420	b138c3a1	Las Cajas de Bendiciones podrían poner fin a esta guerra.
+430	99ecd5e1	Sí... Al menos quiero creer que nos darán la oportunidad.
+440	bc6eb96e	¿Tienes esa caja contigo ahora?
+450	61b88624	No, está de vuelta en la academia. Me pareció más seguro dejarla allá.
+460	81aa1ed6	Ya veo.
+470	32b2c9fe	{fc(57e4f1)Hiruko se apoyó contra mí.}
+480	3ece2396	{fc(57e4f1)Y al instante siguiente...}
 490	0bf77db2	¡Cuidado, Takumi!
 500	8ddd1247	¡¿...?!
-510	0c031f4c	{fc(57e4f1)Frente a mí, caído,\nla figura de Hiruko se transformó en la de un comandante.}
-520	265c7dbe	{fc(57e4f1)Es... cierto: ¡la que en la vez anterior tomó la forma de Moko!\n¡La que cambia de forma!}
-530	5357bf27	Tsk... con un cuerpo que no logré copiar del todo,\nesto es lo que hay.
-540	7ddf3b90	Te acercaste a Takumi sin lograr rematarme.\n¿Cuál es tu objetivo?
-550	04153f13	¿Mi objetivo? ¡Claro, la Caja de la Dicha!
-560	1a4a7088	{fc(57e4f1)En la mano de la comandante transformada en Shizuhara había una caja.\n¡Maldición...! ¡Esa había encontrado una caja...!}
-570	e1ebd35c	Bueno, ya supe lo necesario.\nNo hay razón para pelear aquí con ustedes.
-580	731e47fb	La próxima vez, los mataré con cuidado y cortesía,\ny también aprovecharé las demás cajas.
-590	9ca73c8c	¡E-Espera...!
-600	50b71482	{fc(57e4f1)Ningún enemigo espera porque se lo digan.\nLa figura de la comandante se perdió enseguida en la oscuridad.}
-610	f9e4f91e	¡Nos ganó... se escapó!
-620	7f80dbc8	¿Estás bien, Takumi?\nTe detengo la hemorragia ahora.
-630	6b53d25d	{fc(57e4f1)La verdadera Hiruko corrió hacia mí y me detuvo la sangre con rapidez.\nHiruko también tenía una herida en el abdomen. Por poco.}
-640	5ff8fca8	Me descuidé al encontrar la caja en el depósito subterráneo...\nQué torpeza la mía.
-650	3b776468	Menos mal que no te mataron y te robaron del todo la forma.\n¡Lo más importante es que estés bien!
-660	aeaf1b64	Así es. La próxima vez la mataré sin falta.\n¿Puedes caminar?
-670	b2ab6e10	Sí... como sea.
-680	81297502	La caja... nos la quitaron.
-690	87c2fa69	No importa mucho.
-700	28905342	Mientras ellos no reúnan todas,\nno se atreverán a abrir las cajas.
-710	8d99cd5a	Pensemos que solo la dejamos en depósito hasta entonces.\n¡Aumentó el placer de matar!
-720	f0de45d9	{fc(57e4f1)Es cierto. Nosotros aún tenemos cajas.\nSi vienen a quitárnoslas, ahí las recuperamos.}
-730	ea7e5dad	{fc(57e4f1)Con el ánimo encendido,\ndecidimos retirarnos por ahora.}
+510	0c031f4c	{fc(57e4f1)Mientras caía al suelo, vi con asombro cómo Hiruko se transformaba en una comandante.}
+520	265c7dbe	{fc(57e4f1)¡Era la que antes se había disfrazado de Moko! ¡La cambiaformas!}
+530	5357bf27	Tch. No logré transformarme por completo.
+540	7ddf3b90	Fue necio contactar con Takumi sin deshacerte antes de mí. ¿Qué buscas?
+550	04153f13	La Caja de Bendiciones, por supuesto.
+560	1a4a7088	{fc(57e4f1)La comandante tenía una caja en la mano. ¡La había encontrado antes que nosotros!}
+570	e1ebd35c	Averigüé lo que quería saber. No hay razón para que pelee con ustedes aquí.
+580	731e47fb	La próxima vez que nos veamos, me aseguraré de matarlos y quedarme con las cajas restantes.
+590	9ca73c8c	¡E-Espera!
+600	50b71482	{fc(57e4f1)Eso nunca ha impedido que un enemigo se vaya. La comandante pronto desapareció en la oscuridad.}
+610	f9e4f91e	¡Maldición... Se llevó la caja!
+620	7f80dbc8	Takumi, ¿estás bien? Toma, déjame detener la hemorragia.
+630	6b53d25d	{fc(57e4f1)La verdadera Hiruko corrió a ayudarme con mi herida. Ella también tenía una herida reciente en el estómago. Los dos habíamos pasado por un mal rato.}
+640	5ff8fca8	Me atacó en el sótano... Bajé la guardia después de encontrar la caja. Me siento como una tonta.
+650	3b776468	Me alegra que no te matara para tomar tu lugar de forma permanente. Y que estés bien.
+660	aeaf1b64	Hmph. La próxima vez no se saldrá con la suya tan fácil. ¿Puedes caminar?
+670	b2ab6e10	Creo que sí...
+680	81297502	Lo siento...por perder la caja.
+690	87c2fa69	No te culpes por eso.
+700	28905342	Es probable que el enemigo no intente abrirlas hasta tener el juego completo.
+710	8d99cd5a	Podemos dejarlas estar hasta que se hayan encontrado todas las cajas. Entonces nos tomaremos nuestro tiempo para hacerlos sufrir antes de matarlos.
+720	f0de45d9	{fc(57e4f1)Tenía razón. No en lo de matar, sino en lo de las cajas. Solo teníamos que esperar a que los invasores fueran por el resto de las nuestras, y recuperarlas para nosotros.}
+730	ea7e5dad	{fc(57e4f1)Nos retiraríamos por ahora, pero estaba decidido a compensar esta pérdida más tarde.}

@@ -1,32 +1,32 @@
 id	huella_jp	es
 10	399b4132	Día 41
 20	f4a72a8b	
-30	7de9489f	¡Oye, Hiruko!\n¡No te adelantes sola!
-40	d1bb697c	Ayer al final no pude preguntarte,\npero ¿qué era esa idea que dijiste?
-50	0c7be49a	Dicen que en el libro que leyó él tampoco estaba\nla ubicación de la "Caja de la Desdicha".
-60	88d0fd21	¿Cómo sabes tú dónde está la "Caja de la Desdicha"?
-70	01eb18e9	Yo no dije que supiera dónde está.
-80	3d8f3c2e	Ni hace falta encontrarla.
+30	7de9489f	¡Hiruko! ¡No te vayas por tu cuenta!
+40	d1bb697c	Ayer no tuve oportunidad de preguntarte, pero dijiste que tenías algún tipo de plan, ¿verdad?
+50	0c7be49a	Ese libro no decía nada sobre la ubicación de la Caja de Calamidad.
+60	88d0fd21	Entonces, ¿cómo sabes dónde está?
+70	01eb18e9	Nunca dije que supiera dónde estaba la caja.
+80	3d8f3c2e	Es más bien que...no creo que de verdad necesitemos encontrarla.
 90	e9c83835	¡¿Qué?!
-100	695d0073	¡No me digas que tú también vas a decir\n"si el daño es de dos, es rentable"!
-110	2a5d636b	Cálmate.\nY piensa un poco por tu cuenta.
-120	e40a05a3	Debemos buscar cajas porque Ima lo exige.
-130	f142a172	Ima cree que, si destruye la "Caja de la Desdicha",\nsu hermana se salvará.
-140	d13a1ee2	Pero Ima no tiene forma de saber si la "Caja de la Desdicha"\nes la auténtica.
-150	d5bd5a6c	Es cierto...
-160	a002f5be	Entonces basta con preparar algo que lo parezca\ne intercambiar rehenes.
-170	3da62488	Pero ¿qué cosa que lo parezca convencería a Ima...?
-180	44081837	Hay algo perfecto.
-190	da585ffe	Una caja antigua, que no sea de la academia,\nque Kako ya haya tocado alguna vez.
+100	695d0073	¡Más te vale no ponerte a defender eso de "sacrificar dos vidas por un bien mayor"...!
+110	2a5d636b	Contrólate, Takumi. Piénsalo.
+120	e40a05a3	Solo necesitamos encontrar esta caja porque Ima la quiere.
+130	f142a172	Cree que destruirla traerá de vuelta a Kako de algún modo.
+140	d13a1ee2	Pero no tiene forma de saber si una caja cualquiera es la auténtica, ¿verdad?
+150	d5bd5a6c	Vaya... Ahora que lo mencionas, no...
+160	a002f5be	¿Entonces dices que solo necesitamos conseguir algo que parezca lo bastante convincente, y usarlo para que libere a Nozomi?
+170	3da62488	No se me ocurre nada que pueda engañar a Ima, sin embargo...
+180	44081837	Discrepo. Creo que ya tenemos el sustituto perfecto.
+190	da585ffe	Una caja antigua que no proviene de la escuela, y con la que Kako ha interactuado al menos una vez.
 200	c98ee14e	¡...!
-210	5c9d3392	¡La caja del santuario que vimos el otro día!
-220	932cf1c0	Así es.\nDejemos de lado qué sea esa caja.
-230	69d0c2b9	Si es la "Caja de la Dicha" o la "de la Desdicha",\npor ahora no se puede decidir.
-240	5a9f7a26	Ni tampoco si el espectro existe o si la maldición existe.
-250	7768072d	Pero si es una caja que Kako de verdad buscó y tocó,\nIma la aceptará como "Caja de la Desdicha".
-260	f708d95e	¡Entonces ahora vamos hacia ese santuario!
-270	b72d3f8c	{fc(57e4f1)Esto... es cierto: no se podía decir ayer.}
-280	3598d7bb	{fc(57e4f1)Si lo habláramos en la azotea,\nIma podría haberlo oído.}
-290	c90d831c	La caja que vimos el otro día.\nRecojamos esa.
-300	38913028	Si decimos que es la "Caja de la Desdicha",\nnadie podrá descubrir lo contrario.
-310	28297827	{fc(57e4f1)Así nos dirigimos al santuario\nque habíamos encontrado en la búsqueda de Kako.}
+210	5c9d3392	Ya entiendo: ¡la caja que estaba en ese santuario!
+220	932cf1c0	Exacto. Ni siquiera necesitamos investigar a fondo qué es ni por qué está allí.
+230	69d0c2b9	Podría ser una Caja de Calamidad, una Caja de Bendiciones o una caja de chocolates, por lo que sabemos.
+240	5a9f7a26	Asimismo, no importa si este espectro o su maldición existen realmente.
+250	7768072d	Lo que importa ahora es que sea algo vinculado con Kako que Ima pueda creer razonablemente que es la caja que quiere.
+260	f708d95e	¡Entonces tenemos que ir al santuario!
+270	b72d3f8c	{fc(57e4f1)Ahora entiendo por qué no pudo decírmelo ayer.}
+280	3598d7bb	{fc(57e4f1)Si lo hubiéramos hablado en la azotea, Ima probablemente lo habría oído.}
+290	c90d831c	Así es. Esta es nuestra mejor oportunidad de detener a Ima y salvar a Nozomi.
+300	38913028	Si hacemos pasar esa caja por la Caja de Calamidad, nadie sospechará nada.
+310	28297827	{fc(57e4f1)Retomando el camino de la vez anterior, Hiruko y yo nos dirigimos al antiguo santuario.}

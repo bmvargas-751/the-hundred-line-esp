@@ -1,15 +1,15 @@
 id	huella_jp	es
-10	74d32a9c	Quiero preguntarte algo, Eito.
-20	e233aaa3	No creo que seamos del tipo que charla...\n¿Qué pasa, Takumi?
-30	67f54423	Destruiste a SIREI... ¿qué averiguaste?\n¿La destruiste porque supiste algo?
-40	c940413c	Es algo que ustedes ahora no necesitan saber.
-50	eb7f4b3e	Persiguiendo la verdad de las cajas,\nnos alejamos de otra verdad... así es esto.
-60	609fecac	...¿Qué quieres decir?
-70	839060f5	Que no se revelan todas las respuestas.\n¡Aquí es!
-80	0b2de419	{fc(57e4f1)La puerta a la que nos guió Eito parecía un depósito.\nCon mano experta ingresó el código y...}
+10	74d32a9c	Oye, Eito. ¿Puedo preguntarte algo?
+20	e233aaa3	¿Qué pasa, Takumi? Pensé que ya no nos hablábamos.
+30	67f54423	¿Qué te dijo Sirei antes de morir? Lo destruiste para quedarte con esa información, ¿verdad?
+40	c940413c	No es nada de lo que debas preocuparte.
+50	eb7f4b3e	Digamos que... Cuando elegiste perseguir la verdad sobre las cajas, te alejaste aún más de otra verdad.
+60	609fecac	¿Qué se supone que significa eso?
+70	839060f5	Exacto. Todavía no tienes todas las respuestas. Bueno, aquí estamos.
+80	0b2de419	{fc(57e4f1)Eito se detuvo frente a la puerta de una especie de depósito e introdujo con seguridad el código de acceso en la cerradura electrónica.}
 90	88902fda	
 100	88902fda	
 110	88902fda	
-120	7c5720ef	¡Una caja!
-130	e2116c5b	{fc(57e4f1)En efecto, allí estaban guardadas las cajas.\n¡Aún sin abrir...!}
-140	557235a5	{fc(57e4f1)Las cargamos y volvimos por el camino que vinimos.}
+120	7c5720ef	¡Las cajas!
+130	e2116c5b	{fc(57e4f1)Había dicho la verdad. Las cajas estaban todas aquí, y aún no habían sido abiertas.}
+140	557235a5	{fc(57e4f1)Las recogimos y volvimos por donde habíamos venido.}
