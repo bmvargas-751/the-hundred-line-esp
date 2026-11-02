@@ -1,34 +1,34 @@
 id	huella_jp	es
 10	d1abaa99	Día 51
-20	c738a0bc	Hiruko Shizuhara: ¿Quieres ser tú quien absorba la criptoglobina del próximo comandante?
-30	d39e2555	Takumi Sumino: Sí... Si no hay problema.
-40	23f73192	Hiruko Shizuhara: No me importa. Nuestro equipo se hará más fuerte sin importar quién la tome.
-50	40bd08b8	Hiruko Shizuhara: Pero ¿por qué tu razón tiene que mantenerse en secreto?
+20	c738a0bc	¿Quieres ser tú quien absorba la criptoglobina del próximo comandante?
+30	d39e2555	Sí... Si no hay problema.
+40	23f73192	No me importa. Nuestro equipo se hará más fuerte sin importar quién la tome.
+50	40bd08b8	Pero ¿por qué tu razón tiene que mantenerse en secreto?
 60	7c35dfba	Pues...
-70	1d1399a5	Hiruko Shizuhara: No me digas. Tiene que ver con fantasmas o maldiciones o alguna otra tontería, ¿verdad?
+70	1d1399a5	No me digas. Tiene que ver con fantasmas o maldiciones o alguna otra tontería, ¿verdad?
 80	d2eb35ac	Ngh...
 90	68bebd52	{fc(57e4f1)Me leyó como un libro abierto...}
-100	43800357	Hiruko Shizuhara: No te preocupes. Mientras derrotes al enemigo y te hagas más fuerte, tus motivos no me importan demasiado.
-110	23ebd111	Takumi Sumino: Gracias. Solo una cosa... ¿Cómo lo lograremos?
-120	7115faa9	Takumi Sumino: V'ehxness últimamente siempre cae en el último minuto, y no podemos con ella en un combate justo.
-130	5636f0cd	Hiruko Shizuhara: No estás viendo el panorama completo.
-140	d01d2bbd	Hiruko Shizuhara: V'ehxness puede ser fuerte, pero seguimos teniendo el Muro de Fuego de nuestro lado.
-150	3fe7eca6	Hiruko Shizuhara: Ha estado entrando por los puntos donde se apagaron las llamas cuando el comandante invadió... Por un "agujero", por así decirlo.
-160	22ec1f32	Takumi Sumino: Es verdad...pero no podemos tapar el agujero, ¿o sí?
-170	71871360	Hiruko Shizuhara: Efectivamente. Entonces, a partir de ese juicio...
-180	7f22863c	Hiruko Shizuhara: ¿Quizás podamos derrotar al comandante en algún punto ciego de V'ehxness?
-190	be6e8ada	Hiruko Shizuhara: Es decir, si ella estuviera fuera del muro en ese momento...
-200	9796429e	Hiruko Shizuhara: Si lo hacemos, no podría aprovechar la oportunidad que le deja el comandante.
-210	bf3f2290	Hiruko Shizuhara: ¿No te parece?
-220	78e7fcfe	Takumi Sumino: ¡Eso podría funcionar!
+100	43800357	No te preocupes. Mientras derrotes al enemigo y te hagas más fuerte, tus motivos no me importan demasiado.
+110	23ebd111	Gracias. Solo una cosa... ¿Cómo lo lograremos?
+120	7115faa9	V'ehxness últimamente siempre cae en el último minuto, y no podemos con ella en un combate justo.
+130	5636f0cd	No estás viendo el panorama completo.
+140	d01d2bbd	V'ehxness puede ser fuerte, pero seguimos teniendo el Muro de Fuego de nuestro lado.
+150	3fe7eca6	Ha estado entrando por los puntos donde se apagaron las llamas cuando el comandante invadió... Por un "agujero", por así decirlo.
+160	22ec1f32	Es verdad...pero no podemos tapar el agujero, ¿o sí?
+170	71871360	Efectivamente. Entonces, a partir de ese juicio...
+180	7f22863c	¿Quizás podamos derrotar al comandante en algún punto ciego de V'ehxness?
+190	be6e8ada	Es decir, si ella estuviera fuera del muro en ese momento...
+200	9796429e	Si lo hacemos, no podría aprovechar la oportunidad que le deja el comandante.
+210	bf3f2290	¿No te parece?
+220	78e7fcfe	¡Eso podría funcionar!
 230	03402e1c	Pero...
-240	e84d431e	Takumi Sumino: ¿Dónde está el punto ciego de V'ehxness?
-250	eea217d0	Hiruko Shizuhara: Por ahora no lo sabemos...
-260	5ac99e54	Hiruko Shizuhara: Sin embargo, si ella estuviera fuera del muro en ese momento, tendría que haber uno.
-270	7105d2f7	Hiruko Shizuhara: Bien, para encontrar ese punto ciego...
-280	a35c036b	Hiruko Shizuhara: Primero tendríamos que averiguar desde dónde podría estar observando la batalla.
-310	55858a01	Takumi Sumino: En resumen, tendremos que explorar a fondo fuera del muro para identificar esos lugares.
-330	a1c95467	Hiruko Shizuhara: Ahora que eso está decidido, espero que me ayudes.
-340	ff7e3b8c	Hiruko Shizuhara: Cerca o no, tomará un rato investigar esos posibles puntos de observación.
+240	e84d431e	¿Dónde está el punto ciego de V'ehxness?
+250	eea217d0	Por ahora no lo sabemos...
+260	5ac99e54	Sin embargo, si ella estuviera fuera del muro en ese momento, tendría que haber uno.
+270	7105d2f7	Bien, para encontrar ese punto ciego...
+280	a35c036b	Primero tendríamos que averiguar desde dónde podría estar observando la batalla.
+310	55858a01	En resumen, tendremos que explorar a fondo fuera del muro para identificar esos lugares.
+330	a1c95467	Ahora que eso está decidido, espero que me ayudes.
+340	ff7e3b8c	Cerca o no, tomará un rato investigar esos posibles puntos de observación.
 350	25da8e49	{fc(57e4f1)Hiruko y yo patrullamos entonces el perímetro exterior del muro.}
 360	fd12706b	{fc(57e4f1)Sin embargo, no logramos identificar ningún lugar desde donde V'ehxness pudiera observar nuestra batalla.}
