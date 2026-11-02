@@ -1,12 +1,12 @@
 id	huella_jp	es
-10	1940592b	¿Ahora qué...?
-20	9c9906e9	Lo de ayer.\nEn esta sala hablaste algo con SIREI, ¿no?
-30	89f6b136	¿Espiabas?
-40	e1685529	No lo digas así...
-50	a6a67388	De todos modos, no es un buen pasatiempo.
-60	64232f49	Esa vez le recibiste algo a SIREI, ¿verdad?\n¿Qué te dio?
-70	50a41c04	Solo kombu seco, de la marca Miyako...
-80	53534763	¿De verdad...?
+10	1940592b	¿Por qué aquí?
+20	9c9906e9	Ayer hablaste de algo importante con Sirei aquí dentro.
+30	89f6b136	¿Nos estabas espiando?
+40	e1685529	Preferiría que no lo pusieras así...
+50	a6a67388	De cualquier modo, no es un hábito agradable.
+60	64232f49	Cuando terminaron de hablar, Sirei te dio algo. ¿Qué era?
+70	50a41c04	Solo un poco de alga kombu seca por si me daba hambre.
+80	53534763	Bien, ahora dime la verdad.
 90	f4a72a8b	
-100	b34c8c6c	{fc(57e4f1)Shizuhara, otra vez, no respondió.}
-110	0131c2c3	{fc(57e4f1)Suspiré, negué con la cabeza\ny la llevé a la tercera sala.}
+100	b34c8c6c	{fc(57e4f1)Otra vez sin respuesta.}
+110	0131c2c3	{fc(57e4f1)Suspiré, sacudí la cabeza y seguí adelante.}
