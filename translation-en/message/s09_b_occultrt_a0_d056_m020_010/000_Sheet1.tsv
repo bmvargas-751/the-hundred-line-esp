@@ -1,19 +1,19 @@
 id	huella_jp	es
-10	f8975120	{fc(57e4f1)Después, volvimos al patio e iniciamos la inspección de la escena.\nPero no encontramos nada que sirviera de pista.}
-20	1c80b5df	{fc(57e4f1)Enterramos el cadáver de Ima cerca de las tumbas de los otros cuatro.}
-30	7b725c29	{fc(57e4f1)Cayó la tarde...}
-40	8ac5bc9e	{fc(57e4f1)llegó la noche... y todos volvieron a sus cuartos.}
-50	5633cde1	{fc(57e4f1)Yo también fui al mío...\nAl cerrar los ojos, vuelven las palabras de Ima.}
-60	9a20a76b	¿Por qué yo, el Sr. Sumino, todos...\nseguimos vivos?
-70	d7113b37	{fc(57e4f1)En ese momento, ¿debí responderle algo?}
-80	2453a937	{fc(57e4f1)¿O si hubiera impedido que Kako se viera envuelta en el incidente...?}
-90	63f60fa5	{fc(57e4f1)Quizás algo... quizás de algún modo...}
+10	f8975120	{fc(57e4f1)Volvimos al Patio y miramos alrededor, pero no encontramos nada que nos dijera qué pasó.}
+20	1c80b5df	{fc(57e4f1)Luego cavamos una tumba para Ima, junto a las demás.}
+30	7b725c29	{fc(57e4f1)Pasó el tiempo, y el sol se puso...}
+40	8ac5bc9e	{fc(57e4f1)Pronto fue noche cerrada, y todos volvieron a sus habitaciones.}
+50	5633cde1	{fc(57e4f1)Yo hice lo mismo y me tomé un momento para pensar en lo último que me había dicho Ima.}
+60	9a20a76b	Tú, yo, los demás... ¿Por qué seguimos vivos?
+70	d7113b37	{fc(57e4f1)Si le hubiera dado una respuesta de verdad a esa pregunta, ¿habrían salido las cosas distintas?}
+80	2453a937	{fc(57e4f1)¿Podría haber evitado que Kako se viera envuelta en estos incidentes en primer lugar?}
+90	63f60fa5	{fc(57e4f1)¿Podría haber detenido todo esto? ¿Dónde me equivoqué...?}
 100	d7e4db31	
-110	257ff880	...¿Eh?
-120	6d95032e	{fc(57e4f1)Al abrir los párpados, Hiruko estaba parada frente a mí.}
-130	5d96690f	¿Q-Qué pasa...? Entras sin permiso...
-140	820d77a6	Hay algo que debo contarte...
-150	4ad2ddf1	Pero tomará tiempo y es complicado...\n¿Podrías darme mañana un día entero?
-160	995e76ad	S-Sí... bueno...
-170	67d0c141	Entonces, buenas noches...
-180	30a5b54b	{fc(57e4f1)Dicho eso, Hiruko se fue.}
+110	257ff880	¿Mm...?
+120	6d95032e	{fc(57e4f1)Abrí los ojos y encontré a Hiruko de pie sobre mí.}
+130	5d96690f	O-Oye, ¿no podrías al menos haber tocado?
+140	820d77a6	Tengo algo que necesito contarte.
+150	4ad2ddf1	Pero es una historia larga. Y complicada. ¿Podrías despejar tu agenda de mañana y escucharla entonces?
+160	995e76ad	Eh, claro...
+170	67d0c141	Gracias. Buenas noches.
+180	30a5b54b	{fc(57e4f1)Dicho eso, Hiruko se fue, y yo me quedé dormido.}

@@ -1,25 +1,25 @@
 id	huella_jp	es
-10	b4c10a3f	{fc(57e4f1)...\n...}
-20	b13a6e0f	¡Moko! ¡No puede ser! ¡¿Por qué...?!
-30	176e3acc	¡Oye, responde, Moko!\n¡Moko, vamos!
-40	7e4c695b	No puede ser que hasta la Srta. Moko...\n¿Pero cómo...?
-50	b18d25cd	¡No tiene sentido!\n¡Si guardaran rencor, sería contra Takumi y los demás, ¿no?!
-60	6c56a9fa	¡Si es maldición, que actúe como maldición!
-70	75249bcd	Ese culpable... qué burla...
-80	93ba9ff3	Quizás el culpable mató aquí a Moko,\ny luego destruyó a SIREI y a NIGOU.
-90	3dfa9765	Después de que yo hallé aquí a Moko,\nfue cuando sonó el anuncio de SIREI.
-100	77331efe	Por cierto... eso que está en la mesa... ¿es una caja?
-110	2b0cd561	En la cena de ayer no estaba...
-120	95293a3c	Cuando yo hallé a Mojiro, estaba ahí...
-130	bd839d5e	{fc(57e4f1)No, espera... no "ahí".\nEn ese momento la caja estaba en el suelo.}
-140	5ac3bf88	{fc(57e4f1)¿Por qué ahora está en la mesa?}
-150	bcd4cfa4	{fc(57e4f1)En ese momento, ¿recogí la caja yo...?\n¿O de verdad estaba en el suelo...?}
-160	627be326	{fc(57e4f1)Maldición, quizás por la conmoción, mi memoria está borrosa...}
-170	019c3423	En todo caso... primero investiguemos la escena...
-180	4579f937	Antes hay algo que hacer, Sumino.
-190	4a80f590	Ahora, ¿qué más hay que hacer...?
-200	70c39368	Hoy es el día que fijó Ima,\ny en esa mesa hay una caja.
-210	693fe391	Tiene dibujo de luna, así que podría ser una "Caja de la Dicha"...\npero en todo caso, parece una caja plausible.
-220	2ccd94de	Eso significa...
-230	8641dec9	...¡Rescatar a Nozomi!
-240	664bf28f	{fc(57e4f1)Agarré la caja y fui corriendo hacia Ima.}
+10	b4c10a3f	
+20	b13a6e0f	¡Moko! No... ¡Esto no puede ser!
+30	176e3acc	¡Moko, despierta! ¡Vamos, Moko! ¡Háblame...!
+40	7e4c695b	Hasta Moko ha sido asesinada ya... Pero ¿cómo llegaron a ella?
+50	b18d25cd	¡Esto no tiene sentido! Takumi debería haber sido el siguiente en ser golpeado por la maldición.
+60	6c56a9fa	¡¿Qué se supone que hagamos si ni siquiera respeta sus propias reglas?!
+70	75249bcd	Quienquiera que haya sido, ha estado muy ocupado esta noche...
+80	93ba9ff3	¿Creen que la misma persona mató a Moko y destruyó a Sirei?
+90	3dfa9765	Encajaría con la cronología. La llamada de auxilio de Sirei salió después de que yo encontrara el cuerpo de Moko.
+100	77331efe	¿Qué es eso que hay sobre la mesa de allá? ¿Es...una caja?
+110	2b0cd561	No recuerdo haberla visto ayer por la tarde.
+120	95293a3c	No sé. Estaba aquí cuando la encontré así...
+130	bd839d5e	{fc(57e4f1)No, espera... No es exactamente así. La caja estaba en el suelo en ese momento.}
+140	5ac3bf88	{fc(57e4f1)Entonces, ¿por qué está ahora sobre la mesa?}
+150	bcd4cfa4	{fc(57e4f1)No creo haberla puesto yo ahí... ¿Recuerdo mal las cosas?}
+160	627be326	{fc(57e4f1)Mi memoria está algo borrosa... Supongo que iba con prisa en ese momento.}
+170	019c3423	Eeh... En todo caso, deberíamos, eh, investigar la escena del crimen...
+180	4579f937	¿No crees que tienes algo más importante que hacer?
+190	4a80f590	¿A qué te refieres?
+200	70c39368	Ima quiere la caja para hoy. Pues bien, ahí hay una caja.
+210	693fe391	El diseño de luna se parece más a la Caja de Bendiciones, pero de todos modos es una caja antigua de aspecto extraño.
+220	2ccd94de	Lo que significa que...
+230	8641dec9	¡Podemos salvar a Nozomi!
+240	664bf28f	{fc(57e4f1)Sin decir otra palabra, agarré la caja y salí corriendo hacia la habitación de Ima.}
