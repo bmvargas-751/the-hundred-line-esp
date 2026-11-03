@@ -1,34 +1,34 @@
 id	huella_jp	es
-20	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-30	7ab1d397	No se sabe cuándo van a atacar los invasores, así que descansen bien mientras puedan...
-40	b588a67e	Bueno... buenas noches...
-50	9b7fde85	{fc(57e4f1)Hoy tampoco hubo ataque,\nni el asesino se movió especialmente...}
-60	b5a3c996	Mañana volveré a recorrer el edificio de punta a punta.\nTengo que buscar aunque sea una pista...
-70	da230496	{fc(57e4f1)Pensando eso, iba a meterme a la cama cuando.}
-80	08d34e96	{fc(57e4f1)...De repente, apareció él.}
-90	9e7a0cbd	Eres tú... hacía tiempo.
-100	7f8a58a9	¿"Hacía tiempo"?\nAh, claro: para ti sí.
-110	17cd391a	El sentido del tiempo es distinto para cada uno.\nY últimamente pasaron muchas cosas...
-120	1e97698d	Lo sé.\nDe vez en cuando te vigilaba a escondidas.
-130	82ac29d4	Oye, esa prisionera...\n¿por qué... algo así...?
-140	6d0a679c	{fc(57e4f1)Él también lo vio:\nla forma en que quedó Eva.}
-150	0f78648e	No sé por qué.\nNosotros también buscamos al culpable.
-160	10076020	¡Es verdad! ¿No viste algo?\nCualquier información; ¡si sabes algo, dímelo!
-170	57c811bd	¿Eh...?
-180	32c3a705	...Perdón.\nYo tampoco lo sé todavía.
-190	13226874	Ya veo... perdón por lo repentino.\nQuería aunque fuera una pista.
-200	a73fe526	Si llegas a saber algo, ¿me avisas?
+20	fcd5bdde	*Bostezo* Descansen, soldados. Es hora de irse a la cama.
+30	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
+40	b588a67e	Bueno, entonces, buenas noches...
+50	9b7fde85	{fc(57e4f1)Hoy no hubo ataque enemigo, ni tampoco actividad nueva del lado del asesino.}
+60	b5a3c996	Mañana registraremos la escuela a fondo. Tiene que haber alguna pista en alguna parte...
+70	da230496	{fc(57e4f1)Tras decidir eso, me metí en la cama.}
+80	08d34e96	{fc(57e4f1)Pero entonces, de repente, apareció.}
+90	9e7a0cbd	Eh, hola. Cuánto tiempo.
+100	7f8a58a9	¿Sí? Supongo que a ti te lo parecerá...
+110	17cd391a	Supongo que depende de la perspectiva. Han pasado muchas cosas por aquí últimamente.
+120	1e97698d	Lo sé. He salido a escondidas de vez en cuando a ver cómo andan las cosas.
+130	82ac29d4	Esa chica que tomaron prisionera... ¿Qué...? Quiero decir, ¿por qué...?
+140	6d0a679c	{fc(57e4f1)Vio también cómo terminó Eva, ¿eh...?}
+150	0f78648e	No puedo decírtelo. Todavía estamos tratando de encontrar al responsable.
+160	10076020	Oye, no viste nada, ¿verdad? ¡Cualquier detalle podría ayudarnos a resolver esto!
+170	57c811bd	¿Qué...?
+180	32c3a705	Perdón, no sé nada de eso...
+190	13226874	No, perdón por soltártelo así de golpe. Es que estamos desesperados por información.
+200	a73fe526	Si se te ocurre algo, avísame, ¿ya?
 210	f4a72a8b	
-220	d176c2dd	Ese arma que llevabas tú...\nSe llama sierra eléctrica, ¿no?
-230	989550c7	Esa la vi.\nLejos del edificio, cerca del muro de llamas.
-240	55a51992	¿D-De verdad?
-250	17cff52a	Sí... mañana compruébalo.
-260	8c582574	Gracias, me ayudas mucho.\n¡Por más que la busqué, no apareció!
-270	267bef2f	Puede ser una nueva pista\npara encontrar al culpable.
-280	80812adf	Tú... en realidad...
-290	257ff880	...¿Eh?
-300	5c774963	...No, nada.\nHasta luego, Takumi.
-310	9c9fa8d2	{fc(57e4f1)Dijo eso con calma y se esfumó de golpe...\nel cuarto volvió a envolverse en silencio.}
-320	20821223	Él también estará alterado\npor lo de Eva...
-330	0db117de	{fc(57e4f1)Es lógico. Nadie imaginó que en la academia\nhabría un asesino...}
-340	e9fe7710	En todo caso...mañana, enseguida, a recoger el arma homicida.
+220	d176c2dd	Esa arma que tenías antes... ¿Se llama "sierra eléctrica", creo?
+230	989550c7	Sí vi adónde fue a parar. Estaba en el borde de los terrenos de la escuela, cerca del Muro de Fuego.
+240	55a51992	Vaya, ¿en serio?
+250	17cff52a	Sí. Puedes ir a verlo tú mismo mañana.
+260	8c582574	Gracias, lo haré. ¡Jamás se me habría ocurrido buscarla tan lejos!
+270	267bef2f	Toda la ayuda es poca para descubrir quién es el asesino.
+280	80812adf	Entonces, de verdad no...?
+290	257ff880	¿Eh?
+300	5c774963	Ah, no es nada. Nos vemos otra vez, Takumi.
+310	9c9fa8d2	{fc(57e4f1)Con esa última frase, el chico fantasma se desvaneció lentamente y dejó mi cuarto extrañamente silencioso.}
+320	20821223	Supongo que lo de Eva de verdad le afectó.
+330	0db117de	{fc(57e4f1)No podía culparlo por estar conmocionado. Ninguno de nosotros podría haber imaginado que un asesino en serie se escondía en la academia.}
+340	e9fe7710	Mañana recuperaré el arma homicida. Será un paso en la dirección correcta.
