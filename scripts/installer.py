@@ -4,8 +4,7 @@
   python3 installer.py uninstall   quita la traducción y restaura los archivos originales
   python3 installer.py status      muestra qué hay instalado
 
-Opciones: --version en  doblaje inglés (subtítulos basados en el inglés), la única versión;
-          --game RUTA  carpeta del juego (si no se indica, se busca sola)
+Opciones: --game RUTA  carpeta del juego (si no se indica, se busca sola)
           --force      sigue aunque la versión del juego no sea la traducida
           --pause      espera un Enter al terminar (para cuando se abre con doble clic)
 
@@ -32,7 +31,6 @@ ROOT = td.ROOT
 GAME_NAME = "The Hundred Line -Last Defense Academy-"
 BACKUP = ROOT / "backup"
 INSTALLED = BACKUP / "installed.sha256"  # hashes de los archivos del parche que instalamos
-INSTALLED_VERSION = BACKUP / "version.txt"  # cuál versión (jp o en) quedó instalada
 MVGL_VERSION = "v2.2.0"
 # sha256 de los archivos originales de la versión del juego que traducimos (actualización de Steam del 2026-09-17)
 SUPPORTED = {
@@ -187,16 +185,9 @@ def read_installed():
     return set(INSTALLED.read_text().split()) if INSTALLED.exists() else set()
 
 
-def choose_version(args):
-    return args.version or "en"
-
-
 def cmd_install(args):
     game = find_game(args.game)
     say(f"Juego: {game}")
-    version = choose_version(args)
-    td.set_version(version)
-    say(f"Versión: {td.VERSION_NAMES[version]}")
     installed = read_installed()
     sources = {}
     for name in ALL:
@@ -242,7 +233,6 @@ def cmd_install(args):
             installed.add(sha256(built[name]))
             say(f"  instalado: {name}")
         INSTALLED.write_text("\n".join(sorted(installed)) + "\n")
-        INSTALLED_VERSION.write_text(version + "\n")
     finally:
         shutil.rmtree(work, ignore_errors=True)
     say("\nListo. Abre el juego, pon el idioma en English y verás el texto en español.")
@@ -267,8 +257,6 @@ def cmd_status(args):
     game = find_game(args.game)
     say(f"Juego: {game}")
     installed = read_installed()
-    if installed and INSTALLED_VERSION.exists():
-        say(f"Última versión instalada: {td.VERSION_NAMES.get(INSTALLED_VERSION.read_text().strip(), '?')}")
     for name in ALL:
         h = sha256(archive_file(game, name))
         if h in installed:
@@ -288,7 +276,6 @@ def main():
             pass
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("cmd", choices=["install", "uninstall", "status"])
-    ap.add_argument("--version", choices=sorted(td.VERSIONS), help="en: doblaje inglés (la única versión)")
     ap.add_argument("--game")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--pause", action="store_true")

@@ -169,7 +169,7 @@ def check_line(r):
         out.append(("caja", f"{box_lines(es)} renglones (máximo {BOX_LINES}, {BOX_WIDTH} caracteres por renglón)"))
     # Solo importa si hay saltos manuales (interfaz): el renglón más largo no debe pasar al del inglés.
     # En los mensajes de historia de la versión del doblaje inglés no hay saltos manuales: el motor parte el texto solo.
-    if not (td.VERSION == "en" and r["key"].startswith("message/")) and "\n" in en.strip():
+    if not r["key"].startswith("message/") and "\n" in en.strip():
         we = max(len(x) for x in visible(en).split("\n"))
         ws = max(len(x) for x in visible(es).split("\n"))
         if ws > we * 1.1 + 2:
@@ -189,13 +189,13 @@ def check_line(r):
     if SPACING.search(visible(es)) and not SPACING.search(visible(en)):
         out.append(("espacios", "espacios o puntos de más"))
     for en_rx, rx, fix in TERMS:
-        if td.VERSION == "en" and fix == "Reina + nombre":  # el doblaje inglés dice Mistress: Ama Hiruko
+        if fix == "Reina + nombre":  # el doblaje inglés dice Mistress: Ama Hiruko
             continue
         m = en_rx.search(en) and rx.search(es)
         if m:
             out.append(("glosario", f"'{m.group(0)}' -> {fix}"))
     jp = r.get("jp", "")
-    for jp_rx, rx, fix in (JP_TERMS if td.VERSION == "jp" else ()):
+    for jp_rx, rx, fix in ():
         m = jp and jp_rx.search(jp) and rx.search(es)
         if m:
             out.append(("japones", f"'{m.group(0)}' -> {fix}"))

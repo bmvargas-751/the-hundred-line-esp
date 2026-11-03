@@ -44,7 +44,7 @@ Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre del
 - Ima: usted (señor/señorita) con todos, tú solo con su hermana Kako (en japonés habla en っす con todos menos con ella, a quien le habla casual: 妹ちゃん). Si en una misma frase hay *señor X* y un *tú*, corregir a usted. Kako habla casual (tú, *Takumi*) con todos; no *usted* ni *Sr. Sumino*.
 - Conjunciones: *y* → *e* ante sonido /i/ (*e Ima*, *e Hiruko*, *e hijo*), también al inicio de oración; *o* → *u* ante sonido /o/.
 - Insultos: *idiot*, *moron*, *dullard* → *idiota*, *imbécil*; *tonto* solo para *silly/dumb* como adjetivo suave.
-- Método de revisión: ver `.claude/skills/traducir-bloque/REVISION-EN.md`.
+- Método de revisión: ver `.claude/skills/traducir-bloque/METODO-REVISION.md`.
 
 ---
 

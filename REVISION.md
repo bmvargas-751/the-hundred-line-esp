@@ -16,7 +16,7 @@ Cada línea se compara con el inglés oficial (el japonés solo ayuda con géner
 6. **Consistencia**: glosario, nombres, habilidades, tratamientos.
 7. **Lectura final**: que suene a juego escrito en español.
 
-Se cambia solo con un motivo real; lo que ya está bien se deja. El método completo está en `.claude/skills/traducir-bloque/REVISION-EN.md` y las decisiones de trato en [GLOSSARY.md](GLOSSARY.md).
+Se cambia solo con un motivo real; lo que ya está bien se deja. El método completo está en `.claude/skills/traducir-bloque/METODO-REVISION.md` y las decisiones de trato en [GLOSSARY.md](GLOSSARY.md).
 
 ### Decisiones de trato
 
