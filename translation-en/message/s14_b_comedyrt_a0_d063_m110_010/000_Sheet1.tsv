@@ -1,51 +1,51 @@
 id	huella_jp	es
-10	333be380	¿Te-terminó...?
-20	06a444e3	¿Qué? ¡En serio!\n¡Si ni apareció el comandante!
-30	dff026bf	De verdad... esta vez solo había insignificantes...
-40	c5f8722a	Para amenazarnos con una carta, no pasó nada.\nQué decepción.
-50	c729a6ca	¡Pero si todos están sanos y salvos, es una gran victoria!
-60	fa1f4510	Con esto el problema de la amenaza se resolvió,\n¿qué bueno, verdad, Maruko-senpai?
-70	72d47b5b	Sí... pues sí.\nSi con esto se resolvió, me alegro.
-80	b9efb2b6	{fc(57e4f1)Si con esto se resuelve lo de la amenaza,\nyo también me tranquilizo, pero...}
-90	afca0c90	{fc(57e4f1)Pero... ¿termina tan fácil?\n¿Será que me estoy perdiendo algo importante...?}
+10	333be380	¿E-Ya terminó...?
+20	06a444e3	¿Qué pasa? ¡Esta vez ni siquiera tuvimos que pelear con un comandante!
+30	dff026bf	Sí... De verdad eran solo los enemigos comunes...
+40	c5f8722a	Qué decepción después de lo mucho que las amenazas los habían promocionado.
+50	c729a6ca	Bueno, nosotros sobrevivimos y ellos no. Yo lo llamo victoria.
+60	fa1f4510	Y ahora podemos olvidarnos de las amenazas. ¿No es genial, Sr. Maruko?
+70	72d47b5b	S-Sí, claro. Estoy casi seguro de que este es el final.
+80	b9efb2b6	{fc(57e4f1)Si este es el final de ese incidente, no me quejaré. Pero, aun así...}
+90	afca0c90	{fc(57e4f1)¿Será de verdad tan simple? Siento que nos falta algo importante.}
 100	f4a72a8b	
-110	6a86df5f	Vaya, ¿qué pasa, mi adorable hermana?\n¡Con esa cara tan seria!
-120	1e0a95d6	...Oye, hermano.\n¿Por qué dijiste {fc(ff635b)"¿qué bueno, verdad, Maruko-senpai?"}?
+110	6a86df5f	¿Qué ocurre, queridísima hermana? No solemos verte con una cara tan seria.
+120	1e0a95d6	Queridísimo hermano... ¿Por qué acabas de decir {fc(ff635b)"¿No es genial, Sr. Maruko?"}?
 130	f4a72a8b	
-140	94ec59cf	...Es cierto, eso fue raro.\n¿Por qué le hablaste de golpe a Gaku?
-150	d5bfc24b	Más bien, el que más se preocupaba de la amenaza\nera Takumi, ¿no?
-160	93e91730	¿Eh? Es que... este...
-170	62d4d25e	¡No, no, piensan demasiado!\n¡Solo le hablé porque Maruko estaba a mi lado, y...
-180	33b37bff	...Porque Maruko-senpai es el autor de la amenaza.
-190	c5a12ae6	¡¡¡Oooooooyyyyy!!!\n¡Ima! ¡¿Me traicionaste?!
-200	d440caa6	¿Eh? ¿Traicionó...? Eso significa...
-210	9f05eeb3	¡Ah! ¡M-me equivoqué!
-220	cee41e7f	¿Eh? ¡E-esperen un momento!\n¡¿Entonces es verdad...?!
-230	b9730f66	Ahora que lo dicen, estos días Maruko\n¡estaba un poco raro...
-240	b61a6003	...¿Sí? ¿No es raro siempre?
-250	858bf755	Entonces... ¿es verdad?\n¿De verdad fue obra de Gaku?
-260	dfa63c04	¿Eh? A-ah, no... eso...
-270	248fda28	Admitirlo con honestidad te dará alivio, ¿sabes?
-280	4ff1323b	¡Espera, no, no se puede! ¡Hermano,\n¿qué haces?!
-290	36933c3a	¡Si es una adivinanza del culpable,\nhay que acorralarlo más antes de que confiese!
-300	a59bdcdb	¡Así es, por mi honor! ¡Ni siquiera tenemos lista\nla BGM de ejecución!
-310	2d82f3a0	...¡Eso qué importa, oye!
-320	424afb2a	Además, traicionar, traicionar... yo no soy cómplice de Maruko-senpai ni nada...
-330	ba54cffc	Él decía "como Takumi lo hace con tanta seriedad, perdí el momento de revelar la broma"...
-340	c7c605e1	y me lloraba diciendo "si las chicas se enteran, me matan...\n"
-350	ace0d714	Yo solo le aconsejé que le echara la culpa a la batalla de defensa...
-360	fea47a73	¡E-esperen! ¡No digas nada más!\n¡No sigas revelando! ¡Te lo ruego!
-370	84e57f1c	Gaku, creo que ya es tarde.
-380	4a1accd7	{fc(57e4f1)Enseguida le pusieron una mano en el hombro a Gaku.}
-390	84d820dd	Ya veo... el que le hacía bromas a las chicas\nera Maruko...
-400	f08150f8	Gaku, ¿puedes explicarnos un poco?
-410	5b922be1	¿Estás... preparado, verdad?
-420	7d83c8a1	A... eh... u...
-430	80e33dbf	Yugamu, es tu turno.
-440	69f79027	Ay, por el amor de la muerte...\nEn una situación así...
-450	fea1173c	Parece que se perdonará cualquier modificación...\n¡me emociona...!
-460	094c5eab	¡No, deténganse! ¡Ayúdenme!\n¡No quiero morir!
-470	581baed6	...\nTranquilo. Podemos usar el Revive-O-Matic cuantas veces haga falta.
-480	7636594f	¡Noooooooooooooooooooooooo!
-490	8a159dc0	{fc(57e4f1)...Y así se llevaron a rastras\nal autor de la amenaza a alguna parte...}
-500	80ff2c04	{fc(57e4f1)Bueno... se lo buscó.}
+140	94ec59cf	Sí, fue bastante raro. ¿Por qué señalaste a Gaku?
+150	d5bfc24b	Las amenazas iban dirigidas a Takumi. ¿No sería más natural dirigirle a él un comentario así?
+160	93e91730	¿Eh? E-Esperen un momento, chicos...
+170	62d4d25e	¡Están dándole demasiadas vueltas! Seguro Ima me lo dijo a mí porque yo estaba a su lado en ese momento, y...
+180	33b37bff	Es porque el Sr. Maruko era quien enviaba las amenazas.
+190	c5a12ae6	¡Imaaaaaaaaa! ¡¿Cómo pudiste traicionarme?!
+200	d440caa6	¿"Traicionarte"?
+210	9f05eeb3	¿Eh? ¡Ah, rayos...!
+220	cee41e7f	¿Entonces dice la verdad? ¡¿Tú estás detrás de todo esto?!
+230	b9730f66	Ahora que lo dices, últimamente ha estado muy nervioso...
+240	b61a6003	¿Tú crees? A mí siempre me parece una cucaracha que corre de un lado a otro.
+250	858bf755	¿Es verdad, Gaku? ¿Tú eras quien nos amenazaba?
+260	dfa63c04	N-No es así... Es decir, no es lo que piensan...
+270	248fda28	Más vale que confiese. Ya no hay escapatoria.
+280	4ff1323b	¡H-Queridísimo hermano, detente! ¿Qué crees que estás haciendo?
+290	36933c3a	¡Hay que acorralar al culpable y presentar pruebas de su crimen antes de obligarlo a confesar!
+300	a59bdcdb	¡Así es! ¡No puedes saltarte directo al final! ¡La música temática de la ejecución ni siquiera ha empezado!
+310	2d82f3a0	¡¿A quién le importan esas cosas?!
+320	424afb2a	Dijiste que te traicioné, pero en realidad nunca estuve de tu lado, por así decirlo.
+330	ba54cffc	Tú fuiste quien vino llorando a mí. "¡Takumi se tomó todo esto demasiado en serio, ahora no hay forma de que pueda confesar!"
+340	c7c605e1	"¡Pero si las chicas se enteran, me van a destrozar! ¡Ay, qué mala suerte!"
+350	ace0d714	Y yo solo señalé que sería fácil hacer que todo desapareciera si le echabas la culpa a los invasores. Te di un consejo, nada más.
+360	fea47a73	¡Cállate, viejo! ¡Si les cuentas más que eso, estoy acabado!
+370	84e57f1c	Creo que ese barco ya zarpó, Gaku.
+380	4a1accd7	{fc(57e4f1)Al instante siguiente, una mano cayó sobre el hombro de Gaku.}
+390	84d820dd	Así que tú eres el que les gastaba bromas a todas las chicas, ¿eh?
+400	f08150f8	Ven con nosotras, Gaku. Hay unas cuantas cosas que me gustaría hablar contigo.
+410	5b922be1	Parafraseando tu nota más reciente... "Prepárate".
+420	7d83c8a1	Ah... Y-Yo... Eh...
+430	80e33dbf	Yugamu, te toca.
+440	69f79027	Ay, por el amor de la muerte... En una situación como esta...
+450	fea1173c	¡No puedo evitar preguntarme cuánto de su cuerpo puedo "modificar" sin destruirlo por completo...!
+460	094c5eab	¡No, por favor! ¡Alguien, ayuda! ¡No quiero moriiiiiiiir!
+470	581baed6	No se preocupe, Sr. Maruko. Podemos traerlo de vuelta con el Revive-O-Matic tantas veces como sea necesario.
+480	7636594f	¡¡¡NGYAAAAAAAAAAAAAAAAAAAAARGH!!!
+490	8a159dc0	{fc(57e4f1)Y así, el autor de las misteriosas amenazas fue arrastrado entre patadas y gritos.}
+500	80ff2c04	{fc(57e4f1)Personalmente, creo que recibió todo lo que se merecía.}

@@ -1,44 +1,44 @@
 id	huella_jp	es
-10	266b98f6	{fc(57e4f1)En cuanto abrí la puerta de entrada,\ncomprobé que mi mal presentimiento se cumplía.}
+10	266b98f6	{fc(57e4f1)Apenas abrí la puerta, supe que mi intuición tenía razón.}
 20	f4a72a8b	
-30	799a510c	¡SIREI...! ¿Q-qué pasa?\n¿Para qué vienes a esta hora?
-40	e9a0a9b5	...Tengo algo serio.\nQuiero consultarte algo, Takumi.
-50	3b888f94	¿Q-qué pasa tan solemne...?\n¿Una consulta... de qué?
-60	b6f564c7	Takumi, es grave.\nEs una situación gravísima...
-70	e98c9319	¡Pues dime qué pasó!
-80	c7f7c7b4	{fc(57e4f1)La mirada seria de SIREI me tensó.\nY SIREI abrió la boca despacio y...}
-90	680df4db	¡Se me acabaron las ideas!\n¡Ya no tengo ideas para castigos!
-100	0cb284ce	¡Qué rápido!
-110	ff9a929c	¿Q-qué hago...?\nYa no se me ocurre nada...
-120	0210b7ee	¡Se supone que es el variedades SIREI Special Presents, y así el programa fracasa por falta de proyecto!
-130	f6238da4	Más bien, ¿era un programa?\n¡No me lo dijeron!
-140	236de022	Esto es malo... muy malo...\n¡Todavía faltan más de 30 días para el Día 100!
-150	2deefd1f	Entonces termínalo aquí...
-160	9558615d	Déjanos reír libremente los 20 días que quedan.\nAsí podemos concentrarnos en la batalla...
-170	8b787bee	¡No, no puede ser!\n¡Todos necesitan un evento con tensión!
-180	929dfbcd	¡Por eso, Takumi, piensa conmigo!\n¡Un castigo que cause apenas una risita!
-190	6bbc7908	...¡¿Por qué yo?!
-200	f5a86647	¡Anda, anda, entre tú y yo hay confianza!\nCon que sea de nivel "risita" me basta.
-210	c43d04c6	...Si piensas conmigo,\n¿te enseño algo bueno como premio?
-220	feaa2937	...¿Algo bueno?
-230	8460a10a	Sí. Te enseño lo que quieras saber.\n¡Hasta te lo puedo decir primero!
+30	799a510c	¡Sirei...! ¿Q-Qué pasa? ¿Qué necesitas a esta hora...?
+40	e9a0a9b5	Tengo que hablar contigo de algo serio. Necesito tu opinión sobre una cosa.
+50	3b888f94	N-Otra vez no... ¿Mi opinión...?
+60	b6f564c7	Sumino, esto es grave. Es una situación muy seria y terrible...
+70	e98c9319	¡Dime de una vez qué pasó!
+80	c7f7c7b4	{fc(57e4f1)La mirada seria en sus ojos me puso nervioso. Lentamente abrió la boca para hablar...}
+90	680df4db	¡Me quedé en blanco! ¡Se me acabaron las ideas para castigos!
+100	0cb284ce	¡¿Ya?!
+110	ff9a929c	¿Q-Qué hago? No se me ocurre nada...
+120	0210b7ee	¡Se supone que esto es un programa de variedades presentado especialmente por mí, pero a este paso mi programa será cancelado!
+130	f6238da4	¿Es un programa? ¿Como de televisión? No lo habías mencionado...
+140	236de022	Esto es malo... Es un desastre... Faltan más de treinta días para el Día 100...
+150	2deefd1f	Entonces, ¿por qué no lo dejas hasta aquí?
+160	9558615d	Déjanos reír libremente los veintitantos días que quedan. Así podremos concentrarnos en la lucha...
+170	8b787bee	¡No, no puedo! ¡Ustedes necesitan un evento de infarto para motivarse!
+180	929dfbcd	¡Sumino, tienes que pensar algo conmigo! ¡Un castigo que haga soltar risitas!
+190	6bbc7908	¡¿Por qué tengo que ser yo quien ayude?!
+200	f5a86647	¡Por favor, somos amigos, Sumino! Solo tiene que bastar para sacar una risita.
+210	c43d04c6	Si me ayudas a idear algo, te diré algo bueno como recompensa.
+220	feaa2937	¿Algo bueno?
+230	8460a10a	Sí, te diré lo que quieras saber. Incluso lo haré antes de que me des tu idea.
 240	f4a72a8b	
-250	d94c0398	{fc(57e4f1)¿Lo que quiera saber... lo que sea?\nEntonces...}
-260	3efc6380	S-si de verdad me dices lo que sea...tengo algo que preguntar...
-270	04a3bbf2	Mi amiga de la infancia Karua Kashimiya...\n¿por qué está aquí como Nozomi Kirifuji?
-280	f8909732	...Si preguntas eso, trato hecho, ¿no?\n¿Pensarás los castigos?
-290	0317374c	{fc(57e4f1)Y, más bien, no sé si esto se negocia\nen un tono tan serio...}
-300	8008b396	Está bien. Te lo digo primero.\nPara empezar, no existe una persona llamada Karua Kashimiya.
-310	aef48060	...¿Qué?
-320	81add18b	Jaja... ¿qué tonterías dices?\n¡No puede ser...!
-330	a7b40d4e	...Ah, te reíste.
-340	257ff880	...¿Eh?
-350	3273b50c	¡Ah, no! ¡Eso fue distinto!\n¡Fue una risa de incomodidad, no cuenta!
-360	4abb0164	¡Y más bien, tú tampoco tienes ideas de castigos!\n¡Se suponía que pensaría en eso por ti...!
-370	07105197	...¡Era un truco!
+250	d94c0398	{fc(57e4f1)¿Lo que quiera saber...? Entonces...}
+260	3efc6380	S-Si de verdad me vas a decir lo que sea, hay algo que quiero saber...
+270	04a3bbf2	¿Por qué mi amiga de la infancia Karua Kashimiya está aquí bajo el nombre de Nozomi Kirifuji?
+280	f8909732	Esto significa que tenemos un trato, ¿verdad? ¿Me ayudarás con ideas?
+290	0317374c	{fc(57e4f1)La verdad, no creo que esto sea algo que exija que negociemos en términos tan serios, pero...}
+300	8008b396	Bien. Entonces te lo diré. La persona que conoces como Karua Kashimiya nunca existió.
+310	aef48060	¿Qué...?
+320	81add18b	Jaja... Qué locura... No puede ser...
+330	a7b40d4e	Oh, te reíste.
+340	257ff880	¿Eh?
+350	3273b50c	Ah, eh... ¡No me reí! ¡Fue más bien una risa irónica, no cuenta!
+360	4abb0164	¡Además, no tienes ideas de cómo castigarme! ¡Viniste a pedirme ideas...!
+370	07105197	¡Y era una trampa!
 380	0112b3b2	¡¿Qué...?!
-390	6846a542	Pensé que a Takumi le costaría.\nPero fue más fácil de lo que creía...
-400	93128179	Bien... entonces Takumi\n¡recibe ahora su castigo...!
-410	0f787314	E-espera...\n¡¿qué vas a hacer?!
-420	87f5d277	Juafafafaj... pues verás...
-430	a0de1296	¡¡...!!
+390	6846a542	Pensé que opondrías más resistencia, Sumino. Fue más fácil de lo que creí...
+400	93128179	Ahora bien, es hora de tu castigo...
+410	0f787314	¡E-Espera! ¡¿Qué me vas a hacer?!
+420	87f5d277	Juafafafaj... A ver...
+430	a0de1296	¡...!

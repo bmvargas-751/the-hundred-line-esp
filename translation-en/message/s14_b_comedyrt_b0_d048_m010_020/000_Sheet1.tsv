@@ -1,21 +1,21 @@
 id	huella_jp	es
-10	04b07b3c	{fc(cfff3f)"¡Pum, pum, pum!" "¡Pum, pum, pum!"}
-20	57691df2	{fc(57e4f1)Abrí a toda prisa la puerta que seguían golpeando,\ny quien estaba allí era...}
-30	7b7edd85	¡...!
-40	7b966a63	{fc(57e4f1)...¿Takemaru? ¿Qué pasa?}
+10	04b07b3c	{fc(cfff3f)*toc toc toc toc*}
+20	57691df2	{fc(57e4f1)Abrí a toda prisa mi puerta, que seguían golpeando, y ahí vi...}
+30	7b7edd85	¡—!
+40	7b966a63	{fc(57e4f1)¿Takemaru? ¿Qué pasa?}
 50	f4a72a8b	
-60	9c1ea334	¿...?
-70	195541a6	¡...! ¡¡...!! ¡¡¡...!!!
-80	2e09a323	{fc(57e4f1)¡¿Q-qué es?! ¡¿Qué pasa?!}
-90	a61be62a	{fc(57e4f1)Entiendo que quiere decirme algo con desesperación.\nPero... no entiendo nada de qué es.}
-100	c8913a5a	{fc(57e4f1)"¡Yakushiji, no entiendo nada, habla bien!"\nIba a decir eso cuando...}
-110	4974663b	{fc(57e4f1)...noté algo raro.}
-120	84d2cd5f	¡...! ¡...! ¡...!
-130	bf1182ca	{fc(57e4f1)No me sale la voz.}
-140	5de78346	{fc(57e4f1)Aunque hice vibrar la garganta para hablar,\nno oía mi propia voz.}
-150	aa4ec196	{fc(57e4f1)Ya veo... Takemaru no es que no hablara:\nquería hablar, pero no podía.}
-160	7f401320	{fc(57e4f1)Al mirar de nuevo a Yakushiji...}
-170	ef625a20	{fc(57e4f1)Ah, esto sí lo entiendo.\nTiene cara de "¡por fin lo captaste!".}
-180	7b7edd85	¡...!
-190	aa238481	{fc(57e4f1)Entonces Takemaru señaló con el dedo hacia la escalera.\nSeguramente quiere decir que lo siga.}
-200	f9609c62	{fc(57e4f1)Asentí con la cabeza\ny fui con Yakushiji hacia el interior del edificio.}
+60	9c1ea334	¿—?
+70	195541a6	¡...! ¡—! ¡—————!!
+80	2e09a323	{fc(57e4f1)¿Q-Qué pasa? ¡¿Qué sucede?!}
+90	a61be62a	{fc(57e4f1)Se notaba que intentaba decirme algo con desesperación. Pero no tenía idea de qué.}
+100	c8913a5a	{fc(57e4f1)Cuando iba a decirle que soltara de una vez lo que tenía que decir...}
+110	4974663b	{fc(57e4f1)Noté algo extraño.}
+120	84d2cd5f	¡...! ¡...! ¡—!
+130	bf1182ca	{fc(57e4f1)Mi voz... había desaparecido.}
+140	5de78346	{fc(57e4f1)Mi garganta vibraba y debería haber producido sonido, pero no me oía en absoluto.}
+150	aa4ec196	{fc(57e4f1)Ya veo... No es que Takemaru no estuviera hablando. No podía hablar aunque quisiera.}
+160	7f401320	{fc(57e4f1)Cuando lo miré otra vez...}
+170	ef625a20	{fc(57e4f1)Entendí. Por su expresión, supo que me había dado cuenta.}
+180	7b7edd85	¡—!
+190	aa238481	{fc(57e4f1)Takemaru señaló hacia las escaleras. Quería que lo siguiera.}
+200	f9609c62	{fc(57e4f1)Le hice un rápido gesto con la cabeza y entré con él a la escuela.}

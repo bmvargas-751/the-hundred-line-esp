@@ -1,25 +1,25 @@
 id	huella_jp	es
-10	dbdf1006	Hay un papelito tirado delante de la puerta... ¿Cuándo apareció esto?
-20	82978d90	¿Una carta...?\n¿Alguien la metió por la rendija de la puerta?
-30	06ba4962	Ahora que lo pienso, creo que ya pasó algo así...
-40	4ce986e5	{fc(57e4f1)Pensando eso, recogí la carta\ny en cuanto la abrí...}
-50	1cfa393f	{fc(57e4f1)...se me fue la sangre de la cara.}
-60	a06bbeda	{fc(57e4f1)La frase que saltó a mis ojos bastó para borrar\nmi ánimo despreocupado.}
-70	877a459f	"Si no lo consiguen, sus vidas terminarán".
-80	e939715a	E-esto es... no me digas...
-90	a867037d	¡¿Una carta amenazante?!
-100	2d77d5c0	{fc(57e4f1)Recordé lo que estaba escrito en el pizarrón entonces.\nLa amenaza no había terminado...}
-110	53549765	¿Q-qué hago?\nPor ahora, consultar con todos...
-120	196e737a	{fc(57e4f1)Como adelantándose a mi pensamiento,\nla carta decía a continuación:}
-130	3c21865f	"Si lo cuentas, tu vida también terminará".
-140	b67490de	{fc(57e4f1)Prohibido contarlo, ¿eh?\nO sea, es una amenaza dirigida claramente solo a mí.}
-150	eb2509d0	{fc(57e4f1)Parece que esta amenaza es distinta de la de antes.\nNo es una amenaza a todos como entonces...}
-160	245e1add	{fc(57e4f1)¿Quién habrá sido?\n¿Quien escribió esto me conoce...}
-170	3d9837db	{fc(57e4f1)¿Un invasor se tomó la molestia de escribir una carta...?\n¿O queda todavía un traidor como Aotsuki?}
-180	12955f74	No, primero hay que confirmar lo que pide...\n¿A qué se refiere "si no lo consiguen"...?
-190	e86da209	{fc(57e4f1)Seguí leyendo el resto del texto y...}
-200	6e34bf28	"Entrega los calzones de Hiruko Shizuhara".
-210	99675ee8	"El plazo es hasta la mañana del Día 52".
-220	e08ab0db	"El lugar de entrega es el maletín del aula del segundo piso".
+10	dbdf1006	Hay un papel junto a la puerta. ¿Cómo llegó ahí?
+20	82978d90	¿Será una especie de nota? ¿Alguien me la dejó mientras no estaba?
+30	06ba4962	Ahora que lo pienso, algo así ya pasó una vez...
+40	4ce986e5	{fc(57e4f1)Reflexionando sin prisa sobre cuánto habían cambiado las cosas desde entonces, abrí la nota.}
+50	1cfa393f	{fc(57e4f1)Al ver lo que había dentro, se me heló la sangre.}
+60	a06bbeda	{fc(57e4f1)Todavía no la había leído entera, pero una frase me llamó la atención de inmediato.}
+70	877a459f	"Si fracasan, sus vidas quedarán perdidas".
+80	e939715a	E-Esto es...
+90	a867037d	¡¿Otra amenaza?!
+100	2d77d5c0	{fc(57e4f1)Recordé el mensaje que había visto antes en la pizarra. Fuera lo que fuera, aún no había terminado...}
+110	53549765	¿Q-Qué hago...? Debería ir a contárselo a todos y...
+120	196e737a	{fc(57e4f1)Pero antes de terminar ese pensamiento, mis ojos se clavaron en otra parte de la nota.}
+130	3c21865f	"Si le cuentas esto a alguien, serás asesinado de inmediato".
+140	b67490de	{fc(57e4f1)Quieren que me quede callado... Esta amenaza es para mí, y solo para mí.}
+150	eb2509d0	{fc(57e4f1)La anterior iba dirigida a todos... ¿Por qué esta es distinta?}
+160	245e1add	{fc(57e4f1)¿Y quién la habrá enviado? Sea quien sea, debe de conocerme...}
+170	3d9837db	{fc(57e4f1)Un invasor no se tomaría la molestia de enviarme una carta, ¿verdad? ¿Tenemos otro traidor en el grupo, entonces?}
+180	12955f74	Debería leerla entera, quizás así sepa más. "Si fracaso..." ¿Fracaso en qué, exactamente?
+190	e86da209	{fc(57e4f1)Respiré hondo y recorrí la nota con la mirada.}
+200	6e34bf28	"Tráeme los calzones de Hiruko Shizuhara".
+210	99675ee8	"Tienes hasta la mañana del Día 52 para cumplir".
+220	e08ab0db	"Deja la mercancía en el maletín del salón del segundo piso".
 230	f4a72a8b	
-240	fa6c5fb4	...¿Cómo?
+240	fa6c5fb4	...¿Eh?

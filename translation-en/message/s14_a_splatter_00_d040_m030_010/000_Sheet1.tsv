@@ -1,37 +1,37 @@
 id	huella_jp	es
-10	93e642da	{fc(57e4f1)Cruzamos el muro de llamas que no se apagan y corrimos un rato,\npero no vimos nada raro.}
+10	93e642da	{fc(57e4f1)Atravesamos las Llamas Eternas y seguimos por las ruinas. Durante un buen rato no vimos nada que destacara...}
 20	be14907b	
-30	6a71d975	{fc(57e4f1)...}
-40	a1fa3f92	{fc(57e4f1)Tras correr varias horas más...\nnoté algo raro.}
-50	91504ca4	Qué extraño...\nEsta zona, si no recuerdo...
-60	93771318	Takumi, ¿ya habías estado aquí?
-70	88e3114d	Sí, en el futuro.
-80	446d3cff	Pero si mi memoria no falla,\nmás adelante por este camino... hay una base de invasores.
-90	83ad3bbf	{fc(cfff3f)"¡¡Rrrrriiich!!"}
+30	6a71d975	
+40	a1fa3f92	{fc(57e4f1)Por fin, tras un par de horas, noté que algo era distinto.}
+50	91504ca4	Qué raro... ¿No es esto...?
+60	93771318	¿Qué pasa? ¿Ya has estado aquí, Takumi?
+70	88e3114d	Sí, en mi futuro.
+80	446d3cff	Solo que, como lo recuerdo... Hay una base enemiga más adelante.
+90	83ad3bbf	{fc(cfff3f)*¡chiiirrr!*}
 100	9aa45d58	¡¿Qué?!
-110	a1c3478e	¡Buaaah!\n¡No frenes de golpe, tonto!
-120	7b62b160	¡Fue por decir "base"!\n¡Casi nos metemos al territorio del enemigo!
-130	d903d530	Perdón, no me di cuenta.\nEs como si el ambiente hubiera cambiado respecto de antes.
-140	2d06e537	Es extraño... estando cerca de una base, hay demasiado silencio.\nNo siento ninguna presencia de invasores.
-150	42e38beb	¿La base es tan grande?\n¿Está llena de invasores por todos lados?
-160	52f6f264	Es muy amplia y hay muchísimos invasores.\nEn la historia anterior entramos nosotros y la sometimos.
-170	9907271f	¿En serio?... Entrar a una base sin poder revivir:\neso es una locura.
-180	7f6454c8	Pero hoy no se siente a los invasores:\n¿qué significa?
-190	226f000f	¿Depresión colectiva?\nHasta los invasores pueden tener crisis mental, ¿no...?
-200	4bcccf90	En todo caso, alejémonos primero.\nSi nos ven, no nos limitamos a una paliza.
-210	52b571a9	Takemaru, arranca. Sigue de frente.
-220	1a3105d5	¡Sí, salimos enseguida!
-230	4a14c862	¡Oye, tú! ¿Escuchaste lo que dije, carajo?\n¡Te mato! ¡Aunque no te mato!
-240	323f3443	Vinimos a buscar pistas.\nSi vemos la mínima anomalía, hay que comprobarla.
-250	04ba17ea	S-Sí... aunque no tenga relación con el asesino,\nno se puede dejar a los invasores.
-260	93d3acc2	¡Qué locura!\n¡No quiero ir donde están plagados de invasores!
-270	8c7310c7	Darumi sí puede ir.\nLas crisis mentales se atraen entre sí...
-280	15562290	Yo también quiero ir a ver.\nQuiero cualquier pista.
+110	a1c3478e	¡Uf! ¡Amigo, ¿por qué frenaste de la nada así?!
+120	7b62b160	¿No oíste lo que dijo Takumi de la base? ¡¿Tú quieres meterte de cabeza en territorio enemigo?!
+130	d903d530	Perdón, debí haberlo notado antes. Es que se siente un poco distinto de la última vez...
+140	2d06e537	Sí que está extrañamente silencioso. Tampoco veo señales de invasores cerca.
+150	42e38beb	¿Era grande esta base? ¿Había muchas tropas?
+160	52f6f264	Sí, lo era. En mi línea temporal anterior, vinimos por este camino y asaltamos el lugar.
+170	9907271f	¿Les diste pelea aunque aquí afuera no podemos revivir? Qué audaz, hombre.
+180	7f6454c8	Pero ahora no hay invasores aquí... ¿Qué les habrá pasado?
+190	226f000f	Quizás están todos demasiado deprimidos para salir a pelear. Hasta los invasores pueden tener problemas de salud mental, apuesto.
+200	4bcccf90	En fin, deberíamos volver por ahora. No quiero terminar en una batalla para la que no estamos preparados.
+210	52b571a9	Sigue adelante, Takemaru. A toda velocidad.
+220	1a3105d5	¡Sí, hombre, démosle!
+230	4a14c862	¡XXs a todos aquí afuera, estás muerta!
+240	323f3443	Vinimos hoy a reunir información. Cualquier cosa fuera de lo normal podría ser una pista.
+250	04ba17ea	Cierto... Y aunque no tenga relación con el asesino, igual debemos estar al tanto de lo que hacen los invasores.
+260	93d3acc2	¡Ustedes están locos! ¡No podemos meternos en una base repleta de enemigos!
+270	8c7310c7	Yo no tengo problema en ir. Quizás los invasores y yo podamos intercambiar historias de nuestros colapsos mentales...
+280	15562290	Yo también voy. Si hay alguna posibilidad de descubrir algo nuevo, tenemos que aprovecharla.
 290	f4a72a8b	
-300	d3fc900e	Claro, sin hacer locuras.\nSi se pone peligroso, nos retiramos enseguida.
-310	2e9c26cd	Tsk... entendido.\nGaku, resígnate.
-320	9f2d2b64	Tsk... qué remedio.\n¡A cambio, si pasa algo, me pagan seguro de accidentes!
-330	1cabb171	Entonces avancemos con cautela.
-340	8804afdd	{fc(57e4f1)Reduciendo la velocidad, nos acercamos a la base enemiga.}
-350	17ac0d7b	{fc(57e4f1)Llegamos poco después y bajamos del autobús, alerta al entorno,\npero.}
-360	0ff8bb8f	{fc(57e4f1)Ante la vista de la base avanzada,\nnos quedamos sin palabras.}
+300	d3fc900e	Claro, no es un ataque a gran escala. Nos retiraremos si las cosas se ponen feas.
+310	2e9c26cd	Tch... Bueno. Mejor acéptalo, Gaku. Aquí somos minoría.
+320	9f2d2b64	Está bien, está bien... ¡Pero si las cosas salen mal, más vale que me den algún tipo de compensación!
+330	1cabb171	Muy bien. Entonces sigamos. Con calma, ahora.
+340	8804afdd	{fc(57e4f1)Bajando la velocidad al mínimo, fuimos avanzando el bus poco a poco por el camino hacia la base enemiga.}
+350	17ac0d7b	{fc(57e4f1)Después de un rato nos detuvimos y empezamos a explorar a pie.}
+360	0ff8bb8f	{fc(57e4f1)Pero lo que encontramos era tan distinto de lo que recordaba que empecé a preguntarme si no habíamos tomado un desvío equivocado...}

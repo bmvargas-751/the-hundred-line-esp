@@ -1,10 +1,10 @@
 id	huella_jp	es
-10	e37a0b5c	Bien... aquí estará bien.
-20	9dfb0055	{fc(57e4f1)El taller metalúrgico... en origen aquí hay armas,\nminas, cosas peligrosas.}
-30	06384568	{fc(57e4f1)Dejé la sierra eléctrica en un rincón del cuarto\ny miré esa arma.}
-40	6b6cdf60	{fc(57e4f1)Vista otra vez, tiene una hoja grande y afilada.\nSi te atacan con eso, no hay escapatoria.}
-50	71c60ebf	{fc(57e4f1)Atacarnos a Hiruko y a mí con algo así\nsignifica que querían}{fc(ff635b)"matarnos"}{fc(57e4f1)sin duda.}
-60	181ce4f7	{fc(57e4f1)Pero, ¿por qué...?\n¿Por qué motivo...?}
-70	e3d5709a	Mejor ordeno primero la situación...
-80	61a49ce9	{fc(57e4f1)Que moví la sierra eléctrica hasta aquí,\nlo avisaré cuando estén todos.}
-90	e6492614	{fc(57e4f1)Cerré la puerta del taller metalúrgico\ny volví a mi cuarto.}
+10	e37a0b5c	Bien, por ahora aquí debería estar bien.
+20	9dfb0055	{fc(57e4f1)El Taller de Metales parecía un escondite tan bueno como cualquier otro. Ya estaba lleno de armas, minas terrestres y otros objetos de aspecto letal.}
+30	06384568	{fc(57e4f1)Dejé la sierra eléctrica en un rincón de la sala y la miré fijamente un momento.}
+40	6b6cdf60	{fc(57e4f1)De cerca, estas hojas se ven aún más grandes y letales. Menos mal que no me alcanzaron...}
+50	71c60ebf	{fc(57e4f1)Quienquiera que nos hubiera amenazado con esto a Hiruko y a mí, sin duda quería }{fc(ff635b)matarnos}{fc(57e4f1).}
+60	181ce4f7	{fc(57e4f1)Pero ¿por qué? ¿Qué motivo podría haber tenido?}
+70	e3d5709a	Probablemente debería repasar todo el incidente otra vez...
+80	61a49ce9	{fc(57e4f1)Les diré a los demás que dejé la sierra eléctrica aquí la próxima vez que estemos todos juntos.}
+90	e6492614	{fc(57e4f1)Cerré la puerta del Taller de Metales y volví a mi cuarto.}

@@ -1,52 +1,52 @@
 id	huella_jp	es
-10	69cb1fff	¡Ah... Takumi...!
-20	223d6d84	¡Sumino, tú! ¡¿Por fin despertaste, carajo?!
-30	d03c0686	¡Qué bueno! ¡Como dormías tanto,\ntemí que hubieras muerto!
-40	5f9a864d	Había muerto.\nQué alivio que reviviera.
-50	8355ab83	Perdón por preocuparlos.\nComo ven, estoy bien: cuento con ustedes otra vez.
-60	f8006fd1	En serio, no asustes...\nPensé: ¿y si muere hasta Sumino?
+10	69cb1fff	¡Ah, Takumi!
+20	223d6d84	¡Hijo de perra! ¡Qué bueno verte de pie otra vez!
+30	d03c0686	¡Gracias al cielo! Pensamos que moriría si dormía más...
+40	5f9a864d	Técnicamente, murió. Menos mal que teníamos la tecnología para traerlo de vuelta.
+50	8355ab83	Perdón por hacerlos pasar por todo eso. Pero tranquilos, ya estoy bien.
+60	f8006fd1	En serio, amigo, tienes que tener más cuidado. Estaríamos hasta el cuello si también te hubiéramos perdido a ti.
 70	f4a72a8b	
-80	4bba8290	¡Oye, Gaku!
-90	88b41f53	A-Ah, no...
-100	7a013d97	Bueno, bueno, no lo dijo con mala intención.\n¡Maruko es un bruto sin tacto!
-110	fe073156	{fc(57e4f1)No, tú no deberías hablar.}
-120	fe7f8ea2	Lo de Moko, entonces...
-130	e8b52d81	...Me lo contó Nozomi.\nQue a ustedes los atacó el asesino.
-140	fefbbb0b	Oye, ¿por qué no despertaron a Darumi?\nSi empezó el juego de muerte, ¡despiértenme! ¡Qué cruel!
-150	b0e2dd5a	Cállate, tú.\n¡Te meto la espada pervertida de Kyoshika en la boca!
-160	56525553	¡Buhii...!\nFufu... me callo para siempre...
-170	2c5f7ca9	El incidente nos lo avisó la Srta. Nozomi\ntemprano por la mañana.
-180	e6ada6e1	...El cadáver de la Srta. Moko lo llevamos\na la sala de reposo de cadáveres.
+80	4bba8290	¡Gaku!
+90	88b41f53	¡Ah! Eh, quiero decir...
+100	7a013d97	Vamos, vamos, el Sr. Maruko no quiso decir nada con eso. Simplemente carece de todo tacto social.
+110	fe073156	{fc(57e4f1)Mira quién habla...}
+120	fe7f8ea2	¿Ya saben lo de Moko?
+130	e8b52d81	Nozomi nos contó. Dijo que el asesino los atacó a los tres.
+140	fefbbb0b	¿Por qué no me llevaste contigo esa noche? ¡No puedo creer que me perdí más asesinatos...!
+150	b0e2dd5a	Cállate. No me obligues a meterte por la garganta la espada pervertida de Kyoshika.
+160	56525553	¡Iiik! Y-Ya seré buena y me quedaré callada...
+170	2c5f7ca9	Nozomi nos reunió a todos esa mañana y nos contó lo que pasó.
+180	e6ada6e1	Llevamos el cuerpo de Moko a la Morgue y lo dejamos ahí por ahora...
 190	f4a72a8b	
-200	93098a1a	{fc(57e4f1)Quizás recordando esa escena,\ntodos oscurecieron el rostro con tristeza.}
-210	276fd576	{fc(57e4f1)Es natural... a mí también me duele,\ny para ellos es la primera baja de compañeros.}
-215	b5633de2	...Espera. ¿La llevaron por la mañana?\n¿Y el dron?
-216	65a1c63b	Ah, eso... me intrigaba por qué el dron no reaccionó al cadáver,\ny lo investigué.
-217	38e58084	Pensé que estaba averiado, pero el dron no tenía anomalías.\n¡Fuera de eso, no sé nada...!
-218	7b070543	¡¿Qué diablos pasa?!\n¡Takumi, explícalo bien!
-220	2cfb900c	Quizás no me crean, pero...en la historia anterior no pasaba esto.
-230	5d028d86	Yo no pude protegerla...\nHabíamos decidido sobrevivir todos... perdón...
-240	56ef45ce	No cargues tú solo con todo.\n¡Esta pelea nos la buscaron a nosotros, carajo!
-250	78a32619	Eso. Además, ya no importa si Sumino\nsaltó o no en el tiempo.
-260	e36b4ac2	Ahora no es momento de eso, ¿no?\n¿Por qué no dejamos de lado creer o no creer?
-270	3c31baa2	Sí... más que eso, la Srta. Moko...\n¿por qué...?
-280	a9ef6177	¡Yo juré con mi Espada Sagrada Jumonji\nque vengaría a doña Moko sin falta...!
-290	d086dc6c	Mientras Sumino dormía, investigamos por nuestra cuenta,\npero no encontramos nada. Qué misterio, en serio.
-300	239e09c8	...Te lo pregunto otra vez: Kirifuji,\n¿tú y Sumino huyeron juntos del asesino?
-310	5b8f7e85	Sí, así fue. Lo recuerdo clarísimo.
-320	381246c7	Ya veo... entendido.\nTsubasa, ¿cuántos signos vitales?
-330	e35dd21d	"14".\nEl del asesino sigue ahí.
-340	83d6cf74	Quiero confirmar una cosa: ¿esa noche todos estaban en su cuarto?
-350	8777048a	Sí, creo que sí.\nPor lo que se dijo, nadie estaba despierto.
+200	93098a1a	{fc(57e4f1)El rostro de todos se ensombreció al revivir la tragedia.}
+210	276fd576	{fc(57e4f1)Sabía cómo se sentían... Claro que, para ellos, era la primera vez que moría uno de nuestros amigos.}
+215	b5633de2	Un momento... ¿Llevaron a Moko a la Morgue? ¿Y los drones?
+216	65a1c63b	Me dio curiosidad por qué tampoco se activaron, así que decidí investigarlo.
+217	38e58084	Lo raro es que los drones en sí no tienen nada de malo. Funcionan exactamente como deben.
+218	7b070543	Pero ¿cómo puede ser? Takumi, ¡¿qué significa esto?!
+220	2cfb900c	Quizás no me crean, pero... Nada de esto pasó en mi futuro.
+230	5d028d86	Estaba tan decidido a salvar a todos esta vez, pero no pude proteger a Moko... Lo siento...
+240	56ef45ce	Oye, hermano, no te culpes. Así es la guerra, ¿sabes?
+250	78a32619	Así es, Sr. Sumino. Sus travesuras de viajero del tiempo ni siquiera entran en esto.
+260	e36b4ac2	A estas alturas, ya da lo mismo si te creemos o no en eso...
+270	3c31baa2	Sí... Solo estoy triste por Moko... ¿Por qué tuvo que morir...?
+280	a9ef6177	¡Lady Moko... Juro por la Sagrada Espada Jumonji que será vengada...!
+290	d086dc6c	Hemos estado investigando mientras estaba inconsciente, Sr. Sumino, pero no hemos encontrado nada. El asesino sigue siendo un misterio, igual que antes.
+300	239e09c8	Si podemos repasar el incidente una vez más, ustedes dos huyeron juntos del asesino, ¿correcto?
+310	5b8f7e85	Sí. Lo recuerdo con claridad.
+320	381246c7	Ya veo. Tsubasa, ¿cuál es el total actual de señales vitales?
+330	e35dd21d	Es 14. Eso significa que el asesino sigue ahí afuera.
+340	83d6cf74	Y todos estaban en sus cuartos esa noche, ¿cierto?
+350	8777048a	Así es. Solo estaban despiertos tú, Nozomi y Moko.
 360	f4a72a8b	
-370	3ed75a12	Perdón por estar durmiendo tan tranquilo,\nsiendo basura social como yo, en un momento tan duro...
-380	2994a7c2	P-Pero no hay remedio.\n¡No íbamos a notar lo que pasaba de madrugada...!
-390	9dc6b30f	¿Puedes dejar de lloriquear?\nYa no va a revivir Moko por eso.
-400	0d97d791	Si tienes tiempo para eso, sé útil.\nSi matas al asesino, te elogio.
-410	4f89fc3c	¡N-No lo digas tan fácil!\n¡Hasta la Moko cayó!
-420	efe6adfd	¡¿Cómo vamos a matar a alguien a quien no le hace efecto la hemoánima\ny que lleva arma?!
-430	9a021a53	...¡Es verdad!\n¡El asesino llevaba el traje y la sierra eléctrica!
-440	b759802c	¡Quizás el asesino tenía repuestos escondidos!
-450	53546411	¡Porque el traje y el arma que recuperamos\nlos guardamos bajo llave en el casillero...!
-460	7f4801e3	E-Eso... es que ya no estaban en el casillero.\nNi el traje ni la sierra eléctrica.
-470	1e07de38	¿Eh... ya no estaban...?
+370	3ed75a12	Me siento tan mal por haber estado durmiendo como un pedazo de basura humana mientras pasaba todo eso...
+380	2994a7c2	No podíamos hacer nada. ¡Era plena madrugada!
+390	9dc6b30f	¿Podrían ustedes dos tener un poco de carácter, por favor? Compadecernos de nosotros mismos no traerá de vuelta a Moko.
+400	0d97d791	Si les sobra energía para decir tantas tonterías, ¿por qué no la usan de forma más productiva? Por ejemplo, encontrando al asesino.
+410	4f89fc3c	¡Para ti es fácil decirlo! Si mataron a Moko, ¿qué posibilidades tenemos nosotros?
+420	efe6adfd	¡Si tienes alguna idea para matar a un maldito asesino con motosierra sin usar hemoánima, soy todo oídos!
+430	9a021a53	¡Oigan, es cierto! El asesino tenía su traje y su motosierra cuando nos atacó.
+440	b759802c	Eso tiene que significar que tenía repuestos o algo así, ¿no?
+450	53546411	Es decir, los que encontramos estaban encerrados en el Taller de Metalurgia...
+460	7f4801e3	Sí, sobre eso... Revisamos el casillero y tanto el traje como la motosierra habían desaparecido.
+470	1e07de38	¿Han... desaparecido?

@@ -1,27 +1,27 @@
 id	huella_jp	es
-10	3b368f9e	Ya casi es la hora.\nBien, voy al estacionamiento...
-20	298fd9f2	{fc(57e4f1)En ese momento,\nsentí vagamente una presencia.}
-30	45f460de	{fc(57e4f1)Una sensación como de algo que se agita en lo profundo de mi cuerpo.\nEsto es...}
-40	64033895	...¿Es aquel? ¿Vino aquel?
-50	b6e5298d	{fc(57e4f1)Como pensaba.\nEse que apareció de repente en mi cuarto...}
-60	4c363d93	{fc(57e4f1)estaba sentado abrazándose las rodillas en un rincón.}
+10	3b368f9e	Casi es hora de partir. Debería ir al Estacionamiento.
+20	298fd9f2	{fc(57e4f1)Pero antes de que pudiera salir, sentí una presencia a mi espalda.}
+30	45f460de	{fc(57e4f1)Era ese cálido y violento latido en el pecho que ya había sentido antes.}
+40	64033895	¿Eres tú? Estás aquí, ¿verdad?
+50	b6e5298d	{fc(57e4f1)Tal como pensé, el niño fantasma había aparecido otra vez en mi cuarto.}
+60	4c363d93	{fc(57e4f1)Estaba sentado en un rincón, abrazándose las rodillas.}
 70	f4a72a8b	
-80	8df37da0	Eh... ¿qué pasa?
+80	8df37da0	Eh... ¿Estás bien?
 90	f4a72a8b	
-100	ebf4b29e	{fc(57e4f1)¿Cómo decirlo...? ¿Está de mal humor?\n¿Haciendo pucheros?}
-110	acd4760f	...¿Por qué?
+100	ebf4b29e	{fc(57e4f1)Se ve algo triste, o... ¿está haciendo pucheros?}
+110	acd4760f	¿Por qué...?
 120	5590ff80	¿Eh?
-130	5129d485	¿Por qué... estás ayudando a todos\ny a mí no me invitas?
+130	5129d485	Últimamente pasas tanto tiempo con los demás que ni siquiera me has hablado.
 140	f4a72a8b	
-150	697e2060	{fc(57e4f1)Empezó a decir cosas como una novia complicada.}
-160	5fb35524	Bueno... si hay algo en que quieras ayuda, te ayudo.
+150	697e2060	{fc(57e4f1)¿Desde cuándo se volvió una novia posesiva?}
+160	5fb35524	Bueno... Si hay algo que te molesta, con gusto te ayudo.
 170	79077b6b	¡¿De verdad?!
-180	bc7fcba7	S-sí... pero ahora estoy por salir.\nTe ayudo cuando vuelva, ¿sí?
+180	bc7fcba7	Claro. Solo que...voy a estar fuera de la escuela un tiempo, ¿podemos dejarlo para cuando vuelva?
 190	f4a72a8b	
-200	0f632ba3	¡Intentaré volver lo antes posible!\n¡¿Sí?!
-210	fd310cc1	...¿De verdad?
-220	8ed9147b	De verdad, de verdad.
-230	59127a2a	Es una promesa... ¿eh?
-240	77a62ec0	{fc(57e4f1)Todavía con cara algo malhumorada,\ndesapareció frente a mí.}
-250	20d815d0	¿Qué fue eso...?\n¿Por qué se pone así de complicado?
-260	eae3f6d3	{fc(57e4f1)Bueno... recompongámonos y vamos al estacionamiento.}
+200	0f632ba3	¡V-Volveré lo antes posible! ¡De verdad!
+210	fd310cc1	¿En serio...?
+220	8ed9147b	En serio. En serio, en serio.
+230	59127a2a	Es una promesa, ¿ya?
+240	77a62ec0	{fc(57e4f1)Sin decir más, el niño fantasma desapareció, con una expresión extrañamente malhumorada.}
+250	20d815d0	¿Qué le pasó para ponerse así...?
+260	eae3f6d3	{fc(57e4f1)En fin, debería ir al Estacionamiento a reunirme con Eva y los demás.}

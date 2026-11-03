@@ -143,3 +143,98 @@ aabb_d100_m050_010#370: 'a freaking GENIUS' -> 'GENIO de la vida'
 - bb_d089_m020_010 #200: juego "fault"/"thanks to you" -> "culpa"/"gracias a ti".
 
 - Unificado: 'Right/Wrong Guess timeline' → 'línea temporal de la Predicción Acertada / Errónea' (en todas las ramas).
+
+## s14 (splatter y comedy, revisión de los agentes)
+
+### s14-intro
+- s14_1_splacome_00_d011_m020_010#260: "itchy tasty" (ref. original). Solución provisional: "pica rico".
+- s14_1_splacome_00_d007_m030_010#40: Moko "Destino" (golpe) dejado como "Destino".
+- s14_1_splacome_00_d004_m010_010#440 (y d004_m020): "Dave/qué diablos tiene que ver una presidenta histérica" = mala escucha de "hysterical president" (deviate/Historical); provisional.
+
+### s14-sp00
+# Delicados provisionales (s14_a_splatter_00)
+- d017_m020_010#270 Kurara "can't get off?!" (doble sentido): "¿Qué, no puedes acabar solo?"
+- d021_m080_010#190 Shouma, moho en piso del baño -> moho en tapa del inodoro: "Pasé de ser moho en el piso del baño a moho en la tapa del inodoro. ¡Un gran ascenso!"
+- d021_m190_010#690 Kyoshika "Little Yugamu": "Pequeño Yugamu"
+- d021_m010_010#310 Moko "call a plumber, leak": "Que alguien llame al gásfiter, tenemos una fuga..."
+- d031_m030_010#240 "Idiot-In-Chief": "Idiota Mayor"
+- d031_m030_010#300 "Trashy Claus": "Santa Basura"
+- d031_m030_010#200 "too dumb to live, too cursed to stay dead": "demasiado tonto para vivir, demasiado maldito para quedarse muerto"
+- d041_m020_010#500 Yugamu "tort— I mean massage": "tort... digo, una sesión de masaje"
+- d042_m050_010#330 Moko "Electrochamber Elimination": "Eliminación en la Electrocámara" (como ya existía)
+- d039_m020_010#60 Hiruko "piledriver": "piledriver" (se deja)
+- d032_m020_010#50 Kyoshika, referencia a Dragon Ball: "las siete esferas que conceden deseos"
+Falsos positivos de check: ninguno (sin avisos propios).
+
+### s14-sp-a0
+d050_m010_010#40 (a0) | halfway there! Like a lizard on a chair! | ¡Como lagarto en un pasillo! (rima sin sentido)
+d075_m020_010#300-310 (aa) | Darumi quote 'The killer is human, but inhuman...' | traducido literal
+
+### s14-sp-ab
+d081 m010 #130 | Neo Strongarmor... Arm Neostrong? Jetclone Armcycle? (ref. Gintama cañón Neo Armstrong Ciclón Jet) | ¿Neo Brazofuerte... Brazo Neofuerte? ¿Ciclón Jet Ciclobrazo?
+d085 m020 #60-#230 | deer in headlights / deer ate my beans | 'ciervo encandilado' / '¿se los comió un ciervo?' / 'un ciervo me encandiló el refrigerador con sus faros y se llevó mis frijoles especiales'
+
+### s14-sp-b0
+- d050_m010_010#40: rima "halfway there! Like a lizard on a chair!" -> "a medio camino! ¡Como lagarto en un pino!" (provisional)
+- d050_m010_010#50: cita Macbeth "stepped in blood so far" -> igual que s13 (Han avanzado tanto en sangre...)
+
+### s14-sp-bb
+- d074_m010_010#740/750 (ounce/pound/pond): Kyoshika "onzas... ¿un estanque?" / Tsubasa "¡una libra!" - calco del juego de palabras en/pond-pound (provisional, español no rima: onza->libra / estanque)
+- d074_m010_010#520 "delinquent aura" -> "aura de choro" (chilenismo, provisional)
+- d078_m010_010#70 Kyoshika "pushed it from outside in / inside out": adaptado (de afuera hacia adentro / adentro hacia afuera)
+- d078_m030_010#80-100 Shouma gloom/doom: "tristeza/desgracia" (no rima, provisional)
+- d078_m010_010#200 "I resemble that comment" -> "Me siento aludida"
+- d080_m010_010#240 Kyoshika "Poison Mist ... roach spray": referencia a habilidad; "Niebla Venenosa" + insecticida para cucarachas
+- d080_m010_050#120 Shouma "rearrange my unwanted face": "háganme puré mi cara que nadie quiere"
+- d080_m010_050#100 corregir signos: ver check
+- d094_m010_030#170-200 Kyoshika "thighs as a pillow / purify my body": directo
+
+### s14-co00
+- d026_m030/m040 (010,020,030): anagrama NOSE GLASSES no funciona en español; usé "LENTES CON NARIZ" repartido en letras alternadas (Kako L,N,E,C,N,A,I; Ima E,T,S,O,N,R,Z), como la versión JP.
+- d026_m060_010: pesos en libras del EN pasados a kilos (50/55/60, como el JP); "panties" -> "calzones".
+- d021_m140_010#450: jerigonza leet de Darumi "L0 cRuZ4r3M0s CuAnD0 LLeGu3M0s Al pU3nT3."
+- d018_m030_010#280: Sirei "Juafafaj" (EN Hwafafah).
+- d038_m040_*: "Wicked Illusory Skypiercer Fang" -> "Colmillo Perforacielos Ilusorio y Maligno" (inventado, ver terms.md).
+- d038_m050_040: juego "very macho / girly girl" -> "machote" / "femenina".
+- d047_m020_010#140: "Lean, Mean, Invader-Destroying Machine" -> "Máquina Ágil, Letal y Destructora de Invasores".
+- d047_m100_010#10: "max revives" -> "Máximos Revivir".
+
+### s14-co-a0
+d050_m010_010#40/50 SIREI: 'Like a lizard on a chair' rima ampliada; 'You're stepped in blood...' (Macbeth) -> adaptado
+d054_m050_030#5000 'poop from a butt' -> 'caca de trasero' (insulto infantil)
+d056_m050_030: Kyoshika 'Forsooth, I love it' -> 'En verdad, lo amo' (lo->te en edicion); refs Naruto/HxH/Kimetsu/Jujutsu/Prince of Tennis mantenidas
+d059_m050_010#40 'Omni Surveillance Observe-O-Tronic Snoop Master X' -> 'Omni Vigilante Observa-O-Trónico Fisgón Maestro X'
+
+### s14-co-ab
+- ab_d064_m020_010#90 (Darumi "blackpilled ... going to rope"): "Se hundió en la desesperanza total y ahora se va a colgar."
+- ab_d074_m030_010 / d075-d077 Gaku yuri rant: tono "hermano", "novato"
+- ab_d093_m040_030 / abb_d099 motivation switch: "interruptor de motivación"; "sleep analyzer" = "analizador de sueño"
+- ab_d099_m060_010#70 "Jushin Liger en modo bestia demoníaca"
+- Sonido "*ding dong, bing bong*" -> "*din don, bin bon*"; "*slam*" -> "*¡pam!*"
+
+### s14-co-b0
+d058_m020_010#320 "shortest-lived app ever" -> "la app más efímera de la historia" (JP: sa-shuu, cierre de servidor)
+d058_m020_010#380 Moko hilo "Dark Sorceress story arc" -> "arco de la Hechicera Oscura"
+d058_m020_010#390 kaomoji "So scary" -> "Qué miedo"; #410 "Ok bye" -> "Ok chao"
+d058_m020_010#340 "reverse engineer it or mod it" -> "desarmarla ni modificarla"
+ba d073_m020_010 #30-#70 rap rimado (corona/zona, hermano/villano, samurái/samurái, vivo/nocivo): solucion provisional siguiendo el EN
+ba d073_m010_010 #220-#430 "Super Smartass Syndrome / Smartass Energy / Clown Energy" -> Síndrome del Súper Respondón / Energía Respondona / Energía Payasa
+ba d064_m020_010 #40 referencia Jujutsu Kaisen "Special Grade Curse / Cursed Tool" -> Maldición de Grado Especial / Instrumento Maldito
+ba d099_m030_010#20 / m020_010#80 raps de Takemaru: rima provisional (verso/reverso/regreso; micro/ritmo)
+ba d099_m050_010#250 / d086_m030_010 habla infantil de Kurara: "Otra ve' pedí mi mácara"
+baa d099_m010_010#70 chiste "mismo autito" (clown car) -> "¿Llegaron todos en el mismo autito diminuto?"
+d086_m020_010#320 el EN dice "Karua"; puesto Kurara
+
+### s14-co-bb
+d064 m050#270 Terminal Mackerel-Headitis -> Caballacefalitis Terminal; #380 canned response -> respuesta enlatada
+d066 m020#200 "Oh my cod! It's going to krill us all!" -> "¡Santo bacalao! ¡Nos va a pescar a todos!" (cringe -> "Qué cringe")
+d069 m020#40-50 spelling "mackerel" (Hiruko/Gaku) -> escribir "caballa"/anchoa y merluza (provisional)
+d070 m020#10 chub/blue mackerel -> caballas comunes/azules
+d071 m030 bonito vs caballa, "pez luna" (sunfish), "pasta de bonito" (fish paste)
+d072 m020#70 "he stole your line" (SIREI) -> te robó la frase; #50 killstreak -> racha de muertes; #260 Moko "Can you dig it?" -> ¿Lo captan?
+d073 m020#160 "fishification shrimptoms" -> "sardintomas de la pezificación" (provisional)
+d089 m010#160 Moko offishal/mussel up -> escuela de verdad / ponernos las pilas y las escamas (provisional)
+d099 m020#210 Terminal Scallop-Headitis -> Ostiocefalitis Terminal; m060#10 Fintastic -> Aletástico; m040#40 small fry/big catches -> pececillos/peces gordos
+d100 bba m010#470 Carp diem -> Carpa diem (provisional)
+
+- Unificado en s14: Leisure Lounge → Sala de Descanso (Rec Room queda como sala de recreo); Sister/Brother Dearest → queridísima hermana / queridísimo hermano; Infuser sin traducir; World Death → Muerte del Mundo.

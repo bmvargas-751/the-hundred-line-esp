@@ -1,45 +1,45 @@
 id	huella_jp	es
-10	38ded359	¡Oh, por fin volviste, Takumi!\n¡Pensé que estabas muerto y me preocupé!
-20	0e03c30f	Qué bueno, Kurara también está bien... ¿eh?\n¿Y Nozomi?
-30	0e6794a1	¡Los detalles luego!\n¡Ahora lo importante es Kurara...!
-40	09895132	N-no... déjenme.\n¡No se metan conmigo!
-50	352ea30d	¿Te heriste?\n¡Dónde, déjame ver!
-60	7cf39035	¡Dije que no!\n¡No me toquen con tanta confianza!
-70	6ba5e83e	Oye, ¿qué escondes?\nNo me digas que tú...
+10	38ded359	Por fin volviste, Takumi. ¡Todos pensamos que estabas perdido!
+20	0e03c30f	Qué alivio... y Kurara también volvió... ¿Eh? ¿Adónde fue Nozomi?
+30	0e6794a1	¡Hablamos después! ¡Primero tenemos que tratar a Kurara!
+40	09895132	Y-Yo estaré bien... ¡Déjenme en paz!
+50	352ea30d	¿Estás herida? A ver.
+60	7cf39035	¡Te dije que estoy bien! ¡No me toquen con sus manos despreciables!
+70	6ba5e83e	Esconde algo. Oye... ¿Tú...?
 90	ed1d94a7	¡No! ¡Basta!
-100	4e8ec356	O-Kurara... esto es...
-110	7af14c02	Esta marca de dientes... ¡¿te mordió un zombi?!
+100	4e8ec356	D-Doña Kurara... ¿Esto es...?
+110	7af14c02	Es una mordedura... ¡¿Te mordió un zombi?!
 120	f4a72a8b	
-130	c7b846b9	N-no... ¡¿entonces se infectó con el virus zombi?!
-140	c992eaa1	¡Esperen, Kurara no ha muerto!\n¡Si la curamos...!
-150	6b8759f4	...No sé. Aunque ahora esté bien,\n¡puede cambiar de golpe!
-160	fcbb0fd1	Perdón, pero no puede quedarse cerca.
-170	2e87ba3a	...Perdón, Oosuzuki,\n¡la Espada Sagrada Jumonji y yo opinamos igual!
-180	bab55b70	¡No puede ser...! ¡Es una compañera!
-190	e2479bf0	Claro que la curaremos.\nPero sin suero, estar juntos es...
-200	aed7a98b	Sí... para evitar riesgos, creo que conviene aislarla...
-210	e9174b73	Lo que debería aislarse en realidad es a este cerdo.\nPerdón...
-220	9d15af10	¿Qué tal esa habitación misteriosa del primer piso?\nLa puerta es resistente y se cierra con llave por fuera.
-230	bd4040fe	{fc(57e4f1)La habitación con un extraño aparato en la que nos metieron\ncuando nos trajeron del Hospital General Kamikura...}
-240	a6be03ce	{fc(57e4f1)Allí, desde luego, sería mucho mejor que una jaula.}
-250	6c805318	Entonces me quedo yo también encerrado con Oosuzuki.\nTodo empezó porque yo fui a la azotea.
-260	1f9d84c4	...No, Takumi.\nAísla solo a mí.
-270	df1f00c4	¡Pero...! Con zombis ya dentro de la escuela,\n¡dejarte sola...!
-280	bda3290c	¿Eeeh? ¿Zombis dentro de la escuela?\n¿Cómo que...? ¡Oye!
-290	d54c8d6c	En realidad...
-300	88cb0db9	{fc(57e4f1)Les expliqué todo a los demás...}
-310	d764adf6	{fc(57e4f1)Que Ima ya estaba muerto, que los zombis entraron al edificio,\ny que me separé de Nozomi y no sé dónde está.}
-320	be4510d9	Chasquido... ¡por eso me oponía!\n¡Es una situación de mierda!
-330	33d04501	...Lo de Nozomi y Kurara es mi culpa.
-340	f15132b0	Yo iré a buscar a Nozomi, me hago responsable.\n¡Cuando la encuentre, me quedaré junto a Kurara!
+130	c7b846b9	¡Esto no es gracioso, amigo...! ¡Ahora está infectada con el virus zombi!
+140	c992eaa1	¡Esperen! ¡Kurara no está muerta! Si solo tratamos su herida...
+150	6b8759f4	Por ahora, sí... Pero no puedes garantizar que se mantendrá cuerda para siempre.
+160	fcbb0fd1	Lo siento, pero no voy a dejar que se quede aquí.
+170	2e87ba3a	Con gran amargura en el corazón, debo declarar... que la Sagrada Espada Jumonji y yo estamos de acuerdo.
+180	bab55b70	¡Vamos! ¡Somos sus amigos!
+190	e2479bf0	Por supuesto que trataremos su herida... pero sin un antídoto, no podemos dejar que se quede aquí.
+200	aed7a98b	Sí... Quizás sea mejor ponerla en cuarentena para evitar riesgos innecesarios.
+210	e9174b73	Lo siento mucho... Aunque un cerdo comedor de barro como yo merece la cuarentena más que usted.
+220	9d15af10	¿La ponemos en esa sala rara del primer piso? La puerta es bastante resistente y se puede cerrar con llave desde afuera.
+230	bd4040fe	{fc(57e4f1)La sala con los extraños aparatos de cuando estábamos en el Hospital General Kamukura...}
+240	a6be03ce	{fc(57e4f1)Ese lugar sin duda es mucho mejor que una jaula.}
+250	6c805318	Déjenme ahí con ella. Es mi culpa que la mordieran, por haber corrido a la Azotea de forma tan imprudente.
+260	1f9d84c4	No, Takumi. Déjame esperar sola.
+270	df1f00c4	Pero ahora que los zombis entraron, no podemos dejarte sola...
+280	bda3290c	¡Espera, ¿los zombis están adentro ahora?! ¡No nos dijiste nada de eso!
+290	d54c8d6c	Bueno...
+300	88cb0db9	{fc(57e4f1)Les expliqué a todos lo que había pasado.}
+310	d764adf6	{fc(57e4f1)Cómo Ima ya había muerto, cómo los zombis inundaron la escuela y cómo me separé de Nozomi, que ahora estaba desaparecida.}
+320	be4510d9	¡Por eso mismo te dije que no fueras allá arriba! ¡Ahora todo se fue al diablo!
+330	33d04501	Lo sé. Lo que le pasó a Nozomi y a Kurara es culpa mía.
+340	f15132b0	Así que encontraré a Nozomi, cueste lo que cueste. Y después me uniré a Kurara en la sala de cuarentena.
 350	d7e4db31	
-360	40fadbfb	P-pero si Takumi se va también,\n¡nosotros estaremos en apuros en caso de emergencia...!
-370	6b51840e	Hmph... no se preocupen.\nYo tampoco pienso estar con Sumino.
-380	b0e6ec12	¡Si me aíslan con un pervertido así, quién sabe qué me haría!
-390	a6999a2c	Así que, entendido, llévenme ya a donde me van a encerrar.\n¡Vamos!
-400	821daf79	Kurara... ¡oye, espera!
-410	5b024b20	{fc(57e4f1)...Al final, después de curarle el brazo,\nKurara quedó encerrada sola en la "habitación misteriosa".}
-420	97b19a7d	{fc(57e4f1)Oosuzuki mantenía su actitud altiva de siempre... pero no puedo saber\ncon qué cara estaba por dentro, esa cabeza de tomate.}
-430	4161fdf4	Perdón por esto, Kurara.\nVendré a verte otra vez.
+360	40fadbfb	¡P-Pero, sin Sir Takumi, estaríamos todos en graves aprietos si algo llegara a pasar!
+370	6b51840e	Hmph... No hay de qué preocuparse. No pienso dejar que se quede conmigo.
+380	b0e6ec12	¿Quién sabe qué clase de actos perversos me obligará a hacer una vez que estemos a solas en esa sala?
+390	a6999a2c	¡Exijo que me lleven allá ahora mismo, antes de que a él se le ocurran ideas! ¡Sin perder tiempo!
+400	821daf79	¡Kurara, espera! ¡Oye!
+410	5b024b20	{fc(57e4f1)Al final, Kurara fue encerrada en la misteriosa sala del primer piso después de recibir un tratamiento básico para sus heridas.}
+420	97b19a7d	{fc(57e4f1)Siguió hablando con dureza como siempre, pero nadie sabía qué cara estaba poniendo bajo su máscara...}
+430	4161fdf4	Lamento mucho que esto tuviera que pasar, Kurara... Volveré a verte.
 440	f4a72a8b	
-450	ab03d87a	{fc(57e4f1)Comprobé el cierre de la puerta y le hablé a Kurara\na través de ella, pero no hubo respuesta.}
+450	ab03d87a	{fc(57e4f1)Le hablé a Kurara a través de la puerta mientras me aseguraba de que quedara bien cerrada con llave. No respondió ni una palabra.}

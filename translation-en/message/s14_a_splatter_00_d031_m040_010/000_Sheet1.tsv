@@ -1,41 +1,41 @@
 id	huella_jp	es
-10	7d8d3d8f	{fc(57e4f1)Fuimos al taller metalúrgico y guardamos enseguida\nel traje y la sierra eléctrica en el casillero.}
-20	ba7ff925	...Bien, parece que cabe.
-30	751d7263	Se cierra la puerta y se bloquea con 4 dígitos...\n¿Pones el número tú, líder?
-40	49d2bd9d	¿Eh? ¿Yo?\n¡Así de repente no se me ocurre!
-50	6ebcf3e7	Pon el número que le sea fácil de recordar a Sumino.\nMientras no sea demasiado simple.
-60	f28360bc	Aunque lo digas, pero...
-70	d8125a8b	{fc(57e4f1)Mientras pensaba qué hacer...\nde pronto sentí una mirada.}
+10	7d8d3d8f	{fc(57e4f1)Llevamos el traje y la sierra eléctrica al Taller de Metales y los guardamos bajo llave en uno de los casilleros.}
+20	ba7ff925	Bien, parece que caben sin problema.
+30	751d7263	Ahora solo cerramos la puerta y fijamos la combinación de cuatro dígitos. Supongo que el líder del equipo debería hacer esa parte.
+40	49d2bd9d	¿Eh? ¿Yo? ¡No se me ocurre nada así de improviso!
+50	6ebcf3e7	Elige un número que te sea fácil de recordar. Pero que no sea demasiado obvio.
+60	f28360bc	Sí, pero aun así...
+70	d8125a8b	{fc(57e4f1)Me quedé titubeando, tratando de pensar en algo... Y entonces sentí que alguien me miraba.}
 80	f4a72a8b	
-90	15a8e388	{fc(57e4f1)En un rincón de la sala,\nmis ojos se cruzaron con los de Yugamu, de pie sola.}
-100	b127e854	...Perdón, ¿puedo volver a mi cuarto?\nEl resto se los dejo a ustedes.
-110	ebc0c379	¿Eh? ¿Te duele la barriga o qué?
-120	db1a54ce	Ufufu, al ver la sierra eléctrica,\nel libido que contenía... se agranda...
-130	e14078f2	{fc(57e4f1)Ugh... ¿no será que...\nle volvió el ataque de esa vez?}
-140	82f02cec	¡Qué problema, vuelve enseguida!\n¡Cuídate!
-150	256dea9e	{fc(57e4f1)Le empujé la espalda a Yugamu con cierta fuerza\ny la hice salir de inmediato del cuarto.}
-160	0cc4ad32	{fc(57e4f1)Esa... ¿cuánta frustración tiene?}
-170	9251c4e8	Más importante, sobre el número,\nse me ocurrió uno.
-180	8ae6e1ce	¡Ah, espera! ¡No lo digas!
-190	35ae130c	Pensé que lo mejor es que el número lo sepa solo Takumi.
-200	a950f386	¿Eh... por qué?
-210	e9703085	Que cualquiera pueda abrirlo\nme parece un riesgo demasiado alto.
-220	a74dceb5	No quiero sospechar de nadie, pero...ahora no sabemos qué puede pasar.
-230	0a19f023	Si hablamos de gestionar riesgos, es lo mejor.\nLo peor es que caiga en manos del asesino.
-240	b4f848f2	Y si hay una emergencia,\nmientras el Sr. Sumino esté vivo, se arregla.
-250	9f4b268c	No puedo morir de ninguna manera...\nClaro que tampoco pienso morir.
-260	e04d3f86	{fc(57e4f1)Cerré la puerta del casillero y marqué rápido\nlos 4 dígitos que se me habían ocurrido.}
-270	86bfbf3f	{fc(57e4f1)El número que fijé era}{fc(ff635b)"6914"}{fc(57e4f1)...}
-280	f1e08ccc	{fc(57e4f1)69 es el número de días que faltan hasta el día 100.\n14 es la cantidad de nosotros.}
-290	4115878f	{fc(57e4f1)Quiero sobrevivir los 69 días restantes con los 14.\nEse era el significado del número.}
-300	2eeafd21	...Listo.
-310	80cd32c7	¡Oye, Sumino! ¡No olvides el número!\n¡Si lo olvidas, se acabó!
-320	bf93d6af	Tranquilo, estará bien.
-330	b8820a04	Kyoshika lo olvidaría enseguida.\nSiendo tonta, ni lo aprendería.
-340	e8aa57eb	Jajaja. Si escribimos el número en el casillero,\naunque lo olvide no pasa nada. ¡Fácil!
-350	14aa7dca	Kishishi... ¡hoy también actualizas lo de tonta!
-360	eb38b526	Entonces, por ahora disolvamos.
-370	af20e0eb	{fc(57e4f1)Comprobamos que el casillero quedó bien cerrado\ny salimos del taller metalúrgico.}
-380	30ddb004	{fc(57e4f1)Abriré ese casillero solo en una emergencia\nde las grandes.}
-390	1fa5ca02	{fc(57e4f1)Si se puede, quisiera llegar al día 100\nsin abrirlo jamás.}
-400	13f7bba3	Faltan 69 días...\n¡Sobrevivamos así, todos!
+90	15a8e388	{fc(57e4f1)Yugamu estaba solo en un rincón de la sala. Me miraba fijamente.}
+100	b127e854	Perdón, pero creo que me voy a mi cuarto. Les dejo el resto a ustedes.
+110	ebc0c379	¿Qué te pasa? ¿Te duele la guata o algo?
+120	db1a54ce	Ufufu... Nada de eso. Ver esa sierra eléctrica me tiene un poco acalorado, nada más...
+130	e14078f2	{fc(57e4f1)¿En serio? ¿Todavía tiene esos impulsos, incluso en un momento como este?}
+140	82f02cec	Bien, ¡descansa y que te mejores pronto! ¡Nos vemos!
+150	256dea9e	{fc(57e4f1)Casi empujé a Yugamu fuera de la sala y hacia el pasillo.}
+160	0cc4ad32	{fc(57e4f1)Lo último que necesitaba era que se pusiera "de humor", sobre todo en un espacio lleno de gente como este.}
+170	9251c4e8	En fin, se me acaba de ocurrir una combinación. ¿Qué tal si...?
+180	8ae6e1ce	¡Espera! ¡No nos la digas!
+190	35ae130c	Creo que sería mejor que solo tú la sepas, Takumi.
+200	a950f386	¿Eh? ¿Por qué?
+210	e9703085	Se pierde el sentido si cualquiera puede abrir esto.
+220	a74dceb5	No digo que el asesino pueda ser uno de nosotros ni nada, pero... Es mejor reducir los riesgos al mínimo, ¿entiendes?
+230	0a19f023	Tiene sentido desde un punto de vista lógico. Habrá menos posibilidades de que estas cosas vuelvan a caer en manos del asesino.
+240	b4f848f2	Solo tendremos que asegurarnos de que el Sr. Sumino siga con vida en caso de emergencia.
+250	9f4b268c	Claro, haré lo posible por no morir... Aunque no es que tenga costumbre de hacerlo.
+260	e04d3f86	{fc(57e4f1)Cerré la puerta del casillero e ingresé la combinación para fijar el candado.}
+270	86bfbf3f	{fc(57e4f1)El código que elegí fue }{fc(ff635b)6914}{fc(57e4f1).}
+280	f1e08ccc	{fc(57e4f1)69 por los días que faltaban para el Día 100. 14 por la cantidad de personas de nuestro grupo.}
+290	4115878f	{fc(57e4f1)Dentro de 69 días, los 14 seguiríamos con vida. Este código era como un deseo, una promesa de hacerlo realidad.}
+300	2eeafd21	Bien, listo.
+310	80cd32c7	Más te vale tener esa combinación memorizada. ¡Si la olvidas, estamos fritos!
+320	bf93d6af	Estará bien. Confíen en mí.
+330	b8820a04	Sí, no estamos hablando de Kyoshika. Cuatro dígitos probablemente sean demasiado para ella, ya no digamos recordarlos.
+340	e8aa57eb	¡Jaja! Hágame justicia, doña Kurara. ¡Si escribo el número en el casillero, no importará que lo olvide!
+350	14aa7dca	Kijijijí... Cada día estableces un nuevo récord de estupidez.
+360	eb38b526	Bien, creo que eso es todo por hoy.
+370	af20e0eb	{fc(57e4f1)Tras comprobar una vez más que el casillero estuviera asegurado, salimos todos de la sala del Taller de Metales.}
+380	30ddb004	{fc(57e4f1)Me prometí abrir ese casillero solo en caso de absoluta emergencia.}
+390	1fa5ca02	{fc(57e4f1)En un mundo perfecto, no tendría que volver a abrirlo y lo dejaríamos atrás en el Día 100.}
+400	13f7bba3	¡Faltan 69 días... Tenemos que superar esto!

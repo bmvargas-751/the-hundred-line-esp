@@ -1,45 +1,45 @@
 id	huella_jp	es
-10	bd17834a	Bien... ¿ya están todos?\n¡Entonces empiezo!
-20	eb339852	Perdón por la brusquedad, pero ¿la terminaste?
-30	a2da079a	Sí, como pude.\nEstuve ajustando hasta hace poco, así que justo a tiempo.
-40	c8975460	Creo que tiene forma, mira.
-50	824bda1d	¡E-Esto es...!\n¡El radar para buscar las 7 esferas que cumplen cualquier deseo...!
-60	5d76d6b3	No, es el {fc(ff635b)"detector de signos vitales"}.\nCuenta la cantidad de personas.
+10	bd17834a	Bien, ¿están todos aquí? ¡Entonces comencemos!
+20	eb339852	Iré directo al grano. ¿Está listo tu dispositivo?
+30	a2da079a	Listísimo. Estuve ajustándolo hasta el último minuto...
+40	c8975460	Pero creo que cumplirá bien su función. Miren.
+50	824bda1d	¡Qué hechicería tecnológica! ¿Nos llevará hasta las siete esferas que conceden deseos, desperdigadas por el planeta...?
+60	5d76d6b3	Es un {fc(ff635b)Detector de Vida Orgánica}, ¿recuerdan? Nos mostrará cuántas personas hay dentro de la escuela.
 70	1c950d21	¿Cómo funciona?
-80	263e6f3d	La función es simple.\nMide la cantidad de seres vivos en un área determinada.
-90	1cf7f32b	Fijé como área efectiva el interior del muro de llamas,\nasí que cuenta las personas que actúan allí dentro.
-100	fad8239b	Eh... ¿un cerdo vomitivo como yo\ntambién cuenta como persona...?
-110	97832e9f	Obvio. Mientras tengas actividad vital, te cuento.
-120	2b8b0019	No puede decir el lugar exacto, ¿verdad?
-140	baa2dbe0	¡Aun así es increíble!\n¿Cómo la hiciste?
-150	02b8ae82	Explicarlo es largo, así que me lo ahorro...\nEn todo caso, quiero que lo vean todos ya.
-160	ab31287f	Entonces, enciendo, ¿sí?
-170	d1c50997	¿Eh? ¿15...?
-180	10efdc35	Esperen: nosotros somos 14, ¿no?\n¡Eso significa que...
-190	a2b6bf7c	¿Uno de más...?
-200	a97affdc	...Efectivamente.\nPor más veces que lo hago, da "15".
-210	215395e5	Oye, qué siniestro.\n¿No estará dañada?
-220	b68de06f	Si está dañada, ¿le damos un golpecito de chop mongol?\nGolpeando quizás se arregle.
-230	19c4b370	Eso la haría añicos.
-240	424006bf	No: hace rato, con la ayuda de Takemaru,\nhice una verificación.
-250	de9cb9ec	Le pedí a Yakushiji que cruzara el muro de llamas en el autobús escolar,\ny entonces...
-260	4567f76a	Dicen que el número pasó a "14".\nQuiere decir que cuenta bien.
-270	279d3751	Sí. La máquina funciona bien.
-280	8d19ab05	{fc(57e4f1)O sea que...\n¿hay un intruso escondido dentro de la academia?}
-290	ed620fdc	{fc(57e4f1)Pensé si no sería aquel envuelto en llamas,\npero es demasiado distinto de una señal vital humana.}
-300	8d12c435	Esto lo confirma.\nPor algo dije que hay un asesino legendario.
-310	1379b952	Ya empezó... ¡el juego de muerte!
-320	b474dd27	Hmph, ¡qué asesino ni qué ocho cuartos! Me da rabia.\nSean invasores o humanos, ¡no tengo piedad con los enemigos!
-330	fb0cbd0c	¡Por el nombre de la familia Oosuzuki, lo mataré!
-340	9b8147b2	Uf...\nEmpiezas a sonar como un fanático del asesinato.
-350	999ebfd5	Bueno, si es autodefensa no hay remedio.\nA mí tampoco me gusta que me maten sin amor.
-360	3a741806	¡Vayamos pronto a atraparlo, plebeyos!\nA quien se luzca, yo le pago una recompensa.
-370	d03c7e40	¿E-En serio? ¡¿Dinero?!\n¡Ahora sí me motivé!
-380	25069c4a	Pero si no sirves ni para un pepino,\nte hago recitar mi poesía 100 veces.
-390	7ad97dd0	{fc(57e4f1)Es un infierno discreto...}
-400	70b5a5ca	Para buscar, ir solo es peligroso.\nDividámonos en grupos.
-410	5b8eaf40	Y si sienten peligro, huyan de inmediato.\nCuando oscurezca, suspendemos.
-420	752c23cc	¡Entendido! Yo revisaré siempre si cambia\nel número de signos vitales.
-430	3c5a39bb	{fc(57e4f1)Luego nos dividimos en grupos de 3 o 4\ny buscamos, pero...}
-440	23edee1f	{fc(57e4f1)al final, ese día no hubo ninguna pista,\ny suspendimos al caer la tarde.}
-450	be836052	{fc(57e4f1)El número del detector se quedó en "15",\ny así terminó el día...}
+80	263e6f3d	En realidad es súper simple. Detecta y cuenta cualquier forma de vida grande dentro de su rango efectivo.
+90	1cf7f32b	En este caso, ese rango es todo lo que está dentro del Muro de Fuego, así que nos mostrará cuántas personas hay actualmente en los terrenos de la escuela.
+100	fad8239b	¿Incluso registrará como persona a un montón de excremento apestoso como yo?
+110	97832e9f	Por supuesto. Mientras estés vivo, cuentas para el total.
+120	2b8b0019	Pero ¿solo muestra el total y no dónde están?
+140	baa2dbe0	¡A mí me parece genial tal como está! ¿Cómo hiciste algo tan increíble?
+150	02b8ae82	Tomaría demasiado tiempo entrar en los detalles... ¿Qué tal si mejor se los muestro en acción?
+160	ab31287f	¿Todos listos? Voy a encender el interruptor...
+170	d1c50997	¿Eh? ¿15?
+180	10efdc35	Pero somos solo 14. Eso significa que...
+190	a2b6bf7c	¿Hay uno de más?
+200	a97affdc	Sí... Ya lo probé antes y siempre marca 15.
+210	215395e5	Bien, esto me está dando escalofríos. ¿Seguro que no está roto?
+220	b68de06f	Puedo darle un rápido golpe de karate si quieres. Quizás así se arregle.
+230	19c4b370	Viniendo de usted, Srta. Mojiro, lo más probable es que lo hiciera pedazos...
+240	424006bf	De hecho, ya le pedí a Takemaru que me ayudara a probarlo.
+250	de9cb9ec	Lo mandé fuera del muro en el bus escolar y volví a revisar la lectura.
+260	4567f76a	Cuando lo hicimos, el total cambió. Bajó a 14.
+270	279d3751	En otras palabras, esta lectura es precisa.
+280	8d19ab05	{fc(57e4f1)Entonces, ¿de verdad hay alguien escondido en alguna parte de la escuela...?}
+290	ed620fdc	{fc(57e4f1)¿Podría ser el chico de Llamas Eternas el que sobra...? No, es tan distinto de una persona normal que probablemente no contaría.}
+300	8d12c435	Esto lo confirma. El legendario asesino en serie está entre nosotros. ¡Es un hecho!
+310	1379b952	Lo que significa que... ¡el juego de matar por fin ha comenzado!
+320	b474dd27	¿"Legendario"? Bah. Lo creeré cuando lo vea. Sea humano o invasor, ¡quien se meta conmigo caerá!
+330	fb0cbd0c	¡En nombre de los grandes y poderosos Oosuzuki, aniquilaré a este malhechor!
+340	9b8147b2	Santo cielo... Ya estás sonando como una maníaca del asesinato tú misma.
+350	999ebfd5	Aunque supongo que todo es en defensa propia. No puedo permitir que alguien que no los aprecia los mate a ustedes.
+360	3a741806	¡Vamos a atrapar a un asesino, plebeyos! ¡Un rescate de rey para quien haga una contribución positiva!
+370	d03c7e40	¡¿Nos vas a dar dinero?! ¡Bien, manos a la obra!
+380	25069c4a	Pero quien no produzca resultados deberá recitar 100 veces un poema de mi autoría.
+390	7ad97dd0	{fc(57e4f1)Qué castigo más tedioso...}
+400	70b5a5ca	Es demasiado peligroso que alguno de nosotros busque solo. Deberíamos separarnos en grupos.
+410	5b8eaf40	Y si se encuentran en una situación de riesgo, salgan de ahí. También pararemos cuando se ponga el sol.
+420	752c23cc	¡Entendido! Seguiré revisando las lecturas por si hay algún cambio.
+430	3c5a39bb	{fc(57e4f1)Acordamos registrar la escuela en grupos de tres o cuatro personas.}
+440	23edee1f	{fc(57e4f1)Por desgracia, ninguno logró descubrir pistas nuevas y, cuando empezó a oscurecer, dimos el día por terminado.}
+450	be836052	{fc(57e4f1)Cayó el telón sobre nuestro día 32 en la academia, con el total de signos vitales aún en un ominoso 15.}

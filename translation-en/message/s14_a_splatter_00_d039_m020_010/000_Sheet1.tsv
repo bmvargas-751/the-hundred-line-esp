@@ -1,30 +1,30 @@
 id	huella_jp	es
-10	ce0a4bcc	{fc(57e4f1)Mientras dudaba así,\nanocheció en un abrir y cerrar de ojos.}
-20	12911f7e	Haah... estoy en un callejón sin salida...
-30	62714666	{fc(57e4f1)Quizás por el cansancio, la cabeza no me gira bien.\n¿Así termina otra vez el día...?}
-40	154c1f58	{fc(57e4f1)Caminando con la cabeza ida,\nvi a Hiruko que venía de frente.}
+10	ce0a4bcc	{fc(57e4f1)Mientras seguía dándole vueltas a nuestra falta de avances, el día se fue convirtiendo en noche.}
+20	12911f7e	*Suspiro* Estamos en un callejón sin salida...
+30	62714666	{fc(57e4f1)Estaba tan cansado que me costaba pensar con claridad. A este paso, lo poco que quedaba del día se me escaparía sin más.}
+40	154c1f58	{fc(57e4f1)Caminando como un sonámbulo, vi que Hiruko venía hacia mí desde el otro lado.}
 50	bc8eb285	
-60	26c2e935	...Tienes mala cara.\n¿Moko te aplicó un piledriver?
-70	46f34742	Eso no lo sobrevive nadie.
-80	9f2cc36a	...Más bien, la verdad es que tengo un problema.
-90	0ae71af0	¿Un problema?
-100	a21e6d07	{fc(57e4f1)Es verdad: podría consultarle a Hiruko.}
-110	8ed160e3	{fc(57e4f1)Últimamente ya no me evita,\ny quizás Shizuhara tenga una buena idea.}
-120	529e2ebd	Oye, ¿me ayudas con una consulta, si no te molesta?
-130	22e9debd	Ah, no te obligo...\nPero quiero tu opinión.
-140	fed72ec8	No me molesta... ¿qué es?
-150	c7ef7004	Estos días busqué al asesino a lo loco,\npero no hay ninguna pista.
-160	ab66a8e3	Creo que hay que cambiar el método,\npero no se me ocurre qué hacer.
-170	b452070f	Ya veo...\n¿Y si salimos del muro de llamas?
-180	a305e5be	¿Eh?\nPero los signos vitales se miden dentro del muro, ¿no?
-190	45729849	¿Quieres pistas, no?\nLa información {fc(ff635b)"no necesariamente está adentro"}.
-200	77762e92	{fc(57e4f1)Las palabras de Hiruko me hicieron reaccionar.}
-210	846dc665	{fc(57e4f1)¡Hasta ahora solo me fijé en el número "15"\ny no se me ocurrió investigar fuera del muro...!}
-220	6579f0fa	Ya veo, un punto ciego.
-230	994ef6fc	Gracias.\nQué bueno haber consultado contigo, Hiruko.
-240	dfa51a80	Voy contigo.\nSi salimos del muro, conviene ir en varios.
-250	cb379060	Es verdad...\nHablaré con algunos.
-260	6e8bb9f7	¡Mañana por la mañana salimos enseguida!
-270	31a4199c	{fc(57e4f1)Tras quedar con Hiruko,\nreuní enseguida a los acompañantes de la expedición.}
-280	86ca678f	{fc(57e4f1)Mañana quizás haya algún avance.}
-290	1de56d31	{fc(57e4f1)Con la expectativa creciendo en el pecho,\nrecibí la mañana siguiente.}
+60	26c2e935	Te ves fatal. ¿Moko te aplicó un piledriver o algo así?
+70	46f34742	No creo que sobreviviera a eso...
+80	9f2cc36a	Es solo que... estoy tratando de resolver unas cosas.
+90	0ae71af0	¿Ah, sí? ¿Qué cosas?
+100	a21e6d07	{fc(57e4f1)Quizás le pida consejo a Hiruko.}
+110	8ed160e3	{fc(57e4f1)Estos días me evita menos y quizás pueda idear un plan mejor que el mío.}
+120	529e2ebd	...¿Puedo pedirte tu opinión sobre algo?
+130	22e9debd	No tienes que hacerlo si no quieres, pero creo que tu aporte sería muy útil.
+140	fed72ec8	No me molesta. ¿Qué quieres preguntarme?
+150	c7ef7004	Estos últimos días hemos buscado al asesino por todas partes y todavía no encontramos pistas nuevas.
+160	ab66a8e3	Pensaba que deberíamos abordar el problema de otra forma... Pero no tengo idea de cuál podría ser.
+170	b452070f	Mmm... ¿Y si salimos del muro?
+180	a305e5be	¿Eh? Pero el dispositivo de Tsubasa solo mide signos vitales dentro de él.
+190	45729849	Dijiste que querías pistas. Es lógico que {fc(ff635b)también se puedan descubrir cosas fuera de la escuela}, ¿no?
+200	77762e92	{fc(57e4f1)Con las palabras de Hiruko, sentí que la niebla alrededor de mi cerebro empezaba a despejarse.}
+210	846dc665	{fc(57e4f1)Había estado tan fijado en el conteo de signos vitales que ni siquiera se me había ocurrido salir de los terrenos de la escuela.}
+220	6579f0fa	Tienes razón. Fue un verdadero punto ciego.
+230	994ef6fc	Gracias, Hiruko. Sabía que pedirte ayuda era buena idea.
+240	dfa51a80	Iré contigo, si quieres. De todos modos, es más seguro ir en grupo.
+250	cb379060	Buen punto. Convenceré a algunos más.
+260	6e8bb9f7	Nos juntaremos y saldremos mañana por la mañana.
+270	31a4199c	{fc(57e4f1)Tras coordinar con Hiruko, busqué a los demás y definí quiénes más vendrían.}
+280	86ca678f	{fc(57e4f1)Esta vez las cosas serían distintas. Esta vez llegaríamos a alguna parte.}
+290	1de56d31	{fc(57e4f1)Con una nueva esperanza creciendo dentro de mí, esperé a que llegara el día siguiente.}
