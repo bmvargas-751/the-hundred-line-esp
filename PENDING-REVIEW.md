@@ -245,3 +245,5 @@ d100 bba m010#470 Carp diem -> Carpa diem (provisional)
 - EN: en esas escenas el doblaje inglés solo pone *Yes* / *No* (la acción va en la pregunta). El japonés trae la acción concreta (*殺す / 殺さない*, *出撃する / 出撃しない*).
 - ES provisional: la acción del japonés con el objeto de la pregunta en inglés (*Matarlo / No matarlo*, *Salir a la batalla / No salir a la batalla*, *Participar / No participar*). Pronombres según a quién se refiere la pregunta (*Matarlo* / *Matarla*); con SIREI y Moko se evitan los pronombres porque el género no es claro.
 - Por qué: pedido del usuario (2026-11-03) de que las cajas no digan solo Sí / No. Los avisos `inconsistente` y `largo` que salen son a propósito y están en `review/ignore.csv`.
+
+- s00 d054 m010#80 Moko: JP 無空波 (ataque inventado) / EN *Three Ring Circus* (juega con *jumping to conclusions*). ES por pedido del usuario (2026-11-03), sin calcar: *saltar a conclusiones* → *Plancha Voladora* (llave real de lucha libre). Alternativa: *Salto Mortal*.
