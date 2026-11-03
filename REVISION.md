@@ -38,7 +38,7 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 | Rutas `s12` a `s14` | 40.287 | ~0% | patrones y muestras (trato de Ima y Kyoshika) | 97 |
 | Ruta `s15` | 15.579 | — | en pausa, sin revisar | 0 |
 | Eventos y charlas | 3.848 | ~47% | patrones | 18 |
-| **Total** | **125.640** | **~5%** | | **382** |
+| **Total** | **125.640** | **~5%** | | **~413** |
 
 <!-- Cifras a 2026-11-03. "Líneas corregidas" = filas cambiadas frente a main. -->
 
@@ -49,6 +49,8 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 - Puntuación mal abierta o cerrada (`¡¿…?`, `¡Pero ¿…?`).
 - Calcos frecuentes: *realmente*, *hace sentido*, *Mi nombre es*, *Lo siento por todo*.
 - Porcentajes con espacio (*50 %* → *50%*).
+- **Cajas de texto**: la caja admite 3 renglones de ~62 caracteres (el inglés más largo mide 178 caracteres visibles). 20 líneas pasaban de 3 renglones y la última palabra quedaba fuera de la caja; se acortaron. El chequeo `caja` de `thl.py check` avisa de cualquier otra.
+- «eh...?» sin «¿» (11 líneas).
 - Trato de Ima, Kako y Kyoshika según lo anterior.
 
 ## Lo que falta

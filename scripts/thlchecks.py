@@ -122,6 +122,24 @@ def original_broken(en):
     return depth != 0
 
 
+BOX_WIDTH, BOX_LINES = 62, 3
+
+
+def box_lines(es):
+    """Renglones que ocupa un mensaje en la caja, partiendo por palabras como el motor."""
+    n = 0
+    for para in visible(es).replace("\\n", "\n").split("\n"):
+        n, cur = n + 1, 0
+        for w in para.split(" "):
+            if cur == 0:
+                cur = len(w)
+            elif cur + 1 + len(w) <= BOX_WIDTH:
+                cur += 1 + len(w)
+            else:
+                n, cur = n + 1, len(w)
+    return n
+
+
 def check_line(r):
     en, es = r["en"], r["es"]
     out = []
@@ -145,6 +163,10 @@ def check_line(r):
     le, ls = len(visible(en)), len(visible(es))
     if ls > le * 1.6 + 20:
         out.append(("largo", f"{ls} vs {le} caracteres"))
+    # Caja de diálogo (mensajes): 3 renglones de ~62 caracteres. El inglés no pasa de 3 (máximo 178 caracteres
+    # visibles); con 4 renglones la última palabra queda fuera de la caja (medido con capturas, 2026-11-03).
+    if r["key"].startswith("message/") and box_lines(es) > BOX_LINES:
+        out.append(("caja", f"{box_lines(es)} renglones (máximo {BOX_LINES}, {BOX_WIDTH} caracteres por renglón)"))
     # Solo importa si hay saltos manuales (interfaz): el renglón más largo no debe pasar al del inglés.
     # En los mensajes de historia de la versión del doblaje inglés no hay saltos manuales: el motor parte el texto solo.
     if not (td.VERSION == "en" and r["key"].startswith("message/")) and "\n" in en.strip():

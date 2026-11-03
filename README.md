@@ -17,6 +17,25 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 | | **Total** | **125.012** | **140.590** | **88,9 %** |
 <!-- /progress -->
 
+### Corrección de calidad
+
+La traducción está completa salvo la ruta `s15`, pero al jugarla las partidas posteriores tenían español poco natural. Se está corrigiendo con el método de siete pasadas de [REVISION.md](REVISION.md) (fidelidad, naturalidad, localización, gramática, género, consistencia y lectura final). Es aparte del avance de arriba:
+
+<!-- correccion -->
+| Sección | Líneas | Lectura completa | Líneas corregidas |
+|---|---:|---:|---:|
+| Primera partida | 18.294 | 0 % | 23 |
+| Rutas `s00` a `s03` | 17.061 | 13 % | 56 |
+| Rutas `s04` a `s11` | 30.571 | 2 % | 188 |
+| Rutas `s12` a `s14` | 40.287 | 0 % | 97 |
+| Ruta `s15` | 15.579 | en pausa | 0 |
+| Eventos y charlas | 3.848 | 47 % | 18 |
+| Cajas de texto (4 renglones) | 125.640 | 100 % | 20 |
+| **Total** | **125.640** | **~5 %** | **~413** |
+<!-- /correccion -->
+
+"Lectura completa" son las líneas leídas una por una; el resto pasó por barridos de errores repetidos. Detalle, decisiones de trato y lo que falta: [REVISION.md](REVISION.md).
+
 ## Instalar
 
 La traducción reemplaza el idioma **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras. También ajusta las fuentes del menú para que las letras con tilde, la ñ y los signos ¿ ¡ tengan el mismo ancho que las demás.
