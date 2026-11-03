@@ -8,6 +8,8 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 ## Avance
 
 <!-- progress: lo actualiza `python3 -I scripts/thl.py progress --readme` en cada commit -->
+**Etapa actual:** Fase 5 (Prueba y entrega), verificar que el juego arranca con el parche y que tildes, ñ y ¿¡ se ven bien (se puede probar en cualquier momento).
+
 | Fase | Sección | Traducidas | Total | % |
 |---|---|---:|---:|---:|
 | 1 | Interfaz | 14.984 | 14.984 | 100,0 % |
@@ -26,12 +28,12 @@ La traducción está completa salvo la ruta `s15`, pero al jugarla las partidas 
 |---|---:|---:|---:|
 | Primera partida | 18.294 | 0 % | 23 |
 | Rutas `s00` a `s03` | 17.061 | 100 % | ~800 |
-| Rutas `s04` a `s11` | 30.571 | 26 % | ~320 |
+| Rutas `s04` a `s11` | 30.571 | 100 % | ~1.020 |
 | Rutas `s12` a `s14` | 40.287 | 0 % | 97 |
 | Ruta `s15` | 15.579 | en pausa | 0 |
 | Eventos y charlas | 3.848 | 47 % | 18 |
 | Cajas de texto (4 renglones) | 125.640 | 100 % | 20 |
-| **Total** | **125.640** | **~21 %** | **~2.020** |
+| **Total** | **125.640** | **~39 %** | **~2.720** |
 <!-- /correccion -->
 
 "Lectura completa" son las líneas leídas una por una; el resto pasó por barridos de errores repetidos. Detalle, decisiones de trato y lo que falta: [REVISION.md](REVISION.md).

@@ -1,53 +1,53 @@
 id	huella_jp	es
-10	1aa8f121	{fc(57e4f1)...O sea que hablaba en serio.}
-20	78c9656d	{fc(57e4f1)La verdad es que ahora no se me ocurre\nninguna solución...}
-25	e3778680	{fc(57e4f1)Quizás no esté mal al menos hablarlo.}
-30	2a2629ad	{fc(57e4f1)Aunque dependiendo de este me da rabia...}
+10	1aa8f121	{fc(57e4f1)Parece que hablaba en serio.}
+20	78c9656d	{fc(57e4f1)Y la verdad es que no me acercaba a ninguna solución...}
+25	e3778680	{fc(57e4f1)Quizás no hiciera daño hablar un poco.}
+30	2a2629ad	{fc(57e4f1)Aunque la idea de pedirle ayuda a alguien como Eito me irritaba muchísimo...}
 40	248ceb4f	Está bien...
-50	9bbf0e79	{fc(57e4f1)Le conté mi preocupación a Eito.}
-53	f3243a57	{fc(57e4f1)Que decidí no revelar el pasado de Nozomi...}
-55	5899d6dd	{fc(57e4f1)y que, por eso, sospechan de Kirifuji.}
-60	3c98bc11	Vaya, ya veo...\nYo creo que es un asunto fácil.
+50	9bbf0e79	{fc(57e4f1)Le expliqué a Eito todo lo que tenía en la cabeza.}
+53	f3243a57	{fc(57e4f1)Cómo decidí no revelar el pasado de Nozomi...}
+55	5899d6dd	{fc(57e4f1)Y cómo eso hizo que todos sospecharan de ella...}
+60	3c98bc11	Ah, ya veo. Aunque a mí la solución me parece bastante simple.
 70	05fd5b47	¿A qué te refieres?
-80	e8be79e2	¿No basta con mentir?
-90	a0f14482	...¿Mentir?
-100	e4cfec30	Sí.\nPor ejemplo... a ver.
-110	e1fd52f0	¿Qué tal: "En realidad, Nozomi es una traidora del bando invasor"?
-120	2ace893e	¿Traidora del bando invasor...?
-130	73f109b2	Ella fue originalmente {fc(ff635b)"candidata a comandante invasora"},\npero la descartaron por su criptoglobina débil.
-140	cf44c109	Por lo que le hicieron entonces su memoria es borrosa...\npero solo le quedó el {fc(ff635b)"deseo de venganza"} contra quienes la desecharon.
-150	b734bfde	Y para cumplir esa venganza,\nse infiltró en el cuerpo de Defensa Especial ocultando su identidad.
-160	983a8a03	Por eso no podía hablar de su origen.\nY además su memoria era borrosa y no podía contarlo...
-170	a0bf1c53	...¿qué tal?
-180	271f840b	...Qué manera de inventar disparates sin parar.\nImpresionante.
-190	02202719	Ay, qué vergüenza que me elogies.
-200	8dc5a434	Lo digo con sarcasmo...
-210	a702f800	Además, ¿crees que todos se creerán un invento así?
-220	4899dc74	Entonces solo hay que preparar {fc(ff635b)"pruebas"}.
+80	e8be79e2	Solo tienes que mentir.
+90	a0f14482	¿Mentir...?
+100	e4cfec30	Exacto. Por ejemplo...
+110	e1fd52f0	¿Por qué no les dices que Nozomi en realidad es una invasora que se pasó a nuestro bando?
+120	2ace893e	¿Una invasora que se pasó a nuestro bando...?
+130	73f109b2	Tal vez {fc(ff635b)en un principio era candidata a comandante}, pero la marginaron por su criptoglobina débil.
+140	cf44c109	Su memoria es borrosa por los abusos que sufrió... Pero lo único que recuerda es su deseo de {fc(ff635b)vengarse} de quienes la abandonaron.
+150	b734bfde	Y para llevar a cabo esa venganza, ocultó su verdadera identidad y se infiltró en la Unidad de Defensa Especial.
+160	983a8a03	Por eso no podía revelar su pasado. O quizás no podía porque su memoria era muy incierta.
+170	a0bf1c53	Algo así debería funcionar, en todo caso.
+180	271f840b	Mentir es tu segunda naturaleza, ¿eh? Casi impresiona.
+190	02202719	Ay, basta. Me vas a hacer sonrojar.
+200	8dc5a434	Lo decía con sarcasmo...
+210	a702f800	¿De verdad crees que todos se creerían una historia armada tan a las apuradas?
+220	4899dc74	Solo tienes que preparar algunas {fc(ff635b)pruebas}.
 225	c65780a2	¿Pruebas...?
-230	93f200fe	Con el Gift-O-Matic haces un {fc(ff635b)"tatuaje adhesivo"}\ny se lo pegas en el brazo a Nozomi.
-240	f1f12a45	"¡Este tatuaje es la prueba de que era candidata a comandante!"...\ny cosas así.
-250	4808547e	¿No te parece que así todos lo creerían?
+230	93f200fe	Haz un {fc(ff635b)tatuaje temporal} o algo así en el Gift-O-Matic y pégaselo a Nozomi en el brazo.
+240	f1f12a45	Di que es la prueba de que podía ser comandante.
+250	4808547e	¿No crees que los demás se lo creerían?
 260	3745724d	Pues...
-270	d7b0b0ec	{fc(57e4f1)Es verdad, si lo preparo con tanto detalle,\nquizás todos lo crean.}
-280	5d9509e0	{fc(57e4f1)Si explico que yo lo oí antes, será más creíble.}
-290	2e47fdbe	{fc(57e4f1)Pero...}
-300	5b92cad8	...Perdón por tus ideas, Eito.\nPero lo voy a dejar.
+270	d7b0b0ec	{fc(57e4f1)Si preparaba la historia con tanto detalle, quizás se la creyeran.}
+280	5d9509e0	{fc(57e4f1)Sería aún más creíble si les decía que ella me lo había contado todo antes.}
+290	2e47fdbe	{fc(57e4f1)Por otro lado...}
+300	5b92cad8	Perdón por desperdiciar tu ingenio, Eito. Pero prefiero no mentirle a mi equipo.
 310	5bd28b70	Esta vez quiero sobrevivir con todos.
-320	e153f446	Para eso creo que hay que construir una confianza real,\nde verdad.
-330	5be75a76	Aunque sea para unir al equipo, si mentimos,\njamás conseguiremos una confianza de verdad.
-340	e69013fd	...Mmm.
-350	ed997758	Bueno, si a ti te parece bien, no importa.\nPero Takumi, déjame decirte una cosa.
-360	ec8b09de	El trabajo del líder no es ser honesto...\n¿sino guiar a todos hacia el final feliz?
-370	29f9760b	Por cualquier medio, conseguir esta vez\nun futuro de felicidad.
-380	f59e2434	¿No volviste del futuro para eso?
+320	e153f446	Para eso necesito construir una confianza real y genuina.
+330	5be75a76	Por mucho que sea para unir al equipo, no creo que se pueda ganar una confianza real mintiendo.
+340	e69013fd	Mmm...
+350	ed997758	Bueno, haz lo que te parezca. Pero déjame darte un último consejo, Takumi.
+360	ec8b09de	El trabajo de un líder no es ser honesto. Es llevar a todos a un final feliz.
+370	29f9760b	Aferrarse a un futuro feliz cueste lo que cueste...
+380	f59e2434	Por eso volviste del futuro, ¿no?
 390	f4a72a8b	
 400	3745724d	Pues...
-410	4803c754	¡Es broma!\n¿Fui un poco malo?
-420	bc4049e9	Bueno, haz lo que quieras.
-430	5f55be8d	Yo siempre te apoyo desde las sombras.\nAunque más bien desde la jaula.
-440	76243a0e	Bueno, buenas noches,\nTakumi.
-450	c7849fc4	{fc(57e4f1)Dicho eso, Eito cortó la conversación unilateralmente.}
-460	f82db233	{fc(57e4f1)Yo tampoco tenía ganas de hablar más,\ny me alejé del Patio.}
-470	7c64362a	{fc(57e4f1)"El trabajo del líder no es ser honesto...\n¿sino guiar a todos hacia el final feliz?"}
-480	952d9b71	{fc(57e4f1)Incluso después de volver a mi cuarto y meterme en la cama,\nesas palabras de Eito daban vueltas en mi cabeza...}
+410	4803c754	¡Era broma! ¿Fui demasiado malo?
+420	bc4049e9	Haz simplemente lo que quieras.
+430	5f55be8d	Te apoyaré desde las sombras. O más bien, desde aquí, en mi jaula.
+440	76243a0e	Que pases buena noche, Takumi.
+450	c7849fc4	{fc(57e4f1)Al parecer, Eito había decidido que nuestra conversación había terminado.}
+460	f82db233	{fc(57e4f1)De todos modos no tenía ganas de hablar más, así que salí del Patio.}
+470	7c64362a	{fc(57e4f1)"El trabajo de un líder no es ser honesto. Es llevar a todos a un final feliz."}
+480	952d9b71	{fc(57e4f1)Incluso después de volver a mi cuarto y meterme en la cama, las palabras de Eito seguían resonando en mi cabeza.}
