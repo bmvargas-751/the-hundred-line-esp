@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	4af11681	{fc(57e4f1)Esa tarde...}
-20	86d4be7a	{fc(57e4f1)Después de almuerzo, fuimos a la Sala de Guerra a hablar con Sirei.}
+20	86d4be7a	{fc(57e4f1)Después de almuerzo, fuimos a la Sala de Guerra a hablar con SIREI.}
 30	6e0e163f	Esta mañana no tuvimos oportunidad de hacerte soltar la sopa sobre la {fc(ff635b)verdad}...
 40	fc5b9b13	Nos lo vas a contar, ¿no?
 50	978c9a54	Cuando preguntamos ayer, dijiste que no era algo que pudieras decidir solo...
@@ -9,7 +9,7 @@ id	huella_jp	es
 80	e7c43434	Muy bien, entonces...
 90	aa8f6586	Yo digo que no hay mejor momento que el presente.
 100	e290e8d0	Adelante, cuéntanos. ¿Qué está pasando aquí?
-110	cfb9c471	{fc(57e4f1)Sirei asintió y empezó su explicación.}
+110	cfb9c471	{fc(57e4f1)SIREI asintió y empezó su explicación.}
 120	3ebc405d	{fc(57e4f1)Nada de eso era información nueva para mí, sin embargo.}
 130	70e1e3a1	{fc(57e4f1)Era lo mismo que había aprendido durante mis primeros cien días.}
 140	f6c80613	{fc(57e4f1)La Muerte del Mundo, la criptoglobina, el Proyecto Éxodo, el Satélite Artificial...}

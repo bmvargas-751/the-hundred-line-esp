@@ -3,7 +3,7 @@ id	huella_jp	es
 20	77f5f482	Bueno, entonces... ¿Qué quieres saber?
 30	8c084b88	Primero, dame lo básico de lo que pasó mientras no estuve.
 40	78217791	Muy bien. Pues, primero que nada...
-50	a007e25e	{fc(57e4f1)Le conté a Sirei los sucesos importantes que ocurrieron después de que lo destruyeron.}
+50	a007e25e	{fc(57e4f1)Le conté a SIREI los sucesos importantes que ocurrieron después de que lo destruyeron.}
 60	01f2c459	Eso es todo. ¿Puedo irme ya?
 70	1f1ebd55	Mmm... Está bien, creo que ya tengo lo básico.
 80	0832ad61	Será mejor cerrar la Morgue por ahora. No quiero que pase nada raro que perturbe los cuerpos...
@@ -44,5 +44,5 @@ id	huella_jp	es
 430	4934a655	Juafafaj... En el fondo, soy buena persona. Quiero respetar la privacidad de todos.
 440	237d2736	¡Ah, de esto sí puedo hablar! Tu relación con Karua era—
 450	43804b74	¡Bueno, ya basta! ¡No más preguntas! ¡Nos vemos!
-460	2caca9f9	{fc(57e4f1)Mientras me dirigía a la puerta, oí a Sirei gritar algo como "¡No olvides tu misión!".}
+460	2caca9f9	{fc(57e4f1)Mientras me dirigía a la puerta, oí a SIREI gritar algo como "¡No olvides tu misión!".}
 470	b81e274b	{fc(57e4f1)Pero no tenía ganas de detenerme a conversar, así que volví a mi cuarto a toda prisa.}

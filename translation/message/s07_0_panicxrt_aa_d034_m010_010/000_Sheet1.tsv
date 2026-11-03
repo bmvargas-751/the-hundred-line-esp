@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	45e67b33	Sí, me apunto.
-20	41a98b49	Te creo cuando dices que a nosotros también nos lavaron el cerebro para pelear por orden de Sirei.
+20	41a98b49	Te creo cuando dices que a nosotros también nos lavaron el cerebro para pelear por orden de SIREI.
 30	346c4c5f	¡Oh, gracias, gracias, gracias!
 40	4be3f4df	Pero ¿qué puedo hacer para ayudar?
 50	c3d8728f	¿Simplemente volver al Satélite Artificial en la cápsula de escape del segundo campus, como pediste?
@@ -13,8 +13,8 @@ id	huella_jp	es
 120	bb125dab	Está bien, no me importa hacerlo. Pero ¿por qué yo?
 130	dd8194af	¿Por qué no hablas tú mismo con ellos como hiciste conmigo?
 140	ab5e9f2c	Probablemente sea más creíble viniendo de ti, de todos modos.
-150	34e8f92d	No, sería demasiado arriesgado. No puedo seguir moviéndome a espaldas de Sirei.
-160	0e108043	Si lo hago, podría notar que algo anda mal con Nigou y descubrir mi secreto.
+150	34e8f92d	No, sería demasiado arriesgado. No puedo seguir moviéndome a espaldas de SIREI.
+160	0e108043	Si lo hago, podría notar que algo anda mal con NIGOU y descubrir mi secreto.
 170	49dc21fd	Además, hay algo más que necesito hacer mientras tanto.
 180	b85d55ea	¿Qué es?
 190	d409f421	¿Recuerdas que te dije que hay una cápsula de escape en la otra academia?
@@ -49,7 +49,7 @@ id	huella_jp	es
 480	1a6b2b0d	Cielos, ¿y eso a qué vino?
 490	857319ae	¡¿A-Acabas de decir tres días?!
 500	ddca1d41	Sé que es bastante repentino.
-510	9e78abd4	Pero es todo el tiempo que puedo mantener el control del cuerpo de Nigou.
+510	9e78abd4	Pero es todo el tiempo que puedo mantener el control del cuerpo de NIGOU.
 520	7228e679	Pasado eso, volvemos a empezar de cero y perderás tu oportunidad de escapar al Satélite Artificial.
 530	5331ad61	Así que tres días es todo lo que puedo darte. Pero puedes lograrlo: ¡creo en ti!
 540	f4a72a8b	
@@ -58,12 +58,12 @@ id	huella_jp	es
 570	1e7df911	Y si no logras convencer a nadie, irás completamente solo.
 580	c3d4522e	No querrías eso, ¿verdad?
 590	a55736ed	No, no querría.
-600	6e415564	Seguro que ya lo sabes, pero Sirei no puede enterarse de esto.
+600	6e415564	Seguro que ya lo sabes, pero SIREI no puede enterarse de esto.
 610	a7716e18	Ni de mi existencia, ni de que andas por ahí tratando de persuadir a la gente de que se vaya.
 620	e6cc12d5	Él es la encarnación de la facción promotora. Si nos atrapa...
 630	d10587cd	¡Brrrrrr!
 640	959eb5b9	Solo imaginarlo me da escalofríos.
-650	9be78395	{fc(57e4f1)Así que debo persuadir a todos en tres días sin que Sirei se entere.}
+650	9be78395	{fc(57e4f1)Así que debo persuadir a todos en tres días sin que SIREI se entere.}
 660	f4a72a8b	
 670	b401bdb3	{fc(57e4f1)Eso suena imposible.}
 680	4a9437d6	{fc(57e4f1)Pero de ninguna manera volveré solo y dejaré atrás a todos los demás.}

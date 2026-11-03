@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	f4a72a8b	
 20	ddb80e76	Eh, oye... ¿Takumi?
-30	9c8855ea	¿Qué? ¿Cuál es?
+30	9c8855ea	¿Qué? ¿Qué pasa?
 40	d06b20ed	¿Por qué usamos nuestros Infusers? ¿Y por qué lo hacemos en el Gimnasio en vez de la Sala de Entrenamiento...?
 50	40d148c8	Considéralo entrenamiento práctico. No se sabe cuándo podría haber otro ataque.
 60	b0831cd4	Y V'ehxness es más poderosa que nunca ahora: nosotros también tenemos que hacernos más fuertes.
@@ -20,7 +20,7 @@ id	huella_jp	es
 190	033aa045	¡¿"No tienes ganas"?! ¡Cuando los invasores ataquen, no tendrás opción!
 200	2bc35bb8	L-Lo sé, pero es distinto. No tenemos por qué hacer esto...
 210	5f5c220e	¡Pero necesitamos entrenar!
-220	e55f933a	¡¿Qué te pasa hoy, Takumi? Estás actuando muy raro...!
+220	e55f933a	¡¿Qué te pasa hoy, Takumi?! ¡Estás actuando muy raro...!
 230	09d4af2e	¡Estoy bien, solo haz lo que te digo! ¡Activa tu hemoánima!
 240	dd2af261	¡No quiero...!
 250	241dfaab	{fc(57e4f1)En ese momento, se oyeron pasos apresurados afuera y las puertas del Gimnasio se abrieron de golpe.}
@@ -45,7 +45,7 @@ id	huella_jp	es
 440	f5fac7e8	Sé que dijiste que detendrías tus ataques, pero asegúrate de esquivar también los nuestros, ¿okey?
 450	2d0e020e	¿Se apuntan todos? Muchísimas gracias, chicos.
 460	c89c0a36	No tienen idea de cuánto me va a ayudar esto.
-470	25a0c09f	{fc(57e4f1)No había salido tan fluido como quería, pero ahora me enfrentaba a tres Eito en un combate simulado a la vez.}
+470	25a0c09f	{fc(57e4f1)No había salido tan bien como quería, pero ahora me enfrentaba a tres Eito en un combate simulado a la vez.}
 480	bcd7cc55	{fc(57e4f1)No estaba loco. De verdad no pensaba lastimar a ninguno.}
 490	ebb7a56a	{fc(57e4f1)Eito manipulaba mi percepción para que no pudiera distinguir a ninguno de mis amigos.}
 500	76de6b56	{fc(57e4f1)Ya no podía fiarme de la vista ni del oído. Tenía demasiado control sobre ellos.}

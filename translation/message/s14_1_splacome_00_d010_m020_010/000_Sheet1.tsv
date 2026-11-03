@@ -11,10 +11,10 @@ id	huella_jp	es
 100	0531acbb	¡Seguro que la violas en tu mente todas las noches! ¡Como en alguna historieta pervertida!
 110	93717dbe	¡Yo jamás haría eso! En fin, ¿qué hacen ustedes dos aquí?
 120	92c2bbd4	Las dos insistieron en que las dejáramos unirse después de enterarse de lo de anoche.
-130	525df7f0	Perdón, pero no había forma de quedarme sentada después de saber lo que pasó con Nigou y la Penúltima Academia de Defensa.
+130	525df7f0	Perdón, pero no había forma de quedarme sentada después de saber lo que pasó con NIGOU y la Penúltima Academia de Defensa.
 140	a4e94584	Ese estúpido montón de chatarra se hizo explotar. Quiero oír sus últimas palabras.
 150	a759db54	No hay problema, pero... En realidad no sabemos si dejó últimas palabras...
-160	bbfab10d	Tenemos algo. Datos de voz de Nigou.
+160	bbfab10d	Tenemos algo. Datos de voz de NIGOU.
 170	7f535b49	¿Eh? ¿En serio?
 180	f97b9ff5	Sí. Todavía no lo abrí porque pensé que deberíamos estar todos para escucharlo...
 190	dfc6e1d5	Ah, y Darumi dijo que se lo perdería porque su presión baja le afecta el ánimo.
@@ -25,7 +25,7 @@ id	huella_jp	es
 240	6e8579e3	Los invasores han atacado la Penúltima Academia de Defensa. Y son bastantes... Deben de estar decididos a derribar este lugar.
 250	c34b9976	Por suerte, todos ustedes están en la Última Academia de Defensa. Pero es solo cuestión de tiempo para que se den cuenta de que este lugar es un simple señuelo.
 260	3d4a8a5d	Deben defender la Última Academia de Defensa a toda costa. ¡Necesito que prometan que lo harán, para mantener viva la esperanza de la humanidad!
-270	dbfc1739	A decir verdad, me preocupa cómo le irá a la Última Academia de Defensa sin el Honorable Sirei que los guíe...
+270	dbfc1739	A decir verdad, me preocupa cómo le irá a la Última Academia de Defensa sin el Honorable SIREI que los guíe...
 280	38e5b1c6	¡Pero sé que al final estarán bien! ¡Tengo plena confianza en ustedes!
 290	ee6ae10e	Ha sido un honor servir con todos ustedes. ¡Ahora vayan y cumplan su verdadera misión!
 300	e6d61cd1	Tengo una última cosa que hacer para cumplir mi función.
@@ -33,7 +33,7 @@ id	huella_jp	es
 320	45dfa87a	Aquí nos despedimos: ustedes, yo y la Penúltima Academia de Defensa... ¡Que les vaya bien!
 330	a75fa179	{fc(57e4f1)El mensaje se cortó ahí.}
 340	38971664	Es tal como pensábamos. Parece que no hay información nueva aquí.
-350	d8b95519	
+350	d8b95519	NIGOU...
 360	09354e85	¡No puedo creer que ese montón de óxido se haya autodestruido y nos deje lidiar con las consecuencias! ¡NO estoy contenta!
 370	54d5c391	Ahora que la Penúltima Academia de Defensa cayó, el enemigo concentrará todo su poder de combate en nosotros.
 380	422fae69	Ay, por amor al asesinato... Supongo que estaremos muy ocupados, entonces. Por ahora, deberíamos compartir esta información con todos.
@@ -45,7 +45,7 @@ id	huella_jp	es
 440	0cc95e1a	{fc(57e4f1)Tiene razón. Las cosas deben cambiar porque estamos creando una nueva historia.}
 450	738d7bb5	{fc(57e4f1)Lo único que importa ahora es descubrir cómo podemos mantenernos todos con vida. ¡Tengo que cambiar mi forma de pensar...!}
 460	e69aca01	Voy a guardar estos datos para que podamos compartirlos. ¡Apurémonos a informar a los demás!
-470	9a0c50b2	{fc(57e4f1)Después de reproducirle el mensaje de voz de Nigou a todos en la Cafetería, sus reacciones fueron más calmadas de lo que imaginaba.}
+470	9a0c50b2	{fc(57e4f1)Después de reproducirle el mensaje de voz de NIGOU a todos en la Cafetería, sus reacciones fueron más calmadas de lo que imaginaba.}
 480	f9e5562b	{fc(57e4f1)Supongo que ya imaginaban que había grabado algo cuando supieron que se autodestruyó.}
 490	74a338bb	{fc(57e4f1)En cambio, la discusión sobre nuestra estrategia futura fue mucho más animada... Y quedó claro lo que había que hacer.}
 500	dcee8f9e	{fc(ff635b)Debíamos entrenar duro para sobrevivir a los ataques de los invasores.}
