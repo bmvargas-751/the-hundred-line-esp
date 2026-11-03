@@ -11,7 +11,7 @@
   'message/r00_*_d000_*'  prólogo de la primera partida
   'text/*'                toda la interfaz
 
-Con --version en (antes del comando) todo trabaja sobre translation/ y table/.
+Todo trabaja sobre translation/ y table/.
 
 Cada línea de ediciones.jsonl: {"key": "...", "es": "texto nuevo", "old": "texto actual (opcional)"}.
 Con "old", la edición solo se aplica si el español actual coincide ("" si la línea está pendiente).
@@ -65,9 +65,7 @@ def cmd_export(args):
 
 
 def cmd_hecho(args):
-    """Versión 'en': marca como rehechos los archivos del patrón (todas sus líneas revisadas contra el inglés)."""
-    if td.VERSION == "jp":
-        raise SystemExit("hecho es solo para --version en")
+    """Marca como rehechos los archivos del patrón (todas sus líneas revisadas contra el inglés)."""
     names = {r["key"].split("#")[0].rsplit("/", 1)[0] for r in td.lines(args.pattern) if r["en"].strip()}
     path = td.TRANSLATION / "hecho.txt"
     have = set(path.read_text(encoding="utf-8").split("\n")) if path.exists() else set()
@@ -409,8 +407,6 @@ def cmd_table(args):
 
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("--version", "-V", choices=sorted(td.VERSIONS), default=None,
-                   help="en (base inglés, la única); también THL_VERSION")
     sub = p.add_subparsers(dest="cmd", required=True)
     e = sub.add_parser("export")
     e.add_argument("pattern")
@@ -432,8 +428,6 @@ def main():
     sub.add_parser("table")
     args = p.parse_args()
     global TABLE
-    if args.version:
-        td.set_version(args.version)
     {"export": cmd_export, "apply": cmd_apply, "diff": cmd_diff, "check": cmd_check, "progress": cmd_progress,
      "table": cmd_table, "hecho": cmd_hecho}[args.cmd](args)
 

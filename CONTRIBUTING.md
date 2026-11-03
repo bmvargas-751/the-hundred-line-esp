@@ -23,10 +23,9 @@ Cada paquete se descomprime dentro de la carpeta del juego y trae el instalador,
 Las descargas (MVGLTools, Python) se verifican contra los hashes fijados en el script. Se suben con `gh release create` / `gh release upload`.
 Antes de publicar, probar `install` y `uninstall` en Windows y en Steam Deck.
 
-## Versión de la traducción
+## Traducción
 
-Hay una sola versión: la del doblaje inglés, en `translation/`. Los comandos de `thl.py` ya la usan por defecto (`--version en` se acepta por compatibilidad).
-Un archivo cuenta como pendiente hasta que se marca rehecho con `thl.py hecho <patrón>` (tras revisar todas sus líneas contra el inglés; `export --breve` las muestra en una línea). `hecho.txt` lista los archivos hechos.
+La traducción está en `translation/` (base inglés, para el doblaje inglés). Un archivo cuenta como pendiente hasta que se marca rehecho con `thl.py hecho <patrón>` (tras revisar todas sus líneas contra el inglés; `export --breve` las muestra en una línea). `hecho.txt` lista los archivos hechos.
 Los avisos de `thl.py check` deben quedar en cero; incluye el aviso `caja` (máximo 3 renglones de ~62 caracteres). La corrección de calidad se lleva en [REVISION.md](REVISION.md).
 
 ## Estructura
@@ -39,9 +38,9 @@ scripts/thldatos.py     lectura del original y de la traducción (lo usa thl.py)
 scripts/thlchecks.py    chequeos automáticos
 scripts/extract.sh      textos originales del juego -> build/vanilla y build/jp
 scripts/generar.py      original + traducción -> build/es (lo usa build.sh)
-scripts/build.sh [jp|en]  build/es-<versión> -> dist/<versión>/*.mvgl, y app_1 con las fuentes del menú arregladas
+scripts/build.sh          build/es -> dist/mvgl/*.mvgl, y app_1 con las fuentes del menú arregladas
 scripts/thlfuente.py    rehace á é í ó ú ñ ü ¿ ¡ de las fuentes del menú con el ancho de las demás letras
-scripts/install.sh [jp|en]  instala dist/<versión>/ en el juego (sin versión, pregunta) (respalda los originales en backup/)
+scripts/install.sh          instala dist/mvgl/ en el juego (respalda los originales en backup/)
 scripts/uninstall.sh    quita la traducción restaurando los originales
 scripts/get-tools.sh    descarga MVGLToolsCLI v2.2.0 (Linux) en tools/
 scripts/installer.py    instalador multiplataforma (install, uninstall, status)

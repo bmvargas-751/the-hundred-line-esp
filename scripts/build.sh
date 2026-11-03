@@ -2,23 +2,21 @@
 # Arma los .mvgl traducidos: inglés original (build/vanilla/) + nuestra traducción (translation/).
 # Lo que falta traducir queda en inglés.
 # También arma app_1 con las fuentes del menú arregladas (scripts/thlfuente.py).
-# Uso: scripts/build.sh [en]   -> genera dist/en/*.dx11.mvgl (doblaje inglés)
+# Uso: scripts/build.sh   -> genera dist/mvgl/*.dx11.mvgl
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 CLI_DIR="$ROOT/tools/MVGLTools-v2.2.0-Linux"
 CLI="$CLI_DIR/MVGLToolsCLI"
-VERSION="${1:-en}"
-[[ "$VERSION" == "en" ]] || { echo "Uso: scripts/build.sh [en]" >&2; exit 1; }
-SRC="$ROOT/build/es-$VERSION"
-WORK="$ROOT/build/repacked-$VERSION"
-DIST="$ROOT/dist/$VERSION"
+SRC="$ROOT/build/es"
+WORK="$ROOT/build/repacked"
+DIST="$ROOT/dist/mvgl"
 ARCHIVES=(app_text01 app_steam_text01 patch_text01 patch_steam_text01)
 
 [[ -x "$CLI" ]] || "$ROOT/scripts/get-tools.sh"
 [[ -d "$ROOT/build/vanilla" && -d "$ROOT/build/unpacked/app_1" ]] || "$ROOT/scripts/extract.sh"
 
-python3 -I "$ROOT/scripts/generar.py" "$SRC" "$VERSION"
+python3 -I "$ROOT/scripts/generar.py" "$SRC"
 rm -rf "$WORK"
 mkdir -p "$DIST"
 for a in "${ARCHIVES[@]}"; do

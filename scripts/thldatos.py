@@ -7,12 +7,8 @@ from fnmatch import fnmatch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-# Una sola versión de la traducción: "en" (base inglés, doblaje inglés). La versión basada en el japonés se retiró (2026-11-03).
-## "en" (base inglés, para el doblaje inglés). Cada una tiene su carpeta.
-VERSIONS = {"en": "translation"}
-VERSION_NAMES = {"en": "Doblaje inglés"}
-VERSION = "en"
-TRANSLATION = ROOT / VERSIONS["en"]
+# Una sola traducción: translation/ (base inglés, doblaje inglés).
+TRANSLATION = ROOT / "translation"
 VANILLA = ROOT / "build" / "vanilla"  # inglés original (scripts/extract.sh)
 JAPANESE = ROOT / "build" / "jp"  # japonés original (scripts/extract.sh)
 # En orden de prioridad creciente: patch pisa a app. Los _steam traen los textos propios de la versión de PC
@@ -21,17 +17,6 @@ ARCHIVES = ("app_text01", "app_steam_text01", "patch_text01", "patch_steam_text0
 JP_ARCHIVES = ("app_text00", "app_steam_text00", "patch_text00", "patch_steam_text00")
 TEXT_COL = {"message": 2, "text": 1}  # columna con el texto visible (la misma en inglés, japonés y español)
 TSV_HEADER = ["id", "huella_jp", "es"]
-
-def set_version(version):
-    """Elige con qué traducción se trabaja: 'jp' o 'en'."""
-    global VERSION, TRANSLATION
-    if version not in VERSIONS:
-        raise SystemExit(f"Versión desconocida: {version} (usa jp o en)")
-    VERSION = version
-    TRANSLATION = ROOT / VERSIONS[version]
-
-
-set_version(os.environ.get("THL_VERSION", "en"))
 
 # Grupos de archivos de diálogo, por prefijo (descripciones sin spoilers)
 GROUPS = [
@@ -175,10 +160,10 @@ def original(rel):
 
 
 def hecho():
-    """Versión 'en': archivos ('kind/nombre') ya rehechos desde el inglés. En 'jp' no se usa."""
+    """Archivos ('kind/nombre') ya rehechos desde el inglés."""
     path = TRANSLATION / "hecho.txt"
-    if VERSION == "jp" or not path.exists():
-        return None if VERSION == "jp" else set()
+    if not path.exists():
+        return set()
     return {l.strip() for l in path.read_text(encoding="utf-8").splitlines() if l.strip() and not l.startswith("#")}
 
 

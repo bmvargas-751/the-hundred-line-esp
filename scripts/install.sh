@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 # Instala dist/*.mvgl en el juego, guardando antes los originales en backup/.
-# Uso: scripts/install.sh   (ruta del juego en THL_GAME_DIR). Doblaje inglés.
+# Uso: scripts/install.sh   (ruta del juego en THL_GAME_DIR).
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-VERSION="${1:-en}"
-[[ "$VERSION" == "en" ]] || { echo "Uso: scripts/install.sh [en]" >&2; exit 1; }
-DIST="$ROOT/dist/$VERSION"
+DIST="$ROOT/dist/mvgl"
 GAME_DIR="${THL_GAME_DIR:-/mnt/c/Steam/steamapps/common/The Hundred Line -Last Defense Academy-}"
 G="$GAME_DIR/gamedata"
 BACKUP="$ROOT/backup"
@@ -15,7 +13,7 @@ ARCHIVES=(app_text01 app_steam_text01 patch_text01 patch_steam_text01 app_1)  # 
 
 [[ -d "$G" ]] || { echo "No encuentro el juego en: $GAME_DIR (define THL_GAME_DIR)" >&2; exit 1; }
 for a in "${ARCHIVES[@]}"; do
-  [[ -f "$DIST/$a.dx11.mvgl" ]] || "$ROOT/scripts/build.sh" "$VERSION"
+  [[ -f "$DIST/$a.dx11.mvgl" ]] || "$ROOT/scripts/build.sh"
 done
 
 mkdir -p "$BACKUP"
