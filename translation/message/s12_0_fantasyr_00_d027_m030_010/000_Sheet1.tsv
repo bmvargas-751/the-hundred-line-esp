@@ -2,18 +2,18 @@ id	huella_jp	es
 10	7665db1f	{fc(57e4f1)Gracias a Darumi, me sentía un poco mejor cuando llegamos a la entrada del subsuelo.}
 20	b66eb92b	{fc(57e4f1)Entramos y empezamos a explorar el laberinto de túneles. Finalmente...}
 30	dd5ee1c6	¿Dónde estamos ahora...?
-40	5c842eb7	No estoy seguro... Siento que hemos pasado muchas veces por túneles como estos, aunque.
+40	5c842eb7	No estoy seguro... Aunque siento que ya hemos pasado muchas veces por túneles como estos.
 50	aafa25fc	No, creo que esto es un lugar nuevo. Algo es distinto...
 60	4c07568d	¡Ooh, Takumi, mira! ¡Mira, allá!
 70	cf43f7eb	{fc(57e4f1)Miré hacia donde Darumi señalaba frenética.}
-80	1ef926fc	Ese es...
-90	334ef2da	¡Es el santuario del que hablaba el libro! ¡Tiene que ser ese, ¿verdad?!
+80	1ef926fc	¡E-Ese es...!
+90	334ef2da	¡Es el santuario del que hablaba el libro! Tiene que ser ese, ¿verdad?
 100	313cc66a	Sí, parece que sí...
 110	cfa34f32	¡Yujuuu! ¡Lo encontramos! ¡A emocionarse!
 120	b37c9d7d	Ahora que estamos aquí, parece medio... normal. Es una decepción, la verdad.
 130	e189f1ec	Qué cambios de humor...
 140	056763a1	¡Esperaba más humo raro y gritos sobrecogedores y espeluznancia en general!
-150	ad6c3389	Si ESTE es el santuario del libro, significa que la bolsa con Retsnom está adentro.
+150	ad6c3389	Si este ES el santuario del libro, significa que la bolsa con Retsnom está adentro.
 160	5f6a00a3	¿Qué quieres hacer? Sé que dijimos que no la abriríamos hasta saber más, pero...
 170	f4a72a8b	
 180	6ffec08b	Arriesguémonos. No podemos permitirnos perder más tiempo.
@@ -30,14 +30,14 @@ id	huella_jp	es
 290	cea6907a	¿Q-Quién es usted? ¡¿Qué hace aquí?!
 300	a74bb90f	¡¿Es un invasor?! ¿O... es humano? ¡¿Sobrevivió de algún modo?!
 310	0e4c199c	Esos detalles no importan. Apenas recuerdo ya quién o qué soy...
-320	5ded5b1b	Más importante, ustedes dos han venido aquí buscando a Retsnom, ¿correcto?
+320	5ded5b1b	Más importante aún, ustedes dos han venido aquí buscando a Retsnom, ¿correcto?
 330	b54ffddc	¿Usted sabe de Retsnom...?
 340	5275ef17	Espere, ¿qué quiere decir con que no está aquí?
 350	fbce9a3b	Estuvo aquí, alguna vez. Pero tuve que moverlo y esconderlo en otro lugar.
 360	74b0befe	Eran demasiados los que buscaban su poder en aquel entonces...
-370	01deb7da	¡Entonces díganos dónde está ahora!
+370	01deb7da	¡Entonces dinos dónde está ahora!
 380	3dc6b5c2	...¿Por qué quieren a Retsnom ustedes dos?
-390	8c87a25c	Ay, no me digas que ahora tenemos que resolver acertijos o algo así. Qué lata...
+390	8c87a25c	Ay, no me digas que ahora tenemos que resolver acertijos o algo así. Qué fastidio...
 400	18842893	Respóndanme. ¿Por qué lo buscan?
 410	8eca73a9	Está bien, se lo sacaremos a la fuerza. ¡Golpéalo, Takumi!
 420	f4a72a8b	
@@ -46,9 +46,9 @@ id	huella_jp	es
 450	95c50ebc	Yo... los maté.
 460	5ad24e20	Mis amigos... Tuve la oportunidad de salvarlos, pero elegí dejarlos morir.
 470	3107630a	Así que... si hay una posibilidad de enmendarlo, haré lo que sea para lograrlo.
-480	b346adc1	¡Si encontramos a Retsnom, podemos traerlos de vuelta. ¡Por eso tenemos que encontrarlo!
-490	89e56ba2	¡Tengo que hacerlo... Jamás me lo perdonaré si no!
-500	47446e9c	Ah... Usted está dentro del ciclo maldito.
+480	b346adc1	¡Si encontramos a Retsnom, podemos traerlos de vuelta! ¡Por eso tenemos que encontrarlo!
+490	89e56ba2	Tengo que hacerlo... ¡Jamás me lo perdonaré si no!
+500	47446e9c	Ah... Estás dentro del ciclo maldito.
 510	265c32f6	¿El ciclo... maldito?
 520	a67dd4a4	Que aparezcan aquí y ahora, así... Quizás sea el destino.
 530	228bfe75	Muy bien, les diré dónde está Retsnom. Pero no ahora.
@@ -62,7 +62,7 @@ id	huella_jp	es
 610	ba787d77	No solo salvaje... sino impredecible. Estaba tan lejos de la comprensión humana que sellarlo fue cuestión de supervivencia.
 620	bb5b2d7c	Si el sello alguna vez se rompe y Retsnom pierde el control...
 630	1bfccb8a	Bueno, digamos que esta guerra no es nada comparada con la carnicería que desataría.
-640	15ead41e	Entonces... me distraje los últimos minutos. ¿Nos va a decir dónde está o no?
+640	15ead41e	Entonces... me distraje los últimos minutos. ¿Nos vas a decir dónde está o no?
 650	0992afa5	No nos apresuremos.
 660	52495ff5	Primero necesito saber si son lo bastante fuertes como para mantener a Retsnom bajo control.
 670	a3b7f9cf	Creo que... El Paragon del Odio aparecerá pronto ante ustedes.

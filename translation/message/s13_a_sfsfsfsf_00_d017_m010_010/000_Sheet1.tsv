@@ -6,7 +6,7 @@ id	huella_jp	es
 60	d9f7e380	¡Estén listos para dar la vida por proteger a nuestra amada escuela del vil y bárbaro enemigo!
 70	439ff653	{fc(57e4f1)Desperté de golpe. Miré a mi alrededor, intentando orientarme.}
 80	dd664c7a	¿Dónde estoy...?
-90	e503bc2f	¿No puedes darte cuenta? Es tu cuarto. En la línea temporal {fc(ff635b)SF}, eso sí.
+90	e503bc2f	¿No lo ves? Es tu cuarto. En la línea temporal {fc(ff635b)SF}, para ser exactos.
 100	e20035ae	¿{fc(ff635b)"SF"}?
 110	a4635eb6	{fc(ff635b)Steady-Fundamental}. Es en la que empezamos.
 120	cc97b678	¿Tuviste que cargarme hasta aquí otra vez...?
@@ -17,14 +17,14 @@ id	huella_jp	es
 170	f0eedda5	{fc(57e4f1)Dicho así, sí me sentí un poco culpable. Me removí incómodo y me incorporé en la cama.}
 180	6bc877ec	¿Qué pasó después de que perdí el conocimiento...?
 190	59ca5a4b	No te preocupes. Cumplimos ambos objetivos.
-200	fcf6fdf2	Cierto, imaginaba que salvamos a Hiruko II. ¿Pero y el otro...?
+200	fcf6fdf2	Claro, supuse que salvamos a Hiruko II. Pero ¿y el otro...?
 210	15665ba2	No tenemos que preocuparnos por el problema parasitario de Takumi II.
 220	694508e1	En realidad tenía dos memorias USB. NIGOU me dio una extra de repuesto.
 230	2261d461	Se la di a Hiruko II. Me revelé ante ella y le expliqué todo...
 240	22dabc7a	¿Ya sabía del bucle temporal y del salto paralelo?
 250	deecc399	No. No todas las yo de todas las líneas temporales tienen los mismos recuerdos. Solo había recuperado unos pocos fragmentos hasta entonces.
 260	037bfd97	Debió de costarle entenderlo...
-270	37b7345a	Lo manejó perfectamente. Lo sé bien.
+270	37b7345a	Se las arregló muy bien. Yo debería saberlo.
 280	04100cd9	Es una {fc(ff635b)versión pasada de mí}, después de todo. Conozco muy bien su historia.
 290	c7228a56	Incluso recuerdo lo que pasó después, desde cuando fui ella.
 300	28afca1d	Como Hiruko II, le inyecté un anestésico a Takumi II y usé el programa de reparación para tratarlo.
@@ -42,7 +42,7 @@ id	huella_jp	es
 420	85f8bfc9	¿Estos surgimientos tienen algún patrón...?
 430	8dafedee	Por desgracia, no. Todo, desde su variación hasta su longitud de onda y su regularidad, es completamente aleatorio.
 440	9af23201	Lo mismo ocurre con los períodos en que surgen y cuánto duran.
-450	4294d371	Nunca sabemos realmente con qué tratamos hasta que llegan.
+450	4294d371	Nunca sabemos con qué estamos tratando hasta que llegan.
 460	17390fd9	Tenemos suerte de que estos dispositivos siquiera nos permitan predecir el próximo surgimiento.
 470	a36fd719	Por ahora, tendrás que confiar en mí.
 480	bea5678d	¿Entonces Takumi II está bien de verdad ahora? ¿Ya no tenemos que preocuparnos por él?

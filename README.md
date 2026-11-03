@@ -29,11 +29,11 @@ La traducción está completa salvo la ruta `s15`, pero al jugarla las partidas 
 | Primera partida | 18.294 | 0 % | 23 |
 | Rutas `s00` a `s03` | 17.061 | 100 % | ~800 |
 | Rutas `s04` a `s11` | 30.571 | 100 % | ~1.020 |
-| Rutas `s12` a `s14` | 40.287 | 0 % | 97 |
+| Rutas `s12` a `s14` | 40.287 | 20 % (`s12` completa, `s13` parcial) | ~694 |
 | Ruta `s15` | 15.579 | en pausa | 0 |
 | Eventos y charlas | 3.848 | 47 % | 18 |
 | Cajas de texto (4 renglones) | 125.640 | 100 % | 20 |
-| **Total** | **125.640** | **~39 %** | **~2.720** |
+| **Total** | **125.640** | **~46 %** | **~3.320** |
 <!-- /correccion -->
 
 "Lectura completa" son las líneas leídas una por una; el resto pasó por barridos de errores repetidos. Detalle, decisiones de trato y lo que falta: [REVISION.md](REVISION.md).

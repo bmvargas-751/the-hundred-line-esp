@@ -70,7 +70,7 @@ Elegir según el contexto y el registro del personaje.
 | judía (legumbre) | frijol |
 | megafonía | altavoz |
 
-Evitar también regionalismos latinoamericanos marcados (*chido*, *bacán*, *boludo*, *wey*, *pana*).
+Evitar también regionalismos latinoamericanos marcados (*¿ya?* por «¿sí?», *fome*, *lata*, *plata*, *tomar desayuno*, *chido*, *bacán*, *boludo*, *wey*, *pana*).
 
 ## Tratamiento
 
