@@ -1,32 +1,32 @@
 id	huella_jp	es
-10	1535b9cc	Ya veo, ustedes se conocían desde hace tiempo...\nY el chico, de Hiruko, supo el nombre {fc(ff635b)"Shion"}.
+10	1535b9cc	Ya veo, así que ya se habían conocido... ¿Y Hiruko te contó que te llamaban {fc(ff635b)Shion}?
 20	0ac78119	{fc(57e4f1)Los dos asintieron.}
-30	11572a4d	Pero yo no lo sé, ¿eh?\nLa TL donde al chico le ponen {fc(ff635b)"Shion"}...
-40	353428df	Será que no lo recuerdas.\nSi no es que lo vas a vivir.
-50	166c2079	{fc(57e4f1)Shion... Shion, ¿eh...?\nDicho así, me sonó bastante natural.}
-60	290ce7df	También le conté a Shion todo sobre nosotros.\nEl bucle temporal, el PL...
-70	9901e5ba	Por eso no necesito ocultarte nada.\nSi quieres consultarme algo, dilo.
-80	0664ca97	{fc(57e4f1)Pensé: ¿algo que consultar...?}
-90	0f40ffed	Entonces dime: ¿sabes cómo salir del bucle temporal?
-100	c0847c87	Lo siento, de eso no sé nada.
-110	4b5feba0	Lo único seguro es que la causa del bucle\nestá en las habilidades de especialista de ustedes.
-120	a8712d0b	¿Y sobre "Juurinne-kou"...?
-130	c2b2e398	¿El libro que te contó un anciano en otra TL...?\nLamentablemente tampoco sé nada.
+30	11572a4d	Pero esto es nuevo para mí. ¿Por qué no sé de ninguna línea temporal donde te hayan dado {fc(ff635b)ese nombre}?
+40	353428df	Probablemente aún no las recuerdas. A menos que las vayas a vivir más adelante.
+50	166c2079	{fc(57e4f1)Shion... Tuve la vaga sensación de haberlo oído antes en alguna parte.}
+60	290ce7df	También le conté todo lo demás sobre nosotros. El bucle temporal y los saltos paralelos incluidos.
+70	9901e5ba	No hace falta que te guardes nada conmigo. Pregúntame lo que quieras; haré lo posible por ayudar.
+80	0664ca97	{fc(57e4f1)Pensé un momento. ¿Habría algo...?}
+90	0f40ffed	Sé que es una posibilidad remota, pero... ¿Tienes idea de cómo salir del bucle?
+100	c0847c87	Lo siento. No sé nada de eso...
+110	4b5feba0	Coincido en que el bucle probablemente lo causaron sus Habilidades de Especialista, pero es todo lo que puedo decir con seguridad.
+120	a8712d0b	¿Y el libro de la Metempsicosis?
+130	c2b2e398	¿El que te mencionó el anciano de la otra línea temporal? Nunca he oído hablar de él...
 140	149e5eda	Ya veo...
-150	9e3039b1	Lo siento, no pude ayudarles en nada...\nPese a decir "consúltenme lo que sea".
-160	b9c1a812	No hace falta disculparse...
-170	d90dca11	A cambio les daré una información\nque quizás les sirva.
-180	dbd978f8	¿Información...?
-190	f5065a16	Hace unos días escuché a escondidas a SIREI y NIGOU,\ny supe algo.
-200	cf67e792	Resulta que en algún lugar de esta academia hay\nun {fc(ff635b)"dispositivo de petición de rescate"}.
-210	a79df102	{fc(57e4f1)Perdón, pero me desilusioné un poco.\nPorque yo ya conocía ese aparato.}
-220	acb10bc2	{fc(57e4f1)Y seguramente Hiruko también.}
-230	7f68a423	Perdón, ese aparato ya lo conozco.\nLo vi en otra TL.
-240	9d85d884	Ah, ¿sí...?
-250	99985400	La {fc(ff635b)"TL del Misterio"}, ¿no?\nEntonces yo también lo recuerdo claramente.
-260	fd0fc8b1	Ese aparato está en una sala secreta subterránea...
-270	cf267b8b	Sí, nunca lo toqué, pero sé qué clase de aparato es.
-280	1f171a84	Una sala secreta subterránea... ¿eh?\nQue exista algo así, yo no tenía idea...
-290	07ca3d79	Es verdad. ¿Por qué no vamos ahora?
-300	d1cf096b	¿Yo también... voy?
-310	aca18df2	Claro.
+150	9e3039b1	Lo siento... Aun después de ofrecerme a ayudar, no estoy haciendo mucho, ¿verdad?
+160	b9c1a812	No te disculpes. No es culpa tuya.
+170	d90dca11	Aunque sí tengo una información que quizás les sirva.
+180	dbd978f8	¿Qué clase de información?
+190	f5065a16	Es algo que oí hace unos días mientras Sirei y Nigou hablaban...
+200	cf67e792	Resulta que en algún lugar de esta escuela hay algo llamado {fc(ff635b)Transmisor de Señal de Socorro}.
+210	a79df102	{fc(57e4f1)Bueno, qué decepción. Seguro que Shion quería ayudar, pero yo ya sabía lo del transmisor.}
+220	acb10bc2	{fc(57e4f1)Hiruko probablemente también.}
+230	7f68a423	Perdón, pero eso ya lo sabíamos. Salió en otra línea temporal.
+240	9d85d884	Ah, ya veo...
+250	99985400	Sí, la línea temporal del {fc(ff635b)Misterio}. La recuerdo claramente.
+260	fd0fc8b1	Estaba en una sala oculta del sótano...
+270	cf267b8b	Nunca lo usamos, pero al menos averiguamos para qué servía.
+280	1f171a84	¿Una sala en el sótano? Ni siquiera yo sabía de eso...
+290	07ca3d79	Oye, ¿por qué no vamos a verla ahora?
+300	d1cf096b	¿Qué, hasta yo?
+310	aca18df2	Por supuesto.
