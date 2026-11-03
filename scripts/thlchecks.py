@@ -37,45 +37,7 @@ TERMS = [
     (r"Brother Dearest", r"\b[Hh]ermanito\b|[Hh]ermano querido|\bquerido hermano", "queridísimo hermano"),
     (r"[Ss]ponsor", r"[Oo]rganizador|Alianza VS", "patrocinador / Alianza Antipatrocinador"),
 ]
-# Términos que se deciden por el japonés (GLOSSARY.md): la regla se aplica si el japonés tiene el término.
-LAT = r"(?<![A-Za-zＡ-Ｚａ-ｚ])"  # sin letra latina antes (el japonés pega las siglas a los kanji)
-JP_TERMS = [
-    (r"殿", r"\b(?:Sir|Lady|Sr\.|Srta\.|[Mm]aese) (?=[A-Z])", "don / doña + nombre de pila"),
-    (r"先生", r"\b(?:Sr\.|Srta\.|Sra\.) (?=[A-Z])", "profesor"),
-    (r"閣下", r"[Hh]onorable", "Su Excelencia"),
-    (r"サイワイの箱", r"[Bb]endici[óo]n", "Caja de la Dicha"),
-    (r"ワザワイの箱", r"[Cc]alamidad", "Caja de la Desdicha"),
-    (r"様", r"[Ss]oberan[oa]", "mi señora"),
-    (r"名簿", r"[Bb]olet[íi]n de notas|[Bb]oletas? de calificaciones", "Registro"),
-    (r"ＳＩＲＥＩ|ＮＩＧＯＵ", r"\b(?:Sirei|Nigou)\b", "SIREI / NIGOU, en mayúsculas"),
-    (r"ＴＬ", r"[Ll]íneas? (?:temporal|de tiempo)", "TL"),
-    (r"ＰＬ", r"\bMSP\b|\bPLM\b|[Ss]alto [Pp]aralelo", "PL / dispositivo PL"),
-    (r"パラレリープ", r"[Ss]alto [Pp]aralelo|\bMSP\b", "Parallel Leap"),
-    (r"リープスーツ", r"[Tt]raje de salto", "Leap Suit"),
-    (r"ブラッドスペース|ＢＳ波", r"[Ee]spacio [Ss]angriento", "Blood Space / ondas BS"),
-    (r"ＱＢリキッド", r"[Ll]íquido QB", "QB Liquid"),
-    (r"青春ＴＬ", r"[Jj]uventud|mayoría de edad|[Mm]aduraci[óo]n", "TL de la Madurez"),
-    (r"殺人鬼ＴＬ", r"Asesino(?! en [Ss]erie)", "TL del Asesino en Serie"),
-    (r"東京団地", r"\bCRT\b|\bTRC\b", "Complejo Residencial de Tokio, sin sigla"),
-    (r"特防隊", r"\bUDE\b|\bSDU\b", "Unidad de Defensa Especial, sin sigla"),
-    (LAT + r"[HＨ][PＰ]", r"\bPV\b", "HP"),
-    (LAT + r"[AＡ][PＰ]", r"\bPA\b", "AP"),
-    (r"VOLTAGE", r"[Vv]oltaje|VOLTAJE", "VOLTAGE"),
-    (r"WAVE", r"[Oo]leada|OLEADA", "WAVE"),
-    (r"Lv", r"\b[Nn]v\.|\b[Nn]iv\.|\bNivel \d", "Lv"),
-    (r"MAX", r"MÁX", "MAX"),
-    (r"ナイスDEATH", r"¡Bien!", "Nice DEATH"),
-    (r"我駆力", r"\b(?:el|del|al|nuestro|este|ese|un) hemoánima", "la hemoánima (femenino)"),
-    # Frases delicadas: siguen al inglés (revisión final, ver STYLE.md); no deben volver las formas provisorias
-    (r"∞態", r"Forma Infinita", "¡Sangre de mi vínculo, libérate! / lo que diga el inglés"),
-    (r"殺れ殺れ", r"[Vv]álgame", "como el inglés (Por el amor de la muerte...)"),
-    (r"殺ぁ", r"[Bb]uenas muertes|Matarile", "un saludo, como el inglés"),
-    (r"ガンマフィール", r"Gammafeel", "Gammaphiel"),
-    (r"死斑番号", r"[Nn]úmeros? mortuorios?", "código de livor mortis"),
-    (r"神の再臨", r"regreso de Dios", "la Segunda Venida"),
-    (r"ドルメン式", r"de estilo dolmen", "Terapia de Reconstrucción Cognitiva Dolménica"),
-]
-JP_TERMS = [(re.compile(jp), re.compile(es), fix) for jp, es, fix in JP_TERMS]
+
 TERMS = [(re.compile(en), re.compile(es), fix) for en, es, fix in TERMS]
 
 VOSOTROS = re.compile(
@@ -194,11 +156,6 @@ def check_line(r):
         m = en_rx.search(en) and rx.search(es)
         if m:
             out.append(("glosario", f"'{m.group(0)}' -> {fix}"))
-    jp = r.get("jp", "")
-    for jp_rx, rx, fix in ():
-        m = jp and jp_rx.search(jp) and rx.search(es)
-        if m:
-            out.append(("japones", f"'{m.group(0)}' -> {fix}"))
     for name, rx in (("vosotros", VOSOTROS), ("peninsular", PENINSULAR)):
         found = sorted({m.group(0).lower() for m in rx.finditer(es)})
         if found:
