@@ -4,8 +4,7 @@
   python3 installer.py uninstall   quita la traducción y restaura los archivos originales
   python3 installer.py status      muestra qué hay instalado
 
-Opciones: --version jp|en  doblaje japonés (subtítulos basados en el japonés) o inglés (basados en el inglés);
-                     si no se indica, pregunta
+Opciones: --version en  doblaje inglés (subtítulos basados en el inglés), la única versión;
           --game RUTA  carpeta del juego (si no se indica, se busca sola)
           --force      sigue aunque la versión del juego no sea la traducida
           --pause      espera un Enter al terminar (para cuando se abre con doble clic)
@@ -189,17 +188,7 @@ def read_installed():
 
 
 def choose_version(args):
-    if args.version:
-        return args.version
-    if not sys.stdin.isatty():
-        raise Fail("Indica con qué doblaje vas a jugar: --version jp (japonés) o --version en (inglés).")
-    say("¿Con qué doblaje vas a jugar?")
-    say("  1) Doblaje japonés: los subtítulos siguen el texto en japonés")
-    say("  2) Doblaje inglés: los subtítulos siguen el texto en inglés")
-    while True:
-        ans = input("Elige 1 o 2: ").strip()
-        if ans in ("1", "2"):
-            return "jp" if ans == "1" else "en"
+    return args.version or "en"
 
 
 def cmd_install(args):
@@ -299,7 +288,7 @@ def main():
             pass
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("cmd", choices=["install", "uninstall", "status"])
-    ap.add_argument("--version", choices=sorted(td.VERSIONS), help="jp: doblaje japonés; en: doblaje inglés")
+    ap.add_argument("--version", choices=sorted(td.VERSIONS), help="en: doblaje inglés (la única versión)")
     ap.add_argument("--game")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--pause", action="store_true")

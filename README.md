@@ -1,39 +1,21 @@
 # The Hundred Line -Last Defense Academy- — Traducción al español
 
-Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, con un glosario propio. Hay **dos versiones**, según el doblaje con el que juegues: una hecha desde el japonés original (con el inglés oficial como apoyo) y otra hecha desde el inglés oficial, para que los subtítulos coincidan con la voz.
+Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, con un glosario propio. Está hecha desde el **inglés oficial**, para que los subtítulos coincidan con el **doblaje inglés**; el japonés original solo se usa para resolver género, sujeto omitido y trato.
 
-> **Versión 0.4.0, en revisión.** La versión para el doblaje japonés está completa. La del doblaje inglés está en curso: ya cubre la interfaz, la primera partida (Días 0 a 100) y los eventos y charlas; faltan las rutas. Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
+> **En revisión.** La interfaz, la primera partida y los eventos están completos; las rutas se están revisando para que suenen más naturales. Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues) (sin spoilers). La versión basada en el japonés se retiró el 2026-11-03.
 > Es un proyecto de fans, sin relación con los creadores ni los editores del juego. **No incluye el juego ni sus archivos**: necesitas tu propia copia en Steam.
 
 ## Avance
 
-### Doblaje japonés
-
 <!-- progress: lo actualiza `python3 -I scripts/thl.py progress --readme` en cada commit -->
-**Etapa actual:** Fase 5 (Prueba y entrega), verificar que el juego arranca con el parche y que tildes, ñ y ¿¡ se ven bien (se puede probar en cualquier momento).
-
 | Fase | Sección | Traducidas | Total | % |
 |---|---|---:|---:|---:|
 | 1 | Interfaz | 14.984 | 14.984 | 100,0 % |
 | 2 | Primera partida | 18.293 | 18.293 | 100,0 % |
-| 3 | Partidas posteriores | 103.496 | 103.496 | 100,0 % |
+| 3 | Partidas posteriores | 87.918 | 103.496 | 84,9 % |
 | 4 | Eventos y charlas | 3.817 | 3.817 | 100,0 % |
-| | **Total** | **140.590** | **140.590** | **100,0 %** |
+| | **Total** | **125.012** | **140.590** | **88,9 %** |
 <!-- /progress -->
-
-### Doblaje inglés (en curso)
-
-La tabla de arriba es la del doblaje japonés. Esta es la del doblaje inglés, rehecha desde el inglés:
-
-| Sección | Traducidas | Total | % |
-|---|---:|---:|---:|
-| Interfaz | 14.984 | 14.984 | 100,0 % |
-| Primera partida (Días 0 a 100) | 18.293 | 18.293 | 100,0 % |
-| Eventos y charlas | 3.817 | 3.817 | 100,0 % |
-| Partidas posteriores (rutas) | 0 | 103.496 | 0,0 % |
-| **Total** | **37.094** | **140.590** | **26,4 %** |
-
-Las rutas de esa versión siguen con el texto del doblaje japonés mientras se rehacen desde el inglés, ruta por ruta.
 
 ## Instalar
 
@@ -48,10 +30,6 @@ Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada
 3. Ejecuta el instalador de esa carpeta:
    - Windows: doble clic en **`install.bat`**.
    - Linux: **`install.sh`**. En Steam Deck, en modo escritorio: clic derecho en `install.sh` > *Ejecutar en terminal* (o `./install.sh` desde una terminal).
-   El instalador te pregunta **con qué doblaje vas a jugar**:
-   - **Doblaje japonés**: los subtítulos siguen el texto en japonés (la traducción actual).
-   - **Doblaje inglés**: los subtítulos siguen el texto en inglés, para que coincidan con la voz. *En curso: la interfaz, la primera partida (Días 0 a 100) y los eventos y charlas ya siguen al inglés; las rutas todavía son iguales a las del doblaje japonés.*
-   Puedes cambiar de versión volviendo a ejecutar el instalador.
 4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
 
 El instalador tarda unos segundos. Guarda antes los archivos originales en `THL-ESP/backup/`.

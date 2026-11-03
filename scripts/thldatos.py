@@ -7,12 +7,12 @@ from fnmatch import fnmatch
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-# Dos versiones de la traducción: "jp" (base japonés, para jugar con el doblaje japonés) y
-# "en" (base inglés, para el doblaje inglés). Cada una tiene su carpeta.
-VERSIONS = {"jp": "translation", "en": "translation-en"}
-VERSION_NAMES = {"jp": "Doblaje japonés", "en": "Doblaje inglés"}
-VERSION = "jp"
-TRANSLATION = ROOT / VERSIONS["jp"]
+# Una sola versión de la traducción: "en" (base inglés, doblaje inglés). La versión basada en el japonés se retiró (2026-11-03).
+## "en" (base inglés, para el doblaje inglés). Cada una tiene su carpeta.
+VERSIONS = {"en": "translation-en"}
+VERSION_NAMES = {"en": "Doblaje inglés"}
+VERSION = "en"
+TRANSLATION = ROOT / VERSIONS["en"]
 VANILLA = ROOT / "build" / "vanilla"  # inglés original (scripts/extract.sh)
 JAPANESE = ROOT / "build" / "jp"  # japonés original (scripts/extract.sh)
 # En orden de prioridad creciente: patch pisa a app. Los _steam traen los textos propios de la versión de PC
@@ -31,7 +31,7 @@ def set_version(version):
     TRANSLATION = ROOT / VERSIONS[version]
 
 
-set_version(os.environ.get("THL_VERSION", "jp"))
+set_version(os.environ.get("THL_VERSION", "en"))
 
 # Grupos de archivos de diálogo, por prefijo (descripciones sin spoilers)
 GROUPS = [
