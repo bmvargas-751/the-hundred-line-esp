@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	125dd7a7	{fc(57e4f1)Abrí la puerta con un suspiro y me recibió una voz entusiasmada.}
-20	30bebb56	¡Takumi, ánimo! ¡Vengo a darte una invitación!
+20	30bebb56	¡Takumi, despierta! ¡Vengo a darte una invitación!
 30	0eb45311	¿Eh? ¿Una invitación?
 40	4b99bf75	Me di cuenta de algo... De algo grande...
 50	65d1d998	¿Listo para esto? Escucha. Este lugar será rarísimo, pero igual es una escuela, ¿no?
@@ -8,11 +8,11 @@ id	huella_jp	es
 70	a6dfc819	¿Algo importante? ¿Como qué?
 80	62c4be7f	¡Una competencia de natación, obvio!
 90	f4a72a8b	
-100	c228d8b6	Takumi. No podemos dejar sin llenar este vacío en nuestra educación...
+100	c228d8b6	Takumi. No podemos dejar este vacío en nuestra educación sin cubrir...
 110	66e848c3	¡Tenemos que corregirlo nosotros mismos! ¡Hagamos una competencia de natación!
 120	9705d377	{fc(57e4f1)Gaku se apuró a detenerme cuando intenté cerrarle la puerta en la cara.}
 130	8c9424d5	¡E-Espera! Es... parte de nuestra integración de equipo.
-140	74269db5	Oí la noticia de Eva. ¡Ahora es el momento justo para hacerlo, ya que tenemos un nuevo miembro, ¿no?!
+140	74269db5	Oí la noticia de Eva. ¡Ahora es el momento justo para hacerlo, ya que tenemos un nuevo miembro! ¿No?
 150	ff35757e	¡Necesitamos algún tipo de evento que nos una como equipo para reforzar el trabajo en conjunto!
 160	b364bfde	¡Vamos, hombre, esto lo hacen en las películas! ¡Todos los pilotos van a jugar a la pelota en la playa y cantan canciones de amistad!
 170	0d354e2f	¡Me preparé para esto! ¡A ti también te tengo cubierto, amigo!
@@ -22,7 +22,7 @@ id	huella_jp	es
 210	0bf8ed96	{fc(57e4f1)Con esa exigencia enérgica, Gaku se esfumó como el viento...}
 220	17690a2b	{fc(57e4f1)Lo que me había encajado era un par de bermudas de baño completamente corrientes.}
 230	9ac594b9	¿Se supone que me ponga esto y vaya a una competencia de natación?
-240	1598fdff	Ni hablar... Este no es momento de dejarnos distraer...
+240	1598fdff	Ni hablar... Este no es el momento de dejarnos distraer...
 250	f4a72a8b	
 260	0886862c	{fc(57e4f1)Pero si es por el trabajo en equipo, entonces... No puedo negar que tiene razón.}
 270	3ab27e6b	{fc(57e4f1)Pero ¿por qué una competencia de natación? ¿Cómo es eso lo que le falta a nuestra vida escolar?}

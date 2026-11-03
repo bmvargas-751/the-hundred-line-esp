@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	02f17257	{fc(57e4f1)Apenas abrí la puerta de la cafetería, oí un alboroto de voces alzadas con rabia.}
-20	607eb209	¡Confiesa: todavía me estás ocultando algo, ¿no? ¡¿Qué es lo que no me has dicho?!
+20	607eb209	¡Confiesa! Todavía me estás ocultando algo, ¿no? ¡¿Qué es lo que no me has dicho?!
 30	3edb4940	N-No, yo...
 40	f4a72a8b	
 50	5aac0de7	¡Tu silencio te condena! ¡Es lo mismo que confesar!
@@ -12,7 +12,7 @@ id	huella_jp	es
 110	01a01ae7	No es tan simple. Parece que el problema es justamente que haya guardado secretos desde el principio.
 120	0ded5105	¿Eh...?
 130	2d06fde6	Lo que más odio en el mundo son los secretos y las mentiras. Más de lo que odio a Kyoshika.
-135	68be09c7	¡¿Me odias?!
+135	68be09c7	¡Un momento! ¡¿Me odia?!
 140	cec200ea	Me traicionaste, Nozomi. Estoy muy decepcionada de ti.
 150	f4a72a8b	
 160	5771a6b1	Ya, Kurara. Ya se disculpó y dice que nos contó todo. ¿Qué más quieres de ella?
@@ -22,7 +22,7 @@ id	huella_jp	es
 200	150115b4	¡Pero esos investigadores del hospital son los que nos hicieron esto! Ella tiene que saber más de lo que dice.
 210	e7cc4b9b	Ya les dije que no tuve nada que ver con eso. Les he contado todo lo que sé.
 220	11ac558f	¿Esperas que te creamos? Si de verdad confiaras en nosotros, no lo habrías guardado en secreto tanto tiempo.
-230	d432798b	¡Y si tú no confías en nosotros, cómo vamos a confiar nosotros en ti!
+230	d432798b	¡¿Y si tú no confías en nosotros, cómo vamos a confiar en ti?!
 240	c0be10e1	¡Basta ya!
 250	f0c5796e	{fc(57e4f1)No pude contenerme más.}
 260	a845c3ee	Pelear entre nosotros solo ayuda al enemigo. Si nos desmoronamos ahora, no tendremos ninguna oportunidad de ganar.
@@ -34,7 +34,7 @@ id	huella_jp	es
 320	bb945f9d	Pero fuera de las batallas, me niego a pasar un solo minuto con ELLA. Desde este momento, para mí está muerta.
 330	f4a72a8b	
 340	a2a6140d	Ahora, si me disculpan... Creo que se me quitó el hambre.
-350	010c6d81	¡Doña Kurara, espere! ¿No podemos conversar?
+350	010c6d81	¡Lady Kurara, espere! ¿No podemos conversar?
 360	57945b0a	Perdón por arruinarles la mañana. Si alguien me busca, estaré en mi habitación.
 370	937b4553	¡Nozomi! ¡Tú tampoco!
 380	10d9cef9	{fc(57e4f1)Con la tensión todavía en el aire, las chicas de la segunda academia fueron saliendo una tras otra de la cafetería.}

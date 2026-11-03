@@ -21,8 +21,8 @@ id	huella_jp	es
 200	446bbef9	Pero, si desactivo sus funciones una por una, quizás pueda persuadirlo de enviar una señal de emergencia al Satélite Artificial...
 210	d3fd5d57	Lo ideal, eso sí, sería que SIREI cambiara de postura antes de eso y me ayudara.
 220	8e26892f	¡Ajá! ¡Tú eres el responsable de todo esto, Yugamu!
-230	e2fb66f8	Kako, no pudiste fallar tu momento de forma más espectacular.
-240	8f9f0cba	Por favor dame tus órdenes. ¿Cómo debo proceder para detenerlo?
+230	e2fb66f8	Kako, no podrías haber fallado tu momento de manera más espectacular.
+240	8f9f0cba	Por favor, deme sus órdenes. ¿Cómo debo proceder para detenerlo?
 250	946ca173	No, retírate. Más vale que te sientes a mirar.
 260	599992a2	¿Por qué intentas detenerme, de todos modos? ¿No te preocupa lo que dijo Eito?
 270	209a6d5c	¡Ni hablar! ¡Obviamente solo estaba lleno de patrañas!
@@ -43,10 +43,10 @@ id	huella_jp	es
 420	8f0d01a7	Sí, así es...
 430	145f8962	Y, si perdemos, de verdad nunca volveremos a ver a la gente que queremos.
 440	0c4bab1b	Ese es el verdadero peor escenario, ¿no?
-450	24ead544	Hasta un peor caso de ser humano como yo puede verlo.
+450	24ead544	Hasta un ser humano de lo peor como yo puede verlo.
 460	ca2a3819	Yugamu, entiendo tus frustraciones, pero tenemos que priorizar ganar esta guerra.
 470	ae54ed37	Ya viví un mal final. Por eso puedo decir esto con confianza...
-480	15fe8284	Si perdemos esta guerra, lo perdemos todo. Tan altas son las apuestas aquí.
+480	15fe8284	Si perdemos esta guerra, lo perdemos todo. Así de alto es lo que está en juego.
 490	f4a72a8b	
 500	aa1228ca	Busquemos otra forma. Todos juntos.
 510	f4a72a8b	
@@ -85,7 +85,7 @@ id	huella_jp	es
 840	575012a4	Mis decisiones se basan siempre en {fc(ff635b)lo que quiere la humanidad}.
 850	df0579e7	Pero ¿toda la humanidad...? ¿Todos?
 860	b8567e49	El destino mismo de la humanidad pende de un hilo aquí. Es necesario que consideremos debidamente las opiniones de todos los afectados.
-870	bca6555b	Además, aparte de que la misión es confidencial, no tengo tiempo de ir preguntándole a cada persona cómo se siente...
+870	bca6555b	Además, dejando de lado que la misión es confidencial, no tengo tiempo de ir preguntándole a cada persona cómo se siente...
 880	3b1a7af3	Ejecuto simulaciones para poder satisfacer {fc(ff635b)la voluntad colectiva de la especie}.
 890	8afd51f2	Sin embargo, como se imaginarán, procesar todas esas opiniones toma tiempo. Sobre todo al tomar decisiones sobre asuntos complejos.
 900	abc4aafa	Así que por eso desapareces tan seguido cuando tienes que tomar una decisión importante... Necesitas tiempo para procesarlo todo.
@@ -94,7 +94,7 @@ id	huella_jp	es
 930	ecbf55b7	Todo lo que puedo hacer es llevar a cabo las decisiones tomadas por toda la humanidad, para toda la humanidad.
 940	c1380172	Entonces dices que la razón por la que no podemos contactar al Satélite Artificial es...
 950	d536f6b9	Así es. {fc(ff635b)La voluntad de la humanidad} lo ha decretado.
-960	84575d11	¡P-Pero por qué!
+960	84575d11	¡¿P-Pero por qué?!
 970	39e7fcfb	Ya oyeron algunas de las razones, pero hay muchas otras también...
 980	56662be1	Es la opinión de toda la humanidad, después de todo.
 990	3d85ea0e	En todo caso, en aras de ganar esta guerra, no se me permite contactar al Satélite Artificial por ustedes.

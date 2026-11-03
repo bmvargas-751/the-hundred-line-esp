@@ -88,7 +88,7 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 |---|---|---|
 | さん, くん / 君 / クン, ちゃん | casi todos | se quitan: solo el nombre; el tono lo da cómo habla cada uno |
 | 先輩 | Ima, con todos | *Sr. / Srta.* + apellido (*Sr. Sumino*): su cortesía exagerada |
-| 殿 | Kyoshika, con todos | *don / doña* + nombre de pila (*don Takumi*, *doña Kako*), aunque el japonés use el apellido (澄野殿): su habla de época |
+| 殿 | Kyoshika, con todos | *Sir* / *Lady* + nombre de pila (*Sir Takumi*, *Lady Kako*), como el doblaje inglés, aunque el japonés use el apellido (澄野殿); decisión del usuario, 2026-11-03: no *don/doña* |
 | 先生 | a SIREI y NIGOU como docentes | *profesor* (*el profesor NIGOU*) |
 | 閣下 | a SIREI | *Su Excelencia* (*Su Excelencia SIREI*) |
 | 様 | los soldados a V'ehxness | *mi señora* (*mi señora V'ehxness*) |

@@ -3,7 +3,7 @@ id	huella_jp	es
 20	96c8ac2e	Ooh, apuesto a que te mueres por saberlo, ¿no?
 30	c8b389ff	¡Sí! ¡Date prisa y cuéntanos!
 40	83523c31	Justo pensaba que algunos comportamientos de SIREI cobran mucho más sentido ahora.
-50	88a2d964	Como lo obstinado que fue con que no se podía contactar con el Satélite Artificial, por ejemplo.
+50	88a2d964	Como lo obstinado que era con que no se podía contactar al Satélite Artificial, por ejemplo.
 60	491c9080	Porque... ¿si hiciéramos contacto, nos daríamos cuenta de que todos los que conocíamos no existían de verdad?
 70	d7d8729e	Exactamente.
 80	34992eb7	¡Pero de todos modos lo habríamos descubierto al volver al satélite!
@@ -16,10 +16,10 @@ id	huella_jp	es
 150	ad8bcee7	{fc(57e4f1)¿Karua... no es real?}
 160	a77d63d7	{fc(57e4f1)¿Solo existe en mis recuerdos...?}
 170	a9816c13	{fc(57e4f1)No puede ser... Si ella no es real, ¿qué hago yo aquí? ¿Para qué ha sido todo?}
-180	6ce313a9	¡P-Pero no sabemos con certeza si algo de esto es cierto... ¡No hay pruebas ni nada!
+180	6ce313a9	P-Pero no sabemos con certeza si algo de esto es cierto... ¡No hay pruebas ni nada!
 190	a55173ae	Lamento reventarte la burbuja, pero quizás yo sepa algo que también lo respalda.
 200	7cd82821	¿Qué?
-210	f5840092	Los últimos días me he encerrado en la Sala de Guerra, revisando los datos y documentos del computador central.
+210	f5840092	Los últimos días me he encerrado en la Sala de Guerra, revisando los datos y documentos de la computadora central.
 220	a04ff4cd	Pensé que, como SIREI no estaba para detenerme, esta era mi oportunidad de revisar cualquier cosa que él no querría que viera.
 230	702eb0f4	Mientras hacía eso, noté algo que me pareció... raro.
 240	3209704c	¿Qué fue?
@@ -51,7 +51,7 @@ id	huella_jp	es
 500	8948c1d4	¿Ni siquiera somos humanos? Pero tampoco somos futuranos exactamente...
 510	080a99d3	Supongo que somos más bien... ¿herramientas? ¿O armas?
 520	c3eab965	O monstruos. Criaturas creadas a partir del ADN de Shion para destruir, y nada más.
-530	72258292	¡Maldición, esto es una porquería! ¡Siento que la cabeza me va a estallar!
+530	72258292	¡Maldita sea, esto es una mierda! ¡Siento que la cabeza me va a estallar!
 540	5a29c101	Dan ganas de renunciar a la vida... salvo que ni siquiera tenemos la opción de morir.
 550	583933f2	¡Urgh...! E-Esto es demasiado...
 560	74319ef5	En ese caso... aquí solo hay una persona que es un humano de verdad.
@@ -66,7 +66,7 @@ id	huella_jp	es
 650	a62ad29b	¡Es todo mi culpa!
 660	a42514dc	{fc(57e4f1)Las palabras de angustia de Shion resonaban en mi cabeza, pero no pude decir nada.}
 670	0a5cf420	{fc(57e4f1)¿Qué podría decir en un momento así?}
-680	3e4f6392	{fc(57e4f1)Una parte de mi mente seguía repasando desesperadamente todo lo que había sabido.}
+680	3e4f6392	{fc(57e4f1)Una parte de mi mente seguía repasando desesperadamente todo lo que acababa de saber.}
 690	3627527c	{fc(57e4f1)Tenía que haber alguna contradicción ahí, algo que refutara esta historia demencial.}
 700	5927e063	{fc(57e4f1)Por eso estaba recordando mis días en el complejo residencial.}
 710	406e6300	{fc(57e4f1)Aquellos días pacíficos, todavía tan vívidos en mi mente...}

@@ -76,7 +76,7 @@ Evitar también regionalismos latinoamericanos marcados (*chido*, *bacán*, *bol
 
 - **Nombres:** como el inglés (nombre de pila casi siempre; ver [GLOSSARY.md](GLOSSARY.md)). Los honoríficos se localizan según la tabla de [GLOSSARY.md](GLOSSARY.md#cómo-se-llaman-los-personajes).
 - **Tú** por defecto entre estudiantes.
-- **Usted** solo si el personaje habla formalmente en japonés. Hoy lo usan sobre todo Ima (っす, con *Sr./Srta.*; solo a su hermana Kako le dice *tú*), Kyoshika (でござる, con *don/doña*) y Ginzaki (です/ます con todos); NIGOU y Eva, a veces (verificar contra el japonés caso por caso). Kako habla casual con todos.
+- **Usted** solo si el personaje habla formalmente en japonés. Hoy lo usan sobre todo Ima (っす, con *Sr./Srta.*; solo a su hermana Kako le dice *tú*), Kyoshika (でござる, con *Sir/Lady*) y Ginzaki (です/ます con todos); NIGOU y Eva, a veces (verificar contra el japonés caso por caso). Kako habla casual con todos.
   Mantener el mismo tratamiento entre dos personajes durante todo el juego.
 - **Ustedes** para el plural, siempre.
 - **Cursos:** 高校 = *preparatoria* (*último año de preparatoria*, 高校３年), 中学 = *secundaria* (*tercero de secundaria*).
@@ -103,8 +103,8 @@ Risas fijas, como el inglés: SIREI *Juafafafaj* (ちゅふふ), NIGOU *Juofofof
 
 ### Estudiantes de la Penúltima Academia
 
-- **NIGOU:** habla casual como SIREI (*tú*, *Takumi*); le dice *Su Excelencia SIREI* a SIREI.
-- **Kyoshika:** *usted* con todos y *don/doña* + nombre (*doña Kurara*, *doña Nozomi*); a veces habla de sí misma por el nombre. Mezcla referencias de manga y ninjas con su habla de época. Sin la muletilla なんともにんとも ni el にんにん, como el inglés, salvo el grito *¡Nin, nin, niiin!* del Día 28, que el inglés mantiene.
+- **NIGOU:** habla casual como SIREI (*tú*, *Takumi*); le dice *Su Excelencia SIREI* a SIREI. Regla general (decisión del usuario, 2026-11-03): tú o usted **según con quién habla**; si trata de usted a alguien es porque le tiene más respeto.
+- **Kyoshika:** *usted* con todos y *Sir/Lady* + nombre (*Lady Kurara*, *Sir Takumi*; hombres *Sir*, mujeres *Lady*); a veces habla de sí misma por el nombre. Mezcla referencias de manga y ninjas con su habla de época. Sin la muletilla なんともにんとも ni el にんにん, como el inglés, salvo el grito *¡Nin, nin, niiin!* del Día 28, que el inglés mantiene.
 - **Kurara:** *tú*, insultos constantes (*plebeyo*, *pobretón*, *Inclina la cabeza, idiota*).
 - **Yugamu:** *tú*, *Takumi*; cambia *hacer* por *matar* en sus frases (殺る). Sus muletillas siguen al inglés de cada línea: 殺れ殺れ suele ser *Por amor al asesinato...* (*For the love of murder*); 殺ぁ, un saludo común (*Hola, Sumino*); 殺っかい y 殺っぱり, lo que diga el inglés (*de muerte*, *Como era de esperar*).
 - **Nozomi:** *tú*, *Takumi*; a Moko le dice *Moko*.

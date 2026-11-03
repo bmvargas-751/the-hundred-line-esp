@@ -4,7 +4,7 @@ id	huella_jp	es
 30	f4a72a8b	
 40	545b7b62	{fc(57e4f1)Eva estaba sentada aparte del resto del grupo. Nadie hablaba, pero era evidente que la vigilaban con recelo.}
 50	f4a72a8b	
-60	5efa8bf2	¿Qué pasa, todos? ¿Por qué esas caras largas?
+60	5efa8bf2	¿Qué les pasa a todos? ¿Por qué esas caras largas?
 70	1b82150b	Sé que estamos en una situación extrema, pero eso no significa que no podamos relajarnos en nuestro tiempo libre.
 80	15d43722	¿Cómo vamos a relajarnos si tenemos que compartir el espacio con el enemigo?
 90	4d01c843	¿Hay un enemigo aquí? ¿Dónde? ¡Lo mataré de inmediato!
@@ -13,8 +13,8 @@ id	huella_jp	es
 120	13e44901	Sí. Les pertenezco. Úsenme como deseen.
 130	ddf13d2f	B-Bueno, si insisten... O sea, si harás CUALQUIER cosa, entonces...
 140	f0a0438f	Ten muuucho cuidado con lo que digas a continuación, Gaku.
-150	dfa4c9f0	Yo estoy con ellas en esto. Quién sabe cuándo podría romperse y volverse contra nosotros...
-160	a24c5f4c	¿Podrías contarnos por qué quieres luchar por nosotros? ¿Cómo exactamente "persuadió" SIREI a que te unieras a nuestro bando?
+150	dfa4c9f0	Yo estoy con ellas en esto. Quién sabe cuándo podría perder el control y volverse contra nosotros...
+160	a24c5f4c	¿Podría contarnos por qué quiere luchar por nosotros? ¿Cómo la "persuadió" exactamente SIREI para que se uniera a nuestro bando?
 170	f4a72a8b	
 180	3547901e	No lo sé.
 190	0a2670df	¿Eh? ¿Cómo que no lo sabes? Fue decisión TUYA, ¿no?
@@ -23,18 +23,18 @@ id	huella_jp	es
 220	1654a97b	T-Todo lo que necesitan saber es que la señorita Eva es completamente leal a nosotros. ¡Tanto Su Excelencia SIREI como yo podemos garantizarlo!
 230	61d839b0	¿Dónde ESTÁ SIREI hoy? Preferiría oírlo de él.
 240	62a945dd	Está... eh, indispuesto. Tiene una reunión importante a la que asistir.
-250	2f79f634	¿Una reunión? ¿Te refieres a con la gente del satélite...?
+250	2f79f634	¿Una reunión? ¿Te refieres a la gente del satélite...?
 260	1bf844a0	Yo mismo no sé mucho al respecto, pero parece que está presentando un informe parcial de nuestro progreso hasta ahora.
 270	dbf6445a	Ojalá les diga que nos manden más soldados...
-280	2975fb9a	¿Y si pide que podamos hablar con nuestras familias? Aunque sea un ratito...
+280	2975fb9a	¿Y si pide permiso para que hablemos con nuestras familias? Aunque sea un ratito...
 290	9694d90c	Me temo que eso no será posible. No podemos arriesgarnos a filtrar información delicada sobre la guerra.
-300	f9b16a7b	En cuanto a pedir refuerzos, también está fuera de discusión. Los 15 que enviamos aquí son los únicos que pueden usar hemoánima.
+300	f9b16a7b	En cuanto a pedir refuerzos, también está fuera de discusión. Los 15 que enviamos aquí son los únicos que pueden usar la hemoánima.
 310	0649f98e	¡Por eso la señorita Eva es una adquisición tan valiosa para nosotros! Sus poderes serán tan eficaces contra el enemigo como los suyos.
 320	86eb7290	¿E-Están seguros de que está bien hacer eso? ¿No eran antes amigos suyos...?
 330	3f2f2f1c	Ahora son mis enemigos. Los mataré.
 340	4228fa1e	Me parece bien. Y como ahora estás de nuestro lado, quizás puedas contarnos más sobre los invasores.
 350	f7a7ca11	Oye, no es mala idea. Tengo tantas preguntas.
-360	b6c9e537	Para empezar, ¿por qué pueden los comandantes usar hemoánima? ¿Qué es exactamente este poder?
+360	b6c9e537	Para empezar, ¿por qué ustedes, los comandantes, pueden usar la hemoánima? ¿Qué es exactamente este poder?
 370	4cd50db3	¿Y qué son ustedes, de todos modos? ¿De verdad son algo engendrado por la Muerte del Mundo?
 380	46df6d55	Y si es así... ¿Por qué se ven igualitos a los humanos? ¿Por qué intentan aniquilarnos?
 390	f4a72a8b	
@@ -43,11 +43,11 @@ id	huella_jp	es
 420	fb80b531	¿Eh...?
 430	4bed121a	No sé... nada de eso. No puedo responder sus preguntas.
 440	b4725c6f	Lo siento... Yo... no sé...
-450	32e5da73	Eva... Estás llorando. ¿Q-Qué pasa?
-460	df7eb45d	No lo sé... No lo sé... nada.
+450	32e5da73	Eva... Está llorando. ¿Q-Qué pasa?
+460	df7eb45d	No lo sé... No sé... nada.
 470	027c4a91	No puedo decirles nada... No sé nada... Lo siento...
 480	3e43029a	¿Qué demonios está pasando aquí? ¡¿Qué te HIZO ese desgraciado de SIREI?!
-490	ae946f91	P-Parece que la señorita Eva está un poco descompuesta. Adaptarse a un entorno nuevo puede ser estresante, sabe.
+490	ae946f91	P-Parece que la señorita Eva está un poco alterada. Adaptarse a un entorno nuevo puede ser estresante, ¿saben?
 500	3bf69f7c	¡Dejémosla tranquila por ahora! Vamos, señorita Eva.
 510	4b0f1df7	{fc(57e4f1)Cortando la conversación, NIGOU se alejó a toda prisa, con Eva siguiéndolo dócilmente.}
 520	e4b73fa2	{fc(57e4f1)Los demás terminamos el desayuno, todavía incómodos y tensos, antes de volver a nuestras habitaciones.}

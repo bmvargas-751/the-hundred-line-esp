@@ -32,13 +32,13 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 | Sección | Líneas | Lectura completa | Cobertura del resto | Líneas corregidas |
 |---|---:|---:|---|---:|
 | Primera partida (`r00`) | 18.294 | 0% | patrones y muestras | 23 |
-| Ruta `s00` | 14.835 | 0% | patrones y muestras | 9 |
+| Ruta `s00` | 14.835 | 100% | — | ~706 |
 | Rutas `s01` a `s03` | 2.226 | 100% | — | 47 |
 | Rutas `s04` a `s11` | 30.571 | ~2% | patrones y muestras | 188 |
 | Rutas `s12` a `s14` | 40.287 | ~0% | patrones y muestras (trato de Ima y Kyoshika) | 97 |
 | Ruta `s15` | 15.579 | — | en pausa, sin revisar | 0 |
 | Eventos y charlas | 3.848 | ~47% | patrones | 18 |
-| **Total** | **125.640** | **~5%** | | **~413** |
+| **Total** | **125.640** | **~17%** | | **~1.110** |
 
 <!-- Cifras a 2026-11-03. "Líneas corregidas" = filas cambiadas frente a main. -->
 
@@ -55,7 +55,7 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 
 ## Lo que falta
 
-1. **Lectura completa** de `r00` y `s00` (unas 33.000 líneas), por tandas de días.
+1. **Lectura completa** de `r00` (18.294 líneas), por tandas de días. `s00` ya está leída completa.
 2. Lectura completa de `s13` y `s14`, las más largas.
 3. Resolver las dudas que dejaron los barridos:
    - Ima con *tú* hacia personajes que no son Kako, donde aún no se confirmó el destinatario (unas 15 líneas en `s08`, `s09` y `s11`).
