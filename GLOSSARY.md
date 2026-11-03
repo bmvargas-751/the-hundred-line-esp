@@ -322,7 +322,7 @@ Siglas comunes, en español: **ADN**, **IA**, **OVNI**.
 | Mejoras de la tienda: X 取得 / 【X】が使用可能になる / 使用回数 | Learn X / Unlock X / Max Uses | *Obtener X* / *X disponible* / *Usos* | ✅ |
 | 命の灯火 / ねがいの残響 / 絆の力 | Life Rekindled / Will Entrusted / Power of Friendship | Vida reavivada / Voluntad encomendada / Poder de la amistad | ✅ criterio 2 |
 | Pisos y lugares del mapa (１階・廊下, １階・北側男子トイレ, 屋上) | 1F Hallway | *Pasillo P1*, *Pasillo P1 (este)*, *Baño de hombres P1 (norte)*, *Azotea*; en la otra escuela, *Penúltima Academia - X* | ✅ |
-| Etiquetas de quien habla con apellido en japonés (澄野Ⅱ, 雫原？, 厄師寺＆銀崎) | Takumi II, Hiruko?, Takemaru & Shouma | Como el japonés: *Sumino II*, *¿Shizuhara?*, *Yakushiji y Ginzaki* | ✅ |
+| Etiquetas de quien habla que el japonés escribe con apellido (澄野Ⅱ, 雫原？, 厄師寺＆銀崎) | Takumi II, Hiruko?, Takemaru & Shouma | Como el inglés, con nombre de pila: *Takumi II*, *¿Hiruko?*, *Takemaru y Shouma* | ✅ |
 | Títulos de la galería de finales | 001: X Route: Y | *001 Ruta X: Y*, con la ruta igual que en la lista de rutas y el título traducido del japonés (los juegos de palabras, rehechos en español) | ✅ |
 | 真相解明編 (ruta) | Last Defense Academy 2nd Scenario | *Segundo escenario de Hundred Line* | ✅ |
 | Perfiles | 168 cm (5' 6") / April 16 | *168 cm*, *16 de abril* (sin unidades imperiales, como el japonés) | ✅ |

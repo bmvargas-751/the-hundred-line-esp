@@ -1093,3 +1093,5 @@ inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13
 inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bbbb_d098_m020_010_02_0010,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
 inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bbbb_d098_m020_010_02_0020,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
 largo,text/event_decideselect_message/000_event_decideselect_message#s13_A_SFsfSFsf_Bab_d099_m030_010_02_0020,opción concreta: cabe en la caja (el inglés solo dice Yes/No; hay opciones de 38 caracteres)
+ancho,text/field_chapter_detail/000_field_chapter_detail#15804720,opción concreta: repite el texto de la decisión; el inglés solo dice Yes / No
+ancho,text/field_chapter_detail/000_field_chapter_detail#6110020,opción concreta: repite el texto de la decisión; el inglés solo dice Yes / No
