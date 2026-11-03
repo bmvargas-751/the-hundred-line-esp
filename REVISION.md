@@ -35,10 +35,10 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 | Ruta `s00` | 14.835 | 100% | — | ~706 |
 | Rutas `s01` a `s03` | 2.226 | 100% | — | 47 |
 | Rutas `s04` a `s11` | 30.571 | 100% | — | ~1.020 |
-| Rutas `s12` a `s14` | 40.287 | ~0% | patrones y muestras (trato de Ima y Kyoshika) | 97 |
+| Rutas `s12` a `s14` | 40.287 | ~20% (`s12` completa; `s13` hasta ~2.500 de 17.400 líneas) | patrones y muestras (trato de Ima y Kyoshika) | ~694 |
 | Ruta `s15` | 15.579 | — | en pausa, sin revisar | 0 |
 | Eventos y charlas | 3.848 | ~47% | patrones | 18 |
-| **Total** | **125.640** | **~39%** | | **~2.720** |
+| **Total** | **125.640** | **~46%** | | **~3.320** |
 
 <!-- Cifras a 2026-11-03. "Líneas corregidas" = filas cambiadas frente a main. -->
 

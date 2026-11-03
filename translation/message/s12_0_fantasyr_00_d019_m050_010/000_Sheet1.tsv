@@ -18,15 +18,15 @@ id	huella_jp	es
 170	3be38fe2	Espera un momento. No sabemos si eso es realmente lo que describe.
 180	d553c191	Claro, las imágenes parecen bastante claras, pero seguimos sin poder leer el texto...
 190	a08975c2	Aw, aguafiestas.
-200	56149a33	Y aunque ESTO sea un ritual de resurrección, no sabemos si es real.
+200	56149a33	Y aunque esto SEA un ritual de resurrección, no sabemos si es real.
 210	1126c04f	Podría ser solo una teoría o un cuento inventado.
 220	29d135b7	Cierto... Supongo que primero tenemos que averiguar qué dice.
-230	22c528e0	¿Cómo vamos a hacerlo, aunque? ¿Podemos encontrar a alguien que entienda este idioma?
-240	23e34dd8	{fc(57e4f1)No estoy seguro de que ni siquiera Eito pudiera leer esto... Además, si se lo preguntáramos, probablemente nos mentiría.}
+230	22c528e0	¿Pero cómo vamos a hacerlo? ¿Podemos encontrar a alguien que entienda este idioma?
+240	23e34dd8	{fc(57e4f1)Dudo que Eito pudiera leer esto siquiera... Además, si se lo preguntáramos, probablemente nos mentiría.}
 250	e06d1ea3	{fc(57e4f1)Pero ¿hay forma de traducirlo cuando ni siquiera conocemos las raíces de este idioma...?}
 260	42b71664	{fc(57e4f1)Me devané los sesos buscando ideas, y se me vino a la mente una persona.}
 270	958cdc36	Quizás él pueda hacer algo con esto...
-280	078ec386	¡Ni hablar! ¿De verdad conoces a alguien que puede leerlo?
+280	078ec386	¡No puede ser! ¿De verdad conoces a alguien que puede leerlo?
 290	b49e33a5	¡Espera aquí un segundo! No sé si vendrá o no, pero... intentaré encontrarlo.
 300	830b12fe	{fc(57e4f1)Salí disparado de la Biblioteca.}
 310	84ac2ae1	{fc(57e4f1)Recorrí toda la escuela, llamando al chico fantasma.}
@@ -37,13 +37,13 @@ id	huella_jp	es
 360	68d720b8	¿Eh? ¿Encontraste a quién? No veo a nadie.
 370	4b51334f	Ah, está aquí... Vamos, ya puedes salir.
 380	7360b275	{fc(57e4f1)Llamé al aire vacío, y a los pocos segundos...}
-390	a2a7db9e	B-Buenas noches... Esta es... nuestra primera vez que nos conocemos así, ¿verdad?
-400	595a7b33	¡Uf! ¡¿Eres ese chico fantasma del que nos habló Takumi?!
+390	a2a7db9e	B-Buenas noches... Esta es... la primera vez que nos vemos así, ¿verdad?
+400	595a7b33	¡Vaya! ¡¿Eres ese chico fantasma del que nos habló Takumi?!
 410	a4f2336e	Técnicamente no soy un fantasma, pero... Es algo así, supongo.
 420	0f34eecd	¡Vaya, qué genial! ¡De verdad estás hecho de Llamas Eternas! ¡Eres como una especie de elemental de fuego!
 430	6314c993	¡Kyohohoho! Debo decir que pasar el rato contigo nunca es aburrido, Takumi.
 440	d3675830	Preparamos el libro del que te hablé. ¿Nos ayudarás?
-450	8cf51c87	Lo intentaré. Traer de vuelta a tus amigos suena a una buena causa.
+450	8cf51c87	Lo intentaré. Traer de vuelta a tus amigos suena a buena causa.
 460	00f4b85b	¿Cuál es? Muéstramelo.
 470	d3033470	¿Eh? Pero es de papel. ¿No le infligirás Quemadura?
 480	2a5c4c53	Está bien. Las Llamas Eternas solo queman materia orgánica.
@@ -57,7 +57,7 @@ id	huella_jp	es
 560	edf5dd1d	Al leer algo así... puedo deducir la mayor parte por el contexto y el tono general, pero tomará tiempo revisarlo todo.
 570	f54b6b50	¡¿Pero PUEDES leerlo?!
 580	96bfb835	Sí. Parece que es otra ventaja de mi criptoglobina.
-590	49159c73	Es como cómo todos ustedes ahora entienden el idioma de los invasores.
+590	49159c73	Es igual que ustedes, que ahora entienden el idioma de los invasores.
 600	2d304f14	No lo entiendo del todo, ¡pero es genial! ¿Qué suerte tuvimos para conseguir una unidad tan bestial como tú?
 610	72ca5c58	¿Puedes darnos primero lo básico de lo que dice? No tiene que ser perfecto.
 620	7afbeda9	Solo lo suficiente para decirnos si este libro tiene algo que ver con la muerte y la resurrección.
@@ -82,10 +82,10 @@ id	huella_jp	es
 810	8cf1f47f	¿No es genial, Takumi? ¡Si encontramos a esa criatura, podemos traer de vuelta a esos chicos!
 820	f526afc9	¡Vamos a buscarla!
 830	70aa2b73	¿Buscarla? ¿Así, ahora mismo...?
-840	5f91934a	Ya sabes lo que dicen: ¡más que dos Retsnom en el libro, uno en la escuela!
+840	5f91934a	Ya sabes lo que dicen: ¡un Retsnom en la escuela vale más que dos en el libro!
 850	3b0e5c7f	Nadie dice eso, y es demasiado peligroso salir a buscar de noche. Además, ni siquiera sabemos qué tipo de criatura es...
 860	9e795c65	¡Está bien, entonces empecemos mañana!
-870	5d3f1be1	¡Solo tenemos que encontrar algo que se parezca al de la imagen! ¡Será fácil!
+870	5d3f1be1	¡Solo tenemos que encontrar algo que se parezca a la criatura de la imagen! ¡Será fácil!
 880	bc490ebe	¡Nos vemos luego, Takumi! ¡Es una promesa!
 890	11d11a16	¡O-Oye, espera...!
 900	256cb971	{fc(57e4f1)Pero ya era tarde. Darumi ya había salido corriendo por la puerta de la Biblioteca, dejándome solo.}

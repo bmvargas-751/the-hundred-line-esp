@@ -10,8 +10,8 @@ id	huella_jp	es
 90	ebec0d4f	No deberías necesitar preguntármelo. Ya viviste el {fc(ff635b)daño de salto} en carne propia.
 100	36bda20a	{fc(ff635b)¿Daño de }qué?
 110	b030fa18	El {fc(ff635b)daño de salto} es lo que pasa si haces un {fc(ff635b)salto paralelo} sin traje de salto.
-120	c6c58729	Ya has mencionado esto de saltar un par de veces. ¿Qué significa?
-130	a16a7789	Para eso te traje aquí a explicártelo.
+120	c6c58729	Ya mencionaste esto de saltar un par de veces. ¿Qué significa?
+130	a16a7789	Para explicártelo te traje aquí.
 140	0abe888d	¿Conoces el concepto de {fc(ff635b)universos paralelos}?
 150	7494bb5a	Sí, Eito me habló de ellos en el primer ciclo. Básicamente son {fc(ff635b)realidades alternativas}, ¿no?
 160	4f1be981	¿Dices que las distintas {fc(ff635b)líneas temporales} que hemos vivido son lo mismo?
@@ -37,7 +37,7 @@ id	huella_jp	es
 360	1234e508	E-Espera un momento...
 370	5b08fe91	¿Quieres decir que esa noche... justo después de la medianoche del Día 5...
 380	3a8442a9	¡¿Saltamos a otra línea temporal?!
-390	24a4fd3d	¿Recién lo captas? De verdad eres lento a veces.
+390	24a4fd3d	¿Apenas te das cuenta? De verdad eres lento a veces.
 400	7ddc6d12	¡¿P-Pero adónde fuimos? ¿Qué línea temporal era...?!
 410	83b05b0f	{fc(57e4f1)En respuesta a mi pregunta, Hiruko sacó un dispositivo de mano y me mostró la pantalla.}
 420	5fac4e88	¿Qué es esto?
@@ -70,7 +70,7 @@ id	huella_jp	es
 690	6700b5b0	Ω es... quien mató a Gaku.
 700	e5468fea	¿Te refieres a {fc(ff635b)X}? ¿No era así como se llamaba la mente maestra detrás de los asesinatos en esa línea temporal?
 710	0b497a3b	No, X y Ω son personas distintas. A Ω le infectaron el cerebro con datos G'ie.
-720	3c3630ea	No había un parásito físico, pero era igual que si lo hubiera tomado el control uno.
+720	3c3630ea	No había un parásito físico, pero era igual que si lo hubiera poseído uno.
 730	8d69d233	Eso fue lo que lo llevó a asesinar a Gaku.
 740	420007fd	Aunque yo no me hubiera encargado de él, habría vuelto a intentar matar.
 750	c01e1a02	Por eso fui a esa línea temporal. Para quitarle los datos G'ie del cerebro a Ω.
@@ -90,7 +90,7 @@ id	huella_jp	es
 890	905614f4	{fc(57e4f1)Pero entonces, los datos G'ie de su cerebro tomaron el control. Se levantó, agarró a Hiruko del brazo y la lanzó contra la pared.}
 900	fdde666d	{fc(57e4f1)Yo todavía estaba abajo en la Morgue en ese momento, asustado por ver el cuerpo de Eito.}
 910	f5e52949	{fc(57e4f1)Por supuesto, ahora comprendía que ese era el Eito de ESA línea temporal, no el que yo conocía.}
-920	bb615cdc	{fc(57e4f1)En esa línea temporal, debí decidir matarlo la noche del Día 2 y absorber su criptoglobina.}
+920	bb615cdc	{fc(57e4f1)En esa línea temporal, debí de decidir matarlo la noche del Día 2 y absorber su criptoglobina.}
 930	681c80ec	{fc(57e4f1)Así que era natural que su cadáver estuviera ahí...}
 940	88902fda	
 950	b31520b6	{fc(57e4f1)En fin, ahí fue cuando oí el ruido.}
@@ -104,12 +104,12 @@ id	huella_jp	es
 1030	5baaf225	¿No podrías intentar sonar un poquito más arrepentida por eso?
 1040	93abaaff	Ya me disculpé.
 1050	d83eae21	Sí, pero nunca me dijiste por qué lo hiciste.
-1060	7ab7faa5	¿A qué te refieres? ¿Todavía no lo has deducido?
+1060	7ab7faa5	¿A qué te refieres? ¿Todavía no lo deduces?
 1070	1b8e80a4	{fc(57e4f1)Tenía un mal presentimiento. Un escalofrío me recorrió la columna y se me puso la piel de gallina.}
 1080	382f6460	Después de que perdiste el conocimiento y te pude ver bien, noté algo.
 1090	be6a3287	Tenías un sarpullido morado en la cara. Es uno de los síntomas del daño de salto.
 1100	236ce51f	Ahí me di cuenta de que había cometido un error.
-1110	c10d536d	Así que te solté y fui a buscar a Ω en vez.
+1110	c10d536d	Así que te solté y fui a buscar a Ω en su lugar.
 1120	dc729f55	Sabía dónde estaría: en la sala del primer piso. Por cómo se dieron las cosas antes, tarde o temprano iba a aparecer ahí.
 1130	0dafd7db	Llegué lo más rápido que pude, pero...
 1140	6ae36c70	Era demasiado tarde.

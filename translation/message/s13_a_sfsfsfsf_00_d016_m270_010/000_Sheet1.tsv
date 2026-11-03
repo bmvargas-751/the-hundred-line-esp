@@ -7,8 +7,8 @@ id	huella_jp	es
 60	6f2890f1	{fc(57e4f1)Solté un suspiro y me apoyé contra la pared.}
 70	4d0e2024	{fc(57e4f1)La cabeza me daba vueltas. Me quedé ahí un rato, en la luna.}
 80	d03821c8	Entonces... ¿Qué se supone que haga ahora? Todavía tengo que someter de algún modo a ese tipo...
-90	1a466940	¿Quizás pueda esconderme y tratar de sorprenderlo? Este traje es tan difícil de mover, sin embargo...
-100	0690bd48	No podré hacer nada sigiloso con esto... Además, será fácil que me den vuelta la tortilla si algo sale mal.
+90	1a466940	¿Quizás pueda esconderme y tratar de sorprenderlo? Este traje es tan difícil de mover, la verdad...
+100	0690bd48	No podré hacer nada sigiloso con esto... Además, será fácil que me volteen la situación si algo sale mal.
 110	a0d8bccd	{fc(57e4f1)La solución era bastante obvia.}
 120	c019e5aa	{fc(57e4f1)Me quité el traje de salto.}
 130	cd2f5a7e	{fc(57e4f1)Mirando alrededor, encontré un armario de suministros y lo guardé ahí.}
@@ -17,7 +17,7 @@ id	huella_jp	es
 160	9d5769f0	{fc(57e4f1)Mi primer paso sería encontrar a Hiruko. Probablemente seguía en el Laboratorio de Biología. Caminé hacia la puerta del baño.}
 170	51ede9cf	{fc(57e4f1)Pero justo cuando iba a abrirla...}
 180	06d3b2ed	¿Se habrán escondido en el baño? Mejor reviso.
-190	b3f3e13e	¡Maldición, ¿por qué tenía que ocurrírsele revisar aquí justo ahora...?!
+190	b3f3e13e	¡Maldición! ¡¿Por qué tenía que ocurrírsele revisar aquí justo ahora...?!
 200	71182bf7	{fc(57e4f1)Busqué una vía de escape a mi alrededor. No tenía sentido esconderse en uno de los cubículos; me descubrirían de inmediato.}
 210	54949852	{fc(57e4f1)En ese caso...}
 220	9396e1f6	Solo hay una salida.
