@@ -250,8 +250,6 @@ def update_readme(total, done):
 
 def cmd_progress(args):
     """Solo cuentan las líneas con texto visible en el original."""
-    if args.readme and td.VERSION != "jp":
-        raise SystemExit("--readme es solo de la versión jp")
     if args.readme and (args.pattern != "*" or args.files):
         raise SystemExit("--readme cuenta todo el juego: sin patrón ni --files")
     total, done = Counter(), Counter()
@@ -412,7 +410,7 @@ def cmd_table(args):
 def main():
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--version", "-V", choices=sorted(td.VERSIONS), default=None,
-                   help="jp (base japonés, por defecto) o en (base inglés); también THL_VERSION")
+                   help="en (base inglés, la única); también THL_VERSION")
     sub = p.add_subparsers(dest="cmd", required=True)
     e = sub.add_parser("export")
     e.add_argument("pattern")

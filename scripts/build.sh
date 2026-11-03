@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# Arma los .mvgl traducidos: inglés original (build/vanilla/) + nuestra traducción (translation/).
+# Arma los .mvgl traducidos: inglés original (build/vanilla/) + nuestra traducción (translation-en/).
 # Lo que falta traducir queda en inglés.
 # También arma app_1 con las fuentes del menú arregladas (scripts/thlfuente.py).
-# Uso: scripts/build.sh [jp|en]   -> genera dist/<versión>/*.dx11.mvgl (jp: doblaje japonés, por defecto; en: doblaje inglés)
+# Uso: scripts/build.sh [en]   -> genera dist/en/*.dx11.mvgl (doblaje inglés)
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 CLI_DIR="$ROOT/tools/MVGLTools-v2.2.0-Linux"
 CLI="$CLI_DIR/MVGLToolsCLI"
-VERSION="${1:-jp}"
-[[ "$VERSION" == "jp" || "$VERSION" == "en" ]] || { echo "Uso: scripts/build.sh [jp|en]" >&2; exit 1; }
+VERSION="${1:-en}"
+[[ "$VERSION" == "en" ]] || { echo "Uso: scripts/build.sh [en]" >&2; exit 1; }
 SRC="$ROOT/build/es-$VERSION"
 WORK="$ROOT/build/repacked-$VERSION"
 DIST="$ROOT/dist/$VERSION"
