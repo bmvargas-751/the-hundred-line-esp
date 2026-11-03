@@ -1,44 +1,44 @@
 id	huella_jp	es
-10	823ea61e	Hola, ¿los dos juntos? ¿Qué pasa?\n¿Y eso que ya casi es hora de dormir?
-20	786362f0	¿No podían dormir y vinieron a que les lea Blancanieves?\nLástima: aquí no hay ningún cuento infantil...
-30	ba62b148	Cállate.\nVine porque tengo algo que preguntarte.
-40	1980db28	¿Preguntar...?
-50	00d8d1ea	Saliste de aquel corral por tus propios medios, ¿verdad?\nEsa persona que te abrió la cerradura, {fc(ff635b)"K"}, no existe...
-60	0a23289f	Qué abrupto...
-70	d1791ddd	La parte de abajo del corral no estaba fija.\nLa pesada jaula de hierro solo estaba apoyada sobre la base.
-80	2e1f8f5b	Aun así, esa jaula pesaba una tonelada.\nNo había forma de moverla con las manos.
-90	9232e3f1	Entonces pensaste.\nEn usar la flotabilidad.
-100	610e432f	El patio se puede convertir en un espacio sellado.
-110	7da7ae39	Cerrando el desagüe y abriendo al máximo la fuente,\nunas horas después el patio se llena de agua.
-120	192df5c6	¿Y si dentro del corral hubiera 100 globos de goma de 10 litros inflados?
-130	8187f85c	Por el principio de Arquímedes,\nactúa una flotabilidad igual al peso del agua desplazada...
-140	95ce32a1	Sobre la jaula, 10 × 100 = 1000 kg:\nactúa una fuerza hacia arriba de casi 1 tonelada.
-150	0e129860	Con eso se compensa el peso de la jaula,\ny queda casi en 0...Entonces basta un dedo meñique.
-160	1eee3b1d	Con solo un poco de fuerza,\nse podía levantar la jaula fácilmente.
-170	23e7443b	¡Ese fue el método con que escapaste de la jaula!
-180	5461004a	{fc(57e4f1)Cuando lo dije, Eito sonrió de oreja a oreja.}
-190	d4f460e5	¡Bravo, bravo! ¡Qué deducción magnífica!\nSi ya lo entendiste, ya no hace falta ocultarlo.
-200	a95da78e	Entonces dime: ¿por qué inventaste a la persona K?
-210	c8ffccf3	Para sembrar desconfianza entre ustedes y enemistarlos.
-220	3ebcf41a	Después de salir del corral, ¿por qué fuiste a la enfermería?
-230	b34a48a0	Para romper el Revive-O-Matic.\nSin él, ustedes quedarían en aprietos, ¿no?
-240	a7c9b0a5	{fc(57e4f1)Al oírlo, me hirvió la rabia.}
-250	7e24d4db	Tú... no cambias nada...
-260	a02e57c6	¡Eres un mentiroso! ¡Un traidor!\n¡Un desgraciado en quien no se puede confiar!
-270	4ba4bf25	Ay, esas palabras sí me molestaron...\n¿Les cuento a todos lo del viaje en el tiempo?
+10	823ea61e	¿Qué hacen ustedes dos? Ya casi es hora de dormir...
+20	786362f0	¿No pudieron dormir? ¿Vinieron para que les lea Blancanieves? Por desgracia, no tengo ningún cuento de hadas...
+30	ba62b148	Cállate. Vine a preguntarte algo.
+40	1980db28	Ah, ¿sí?
+50	00d8d1ea	Saliste de esa jaula por ti mismo, ¿verdad? Esa persona {fc(ff635b)K} que dijiste que te la abrió no existe en realidad.
+60	0a23289f	¿De qué estás balbuceando, Takumi?
+70	d1791ddd	La parte de abajo de ese corral para animales no estaba fijada en su lugar. Es solo una jaula de hierro pesada montada sobre una base.
+80	2e1f8f5b	Aun así, pesa 1 tonelada. No es algo que nadie pueda mover con las manos desnudas.
+90	9232e3f1	Por eso se te ocurrió la idea de usar la flotabilidad...
+100	610e432f	El Patio se puede sellar herméticamente.
+110	7da7ae39	Si el desagüe estaba tapado y la válvula de la fuente totalmente abierta, el Patio se llenaría de agua en cuestión de horas.
+120	192df5c6	¿Y qué pasaría si hubiera cien globos inflados de diez litros dentro de la jaula cuando eso ocurriera?
+130	8187f85c	El principio de Arquímedes dice que el empuje hacia arriba es igual al peso del agua desplazada...
+140	95ce32a1	100 globos de 10 litros cada uno suman 1000 kilogramos... 1 tonelada de fuerza hacia arriba.
+150	0e129860	Eso anula el peso de la jaula y lo reduce casi a cero... Apenas necesitarías un dedo.
+160	1eee3b1d	Pudiste levantar la jaula con facilidad con el más mínimo esfuerzo.
+170	23e7443b	¡Así fue como escapaste!
+180	5461004a	{fc(57e4f1)Al oír mi explicación, Eito esbozó una amplia sonrisa.}
+190	d4f460e5	¡Bravo! ¡Qué deducción brillante, detective! Ya no hay razón para que oculte nada, ahora que has descubierto tanto.
+200	a95da78e	Entonces dinos... ¿Por qué inventaste a esta persona K?
+210	c8ffccf3	Para sembrar desconfianza y discordia, naturalmente.
+220	3ebcf41a	¿Y por qué fuiste a la Enfermería después de escapar?
+230	b34a48a0	Para destruir el Revive-O-Matic. Sin eso, estarían todos en apuros, ¿no es así?
+240	a7c9b0a5	{fc(57e4f1)Escucharlo me hacía hervir la sangre.}
+250	7e24d4db	Tú... No has cambiado nada...
+260	a02e57c6	¡Sigues siendo un mentiroso! ¡Un traidor! ¡Un canalla en quien no se puede confiar!
+270	4ba4bf25	Oh, me siento terriblemente herido. Quizás me sentiría mejor si les contara a todos sobre tus pequeños viajes por el tiempo...
 280	f4a72a8b	
-290	674c0732	Discúlpate. Arrodíllate.\nFrota esa frente estrecha contra el suelo.
-300	9b66992d	Grítame llorando:"¡Perdón, perdón!\n"
-310	99d4582c	Si lo haces, te perdono.
-320	91160109	¡Ugh...!
-330	7bee86c0	{fc(57e4f1)Casi levanto la mano.\nPero Hiruko me detuvo enseguida...}
-340	fb426301	Perder tiempo con un tipo así no sirve.\nVámonos.
-350	58c99e7c	Ah, se van...
-360	55e6652e	Yo quizás sepa la información importante\nque están buscando...
-370	633a1386	¿Información importante...?
+290	674c0732	Discúlpate. De rodillas. Pon en el suelo esa frente baja e inclinada tuya.
+300	9b66992d	Luego grita lo arrepentido que estás, con lágrimas corriéndote por la cara.
+310	99d4582c	Hazlo, y quizás te perdone.
+320	91160109	¡Grrr...!
+330	7bee86c0	{fc(57e4f1)Levanté la mano para golpearlo, pero Hiruko me la agarró antes de que pudiera.}
+340	fb426301	Vamos. Solo perderemos el tiempo hablando con él.
+350	58c99e7c	Oh, ¿se van...?
+360	55e6652e	Qué lástima. Casualmente conozco cierta información valiosa que quizás les interese...
+370	633a1386	Valiosa...
 380	dbd978f8	¿Información...?
-390	000fc8ca	Pero hasta que se disculpen, no se las diré.\nBueno, hasta luego. Buenas noches~.
-400	1491db63	{fc(57e4f1)Dicho eso, Eito desapareció dentro de la cápsula.}
-410	113d9ea7	Seguro es un farol. No le hagas caso.
-420	26381fd6	Sí, tienes razón... vámonos...
-430	97e818d1	{fc(57e4f1)Así terminó el día 36.\nDurante un buen tiempo no volví a acordarme de Eito.}
+390	000fc8ca	Pero no diré una palabra hasta recibir esa disculpa. Nos vemos, amigos. Buenas nooches.
+400	1491db63	{fc(57e4f1)Eito se dio vuelta y desapareció dentro de la cápsula.}
+410	113d9ea7	Está fanfarroneando. No le hagas caso.
+420	26381fd6	Sí, tienes razón... Salgamos de aquí.
+430	97e818d1	{fc(57e4f1)Así terminó el Día 36. No volví a pensar en Eito durante un buen rato.}
