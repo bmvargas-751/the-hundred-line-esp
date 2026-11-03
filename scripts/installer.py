@@ -181,27 +181,65 @@ def pack(tool, src, name, work):
     return out
 
 
-def read_installed():
-    return set(INSTALLED.read_text().split()) if INSTALLED.exists() else set()
+def backup_dirs(game):
+    """Carpetas de respaldo donde buscar: la de este paquete y las de otros paquetes junto al juego
+    (si se descomprime una versión nueva en otra carpeta, el respaldo de la anterior sigue sirviendo)."""
+    dirs = [BACKUP]
+    for base in (game, ROOT.parent):
+        try:
+            dirs += sorted(p / "backup" for p in Path(base).iterdir() if p.is_dir() and (p / "backup").is_dir())
+        except OSError:
+            pass
+    seen, out = set(), []
+    for d in dirs:
+        if d.resolve() not in seen:
+            seen.add(d.resolve())
+            out.append(d)
+    return out
+
+
+def read_installed(game):
+    """Hashes de los archivos que instalamos nosotros (de todos los respaldos conocidos)."""
+    found = set()
+    for d in backup_dirs(game):
+        f = d / "installed.sha256"
+        if f.exists():
+            found |= set(f.read_text().split())
+    return found
+
+
+def find_original(game, name, filename, installed):
+    """Archivo original del juego: solo se acepta uno que sea el original conocido, nunca uno ya traducido."""
+    for d in backup_dirs(game):
+        f = d / filename
+        if f.exists() and sha256(f) == SUPPORTED[name]:
+            return f
+    f = BACKUP / filename  # un original más nuevo, guardado con --force
+    if f.exists() and sha256(f) not in installed:
+        return f
+    return None
 
 
 def cmd_install(args):
     game = find_game(args.game)
     say(f"Juego: {game}")
-    installed = read_installed()
+    installed = read_installed(game)
     sources = {}
     for name in ALL:
         cur = archive_file(game, name)
         if sha256(cur) in installed:  # ya está la traducción: el inglés sale del original respaldado
-            orig = BACKUP / cur.name
-            if not orig.exists():
-                raise Fail(f"Falta el respaldo {orig}. En Steam: Propiedades > Archivos instalados > Verificar integridad, y reintenta.")
+            orig = find_original(game, name, cur.name, installed)
+            if orig is None:
+                raise Fail(f"Falta el respaldo del original de {name}. En Steam: Propiedades > Archivos instalados > Verificar integridad, y reintenta.")
             sources[name] = orig
         else:
             sources[name] = cur
         if sha256(sources[name]) != SUPPORTED[name]:
-            say(f"AVISO: {name} no es la versión del juego que traducimos (actualización de Steam del 2026-09-17).")
-            say("       Algunas líneas pueden verse en inglés o desfasadas.")
+            say(f"AVISO: {name} no es el archivo original que traducimos. Puede ser por:")
+            say("       - una actualización de Steam del juego, o")
+            say("       - una traducción ya instalada desde otra carpeta, cuyo respaldo no encuentro.")
+            say("       Si es lo segundo, sigue sin poder usarse como base: pueden quedar frases viejas mezcladas.")
+            say("       Lo más seguro: en Steam, Propiedades > Archivos instalados > Verificar integridad, y reintenta.")
             if not args.force:
                 if not sys.stdin.isatty() or input("¿Continuar de todos modos? [s/N] ").strip().lower() not in ("s", "si", "sí", "y"):
                     raise Fail("Cancelado. Con --force sigue sin preguntar.")
@@ -228,7 +266,8 @@ def cmd_install(args):
         for name in ALL:
             cur = archive_file(game, name)
             if sha256(cur) not in installed:  # lo que hay es el original: se respalda antes de pisarlo
-                shutil.copyfile(cur, BACKUP / cur.name)
+                if sha256(cur) == SUPPORTED[name] or not (BACKUP / cur.name).exists():
+                    shutil.copyfile(cur, BACKUP / cur.name)
             shutil.copyfile(built[name], cur)
             installed.add(sha256(built[name]))
             say(f"  instalado: {name}")
@@ -241,11 +280,11 @@ def cmd_install(args):
 
 def cmd_uninstall(args):
     game = find_game(args.game)
-    installed = read_installed()
+    installed = read_installed(game)
     for name in ALL:
         cur = archive_file(game, name)
-        orig = BACKUP / cur.name
-        if sha256(cur) in installed and orig.exists():
+        orig = find_original(game, name, cur.name, installed)
+        if sha256(cur) in installed and orig is not None:
             shutil.copyfile(orig, cur)
             say(f"restaurado: {name}")
         else:
@@ -256,7 +295,7 @@ def cmd_uninstall(args):
 def cmd_status(args):
     game = find_game(args.game)
     say(f"Juego: {game}")
-    installed = read_installed()
+    installed = read_installed(game)
     for name in ALL:
         h = sha256(archive_file(game, name))
         if h in installed:

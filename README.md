@@ -51,7 +51,7 @@ Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada
    - Linux: **`install.sh`**. En Steam Deck, en modo escritorio: clic derecho en `install.sh` > *Ejecutar en terminal* (o `./install.sh` desde una terminal).
 4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
 
-El instalador tarda unos segundos. Guarda antes los archivos originales en `THL-ESP/backup/`.
+El instalador tarda unos segundos. Guarda antes los archivos originales en `THL-ESP/backup/`. Si descomprimes una versión nueva en otra carpeta junto al juego, el instalador reutiliza ese respaldo; si no lo encuentra, te pide verificar la integridad en Steam en vez de mezclar texto viejo.
 
 ### Desinstalar
 
