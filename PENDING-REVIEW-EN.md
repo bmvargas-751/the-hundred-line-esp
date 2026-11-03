@@ -96,3 +96,5 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
 - `d036_m010_010#350`: "58008" (calculadora) se dejó igual; no funciona como chiste en español. Revisar si se prefiere otro número/chiste.
 - `d035+`: "gamemaster" → "maestra del juego"; "{game}" → "{juego}" (resaltado rojo).
 - s13 sfsfsfsf 00, Día 20 `d020_m090_010#40`: anciano "Marinate!" → "¡Marinado!" (juego con "Llegan tarde"), provisional.
+- s13 sfsfsfsf 00, Día 27 `d027_m020_010#60-#150`: la jerigonza inventada ("achonprick / dangultuhl / prontackle / bevergache / muffinholl / hampinbox") → "desatornichar / colgajotrón / pinchatorque / castortajo / chimpanflón / cajapiñón"; Sirei y Nigou la repiten mal ("colgajo-trón", "castor-tajo", eco de "dangle tool" y "beaver gash"). Provisional.
+- s13 sfsfsfsf 00, Día 29 `d029_m020_010#140-#190`: "time loop" / "night pool" (palabras confundidas) → "bucle temporal" / "piscina nocturna"; en español no hay el calce de sonido del original. Provisional.
