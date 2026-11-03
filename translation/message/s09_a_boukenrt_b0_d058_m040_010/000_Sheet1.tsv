@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	c4e19abe	Vaya, estas ruinas deben ser bastante antiguas. Siguen casi enterradas...
 20	4416eefc	También vi una especie de cráter allá atrás. ¿Quizás alguien lanzó una bomba que abrió la entrada?
-30	ccd282b7	Apuesto por un rompebúnkeres sísmico. Hay una base cerca de aquí; quizás intentaban romper sus defensas.
+30	ccd282b7	Yo apostaría por un rompebúnkeres sísmico. Hay una base cerca de aquí; quizás intentaban romper sus defensas.
 40	48038520	El libro decía que esta caja estaba bajo tierra, así que probablemente estas son las ruinas que buscamos.
 50	87493823	Espera un momento. ¿Eso es una puerta?
 60	f93fb061	Tiene una cerradura... Pero no es del tipo que sé forzar.
@@ -37,9 +37,9 @@ id	huella_jp	es
 360	fa2608eb	No sé. Creo que estamos todos cansados de todo lo que hicimos hoy. Ir más lejos podría ser peligroso...
 370	242b7422	
 380	a29f6cb2	Yo digo que lo dejemos por hoy.
-390	7f353fb6	Nuestra concentración ya empieza a fallar: lo demuestra que casi caemos en la trampa de flechas.
+390	7f353fb6	Nuestra concentración ya empieza a fallar: casi caemos en la trampa de flechas, y eso lo demuestra.
 400	97840407	Quizás la próxima no tengamos tanta suerte. Lo mejor es volver con esta caja y discutir si queremos regresar otro día.
 410	0c070cd3	Mm... Sí, probablemente sea la opción más segura.
-420	828bcc5d	Si esa es tu decisión, yo también la acompaño.
+420	828bcc5d	Si esa es tu decisión, yo también te acompaño.
 430	56d47b7c	{fc(57e4f1)Y así, tomamos la caja de cinco símbolos y volvimos a la superficie.}
 440	6f5ae56d	{fc(57e4f1)¿Qué clase de secretos seguían escondidos en aquella mazmorra subterránea? Aún sentía curiosidad, pero la seguridad de mis amigos tenía prioridad.}

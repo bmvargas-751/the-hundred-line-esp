@@ -1,8 +1,8 @@
 id	huella_jp	es
 10	9c759c3c	¿Eh...? ¿Qué hago aquí?
 20	f6ab5628	Y... ¿Por qué estás tú también aquí?
-30	bffe4191	{fc(B1221A)Takumi... No lo decías en serio, ¿verdad?}
-40	d5184b9a	¿Kako? ¿Que no decía en serio qué?
+30	bffe4191	{fc(B1221A)Takumi... No lo dijiste en serio, ¿verdad?}
+40	d5184b9a	¿Kako? ¿Qué no dije en serio?
 50	6be55987	{fc(B1221A)"Todo lo que podemos hacer es esperar que encuentre pronto el camino de vuelta". Eso dijiste.}
 60	8fb59a3c	{fc(B1221A)Pero era mentira, ¿no? SÍ piensas que estoy muerta.}
 70	e406d12b	{fc(B1221A)Si no lo estuviera, no habría forma de que apareciera así, ¿verdad?}
@@ -36,7 +36,7 @@ id	huella_jp	es
 350	7cb7f74c	Simplemente dejas que tus sentimientos de culpa te lleven por un camino de autodestrucción.
 360	55edc30b	¡No, no es eso! De verdad me atacó el fantasma.
 370	312c76ac	¡Mira esto!
-380	38a9ba2c	Tenía las manos alrededor de mi cuello hace un momento. ¿Cómo más explicas estas marcas?
+380	38a9ba2c	Tenía las manos alrededor de mi cuello hace un momento. ¿De qué otra forma explicas estas marcas?
 390	b0870af6	...Oí hablar de un experimento que se realizó hace mucho. Empezaron mostrándole al sujeto una barra de metal al rojo vivo.
 400	41af7f41	Luego, mientras no miraba, la cambiaron por una barra normal, a temperatura ambiente, pintada de rojo.
 410	dc202d34	Cuando pusieron esa barra sobre la piel del sujeto...
@@ -55,7 +55,7 @@ id	huella_jp	es
 540	e7dc3145	Han pasado muchas cosas últimamente, y se supone que soy el líder, y bueno...
 550	8444f316	Lo sé. Vuelve a tu habitación y duerme. O puedo prepararnos un té de hierbas y nos quedamos un rato en silencio.
 560	cdfd5d83	Gracias. Me iré a la cama; quiero descansar para mañana.
-570	46f1bad8	Sabes... Todavía me sorprende lo amable que puedes ser a veces, Hiruko.
+570	46f1bad8	¿Sabes? Todavía me sorprende lo amable que puedes ser a veces, Hiruko.
 580	4c9d1774	Bueno, yo también he pasado por cosas...
 590	a2971f4e	Buenas noches, Takumi.
 600	33e41659	Sí, nos vemos por la mañana.

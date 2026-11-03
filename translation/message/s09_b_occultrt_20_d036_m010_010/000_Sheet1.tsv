@@ -12,7 +12,7 @@ id	huella_jp	es
 110	efebdb34	Eh, es que...
 120	351a727a	¿Q-Qué?
 130	2f282dfe	Ahora claramente no es momento para sutilezas, así que permíteme ser franca.
-140	22efc56a	¡Eres la última persona de quien queremos oír hablar de maldiciones! ¡¿Cuánto puedes ser de idiota rematado?!
+140	22efc56a	¡Eres la última persona de quien queremos oír hablar de maldiciones! ¡¿Hasta qué punto se puede ser tan idiota?!
 150	c1ee3508	¡Pero tiene pruebas! ¡Ustedes mismos lo han visto!
 160	d1e4e01b	¿Ves? ¡Estás alimentando la paranoia en los débiles mentales!
 170	508ef357	P-Pero los golpes que he estado oyendo...y la puerta...
@@ -21,7 +21,7 @@ id	huella_jp	es
 200	416476a4	Cierto. Algunas cosas de sus habitaciones empezaron a moverse. Eso es todo lo que podemos decir con certeza.
 210	b460fa8d	Si esa dama fantasma que has estado mostrando también apareciera en la grabación, sería distinto...
 220	67cb220d	¿Pero cosas que se mueven solas? Podría haber un sinfín de explicaciones científicas. La hemoánima también podría hacerlo.
-230	a65324bb	O-Okay, entiendo tu punto, ¡pero ¿por qué está pasando?! ¡Eso es lo que quiero saber!
+230	a65324bb	O-Ya, entiendo tu punto, pero ¡¿por qué está pasando?! ¡Eso es lo que quiero saber!
 240	460620ad	Creo que el verdadero problema es por qué un fantasma se conformaría con golpear o hacer traquetear tu puerta.
 250	5ed1ab40	Piensa en lo que sugieres, Takumi.
 260	56a2b275	Alguna persona o presencia que no podemos ver, pero que puede afectar el mundo físico que la rodea, se coló en nuestra escuela y mató a Yugamu... Mató a uno de nuestro equipo.
@@ -47,9 +47,9 @@ id	huella_jp	es
 460	66c12f66	¡¿Así que escapó y amenazó a Takumi haciendo traquetear su puerta?!
 470	1b63aad4	¿Por qué haría eso...?
 480	b4186bd8	¿Quién sabe?
-490	c999343f	Creo que es seguro abandonar la idea de que este agresor desconocido sea un fantasma, sin embargo.
-500	134cfdfe	{fc(57e4f1)Quería protestar que lo de anoche no era la primera vez que pasaba algo así, pero me contuve.}
-510	ece1b386	{fc(57e4f1)La jaula de Eito había sido rota desde afuera.}
+490	c999343f	Aun así, creo que es seguro abandonar la idea de que este agresor desconocido sea un fantasma.
+500	134cfdfe	{fc(57e4f1)Quería objetar que lo de anoche no era la primera vez que pasaba algo así, pero me contuve.}
+510	ece1b386	{fc(57e4f1)Alguien había forzado la jaula de Eito desde afuera.}
 520	cc16488f	{fc(57e4f1)Alguien lo dejó salir, y ese alguien quizás siga entre nosotros.}
 530	63447d64	{fc(57e4f1)Si esa misma persona quería asustarme, los fenómenos "fantasmales" de los últimos días cumplirían el mismo propósito.}
 540	ceeb2d45	{fc(57e4f1)Todo cuadraba... Salvo la pregunta de por qué hacían todo esto en primer lugar.}

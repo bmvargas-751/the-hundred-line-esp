@@ -8,7 +8,7 @@ id	huella_jp	es
 70	3a0bb1ce	Sí. Todavía no tengo nombre, así que pueden llamarme así si quieren.
 80	927111ad	¡U-U-U-Un fantasma! ¡La maldición ya está tomando forma física!
 90	88b4b840	¡¿No has estado escuchando nada de esto?!
-100	d6de6dbe	¡Es el tipo que hace las Llamas Eternas que mantienen fuera a los invasores. Es uno de los nuestros, hombre!
+100	d6de6dbe	¡Es el tipo que hace las Llamas Eternas que mantienen fuera a los invasores! ¡Es uno de los nuestros, hombre!
 110	b0a0f043	Gracias a tu hemoánima puedes aparecer y hablar con nosotros así, ¿verdad?
 120	0049e2a1	Me pregunto cómo funciona...
 130	630b6562	Eso no importa. La verdadera pregunta es si puede hacer algo por ayudarnos.
@@ -16,12 +16,12 @@ id	huella_jp	es
 150	001a2a83	Los ayudaré si puedo, por supuesto. ¿Qué era exactamente lo que necesitaban?
 160	64e25028	Técnicamente no estamos "todos" aquí. Ima sigue encerrado en su habitación.
 170	db9c9293	B-Bueno, es sobre este libro...
-180	ce85189e	No se quemará si lo tocas, ¿verdad? ¡Puedes apoyarlo en mi cabeza, mejor!
+180	ce85189e	No se quemará si lo tocas, ¿verdad? ¡Mejor apóyalo en mi cabeza!
 190	6c2ad667	Gracias, pero no hace falta.
 200	353403a7	Si me concentro, puedo tocar cosas sin problema. Mis llamas solo queman a los seres vivos, de todos modos.
 210	f8e0dffd	¿Qué tiene de tan importante este libro?
 220	5edefecb	Se lo...dio un fantasma a Takumi.
-230	ded73325	No tenemos idea de lo que dice, sin embargo. Pensamos que quizás tengas más suerte con él.
+230	ded73325	Eso sí, no tenemos idea de lo que dice. Pensamos que quizás tú tengas más suerte con él.
 240	aa101990	¿Puedes leerlo?
 250	6b6e1721	Sí... Sí, creo que puedo.
 260	ac1cc9b7	Debe de ser como cuando potenciar su criptoglobina les permitió entender el idioma de los invasores.
@@ -42,16 +42,16 @@ id	huella_jp	es
 410	4bc3d120	¿Quizás el resto esté en alguna parte de la Biblioteca?
 420	3b580ec3	Espectros, eh... Sí suena parecido a ese fantasma que Takumi ha estado viendo.
 430	190ecbac	¿Entonces abrir la caja es lo que desata la maldición?
-440	1d1710c2	¡Tenías que ir hurgando en la tierra y metiendo las narices donde no te llamaban, ¿verdad?!
+440	1d1710c2	¡Tenías que andar hurgando en la tierra y metiendo las narices donde no te llamaban! ¿No es cierto?
 450	59a409be	¡Pero yo no! ¡Nunca abrí ninguna caja!
 460	a0e93d82	¿N-No mencionó Eva una caja también? Creo que la llamó Caja de Bendiciones...
-470	4fe2a362	¿No parece que podría ser relevante, sin embargo?
+470	4fe2a362	¿No creen que podría ser relevante?
 480	2d8ec0f0	No sé, si todo esto ha sido por culpa de este espectro, quizás después de todo no tuvo nada que ver con Eva.
 490	6ada7c83	¡Ni hablar! ¡Apuesto a que el odio y el rencor de Eva potenciaron al espectro y volvieron su maldición aún más fuerte!
-500	9304167a	Ojalá dejaras eso. Especular sin pruebas es un mal hábito.
+500	9304167a	Ojalá dejaras de hacer eso. Especular sin pruebas es un mal hábito.
 510	158ef13f	Aunque no esté en la mitad del libro que tenemos, HAY una forma de romper la maldición, ¿verdad?
-520	31d83c12	¿Deberíamos buscarla en la biblioteca? Ah, pero ninguno de nosotros entiende este idioma...
-530	c1dd220b	Entonces... ¿En qué quedamos?
+520	31d83c12	¿Deberíamos buscarla en la Biblioteca? Ah, pero ninguno de nosotros entiende este idioma...
+530	c1dd220b	Entonces... ¿Qué hacemos ahora?
 540	e90cec2b	{fc(57e4f1)Si Eva ERA el fantasma, ¿por qué nos dio este libro?}
 550	09de1cbc	{fc(57e4f1)¿De qué le serviría a ella que aprendiéramos más sobre los espectros?}
 560	ceb63d31	{fc(57e4f1)Empiezo a preguntarme si hemos cometido un error en alguna parte...}
@@ -75,8 +75,8 @@ id	huella_jp	es
 740	6e95b27b	¿Qué pretendes? ¿Qué intentas lograr con esto?
 750	bd970e3c	¡¿No es obvio?!
 760	aa138e40	¡Voy a recuperar a mi querida hermana...!
-770	7cf6f2fe	¿Cómo ayuda eso amenazar a Nozomi?
-780	3b2652e4	Si los dejo hacer las cosas a su manera, volverán a hacer el vago, sin nada que mostrar.
+770	7cf6f2fe	¿Cómo se supone que ayuda amenazar a Nozomi?
+780	3b2652e4	Si los dejo hacer las cosas a su manera, volverán a dilatarlo todo, sin nada que mostrar.
 790	b254dd17	Eso me queda demasiado claro ahora.
 800	10d176d7	No me han dejado más opción que recurrir a medidas más drásticas.
 810	16b788db	Ima... No entiendo...
@@ -92,7 +92,7 @@ id	huella_jp	es
 910	77e18835	No te precipites, Takumi.
 920	f61165ee	Tiene una rehén. No nos queda más opción que aceptar sus exigencias por ahora.
 930	76b3de1b	¡Pero no podemos dejar que se salga con la suya...!
-940	b967094a	¡T-Tienen razón! Si necesitan una rehén, ¡deberían llevarse a un lastre inútil que nadie echará de menos, como yo!
+940	b967094a	¡T-Tienes razón! Si necesitan una rehén, ¡deberían llevarse a un lastre inútil que nadie echará de menos, como yo!
 950	0c11604d	¡O llévenme a mí! Pueden hacerme prácticamente lo que sea y me lo tomaré con calma.
 960	297b6a56	¡Cállense!
 980	2d18a582	

@@ -3,10 +3,10 @@ id	huella_jp	es
 20	b9e0a840	Dudo que lo hubiéramos encontrado si la entrada no hubiera sido volada antes.
 30	eea72d24	¡Miren aquí! ¿Eso es una puerta?
 40	d2bc99b6	Está cerrada con llave...
-50	6763ff9d	Hay una cerradura, sin embargo. ¿Puedes abrirla, Tsubasa?
+50	6763ff9d	Pero hay una cerradura. ¿Puedes abrirla, Tsubasa?
 60	859bdff3	No lo creo...
 70	3bf5f320	En ese caso, empecemos por intentar encontrar otra forma de entrar.
-80	abd30aa0	¡Okay! ¡Vamos!
+80	abd30aa0	¡Sí! ¡Vamos!
 90	9820655d	{fc(57e4f1)Después de buscar un poco más...}
 100	6c9c24b3	Aquí huele como a azufre.
 110	40744690	¿Será gas venenoso...?
@@ -20,7 +20,7 @@ id	huella_jp	es
 190	2247d287	{fc(57e4f1)¿Cómo llegamos a esto?}
 200	e4df995d	{fc(57e4f1)No podía procesar lo que pasaba ante mis ojos. ¿Podría ser otro ataque alucinatorio de un comandante?}
 210	2251a7ca	Deja de mover los ojos por todas partes. Tú también llevas traje de baño.
-220	7866621b	¡Sí! ¡Estoy agotadísima! ¡Si no descansamos ahora, ¿cuándo?! ¡En serio!
+220	7866621b	¡Sí! ¡Estoy agotadísima! ¡Si no descansamos ahora, entonces cuándo! ¡En serio!
 230	5ec8ce4d	Nunca había estado en unas aguas termales así.
 240	9da34c6b	No hace falta que te pongas nervioso, Takumi. Simplemente considera perdida tu vida si tienes siquiera un pensamiento impuro.
 250	3e1d2430	¡Eso ya lo sé! O sea, ¡estamos en medio de una mazmorra; tengo otras cosas en la cabeza!
@@ -40,7 +40,7 @@ id	huella_jp	es
 390	3190c42f	Ah, pero...
 400	ff9f853d	Takumi, ve a tomar leche en el vestidor o algo. Tienes diez segundos para irte.
 410	f7b7036e	O pasarás el resto de tu vida escolar como un eunuco.
-420	81ca965d	¡Okay, okay! ¡Ya me voy! ¡Cielos!
+420	81ca965d	¡Está bien, está bien! ¡Ya me voy! ¡Cielos!
 430	d023cc55	{fc(57e4f1)Pero justo cuando me levantaba para alejarme...}
 440	b203f3a1	E-Encontré algo.
 450	257ff880	¿Eh?
