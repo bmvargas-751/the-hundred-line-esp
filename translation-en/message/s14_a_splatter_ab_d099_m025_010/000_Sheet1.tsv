@@ -1,15 +1,15 @@
 id	huella_jp	es
-10	dc82d7ba	¿Será esta la batalla final...?\nSi no hay problema, empecemos.
-20	b7f3b152	Espera. Antes...\ntengo algo que entregarte.
+10	dc82d7ba	Supongo que esta es nuestra batalla final... Si estamos listos, vamos directo a ella.
+20	b7f3b152	Espera. Antes de eso... Hay algo que tengo que darte.
 30	209a566b	¿Eh? Esto es...
-40	baacfed1	Es el {fc(ff635b)"arma biológica"} potenciada.\nEstaba en el taller metalúrgico.
-50	056fcab6	¿Será que la fabricó Tsubasa?
-60	d247f896	Sí... Kawana nos la dejó.
-70	76b6ff95	Con esto, V'ehxness debería recibir un daño enorme...\nNo podemos desperdiciarlo.
-80	56f74749	Tsubasa...\ngracias, la usaré.
-90	e7a5cfe1	...Vamos.\nAhora solo nos queda hacer lo que podamos.
-100	0881951a	{fc(57e4f1)Recibí el legado de Tsubasa\ny di un paso adelante, pero...}
-110	8a6bed45	{fc(57e4f1)La verdad, estaba lleno de vacío.}
-120	4cc0ee48	{fc(57e4f1)Aunque ganemos a V'ehxness, ¿se puede decir que el final\nque nos espera es feliz?}
-130	9a723d44	{fc(57e4f1)No hay manera... me sentía una máquina\nque solo derriba al enemigo frente a ella.}
-140	3f4546c5	{fc(57e4f1)Cargando un aire pesado,\nnos dirigimos a la última batalla de defensa.}
+40	baacfed1	Un {fc(ff635b)arma biológica} que aumentará nuestra fuerza. Estaba en el Taller de Metalurgia.
+50	056fcab6	¿La hizo Tsubasa?
+60	d247f896	Sí... Fue su último regalo para nosotros.
+70	76b6ff95	Con esto deberíamos poder hacerle un daño serio a V'ehxness... No podemos desperdiciarla.
+80	56f74749	Tsubasa... Gracias. La aprovecharemos bien.
+90	e7a5cfe1	Vamos. Lo único que queda es hacer lo que podamos.
+100	0881951a	{fc(57e4f1)Acepté el recuerdo de Tsubasa y di un paso adelante, pero...}
+110	8a6bed45	{fc(57e4f1)A decir verdad, me sentía vacío.}
+120	4cc0ee48	{fc(57e4f1)Aunque venciéramos a V'ehxness, ¿podríamos llamar feliz al final que nos espera...?}
+130	9a723d44	{fc(57e4f1)Lo dudo. Me sentía como un robot diseñado solo para derrotar al enemigo que se acercaba.}
+140	3f4546c5	{fc(57e4f1)A pesar de la atmósfera pesada que nos envolvía, nos encaminamos hacia nuestra última batalla defensiva.}
