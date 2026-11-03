@@ -100,3 +100,46 @@ Líneas de partidas posteriores (rutas `s01` en adelante) con un juego de palabr
 - s13 sfsfsfsf 00, Día 29 `d029_m020_010#140-#190`: "time loop" / "night pool" (palabras confundidas) → "bucle temporal" / "piscina nocturna"; en español no hay el calce de sonido del original. Provisional.
 - s13 sfsfsfsf 00, Día 33 `d033_m040_020#60`, `m040_040#10`, `m040_060#30`: Addamaque deformado ("Alan-Get-A-Clue", "Adam-With-A-Shoe", "Aron-Take-A-Pew") → "Alan-Dame-Una-Pista", "Adán-Con-Un-Zapato", "Aarón-Toma-Asiento" (con el chiste de los zapateros de Ima). Provisional. `m040_100#160-#180`: "lightyears too soon" → "te falta una eternidad", con la aclaración de Eva sobre "años luz" (no calza igual).
 - s13 sfsfsfsf 00, Día 50 `d050_m010_010#40-#50`: rima de Sirei ("halfway there! Like a lizard on a chair!") → "a medio camino... hay que seguir hasta el final"; cita de Macbeth ("stepped in blood so far") → "Han avanzado tanto en sangre que volver sería tan tedioso como seguir adelante". `d050_m020_010#220-#310`: "Halfway to One Hundred Party" / "Hump Day Party" → "Fiesta de Medio Camino a los Cien" / "Fiesta del Calentón de la Mitad"; Nigou "no freaking, no grinding, no throwing it back" → "nada de perreo, nada de frotarse y nada de mover el trasero". Provisional.
+
+## s13 (ramas Días 50-100, revisión de los agentes)
+
+### sf-a0
+d051_m020_010#290/320: Eva "Rushing Roulette" -> "Ruleta Acelerada" (provisional pun)
+d068_m030_020#20 "Paradise Pool Palooza" -> "Piscinazo Paradisíaco" (provisional)
+d069_m020_020#10 "Fabulous Frolicsome Festival Fiesta" -> "Festival Fantástico de Fiesta y Frenesí" (provisional)
+d069_m020_010#210-220 "dark carnival" -> "carnaval oscuro"; Darumi "WHOOP WHOOP" -> "WUJUUU"
+d067_m020_010#350 Kurara "Urk... I was so sweet to you!" ok; Eva "smells like poop" -> "huele a caca"
+
+### sf-aa
+- s13_a_sfsfsfsf_aa_d073_m020_010#90-100: pun mansion/manor~manners -> "Mansión / casona... maneras" (mansión~maneras)
+- aa_d073_m060_010#200: "Wrong Guess timeline" -> "línea temporal de la Predicción Errónea"
+
+### sf-aab
+aab_d087_m050_020#40/50: mirror spot (EN) -> 'número de espejo' provisional
+aab_d088_m090_010: 'Stand Together, Fall Together' -> 'Juntos Hasta la Caída' (nombre de plan, provisional)
+aab_d100_m030_010#200-380: 'locked' -> 'bloqueo/bloqueada' (juego de palabras lock, provisional)
+aabb_d100_m050_010#400: 'Slippery Moko German Suplex' -> 'Suplex Alemán Resbaladizo de Moko' (provisional)
+aabb_d100_m050_010#530: Kyoshika ebria 'shelebrar' (seseo ebrio, provisional)
+aabb_d100_m050_010#370: 'a freaking GENIUS' -> 'GENIO de la vida'
+
+### sf-ab
+- d073_m030_010#130 / d074: "Right Guess timeline" -> "línea temporal del Acierto"; "Wrong Guess" -> "del Error" (nombres nuevos, criterio mío)
+- d074_m020_010#190-220: broma de numerales Hiruko I/V/VI (sin cambio)
+
+### sf-ba
+# sf-ba: sin casos delicados importantes
+- baba_d099_m050_110#60-70 (Eva, insulto a V'ehxness: "burn ants with a magnifying glass"): traducido literal, "vieja bruja" / "maldita sádica".
+- ba_d098_m030_010#450 (Shouma, "crap-smear ... fetid face hole"): "un pedazo de mugre como yo abra su fétida boca".
+- Termino nuevo: "Rayo Triem" (Triem Ray), "variante" (variant), "hembra reproductora" (female spawner), "Tarro del Bebé" (copiado de la versión previa).
+
+### ll-b0
+- s13_b_lovelove_b0_d052_m010_010 #500-520: titular/caulk/pussyfooting (palabras que suenan sucias en inglés) -> culminar / picaporte / pajarear (provisional, suenan a culo / pico / paja)
+- d070 #160: tomayto tomahto -> 'Lo mismo da chicha que limonada' (provisional)
+
+### ll-bb
+- bbb_d096_m020_010 #180/#210: "The Shoulder Blade Ripper" -> "Desgarra Omóplatos"; "Magadori Ultimate Finishing Move... Soutenkiken, Splitter of Scapulae" -> "Técnica Final Suprema de los Magadori... Soutenkiken, Partidora de Omóplatos" (provisional, nombres de técnicas).
+- bbb_d096_m020_010 #320: Tsubasa arrastrando palabras ("It'sh shoooo relaxshiiiiing") -> "Eshtá shuuuper relajaaaanteee..."
+- bb_d085_m010_010 #220: "No more constipation☆" -> "se acabó el estreñimiento☆".
+- bb_d089_m020_010 #200: juego "fault"/"thanks to you" -> "culpa"/"gracias a ti".
+
+- Unificado: 'Right/Wrong Guess timeline' → 'línea temporal de la Predicción Acertada / Errónea' (en todas las ramas).
