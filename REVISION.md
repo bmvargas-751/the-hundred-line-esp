@@ -64,6 +64,7 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
    - *Por el amor al asesinato* frente a *Por el amor de la muerte* (muletilla de Yugamu).
    - *Kyohoho* y *Kyohohoho* conviven (risa de Darumi).
 4. Retomar `s15` cuando se reanude.
+4b. **Tarea aparte (pendiente):** barrido de puntuación. Unas 300 líneas usan signos anidados del tipo `¡Nozomi, ¿estás bien?!`; `STYLE.md` pide `¡¿...?!` cuando el inglés usa `?!`. Mecánico, pero toca muchas líneas: hacerlo en un PR propio.
 5. Reinstalar el build nuevo y jugar para confirmar (nada se instala en el juego sin pedirlo).
 
 ## Cómo reportar un error
