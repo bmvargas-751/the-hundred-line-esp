@@ -1,22 +1,22 @@
 id	huella_jp	es
-10	71807357	Hiruko... de todos modos, voy a pelear.
+10	71807357	Hiruko. Tengo que pelear.
 20	d7e4db31	
-30	bb57f94c	Aunque te lo repita, ya estoy bien.\nNo voy a estorbar en el campo de batalla.
-40	c38e89ed	¡No puedo quedarme mirando sin hacer nada...!
-50	8a50be26	Todos arriesgan la vida peleando,\n¿y yo solo mirando sin hacer nada...?
-60	47430fb7	Entiéndeme, por favor...\n¡Quiero pelear de verdad por todos!
-70	f6d8f893	{fc(57e4f1)Hiruko cerró los ojos.\nLuego suspiró hondo y dijo:}
-80	d9c00376	Está bien, si insistes tanto...\n¿Pero si ves que no puedes, me lo dices enseguida, ¿sí?
-90	759a2337	Un sirviente jamás debe morir antes que su ama...\nEs una orden.
-100	4cc82973	Sí, de acuerdo.
-110	fd13b2f1	{fc(57e4f1)Tras oír mi respuesta, Hiruko se fue en silencio.}
-120	9b578043	{fc(57e4f1)Los demás irrumpieron en mi cuarto poco después.}
-130	0686bb97	{fc(57e4f1)Al verme despierto de ese largo sueño...}
-140	f5ec6cc0	{fc(57e4f1)gritaron de alegría, lloraron a mares y cantaron canciones de dicha.}
-150	0c954df3	{fc(57e4f1)Cuando se calmaron un poco...}
-160	f5ec5d1b	{fc(57e4f1)me cargaron en volandas, me sacaron afuera\ny me lanzaron al aire una y otra vez como unos tontos.}
-170	5befea1d	{fc(57e4f1)Volando por los aires, pensé:\nmi decisión no estaba equivocada.}
-180	4372af07	{fc(57e4f1)Peleo para proteger a estos tipos.\nEso es justicia. No puede ser un error.}
-190	0fdef031	{fc(57e4f1)Y a la vez pensé esto: ¡No moriré antes de las 10:00 del día 100!}
-200	d2cbdace	{fc(57e4f1)Por todos... por Hiruko...\n¡Sobreviviré hasta el final sin falta!}
-210	0d42746b	{fc(57e4f1)Mirando el satélite, apenas 2 m más cerca,\nlo juré con firmeza en mi pecho.}
+30	bb57f94c	Te lo digo en serio. Ya estoy bien. No los voy a estorbar en la batalla.
+40	c38e89ed	¡Pero no puedo quedarme aquí mirando!
+50	8a50be26	No puedo quedarme sentado mientras todos se juegan la vida en combate.
+60	47430fb7	Por favor, escúchame. ¡De verdad, de verdad quiero pelear por todos nosotros!
+70	f6d8f893	{fc(57e4f1)Hiruko cerró los ojos. Tras un pesado suspiro, habló.}
+80	d9c00376	Está bien, si insistes. Pero si se te hace demasiado, avísame de inmediato.
+90	759a2337	Un sirviente no puede morir antes que su amo. Es una orden, ¿me oyes?
+100	4cc82973	Sí, por supuesto.
+110	fd13b2f1	{fc(57e4f1)Hiruko se fue en silencio tras oír mi respuesta.}
+120	9b578043	{fc(57e4f1)No pasó mucho antes de que todos los demás aparecieran en mi cuarto.}
+130	0686bb97	{fc(57e4f1)Debió de ser un golpe verme despierto después de haber estado inconsciente tanto tiempo...}
+140	f5ec6cc0	{fc(57e4f1)Vitorearon, lloraron, cantaron canciones alegres.}
+150	0c954df3	{fc(57e4f1)Cuando todas las emociones se calmaron...}
+160	f5ec5d1b	{fc(57e4f1)Me sacaron afuera y me lanzaron al aire una y otra vez.}
+170	5befea1d	{fc(57e4f1)Mientras volaba por los aires, estuve seguro de haber tomado la decisión correcta.}
+180	4372af07	{fc(57e4f1)Pelearía para protegerlos. Eso era lo correcto. No podía ser un error.}
+190	0fdef031	{fc(57e4f1)Al mismo tiempo, estaba más convencido que nunca de que debía seguir con vida hasta las 10:00 de la mañana del Día 100.}
+200	d2cbdace	{fc(57e4f1)Por todos nosotros. Por Hiruko. Tenía que mantener a todos con vida hasta el final.}
+210	0d42746b	{fc(57e4f1)Hice un voto solemne en mi corazón mientras volaba, un poquito más cerca del satélite.}
