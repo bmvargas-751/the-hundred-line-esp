@@ -1,20 +1,20 @@
 id	huella_jp	es
-10	4947cf70	{fc(57e4f1)Entré con cautela y...}
-20	606929ac	{fc(57e4f1)vi a Tsubasa, con cara seria,\nconstruyendo algo sobre la mesa de trabajo.}
+10	4947cf70	{fc(57e4f1)Entré con cuidado...}
+20	606929ac	{fc(57e4f1)Y vi a Tsubasa ahí, con cara seria, fabricando algo en un banco de trabajo.}
 30	bbb4e46e	Tsubasa, ¿qué haces tan temprano?
-40	f8cc78c0	Ah, Takumi...\nPerdón, estaba concentrada y no te noté.
-50	620602c7	Estaba haciendo una bomba.
-60	82576662	¡¿B-Bomba?!
-70	8890236a	¡Eso no se dice así de pasada!\n¡¿Cómo llegaste a esto?!
-80	0c22eb74	Eh... en realidad conseguí el plano de una bomba.\n¡Una potente que usa las {fc(ff635b)"llamas que no se apagan"}!
-90	fd13269b	¿De dónde sacaste algo así...?
-100	749009b0	Es largo, así que me ahorro los detalles:\nson datos que estaban en los restos de SIREI.
-110	46b56f89	Como usa las {fc(ff635b)"llamas que no se apagan"},\nquizás sea eficaz contra los invasores.
-120	0429acbf	Es verdad... si se puede usar una bomba así,\nsería útil en combate.
-130	322d280d	¿Verdad?\nPor eso quise intentarlo.
-140	55c0151a	Llevará mucho tiempo y esfuerzo, y es difícil, pero...\n¡lo haré!
-150	481d8218	Gracias, cuento contigo.
-160	b311475c	Ah, es verdad: me encerraré un tiempo en el taller metalúrgico,\nasí que por peligro, entrada prohibida, ¿sí?
-170	76c3e441	Entendido.\nNo te esfuerces demasiado.
-180	07dcac79	{fc(57e4f1)Me despedí de Tsubasa\ny salí del taller metalúrgico.}
-190	6e188a95	{fc(57e4f1)Yo tampoco puedo andar de holgazán...\nTengo que esforzarme.}
+40	f8cc78c0	Ah, Takumi... Perdón, estaba tan concentrada que no te sentí entrar.
+50	620602c7	Estaba fabricando una bomba.
+60	82576662	¡¿Una bomba?!
+70	8890236a	¡¿Cómo puedes decirlo tan tranquila?! ¡¿Qué está pasando?!
+80	0c22eb74	Bueno, en realidad justo encontré los planos de una bomba. Una potente que usa {fc(ff635b)Llamas Eternas.}
+90	fd13269b	¿Dónde diablos...?
+100	749009b0	Es una larga historia, así que te ahorro los detalles. En resumen, estaba guardada en lo que quedaba del banco de memoria de Sirei.
+110	46b56f89	Como usa {fc(ff635b)Llamas Eternas}, espero que funcione contra los invasores.
+120	0429acbf	No te falta razón... Una bomba así podría ayudarnos mucho en una batalla.
+130	322d280d	¿Verdad? Por eso quise intentarlo.
+140	55c0151a	Va a tomar mucho tiempo y esfuerzo, y además es dificilísimo, pero... ¡tengo que intentarlo!
+150	481d8218	Gracias, Tsubasa. Espero buenas noticias.
+160	b311475c	Ah, y una cosa más... Voy a estar encerrada en el Taller de Metales un buen rato, pero no puedes entrar bajo ninguna circunstancia mientras trabajo en esto, ¿ya? Es peligroso.
+170	76c3e441	Entendido. No te exijas demasiado, ¿ya?
+180	07dcac79	{fc(57e4f1)Me despedí de Tsubasa y salí del Taller de Metales.}
+190	6e188a95	{fc(57e4f1)Yo tampoco tengo tiempo para relajarme... Tengo que dar lo mejor de mí.}
