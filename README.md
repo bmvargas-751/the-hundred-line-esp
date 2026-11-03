@@ -77,7 +77,7 @@ Para colaborar o instalar desde una copia del repositorio (WSL o Linux), mira [C
 ## Documentación
 
 - [Guía para colaborar](CONTRIBUTING.md), con la estructura del proyecto y las herramientas
-- [Estilo](STYLE.md) y [glosario](GLOSSARY.md); el [glosario del doblaje inglés](GLOSSARY-EN.md) suma lo que cambia en esa versión
+- [Estilo](STYLE.md) y [glosario](GLOSSARY.md): reglas de base, nombres, tratamientos y lista de términos
 
 ## Créditos y aviso
 

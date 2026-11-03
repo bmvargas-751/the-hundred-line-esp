@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 # Una sola versión de la traducción: "en" (base inglés, doblaje inglés). La versión basada en el japonés se retiró (2026-11-03).
 ## "en" (base inglés, para el doblaje inglés). Cada una tiene su carpeta.
-VERSIONS = {"en": "translation-en"}
+VERSIONS = {"en": "translation"}
 VERSION_NAMES = {"en": "Doblaje inglés"}
 VERSION = "en"
 TRANSLATION = ROOT / VERSIONS["en"]
