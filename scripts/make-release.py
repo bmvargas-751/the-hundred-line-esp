@@ -72,7 +72,7 @@ DESINSTALAR
 
 Si el juego se actualiza, Steam pisa el parche: vuelve a ejecutar {launch}.
 Errores y comentarios (sin spoilers): https://github.com/bmvargas-751/the-hundred-line-esp/issues
-Licencias: ver LICENSE.md y translation-en/LICENSE. MVGLTools trae la suya en tools/.
+Licencias: ver LICENSE.md y translation/LICENSE. MVGLTools trae la suya en tools/.
 """
 
 
@@ -92,7 +92,7 @@ def common_files(version, windows):
     files = []
     for s in SCRIPTS:
         files.append((f"scripts/{s}", (ROOT / "scripts" / s).read_bytes(), False))
-    for folder in ("translation-en",):
+    for folder in ("translation",):
         for p in sorted((ROOT / folder).rglob("*")):
             if p.is_file():
                 files.append((p.relative_to(ROOT).as_posix(), p.read_bytes(), False))

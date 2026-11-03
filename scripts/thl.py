@@ -11,7 +11,7 @@
   'message/r00_*_d000_*'  prólogo de la primera partida
   'text/*'                toda la interfaz
 
-Con --version en (antes del comando) todo trabaja sobre translation-en/ y table-en/.
+Con --version en (antes del comando) todo trabaja sobre translation/ y table/.
 
 Cada línea de ediciones.jsonl: {"key": "...", "es": "texto nuevo", "old": "texto actual (opcional)"}.
 Con "old", la edición solo se aplica si el español actual coincide ("" si la línea está pendiente).
@@ -272,7 +272,7 @@ def cmd_progress(args):
 
 
 # table/: cada línea con el japonés, el inglés y el español, para leer en GitHub. Es la única copia del texto del juego en el repo.
-TABLE = td.ROOT / "table"  # con --version en: table-en/ (se fija en main)
+TABLE = td.ROOT / "table"
 SECTION_DIRS = dict(zip(SECTIONS, ["interface", "first-playthrough", "later-playthroughs", "events-and-chats"]))
 PAGE_MAX = 150_000  # bytes por página: GitHub deja de mostrar las tablas muy largas
 COLOR_CODES = re.compile(r"\{[a-z]+\d*(?:\([^)]*\))?|\}")
@@ -434,8 +434,6 @@ def main():
     global TABLE
     if args.version:
         td.set_version(args.version)
-    if td.VERSION != "jp":
-        TABLE = td.ROOT / f"table-{td.VERSION}"
     {"export": cmd_export, "apply": cmd_apply, "diff": cmd_diff, "check": cmd_check, "progress": cmd_progress,
      "table": cmd_table, "hecho": cmd_hecho}[args.cmd](args)
 

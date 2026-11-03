@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Arma los .mvgl traducidos: inglés original (build/vanilla/) + nuestra traducción (translation-en/).
+# Arma los .mvgl traducidos: inglés original (build/vanilla/) + nuestra traducción (translation/).
 # Lo que falta traducir queda en inglés.
 # También arma app_1 con las fuentes del menú arregladas (scripts/thlfuente.py).
 # Uso: scripts/build.sh [en]   -> genera dist/en/*.dx11.mvgl (doblaje inglés)

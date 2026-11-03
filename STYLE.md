@@ -4,11 +4,9 @@ Reglas para toda traducción. Los términos fijos están en [GLOSSARY.md](GLOSSA
 
 ## Principio general
 
-La referencia es el **japonés original** (`app_text00`/`patch_text00`; `thl.py export` lo muestra como `JP:`): se traduce el sentido y el tono, no palabra por palabra.
-El inglés (columna `string 4` en `message/`) ayuda con las frases japonesas difíciles, pero cuando se aparta del japonés (chistes nuevos, paráfrasis, partes agregadas o quitadas) se sigue el japonés.
-**Los nombres son la excepción:** los que inventó o cambió el inglés se toman del inglés (*Revive-O-Matic*, *Penúltima Academia de Defensa*, *Juez*), según el criterio 2 de [GLOSSARY.md](GLOSSARY.md#nombres-propios).
-Lo que el japonés ya escribe en inglés se deja en inglés, tal como lo escribe (*SAFETY*, *EXTREME & DESPAIR*, *Nice DEATH*).
-Basarse en el japonés no es japonizar: se localiza al español. Nada de honoríficos japoneses (-san, -kun, -sama, -sensei...) ni giros calcados.
+La base es el **inglés oficial**: cada línea se traduce frase por frase, con el mismo sentido y un largo parecido al de la voz, para que el subtítulo coincida con el doblaje inglés. El japonés original (`thl.py export` lo muestra como `JP:`) solo ayuda a resolver género, sujeto omitido y trato (tú/usted).
+Se localiza al español: nada de honoríficos japoneses (-san, -kun, -sama, -sensei...) ni giros calcados del inglés.
+Los nombres siguen al inglés (ver [GLOSSARY.md](GLOSSARY.md)). Lo que el juego ya escribe en inglés se deja tal cual (*SAFETY*, *Nice DEATH*).
 Se traduce **frase por frase**: si se cambia una palabra, se revisa que el resto de la oración siga concordando y suene natural.
 
 ## Español neutro

@@ -23,16 +23,16 @@ Cada paquete se descomprime dentro de la carpeta del juego y trae el instalador,
 Las descargas (MVGLTools, Python) se verifican contra los hashes fijados en el script. Se suben con `gh release create` / `gh release upload`.
 Antes de publicar, probar `install` y `uninstall` en Windows y en Steam Deck.
 
-## Dos versiones
+## Versión de la traducción
 
-`python3 -I scripts/thl.py --version en <comando>` (o `THL_VERSION=en`) trabaja sobre `translation-en/` y `table-en/`; sin la opción, sobre `translation/` (jp).
-En `en`, un archivo cuenta como pendiente hasta que se marca rehecho con `thl.py --version en hecho <patrón>` (tras revisar todas sus líneas contra el inglés; `export --breve` las muestra en una línea)
+Hay una sola versión: la del doblaje inglés, en `translation/`. Los comandos de `thl.py` ya la usan por defecto (`--version en` se acepta por compatibilidad).
+Un archivo cuenta como pendiente hasta que se marca rehecho con `thl.py hecho <patrón>` (tras revisar todas sus líneas contra el inglés; `export --breve` las muestra en una línea). `hecho.txt` lista los archivos hechos.
+Los avisos de `thl.py check` deben quedar en cero; incluye el aviso `caja` (máximo 3 renglones de ~62 caracteres). La corrección de calidad se lleva en [REVISION.md](REVISION.md).
 
 ## Estructura
 
 ```
-translation/<message|text>/<archivo>/<hoja>.tsv   traducción del doblaje japonés (base japonés)
-translation-en/…       traducción del doblaje inglés (base inglés); hecho.txt lista los archivos ya rehechos desde el inglés
+translation/<message|text>/<archivo>/<hoja>.tsv   traducción (doblaje inglés, base inglés); hecho.txt lista los archivos ya rehechos desde el inglés
 review/ignore.csv      avisos de los chequeos revisados que no son errores
 scripts/thl.py          trabajo: ver líneas, aplicar traducciones, ver cambios, chequeos, progreso
 scripts/thldatos.py     lectura del original y de la traducción (lo usa thl.py)

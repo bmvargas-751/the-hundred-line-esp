@@ -1,5 +1,57 @@
 # Glosario
 
+Glosario de la traducción (`translation/`, hecha desde el inglés oficial para el doblaje inglés). Primero las reglas de base, nombres y tratamientos; después la lista de términos. Meta: que el subtítulo diga lo mismo que la voz que se escucha. Ver también [STYLE.md](STYLE.md).
+
+## Base
+
+- **La base es el inglés.** Cada línea se traduce desde el inglés oficial, frase por frase, con el mismo sentido y el mismo largo aproximado que la voz.
+- **Que se entienda.** Base en el inglés no es calco del inglés: la frase tiene que leerse natural en español, con el mismo sentido y un largo parecido a la voz. Si el inglés tiene un giro que en español no se entiende (*play into their hands*, *every chance*, *where you're coming from*), se busca el giro equivalente; no se traduce palabra por palabra ni se reescribe tan libre que se aleje de la voz.
+- **La voz del personaje no se rompe.** Cada personaje suena como suena en el juego (tuteo o *usted*, jerga, tics, cortes, registro, grosería, cómo habla de sí mismo). Una frase que se entiende pero suena a otro personaje está mal: se corrige igual. Antes de proponer o aplicar un texto, comprobar que lo diría ese personaje (*STYLE.md*, apartado de personajes, y las líneas vecinas).
+- El japonés solo ayuda a resolver lo que el inglés deja ambiguo: género, sujeto omitido, trato (tú/usted), registro.
+  Si el inglés agrega, quita o cambia algo, se sigue el inglés (la voz lo dice así).
+- La traducción japonesa del repo (`ES(jp)` en el export) es un punto de partida: si ya dice lo mismo que el inglés, se deja igual.
+
+## Nombres
+
+- **Como el inglés los escribe y los dice**: *Takumi*, *Hiruko*, *Takemaru*, *Darumi*, *Eito*, *Tsubasa*, *Gaku*, *Ima*, *Kako*, *Shouma*, *Nozomi*, *Kurara*, *Kyoshika*, *Yugamu*, *Moko*, *Kamyuhn*...
+  Si el inglés usa el nombre de pila donde el japonés usa el apellido, va el nombre de pila (*Takumi*, no *Sumino*). Si inglés y japonés usan ambos el apellido, se deja el apellido.
+- Nombres completos en orden occidental: *Takumi Sumino*.
+- Etiquetas de quien habla y listas de la interfaz: como el juego en inglés.
+- Honoríficos: no se transcriben; se localizan igual que en GLOSSARY.md, siguiendo lo que el inglés hace con ellos.
+
+## Términos, lugares, habilidades y objetos
+
+- **Todo nombre sigue al inglés**: si el inglés cambió el nombre japonés, va el del inglés (criterio 2 de GLOSSARY.md, sin la excepción del criterio 1).
+  Ejemplos: *Luces mortales* (*Deadlights*, la habilidad que el japonés llama Death Drive), *A la caza* (*On the Hunt*), *Judge*/*Jury*/*Executioner* ya traducidos como *Juez*/*Jurado*/*Verdugo*.
+  Marcas y palabras inventadas quedan en inglés (*Revive-O-Matic*); palabras comunes se traducen (*Penúltima Academia de Defensa*).
+- **Las habilidades se traducen al español** (decisión del 2026-10-27): el nombre del inglés, traducido. Ejemplos: *Side Slash* → *Tajo lateral*, *Hellfire* → *Fuego infernal*.
+  Una misma habilidad se escribe igual en todos los menús, tutoriales y diálogos.
+- Rótulos de la interfaz (menús, opciones, categorías): como el juego en inglés, traducidos al español.
+- Lo que el inglés deja en romaji (*Shigure no Mai*) se deja en romaji.
+
+## Juegos de palabras y frases delicadas
+
+Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre delicadas y normales en cuanto a la base.
+
+## Tratamientos propios de la versión inglesa
+
+- Darumi a Hiruko: *Mistress* → **la Ama Hiruko** (con artículo femenino; sin artículo solo al llamarla: *No me dejes, Ama Hiruko*). En la versión japonesa es *Reina Hiruko*.
+- Darumi habla de sí misma en primera persona (el inglés dice *I*), no en tercera.
+- Ima es un chico: habla de sí mismo en masculino (*estoy seguro*, nunca *segura*). A Kako sí le dice *buena chica* (es su hermana).
+- Cuando el destinatario es un grupo, el pronombre concuerda: *se los ruego*, *se los garantizo*, *se los dejo a ustedes* (así se dice en Chile y en buena parte de América). *Se lo* queda para uno solo o cuando "se" es otra persona (*se lo conté a todos*).
+- **Caja de diálogo**: máximo 3 renglones de ~62 caracteres (unos 175 caracteres visibles, sin contar códigos); el inglés más largo mide 178. Más de 3 renglones se sale de la caja. El chequeo `caja` de `thl.py check` lo avisa; al acortar, conservar el sentido y la voz.
+- Porcentajes: el número va pegado al signo, sin espacio (*50%*, no *50 %*).
+- Ima: usted (señor/señorita) con todos, tú solo con su hermana Kako (en japonés habla en っす con todos menos con ella, a quien le habla casual: 妹ちゃん). Si en una misma frase hay *señor X* y un *tú*, corregir a usted. Kako habla casual (tú, *Takumi*) con todos; no *usted* ni *Sr. Sumino*.
+- Conjunciones: *y* → *e* ante sonido /i/ (*e Ima*, *e Hiruko*, *e hijo*), también al inicio de oración; *o* → *u* ante sonido /o/.
+- Insultos: *idiot*, *moron*, *dullard* → *idiota*, *imbécil*; *tonto* solo para *silly/dumb* como adjetivo suave.
+- Método de revisión: ver `.claude/skills/traducir-bloque/REVISION-EN.md`.
+
+---
+
+# Lista de términos
+
+La lista que sigue es heredada de la primera etapa del proyecto. **Si algo de ella contradice a las reglas de arriba (Base, Nombres, Tratamientos), mandan las de arriba**: todo nombre sigue al inglés, y el japonés solo ayuda con género, sujeto omitido y trato.
+
 Términos fijos del juego. **Propuesta** es la forma a usar.
 Estado: ✅ decidido · ❓ pendiente de decisión.
 
