@@ -1,22 +1,22 @@
 id	huella_jp	es
-10	b4c10a3f	{fc(57e4f1)...\n...}
-20	5de2526b	...\n...
-30	5de2526b	...\n...
-40	46df9827	{fc(57e4f1)Siguió un silencio que parecía eterno.\nMi cabeza estaba vacía y no podía pensar en nada.}
-50	9a4265e6	{fc(57e4f1)Solo mirábamos, como atontados,\nla luz de la lámpara colgada del techo.}
-60	89a0382f	{fc(57e4f1)No sé cuánto tiempo pasó.\nDe pronto se oyó el anuncio de dormir.}
-80	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-90	abe0acf8	Para prepararnos ante los invasores,\ndescansen bien mientras puedan...
-100	b588a67e	Bueno... buenas noches...
-110	3e196f98	{fc(57e4f1)En el espacio amplio y frío volvió a reinar el silencio.\nAun así, no hablamos y seguimos de pie, ausentes.}
-120	85615283	{fc(57e4f1)Hiruko abrió la boca\nbastante rato después.}
-130	f7881dac	Volvamos...
-140	b35f8056	{fc(57e4f1)Quise responder, pero los labios secos no se movieron.}
-150	2df0ba2b	Ya no tiene sentido quedarnos aquí...\nAl final, "Juurinne-kou" no estaba.
-160	4235ad7c	Quizás esté fuera del muro...pero no sé cómo buscarlo.
-170	c3cc2b3b	No hay bibliotecas ni librerías...\nSería como buscar una aguja en un pajar.
-180	e7c43434	Entonces...
+10	b4c10a3f	
+20	5de2526b	
+30	5de2526b	
+40	46df9827	{fc(57e4f1)Pasamos lo que pareció una eternidad en la Biblioteca, en silencio. Tenía la cabeza vacía, incapaz de pensar por sí misma.}
+50	9a4265e6	{fc(57e4f1)Simplemente mirábamos, hipnotizados, la luz de la lámpara que colgaba del techo.}
+60	89a0382f	{fc(57e4f1)No tenía idea de cuánto tiempo había pasado. Pero entonces, oí el anuncio.}
+80	fcd5bdde	*Bostezo* Descansen, soldados. Es hora de irse a la cama.
+90	abe0acf8	Asegúrense de descansar bien mientras puedan, para estar listos para el próximo ataque enemigo...
+100	b588a67e	Bueno, entonces, buenas noches...
+110	3e196f98	{fc(57e4f1)El silencio volvió a envolver el espacio frío y vasto. Ninguno de los dos dijo una palabra. Seguimos ahí parados, atónitos.}
+120	85615283	{fc(57e4f1)Pasado un rato, Hiruko por fin habló.}
+130	f7881dac	Volvamos.
+140	b35f8056	{fc(57e4f1)Intenté responder, pero tenía la boca demasiado seca para moverla.}
+150	2df0ba2b	No tiene sentido quedarse. El libro no estaba aquí después de todo...
+160	4235ad7c	Quizás esté en alguna parte más allá del Muro de Fuego, pero no tengo idea de cómo lo encontraríamos.
+170	c3cc2b3b	Allá afuera no hay bibliotecas ni librerías. Sería como buscar una aguja en un pajar.
+180	e7c43434	¿Eso significa...?
 190	f4a72a8b	
-200	42cb399b	No queda más que rendirse con "Juurinne-kou"...\nBusquemos otro método.
-210	36026edb	{fc(57e4f1)Dicho eso, Hiruko salió del cuarto sin hacer ruido.}
-220	12cd48ad	{fc(57e4f1)Una masa oscura me aplastó el fondo del pecho.\nNi siquiera me salió un suspiro.}
+200	42cb399b	Vamos a tener que renunciar al libro... y encontrar otra salida del bucle.
+210	36026edb	{fc(57e4f1)Dicho eso, Hiruko salió de la sala.}
+220	12cd48ad	{fc(57e4f1)Sentí algo oscuro en la boca del estómago. Ni siquiera pude reunir fuerzas para suspirar.}
