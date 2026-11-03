@@ -1,18 +1,18 @@
 id	huella_jp	es
-10	247b5722	{fc(57e4f1)Allí revisamos la lista de libros hasta entrada la noche.\nPero...}
-20	7c7a0588	No sirve: no hay ningún libro con ese título en la lista...
-30	5189aa5f	Ni obras del doctor Inone tampoco...
-40	b0cbdeec	Pero en la pantalla de búsqueda de la PC hay esta advertencia...
-50	8d07a66f	{fc(57e4f1)"Esta lista de libros no es completa."}
-60	6c667bbe	{fc(57e4f1)"En esta biblioteca también hay muchos libros\nque no figuran en la lista."}
-70	39627689	¡Maldición, ¿hay que buscar a ojo...?!
+10	247b5722	{fc(57e4f1)Hiruko y yo pasamos el resto del día y gran parte de la noche revisando los distintos listados de índice de la Biblioteca.}
+20	7c7a0588	No hay caso. No hay señal de que ese libro haya estado aquí alguna vez.
+30	5189aa5f	Tampoco hay nada más del profesor Inone...
+40	b0cbdeec	Pero me salió este mensaje cuando busqué en el computador.
+50	8d07a66f	{fc(57e4f1)Los registros de esta base de datos están incompletos.}
+60	6c667bbe	{fc(57e4f1)Es posible que se hayan agregado libros nuevos a la colección sin actualizar el índice.}
+70	39627689	¡¿Así que tenemos que buscar manualmente en los estantes...?!
 80	f4a72a8b	
-90	fe2ed280	¡¿Entre esa cantidad enorme de libros...?!
-100	54432954	Parece que no hay otra opción...
-110	69abb08c	{fc(57e4f1)Quedé atónito mirando la hilera interminable de libros.}
-120	1cdb6875	En todo caso, ya es tarde hoy... sigamos mañana.
-130	b236877f	Mañana es día de batalla defensiva, pero el enemigo ataca de noche.
-140	e9180bb1	Por cierto... ¿recuerdas quién es el comandante que atacará mañana?
-150	3bf17c5a	{fc(57e4f1)Asentí con firmeza y respondí.}
-160	20b9669b	Es Eva, ¿no...?
-170	7ad78e07	También hay que pensar qué hacer con ella.
+90	fe2ed280	¡¿Has visto cuántos libros hay aquí?!
+100	54432954	Me temo que es nuestra única opción.
+110	69abb08c	{fc(57e4f1)Contemplé atónito las hileras e hileras de libros y documentos alineados por toda la sala.}
+120	1cdb6875	Se está haciendo tarde, sin embargo. Dejémoslo por hoy.
+130	b236877f	Nuestra próxima batalla defensiva es mañana en la noche, así que podemos empezar a buscar durante el día sin problema.
+140	e9180bb1	Hablando de eso... Recuerdas qué comandante ataca mañana, ¿verdad?
+150	3bf17c5a	{fc(57e4f1)Asentí.}
+160	20b9669b	Sí... Es Eva.
+170	7ad78e07	Tendremos que pensar qué hacer con ella también.

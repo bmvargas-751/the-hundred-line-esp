@@ -1,12 +1,12 @@
 id	huella_jp	es
-10	10734b5f	{fc(57e4f1)Hora actual: 12:59...\nYa llevamos el traje y terminamos de ajustar el aparato.}
-20	cb357972	{fc(57e4f1)Solo falta esperar a que llegue el momento.\nEntonces, de pronto Hiruko dijo.}
-30	b04ec383	Como la vez anterior, repasemos.\n¿A qué TL vamos a saltar?
-40	0a8c6e0d	{fc(ff635b)"TL Retsnom"}
-50	01e1cd94	¿Y el objetivo?
-60	908b37ba	Ver al anciano misterioso y preguntarle por el {fc(ff635b)"ciclo maldito"}.
-70	8acb80e9	Bien, veo que lo tienes claro.
-80	aca0135c	{fc(57e4f1)Apenas lo dijo...\nel número en un rincón de mi vista cambió a "13:00".}
-90	392189d6	Entonces, empecemos.
-100	38796e74	{fc(57e4f1)Hiruko golpeó el botón rojo de la consola.\nLuego saltó sobre el círculo junto conmigo.}
-110	32349179	¡Vamos!
+10	10734b5f	{fc(57e4f1)12:59 pm. Habíamos preparado la máquina y teníamos puestos los trajes de salto.}
+20	cb357972	{fc(57e4f1)Ahora solo teníamos que esperar. Cuando casi era la hora, Hiruko habló de repente.}
+30	b04ec383	Hagamos un repaso antes de irnos, como la última vez. ¿A qué línea temporal saltamos?
+40	0a8c6e0d	A la línea temporal {fc(ff635b)Retsnom}.
+50	01e1cd94	¿Y cuál es nuestro objetivo?
+60	908b37ba	Encontrar al anciano y preguntarle por {fc(ff635b)"el ciclo maldito"}.
+70	8acb80e9	Bien. Me alegra que tengas claros los conceptos básicos.
+80	aca0135c	{fc(57e4f1)En el instante en que terminó de hablar, vi con el rabillo del ojo que la hora cambiaba a la 1:00 pm.}
+90	392189d6	¿Quieres que vayamos?
+100	38796e74	{fc(57e4f1)Hiruko presionó el botón rojo y los dos subimos a la plataforma redonda.}
+110	32349179	Sí. ¡Hagámoslo!

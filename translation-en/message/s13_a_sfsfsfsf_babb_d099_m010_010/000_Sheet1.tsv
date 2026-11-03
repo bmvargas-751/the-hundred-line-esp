@@ -1,23 +1,23 @@
 id	huella_jp	es
-10	e9f0848b	Tienes razón...\nQuizás sea mejor quedarme quieto, como dices.
-20	5e135d81	Qué bueno que lo entiendas...
-30	83df4eba	Pero no es porque tema por mi vida.\nSi salgo ahora, solo estorbaré.
-40	f0f1e332	Siendo ellos como son, se preocuparían por mí, débil como estoy,\ny tratarían de protegerme.
-50	f66f1016	Entonces no podrían concentrarse en el combate,\ny yo terminaría arrastrándolos...
-60	fe3587b9	O sea que es una decisión que pone a todos primero, ¿verdad?
+10	e9f0848b	Urgh... Tienes razón, quizás debería quedarme quieto.
+20	5e135d81	Sabía que entrarías en razón.
+30	83df4eba	Pero no es porque tenga miedo de morir. Es que no quiero estorbarles allá afuera.
+40	f0f1e332	Todos se preocuparían por mí e intentarían protegerme...
+50	f66f1016	No podrían concentrarse del todo en la pelea, y al final solo los frenaría.
+60	fe3587b9	En resumen, estás tomando esta decisión pensando en lo mejor para todos.
 70	32e824d0	Sí...
-80	2e129915	Bien. Esa decisión es correcta.\nComo capitán, te pongo 100 puntos.
+80	2e129915	Bien. Elegiste lo correcto. Te doy 100 puntos de liderazgo.
 90	f96c36b4	Perdón por no poder ayudar...
-100	c387231c	Ah, esa respuesta es de 0 puntos...\n¿No es deber del capitán levantar el ánimo de los combatientes?
-110	fd035688	Es verdad...\n¡Entonces te lo encargo, Hiruko! ¡Confío en que ganarás!
-120	93b86539	Hmph, ¡qué descaro para ser un sirviente!
-130	e4bef450	¿Eh...?
-140	c61b07fa	En fin... voy.
-150	8f84f45d	{fc(57e4f1)Hiruko sonrió con malicia, se echó el pelo hacia atrás\ny salió corriendo del cuarto.}
-160	4394c132	{fc(57e4f1)Y de golpe me atacó el ataque contenido.}
-170	bd7b911c	Uh... uuuh...
-180	ca626c1b	{fc(57e4f1)Si hubiera podido, habría subido a la azotea,\nal menos para mirar el combate de todos...}
-190	50e4df0a	{fc(57e4f1)Pero parecía que ni eso era posible.}
-200	a376f532	{fc(57e4f1)Perdí las fuerzas y caí allí mismo.}
-210	9293262c	{fc(57e4f1)Ya no me quedaban ganas siquiera\nde arrastrarme hasta la cama.}
-220	03c50595	{fc(57e4f1)Poco después un dolor que me atravesó\nme arrancó la conciencia.}
+100	c387231c	Y ahora perdiste todos tus puntos. El capitán debe levantar la moral de sus combatientes, ¿sabes?
+110	fd035688	Tienes razón... Bien, entonces. ¡Tú puedes, Hiruko! ¡Sé que ganarás!
+120	93b86539	Hmph. ¡Conoce tu lugar, sirviente!
+130	e4bef450	¿Qué...?
+140	c61b07fa	En fin, me tengo que ir.
+150	8f84f45d	{fc(57e4f1)Hiruko se pasó los dedos por el pelo con una sonrisa burlona antes de salir apurada de mi cuarto.}
+160	4394c132	{fc(57e4f1)De inmediato, me invadió el ataque que había intentado contener.}
+170	bd7b911c	Urgh... Ngh...
+180	ca626c1b	{fc(57e4f1)Había esperado al menos poder vigilar a todos desde la Azotea mientras peleaban esta batalla final...}
+190	50e4df0a	{fc(57e4f1)Pero parecía que eso no iba a suceder.}
+200	a376f532	{fc(57e4f1)Perdí todas las fuerzas y me desplomé en el lugar.}
+210	9293262c	{fc(57e4f1)Ni siquiera tenía energía para arrastrarme hasta mi cama.}
+220	03c50595	{fc(57e4f1)Pronto, un dolor punzante me arrebató la conciencia.}

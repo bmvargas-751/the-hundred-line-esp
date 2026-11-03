@@ -1,132 +1,132 @@
 id	huella_jp	es
-10	865051d8	{fc(57e4f1)Al llegar al laboratorio, Hiruko desactivó enseguida su armadura de clase.\nYo también volví a mi aspecto de siempre.}
-20	f43fd964	¿Por qué ropa de calle...?
-30	82e9bd4f	Si llevas puesta la armadura de clase, no puedes ponerte el Leap Suit.
-40	23f0e702	Hoy no pienso ponérmelo,\npero por costumbre, nada más...
-50	c71ac696	¿Por qué no se puede con la armadura de clase puesta?
-60	4ec2a3fb	El Leap Suit tiene una función que repele la hemoánima.\nPor eso no le afectan los ataques con armas de clase...
-70	95fd523e	Y aunque la armadura esté por dentro del traje,\nla repulsión impide que puedas ponértelo.
-80	91bb1129	Si no mal recuerdo, hacer ese tal {fc(ff635b)"Parallel Leap"} sin ponerlo\ntraía graves consecuencias, ¿no...?
-90	ebec0d4f	Eso tú lo sabes mejor que nadie.\n¡Tú mismo sufriste el {fc(ff635b)"trastorno PL"}!
-100	36bda20a	¿{fc(ff635b)"Trastorno PL"}...?
-110	b030fa18	La disfunción que sufres al hacer un Parallel Leap sin el traje.\n{fc(ff635b)"PL"} es la abreviatura de {fc(ff635b)"Parallel Leap"}.
-120	c6c58729	¿Y qué es en realidad el Parallel Leap?
-130	a16a7789	Justamente para explicártelo te traje aquí.
-140	0abe888d	¿Sabes qué es un {fc(ff635b)"mundo paralelo"}?
-150	7494bb5a	Lo oí de Eito en la primera vuelta.\nUn {fc(ff635b)"universo paralelo"}, ¿no?
-160	4f1be981	¿Los mundos de las otras TL que vivimos...\nlas {fc(ff635b)"TL"}, también cuentan?
-170	00ba2a40	Exacto... puedes considerar que un {fc(ff635b)"mundo paralelo"}\nes un {fc(ff635b)"mundo de otra TL"}.
-180	62497fa1	Entonces el {fc(ff635b)"Parallel Leap"} es...
-190	19c2dcd0	Literalmente... el fenómeno de {fc(ff635b)"saltar"} a otro {fc(ff635b)"mundo paralelo"}.
-200	b60a0290	{fc(ff635b)"Leap"} significaba {fc(ff635b)"saltar por encima"}, ¿no?\n¿Es distinto del {fc(ff635b)"viaje en el tiempo"}?
-210	1608acae	Completamente distinto. La dirección es otra...
-220	942cd465	El viaje en el tiempo es saltar hacia el pasado o el futuro,\npero el Parallel Leap es desplazarse en paralelo entre mundos.
-230	26e74855	Como cambiar de carril...
-240	956e1ddf	Con el Parallel Leap no se puede retroceder al pasado\nni ir al futuro.
-250	0701fb17	Se salta, como deslizándose, a un mundo paralelo\na la misma hora en que uno está.
-260	b573273f	Por ejemplo...
-270	67584197	Si haces Parallel Leap a la TL-B a la {fc(ff635b)"1:01"} de la TL-A,\nte mueves a la misma hora de la TL-B: las {fc(ff635b)"1:01"}.
-280	5584b662	Es decir, la coordenada del eje temporal queda igual\ny cambia la coordenada del eje de mundos.
-290	d4468de0	Y hay otra diferencia.
-300	a88bd058	Cuando hicimos el viaje en el tiempo la noche del día 2,\nsolo nuestra conciencia retrocedió, ¿verdad?
-310	6e23c2ea	No retrocedimos en el tiempo con todo el cuerpo,\ncomo si subiéramos a una máquina del tiempo.
-320	89eb773d	Pero el Parallel Leap es distinto.
-330	72a2d7a7	Se salta a un mundo paralelo\njunto con el propio cuerpo.
-340	e9ca6034	Y lo que lo hace posible es esa máquina...\nyo la llamo {fc(ff635b)"dispositivo PL"}.
-350	21da867d	{fc(ff635b)"PL"} es abreviatura de {fc(ff635b)"Parallel Leap"}...\nya te lo dije hace un rato, ¿no?
-360	1234e508	Espera, espera...
-370	5b08fe91	Entonces, nosotros, hacia las 0:00 del día 5...
-380	3a8442a9	¡¿saltamos a otra TL?!
-390	24a4fd3d	¿Recién ahora...?\n¿No te diste cuenta bastante tarde?
-400	7ddc6d12	¡Pero... adónde!\n¡¿A qué TL saltamos?!
-410	83b05b0f	{fc(57e4f1)Cuando se lo pregunté, Hiruko sacó del bolsillo\nalgo como un dispositivo y me mostró la pantalla.}
+10	865051d8	{fc(57e4f1)Cuando llegamos al laboratorio, Hiruko disipó su Armadura de Clase. Yo hice lo mismo.}
+20	f43fd964	¿Por qué volvimos a nuestra ropa normal?
+30	82e9bd4f	No puedes ponerte un traje de salto con la Armadura de Clase puesta.
+40	23f0e702	No creo que de verdad necesitemos los trajes esta vez, pero es costumbre.
+50	c71ac696	¿Por qué no funcionan si tienes la Armadura de Clase puesta?
+60	4ec2a3fb	Los trajes de salto tienen la capacidad de repeler la hemoánima. No les afectan los ataques de las Armas de Clase.
+70	95fd523e	Si intentaras ponerte uno con la Armadura de Clase, las dos superficies se negarían a tocarse, como imanes con la misma polaridad.
+80	91bb1129	Y hacer un {fc(ff635b)"salto paralelo"} sin uno de esos trajes es mala idea, ¿verdad?
+90	ebec0d4f	No deberías necesitar preguntármelo. Ya viviste el {fc(ff635b)daño de salto} en carne propia.
+100	36bda20a	{fc(ff635b)¿Daño de }qué?
+110	b030fa18	El {fc(ff635b)daño de salto} es lo que pasa si haces un {fc(ff635b)salto paralelo} sin traje de salto.
+120	c6c58729	Ya has mencionado esto de saltar un par de veces. ¿Qué significa?
+130	a16a7789	Para eso te traje aquí a explicártelo.
+140	0abe888d	¿Conoces el concepto de {fc(ff635b)universos paralelos}?
+150	7494bb5a	Sí, Eito me habló de ellos en el primer ciclo. Básicamente son {fc(ff635b)realidades alternativas}, ¿no?
+160	4f1be981	¿Dices que las distintas {fc(ff635b)líneas temporales} que hemos vivido son lo mismo?
+170	00ba2a40	Exacto. Si te ayuda, puedes pensar en los {fc(ff635b)universos paralelos} como los {fc(ff635b)mundos de otras líneas temporales}.
+180	62497fa1	Entonces el {fc(ff635b)salto paralelo} es...
+190	19c2dcd0	Tal como dice el nombre, es el proceso de viajar o {fc(ff635b)saltar} a un {fc(ff635b)universo paralelo}.
+200	b60a0290	{fc(ff635b)"Saltar"} da a entender que vamos {fc(ff635b)bastante lejos}... A veces se les llama {fc(ff635b)"saltos en el tiempo"} a los viajes por el tiempo, ¿no? ¿Es algo parecido?
+210	1608acae	No. La dirección es completamente distinta.
+220	942cd465	Un salto en el tiempo es ir hacia adelante o atrás en el tiempo. Un salto paralelo es más bien un movimiento horizontal.
+230	26e74855	O como cambiar de tren para tomar otra línea.
+240	956e1ddf	No podemos usar saltos paralelos para volver al pasado ni ir al futuro.
+250	0701fb17	En cambio, nos movemos al mismo lugar y al mismo punto del tiempo, pero en otra línea temporal.
+260	b573273f	Mira este diagrama.
+270	67584197	Digamos que saltamos desde la Línea Temporal A a la {fc(ff635b)1:01 am}. Llegaríamos a la Línea Temporal B a la misma hora, {fc(ff635b)1:01 am}.
+280	5584b662	Básicamente, nuestras coordenadas en el tiempo no cambian, solo el mundo que habitamos.
+290	d4468de0	También hay otra diferencia.
+300	a88bd058	Un salto en el tiempo sería como tu viaje de regreso tras el primer ciclo. Solo se vio afectada tu conciencia.
+310	6e23c2ea	No es que te subieras a una máquina del tiempo y retrocedieras físicamente.
+320	89eb773d	Pero no pasa lo mismo con los saltos paralelos.
+330	72a2d7a7	Cuando saltamos, nuestros cuerpos SÍ viajan a esas realidades alternativas.
+340	e9ca6034	Y lo que lo hace posible es esto... la {fc(ff635b)MSP}.
+350	21da867d	Probablemente lo adivinaste por la parte {fc(ff635b)SP}, pero significa {fc(ff635b)Máquina de Salto Paralelo}.
+360	1234e508	E-Espera un momento...
+370	5b08fe91	¿Quieres decir que esa noche... justo después de la medianoche del Día 5...
+380	3a8442a9	¡¿Saltamos a otra línea temporal?!
+390	24a4fd3d	¿Recién lo captas? De verdad eres lento a veces.
+400	7ddc6d12	¡¿P-Pero adónde fuimos? ¿Qué línea temporal era...?!
+410	83b05b0f	{fc(57e4f1)En respuesta a mi pregunta, Hiruko sacó un dispositivo de mano y me mostró la pantalla.}
 420	5fac4e88	¿Qué es esto?
-430	959e87e3	Es un diagrama del flujo de las líneas temporales.\nLo extraje de los datos del dispositivo PL.
-440	449c2d49	Saltamos aquí...
-450	f0454f18	{fc(ff635b)"Caza-Misterio"}...
-460	fb15730f	¿{fc(ff635b)"Caza-Misterio"}...?
-470	d644241a	Esta TL se divide en dos afluentes el día 25.
-480	6c50ef1a	Uno... es una TL que no recuerdas.\nLa historia donde se realizó el juego de muerte llamado {fc(ff635b)"Caza de Invasores"}.
-490	60e0b5df	Por eso a este afluente yo lo llamo {fc(ff635b)"TL de la Caza"}.
-500	15e58c47	El otro... seguro que lo recuerdas.
-510	077b7eae	La TL donde mataron a Gaku el día 5\ny encontraron el cadáver de Kako el día 27.
-520	5f0b82dd	Allí hiciste una deducción y acertaste:\nel asesino de Kako era Shouma.
-530	f97da372	Pero también mataron a Shouma...\nVolviste a deducir y descubriste que el culpable era Eva.
-540	2f5c67e9	Bueno, al final Eva también se autodestruyó...\n¡y la tragedia continuó aún más...!
+430	959e87e3	Un mapa de las distintas líneas temporales, basado en los datos de la máquina.
+440	449c2d49	La línea temporal a la que fuimos esa noche era...
+450	f0454f18	{fc(ff635b)Caza-Misterio}.
+460	fb15730f	¿{fc(ff635b)Caza} qué...?
+470	d644241a	Es una línea temporal que se bifurca en dos el Día 25.
+480	6c50ef1a	En una de ellas, que todavía no recuerdas, nos obligan a participar en un juego de asesinatos llamado la {fc(ff635b)Cacería de Invasores}.
+490	60e0b5df	A esa rama la llamo la línea temporal de la {fc(ff635b)Caza}.
+500	15e58c47	La otra rama, deberías recordarla...
+510	077b7eae	Es en la que mataron a Gaku el Día 5 y encontraron el cuerpo de Kako el Día 27.
+520	5f0b82dd	Investigaste el asunto y descubriste que fue Shouma quien mató a Kako.
+530	f97da372	Pero luego mataron al propio Shouma. Esta vez, señalaste a Eva como culpable.
+540	2f5c67e9	Pero entonces ella se autodestruyó y las cosas solo empeoraron desde ahí...
 550	88902fda	
 560	88902fda	
-570	fe668419	En todo caso, es seguro que con tu deducción\nse resolvieron dos casos.
-580	49efe14d	Por eso a ese afluente yo lo llamo {fc(ff635b)"TL del Misterio"}.
-590	618636fc	{fc(ff635b)"TL de la Caza"} y {fc(ff635b)"TL del Misterio"}, ¿eh...?
-600	93036e95	Sí...\nY la parte antes de que se dividan es esta...
-610	f8dceffa	Está aguas arriba de los dos afluentes,\npor eso {fc(ff635b)"Caza-Misterio"}.
-620	428471ff	¿Y allí... saltamos nosotros?
-630	d0e37665	Sí, hacia las 0:00 del día 5...
-640	02741939	¡¿Por qué...! ¡¿Para qué...?!
+570	fe668419	Te asediaron todo tipo de misterios, pero aun así hiciste lo posible por resolverlos.
+580	49efe14d	Por eso llamo a esta rama la línea temporal del {fc(ff635b)Misterio}.
+590	618636fc	¿Las líneas temporales de la {fc(ff635b)Caza} y del {fc(ff635b)Misterio}, eh...?
+600	93036e95	Así es. Y esta es la línea de la que ambas se bifurcan.
+610	f8dceffa	Así que combiné los nombres y la llamé la línea temporal {fc(ff635b)Caza-Misterio}.
+620	428471ff	¿Y esa es a la que fuimos?
+630	d0e37665	Sí. El Día 5, justo después de la medianoche.
+640	02741939	¡¿Pero por qué querías ir ahí, de todos modos?!
 650	b11c258f	Tenía dos objetivos.
-660	a77bc5eb	Uno era impedir el asesinato de Gaku.\nY el otro, a cierta persona, {fc(ff635b)"Ω"}...
-670	965b4736	Espera. ¿Quién es {fc(ff635b)"Ω"}...?
-680	87cda1be	{fc(57e4f1)Hiruko dudó un instante y dijo.}
-690	6700b5b0	El culpable... del asesinato de Gaku.
-700	e5468fea	¿Es el verdadero cerebro, {fc(ff635b)"X"}?\n¿El de la serie de asesinatos de Caza-Misterio...?
-710	0b497a3b	No. X y Ω son distintos...\nEn el cerebro de Ω había datos de conciencia de un Gii.
-720	3c3630ea	No es que estuviera el Gii en sí,\npero era casi como estar poseído.
-730	8d69d233	Por eso Ω fue controlado y mató a Gaku...
-740	420007fd	Si lo dejábamos así,\nseguro seguiría matando.
-750	c01e1a02	Por eso salté a esa TL, Caza-Misterio.\nPara borrar los datos de conciencia del Gii del cerebro de Ω...
-760	e29dc102	Ese era el segundo objetivo.
-770	c7f79f82	{fc(57e4f1)No entendía nada.\nEsperé en silencio la continuación del relato.}
-780	e6c5d767	El día 4, dijiste que en la sala de operaciones\nnos viste a mí y a SIREI en una charla secreta, ¿no?
-790	c6eafe99	Allí recibí de SIREI un {fc(ff635b)"programa de reparación de errores cerebrales"}.
-800	6eb2c33d	Para ser exactos, la memoria USB que lo contiene...\nEra imprescindible para borrar los datos de conciencia del Gii.
-810	eb1446e0	¿Por qué SIREI tiene algo así...?
-820	7c3309c6	De eso hablamos otro día...\nEn todo caso, lo recibí.
-830	923068cf	Y hacia las 0:00 del día 5, hice PL contigo.\nCon esa máquina... a Caza-Misterio...
-840	da1618d6	{fc(57e4f1)Luego Hiruko empezó a contar lo que pasó después.\nEn resumen, fue así.}
-850	fe4f024e	{fc(57e4f1)Primero Shizuhara fue a la academia de Caza-Misterio\ny tocó el timbre del cuarto de Ω, el asesino de Maruko.}
-860	1843de99	{fc(57e4f1)Luego subió al techo... y salió Ω...}
-870	3c463c70	{fc(57e4f1)Saltó sobre él y, al mismo tiempo,\nle dio un golpe de mano en la nuca y lo dejó inconsciente al instante.}
-880	522883ce	{fc(57e4f1)Shizuhara llevó a Ω inconsciente a la enfermería.\nPara tratarlo con el programa de reparación.}
-890	905614f4	{fc(57e4f1)Pero justo entonces, en el cerebro de Ω despertó el Gii...\n¡¿Ω agarró el brazo de Hiruko y la lanzó contra la pared!}
-900	fdde666d	{fc(57e4f1)En ese momento yo estaba en la morgue.\nConfundido por el cadáver de Eito.}
-910	f5e52949	{fc(57e4f1)Pero ahora lo entiendo.\nEse era el cadáver del Eito de Caza-Misterio.}
-920	bb615cdc	{fc(57e4f1)En la noche del día 2, punto aguas arriba...\nyo rematé a Aotsuki y absorbí su criptoglobina.}
-930	681c80ec	{fc(57e4f1)Por eso su cadáver estaba allí, naturalmente...}
+660	a77bc5eb	Uno era impedir la muerte de Gaku. El otro era hacer algo con {fc(ff635b)Ω}...
+670	965b4736	Espera, espera. ¿{fc(ff635b)Omega}? ¿Quién es ese?
+680	87cda1be	{fc(57e4f1)Solo por un instante, Hiruko dudó.}
+690	6700b5b0	Ω es... quien mató a Gaku.
+700	e5468fea	¿Te refieres a {fc(ff635b)X}? ¿No era así como se llamaba la mente maestra detrás de los asesinatos en esa línea temporal?
+710	0b497a3b	No, X y Ω son personas distintas. A Ω le infectaron el cerebro con datos G'ie.
+720	3c3630ea	No había un parásito físico, pero era igual que si lo hubiera tomado el control uno.
+730	8d69d233	Eso fue lo que lo llevó a asesinar a Gaku.
+740	420007fd	Aunque yo no me hubiera encargado de él, habría vuelto a intentar matar.
+750	c01e1a02	Por eso fui a esa línea temporal. Para quitarle los datos G'ie del cerebro a Ω.
+760	e29dc102	Esos eran mis objetivos esa noche.
+770	c7f79f82	{fc(57e4f1)Sinceramente, todavía no lo entendía. Esperé a que continuara.}
+780	e6c5d767	El Día 4... Me viste hablando con Sirei, ¿sí?
+790	c6eafe99	Lo que me dio ese día era un {fc(ff635b)programa de reparación de fallas cerebrales}.
+800	6eb2c33d	O más bien, una memoria USB con el programa cargado. No habría podido borrar los datos G'ie sin eso.
+810	eb1446e0	¿Por qué tendría Sirei algo así?
+820	7c3309c6	Eso es tema para otro día. Lo importante es que me lo entregó.
+830	923068cf	Una vez que tuve ese programa, salté a la línea temporal Caza-Misterio a medianoche del Día 5, tal como viste.
+840	da1618d6	{fc(57e4f1)Hiruko pasó a contarme lo que ocurrió después, durante el tiempo en que la perdí de vista.}
+850	fe4f024e	{fc(57e4f1)Primero que nada, volvió a la escuela y tocó el timbre de Ω.}
+860	1843de99	{fc(57e4f1)Se escondió en el techo del dormitorio y esperó a que el asesino saliera...}
+870	3c463c70	{fc(57e4f1)Luego se dejó caer y lo noqueó con un golpe en la nuca.}
+880	522883ce	{fc(57e4f1)Con Ω inconsciente, solo faltaba llevarlo a la Enfermería y ejecutar el programa de reparación.}
+890	905614f4	{fc(57e4f1)Pero entonces, los datos G'ie de su cerebro tomaron el control. Se levantó, agarró a Hiruko del brazo y la lanzó contra la pared.}
+900	fdde666d	{fc(57e4f1)Yo todavía estaba abajo en la Morgue en ese momento, asustado por ver el cuerpo de Eito.}
+910	f5e52949	{fc(57e4f1)Por supuesto, ahora comprendía que ese era el Eito de ESA línea temporal, no el que yo conocía.}
+920	bb615cdc	{fc(57e4f1)En esa línea temporal, debí decidir matarlo la noche del Día 2 y absorber su criptoglobina.}
+930	681c80ec	{fc(57e4f1)Así que era natural que su cadáver estuviera ahí...}
 940	88902fda	
-950	b31520b6	{fc(57e4f1)En todo caso, en ese momento oí un ruido.}
-960	fc628aab	{fc(57e4f1)Parece que era el sonido de Hiruko\nal ser lanzada contra la pared de la enfermería.}
-970	b64c52b9	Y al salir corriendo al pasillo, oí otro ruido.\n¡El de la puerta de la enfermería al abrirse!
-980	b2eda33b	Probablemente era Ω escapándose.\nAl sentir tu presencia, Ω salió del cuarto.
-990	3b641d6d	Aunque no lo vi con mis ojos, es solo una suposición...porque yo en ese momento estaba inconsciente.
-1000	245edfa2	Recuperaste el conocimiento después de que yo te levanté, ¿verdad?
-1010	6730d40c	Sí, es cierto...
-1020	56aab649	Y yo te pateé el estómago y empecé a estrangular\ntu cuello, fino como un fósforo...
-1030	5baaf225	No hables como si fuera ajeno...
+950	b31520b6	{fc(57e4f1)En fin, ahí fue cuando oí el ruido.}
+960	fc628aab	{fc(57e4f1)Resultó que era el sonido de Hiruko estrellándose contra la pared del piso de arriba.}
+970	b64c52b9	Cuando salí al pasillo, oí otro ruido. Debió de ser la puerta de la Enfermería al abrirse.
+980	b2eda33b	Ahí fue cuando Ω se me escapó. Debió de darse cuenta de que había alguien más cerca y huyó.
+990	3b641d6d	Por supuesto, yo no vi nada de esto. Ese golpe contra la pared me dejó inconsciente.
+1000	245edfa2	¿Y la siguiente vez que despertaste fue cuando yo te sostenía?
+1010	6730d40c	Es verdad...
+1020	56aab649	Luego te pateé en el estómago e intenté romper ese palillo de fósforo al que llamas cuello.
+1030	5baaf225	¿No podrías intentar sonar un poquito más arrepentida por eso?
 1040	93abaaff	Ya me disculpé.
-1050	d83eae21	Pero no me diste la razón.
-1060	7ab7faa5	¿La razón...? ¿Todavía no la entiendes...?
-1070	1b8e80a4	{fc(57e4f1)Al oír eso, un escalofrío me recorrió la espalda.\nUna sensación fría y siniestra se extendió por mi cuerpo.}
-1080	382f6460	Noté mi error justo después de que perdieras el conocimiento.
-1090	be6a3287	En tu cara aparecieron marcas moradas.\nEsas marcas son un síntoma del trastorno PL...
-1100	236ce51f	Al verlas, me di cuenta...de que estaba confundida...
-1110	c10d536d	Te solté el cuello de golpe\ny corrí a buscar a Ω.
-1120	dc729f55	Ya sabía dónde estaba: en un salón del primer piso.\nSi la historia era como la conozco, Ω aparecería allí sin falta...
-1130	0dafd7db	Pensando eso, abrí la puerta del salón.\nPero...
-1140	6ae36c70	Era tarde... no llegué a tiempo...
-1150	50fa2f63	Lo que vieron mis ojos fue Gaku cubierto de sangre, y además...
-1160	a60db416	a Ω, a horcajadas sobre él, alzando un cuchillo...
-1170	d9746b4b	No me digas...
-1180	68a1b441	Ese Ω es...
-1190	867c17d4	Lástima, pero así es...
-1200	3c64b56c	La persona parasitada por los datos de conciencia del Gii...
-1210	6c991c50	El culpable del asesinato de Maruko...
-1220	79e1bf4c	Ω era... sí...
-1230	d1fd1018	Takumi Sumino... tú.
-1240	87440f1a	No...
-1250	3da97e33	Mentira...
-1260	ff242bf0	Es un disparate...
-1270	cc4e0ca8	Que yo a Maruko...
-1280	a307a749	lo maté...
-1290	8344da99	Eso...
-1300	9fe93039	¡Eso...!
-1310	81512732	¡¡Eso...!!
+1050	d83eae21	Sí, pero nunca me dijiste por qué lo hiciste.
+1060	7ab7faa5	¿A qué te refieres? ¿Todavía no lo has deducido?
+1070	1b8e80a4	{fc(57e4f1)Tenía un mal presentimiento. Un escalofrío me recorrió la columna y se me puso la piel de gallina.}
+1080	382f6460	Después de que perdiste el conocimiento y te pude ver bien, noté algo.
+1090	be6a3287	Tenías un sarpullido morado en la cara. Es uno de los síntomas del daño de salto.
+1100	236ce51f	Ahí me di cuenta de que había cometido un error.
+1110	c10d536d	Así que te solté y fui a buscar a Ω en vez.
+1120	dc729f55	Sabía dónde estaría: en la sala del primer piso. Por cómo se dieron las cosas antes, tarde o temprano iba a aparecer ahí.
+1130	0dafd7db	Llegué lo más rápido que pude, pero...
+1140	6ae36c70	Era demasiado tarde.
+1150	50fa2f63	Cuando abrí la puerta, vi el cuerpo de Gaku, cubierto de sangre.
+1160	a60db416	Y de pie sobre él estaba Ω, todavía agitando un cuchillo de cocina.
+1170	d9746b4b	Por favor... no me digas que...
+1180	68a1b441	¿E-Era Ω...?
+1190	867c17d4	Lo siento. Pero es verdad.
+1200	3c64b56c	La verdadera identidad de Ω...
+1210	6c991c50	La persona con los datos G'ie en el cerebro...
+1220	79e1bf4c	La que mató a Gaku...
+1230	d1fd1018	Fuiste tú, Takumi Sumino.
+1240	87440f1a	
+1250	3da97e33	Es mentira...
+1260	ff242bf0	¡No lo creeré...!
+1270	cc4e0ca8	Y-Yo... ¿Yo lo hice?
+1280	a307a749	¿Yo... maté a Gaku...?
+1290	8344da99	
+1300	9fe93039	¡No puede ser...!
+1310	81512732	¡¡¡ESO NO PUEDE SER VERDAD...!!!

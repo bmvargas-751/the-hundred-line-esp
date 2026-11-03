@@ -1,28 +1,28 @@
 id	huella_jp	es
-10	0c0cbe2f	¡Takumi! ¡Takumi, oye!
-20	9fa42fbb	...Hola.
-30	5f729247	¡Takumi! ¡Póntelos ya!
-40	ccd8f6ec	¿Eh...? ¿Tapones para los oídos?
-50	b07c9367	¡Hazlo ya! ¡Rápido!
-60	52dc3cb0	{fc(57e4f1)Sin entender nada, me metí en las orejas\nlos tapones que me dio Kurara.}
-70	427d4eed	{fc(57e4f1)Entonces Oosuzuki sacó una libreta,\nescribió con un bolígrafo y me la mostró.}
-80	57746f2c	"Seguramente el enemigo nos ataca con ondas de sonido o algo así".
+10	0c0cbe2f	¡Takumi! ¡Takumi!
+20	9fa42fbb	Oye...
+30	5f729247	¡Takumi! ¡Póntelos!
+40	ccd8f6ec	¿Eh? ¿Tapones para los oídos?
+50	b07c9367	¡Hazlo y ya!
+60	52dc3cb0	{fc(57e4f1)Sin saber por qué, me puse los tapones que me pasó Kurara.}
+70	427d4eed	{fc(57e4f1)Luego sacó una libreta, garabateó algo y me lo mostró.}
+80	57746f2c	"Creo que el enemigo ataca con ondas sonoras."
 90	f4a72a8b	
-100	1806179e	{fc(57e4f1)Lo entendí al instante.}
-110	1e13f653	{fc(57e4f1)¡Es obra de aquel que enfrentamos en la primera vuelta...!}
-120	afe45024	{fc(57e4f1)Pero antes de perder el conocimiento,\ncreo que no oí ningún sonido...}
-130	888d3f16	{fc(57e4f1)No, quizás esta vez ataca con una frecuencia\nque el oído humano no capta; se puede pensar cualquier cosa.}
-140	2dad3b52	Pero, ¿por qué tú, Kurara...
-150	2e18b11a	Ah, aunque hable no me oye.\nEh...
-160	bb46c7a0	{fc(57e4f1)Le pedí prestados el bolígrafo y la libreta a Kurara\ny escribí a toda prisa.}
-170	49d6d551	"¿Por qué Oosuzuki está bien?"
-180	348f83b8	"Estaba viendo una película en mi cuarto".
-190	6b9cb3de	"Cuando paré la reproducción, sentí que me arrancaban\n la conciencia".
-200	8d79ff8d	"Pensé que quizás nos atacaban\n por el oído".
-210	151030ef	{fc(57e4f1)...Ya veo.}
+100	1806179e	{fc(57e4f1)Lo entendí de inmediato.}
+110	1e13f653	{fc(57e4f1)¡Era el que enfrentamos la última vez...!}
+120	afe45024	{fc(57e4f1)Pero no recuerdo haber oído nada antes de desmayarme...}
+130	888d3f16	{fc(57e4f1)No, es totalmente posible que usen un ataque con frecuencias inaudibles para el oído humano.}
+140	2dad3b52	Pero Kurara, ¿cómo estás tú...?
+150	2e18b11a	Cierto, no puedo hablar. Eh...
+160	bb46c7a0	{fc(57e4f1)Le pedí prestados a Kurara el lápiz y la libreta y escribí un mensaje a toda prisa.}
+170	49d6d551	"¿Por qué no te afectó?"
+180	348f83b8	"Estaba viendo películas en mi cuarto."
+190	6b9cb3de	"Sentía que me iba a desmayar cada vez que pausaba."
+200	8d79ff8d	"Así que pensé que quizás alguien nos atacaba con sonido."
+210	151030ef	{fc(57e4f1)Ya veo...}
 220	e20d7d2c	"¿Y los demás?"
-230	9f858c46	"Seguramente cada uno tirado tan tranquilo.\n Vamos a ayudarlos rápido".
-240	946892fc	{fc(57e4f1)Asentí mirándola a los ojos\ny salimos juntos corriendo del cuarto.}
-250	5d1fca46	{fc(57e4f1)Nos repartimos para ir despertando a todos.}
-260	989590c3	{fc(57e4f1)Por suerte, logramos romper el lavado de cerebro de todos, pero...}
-270	ff9f8264	{fc(57e4f1)como teníamos los oídos tapados y no nos oíamos,\ntuvimos que salir a combatir en una situación especial.}
+230	9f858c46	"Probablemente están inconscientes, sin enterarse de nada. Vamos a ayudarlos."
+240	946892fc	{fc(57e4f1)Miré a Kurara a los ojos y asentí. Salimos corriendo de la sala.}
+250	5d1fca46	{fc(57e4f1)Nos separamos y despertamos a todos.}
+260	989590c3	{fc(57e4f1)Por suerte, logramos sacarlos de sus trances, pero...}
+270	ff9f8264	{fc(57e4f1)Como teníamos los oídos tapados, nos encontramos en la extraña situación de tener que coordinar un ataque sin poder oírnos.}

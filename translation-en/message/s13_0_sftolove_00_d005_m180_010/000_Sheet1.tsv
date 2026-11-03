@@ -1,17 +1,17 @@
 id	huella_jp	es
-10	44231323	Eito, tú...
-20	1bd6a622	¿Qué pasa, Takumi?\nParece que viste un fantasma.
-30	4e41fc79	Aunque yo nunca vi un fantasma.\nNi la cara que pones cuando ves uno.
-40	fac47e10	Y, además, esa expresión, ¿será correcta con la corrección política?\n¿Las asociaciones de protección animal no dirán nada?
-50	11fb9e0e	Tú... estás vivo.
-60	d17a61dc	{fc(57e4f1)Cuando se lo dije, Eito se miró el cuerpo como para comprobarlo.}
-70	1903a565	Al menos, no parece que haya muerto.\nMira, hasta tengo los pies...
-80	083b18e6	{fc(57e4f1)¿Qué significa esto...?\n¿Entonces ese cadáver que vi anoche...?}
+10	44231323	¿Eh? Eito, tú...
+20	1bd6a622	¿Qué pasa, Takumi? Pareces haber visto un fantasma.
+30	4e41fc79	Aunque nunca he visto un fantasma. Ni cómo se ve uno cuando ha visto uno.
+40	fac47e10	Pensándolo bien, ¿no es esa expresión un tanto problemática? O sea, apenas muestra el debido respeto hacia los muertos.
+50	11fb9e0e	Estás vivo...
+60	d17a61dc	{fc(57e4f1)En respuesta a mi comentario, Eito puso las manos en los barrotes de su jaula y empujó.}
+70	1903a565	La última vez que lo revisé, sí. Si fuera un fantasma, hace rato que habría atravesado esto.
+80	083b18e6	{fc(57e4f1)¿Qué está pasando aquí? Vi su cuerpo apenas anoche... ¿no?}
 90	88902fda	
-100	a1d5769d	Oye, Takumi, ¿qué pasó?\n¿Acaso viste en algún lugar un cadáver idéntico a mí?
-110	eb3e61bc	{fc(57e4f1)Sigue igual de agudo...\n¡Adivinó tanto con una sola frase mía!}
-120	1df58513	Aunque no lo parezca, soy bastante reservado.
-130	657d255e	Y que vienes del futuro, tampoco se lo dije a nadie...
-140	527472cf	Así que, si quieres, cuéntame.\n¿Qué viste?
-150	cb584717	Escucha: lo que viste hoy aquí no se lo digas a nadie.\nSi lo dices... ya sabes lo que pasa.
-160	1cd87b0e	{fc(57e4f1)Me fui de allí sin decirle nada a Aotsuki.}
+100	a1d5769d	En serio, Takumi, ¿qué te pasa? ¿Te topaste con un cadáver que se parecía a mí o algo así?
+110	eb3e61bc	{fc(57e4f1)Es rápido para captar, como siempre. Apenas dije algo y ya lo dedujo.}
+120	1df58513	Quizás no lo creas, pero sé guardar un secreto.
+130	657d255e	Todavía no le he dicho a nadie que vienes del futuro.
+140	527472cf	Si necesitas alguien con quien hablar en confianza, siempre estoy aquí. Vamos, cuéntame qué pasó.
+150	cb584717	No le cuentes a nadie lo que has visto hoy aquí. Entiendes lo que pasará si lo haces, ¿verdad?
+160	1cd87b0e	{fc(57e4f1)Sabía que era mejor no correr ese riesgo. Me fui sin decir una palabra más.}

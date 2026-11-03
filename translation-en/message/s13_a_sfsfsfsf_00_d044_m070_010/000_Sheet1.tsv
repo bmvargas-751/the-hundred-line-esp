@@ -1,41 +1,41 @@
 id	huella_jp	es
-10	816db54a	{fc(57e4f1)Bajamos las escaleras corriendo, cruzamos el pasillo\ny nos lanzamos a la Sala de las Cápsulas.}
-20	497711df	Por tu cara, veo que por fin te diste cuenta.
-30	f6cd7748	¡Tú, ¿dónde está "Juurinne-kou"?!
-40	5c38c009	Aquí está.
-50	f3a1b258	{fc(57e4f1)Eito sacó un libro del bolsillo del pecho.\nSe lo arrebaté de un tirón.}
-60	33f7f7e5	{fc(57e4f1)Miré la portada.\nSin duda dice }{fc(ff635b)"Juurinne-kou"}{fc(57e4f1).}
-70	440bbc01	{fc(57e4f1)Pero...}
-80	51fcc90c	Oye, ¿qué es esto?
-90	4390f33f	¡Las páginas están todas... arrancadas!
-100	8dc231db	¡¿Qué hiciste con las páginas de dentro?!
-110	d3094f6b	¿Saben qué es una cabra?\nMe dicen que me parezco mucho.
-120	d7771af9	¡No será...!
-130	4e3698da	Sí, me las comí.
-140	660812c6	La comida que me traían era tan poca...que por el hambre me las comí sin pensar.
-150	9968a3d0	{fc(57e4f1)Hiruko y yo registramos todo el cuarto.\nTambién revisamos el cuerpo de Eito de punta a punta.}
-160	0d847406	{fc(57e4f1)Pero no apareció ni una sola de las páginas arrancadas.}
-170	f165bee7	¿Lo leíste...?
+10	816db54a	{fc(57e4f1)Bajamos las escaleras como un trueno, cruzamos los pasillos y entramos a la Sala de las Cápsulas.}
+20	497711df	Déjenme adivinar... ¿Por fin lo descubrieron?
+30	f6cd7748	¡¿Dónde pusiste ese libro?!
+40	5c38c009	Lo tengo aquí mismo.
+50	f3a1b258	{fc(57e4f1)Eito sacó el libro de su chaqueta. Se lo arranqué de las manos.}
+60	33f7f7e5	{fc(57e4f1)Miré la cubierta. Ahí estaba: el título que tanto había querido ver: }{fc(ff635b)Reflexiones sobre la metempsicosis imprecatoria}{fc(57e4f1).}
+70	440bbc01	{fc(57e4f1)Por desgracia...}
+80	51fcc90c	¿Qué demonios...?
+90	4390f33f	¡Le arrancaron todas las páginas!
+100	8dc231db	¡¿Qué les pasó?!
+110	d3094f6b	¿Saben algo de las cabras? Más de una vez me han dicho que me parezco a una.
+120	d7771af9	¡No me digas...!
+130	4e3698da	Así es, me las comí.
+140	660812c6	Me dieron tan poca comida... Tenía tanta hambre que no pude evitarlo.
+150	9968a3d0	{fc(57e4f1)Hiruko y yo registramos la sala de arriba abajo. Incluso cacheamos a Eito por si escondía algo.}
+160	0d847406	{fc(57e4f1)Pero no quedaba ni una sola página, ni un solo párrafo del libro.}
+170	f165bee7	¿Lo leíste?
 180	f4a72a8b	
-190	88ea8c43	¡¡Lo leíste, ¿verdad?!!
-200	334010e6	Te dije al principio, ¿no?\n"Por fin te diste cuenta".
-210	dac43aee	En "Juurinne-kou" había cosas que nos conciernen...\nPor eso predijiste que algún día vendríamos.
-220	1569e665	¿Es eso?
-230	199816dd	Y no solo eso.\nEl día 36 también dije algo así.
-240	f97fd995	"Quizás sé la información importante que buscan...\n"
-250	15cb44e4	¡Entonces este libro sí trata del bucle temporal...!
-260	ef3226c7	Eito, cuéntanos con detalle...\n¡¿Qué decía "Juurinne-kou"?!
-270	bf4e6731	¿Tienen el hipocampo muerto?\nLes dije "hasta que se disculpen, no se los digo".
-280	2333e404	Ah, no solo Takumi: también Hiruko.\nResponsabilidad compartida.
-290	40a1ad81	Los dos arrodillados, con la cabeza gacha, lamiendo el suelo, díganme:
-300	0f5df851	"¡Perdón, perdón, señor Eito~n!\n"Y entonces...
-310	c6b81b9d	¡No vamos a hacer eso, no!
-320	52ecb9ad	Entonces no hay remedio.
-330	c020df8a	De ahora en adelante, ustedes repetirán sin fin\nestos 100 días estériles, siempre, siempre.
-340	5f597661	Pasarán 100 años, 1000 años y no acabará...\nEternamente, para siempre...
+190	88ea8c43	¡¿Lo leíste, verdad?!
+200	334010e6	¿Por qué creen que les pregunté si por fin lo habían descubierto?
+210	dac43aee	Había información relevante para nuestra situación ahí. Sabías que tarde o temprano vendríamos por ella...
+220	1569e665	¿No es así?
+230	199816dd	Eso no es todo. También les di una pista el Día 36.
+240	f97fd995	"Casualmente conozco cierta información valiosa que quizás les interese..."
+250	15cb44e4	¿O sea que SÍ había información sobre el bucle temporal en ese libro?
+260	ef3226c7	Eito, cuéntanos todo. ¿Qué decía exactamente?
+270	bf4e6731	¿Se les pudrieron los hipocampos? Dije que no les diría nada hasta que se disculparan conmigo.
+280	2333e404	Y no solo Takumi: ahora te incluyo a ti también, Hiruko. Eso se llama responsabilidad solidaria.
+290	40a1ad81	¿Por qué no se ponen de rodillas, pegan la frente al suelo y lamen el piso mientras se arrastran?
+300	0f5df851	"¡Lo sentimos mucho, Eito, no mereces esto!" Entonces quizás, solo quizás...
+310	c6b81b9d	¡Ni en sueños haremos nada de eso!
+320	52ecb9ad	Bien, entonces supongo que terminamos aquí.
+330	c020df8a	Tendrán que repetir estos mismos cien días sin sentido por siempre jamás...
+340	5f597661	Cien años, mil años, no importa... Seguirá así por toda la eternidad.
 350	f4a72a8b	
 360	f4a72a8b	
-370	ae733731	Bueno, quizás eso sea una dicha...\nEn cierto modo, es como conseguir un cuerpo inmortal.
-380	6f6dbf60	Pensándolo así, me da un poco de envidia...
-390	64ed421f	Tanta envidia que... fuaaah...me dio sueño de repente.
-400	0fa93808	Así que me adelanto a descansar.\nHasta luego... buenas noches.
+370	ae733731	Bueno, quizás no sea tan malo a su manera. Es lo mismo que ser inmortal, en cierto sentido.
+380	6f6dbf60	Pensándolo mejor, en realidad les tengo un poco de envidia.
+390	64ed421f	Tanta envidia que... *bostezo*... quizás tenga que dormirla un rato.
+400	0fa93808	Voy a dar por terminada la noche. Que duerman bien, ustedes dos.

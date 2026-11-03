@@ -1,35 +1,35 @@
 id	huella_jp	es
-10	76c5cc4a	{fc(57e4f1)Tras el desayuno, salí del comedor y seguí a Hiruko.\nHasta la azotea...}
-20	21c37ccb	{fc(57e4f1)Comprobé que no hubiera nadie alrededor\ny detuve a Shizuhara.}
-30	28392298	Oye, ¿tienes un momento?
-40	f1859e37	Ya lo sé. Es por el PL de hoy, ¿no?
-50	59468b3f	Si no me equivoco, el horario posible empieza a las 13:00.
-60	1c1902b1	Sí, aún falta bastante, así que ¿por qué no entrenas?\n¿Mañana en la noche hay batalla defensiva.
-70	da6ee44a	¿Ya decidiste adónde saltar?
-80	1c40ff3d	Sí... voy a saltar a la {fc(ff635b)"TL Retsnom"}.
+10	76c5cc4a	{fc(57e4f1)Después del desayuno fui a buscar a Hiruko. La encontré en la Azotea.}
+20	21c37ccb	{fc(57e4f1)Me aseguré de que no hubiera nadie más cerca antes de hablarle.}
+30	28392298	Oye, ¿tienes un minuto?
+40	f1859e37	Supongo que quieres saber del salto de hoy.
+50	59468b3f	Podemos ir desde la 1:00 pm, ¿verdad?
+60	1c1902b1	Todavía hay mucho tiempo para entrenar mientras tanto. No olvides que mañana en la noche tenemos una batalla.
+70	da6ee44a	¿Ya decidiste adónde vamos?
+80	1c40ff3d	Sí. A la línea temporal {fc(ff635b)Retsnom}.
 90	cba956cb	¿Retsnom...?
-100	4e38dcc5	Ah, es una TL que no viviste.\nO quizás solo no recuperaste la memoria.
-110	7b60beeb	En esa TL, tú y Darumi criaban a esa criatura llamada Retsnom.
-120	4a5f37eb	No sé bien qué es... ¿pero por qué saltar allí?
-130	f1ccaeb1	Para ver a un anciano...\nUn anciano muy misterioso.
-140	809fd915	Por alguna razón, solo aparece en ciertas TL.\nPor eso es inútil buscarlo en esta {fc(ff635b)"TL SF"}...
-150	c4a26693	¿Y en la {fc(ff635b)"TL Retsnom"} sí lo veremos?
-160	032115b3	Probablemente...\nUna vez lo vi en esa TL.
-170	93818d75	Fue en una exploración, frente a cierta cueva...\nEntonces ese anciano dijo algo así.
-175	abf928be	"Parece que estás enredado en un {fc(ff635b)"ciclo maldito"}...\n"
-180	071e79f3	{fc(57e4f1)Vagamente, de forma difusa,\nyo también recordaba esas palabras.}
-190	ef1ffb15	Yo en ese momento no había recuperado la memoria.\nAsí que, al oírlo, no entendí nada.
-200	02b0a1dc	Pero ahora lo entiendo.\nSeguro que el {fc(ff635b)"ciclo maldito"} era el bucle temporal.
-210	f4a2846d	O sea que ese anciano quizás sepa algo del bucle.
-220	54a162b1	Quizás hasta cómo salir del bucle.
+100	4e38dcc5	Supongo que de esa no sabes. O simplemente todavía no la has recordado...
+110	7b60beeb	En esa línea temporal, tú y Darumi crían a una extraña criatura llamada Retsnom.
+120	4a5f37eb	Bien, pero... ¿Por qué saltamos allá?
+130	f1ccaeb1	Para encontrar a alguien... Específicamente, a un misterioso anciano.
+140	809fd915	Por alguna razón, solo aparece en ciertas líneas temporales. No lo encontraremos aquí en la rama {fc(ff635b)Steady-Fundamental}, por mucho que busquemos.
+150	c4a26693	¿Pero está en la línea temporal {fc(ff635b)Retsnom}?
+160	032115b3	Creo que sí. Lo conocí ahí una vez.
+170	93818d75	Estaba explorando las ruinas y lo encontré parado frente a una cueva. Entonces dijo algo...
+175	abf928be	"Me parece que está atrapada en {fc(ff635b)el ciclo maldito}."
+180	071e79f3	{fc(57e4f1)Apenas lo recordaba, pero esa frase también me sonaba familiar.}
+190	ef1ffb15	Yo no había recuperado mis recuerdos en ese momento, así que no reconocí la importancia de lo que dijo.
+200	02b0a1dc	Pero ahora sí. Cuando habló de un {fc(ff635b)ciclo maldito}, se refería al bucle temporal.
+210	f4a2846d	Entonces, quienquiera que sea este tipo, ¿sabe del bucle?
+220	54a162b1	Sí. Y hay una posibilidad de que también sepa cómo salir de él.
 230	18ed0d48	{fc(57e4f1)Tragué saliva.}
-240	8d2b1df7	Por eso saltaremos a esa TL.
+240	8d2b1df7	Con eso en mente, saltamos a esa línea temporal esta tarde.
 250	b2b56a50	Pero...
-260	662bd169	¡Pero nada de preguntas!
-270	7e25e245	¡Eres mi sirviente, así que sígueme sin decir nada!\n¡¿Entendido?!
-280	30a5b54b	{fc(57e4f1)Dicho eso, Shizuhara se fue.}
-290	8c6b814b	{fc(ff635b)"TL Retsnom"}{fc(57e4f1)...\nNo recuerdo nada, pero bueno.}
-300	7c55a985	{fc(57e4f1)Si ese anciano de verdad sabe cómo salir del bucle,\nsería una gran ganancia.}
-310	b1ec096f	{fc(57e4f1)No podía contener los latidos.}
-320	be415264	{fc(57e4f1)Pero el PL solo se puede hacer desde las 13:00...\nasí que la mañana quedaba libre.}
-330	25b69198	{fc(57e4f1)Para aprovechar ese tiempo,\ndecidí recorrer la escuela como siempre.}
+260	662bd169	¡Sin peros!
+270	7e25e245	¡Solo sé un buen criado y haz lo que se te dice! ¡¿Me expliqué bien?!
+280	30a5b54b	{fc(57e4f1)Se fue antes de que pudiera responder, como de costumbre.}
+290	8c6b814b	{fc(ff635b)Retsnom}{fc(57e4f1)... Nada, sigue sin sonarme de nada.}
+300	7c55a985	{fc(57e4f1)Pero si este extraño anciano pudiera decirnos cómo escapar del bucle, sería un gran paso adelante.}
+310	b1ec096f	{fc(57e4f1)El corazón me latía más rápido con solo pensarlo.}
+320	be415264	{fc(57e4f1)Tendría que esperar hasta la tarde para el evento principal. Todavía tenía libre la primera parte del día.}
+330	25b69198	{fc(57e4f1)Decidí ver si encontraba la forma de aprovechar ese tiempo.}

@@ -1,38 +1,38 @@
 id	huella_jp	es
-10	d1a29b2c	{fc(57e4f1)Para convencer a todos,\nlo más rápido sería confesar lo del viaje en el tiempo.}
-20	caf3c50a	{fc(57e4f1)Pero no creía que fueran a creerme tan fácil.}
-30	88217ae6	{fc(57e4f1)Y aunque me creyeran,\neso traería otros problemas.}
-40	34ca102a	{fc(57e4f1)Si les cuento lo del viaje en el tiempo,\nla historia podría cambiar muchísimo.}
-50	1b786788	Claro que, cuanto más cambie el futuro, más difícil va a ser prever qué va a pasar...
-55	e3117d70	También puedes guardarte lo del futuro y guiar a todos...
-60	1466ce0f	Quizás así, al final, puedas guiar a todos hacia el futuro correcto.
-70	b2962317	{fc(57e4f1)Saber qué ocurrirá en el futuro\nes una gran ventaja.}
-80	381cd42f	{fc(57e4f1)Es como tener una }{fc(ff635b)"luz"}{fc(57e4f1)\nque ilumina la oscuridad que viene... No quería perderla.}
-90	01d0dfa4	{fc(57e4f1)Por eso yo...}
+10	d1a29b2c	{fc(57e4f1)Si quiero tener a todos de mi lado, lo mejor sería decirles la verdad.}
+20	caf3c50a	{fc(57e4f1)Pero no es que todos vayan a creer de inmediato que soy un viajero del tiempo.}
+30	88217ae6	{fc(57e4f1)Y aunque lo creyeran, eso podría traer sus propios problemas.}
+40	34ca102a	{fc(57e4f1)Si se enteran del futuro, la historia volverá a cambiar.}
+50	1b786788	Si cambias demasiado, no podrás predecir lo que pasará tan fácilmente como antes.
+55	e3117d70	Probablemente puedas ayudar a los demás a no repetir los mismos errores sin contárselo todo.
+60	1466ce0f	Claro que tampoco hay manera de saber si esa es la decisión correcta.
+70	b2962317	{fc(57e4f1)Poder predecir lo que va a pasar es una enorme ventaja.}
+80	381cd42f	{fc(57e4f1)No quería perderla. Menos aún si podía ayudarme a }{fc(ff635b)guiar}{fc(57e4f1) a todos hacia un futuro mejor.}
+90	01d0dfa4	{fc(57e4f1)Con eso en mente, hice lo único que podía.}
 100	f4a72a8b	
-110	a814ab05	¡Oye, ¿por qué te quedas callado?!
+110	a814ab05	¡¿Por qué te quedaste callado de repente?! ¡Responde!
 120	8d2f78ee	¿Cómo supiste que Eito era un traidor?
-130	2bfcdbc9	Eso... es que...
-140	34f1137c	{fc(57e4f1)Decidí mentir.}
-150	13d58d1a	Fue anoche.\n¡Quería consultarle algo sobre lo que haremos y fui a su cuarto...
-160	00f703c1	¡Y sobre su escritorio había un diario abierto,\ncon todos sus pensamientos y planes escritos!
-170	ba209164	¿Eh? Pero eso no es lo que dijo ayer...
-180	ef7d7940	{fc(57e4f1)Fulminé con la mirada a SIREI, que iba a decir algo.}
-190	02f6eaf1	{fc(57e4f1)Con los ojos le dije "luego te explico",\ny SIREI pareció entender y se calló.}
-200	359bb740	En fin, así fue como me enteré de los planes de Eito.
-210	d59fbf33	{fc(57e4f1)Los demás parecían dudar entre creer o no.\nSe miraban entre sí, desconcertados.}
-220	8461478e	Bueno, de dónde sacó la información no importa mucho.
-230	609bec12	Más bien, ¿no sería mejor comprobar si Aotsuki\nes de verdad un traidor?
-240	242dcc76	¡Es cierto...!
-250	36160e65	Hablemos directamente con Eito...
-260	0753a98e	¡Yo estoy de acuerdo con mi queridísima hermana!
-270	387591df	{fc(57e4f1)Los demás asintieron y salieron corriendo de la sala de operaciones.}
-280	0972a83c	¡E-Esperen...!\n¡¿No creen lo que dije yo?!
-290	4cde7d88	{fc(57e4f1)SIREI corrió tras todos.\nEn la sala quedó solo Hiruko.}
-300	f83af83d	{fc(57e4f1)Shizuhara me miraba como atontada...}
+130	2bfcdbc9	Bueno, yo...
+140	34f1137c	{fc(57e4f1)Les mentí.}
+150	13d58d1a	Anoche fui al cuarto de Eito para hablar con él de lo que íbamos a hacer aquí.
+160	00f703c1	Y justo vi su diario abierto sobre el escritorio. Tenía escrito todo su plan.
+170	ba209164	¿Eh? Eso no es lo que me dijiste...
+180	ef7d7940	{fc(57e4f1)Le lancé una mirada cortante a Sirei.}
+190	02f6eaf1	{fc(57e4f1)Esperaba que leyera el mensaje en mis ojos: "Te explico después".}
+200	359bb740	En fin, así me enteré de lo que tramaba Eito.
+210	d59fbf33	{fc(57e4f1)Todos intercambiaron miradas dudosas. Claramente no sabían si creerme o no.}
+220	8461478e	Bueno, no importa cómo conseguiste esta información.
+230	609bec12	Lo que de verdad tenemos que averiguar es si de verdad es un traidor o no.
+240	242dcc76	¡Oye, tienes razón!
+250	36160e65	Vamos a oír lo que Eito tiene que decir al respecto.
+260	0753a98e	¡Estoy de acuerdo con mi querida hermana!
+270	387591df	{fc(57e4f1)Los demás asintieron y empezaron a salir de la Sala de Guerra.}
+280	0972a83c	¿Qué, no me creen a mí...?
+290	4cde7d88	{fc(57e4f1)Sirei corrió tras ellos, dejándonos solos a Hiruko y a mí.}
+300	f83af83d	{fc(57e4f1)Por alguna razón, me miraba con una expresión rara y confundida.}
 310	3cb69d0f	¿Por qué...?
-320	5363cd10	{fc(57e4f1)Solo murmuró eso y desapareció sin hacer ruido.}
-330	fd1e33dd	{fc(57e4f1)¿Qué...? ¿Qué quería decir Shizuhara?}
+320	5363cd10	{fc(57e4f1)Murmuró esa única palabra para sí misma y luego se fue.}
+330	fd1e33dd	{fc(57e4f1)¿Dijo "¿Por qué?" ¿Por qué qué?}
 340	88902fda	
-350	0f6ec77e	{fc(57e4f1)Bueno... ¡Mejor sigo a los demás...!}
-360	21003413	{fc(57e4f1)Seguro fueron donde Eito...\n¡o sea, al patio!}
+350	0f6ec77e	{fc(57e4f1)Bueno, da igual. Mejor voy tras los demás.}
+360	21003413	{fc(57e4f1)Dijeron que iban a hablar con Eito. ¡Eso significa que van al Patio!}
