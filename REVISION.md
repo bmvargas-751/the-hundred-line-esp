@@ -34,11 +34,11 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 | Primera partida (`r00`) | 18.294 | 0% | patrones y muestras | 23 |
 | Ruta `s00` | 14.835 | 100% | — | ~706 |
 | Rutas `s01` a `s03` | 2.226 | 100% | — | 47 |
-| Rutas `s04` a `s11` | 30.571 | ~16% (`s04`, `s05` y `s06` completas) | patrones y muestras | ~280 |
+| Rutas `s04` a `s11` | 30.571 | ~26% (`s04` a `s08` completas) | patrones y muestras | ~320 |
 | Rutas `s12` a `s14` | 40.287 | ~0% | patrones y muestras (trato de Ima y Kyoshika) | 97 |
 | Ruta `s15` | 15.579 | — | en pausa, sin revisar | 0 |
 | Eventos y charlas | 3.848 | ~47% | patrones | 18 |
-| **Total** | **125.640** | **~19%** | | **~1.980** |
+| **Total** | **125.640** | **~21%** | | **~2.020** |
 
 <!-- Cifras a 2026-11-03. "Líneas corregidas" = filas cambiadas frente a main. -->
 
@@ -64,6 +64,7 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
    - *Por el amor al asesinato* frente a *Por el amor de la muerte* (muletilla de Yugamu).
    - *Kyohoho* y *Kyohohoho* conviven (risa de Darumi).
 4. Retomar `s15` cuando se reanude.
+4b. **Tarea aparte (pendiente):** barrido de puntuación. Unas 300 líneas usan signos anidados del tipo `¡Nozomi, ¿estás bien?!`; `STYLE.md` pide `¡¿...?!` cuando el inglés usa `?!`. Mecánico, pero toca muchas líneas: hacerlo en un PR propio.
 5. Reinstalar el build nuevo y jugar para confirmar (nada se instala en el juego sin pedirlo).
 
 ## Cómo reportar un error
