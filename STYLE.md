@@ -104,7 +104,7 @@ Risas fijas, como el inglés: SIREI *Juafafafaj* (ちゅふふ), NIGOU *Juofofof
 - **NIGOU:** habla casual como SIREI (*tú*, *Takumi*); le dice *Su Excelencia SIREI* a SIREI.
 - **Kyoshika:** *usted* con todos y *don/doña* + nombre (*doña Kurara*, *doña Nozomi*); a veces habla de sí misma por el nombre. Mezcla referencias de manga y ninjas con su habla de época. Sin la muletilla なんともにんとも ni el にんにん, como el inglés, salvo el grito *¡Nin, nin, niiin!* del Día 28, que el inglés mantiene.
 - **Kurara:** *tú*, insultos constantes (*plebeyo*, *pobretón*, *Inclina la cabeza, idiota*).
-- **Yugamu:** *tú*, *Sumino*; cambia *hacer* por *matar* en sus frases (殺る). Sus muletillas siguen al inglés de cada línea: 殺れ殺れ suele ser *Por el amor de la muerte...* (*For the love of murder*); 殺ぁ, un saludo común (*Hola, Sumino*); 殺っかい y 殺っぱり, lo que diga el inglés (*de muerte*, *Como era de esperar*).
+- **Yugamu:** *tú*, *Sumino*; cambia *hacer* por *matar* en sus frases (殺る). Sus muletillas siguen al inglés de cada línea: 殺れ殺れ suele ser *Por el amor al asesinato...* (*For the love of murder*); 殺ぁ, un saludo común (*Hola, Sumino*); 殺っかい y 殺っぱり, lo que diga el inglés (*de muerte*, *Como era de esperar*).
 - **Nozomi:** *tú*, *Sumino*; a Moko le dice *Moko*.
 - **Eva:** *usted* con Takumi mientras es prisionera y sigue la etiqueta; después, trato directo (*tú*) cuando se quita la máscara de cortesía. A Kirifuji (*Nozomi*) la llama por el nombre de pila, como a una hija.
 - **Kamyuhn:** niña altiva que habla como una sacerdotisa de época (*necio*, *insolente*, *¡cómo osan!*); *yo*, sin vosotros.
