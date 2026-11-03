@@ -1096,3 +1096,5 @@ largo,text/event_decideselect_message/000_event_decideselect_message#s13_A_SFsfS
 peninsular,message/s00_0_2ndtruer_00_d007_m190_010/000_Sheet1#90,falso positivo: vale (verbo valer) o venga (venir)
 peninsular,message/s00_0_2ndtruer_00_d031_m010_020/000_Sheet1#20,falso positivo: vale (verbo valer) o venga (venir)
 peninsular,message/s00_0_2ndtruer_00_d046_m030_010/000_Sheet1#60,falso positivo: vale (verbo valer) o venga (venir)
+ancho,text/field_chapter_detail/000_field_chapter_detail#15804720,opción concreta: repite el texto de la decisión; el inglés solo dice Yes / No
+ancho,text/field_chapter_detail/000_field_chapter_detail#6110020,opción concreta: repite el texto de la decisión; el inglés solo dice Yes / No

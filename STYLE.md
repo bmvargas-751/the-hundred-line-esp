@@ -11,7 +11,7 @@ Se traduce **frase por frase**: si se cambia una palabra, se revisa que el resto
 
 ## Español neutro
 
-Español neutro, sin regionalismos de España ni de ningún país de América.
+Español natural, como lo diría una persona en una conversación equivalente, y comprensible en toda América: sin iberismos ni regionalismos marcados de ningún país.
 
 ### Ustedes
 
@@ -25,6 +25,8 @@ Elegir según el contexto y el registro del personaje.
 | Evitar (España) | Usar |
 |---|---|
 | vale | está bien, de acuerdo, bueno, okey (según el tono) |
+| echar de menos | extrañar |
+| menudo (*menudo punto ciego*) | qué, vaya |
 | venga (ánimo) | vamos, anda |
 | tío/tía (= amigo) | amigo, viejo (casual) u omitir; *tío* (pariente) se mantiene |
 | guay, mola | genial, increíble, me encanta |
@@ -72,9 +74,9 @@ Evitar también regionalismos latinoamericanos marcados (*chido*, *bacán*, *bol
 
 ## Tratamiento
 
-- **Nombres:** cada personaje llama a los demás como en japonés (apellido o nombre de pila). Los honoríficos se localizan según la tabla de [GLOSSARY.md](GLOSSARY.md#cómo-se-llaman-los-personajes).
+- **Nombres:** como el inglés (nombre de pila casi siempre; ver [GLOSSARY.md](GLOSSARY.md)). Los honoríficos se localizan según la tabla de [GLOSSARY.md](GLOSSARY.md#cómo-se-llaman-los-personajes).
 - **Tú** por defecto entre estudiantes.
-- **Usted** solo si el personaje habla formalmente en japonés. Hoy lo usan sobre todo Ima (っす, con *Sr./Srta.*), Kyoshika (でござる, con *Sir/Lady*) y Ginzaki (です/ます con todos); NIGOU y Eva, a veces (verificar contra el japonés caso por caso).
+- **Usted** solo si el personaje habla formalmente en japonés. Hoy lo usan sobre todo Ima (っす, con *Sr./Srta.*; solo a su hermana Kako le dice *tú*), Kyoshika (でござる, con *Sir/Lady*) y Ginzaki (です/ます con todos); NIGOU y Eva, a veces (verificar contra el japonés caso por caso). Kako habla casual con todos.
   Mantener el mismo tratamiento entre dos personajes durante todo el juego.
 - **Ustedes** para el plural, siempre.
 - **Cursos:** 高校 = *preparatoria* (*último año de preparatoria*, 高校３年), 中学 = *secundaria* (*tercero de secundaria*).
@@ -84,28 +86,28 @@ Evitar también regionalismos latinoamericanos marcados (*chido*, *bacán*, *bol
 
 Mantener los tics de cada personaje según el inglés (cortes, tartamudeos *"N-No"*, jerga, muletillas, groserías).
 No suavizar ni intensificar las groserías: igualar la intensidad del original.
-**Frases delicadas** (juegos de palabras, muletillas, referencias, acertijos y minijuegos de palabras): se traducen desde el inglés, para que el subtítulo no desentone con el doblaje inglés; el japonés queda como apoyo. No se agregan datos que el japonés no tiene, y los nombres siguen el glosario (*Sumino* donde el japonés usa el apellido, aunque el inglés diga *Takumi*).
-Risas fijas, como el inglés: SIREI *Juafafafaj* (ちゅふふ), NIGOU *Juofofofoj* (la misma ちゅふふ; el inglés le dio otra), Darumi *Kyohohoho* (きょっきょっきょ), Kurara *Kijijijí* (キシシシ), Yugamu *Ufufu* (うふふ). Darumi habla de sí misma en tercera persona, como el japonés (*Darumi no entiende...*).
+**Frases delicadas** (juegos de palabras, muletillas, referencias, acertijos y minijuegos de palabras): se traducen desde el inglés, para que el subtítulo no desentone con el doblaje inglés; el japonés queda como apoyo. No se agregan datos que el inglés no tiene, y los nombres siguen el glosario.
+Risas fijas, como el inglés: SIREI *Juafafafaj* (ちゅふふ), NIGOU *Juofofofoj* (la misma ちゅふふ; el inglés le dio otra), Darumi *Kyohohoho* (きょっきょっきょ), Kurara *Kijijijí* (キシシシ), Yugamu *Ufufu* (うふふ). Darumi habla de sí misma en primera persona, como el inglés.
 
 ## Formato
 
 - Signos de apertura obligatorios: `¿` y `¡`. Si la línea continúa una frase de la línea anterior (empieza en minúscula), el signo de apertura va en la anterior.
 - Combinados: `¡¿...?!` cuando el inglés usa `?!`. Varios signos de cierre llevan la misma cantidad de apertura: `¡¡FUERA!!`.
-- Comillas: siempre rectas `"..."` (no `«»` ni `“”`). Donde las usa el japonés (「」, 『』); las que agrega el inglés, solo si aclaran que alguien cita o dice algo.
+- Comillas: siempre rectas `"..."` (no `«»` ni `“”`). Donde el inglés o el japonés (「」, 『』) las usan para una cita; las que agrega solo uno de los dos, solo si aclaran que alguien cita o dice algo.
   El punto final va **fuera** de las comillas (`"...lo que yo diga".`); `?`, `!` y `...` van dentro si son de lo citado.
 - Puntos suspensivos: tres puntos `...` (como el original), sin espacio antes.
 - Tartamudeo: `P-Por favor`, con mayúscula repetida si la palabra la lleva.
 - Gritos en MAYÚSCULAS como en el inglés.
 - **Códigos de control intactos**: `{fc(57e4f1)...}`, `{ft1}`, `%s`, etc. Ni traducir ni mover lo que está dentro de las llaves salvo el texto visible.
-- Saltos de línea: respetar los del original; si el español es mucho más largo, puede no entrar en pantalla (lo avisan los chequeos `largo` y `ancho`).
+- Saltos de línea: en los mensajes de historia no se agregan (el motor parte el texto); en la interfaz, respetar los del original. La caja admite 3 renglones de ~62 caracteres (≈175 visibles): si el español es más largo, se acorta (lo avisan los chequeos `caja`, `largo` y `ancho`).
 
 ### Estudiantes de la Penúltima Academia
 
 - **NIGOU:** habla casual como SIREI (*tú*, *Takumi*); le dice *Su Excelencia SIREI* a SIREI. Regla general (decisión del usuario, 2026-11-03): tú o usted **según con quién habla**; si trata de usted a alguien es porque le tiene más respeto.
 - **Kyoshika:** *usted* con todos y *Sir/Lady* + nombre (*Lady Kurara*, *Sir Takumi*; hombres *Sir*, mujeres *Lady*); a veces habla de sí misma por el nombre. Mezcla referencias de manga y ninjas con su habla de época. Sin la muletilla なんともにんとも ni el にんにん, como el inglés, salvo el grito *¡Nin, nin, niiin!* del Día 28, que el inglés mantiene.
 - **Kurara:** *tú*, insultos constantes (*plebeyo*, *pobretón*, *Inclina la cabeza, idiota*).
-- **Yugamu:** *tú*, *Sumino*; cambia *hacer* por *matar* en sus frases (殺る). Sus muletillas siguen al inglés de cada línea: 殺れ殺れ suele ser *Por amor al asesinato...* (*For the love of murder*); 殺ぁ, un saludo común (*Hola, Sumino*); 殺っかい y 殺っぱり, lo que diga el inglés (*de muerte*, *Como era de esperar*).
-- **Nozomi:** *tú*, *Sumino*; a Moko le dice *Moko*.
+- **Yugamu:** *tú*, *Takumi*; cambia *hacer* por *matar* en sus frases (殺る). Sus muletillas siguen al inglés de cada línea: 殺れ殺れ suele ser *Por amor al asesinato...* (*For the love of murder*); 殺ぁ, un saludo común (*Hola, Sumino*); 殺っかい y 殺っぱり, lo que diga el inglés (*de muerte*, *Como era de esperar*).
+- **Nozomi:** *tú*, *Takumi*; a Moko le dice *Moko*.
 - **Eva:** *usted* con Takumi mientras es prisionera y sigue la etiqueta; después, trato directo (*tú*) cuando se quita la máscara de cortesía. A Kirifuji (*Nozomi*) la llama por el nombre de pila, como a una hija.
 - **Kamyuhn:** niña altiva que habla como una sacerdotisa de época (*necio*, *insolente*, *¡cómo osan!*); *yo*, sin vosotros.
 

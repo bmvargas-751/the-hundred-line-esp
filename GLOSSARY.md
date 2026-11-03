@@ -9,7 +9,6 @@ Glosario de la traducción (`translation/`, hecha desde el inglés oficial para 
 - **La voz del personaje no se rompe.** Cada personaje suena como suena en el juego (tuteo o *usted*, jerga, tics, cortes, registro, grosería, cómo habla de sí mismo). Una frase que se entiende pero suena a otro personaje está mal: se corrige igual. Antes de proponer o aplicar un texto, comprobar que lo diría ese personaje (*STYLE.md*, apartado de personajes, y las líneas vecinas).
 - El japonés solo ayuda a resolver lo que el inglés deja ambiguo: género, sujeto omitido, trato (tú/usted), registro.
   Si el inglés agrega, quita o cambia algo, se sigue el inglés (la voz lo dice así).
-- La traducción japonesa del repo (`ES(jp)` en el export) es un punto de partida: si ya dice lo mismo que el inglés, se deja igual.
 
 ## Nombres
 
@@ -17,7 +16,7 @@ Glosario de la traducción (`translation/`, hecha desde el inglés oficial para 
   Si el inglés usa el nombre de pila donde el japonés usa el apellido, va el nombre de pila (*Takumi*, no *Sumino*). Si inglés y japonés usan ambos el apellido, se deja el apellido.
 - Nombres completos en orden occidental: *Takumi Sumino*.
 - Etiquetas de quien habla y listas de la interfaz: como el juego en inglés.
-- Honoríficos: no se transcriben; se localizan igual que en GLOSSARY.md, siguiendo lo que el inglés hace con ellos.
+- Honoríficos: no se transcriben; se localizan según la tabla de *Cómo se llaman los personajes*, siguiendo lo que el inglés hace con ellos.
 
 ## Términos, lugares, habilidades y objetos
 
@@ -33,9 +32,9 @@ Glosario de la traducción (`translation/`, hecha desde el inglés oficial para 
 
 Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre delicadas y normales en cuanto a la base.
 
-## Tratamientos propios de la versión inglesa
+## Tratamientos y reglas de redacción
 
-- Darumi a Hiruko: *Mistress* → **la Ama Hiruko** (con artículo femenino; sin artículo solo al llamarla: *No me dejes, Ama Hiruko*). En la versión japonesa es *Reina Hiruko*.
+- Darumi a Hiruko: *Mistress* → **la Ama Hiruko** (con artículo femenino; sin artículo solo al llamarla: *No me dejes, Ama Hiruko*).
 - Darumi habla de sí misma en primera persona (el inglés dice *I*), no en tercera.
 - Ima es un chico: habla de sí mismo en masculino (*estoy seguro*, nunca *segura*). A Kako sí le dice *buena chica* (es su hermana).
 - Cuando el destinatario es un grupo, el pronombre concuerda: *se los ruego*, *se los garantizo*, *se los dejo a ustedes* (así se dice en Chile y en buena parte de América). *Se lo* queda para uno solo o cuando "se" es otra persona (*se lo conté a todos*).
@@ -55,24 +54,20 @@ La lista que sigue es heredada de la primera etapa del proyecto. **Si algo de el
 Términos fijos del juego. **Propuesta** es la forma a usar.
 Estado: ✅ decidido · ❓ pendiente de decisión.
 
-**Base: el japonés original** (`app_text00`/`patch_text00`; `thl.py export` lo muestra como `JP:`). El inglés oficial sirve de consulta.
-**Excepción: los nombres.** Los que inventó o cambió el inglés se toman del inglés (criterio 2).
-Se localiza al español: basarse en el japonés no es japonizar (nada de honoríficos japoneses ni giros calcados).
-
 ## Nombres propios
 
 **Criterio**:
 
-1. Si el japonés ya usa un nombre en inglés o inventado (FB, QB, Leo Jr., habilidades en katakana: ver la excepción de abajo), se usa ese nombre en inglés, tal como lo escribe el japonés, aunque el inglés oficial lo haya cambiado (FB, QB, Leo Jr.).
-   **Excepción: las habilidades con nombre en katakana inglés se traducen al español**, para que no quede una palabra suelta en inglés en los menús (decidido 2026-10-27, en las dos versiones): ガトリングマックス *Gatling máxima*, デスドライブ *Pulsión de muerte*, ブラッドハンティング *Cacería de sangre*, シオンボム *Bomba Shion*. Lista completa en Objetos y sistemas.
+1. Si el nombre ya está en inglés en el juego (FB, QB, Leo Jr., Parallel Leap, Leap Suit), se deja como está.
+   **Excepción: las habilidades con nombre en inglés se traducen al español**, para que no quede una palabra suelta en inglés en los menús (decidido 2026-10-27): ガトリングマックス *Gatling máxima*, デスドライブ *Pulsión de muerte*, ブラッドハンティング *Cacería de sangre*, シオンボム *Bomba Shion*. Lista completa en Objetos y sistemas.
 2. Si el inglés inventó o cambió un nombre, se usa el del inglés:
    - Si es una marca o una palabra inventada, va en inglés tal cual: 蘇生マシーン → *Revive-O-Matic* (no *máquina de resurrección*); 我駆力刀 → *Infuser*; 〜の化神 → *Paragon*.
    - Si está hecho con palabras comunes, se traduce el nombre del inglés: 第二防衛学園 → *Penúltima Academia de Defensa* (*Second-to-Last*, no *Segunda*); 断罪 → *Juez* (*Judge*, no *Condena*).
    - Vale para lugares, objetos, trampas, habilidades, estados de combate, títulos y apodos.
-   - Las categorías y los rótulos de la interfaz siguen al japonés: *[Fármaco]*, *[Dispositivo defensivo]*, *Registro*, *Historial*.
+   - Las categorías y los rótulos de la interfaz siguen al juego: *[Fármaco]*, *[Dispositivo defensivo]*, *Registro*, *Historial*.
 3. Si el japonés es un nombre en romaji o japonés que el inglés conservó (*Shigure no Mai*, *Shin Senpuu Yaiba*), se deja en romaji.
 4. Si el japonés es descriptivo, se traduce, siempre con una sola forma.
-5. Lo que el japonés escribe con letras latinas como término del juego se deja así, con sus mayúsculas: *HUNDRED LINE*, *SAFETY*, *EXTREME & DESPAIR*, *Nice DEATH*, *HP*, *AP*, *BP*, *VOLTAGE*, *WAVE*, *ARMOR*, *ATK*, *MOVE*, *TL*, *PL*, *Lv*, *MAX*, *SIREI*, *NIGOU*, *QB*, *VS*.
+5. Lo que el juego escribe con letras latinas como término se deja así, con sus mayúsculas: *HUNDRED LINE*, *SAFETY*, *EXTREME & DESPAIR*, *Nice DEATH*, *HP*, *AP*, *BP*, *VOLTAGE*, *WAVE*, *ARMOR*, *ATK*, *MOVE*, *TL*, *PL*, *Lv*, *MAX*, *SIREI*, *NIGOU*, *QB*, *VS*.
    Las palabras japonesas comunes de origen inglés (プレゼント, リーダー, マシーン) y las siglas comunes (AI, DNA) se traducen como siempre.
    Las instrucciones y rótulos descriptivos que el japonés escribe en inglés por estilo (*Press Any Button*, *NO DATA*, *Auto Save*, *RANK*, *DAY*, *WIN/LOSE*) se traducen: son texto que hay que entender, no nombres.
    **Lo japonés que el inglés conservó se conserva igual**: romaji y palabras japonesas que el inglés dejó sin traducir (*Shigure no Mai*, *Shin Senpuu Yaiba*, *Sanshokupan*, *Jumonji*).
@@ -85,9 +80,8 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 
 ## Cómo se llaman los personajes
 
-- **Nombre o apellido, como el japonés.** Cada personaje llama a los demás como en japonés: Hiruko dice *Sumino*, Darumi dice *Takumi*, y a Yakushiji, Aotsuki y Maruko nadie los llama por el nombre.
-  La narración de Takumi también sigue al japonés. El inglés pasó casi todo a nombres de pila; no se sigue, aunque el doblaje inglés diga otra cosa (como en las traducciones de Danganronpa).
-  En la interfaz, igual que el japonés: nombre completo en las etiquetas y listas (*Habitación de Takemaru Yakushiji*, la lista de sospechosos) y apellido en los objetivos y las decisiones, que hablan desde Takumi (*Hablar con Yakushiji*, *Buscar a Shizuhara*).
+- **Nombre o apellido, como el inglés** (ver *Nombres*): nombre de pila casi siempre (*Takumi*, también en la narración y en boca de Hiruko, Yugamu y Nozomi); apellido solo donde el inglés y el japonés lo usan.
+  En la interfaz, igual que el juego: nombre completo en las etiquetas y listas (*Habitación de Takemaru Yakushiji*, la lista de sospechosos) y apellido en los objetivos y las decisiones, que hablan desde Takumi (*Hablar con Yakushiji*, *Buscar a Shizuhara*).
 - **Los honoríficos se localizan, nunca se transcriben.** Nada de -san, -kun, -chan, -sama, -sensei, -senpai ni -dono:
 
 | Japonés | Quién lo usa | Español |
@@ -98,7 +92,7 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 先生 | a SIREI y NIGOU como docentes | *profesor* (*el profesor NIGOU*) |
 | 閣下 | a SIREI | *Su Excelencia* (*Su Excelencia SIREI*) |
 | 様 | los soldados a V'ehxness | *mi señora* (*mi señora V'ehxness*) |
-| サマ (en katakana) | Darumi a Hiruko y a Tsubasa | *Reina* (*la Reina Hiruko*; sin nombre, *mi Reina*). Darumi usa la imagen de 女王様 ("¡písame!") |
+| サマ (en katakana) | Darumi a Hiruko y a Tsubasa | *Ama* (*la Ama Hiruko*; al llamarla, sin artículo: *Ama Hiruko*), como el inglés (*Mistress*) |
 
 - **Apodos:** como el inglés, traducidos y escritos como apodos, con el epíteto en mayúscula (*señor Salvador Viajero en el Tiempo*, *señor Cara de Pez*, *señorita Actitud de Monstruo*).
   Si el japonés no tiene tratamiento, solo el apodo (*¡Por fin te encontré, Espectro!*).
@@ -230,7 +224,7 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 妹ちゃん (Ima → Kako) | Sister Dearest | queridísima hermana (*mi queridísima hermana* si el inglés dice *my*) | ✅ |
 | お兄ちゃん (Kako → Ima) | Brother Dearest | queridísimo hermano | ✅ |
 | ＳＩＲＥＩ閣下 / ＳＩＲＥＩ先生 / ＮＩＧＯＵ先生 | Honorable Sirei / Mr. Sirei / Mr. Nigou | Su Excelencia SIREI / profesor SIREI / profesor NIGOU | ✅ |
-| 比留子サマ / つばさサマ | Mistress Hiruko / Mistress Tsubasa | Reina Hiruko / Reina Tsubasa | ✅ |
+| 比留子サマ / つばさサマ | Mistress Hiruko / Mistress Tsubasa | la Ama Hiruko / la Ama Tsubasa | ✅ |
 | ヴェシネス様 | Overlord V'ehxness | mi señora V'ehxness | ✅ |
 
 ## Líneas temporales
@@ -268,7 +262,7 @@ Siglas comunes, en español: **ADN**, **IA**, **OVNI**.
 | Nombres de canciones (galería de música) | | En inglés, tal cual: son títulos de obras (*Hundred Days*, *Hundred Line*) | ✅ |
 | Nombres de rutas (lista de rutas y galería de finales) | X Route | *Ruta* + nombre, en minúscula salvo los nombres propios, igual en las dos listas: *Ruta de la rebelión*, *Ruta de la madurez*, *Ruta de la Caja de la Dicha*, *Ruta SF* | ✅ |
 | ＳＩＲＥＩ先生 / ＮＩＧＯＵ先生 (etiqueta de quien habla) | Mr. Sirei / Mr. Nigou | *Profesor SIREI* / *Profesor NIGOU* | ✅ |
-| 分岐選択 / 選択 (decisiones) | Decide: X / Yes, No | La pregunta y las opciones como el japonés: acciones concretas, no *Sí / No* (*¿Luchar contra los monstruos misteriosos?* / *Luchar* / *No luchar*). El diagrama de la selección de capítulo repite exactamente el texto del juego: *Decisión: pregunta* y, en cada opción, *pregunta / opción* | ✅ |
+| 分岐選択 / 選択 (decisiones) | Decide: X / Yes, No | La pregunta como el inglés. Las opciones, acciones concretas, no *Sí / No*: si el inglés solo dice *Yes / No*, se toma la acción del japonés con el objeto de la pregunta (*¿Matar a Eito?* / *Matarlo* / *No matarlo*; *¿Luchar contra los monstruos extraños?* / *¡Luchar!* / *No hacer nada*). El diagrama de la selección de capítulo repite exactamente el texto del juego: *Decisión: pregunta* y, en cada opción, *pregunta / opción* | ✅ |
 | 正解 / 不正解 (diagrama de los juicios) | el nombre del culpable | *Respuesta correcta* / *Respuesta incorrecta*: como el japonés, el diagrama no revela al culpable | ✅ |
 | Objetivos de la guía (〜しよう) | Go to X / Talk to X | En infinitivo, con el lugar como en el mapa: *Ir a la cafetería (P1)*, *Hablar en el pasillo P1*, *Ir a ver la Sala de Guerra (P3)* | ✅ |
 | タイムリープ | time travel | viaje en el tiempo (palabra común, no nombre del juego) | ✅ |
@@ -303,7 +297,7 @@ Siglas comunes, en español: **ADN**, **IA**, **OVNI**.
 | Descripciones de habilidades y objetos | | Formato del japonés, sin punto final: una frase y luego las etiquetas por renglón (*Usuario: Aturdimiento*, *Objetivo: Ataque -1, Sangrado*, *Aliados: +3 HP, cura de fatiga y de estados alterados*, *Perforación de armadura*, *Antiaéreo +2*). Categoría entre corchetes: *[Fármaco]*, *[Dispositivo defensivo]* | ✅ |
 | 学生兵器 / 学究活動 | Class Weapon / Student Activities | arma de clase / actividades estudiantiles | ✅ |
 | Tablero de exploración (すごろく) | You find... (segunda persona) | Como el japonés: Takumi narra en primera persona (*Encontré una colmena*) y nombra a los demás por el apellido, también en las fichas (*Yakushiji*; *Ima* y *Kako* por el nombre); las opciones en infinitivo y en un renglón (*Estirar la mano.*); los avisos como en la interfaz (*Obtuviste: X.*, *Perdiste: X.*, *[chr] sufrió heridas. HP -10*); puntos de control con el lugar del mapa y la zona entre paréntesis (*Costa (sur)*, *Túneles (oeste)*); pasivas *BP & Plantas UP* (UP como el japonés) | ✅ |
-| 倍率 / 獲得倍率 / 変換倍率 (tablero) | chance | tasa: *Tasa de [material] +10 %*, *Tasa de obtención de todos los materiales*, *Aumenta la tasa de conversión de BP y plantas* | ✅ |
+| 倍率 / 獲得倍率 / 変換倍率 (tablero) | chance | tasa: *Tasa de [material] +10%*, *Tasa de obtención de todos los materiales*, *Aumenta la tasa de conversión de BP y plantas* | ✅ |
 | 植物 / 繊維 / 鉱石 / 機械 (素材) | Plants / Textiles / Minerals / Machines | plantas / textiles / minerales / máquinas | ✅ |
 | 照準カーソル | cursor | mira (*Velocidad de la mira*, *Mover la mira*) | ✅ |
 | 自由行動 / 学究活動 | Free Time / Student Activities | tiempo libre / actividades estudiantiles | ✅ |
@@ -328,12 +322,12 @@ Siglas comunes, en español: **ADN**, **IA**, **OVNI**.
 | Mejoras de la tienda: X 取得 / 【X】が使用可能になる / 使用回数 | Learn X / Unlock X / Max Uses | *Obtener X* / *X disponible* / *Usos* | ✅ |
 | 命の灯火 / ねがいの残響 / 絆の力 | Life Rekindled / Will Entrusted / Power of Friendship | Vida reavivada / Voluntad encomendada / Poder de la amistad | ✅ criterio 2 |
 | Pisos y lugares del mapa (１階・廊下, １階・北側男子トイレ, 屋上) | 1F Hallway | *Pasillo P1*, *Pasillo P1 (este)*, *Baño de hombres P1 (norte)*, *Azotea*; en la otra escuela, *Penúltima Academia - X* | ✅ |
-| Etiquetas de quien habla con apellido en japonés (澄野Ⅱ, 雫原？, 厄師寺＆銀崎) | Takumi II, Hiruko?, Takemaru & Shouma | Como el japonés: *Sumino II*, *¿Shizuhara?*, *Yakushiji y Ginzaki* | ✅ |
+| Etiquetas de quien habla que el japonés escribe con apellido (澄野Ⅱ, 雫原？, 厄師寺＆銀崎) | Takumi II, Hiruko?, Takemaru & Shouma | Como el inglés, con nombre de pila: *Takumi II*, *¿Hiruko?*, *Takemaru y Shouma* | ✅ |
 | Títulos de la galería de finales | 001: X Route: Y | *001 Ruta X: Y*, con la ruta igual que en la lista de rutas y el título traducido del japonés (los juegos de palabras, rehechos en español) | ✅ |
 | 真相解明編 (ruta) | Last Defense Academy 2nd Scenario | *Segundo escenario de Hundred Line* | ✅ |
 | Perfiles | 168 cm (5' 6") / April 16 | *168 cm*, *16 de abril* (sin unidades imperiales, como el japonés) | ✅ |
 | Diagrama de la selección de capítulo (・自由行動 / ・バトル / ・探索 / ・END：N / 分岐選択：Q) | Free Time / Battle / Exploration / Ending N / Decide: X | *・Tiempo libre*, *・Combate*, *・Exploración*, *・Final N*, *・Decisión: ¿pregunta?* con la pregunta exacta de la decisión; cada opción, *¿pregunta?* y la opción en el renglón siguiente | ✅ |
-| Opciones con el mismo japonés y otro objeto | | Pronombre según a quién se refiere (*Matarlo / Matarla*); 断る: *Negarme* (algo que se ofrece) / *Rechazarla* (una confesión); motivo en `review/ignore.csv` | ✅ |
+| Opciones con el mismo japonés y otro objeto | | Pronombre según a quién se refiere (*Matarlo / Matarla*); 断る: *Negarse* (algo que se ofrece) / *Rechazarla* (una confesión); motivo en `review/ignore.csv` | ✅ |
 | Objetivos con baños y habitaciones | | Como el mapa: *Ir al baño de hombres P1 (norte)*, *Hablar en la habitación de Yakushiji (azotea)*, *Ir a mi habitación (azotea)* | ✅ |
 | Condiciones de victoria y derrota | | Victoria en imperativo (*Derrota a...*, *Alcanza a... con la trampa de veneno*); derrota con *Muere X*, *Aniquilan a todos los aliados*, *Destruyen el generador de barrera* | ✅ |
 
