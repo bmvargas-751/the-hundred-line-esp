@@ -238,3 +238,10 @@ d099 m020#210 Terminal Scallop-Headitis -> Ostiocefalitis Terminal; m060#10 Fint
 d100 bba m010#470 Carp diem -> Carpa diem (provisional)
 
 - Unificado en s14: Leisure Lounge → Sala de Descanso (Rec Room queda como sala de recreo); Sister/Brother Dearest → queridísima hermana / queridísimo hermano; Infuser sin traducir; World Death → Muerte del Mundo.
+
+## Cajas de decisión — opciones concretas en vez de Sí / No
+
+- Archivo: `text/event_decideselect_message`, 38 escenas de todas las rutas (salvo las que ya traían acciones concretas en el inglés).
+- EN: en esas escenas el doblaje inglés solo pone *Yes* / *No* (la acción va en la pregunta). El japonés trae la acción concreta (*殺す / 殺さない*, *出撃する / 出撃しない*).
+- ES provisional: la acción del japonés con el objeto de la pregunta en inglés (*Matarlo / No matarlo*, *Salir a la batalla / No salir a la batalla*, *Participar / No participar*). Pronombres según a quién se refiere la pregunta (*Matarlo* / *Matarla*); con SIREI y Moko se evitan los pronombres porque el género no es claro.
+- Por qué: pedido del usuario (2026-11-03) de que las cajas no digan solo Sí / No. Los avisos `inconsistente` y `largo` que salen son a propósito y están en `review/ignore.csv`.

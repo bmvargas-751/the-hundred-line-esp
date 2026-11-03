@@ -1083,3 +1083,13 @@ peninsular,message/r00_0_1sttruer_00_d093_m030_010/000_Sheet1#170,"falso positiv
 peninsular,message/r00_0_1sttruer_00_d095_m010_010/000_Sheet1#280,"falso positivo: ""más vale"", ""venga"" (de venir) o ""pasta"" (alimento) son correctos en América"
 peninsular,message/r00_0_1sttruer_00_d095_m400_010/000_Sheet1#410,"falso positivo: ""más vale"", ""venga"" (de venir) o ""pasta"" (alimento) son correctos en América"
 vosotros,message/k_chr013kyo_03/000_Sheet1#60,"falso positivo: ""samuráis"" no es vosotros"
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s00_0_2ndTrueR_00_d100_m050_010_02_0020,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_A_SFsfSFsf_B0_d071_m020_010_02_0010,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_A_SFsfSFsf_B0_d071_m020_010_02_0020,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_A_SFsfSFsf_Bab_d099_m030_010_02_0010,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_A_SFsfSFsf_Bab_d099_m030_010_02_0020,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bbb_d098_m020_010_02_0010,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bbb_d098_m020_010_02_0020,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bbbb_d098_m020_010_02_0010,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+inconsistente,text/event_decideselect_message/000_event_decideselect_message#s13_B_LoveLove_Bbbb_d098_m020_010_02_0020,opción concreta según la pregunta de su escena (el inglés solo dice Yes/No)
+largo,text/event_decideselect_message/000_event_decideselect_message#s13_A_SFsfSFsf_Bab_d099_m030_010_02_0020,opción concreta: cabe en la caja (el inglés solo dice Yes/No; hay opciones de 38 caracteres)
