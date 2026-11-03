@@ -1,6 +1,6 @@
 id	huella_jp	es
-10	2b06a3b3	{fc(57e4f1)Cuando llegamos de vuelta a la escuela, llamamos a Sirei a la Sala de Guerra para hablar de lo que habíamos averiguado.}
-20	fd098791	Sirei. ¿Es cierto que estamos en otro planeta? ¿Que esto es Futurum, no la Tierra?
+10	2b06a3b3	{fc(57e4f1)Cuando llegamos de vuelta a la escuela, llamamos a SIREI a la Sala de Guerra para hablar de lo que habíamos averiguado.}
+20	fd098791	SIREI. ¿Es cierto que estamos en otro planeta? ¿Que esto es Futurum, no la Tierra?
 30	88720378	No tengo idea de lo que hablas.
 40	80d292e2	No hagan caso de ninguna información falsa que los invasores intenten darles.
 50	aceeda2a	No te dejaremos escapar tan fácil. Además, tenemos formas de hacerte hablar.
@@ -11,7 +11,7 @@ id	huella_jp	es
 100	9cfcea40	Aunque no estés, podemos arreglárnoslas solos. Lo sé por experiencia.
 110	d4ee8244	Pero tú no puedes defender esta escuela por tu cuenta. Nos necesitas.
 120	9915cd3b	¡Así que puedes amenazar nuestras vidas todo lo que quieras! ¡Si las cumples, te harás más daño a ti que a nosotros!
-130	e1208860	{fc(57e4f1)Solo pude hablar con tanta confianza porque ya había vivido un futuro sin Sirei.}
+130	e1208860	{fc(57e4f1)Solo pude hablar con tanta confianza porque ya había vivido un futuro sin SIREI.}
 140	4a9594c1	{fc(57e4f1)Si se llegaba al caso, podíamos deshacernos de él y aun así sobrevivir hasta el Día 100. No dejaría que me intimidara ahora.}
 150	f4a72a8b	
 160	8251c391	Bueno, supongo que ya no sirve de nada ocultarlo. Es hora de confesar.

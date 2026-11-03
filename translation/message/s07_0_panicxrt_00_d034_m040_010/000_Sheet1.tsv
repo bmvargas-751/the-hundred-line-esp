@@ -4,7 +4,7 @@ id	huella_jp	es
 30	3ec58745	{fc(57e4f1)Soy Takumi Sumino, líder de la Unidad de Defensa Especial.}
 40	80d44c1f	{fc(57e4f1)No puedo quedarme revolcándome en el pasado.}
 50	71a28075	¿Eh...? ¿Takumi?
-60	d8b95519	
+60	d8b95519	NIGOU...
 70	b5f416df	¿Qué te trae por aquí?
 80	4261f70d	Solo quería tomar un poco de aire fresco.
 90	55830d21	¿Y tú?
@@ -12,9 +12,9 @@ id	huella_jp	es
 110	317b7df7	Quería hablar contigo de algo.
 120	66d7c2d0	¿De qué?
 130	cc68c572	Bueno...
-140	bfe8c65e	{fc(57e4f1)Nigou miró a su alrededor, como asegurándose de que no hubiera moros en la costa antes de continuar.}
-150	aeea44bd	Primero que nada, yo no soy Nigou.
-160	55cc63df	Soy una IA completamente distinta que solo toma prestado el cuerpo de Nigou.
+140	bfe8c65e	{fc(57e4f1)NIGOU miró a su alrededor, como asegurándose de que no hubiera moros en la costa antes de continuar.}
+150	aeea44bd	Primero que nada, yo no soy NIGOU.
+160	55cc63df	Soy una IA completamente distinta que solo toma prestado el cuerpo de NIGOU.
 170	aef48060	¿Qué?
 180	f2c2aced	...¿Estás bien?
 190	519454ff	{fc(57e4f1)El golpe en la cabeza de hace rato pudo haber sido peor de lo que pensaba.}
@@ -22,7 +22,7 @@ id	huella_jp	es
 220	f4a72a8b	
 230	04e3104f	Está bien. Te escucho.
 240	cf473f80	{fc(57e4f1)Esté en sus cabales o no, al menos debería escucharlo.}
-260	4d2bf24d	Dices que no eres Nigou, que eres otra IA. Por favor, explícamelo de una forma que pueda entender.
+260	4d2bf24d	Dices que no eres NIGOU, que eres otra IA. Por favor, explícamelo de una forma que pueda entender.
 270	cfd74212	Gracias, haré lo posible.
 280	459eb79b	Hablando claro, represento a la Facción Anti-Éxodo.
 290	0a4ff5a6	Ustedes y sus amigos ya no necesitan pelear.

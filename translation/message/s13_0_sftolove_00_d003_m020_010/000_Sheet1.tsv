@@ -1,14 +1,14 @@
 id	huella_jp	es
-10	544cf6c4	{fc(57e4f1)Encontré a Sirei esperándome en el pasillo.}
+10	544cf6c4	{fc(57e4f1)Encontré a SIREI esperándome en el pasillo.}
 20	35851188	Lo pensé y me di cuenta de que no hacía falta que me involucrara.
 30	16e6d602	Me da lo mismo si los demás quieren oír la versión de Aotsuki.
-40	0d1acb65	¿Qué les va a decir? "¡Los están engañando! ¡Sirei y Takumi les mienten!"
+40	0d1acb65	¿Qué les va a decir? "¡Los están engañando! ¡SIREI y Takumi les mienten!"
 50	1e95294c	Aunque dijera algo así, no tiene ninguna prueba que lo respalde.
 60	4cf71b45	Yo, en cambio, tengo grabaciones de su repentino cambio de actitud y de todo lo que dijo anoche.
 70	809fa242	Que hablen con él si quieren. Tú y yo tenemos otras cosas que discutir.
 80	88294361	Déjame adivinar. ¿Quieres saber por qué no les dije la verdad?
 90	d357e9e0	Así es.
-100	844bf875	{fc(57e4f1)Le expliqué mi razonamiento a Sirei.}
+100	844bf875	{fc(57e4f1)Le expliqué mi razonamiento a SIREI.}
 110	af597381	{fc(57e4f1)Si todos se enteraban de lo que se venía, el futuro volvería a cambiar.}
 120	c4095023	{fc(57e4f1)Para mantener la ventaja que me daba conocer el futuro, había decidido dejarlos a oscuras por ahora.}
 130	f1740be4	¿Pero no volviste porque querías cambiar el futuro?
@@ -22,11 +22,11 @@ id	huella_jp	es
 210	6df2716d	¡Tus intereses y los míos coinciden a la perfección!
 220	b9f46bcf	Entonces, ¿qué dices si trabajamos juntos?
 230	bfc66af4	Les ocultaré a los demás que vienes del futuro.
-240	450f8bf5	Si ayuda a que la Unidad Especial de Defensa funcione con más eficiencia, con mucho gusto practico un poquito de engaño.
+240	450f8bf5	Si ayuda a que la Unidad de Defensa Especial funcione con más eficiencia, con mucho gusto practico un poquito de engaño.
 250	c7439b44	Gracias. Te lo agradezco.
 260	221f91f4	Una cosa más... ¿Cuánto sabes exactamente de nuestra misión aquí?
-270	fb84661b	{fc(57e4f1)Y así le conté a Sirei cómo habían ido las cosas durante mis cien días originales en la academia.}
-280	4dfc0d5e	{fc(57e4f1)Empezando por lo que pasó cuando fui a la Penúltima Academia de Defensa y conocí a Nigou y a los demás miembros del equipo.}
+270	fb84661b	{fc(57e4f1)Y así le conté a SIREI cómo habían ido las cosas durante mis cien días originales en la academia.}
+280	4dfc0d5e	{fc(57e4f1)Empezando por lo que pasó cuando fui a la Penúltima Academia de Defensa y conocí a NIGOU y a los demás miembros del equipo.}
 290	3fea6765	{fc(57e4f1)Luego, las revelaciones que siguieron. La Muerte del Mundo, la criptoglobina, el Proyecto Éxodo y el Satélite Artificial...}
 300	afd339b6	{fc(57e4f1)Y por supuesto, que el chico hecho de Llamas Eternas con el que habíamos hablado anoche era lo que, o más bien quien, estaba en la Sala de Defensa.}
 310	fbf107a8	{fc(57e4f1)Le conté más o menos todo lo que sabía.}
@@ -39,7 +39,7 @@ id	huella_jp	es
 380	4a228c8b	Cierto. Eso es lo que ustedes creen que es la {fc(ff635b)verdad}. Pero están totalmente equivocados.
 390	5438035a	En fin, mejor me voy. Fingiré que nunca tuvimos esta conversación, de forma sigilosa.
 400	46395752	Sigiloso, incógnito, confiable, ético, infiltrado... Ese soy yo.
-410	ee05dece	{fc(57e4f1)Sirei se fue corriendo, viéndose más sospechoso que "sigiloso".}
+410	ee05dece	{fc(57e4f1)SIREI se fue corriendo, viéndose más sospechoso que "sigiloso".}
 420	dc87034a	{fc(57e4f1)¿De verdad no conozco aún toda la verdad? ¿Tenía razón Eito?}
 430	111768a1	{fc(57e4f1)Bueno... Aunque la tuviera, no sirve de nada preguntárselo ahora.}
 440	a246fc31	{fc(57e4f1)Esta versión de él lleva aquí solo tres días. No sabe todas las cosas que me contó en la Sala de Defensa en esa época.}

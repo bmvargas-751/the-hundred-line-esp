@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	fb491281	Día 71
-20	2b40c92a	{fc(57e4f1)Sirei debió de notar que algo había salido mal. Estaba ahí para recibirnos cuando volvimos.}
+20	2b40c92a	{fc(57e4f1)SIREI debió de notar que algo había salido mal. Estaba ahí para recibirnos cuando volvimos.}
 30	41aaf7ae	{fc(57e4f1)Apenas tuvimos tiempo de descansar antes de que nos convocara a todos al Gimnasio para otra reunión.}
 40	ead27a47	¿Así que Amemiya se queda en su cuarto esta vez?
 50	94ef58c4	Sí, estaba durmiendo cuando la dejamos... Aunque parecía tener mucho dolor.
@@ -57,7 +57,7 @@ id	huella_jp	es
 560	f43d3337	Lo único que tienen son leyendas viejas y polvorientas. Y ni siquiera decentes leyendas humanas, sino de ellos...
 570	61860da0	¿"Ellos"?
 580	4cf684b8	Olvídalo. El punto es que Amemiya se ha vuelto un riesgo. Por el bien del futuro de la humanidad, tiene que ser eliminada.
-590	3e40e09e	Sirei... ¿Hablas en serio?
+590	3e40e09e	SIREI... ¿Hablas en serio?
 600	e47fada4	Si de verdad piensas que Darumi es peligrosa, ¿no podemos encerrarla en vez de eso?
 610	89388d09	No, eso no servirá. También tengo que pensar en qué haremos si matarla no soluciona el problema.
 620	f399c32a	De cualquier modo, va a explotar aquí y ahora.
@@ -65,14 +65,14 @@ id	huella_jp	es
 640	b51fa48a	¡De ninguna manera! ¡La victoria de la humanidad es la prioridad!
 650	30af6587	{fc(57e4f1)No, no, no... Lo que más temía está a punto de pasar y no puedo hacer nada...}
 660	bea47ba3	{fc(57e4f1)Esta es la razón de todo mi silencio. Esta es exactamente la clase de situación que quería evitar.}
-670	73f18890	{fc(57e4f1)Tengo que detener a Sirei... ¡No puedo dejar que haga esto!}
+670	73f18890	{fc(57e4f1)Tengo que detener a SIREI... ¡No puedo dejar que haga esto!}
 680	161e4664	{fc(57e4f1)Si lo desafío, probablemente me haga explotar a mí también...}
 690	950caf91	{fc(57e4f1)Y puede cambiar la configuración del Revive-O-Matic y negarse a traerme de vuelta como hizo con Eito...}
 700	e3763a60	{fc(57e4f1)Siempre ha tenido la opción de hacerlo... ¡Pero no puedo dejar que mate a Darumi...!}
 710	6e15847f	{fc(57e4f1)Antes de que pudiera hacer nada, sin embargo, alguien más dio un paso al frente y actuó.}
 720	14cad4b1	{fc(cfff3f)*¡zas!*}
 730	257ff880	¿Eh?
-740	030e3e75	{fc(57e4f1)Por un instante, no pude creer lo que veía. Eito había sacado su Arma de Clase y con ella había apuñalado a Sirei.}
+740	030e3e75	{fc(57e4f1)Por un instante, no pude creer lo que veía. Eito había sacado su Arma de Clase y con ella había apuñalado a SIREI.}
 750	20d94e24	Hasta nunca.
 760	0c85cf50	{fc(57e4f1)Y un instante después...}
 770	a1f35120	{fc(cfff3f)*¡bum!*}
@@ -80,7 +80,7 @@ id	huella_jp	es
 790	4fcb4940	¡Eito...!
 800	6fe0b912	Jaja... Parece que hasta aquí llego.
 810	7edf2a17	¿En qué estabas pensando? ¡Tenías que saber que pasaría ESTO!
-820	393d80b1	¡Y sin el permiso de Sirei... ya no pueden traerte de vuelta!
+820	393d80b1	¡Y sin el permiso de SIREI... ya no pueden traerte de vuelta!
 830	5c494295	Ustedes están en la misma posición... Él podría haber cambiado la configuración de cualquiera de ustedes en cualquier momento.
 840	fbf8f46e	Incluso podría haber matado a Darumi y negarle el derecho a ser revivida...
 850	91266eee	No podía permitir eso.
@@ -109,18 +109,18 @@ id	huella_jp	es
 1080	8269b96b	...¿Está muerto?
 1090	32e824d0	Sí...
 1100	23fed3b8	El Dron de Recuperación de Cadáveres no viene...
-1110	a65f8959	No vendrá, ahora que Sirei no está. Supongo que no era un farol.
+1110	a65f8959	No vendrá, ahora que SIREI no está. Supongo que no era un farol.
 1120	9d3384d8	¿Así que Eito está... muerto de verdad ahora? ¿No va a volver nunca?
 1130	5a5b2369	Tch. Tenía que morir de la forma más genial posible, además...
 1140	2d00367b	Nos odió hasta el final... Pero tenía agallas. Y a su manera, hizo lo que creía correcto.
-1150	4c0c4df3	En cuanto a Sirei, está roto sin remedio.
+1150	4c0c4df3	En cuanto a SIREI, está roto sin remedio.
 1160	c8a9754f	Ya no tendremos que preocuparnos de que mate a Darumi... ¿Pero estaremos bien sin él?
 1170	a74a85bd	Algo se nos ocurrirá. Pasé la mayor parte de mi línea temporal anterior sin él; podemos hacerlo otra vez.
 1180	b66af092	...Mejor limpiemos todo esto. También tenemos que arreglar el Ration-O-Matic.
 1190	01aacc04	Sí...
 1200	ea9f9ef2	Ayudaré en lo que pueda. Den sus órdenes y obedeceré.
 1210	621f9b95	{fc(57e4f1)Nos repartimos y nos pusimos a lidiar con las secuelas del conflicto.}
-1220	96e413bf	{fc(57e4f1)Eva se ocupó de los restos de Sirei, mientras yo tomé el cuerpo de Eito y lo enterré en el Patio de la escuela.}
+1220	96e413bf	{fc(57e4f1)Eva se ocupó de los restos de SIREI, mientras yo tomé el cuerpo de Eito y lo enterré en el Patio de la escuela.}
 1230	fbd6d404	{fc(57e4f1)Tsubasa, por su parte, volvió a trabajar en la reparación del Ration-O-Matic.}
 1240	67c5dbb0	{fc(57e4f1)Mientras trabajábamos, nadie habló mucho.}
 1250	0e598fc0	{fc(57e4f1)Los últimos momentos de Eito nos habían dejado huella a todos. Había sido un traidor... pero había dado la vida por una buena causa. Creo que ya no sabíamos qué sentir por él.}
