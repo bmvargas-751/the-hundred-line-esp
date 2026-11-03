@@ -1,51 +1,51 @@
 id	huella_jp	es
-10	7ee4d752	Oigan, ¿qué hacen en un lugar como este...?
-20	69b428d6	{fc(57e4f1)Cuando pregunté,\nlos cuatro se miraron con cautela y dijeron:}
-30	6a0e2395	Nada... no hay ningún motivo.
-40	664284e8	Solo vinimos porque nos aburríamos...
-50	9cf3553e	Aquí hay un montón de cosas\nperfectas para matar el tiempo.
-60	a7da67bc	{fc(57e4f1)Escuché su respuesta y les dije que\nestaba investigando el asesinato de Gaku...}
-70	4421007b	{fc(57e4f1)Los cuatro se sorprendieron...}
-80	ba139770	¿Eh...? ¿En serio lo dices?
-90	55e1cb8e	Gaku fue asesinado en la madrugada del día 5...
-100	5ca6887e	Ya pasaron casi veinte días desde entonces...
-110	15a1c6f3	¿Y por qué... ahora...?
-120	31428ae1	¡Ustedes lo dijeron!\n¡Que mientras no descubriera al verdadero culpable, no me creerían!
-130	2219df7e	¿Acaso sospecha de nosotros...?
-140	1753a384	No es eso. Si se confirma que ustedes son inocentes,\neso también está bien para mí.
-150	7c4516e8	Así, si voy aumentando uno por uno las personas inocentes,\nal final podré demostrar que no hay culpable entre nosotros, ¿no?
-160	902d8e00	Ya veo... pero eso será difícil, ¿no?
+10	7ee4d752	¿Qué hacen aquí?
+20	69b428d6	{fc(57e4f1)Ante mi pregunta, los cuatro se tensaron y se miraron entre sí.}
+30	6a0e2395	Nada en particular...
+40	664284e8	Solo nos aburríamos, eso es todo.
+50	9cf3553e	¡Aquí hay muchas cosas que podemos usar para aliviar el aburrimiento!
+60	a7da67bc	{fc(57e4f1)Tras oír su respuesta, les informé que estaba investigando el caso del asesinato de Gaku.}
+70	4421007b	{fc(57e4f1)Se quedaron desconcertados.}
+80	ba139770	¿Qué? ¿Te volviste loco?
+90	55e1cb8e	Gaku fue asesinado de madrugada el Día 5...
+100	5ca6887e	Han pasado casi 20 días desde entonces.
+110	15a1c6f3	¿Por qué ahora?
+120	31428ae1	Porque ustedes dijeron que no confiarían en mí hasta que encontrara al verdadero culpable, ¿recuerdan?
+130	2219df7e	¿Eso significa que sospechas de nosotros?
+140	1753a384	No dije eso. De hecho, es mucho mejor si puedo demostrar más allá de toda duda que todos somos inocentes.
+150	7c4516e8	Mientras más personas podamos confirmar como inocentes, más pronto podremos demostrar que el asesino nunca fue uno de nosotros, ¿no?
+160	902d8e00	Entiendo tu punto...pero me temo que será difícil de lograr.
 170	88824829	¿Por qué?
-180	eef19343	Porque ninguno del {fc(ff635b)"Grupo 1"} tiene coartada.
-190	23a30a2f	Ah... {fc(ff635b)"Grupo 1"} son los miembros de la Unidad de Defensa Especial\nque estábamos al principio en esta academia.
-200	3a6f2547	Y, por cierto, el {fc(ff635b)"Grupo 2"} es...
-210	f5e09dc8	Los cinco que estaban en la Penúltima Academia de Defensa, ¿no?
-220	a9876095	¡E-Espera, queridísima hermana...!\n¡Y respecto a nosotros dos...!
-230	3e8cc84a	¿Que tenemos coartada porque dormimos juntos?\nAunque yo lo diga, eso no sirve...
-240	ff69e514	Es como dijo Hiruko...
-250	a744c97c	Eso de "el testimonio entre hermanos...", ¿verdad?
-260	9a8d53ac	¡¿Eh...?! ¡¿La Srta. Amemiya también sospecha de nosotros?!
-270	ed94fa3a	Kyohohoho, no es que sea eso, pero...
-280	306a1a1a	Entonces, ¿y los motivos?
-290	c8366871	¿Motivos...?
-300	ce44cee8	¿Alguno de ustedes tenía algún rencor contra Gaku...?
-310	f14273a4	S-Takumi... ¿crees que alguien responderá\n"sí, le tenía rencor" si le preguntas eso...?
-320	91a89d58	Además, como dijo el Sr. Ginzaki hace un rato,\na Maruko lo mataron en la madrugada del día 5.
-330	191595ff	En realidad hacía solo cuatro días que nos conocíamos,\n¿cómo vamos a tener tanto rencor como para apuñalarlo así...?
-340	6e780c78	No lo tendríamos, claro.
-350	9a239d88	Ya veo, eso es cierto...
-360	9369a01d	Por eso creo que no tiene sentido profundizar en el motivo.
-370	19ae39e5	Ese crimen lo cometió un anormal...\nesa es la explicación que mejor cuadra.
-380	cde68001	Entonces, la sospechosa más probable es...
-390	512f54db	Seguro que Takumi, el anormal, ¿no?
-400	8d328373	¡¿Por qué?!
-410	66965eff	Porque el Sr. Sumino mató al Sr. Aotsuki\nde esa manera, ¿no?
-420	9f1af0e4	Sin ninguna razón en particular...
-430	959c3eae	¡Eso ya lo hablamos mil veces...!\n¡Él, en otro futuro, nos...!
-440	4ba7241b	Eso... ¿se lo dirías también a la policía?
-450	fece8689	¿O a un tribunal...?
-460	6b9e9d63	"Yo maté a una persona\npara evitar un crimen futuro".
-470	4761bdd1	¿Lo testificarías así...?
-480	5de2526b	...\n...
-490	850642f6	{fc(57e4f1)Al final, lo mismo de siempre...\nya no valía la pena decir nada más.}
-500	e49c3774	{fc(57e4f1)Suspiré, sacudí la cabeza\ny me fui del lugar en silencio.}
+180	eef19343	Nadie del {fc(ff635b)Grupo 1} tiene una coartada comprobable.
+190	23a30a2f	Ah... {fc(ff635b)Grupo 1} es decir, los miembros originales de la Unidad de Defensa Especial de la Última Academia de Defensa.
+200	3a6f2547	Mientras que el {fc(ff635b)Grupo 2}...
+210	f5e09dc8	¿Se refiere a los cinco miembros de la Penúltima Academia de Defensa?
+220	a9876095	¡E-Espera, queridísima hermana! ¡Pero tú y yo tenemos coartadas a prueba de todo!
+230	3e8cc84a	¿Porque dormíamos juntos en el mismo cuarto? Eso no se sostiene desde un punto de vista objetivo.
+240	ff69e514	Es tal como dijo Hiruko.
+250	a744c97c	El testimonio de un hermano no cuenta.
+260	9a8d53ac	¡Srta. Amemiya! ¡¿También desconfía de nosotros?!
+270	ed94fa3a	¡Kyohoho! ¿Quién dijo eso? ¡Te estás adelantando!
+280	306a1a1a	¿Y si miramos los posibles móviles?
+290	c8366871	¿Móviles?
+300	ce44cee8	Por ejemplo, ¿hay alguien entre ustedes que tuviera algo contra Gaku?
+310	f14273a4	T-Takumi, ¿de verdad esperas que alguien responda que sí a una pregunta así?
+320	91a89d58	Además, como acaba de mencionar el Sr. Ginzaki, el Sr. Maruko fue asesinado de madrugada el Día 5.
+330	191595ff	En ese momento solo nos conocíamos hacía cuatro días. Apenas tiempo suficiente para desarrollar un rencor tan profundo como para apuñalar a alguien tantas veces...
+340	6e780c78	¡Y esa es la verdad!
+350	9a239d88	Sí, supongo...
+360	9369a01d	Por eso creo que no tiene sentido intentar resolver este caso mirando los móviles.
+370	19ae39e5	Ese asesinato lo cometió un lunático. Es la única forma de que tenga sentido.
+380	cde68001	Lo cual significa que el principal sospechoso sería...
+390	512f54db	¡El lunático más lunático de todos, el hombre, el mito, el meme en persona: Takumi!
+400	8d328373	¡¿Por qué yo?!
+410	66965eff	Porque mataste al Sr. Aotsuki con tanta facilidad, así sin más.
+420	9f1af0e4	Y sin ninguna prueba...
+430	959c3eae	¡¿Cuántas veces tengo que explicarlo?! ¡Nos traicionó en otro futuro y por eso...!
+440	4ba7241b	¿Le dirías eso a la policía?
+450	fece8689	¿Aguantaría eso siquiera ante un tribunal?
+460	6b9e9d63	"Lo maté para impedir que cometiera un crimen en el futuro".
+470	4761bdd1	¿Te suena a una buena defensa?
+480	5de2526b	
+490	850642f6	{fc(57e4f1)Era la misma discusión de siempre, que no valía la pena repetir, así que no me molesté en seguir.}
+500	e49c3774	{fc(57e4f1)Simplemente suspiré hondo, sacudí la cabeza y me fui.}
