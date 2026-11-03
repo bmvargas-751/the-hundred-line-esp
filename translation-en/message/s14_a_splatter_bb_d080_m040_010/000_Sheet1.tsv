@@ -1,9 +1,9 @@
 id	huella_jp	es
-10	db4d2381	...\n¡No hay ningún frasco con "α1" en ninguna parte!
-20	0634c905	¡N-no puede ser!\n¡Darumi lo criaba en el cuarto, seguro...!
-30	e2fd225c	Quizá se nos pasó,\n¡busquemos otra vez con calma!
-40	7f2876a4	{fc(57e4f1)Después revisamos el cuarto con mucho cuidado, pero...}
-50	f8e88c77	{fc(57e4f1)por más que buscamos,\nno logramos encontrar al "α1".}
-60	7a330781	{fc(57e4f1)El "cuerpo ovopositor hembra" es demasiado peligroso:\nhay que encontrarlo y eliminarlo como sea.}
-70	d5c26d8a	{fc(57e4f1)Todos estuvimos de acuerdo\ny nos repartimos para registrar la academia.}
-80	b1dfe799	{fc(57e4f1)Pero no encontramos al "cuerpo ovopositor hembra"\ny pasaron varios días sin ningún avance...}
+10	db4d2381	¡¿Dónde está la botella con α1?!
+20	0634c905	¡D-Debería estar por aquí! Sé que Darumi la guardaba aquí...
+30	e2fd225c	Quizás estamos buscando en los lugares equivocados. Calmémonos todos y busquemos de nuevo.
+40	7f2876a4	{fc(57e4f1)Revisamos la habitación con lupa.}
+50	f8e88c77	{fc(57e4f1)Pero por más que buscamos, no pudimos encontrar a α1 en ninguna parte.}
+60	7a330781	{fc(57e4f1)La que engendra hembras era demasiado peligrosa para dejarla sola. Teníamos que encontrarla y exterminarla, de una forma u otra.}
+70	d5c26d8a	{fc(57e4f1)Todos estuvimos de acuerdo, así que decidimos separarnos para buscarla por la escuela.}
+80	b1dfe799	{fc(57e4f1)Sin embargo, pasaron los días y la que engendra hembras nunca apareció...}

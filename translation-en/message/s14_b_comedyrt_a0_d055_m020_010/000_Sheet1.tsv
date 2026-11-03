@@ -1,11 +1,11 @@
 id	huella_jp	es
-10	7a1fd446	Fiu... el plazo es mañana en la mañana,\n¡todavía estoy a tiempo, ¿no?!
-20	e2f0fbc8	{fc(57e4f1)Con la respiración agitada, miré el aula.\nComo era de esperar, no había nadie.}
-30	f6f4d725	Tampoco hay algo como el maletín de antes...\n¿Qué hago con esta foto...?
-40	489e9e5c	{fc(57e4f1)Desconcertado, miraba por el aula cuando,\nsobre un escritorio, descubrí un papel.}
+10	7a1fd446	El plazo de verdad vence mañana en la mañana, así que debería estar bien si lo hago ahora, ¿no?
+20	e2f0fbc8	{fc(57e4f1)Algo agitado después de correr todo el camino, miré alrededor del salón. Igual que la vez anterior, no había nadie más.}
+30	f6f4d725	Pero esta vez no hay maletín. ¿Dónde se supone que deje la foto?
+40	489e9e5c	{fc(57e4f1)Mirando alrededor, mis ojos por fin se posaron en una hoja de papel sobre uno de los pupitres.}
 50	af8d0f83	¿Mm? ¿Qué es esto?
-60	6d33e327	{fc(57e4f1)Pensando que quizá allí venían instrucciones adicionales,\nlo tomé y...}
+60	6d33e327	{fc(57e4f1)Pensando que quizás eran instrucciones para esta "entrega", la tomé y la leí.}
 70	f4a72a8b	
-80	ee9ba4eb	Sí...
-90	845fd9ef	{fc(57e4f1)me quedé mudo.\nPorque no eran instrucciones adicionales, sino...}
-100	06b6ab2f	{fc(ff635b)"otra carta amenazante"}{fc(57e4f1).}
+80	ee9ba4eb	¿Eh...?
+90	845fd9ef	{fc(57e4f1)Por un momento, me quedé helado. La nota sobre el pupitre no eran instrucciones.}
+100	06b6ab2f	{fc(57e4f1)Era }{fc(ff635b)una exigencia adicional}{fc(57e4f1).}

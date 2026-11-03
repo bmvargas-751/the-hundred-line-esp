@@ -1,41 +1,41 @@
 id	huella_jp	es
-10	d4e8d01a	Fuu... ya oscureció del todo.\nMejor vuelvo al cuarto a dormir.
-20	cd3f223e	{fc(57e4f1)Mirando distraído el cielo nocturno,\ncaminaba hacia mi cuarto cuando...}
+10	d4e8d01a	Uf... Ya está oscureciendo. Debería volver y dormir.
+20	cd3f223e	{fc(57e4f1)Mirando el cielo distraído, caminé por la azotea rumbo a mi cuarto.}
 30	3e1433f7	
-40	69432ed2	{fc(57e4f1)Hiruko miraba en silencio el cielo nocturno.}
-50	c76c5551	{fc(57e4f1)Quizás ahora sea una oportunidad para hablarle.}
-60	9e1568a5	{fc(57e4f1)Pensando eso, intenté acercarme... pero\nen ese instante.}
-70	b396cc56	...¡!
-80	8de4b256	{fc(57e4f1)...Shizuhara me notó. E intentó irse\ncomo huyendo de mí.}
-90	72945489	{fc(57e4f1)¿Por qué?\n¿Por qué me evita una y otra vez?}
-100	b44af298	¡Hiruko! ¡Espera...!
-110	e45f813d	{fc(57e4f1)Por la impaciencia y la ansiedad, alcé la voz sin querer.}
-120	3039f916	{fc(57e4f1)Quizás se asustó con la voz:\nHiruko se detuvo y, en silencio, volvió la cara hacia mí.}
+40	69432ed2	{fc(57e4f1)Hiruko también estaba ahí, mirando el cielo nocturno.}
+50	c76c5551	{fc(57e4f1)No tendría mejor oportunidad que esta para hablar con ella.}
+60	9e1568a5	{fc(57e4f1)Cambié de dirección para acercarme, pero entonces...}
+70	b396cc56	
+80	8de4b256	{fc(57e4f1)Debió de notarme. Se puso de pie de golpe y empezó a alejarse.}
+90	72945489	{fc(57e4f1)¿Qué le pasa? ¿Por qué sigue evitándome?}
+100	b44af298	¡Hiruko! ¡Espera un momento!
+110	e45f813d	{fc(57e4f1)El pánico y la irritación hicieron que mi voz saliera más fuerte de lo que pretendía.}
+120	3039f916	{fc(57e4f1)Eso sí la hizo detenerse. Se dio vuelta y me miró con callado desdén.}
 130	f4a72a8b	
-140	9fc2c610	Ah... p-perdón.\nGrité de repente.
-150	18a08265	Es que quería hablar contigo sí o sí.
-160	e07f37a9	...Ya te dije que me dejes en paz.
-170	9a0c7fc6	Ahora no te pregunto mucho. Pero...dime al menos por qué me evitas.
+140	9fc2c610	Yo, eh... Perdón por gritar.
+150	18a08265	Se me escapó. De verdad necesito hablar contigo.
+160	e07f37a9	¿No te dije que no tengo nada que decirte?
+170	9a0c7fc6	Está bien si no quieres hablar, pero al menos dime por qué me evitas.
 180	f4a72a8b	
 190	f4a72a8b	
-200	b0594c03	{fc(57e4f1)Shizuhara no dijo nada.}
-210	72c44c63	{fc(57e4f1)Ese silencio era su respuesta.}
-220	f2f6d06d	...Entendido.\nPerdón por detenerte.
-230	15ec8d99	Pero... algún día cuéntame la razón.\nYo quiero que sobrevivamos todos.
-240	9812e341	Y contigo, por supuesto.\nAsí que... si cargas con algo, apóyate en mí.
+200	b0594c03	{fc(57e4f1)No dijo ni una palabra.}
+210	72c44c63	{fc(57e4f1)Un silencio helado. Esa fue la única respuesta que se dignó darme.}
+220	f2f6d06d	Así que es así... Perdón por molestarte.
+230	15ec8d99	Pero algún día me lo dirás, ¿verdad? Quiero que todos sobrevivamos a esta guerra.
+240	9812e341	Eso te incluye a ti, Hiruko. Si algo te preocupa, siempre puedes pedirme ayuda.
 250	f4a72a8b	
-260	42c82c72	Y otra cosa: cuando decidimos si dejar prisionera a Eva,\ngracias por confiar en mí.
-270	37c2ed36	Gracias a ti, Shizuhara, se resolvió el asunto.\nTambién quería agradecértelo.
-280	9dc17cc5	...No fue nada, solo pensé que era más racional.
-290	497bdc90	Aun así me alegré.\nGracias.
+260	42c82c72	Ah, y gracias por respaldarme cuando quise perdonarle la vida a Eva.
+270	37c2ed36	Si no hubieras estado ahí, la discusión podría haber durado toda la noche. Gracias por confiar en mí.
+280	9dc17cc5	...Solo tomé la decisión más lógica.
+290	497bdc90	Igual te lo agradezco. Gracias otra vez.
 300	f4a72a8b	
-310	1d0853c0	{fc(57e4f1)Hiruko, sin decir nada,\nme dio la espalda y se fue corriendo.}
-320	f2948877	{fc(57e4f1)De algún modo, sentí que su cara fría de siempre\nse había suavizado un poco.}
-330	7944d086	Con la oscuridad no se veía bien su cara...pero qué bueno poder al menos darle las gracias.
-340	c3eb570a	{fc(57e4f1)Hiruko me oculta algo.\nPero ahora hay circunstancias que le impiden decirlo.}
-350	cd8a6ba7	Entonces, yo también tengo que enfrentar a Shizuhara con paciencia...
-360	828ba7ed	{fc(57e4f1)...No te desanimes.\n¿Para qué vine yo aquí?}
-370	0d6252e1	{fc(57e4f1)Para resolverlo todo y volver todos juntos\nal Satélite Artificial, ¿no?}
-380	5f7669e9	Lo lograré... sin falta.
-390	ee820c2e	{fc(57e4f1)Mirando el cielo nocturno brillante, lo juré de nuevo.}
-400	44d1483a	{fc(57e4f1)Así terminó el día 22 en la Última Academia de Defensa,\ny la noche amaneció en silencio.}
+310	1d0853c0	{fc(57e4f1)Hiruko giró sobre sus talones y se fue, sin decir nada todavía.}
+320	f2948877	{fc(57e4f1)Me pareció que su actitud fría y serena se había suavizado un instante, sin embargo.}
+330	7944d086	No pude saberlo con certeza porque está muy oscuro... En fin, al menos pude agradecerle.
+340	c3eb570a	{fc(57e4f1)Hiruko me ocultaba algo, eso era evidente. Pero por alguna razón no podía contármelo.}
+350	cd8a6ba7	Supongo que tendré que ganarme su confianza, de a poco pero con constancia...
+360	828ba7ed	{fc(57e4f1)No te desanimes. No volviste en el tiempo para rendirte cuando las cosas se pongan difíciles.}
+370	0d6252e1	{fc(57e4f1)Vas a ganar esta guerra y a llevar a todos de vuelta al Satélite Artificial, ¿no?}
+380	5f7669e9	Sí... Cueste lo que cueste, eso voy a hacer...
+390	ee820c2e	{fc(57e4f1)Hice un voto silencioso, con las estrellas centelleantes allá arriba como únicos testigos.}
+400	44d1483a	{fc(57e4f1)La noche transcurrió tranquila y sin incidentes, y así terminó mi día 22 en la academia.}

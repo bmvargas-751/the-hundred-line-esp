@@ -1,36 +1,36 @@
 id	huella_jp	es
-10	00d9e306	{fc(57e4f1)...¿Eh? ¿No está Tsubasa?}
-20	780aa413	Ah, miren, Takumi...\nFuaaah... todavía tengo sueño...
-30	a304a1f1	Sumino-senpai, ¿busca algo?\nLa autoestima perdida no se encuentra en el comedor.
-40	3a2f4c89	...No recuerdo haber perdido autoestima.\nTenía algo que hablar con Tsubasa... ¿no la vieron?
-50	18f3d6f6	Senpai Tsubasa...hace rato la vi sentada en una banca del patio.
-60	d2c27f69	{fc(57e4f1)¿En el patio? ¿Qué hará ahí?}
-70	2aafe471	Gracias de todos modos.\nDespués de desayunar iré al patio.
-80	1e9bff4e	Más importante... ¿qué es eso que tiene Sumino-senpai?
-90	18009d68	Ah, esto es la razón por la que busco a Tsubasa.\nParece un invento que se le cayó...
-100	9819f12b	...¿Eh?
-110	9b1914ca	{fc(57e4f1)Al mirar de nuevo el dispositivo,\nel medidor de la pantalla se había movido sin que me diera cuenta.}
-120	48cea1ad	¿Mm? ¿Qué máquina es?\nAlgo se está moviendo...
-130	802394ef	El medidor marca 18... ¿qué es esto?
-140	bbfb4e4f	No, yo tampoco sé qué es...\nSe movió cuando lo apunté a Ima, ¿no?
+10	00d9e306	{fc(57e4f1)¿Eh? ¿Tsubasa no está?}
+20	780aa413	Ah, miren, es Takumi... *Buuuostezo* Tengo muuucho sueño...
+30	a304a1f1	Sr. Sumino, ¿está buscando algo? No he visto ni un destello de su autoestima perdida.
+40	3a2f4c89	No recuerdo haberla perdido... Tengo que encontrar a Tsubasa. ¿La han visto?
+50	18f3d6f6	¿Tsubasa? La vi sentada en una banca del Patio.
+60	d2c27f69	{fc(57e4f1)¿En el Patio? ¿Qué hará allá afuera?}
+70	2aafe471	Bueno, gracias. Iré después del desayuno...
+80	1e9bff4e	Más importante, ¿qué traes ahí?
+90	18009d68	Ah, por esto necesitaba ver a Tsubasa. Parece que se le cayó uno de sus inventos...
+100	9819f12b	Espera, ¿qué?
+110	9b1914ca	{fc(57e4f1)Volví a mirar el aparato y vi que el medidor de la pantalla había empezado a moverse.}
+120	48cea1ad	¿Eh? ¿Qué clase de máquina es esta? Se está moviendo...
+130	802394ef	El medidor marca 18... ¿Qué será?
+140	bbfb4e4f	Sinceramente no tengo idea... ¿Se movió cuando te apunté a ti?
 150	83e9b31a	¿Eh? ¿En serio?
-160	a1ec682e	{fc(57e4f1)Probé apuntando el dispositivo a Darumi, que estaba al lado.\nY el medidor se volvió a mover...}
-170	c134b049	¿A Darumi le salió 53? ¿Qué es esto?\n¿El número de personas que mató en el pasado?
-180	35f86d64	Hay cosas que ni en broma se dicen...\n¿Es broma, verdad?
-190	de250a25	Y, si fuera eso, yo también sería bastante asesino.\nDejen de calumniarme...
-200	92512af0	{fc(57e4f1)¿Qué mide ese número...?\nMientras pensaba, Kako soltó un "ah".}
-210	a2d61a84	Esto, quizá, sea...algo que te dice cuánto te quieren los demás.
-220	c005bc1d	¡¿Cu-cuánto me quieren?!
-230	16854a43	¡Sí! ¡Un medidor que mide cuánto gusta a todos\nla persona que lo tiene!
-240	5d063de2	Estás muy emocionada...
-250	6ccf59e9	Es que, si se puede saber cuánto gustas a alguien, se pueden descubrir amores ocultos... ¡qué divertido...!
-260	e7aa0ab0	Takumi-senpai, ¿no hay alguien de quien quisieras saber\n¡cuánto le gustas?
-270	5ddd76f2	N-no... no hay nadie...
-280	bbb3336f	Ah, a Takumi se le movieron los ojos un milímetro.\nEsa frase es mentira.
-290	a765ed64	¡Basta! ¡No intentes leerme!
-300	6eb0c046	Sumino-senpai... no apunte eso a mi hermana, ¿sí?\nSegún el número, no sé si podré mantener la razón.
-310	c99780b3	B-bueno... sea lo que sea esto,\n¡por ahora se lo devuelvo a Tsubasa!
-320	ed9f30c1	¡Mejor devolverlo cuanto antes!\n¡Seguro!
-330	0e498ca3	Takumi... si no te descubren, no es delito, ¿sabes?
-340	2c90a602	¡Aunque no te descubran, es delito!
-350	6441ac11	{fc(57e4f1)Incómodo en el comedor,\ndecidí ir al patio donde estaba Tsubasa.}
+160	a1ec682e	{fc(57e4f1)Probé a apuntar el aparato hacia Darumi. Entonces el medidor volvió a moverse...}
+170	c134b049	¿Me salió 53? ¿Qué significa? ¿Es la cantidad de gente que he matado?
+180	35f86d64	De algunas cosas de verdad no se debe bromear, Darumi. Estás bromeando, ¿verdad...?
+190	de250a25	Eso me convertiría también a mí en un asesino en serie. Por favor, no me calumnie.
+200	92512af0	{fc(57e4f1)¿Qué significará ese valor...? De pronto, Kako soltó un sonido de comprensión.}
+210	a2d61a84	Es solo una suposición, pero... ¡Quizás mide el cariño que otra persona siente por ti!
+220	c005bc1d	¡¿C-Cariño?!
+230	16854a43	¡Sí! ¡Este medidor mide cuánto le gusta a la gente la persona que lo sostiene!
+240	5d063de2	Eso es... medio emocionante...
+250	6ccf59e9	Exacto... Si sabes cuánto te quieren, quizás descubras que alguien tiene un amor secreto por ti... Qué divertido...!
+260	e7aa0ab0	Takumi... ¿Hay alguien cuyo cariño quieras medir...?
+270	5ddd76f2	N-No... La verdad no...
+280	bbb3336f	¡Desvió la mirada por un milisegundo! Está mintiendo.
+290	a765ed64	¡Basta! ¡No intenten psicoanalizarme!
+300	6eb0c046	Sr. Sumino, ni se le ocurra apuntarle eso a mi querida hermana, por favor. No sé si conservaría la cordura, dependiendo del número.
+310	c99780b3	B-Bueno, ¡sea lo que sea esto, se lo voy a devolver a Tsubasa!
+320	ed9f30c1	¡Mientras más rápido lo recupere, mejor! ¡Eso!
+330	0e498ca3	Takumi... Solo es un delito si alguien se entera, ¿sabes?
+340	2c90a602	¡Un delito es un delito, pase lo que pase!
+350	6441ac11	{fc(57e4f1)Incómodo en la Cafetería, decidí ir a buscar a Tsubasa al Patio.}

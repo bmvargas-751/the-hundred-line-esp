@@ -1,26 +1,26 @@
 id	huella_jp	es
-10	1445c4d0	{fc(57e4f1)Volvimos con paso aturdido al aula del primer piso.}
-20	0f94fd04	{fc(57e4f1)Siguió el silencio.\nTodos tenían caras serias y miraban al suelo.}
-30	4365d94e	{fc(57e4f1)Finalmente, Gaku rompió ese silencio diciendo:}
-40	0add74b2	¡Takemaru, ¿todavía dices que es una broma?!
-50	57e535c2	Tsk...
-60	8400b922	Pero si no es una broma, es trampa. ¿No?\n¡Si todavía no decidimos si nos vamos de la academia...!
-70	fdc42e43	¿Será que quería decir "apenas vean la amenaza, váyanse de inmediato...\n"?
-80	cb323693	Aun así, es trampa.
-90	f12a49d2	Es muy probable que SIREI fuera destruido así\nantes de que nos despertáramos.
-100	8f2f0ff9	Si no, alguien se habría dado cuenta...
-110	cacf3256	O sea, antes de que Gaku descubriera la amenaza.
-120	9df1726b	¡Entonces es muy injusto!\n¡Que haya una víctima antes de saber las condiciones...!
-130	47c6f154	Pero, por ejemplo, en las películas los terroristas\nhacen una pequeña explosión antes de reivindicar el atentado, ¿no?
-140	a67caa07	Y después de dejar claro que "no es una broma"\nanuncian el segundo crimen.
-150	704f22ae	{fc(57e4f1)Es cierto... podría ser.}
-160	da73be77	{fc(57e4f1)Quizás el culpable dejó así a SIREI\npara demostrar que va en serio...}
-170	7b800060	{fc(57e4f1)Si es así, tal vez lo más prudente\nsea hacer lo que dice el culpable...}
-180	dd02ae3d	{fc(57e4f1)Dejar la academia por un tiempo, ver qué pasa y volver...\nsería, ciertamente, más seguro.}
-190	94850228	{fc(57e4f1)Pero quien escribió la amenaza y quien destruyó a SIREI\nno son necesariamente la misma persona.}
-200	cf993218	{fc(57e4f1)Quizás la amenaza sea una broma...\nesa posibilidad también existe.}
-210	591fa062	{fc(57e4f1)Aunque aun así no desaparecería la amenaza\ndel culpable que destruyó a SIREI...}
+10	1445c4d0	{fc(57e4f1)Volvimos al salón aturdidos.}
+20	0f94fd04	{fc(57e4f1)Todos nos quedamos de pie en silencio un buen rato. Con la vista baja y gesto grave.}
+30	4365d94e	{fc(57e4f1)Por fin, Gaku rompió el silencio.}
+40	0add74b2	Takemaru, ¡¿todavía crees que esto es una broma?!
+50	57e535c2	
+60	8400b922	Pero si esto no es una broma, entonces no es justo... Ni siquiera nos dieron la oportunidad de irnos...
+70	fdc42e43	Quizás significa que lo de "matarlos a todos" empieza en cuanto vemos el mensaje.
+80	cb323693	Aun así, no cuadra.
+90	f12a49d2	Es muy probable que Sirei fuera destruido antes de que despertáramos.
+100	8f2f0ff9	Si no, alguien se habría dado cuenta.
+110	cacf3256	Eso significa que ocurrió antes de que Gaku encontrara el mensaje...
+120	9df1726b	¿Entonces uno de nosotros tenía que morir antes de siquiera saber que nos amenazaban? ¡Qué injusticia!
+130	47c6f154	En las películas, los terroristas siempre provocan una explosión pequeña y luego se atribuyen el crimen, ¿no?
+140	a67caa07	Cuando todos saben que no es una broma, anuncian que van a cometer otro crimen.
+150	704f22ae	{fc(57e4f1)Darumi tenía razón.}
+160	da73be77	{fc(57e4f1)Era posible que el culpable le hiciera esto a Sirei para demostrar que iba en serio.}
+170	7b800060	{fc(57e4f1)En ese caso, estaríamos a salvo mientras hiciéramos lo que exigían.}
+180	dd02ae3d	{fc(57e4f1)Abandonar la escuela por un tiempo y ver qué pasaba antes de volver sería la opción más segura.}
+190	94850228	{fc(57e4f1)Pero nadie aseguraba que quien escribió el mensaje fuera el mismo que destruyó a Sirei.}
+200	cf993218	{fc(57e4f1)No era imposible que el mensaje fuera solo una broma.}
+210	591fa062	{fc(57e4f1)Pero aun así, tendríamos que lidiar con la amenaza de que quien destruyó a Sirei siguiera cerca.}
 220	f4a72a8b	
-230	a9dd2e5e	{fc(57e4f1)En todo caso... ahora se trata de obedecer o no la amenaza.}
-240	f5f2bcb3	{fc(57e4f1)Irnos de la academia por un tiempo...\no ignorarla y quedarnos.}
-250	89bfb8f4	{fc(57e4f1)¡La conclusión a la que llegué fue...!}
+230	a9dd2e5e	{fc(57e4f1)Por ahora, tengo que decidir si hacemos caso al mensaje o no.}
+240	f5f2bcb3	{fc(57e4f1)¿Abandonamos la escuela... o lo ignoramos y nos quedamos?}
+250	89bfb8f4	{fc(57e4f1)¡Me toca a mí decidir...!}

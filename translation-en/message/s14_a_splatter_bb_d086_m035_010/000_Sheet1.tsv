@@ -1,84 +1,84 @@
 id	huella_jp	es
-10	42a252e0	{fc(57e4f1)Al entrar a la Sala de Guerra, lo vi aunque no quisiera.}
-20	566cfbcc	{fc(57e4f1)Lo que yacía sobre la mesa...\ncubierto de tanta sangre que se notaba de un vistazo que no había resurrección...}
-30	b2e817ff	{fc(57e4f1)era el cadáver de Shouma.}
-40	fd82b393	G-Shouma...
-50	9cbfab3e	Entramos a la Sala de Guerra y Ginzaki estaba tirado, bañado en sangre.\nEn ese momento aún respiraba apenas...
+10	42a252e0	{fc(57e4f1)Nos llevaron a la Sala de Guerra, donde vimos la escena más desagradable.}
+20	566cfbcc	{fc(57e4f1)Sobre la mesa yacía un cuerpo tan cubierto de sangre que se notaba a simple vista que revivirlo sería imposible.}
+30	b2e817ff	{fc(57e4f1)Era el cadáver de Shouma.}
+40	fd82b393	
+50	9cbfab3e	Cuando entramos aquí, lo vimos tirado en el suelo, lleno de sangre, pero todavía respiraba.
 60	bd9693bc	¿Dijo algo?
-70	de451833	Sí. También oímos su último deseo.
-80	4bf7fb05	{fc(57e4f1)Shouma, moribundo,\nhabría dicho esto justo antes de morir.}
-90	7d8a6547	{fc(57e4f1)"Siempre me dio pena que estuvieran todos enemistados.\n Pensé que, si comíamos algo rico, tal vez nos reconciliaríamos".}
-100	992be5a7	{fc(57e4f1)Con ese pensamiento fue a escondidas al comedor,\npero en el camino lo vio un zombi y lo atacó.}
-110	200b3ba4	{fc(57e4f1)Huyó desesperado hasta la Sala de Guerra,\npero el daño recibido fue mortal...}
-120	3e5f5263	Antes de morir, él me dijo:\n"Por favor, vivan todos".
+70	de451833	Sí... También escuchamos sus últimas palabras.
+80	4bf7fb05	{fc(57e4f1)Justo antes de dar su último suspiro, Shouma dijo...}
+90	7d8a6547	{fc(57e4f1)"Me dio pena ver a todos de tan mal humor. Pensé que algo rico de comer podría animarlos".}
+100	992be5a7	{fc(57e4f1)Intentaba colarse a la Cafetería, pero los zombis lo encontraron y lo atacaron antes de que llegara.}
+110	200b3ba4	{fc(57e4f1)Mientras huía por su vida, logró meterse de un salto a la Sala de Guerra, pero las heridas que sufrió fueron mortales.}
+120	3e5f5263	Justo antes de morir, dijo... "Todos... Por favor, sigan viviendo..."
 130	fc58b15d	Esas fueron sus últimas palabras.
-140	3a9b2d00	Por nosotros...\n¡qué tipo más tonto, maldición...!
+140	3a9b2d00	El tonto solo intentaba ayudarnos... ¡Maldición!
 150	f4a72a8b	
-160	7b9996e6	Esto quizá sea una oportunidad, en cierto modo.
-170	93a9f1a9	¿A qué te refieres, por mi honor?
-180	9739b854	Los zombis atacan para asegurar lugares donde la "Reina de G'ie",\nel "α2", ponga huevos, ¿no?
-190	581287ee	Dicho de otro modo, si la reina desaparece,\nlos zombis dejan de tener razón para matar, ¿no?
-200	67a0ffe7	Es cierto... si no existe quien ponga los huevos,\nde nada sirve crear lugares para ponerlos.
-210	03a6ba4c	Exacto. Por eso no queda otra que matar al α2.
-220	0a6b5e9b	La lógica es esa, pero... ¿cómo?
-230	4c8e9a8f	Atrayendo al α2.
-240	1bb8c8fa	Usando... el cadáver de Shouma.
-250	956ac3f1	{fc(57e4f1)"Usar el cadáver de Ginzaki para atraer\n al α2, la reina ovopositora macho".}
-260	54a29411	{fc(57e4f1)Por esta propuesta blasfema de Kurara,\nal principio todos reaccionamos con rechazo, pero...}
-270	dd472783	Shouma dejó dicho "vivan", ¿no?\n¡Entonces hay que continuar su voluntad!
-280	fa163f49	Matar a {fc(ff635b)"G'ie"} y que nosotros sobrevivamos sí o sí:\n¡esa es la manera de honrar a Ginzaki!
-290	8c241fce	{fc(57e4f1)Es verdad... si morimos nosotros,\nlos sentimientos que dejó Shouma serán en vano.}
-300	c7507591	{fc(57e4f1)Con esa frase de Kurara, nuestra decisión se afirmó.}
-310	cfd6a11d	{fc(57e4f1)Este es el resumen del plan.}
-320	0117f968	{fc(57e4f1)Usar el cadáver de Shouma para atraer al α2\ny, mientras pone huevos, disparar desde el techo una red de captura...}
-330	aaa37956	{fc(57e4f1)Un plan simple, y por eso fácil de preparar.}
-340	471e1c9e	{fc(57e4f1)Tsubasa trajo herramientas del garaje e hizo los arreglos,\ny en una hora más o menos la trampa quedó instalada.}
-350	52d3db3c	Bien... ahora solo hay que esperar que aparezca el α2.
-360	dc7b7730	{fc(57e4f1)Nos escondimos tras unos objetos\ny vigilamos en silencio el cadáver de Shouma.}
-370	2b2ac934	Oye... ¿de verdad así se atrapa a {fc(ff635b)"G'ie"}?
-380	b9bd3368	Por lo general, las trampas simples son las más efectivas.\nAunque un tonto no lo entienda.
-390	1efa839a	Qué cruel...
-400	4229652c	...\n¡Todos, silencio!
-410	326cd18e	...Miren, viene.
-420	82078ca9	U-uuu... ¡la verdad es asqueroso, no puedo, por mi honor!
-430	98058063	Gaku, ¿ese es el α2, seguro?
-440	a9143f36	S-sí... seguro.\n¡El que yo criaba es ese!
-450	40ad7f29	Ya está tratando de poner huevos en el cadáver de Shouma.
-460	9091ffca	Tsubasa, apunta con calma.\nSolo tienes una oportunidad.
-470	611ab6af	L-lo sé...
-480	3197e4ba	{fc(57e4f1)Tsubasa observaba con cuidado al α2...\nquizá por los nervios, la mano que sujetaba el botón de la trampa temblaba.}
-490	d2ca11f4	{fc(57e4f1)Y por fin, el α2 detuvo sus movimientos\npara poner huevos... ¡en ese instante...!}
-500	80306bde	¡Lo logré, éxito!\n¡Se detuvo por completo!
-510	a2b4f8ae	¡Je, bien hecho!\n¡Se descuidó, el maldito bicho!
-520	92d8954e	Ahora solo hay que matar al α2.\n¡Cuidado, que no se escape!
-525	f1f55c0b	{fc(57e4f1)Bajamos el cuerpo de Shouma con red y todo al otro lado de la mesa.\nPero...}
-530	1acf1cd5	Eh... ¿qué? ¿Adónde fue?
-540	45622505	{fc(57e4f1)Revisamos dentro de la red de captura,\npero por alguna razón no había rastro de }{fc(ff635b)"G'ie"}{fc(57e4f1).}
-550	714aa1c4	O-oigan... seguro entró aquí, ¿no?\n¡¿Por qué no está?!
-560	c3e827cb	No puede ser... ¿fallé?\n¡Pensé que lo había atrapado...!
-570	dd647157	¿Q-qué hago?\n¡Era la única oportunidad y por mi culpa...!
-580	9051333c	¡N-no es culpa de Tsubasa!\n¡Verdad, ¿no?!
-590	ddc834d5	Sí, el momento fue perfecto.\nSobre {fc(ff635b)"G'ie"} sin duda estaba la red...
+160	7b9996e6	Esto podría habernos dado la oportunidad de poner fin a todo.
+170	93a9f1a9	¿A qué se refiere?
+180	9739b854	Los zombis están matando gente para crear lugares de desove para la Reina G'ie α2, ¿no?
+190	581287ee	Es decir, si la reina muere, los zombis ya no tendrán que matar... ¿Tiene sentido?
+200	67a0ffe7	Lo tiene... No hace falta crear lugares de desove si la que desova ya no existe.
+210	03a6ba4c	Precisamente. Así que la única forma de terminar con esto es matar a α2.
+220	0a6b5e9b	Suena lógico, pero... ¿cómo?
+230	4c8e9a8f	La atraeremos hasta nosotros.
+240	1bb8c8fa	Usando el cadáver de Shouma como cebo.
+250	956ac3f1	{fc(57e4f1)Usar el cuerpo de nuestro amigo para atraer al parásito que creaba a todos esos zombis...}
+260	54a29411	{fc(57e4f1)Todos tuvimos de inmediato una reacción de rechazo ante la sugerencia blasfema de Kurara. Pero ella no se echó atrás.}
+270	dd472783	El último deseo de Shouma era que sobreviviéramos, ¿no? Deberíamos honrarlo.
+280	fa163f49	Así vamos a llorar su muerte... matando a los {fc(ff635b)G'ie} y siguiendo con vida.
+290	8c241fce	{fc(57e4f1)Tenía razón... Los esfuerzos de Shouma serían en vano si muriéramos ahora.}
+300	c7507591	{fc(57e4f1)La arenga de Kurara fortaleció evidentemente la determinación de todos.}
+310	cfd6a11d	{fc(57e4f1)El plan que trazamos entonces era más o menos así.}
+320	0117f968	{fc(57e4f1)Atraeríamos a α2 con el cuerpo de Shouma y, mientras ponía su huevo en él, dispararíamos una red desde el techo para capturarla.}
+330	aaa37956	{fc(57e4f1)Un plan tan sencillo no requería mucha preparación.}
+340	471e1c9e	{fc(57e4f1)Tsubasa sacó unas herramientas del Garaje y terminó de armar la trampa en una hora más o menos.}
+350	52d3db3c	Bien... Ahora solo tenemos que esperar a que aparezca α2.
+360	dc7b7730	{fc(57e4f1)Nos escondimos y vigilamos en silencio los restos de Shouma.}
+370	2b2ac934	Oye... ¿De verdad crees que podemos atrapar a la {fc(ff635b)G'ie} así?
+380	b9bd3368	Mientras más simple la trampa, más efectiva. Aunque no espero que un cabeza hueca como tú lo entienda.
+390	1efa839a	Auch...
+400	4229652c	¡Todos, silencio!
+410	326cd18e	Miren... Ahí está.
+420	82078ca9	Uf... ¡Para ser sincera, es demasiado repugnante como para siquiera mirarla!
+430	98058063	Gaku, ¿puedes confirmar si esa es α2?
+440	a9143f36	S-Sí, es ella, sin duda. La misma α2 que yo tenía.
+450	40ad7f29	Ya está intentando poner un huevo en el cadáver de Shouma.
+460	9091ffca	Tsubasa, solo tenemos una oportunidad. No la arruines.
+470	611ab6af	¡Y-Ya lo sé!
+480	3197e4ba	{fc(57e4f1)Tsubasa miraba fijamente a α2, con la mano temblándole de nervios pero lista para accionar el interruptor que activaba la trampa.}
+490	d2ca11f4	{fc(57e4f1)En el momento en que la G'ie dejó de moverse y empezó a poner el huevo... ¡lo presionó!}
+500	80306bde	¡Sí! ¡Lo logramos! ¡La detuvimos en seco!
+510	a2b4f8ae	¡Buen trabajo, Tsubasa! ¡Y mala suerte para ti, gusano retorcido!
+520	92d8954e	Ahora solo falta matar a α2... ¡Que no se escape!
+525	f1f55c0b	{fc(57e4f1)Bajamos el cuerpo de Shouma al suelo, red y todo. Pero algo andaba mal.}
+530	1acf1cd5	Espera... ¿Adónde se fue?
+540	45622505	{fc(57e4f1)Miramos bajo la red pero no pudimos encontrar a la }{fc(ff635b)G'ie} {fc(57e4f1)por ninguna parte.}
+550	714aa1c4	Oye... La vimos quedar atrapada ahí dentro, ¿no? Entonces, ¡¿dónde diablos está ahora?!
+560	c3e827cb	No... ¿Fallé? Estaba tan segura de que le di...!
+570	dd647157	¿Ahora qué hacemos? Eché a perder nuestra única oportunidad...
+580	9051333c	¡N-No fue tu culpa, Tsubasa! ¿Verdad, chicos?
+590	ddc834d5	Sí, lo hiciste justo a tiempo. Todos vimos la red caer sobre la {fc(ff635b)G'ie}...
 600	88902fda	
-610	a13700d0	{fc(57e4f1)Entonces me sobresalté.\nLo que dijo Gaku cruzó mi mente al instante.}
-620	51c971c9	El "α2" que yo criaba\nun día dejó de moverse de golpe en el frasco...
-630	2d1dc898	Pensé que había muerto, abrí la tapa y lo toqué,\ny de repente se movió y salió disparado...
-640	45abf1bd	¡Cuando me di cuenta, ya se había ido a alguna parte!
-660	a9b5fdb2	Oye, es difícil de creer, pero...\n¿no podría estar haciéndolo a propósito?
-670	ecd82eff	Cuando el "α2" se escapó del frasco,\n¡Gaku lo creyó muerto y se descuidó, ¿no?!
-680	8dc9832d	Sí, pero ¿y eso qué?
-690	0c01eb0f	Si el "α2" se hizo el muerto a propósito\npara escapar del frasco...
-700	6d75c73a	¿Eh...? Entonces {fc(ff635b)"G'ie"}\n¿sabía desde el principio que el cadáver de Shouma era una trampa?
-710	f2273133	Por supuesto, es solo una hipótesis.
-720	e4c2555f	Sabiendo que podía escurrirse de la red,\n¡a propósito, para burlarse de nosotros...!
-730	cd73bc98	Oigan, oigan...\n¡Eso es demasiado descabellado!
-740	ee1af47f	No creo que un bicho tenga esa inteligencia.\n¡A lo sumo, un poco más que Kyoshika!
-750	330e4f1d	¡¿Mi valoración es menor que la de un bicho?!
-760	b04a10d3	Bueno, imposible, algo así...
-770	6cd2f0fc	Sí... tienes razón.\nSí, estoy pensando demasiado.
-780	ab7bc027	Perdón por decir cosas raras. Olvídenlo.
-790	3a62c2e4	{fc(57e4f1)Aunque les dije eso a todos,\nno podía quitarme cierta incomodidad.}
-800	48815f1f	{fc(57e4f1)Una biología tan extraña...\nun comportamiento que solo podía significar que entendía nuestras intenciones...}
-810	deeeea80	{fc(57e4f1)Lo que enfrentamos, ¿de verdad es }{fc(ff635b)"un simple bicho"}{fc(57e4f1)?}
-820	921df21d	{fc(57e4f1)¿No será algo más...\n }{fc(ff635b)"algo incomprensible"}{fc(57e4f1)?}
-830	dfb2b46a	{fc(57e4f1)La inquietud que no se disipaba\nse quedó en mi cabeza para siempre...}
+610	a13700d0	{fc(57e4f1)Recordé lo que Gaku había mencionado antes y me quedé helado al darme cuenta.}
+620	51c971c9	La α2 que yo tenía dejó de moverse de repente un día...
+630	2d1dc898	Pensé que estaba muerta y abrí la botella para comprobar, ¡pero de pronto despertó y salió de un salto!
+640	45abf1bd	Desapareció antes de que pudiera atraparla otra vez...
+660	a9b5fdb2	Oigan... Sé que suena ridículo, pero ¿y si lo hizo a propósito?
+670	ecd82eff	Cuando α2 escapó de su botella, fue porque Gaku pensó que estaba muerta y bajó la guardia, ¿no?
+680	8dc9832d	Bueno, sí. ¿Adónde quieres llegar?
+690	0c01eb0f	Si se estaba haciendo la muerta a propósito para escapar de la botella...
+700	6d75c73a	Ah, ya entiendo... ¿Crees que la {fc(ff635b)G'ie} pudo darse cuenta desde el principio de que el cuerpo de Shouma era un cebo?
+710	f2273133	Solo estoy suponiendo.
+720	e4c2555f	Pero quizás ya sabía cómo escapar de la red, y armó todo esto para jugar con nosotros.
+730	cd73bc98	Me parece exagerado...
+740	ee1af47f	Un simple insecto no tendría ese nivel de inteligencia. Es tan probable como que a Kyoshika le salga pelo de repente.
+750	330e4f1d	¡¿Soy menos que un insecto para usted?!
+760	b04a10d3	Estoy con Kurara en esto. No hay manera de que un bicho pueda hacer todo eso.
+770	6cd2f0fc	Cierto... Sí, probablemente estoy dándole demasiadas vueltas.
+780	ab7bc027	Perdón por ponerme raro. Olviden lo que dije.
+790	3a62c2e4	{fc(57e4f1)Aunque intenté restarle importancia delante de los demás, la idea seguía rondándome.}
+800	48815f1f	{fc(57e4f1)Esta criatura con la que lidiábamos era tan fuera de lo común... La forma en que actuaba como si supiera lo que tramábamos...}
+810	deeeea80	{fc(57e4f1)¿Nos enfrentábamos de verdad a un} {fc(ff635b)simple bicho}{fc(57e4f1)?}
+820	921df21d	{fc(57e4f1)¿O era {fc(ff635b)algo más complejo}{fc(57e4f1) de lo que habíamos imaginado?}
+830	dfb2b46a	{fc(57e4f1)La inquietud se me quedó pegada en la mente y, por más que lo intentaba, no lograba borrarla...}
