@@ -2,7 +2,7 @@ id	huella_jp	es
 10	93c1e033	E-Esto es...
 20	27e8c080	Takumi, la persona con la que quieres hablar...
 30	53347b0a	Sí, es él. El que está al otro lado de esta puerta.
-40	d35d4bf2	¿Pero cómo se supone que veamos a ese tipo? ¿Sale si lo llamas?
+40	d35d4bf2	¿Pero cómo se supone que vamos a ver a ese tipo? ¿Sale si lo llamas?
 50	0b9d9323	Bueno, tendremos que armarnos de valor e intentarlo.
 60	c82d3437	¿Armarnos de valor...?
 70	9a628145	{fc(57e4f1)Seguí hacia la puerta de la Sala de Defensa. Ya había tomado una decisión...}
@@ -17,7 +17,7 @@ id	huella_jp	es
 160	f6a35de6	{fc(57e4f1)Y entonces, las Llamas Eternas que cubrían la puerta se apagaron de repente.}
 170	30acd31b	Ngh... ¡Urghhhh!
 180	b90570ee	{fc(57e4f1)Liberado del calor intenso, me desplomé en el sitio.}
-190	8a86e937	¡T-Tarado! ¡¿Qué demonios hiciste?! ¡Casi te mueres!
+190	8a86e937	¡I-Idiota! ¡¿Qué demonios hiciste?! ¡Casi te mueres!
 200	2ced04d8	B-Bueno... Aunque me muriera, tenemos el Revive-O-Matic... Y...
 210	b8c9f82b	Si no mostraba mi determinación, no ignoraría a SIREI para dejarse ver.
 220	bfd4300a	Jamás imaginé que harías algo tan temerario...
@@ -31,13 +31,13 @@ id	huella_jp	es
 300	32a9d198	¿Podrías ser breve...?
 310	57b55438	Primero... Tengo que agradecerte otra vez.
 320	6035f28d	Gracias por salvarnos el otro día. Ya ni sé cuántas veces van.
-330	3429b579	Si no me hubieras despertado, habríamos sido aniquilados todos...
+330	3429b579	Si no me hubieras despertado, nos habrían aniquilado a todos...
 340	a4880be9	Ya veo... O sea que tú fuiste quien despertó a Takumi...
 350	3eb3d924	S-Sí, bueno... ¿Es todo?
 360	3f7ccfa0	Sí que eres frío. ¿Te dijo SIREI que no hablaras con nosotros?
 370	f4a72a8b	
 380	24fb0136	{fc(57e4f1)Lo sabía... SIREI le impide vernos...}
-390	033a1997	¿Qué, eres su perro o qué? Tienes voluntad propia, ¿no?
+390	033a1997	¿Qué, eres su perro faldero o qué? Tienes voluntad propia, ¿no?
 400	0d01bba5	¿Voluntad...?
 410	36790e40	No tengo nada de eso... Simplemente me han tratado como a un arma.
 420	7b1d35d5	El dispositivo al que estoy conectado lo controla SIREI. Mi vida está esencialmente en sus manos...
@@ -66,7 +66,7 @@ id	huella_jp	es
 650	fc6429e0	Pero es demasiado pronto para rendirse. Intentaremos pensar en una forma de lograrlo.
 660	ec4a8d74	Si hablamos con los demás, seguro encontraremos una manera. Así que espera un poco más.
 670	fde22d05	¿Los demás...?
-680	0baca4d0	Sí. ¡Si ponemos todas las cabezas a trabajar, seguro que lo resolveremos!
+680	0baca4d0	Sí. ¡Si juntamos todas nuestras cabezas, seguro que lo resolveremos!
 690	0915773c	Gracias... Solo saber que harían eso me hace feliz.
 700	cbfb78ad	Sí, cuentas con nosotros.
 710	484bb2b4	{fc(57e4f1)Quizás sea incómodo mencionarlo justo ahora, pero necesito hacer lo que vine a hacer...}

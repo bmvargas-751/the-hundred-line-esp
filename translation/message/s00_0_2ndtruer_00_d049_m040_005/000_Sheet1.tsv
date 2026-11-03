@@ -29,9 +29,9 @@ id	huella_jp	es
 280	de18490e	Ya es un aliado...
 290	4d055f66	Tú y él comparten el mismo destino.
 300	c6c025a8	S-Sí, pero...
-310	d7c9aa91	Que se convierta en un colega.
-320	4db8cf8d	¿Colega?
-330	05e9aaa2	El colega del mundo.
+310	d7c9aa91	Que se convierta en un amigo.
+320	4db8cf8d	¿Amigo?
+330	05e9aaa2	El amigo del mundo.
 340	6cd66b88	Como aquel viejo cantautor que murió tan trágicamente...
 350	4cfe95cf	Tenía un fuerte sentido de liderazgo.
 360	ae835eed	Quería que ese joven también siguiera su ejemplo.
@@ -51,7 +51,7 @@ id	huella_jp	es
 500	410b7abc	Entonces, lo que intento decir es...
 510	fe144d89	Quiero hablar del chico hecho de Llamas Eternas.
 520	47a5ef4f	Ah, perdón...
-530	6e41c0b4	Estaba mirándome una padrastro.
+530	6e41c0b4	Estaba mirándome un padrastro.
 540	abb54432	¡¿Qué?!
 550	410b7abc	Entonces, lo que intento decir es...
 560	fe144d89	Quiero hablar del chico hecho de Llamas Eternas.
@@ -133,7 +133,7 @@ id	huella_jp	es
 1320	3efa202a	No lo consideras de verdad una herramienta.
 1330	ac3b284e	¿Cierto?
 1340	f4a72a8b	
-1350	cebe0df0	Tomo tu silencio como que lo entiendes.
+1350	cebe0df0	Tomo tu silencio como señal de que lo entiendes.
 1360	427ab6a3	No, solo estaba pensando.
 1370	d0c3d195	En realidad tienes reparos con este plan, ¿no es así?
 1380	65965124	¿Por qué no dices nada?
@@ -173,7 +173,7 @@ id	huella_jp	es
 1720	f4a72a8b	
 1730	1d7d2769	Te has pasado mucho tiempo acostado en el regazo de Moko desde que se nos unió el segundo equipo.
 1740	e912cf17	Ella te ayuda a aliviar parte del estrés acumulado. ¿Me equivoco?
-1750	78f757f0	¡Te equivocas por completo! ¡Mojiro jamás me ha hecho eso ni una vez!
+1750	78f757f0	¡Te equivocas por completo! ¡Mojiro nunca me ha hecho eso, ni una sola vez!
 1760	d1f4f969	Has pasado muchas noches bebiendo con NIGOU hasta la mañana.
 1770	4fb98c1f	Donde desahogaban su rabia con sus superiores y aliviaban todo el estrés que ambos tienen acumulado... ¿cierto?
 1780	a11711d4	¡Jamás hemos hecho eso, ni una sola vez!
@@ -184,7 +184,7 @@ id	huella_jp	es
 1830	68815a9f	Si solo vas a hacerme perder el tiempo, me voy.
 1840	5d0911cd	¡No, espera!
 1850	163a4180	Déjame pensarlo.
-1860	698d40d2	Le desahogaste al bebé toda tu insatisfacción y tus quejas del trabajo.
+1860	698d40d2	Descargaste en el bebé toda tu insatisfacción y tus quejas del trabajo.
 1870	51d26b2f	Seguro que hubo veces en que estabas deprimido y te quejabas con él.
 1880	01c16e3b	Y el bebé creció escuchando tanta negatividad.
 1890	e9dc7391	Con el tiempo formó su identidad a partir de esas "conversaciones".
@@ -215,9 +215,9 @@ id	huella_jp	es
 2140	465d121c	Los sentimientos para una IA son como un peine para un calvo.
 2150	48069972	Totalmente inútiles y sin sentido.
 2160	f4a72a8b	
-2170	b725acd3	¿Puedo tomar tu silencio como que lo entiendes?
+2170	b725acd3	¿Puedo tomar tu silencio como señal de que lo entiendes?
 2180	6f6352b3	¡Métetelo ya en esa cabezota!
-2190	76877feb	¡Tanto el bebé como su proyección de niño no significan nada para mí!
+2190	76877feb	¡Ni el bebé ni su proyección de niño significan nada para mí!
 2200	057197df	¡Es solo una herramienta!
 2210	c0581467	¡Una herramienta hecha para ganar esta guerra!
 2220	ac715f65	¡Nada más, nada menos!
@@ -302,7 +302,7 @@ id	huella_jp	es
 2940	2c213c24	Por eso NIGOU también tenía esos datos almacenados dentro de él.
 2950	f4a72a8b	
 2960	d09f1400	Los datos que acumulaste todos estos años...
-2970	ba8f2eb4	Se podría decir que era un álbum de un padre documentando el desarrollo de su hijo.
+2970	ba8f2eb4	Se podría decir que era el álbum de un padre que documenta el desarrollo de su hijo.
 2980	6a2d881e	Revisas esos datos de vez en cuando, ¿no es cierto?
 2990	653aa515	¿Con los ojos llorosos y la boca curvándose en una sonrisa?
 3000	011a0027	Ahora bien, ¿por qué harías eso?
@@ -320,7 +320,7 @@ id	huella_jp	es
 3120	90fc1a8e	Hay algo que quiero preguntarte.
 3130	54005405	Que se convierta en uno de nosotros.
 3140	c4a3f6fa	Que se convierta en un aliado.
-3150	d7c9aa91	Que se convierta en un colega.
+3150	d7c9aa91	Que se convierta en un amigo.
 3160	a5c2cfba	Sigo aquí.
 3170	c026bc34	Estaba en mi mundo.
 3180	850b9240	Insultarlo.
@@ -329,7 +329,7 @@ id	huella_jp	es
 3210	dbbe81fb	Él...
 3220	2b4eccd8	Nosotros...
 3230	4cc61b76	Tú...
-3240	19685ad4	Realmente no eres una IA.
+3240	19685ad4	En realidad no eres una IA.
 3250	14d914fe	En realidad tienes reparos con tu misión.
 3260	fae0e40e	En realidad no lo consideras una herramienta.
 3270	8727753e	Me duele la garganta.

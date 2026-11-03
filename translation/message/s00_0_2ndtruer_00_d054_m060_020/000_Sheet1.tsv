@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	3c2f7877	{fc(57e4f1)Abrí la puerta y vi a dos personas al otro lado.}
-20	c0ad1c44	Buenas noches. Somos la famosa detective Kako Tsukumo...
-30	72930106	¡Y su famoso asistente, Ima Tsukumo! ¡Contemplen al todopoderoso dúo de detectives!
+20	c0ad1c44	Buenas noches. Aquí la famosa detective Kako Tsukumo...
+30	72930106	¡Y su famoso asistente, Ima Tsukumo! ¡Contemple al todopoderoso dúo de detectives!
 40	e6aff6dd	Tienes que bajar la voz, o la verdad se nos escapará.
 50	d535d350	¿De qué hablan ustedes dos? ¿Famosa detective?
 60	1621c91d	Tenemos un caso entre manos... Lo huelo en el aire.
@@ -25,11 +25,11 @@ id	huella_jp	es
 240	0a09c620	¡¿Q-Qué?!
 250	b7993286	Sí... Alguien está incitando al Sr. Maruko.
 260	d7a1970d	¿Incitándolo? ¿Qué hacemos?
-270	7d31a96d	Todavía estamos investigando justamente ese asunto. Por favor espere el emocionante desenlace de nuestro caso.
+270	7d31a96d	Todavía estamos investigando justamente ese asunto. Por favor, espere el emocionante desenlace de nuestro caso.
 280	36f1ec58	¿Verdad, Kako?
 290	f4a72a8b	
-300	6d098a1c	¿Eh? Tienes las mejillas hinchadas y haciendo pucheros, Kako. ¿Qué pasa?
-310	53d2813b	Ima... Tú hiciste todo el hablar... ¡Se supone que la detective soy yo!
+300	6d098a1c	¿Eh? Tienes las mejillas infladas, como si hicieras pucheros, Kako. ¿Qué pasa?
+310	53d2813b	Ima... Hablaste tú todo el rato... ¡Se supone que la detective soy yo!
 320	4e224494	Vamos, vamos... El trabajo del detective es presentar la solución. Toda la aburrida exposición intermedia le toca al asistente.
 330	d083ef01	Por eso necesitamos que nos cuente, Sr. Sumino, si encuentra alguna pista. ¡Nos vemos de nuevo cuando estemos listos para presentar nuestra solución!
 340	86bd2e82	Chao...
@@ -40,5 +40,5 @@ id	huella_jp	es
 390	78c601b4	¿Están {fc(ff635b)los que les importan} de verdad en ese Satélite Artificial? ¿Están cien por ciento seguros de eso?
 400	f184a45a	¡Imposible! ¡Eso fue solo una mentira vacía!
 410	4672ac73	Darle siquiera una vuelta a la idea es caer en la trampa de Eito.
-420	2aed46d6	{fc(57e4f1)Tendré que hacer algo con esos dos, sin embargo. Mañana tomaré la iniciativa.}
+420	2aed46d6	{fc(57e4f1)Aun así, tendré que hacer algo con esos dos. Mañana tomaré la iniciativa.}
 430	dc24854f	{fc(57e4f1)Y así terminó mi segundo intento del Día 54.}
