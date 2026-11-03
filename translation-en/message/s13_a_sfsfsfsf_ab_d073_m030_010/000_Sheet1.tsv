@@ -1,36 +1,36 @@
 id	huella_jp	es
-10	49006ad9	{fc(57e4f1)Poco después entramos en el bosque.\nAllí Hiruko se detuvo de pronto, se volvió y dijo:}
-20	b0bab55e	Takumi, ¿cuándo era el próximo día de PL?
-30	0f9708f3	El día 74... de las 0:05 a las 0:35...\nO sea, dentro de algo más de medio día.
-40	9a9506aa	¿Piensas saltar a alguna TL?
-50	b508d02f	No, no vamos a saltar a ninguna, nosotros.
-60	7e7404ed	¿{fc(ff635b)"Nosotros"}...?
-70	a2be54a3	Anteanoche...\nfallaste el resultado de la moneda, ¿verdad?
-80	d784d627	Sí, yo dije "cruz" y...
-90	a5dfc02e	Pero debe de existir una TL donde respondiste "cara".
-100	59507402	O sea, una TL donde acertaste,\ny por eso los dos fueron a explorar.
-110	abb85b48	Por conveniencia, por ahora los llamaremos\n{fc(ff635b)"Takumi VI"} y {fc(ff635b)"Hiruko VI"}.
-120	093734d5	Esta noche, ese Takumi VI y esa Hiruko VI...\nvan a saltar a esta TL.
-130	4cd6f70e	¿Q-Qué...? No puede ser...\n¡¿Dices que los nosotros de la {fc(ff635b)"TL del Acierto"} vienen aquí?!
-140	55c06031	Eso es lo que te estoy diciendo.
-150	73f1404d	Si tu respuesta acertaba, saltamos...si fallaba, esperaban.
-160	38c558f4	Lo decidimos antes de tirar la moneda...
-170	458a8811	¡Pero... ¿para qué van a venir?!
-180	0c42a424	Para vernos.
-190	c2fee137	¡¿Y después de vernos...?!
-200	46a87061	Cuantos más compañeros, mejor, ¿no?\nDos son mejor que uno, y cuatro mejor que dos.
-210	9c1ea334	¿...?
-220	a8e4eb13	No renunciaste al dispositivo de petición de rescate, ¿verdad?
-230	66b36555	Claro. Cuanto antes vayamos al Satélite Artificial,\nmayor será la probabilidad de supervivencia de todos...
-240	0d47bb65	Para eso, ¿no crees que es más eficiente dividirnos en 2 equipos\ny comprobar los números de lividez?
-250	057d489a	Luego nos reunimos y compartimos\nla información de los números que cada uno consiguió.
-260	bb03de75	Solo necesitamos 3 números de lividez más...\nSi eso sale bien, se reunirían enseguida...
-270	08651d7a	¡Ya entendí qué significa todo!
-280	f005c5d8	¡O sea que quedarnos aquí sin hacer nada\nera para ramificar la historia a propósito!
-290	69b459c8	Para eso había que hacer algo distinto\nde lo que hace el otro lado, el que está en la cita...
+10	49006ad9	{fc(57e4f1)Al poco rato estábamos en lo profundo del bosque. De pronto nos detuvimos y Hiruko se dio vuelta para hablarme.}
+20	b0bab55e	¿Cuándo es nuestra próxima ventana de salto, Takumi?
+30	0f9708f3	Día 74... De 12:05 a 12:35 de la madrugada... Dentro de medio día más o menos.
+40	9a9506aa	¿Iremos a algún lado en ese tiempo?
+50	b508d02f	No, NOSOTROS nos quedamos aquí.
+60	7e7404ed	¿{fc(ff635b)Nosotros}...?
+70	a2be54a3	Perdiste el lanzamiento de la moneda anteanoche, ¿recuerdas?
+80	d784d627	Sí, dije sello...
+90	a5dfc02e	Pero eso significa que hay una línea temporal donde dijiste cara.
+100	59507402	O sea, una línea temporal donde acertaste y salimos hoy.
+110	abb85b48	Para simplificar, llamemos a las versiones de nosotros de esa línea temporal... {fc(ff635b)Takumi VI} y {fc(ff635b)Hiruko VI}.
+120	093734d5	Esta noche, Takumi VI y Hiruko VI vendrán a esta línea temporal.
+130	4cd6f70e	¡E-Espera, ¿qué?! ¡¿Vamos a visitarnos a nosotros mismos de una línea temporal del {fc(ff635b)Acierto}?!
+140	55c06031	Por eso dije lo que dije.
+150	73f1404d	Si tu respuesta era correcta, saltábamos de línea temporal. Si te equivocabas, esperábamos.
+160	38c558f4	Esa es la decisión que tomé antes de lanzar la moneda.
+170	458a8811	Pero ¿qué van a hacer aquí?
+180	0c42a424	Se reunirán con nosotros.
+190	c2fee137	¿Y luego qué?
+200	46a87061	Mientras más gente de nuestro lado, mejor, ¿no? Dos cabezas piensan mejor que una, y cuatro mejor que dos.
+210	9c1ea334	¿Qué...?
+220	a8e4eb13	Supongo que no has renunciado a usar el Transmisor de Señal de Socorro.
+230	66b36555	Claro que no. Las posibilidades de supervivencia de todos suben si llegamos al satélite aunque sea un día antes...
+240	0d47bb65	¿No crees que sería más eficiente dividirnos en dos equipos para averiguar los Códigos de Livor Mortis?
+250	057d489a	Los equipos pueden juntarse después y compartir los códigos que descubran.
+260	bb03de75	Solo nos quedan tres, así que... Sí, si logramos que funcione, los conseguiríamos mucho más rápido.
+270	08651d7a	¡Ah, ahora todo tiene sentido!
+280	f005c5d8	Nos hiciste quedarnos parados sin hacer nada a propósito para que la historia se ramificara, ¿verdad?
+290	69b459c8	Necesitabas que en esta línea temporal pasara algo completamente opuesto a lo de la otra. La de la cita que estamos teniendo ahora.
 300	f4a72a8b	
-310	34e09be8	¿Hm...? ¿Qué pasa?\n¿Te dio lástima no tener una cita conmigo?
-320	515d9b0f	¡Que te dije que no era una cita!
-330	297b7369	{fc(57e4f1)Gritó y me aplicó una llave al cuello.}
-340	630c1acf	{fc(57e4f1)Me apretó las arterias con un crujido.\nEl oxígeno dejó de llegarme a la cabeza...}
-350	6805bbbd	{fc(57e4f1)Y 3 segundos después, mi conciencia se desvaneció como absorbida.}
+310	34e09be8	¿Qué pasa? ¿Estás decepcionada de que al final no salieras conmigo?
+320	515d9b0f	¡Te dije que no era una cita!
+330	297b7369	{fc(57e4f1)Hiruko gritó con furia y me atrapó en una llave de cabeza.}
+340	630c1acf	{fc(57e4f1)Me apretaba las arterias. El oxígeno no llegaba a mi cerebro...}
+350	6805bbbd	{fc(57e4f1)Tres segundos después, caí desmayado.}
