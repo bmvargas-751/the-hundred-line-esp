@@ -247,3 +247,5 @@ d100 bba m010#470 Carp diem -> Carpa diem (provisional)
 - Por qué: pedido del usuario (2026-11-03) de que las cajas no digan solo Sí / No. Los avisos `inconsistente` y `largo` que salen son a propósito y están en `review/ignore.csv`.
 
 - s00 d054 m010#80 Moko: JP 無空波 (ataque inventado) / EN *Three Ring Circus* (juega con *jumping to conclusions*). ES por pedido del usuario (2026-11-03), sin calcar: *saltar a conclusiones* → *Plancha Voladora* (llave real de lucha libre). Alternativa: *Salto Mortal*.
+
+- s06 d067 m120#20 / d068 m090#30 Moko: *Ultimate Dungeon Wizardry Magic Final Dragon Fantasy Quest* (mezcla de títulos de videojuegos; Takumi dice que es muy largo por las demandas) → *La Definitiva Magia Wizardry de Mazmorras Final Dragon Fantasy Quest*, conservando los títulos (la versión anterior los traducía y perdía el chiste).
