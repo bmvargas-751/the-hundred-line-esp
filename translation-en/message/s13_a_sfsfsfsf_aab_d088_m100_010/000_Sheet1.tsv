@@ -1,37 +1,37 @@
 id	huella_jp	es
-20	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-30	abe0acf8	Para prepararnos ante los invasores,\ndescansen bien mientras puedan...
-40	b588a67e	Bueno... buenas noches...
-50	3e440369	Ese aparato... SIREI y los demás\nno lo sabían por la cúpula, ¿verdad?
-60	a9160d23	Quizás lo instalaron en secreto porque ellos se oponían...
+20	fcd5bdde	*Bostezo* Descansen, soldados. Es hora de irse a la cama.
+30	abe0acf8	Asegúrense de descansar bien mientras puedan, para estar listos para el próximo ataque enemigo...
+40	b588a67e	Bueno, entonces, buenas noches...
+50	3e440369	Los altos mandos no le contaron a Sirei y Nigou lo del dispositivo de autodestrucción.
+60	a9160d23	Quizás lo instalaron en secreto porque sabían que esos dos se oponían.
 70	f4a72a8b	
-80	d7e61e35	En todo caso, Shion oyó una parte de lo que hablaron...
-90	5abfdb4a	y se quedó convencido de que en algún lugar de la academia\nhabía un transmisor de solicitud de rescate.
-100	95944614	Se le escapó la parte del autodestructor.
-110	81b3fb95	En fin, mejor olvidarse de ese aparato.
-120	9c115c18	Sí, si el bote de rescate no va a venir,\npensarlo no sirve de nada.
-130	e845fede	Pero faltan 12 días para el día 100...\n¿qué vamos a hacer?
-140	aef178ce	¿Qué hacer? Nada especial.\nNuestro objetivo no cambia.
-150	172182b9	Sobrevivir todos hasta el día 100\ny construir un futuro feliz.
-160	2ac539bc	Así también salimos del bucle temporal...\nClaro que no tengo objeción.
-170	4ba21b05	Entonces lo que debemos hacer es una sola cosa:\npelear, pelear hasta el final y ganar esta guerra.
-180	0a02f455	Así, el día 100 aparecerá una cápsula de escape,\ny todos subiremos a ella rumbo al Satélite Artificial...
-190	1eaef822	¿Escapamos antes de que empiece el ataque omnidireccional?
-200	86383f4d	Sí, eso es...
-210	0c4d7dd9	Pero... hay un problema...
-220	37d36cc8	¿Un problema...?
-230	4602679b	Shion...
-240	a2d8d4dd	{fc(57e4f1)Caí en la cuenta.}
-250	861651b8	{fc(57e4f1)¿Cómo no lo noté hasta ahora?\n¡Algo tan importante...!}
+80	d7e61e35	Como sea, Shion solo oyó parte de la conversación, sin contexto.
+90	5abfdb4a	Debió de suponer que había un verdadero Transmisor de Señal de Socorro en alguna parte de la escuela.
+100	95944614	Supongo que se le escapó la parte de que hacía explotar la escuela.
+110	81b3fb95	Creo que ya podemos olvidarnos de ese aparato.
+120	9c115c18	Sí. Ningún bote de rescate vendrá por nosotros, así que solo sería gastar energía.
+130	e845fede	Todavía quedan 12 días para el Día 100... ¿Qué hacemos ahora?
+140	aef178ce	No hay nada que hacer. Nuestro objetivo sigue siendo el mismo.
+150	172182b9	Asegurarnos de que todos sobrevivamos hasta el Día 100 y construir juntos un futuro feliz.
+160	2ac539bc	Así podremos liberarnos del bucle temporal... No te voy a discutir eso.
+170	4ba21b05	En otras palabras, solo hay una cosa que hacer. Luchar, sobrevivir y ganar la guerra.
+180	0a02f455	La cápsula de escape se activará el Día 100 y todos podremos subir a bordo y partir hacia el Satélite Artificial.
+190	1eaef822	Saldremos de aquí antes de que se lance el ataque final, ¿verdad?
+200	86383f4d	Por supuesto.
+210	0c4d7dd9	Solo hay un problema...
+220	37d36cc8	¿Qué problema?
+230	4602679b	
+240	a2d8d4dd	{fc(57e4f1)Contuve el aliento.}
+250	861651b8	{fc(57e4f1)¡¿Cómo pude no darme cuenta de algo tan importante?!}
 260	e3ec351f	Es verdad, Shion...
-270	b481def8	Él... ¿qué pasará con él?\nCuando se lleve a cabo el ataque omnidireccional...
-280	6aece502	{fc(57e4f1)Hiruko no dijo nada.\nSe mordía el labio, con la mirada desviada.}
-290	5bf54ffb	¿Acaso tú lo sabes...?
-300	568d303e	{fc(57e4f1)Al preguntarle, Hiruko asintió como rindiéndose...}
-310	e76df7eb	Sí... lo sé.
-320	84873f0c	¡Entonces dímelo...! ¡¿Qué pasará con Shion...?!
-330	e2f7e3fb	Lo sabes, ¿no?
-340	caef06f6	Las llamas del ataque omnidireccional\ncalcinan a todos los seres vivos de la superficie...
-350	03969cbd	No hay dónde huir... ni bajo tierra ni rodeado de muros sólidos, es lo mismo...
-360	f4a24c25	O sea que hasta dentro de la sala de defensa,\nlas llamas se meten sin piedad.
-370	e5e4a8bd	Entonces... cuando se dispare el misil del ataque omnidireccional...
+270	b481def8	¿Qué le pasará cuando empiece el ataque final?
+280	6aece502	{fc(57e4f1)Hiruko guardó silencio. Se mordió el labio y desvió la mirada.}
+290	5bf54ffb	¿Lo sabes?
+300	568d303e	{fc(57e4f1)Hiruko asintió con una especie de resignación apagada.}
+310	e76df7eb	Lo sé.
+320	84873f0c	¡Entonces dímelo! ¡¿Qué le pasa a Shion?!
+330	e2f7e3fb	¿No puedes deducirlo?
+340	caef06f6	Las llamas del ataque final arrasarán con toda forma de vida en la superficie del planeta.
+350	03969cbd	No hay dónde esconderse. Ni bajo tierra, ni siquiera detrás de los muros más gruesos.
+360	f4a24c25	Las llamas lo consumirán todo, la Sala de Defensa incluida.
+370	e5e4a8bd	Entonces... Cuando se disparen los misiles, eso significa que...
