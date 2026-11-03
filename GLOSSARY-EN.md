@@ -41,3 +41,7 @@ Se traducen desde el inglés, igual que el resto: ya no hay diferencia entre del
 - Ima es un chico: habla de sí mismo en masculino (*estoy seguro*, nunca *segura*). A Kako sí le dice *buena chica* (es su hermana).
 - Cuando el destinatario es un grupo, el pronombre concuerda: *se los ruego*, *se los garantizo*, *se los dejo a ustedes* (así se dice en Chile y en buena parte de América). *Se lo* queda para uno solo o cuando "se" es otra persona (*se lo conté a todos*).
 - Porcentajes: el número va pegado al signo, sin espacio (*50%*, no *50 %*).
+- Ima: usted (señor/señorita) con todos, tú solo con su hermana Kako (en japonés habla en っす con todos menos con ella, a quien le habla casual: 妹ちゃん). Si en una misma frase hay *señor X* y un *tú*, corregir a usted. Kako habla casual (tú, *Takumi*) con todos; no *usted* ni *Sr. Sumino*.
+- Conjunciones: *y* → *e* ante sonido /i/ (*e Ima*, *e Hiruko*, *e hijo*), también al inicio de oración; *o* → *u* ante sonido /o/.
+- Insultos: *idiot*, *moron*, *dullard* → *idiota*, *imbécil*; *tonto* solo para *silly/dumb* como adjetivo suave.
+- Método de revisión: ver `.claude/skills/traducir-bloque/REVISION-EN.md`.
