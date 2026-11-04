@@ -1,6 +1,6 @@
 # Corrección de calidad — doblaje inglés
 
-Esta página sigue la **corrección** de la traducción, aparte del [avance de la traducción](README.md#avance). La traducción está completa (salvo la ruta `s15`), pero al jugarla las partidas posteriores quedaron con español poco natural. Aquí se lleva cuenta de qué se ha revisado y qué falta.
+Esta página sigue la **corrección** de la traducción, aparte del [avance de la traducción](README.md#avance). La traducción está completa, pero al jugarla las partidas posteriores quedaron con español poco natural. Aquí se lleva cuenta de qué se ha revisado y qué falta.
 
 > Sin spoilers: solo se nombran secciones y rutas por su código, nunca el contenido.
 
@@ -35,12 +35,12 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 | Ruta `s00` | 14.835 | 100% | — | ~706 |
 | Rutas `s01` a `s03` | 2.226 | 100% | — | 47 |
 | Rutas `s04` a `s11` | 30.571 | 100% | — | ~1.020 |
-| Rutas `s12` a `s14` | 40.287 | ~20% (`s12` completa; `s13` hasta ~2.500 de 17.400 líneas) | patrones y muestras (trato de Ima y Kyoshika) | ~694 |
-| Ruta `s15` | 15.579 | — | en pausa, sin revisar | 0 |
+| Rutas `s12` a `s14` | 40.287 | 100% | — | — |
+| Ruta `s15` | 15.579 | 100% (retraducida desde el inglés y corregida) | — | — |
 | Eventos y charlas | 3.848 | ~47% | patrones | 18 |
-| **Total** | **125.640** | **~46%** | | **~3.320** |
+| **Total** | **125.640** | **~84%** | | |
 
-<!-- Cifras a 2026-11-03. "Líneas corregidas" = filas cambiadas frente a main. -->
+<!-- Cifras a 2026-11-04. "Líneas corregidas" = filas cambiadas frente a main. -->
 
 ### Barridos globales ya hechos
 
@@ -52,18 +52,17 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 - **Cajas de texto**: la caja admite 3 renglones de ~62 caracteres (el inglés más largo mide 178 caracteres visibles). 20 líneas pasaban de 3 renglones y la última palabra quedaba fuera de la caja; se acortaron. El chequeo `caja` de `thl.py check` avisa de cualquier otra.
 - «eh...?» sin «¿» (11 líneas).
 - Trato de Ima, Kako y Kyoshika según lo anterior.
+- Glosario y léxico regional en todo el juego (`s00` a `s15`): TL, *okey*, *recién*, *qué onda*, *nomás*, anuncios de SIREI con el día en ordinal y *Sr. Sumino* en boca de Ima.
 
 ## Lo que falta
 
 1. **Lectura completa** de `r00` (18.294 líneas), por tandas de días. `s00` ya está leída completa.
-2. Lectura completa de `s13` y `s14`, las más largas.
 3. Resolver las dudas que dejaron los barridos:
    - Ima con *tú* hacia personajes que no son Kako, donde aún no se confirmó el destinatario (unas 15 líneas en `s08`, `s09` y `s11`).
    - Ginzaki con *tú* en `s09_a` (el glosario dice *usted*).
    - *Sr.* / *señor* y *Srta.* / *señorita*: se usan ambos; falta unificar.
    - *Por el amor al asesinato* frente a *Por el amor de la muerte* (muletilla de Yugamu).
    - *Kyohoho* y *Kyohohoho* conviven (risa de Darumi).
-4. Retomar `s15` cuando se reanude.
 4b. **Tarea aparte (pendiente):** barrido de puntuación. Unas 300 líneas usan signos anidados del tipo `¡Nozomi, ¿estás bien?!`; `STYLE.md` pide `¡¿...?!` cuando el inglés usa `?!`. Mecánico, pero toca muchas líneas: hacerlo en un PR propio.
 5. Reinstalar el build nuevo y jugar para confirmar (nada se instala en el juego sin pedirlo).
 
