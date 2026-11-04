@@ -221,8 +221,8 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 不撓の化神 / 救済の化神 | Paragon of Indomitability / Paragon of Salvation | *Paragon de lo Indomable* (Valla-Garzo) / *Paragon de la Salvación* (Szanshin); nombres de los comandantes como el inglés | ✅ criterio 2 |
 | ∞態 | Blood of my bond, release! / battle form | Grito: *¡Sangre de mi vínculo, libérate!*; como sustantivo, lo que diga el inglés de cada línea (*forma de batalla*) | ✅ |
 | たっくん (Karua → Takumi) | Takky | Takky (apodo, como el inglés) | ✅ |
-| 妹ちゃん (Ima → Kako) | Sister Dearest | queridísima hermana (*mi queridísima hermana* si el inglés dice *my*) | ✅ |
-| お兄ちゃん (Kako → Ima) | Brother Dearest | queridísimo hermano | ✅ |
+| 妹ちゃん (Ima → Kako) | Sister Dearest | querida hermana (*mi querida hermana* si el inglés dice *my*); siempre así, nunca *queridísima* | ✅ |
+| お兄ちゃん (Kako → Ima) | Brother Dearest | querido hermano (siempre así, nunca *queridísimo*) | ✅ |
 | ＳＩＲＥＩ閣下 / ＳＩＲＥＩ先生 / ＮＩＧＯＵ先生 | Honorable Sirei / Mr. Sirei / Mr. Nigou | Su Excelencia SIREI / profesor SIREI / profesor NIGOU | ✅ |
 | 比留子サマ / つばさサマ | Mistress Hiruko / Mistress Tsubasa | la Ama Hiruko / la Ama Tsubasa | ✅ |
 | ヴェシネス様 | Overlord V'ehxness | mi señora V'ehxness | ✅ |
