@@ -13,7 +13,7 @@ id	huella_jp	es
 120	57a48435	Oye, Tsubasa... ¿Cuántos seres vivos orgánicos hay ahora en la escuela?
 130	2ba4fbf1	13... Takemaru ya no está, pero el asesino sigue ahí afuera en alguna parte...
 140	b96e623f	Diría que el asesinato ocurrió en algún momento entre la medianoche y el amanecer. ¿Alguien vio algo extraño durante ese tiempo?
-150	88902fda	...
+150	88902fda	
 160	546f3b07	{fc(57e4f1)La pregunta de Yugamu fue recibida con silencio, ya fuera porque nadie tenía nada que decir o porque no soportaban hablar.}
 170	ba105c21	Me pregunto por qué el asesino fue tras Takemaru... ¿Y por qué tuvo que matarlo de forma tan cruel?
 180	1974fc35	Kyohoho... Sin razón. Ninguna razón.
@@ -41,6 +41,6 @@ id	huella_jp	es
 400	47ed8ffd	Tenemos que estar listos por si hay emergencias. Sé que no es precisamente cómodo, pero aguanten por ahora.
 410	2cf7cc01	Si crees que es lo mejor, lo haré. Quizás deberíamos ir a preparar el Gimnasio para que sea un poco más habitable...
 420	f47dedef	Si no les molesta tener una marmota inmunda como yo en su espacio personal, con gusto ayudaré. Solo díganme qué hacer.
-430	6732d5ae	¡Bien, decidamos los roles y empecemos. Yo iré a buscar provisiones!
+430	6732d5ae	¡Bien, decidamos los roles y empecemos! ¡Yo iré a buscar provisiones!
 440	81a85f0c	{fc(57e4f1)Empezamos a convertir el Gimnasio en un espacio habitable temporal.}
 450	023a0788	{fc(57e4f1)Para cuando terminamos de armar las camas y traer las provisiones, ya era de noche.}
