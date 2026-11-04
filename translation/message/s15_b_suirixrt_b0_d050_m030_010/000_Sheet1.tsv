@@ -22,7 +22,7 @@ id	huella_jp	es
 210	30c84476	Pero te perdonaré si sigues mis instrucciones.
 220	6b74d200	Si me desobedeces o les hablas a los demás de mi existencia, haré estallar de inmediato la bomba que tienes dentro del cuerpo.
 230	eeef28ba	Sí... La bomba que ese robot llamado Sirei les implantó a todos en el cuerpo.
-240	a90b847d	¿Q-Quién es ese X?
+240	a90b847d	¿Q-Quién es X?
 250	966cba6a	No lo sé... Llevaba un poncho largo y negro.
 260	be094a68	Llevaba una máscara en la cara y usaba un cambiador de voz para ocultar su voz real...
 270	41417911	¡Eso suena al apuñalador falso que inventaste para engañarnos!
@@ -82,37 +82,37 @@ id	huella_jp	es
 810	fbe0b92c	¿{fc(ff635b)Espalda o corazón}? No, no tengo idea...
 820	b4885ed2	Gracias. Su reacción fue la respuesta que necesitaba. Supongo que eso es todo, ¿verdad, Takumi?
 830	264327c2	Sí. X debe de haberlo hecho, si Shouma no estuvo involucrado en ese asunto en particular.
-840	99dc03aa	{fc(57e4f1)Todos ladeaban la cabeza, sin entender.}
-850	6a77844d	{fc(57e4f1)Seguramente nadie sabe todavía\nque les sacaron el corazón a los cuerpos.}
-860	0b900972	{fc(57e4f1)De repente, como si recordara algo,\nShouma empezó a temblar sin parar.}
-870	da35ba3d	¡Ah... ah... en todo caso, ya estoy acabado...!\n¡Porque hablé de X...!
-880	e1e238c2	¡La bomba de mi cuerpo va a explotar...!\n¡Uuuh... uuuuuh...!
+840	99dc03aa	{fc(57e4f1)Todos nos miraban confundidos.}
+850	6a77844d	{fc(57e4f1)Probablemente porque nadie sabía que alguien había robado los corazones de los cadáveres.}
+860	0b900972	{fc(57e4f1)Entonces Shouma empezó a temblar como una hoja, como si de pronto recordara algo.}
+870	da35ba3d	Oh no... Eso es... Estoy perdido... Les hablé de X...
+880	e1e238c2	¡La bomba que tengo dentro va a estallar ahora...! Urgh... ¡Nrrrgh...!
 890	f4a72a8b	
 900	f4a72a8b	
 910	f4a72a8b	
-920	6a392298	No pasa... nada.
-930	8fe6fca2	¿No lo habrá engañado... X?
-940	31c80d08	Creo que sí...
-950	929b56af	La bomba que nos pusieron en el cuerpo...fabricar su detonador es imposible para un aficionado.
-960	22921c60	A menos que tenga habilidades y experiencia sobrehumanas, como las mías...
-970	e2ff3d4f	O sea que a Ginzaki senpai... no lo ejecutarán, ¿no...?
+920	6a392298	No pasa nada...
+930	8fe6fca2	¿Te mintió X?
+940	31c80d08	Creo que debió de hacerlo...
+950	929b56af	Un aficionado no puede hacer un detonador para la bomba que llevamos en el cuerpo.
+960	22921c60	Solo alguien con mi nivel de habilidad y experiencia...
+970	e2ff3d4f	¿Entonces el señor Ginzaki no será ejecutado?
 980	9c1ea334	¿...?
 990	9c1ea334	¿...?
 1000	9c1ea334	¿...?
-1010	3cd4e4b1	¡Entonces yo...!\n¡Lo voy a matar...!
-1020	177e9d45	¡¡Uaaaaaaaaaaaaaaaaaaaaaaah...!!
-1030	32f1c48b	{fc(57e4f1)Ima se lanzó rugiendo contra Shouma.\nNo hubo tiempo de detenerlo.}
-1040	b0483a22	{fc(57e4f1)Ima derribó a Shouma, se montó encima de un salto\ny empezó a estrangularle el cuello como queriendo arrancárselo.}
-1050	a99390db	¡¡Muuuuuuuuuuuuuere...!!
-1060	f538b71c	¡Gh... ugh... gub... aaaah...!
-1070	46ac271d	¡Ima, basta...!
-1080	62387260	{fc(57e4f1)Corrimos hacia Ima y lo separamos a la fuerza.}
-1090	c38670b3	Jadeo... jadeo...
+1010	3cd4e4b1	¡Entonces lo haré yo mismo! ¡Lo mataré! ¡Lo descuartizaré!
+1020	177e9d45	¡AAAAAAAAHHHH!
+1030	32f1c48b	{fc(57e4f1)Ima soltó un rugido gutural y se lanzó contra Shouma tan rápido que nadie tuvo tiempo de reaccionar.}
+1040	b0483a22	{fc(57e4f1)Lo derribó al suelo, se le subió encima y empezó a estrangularlo con tanta fuerza que parecía que le iba a arrancar la cabeza.}
+1050	a99390db	¡MALDITO SEAS!
+1060	f538b71c	Urgh... Guh... *tos* *jadeo*
+1070	46ac271d	¡Ima, no!
+1080	62387260	{fc(57e4f1)Corrí presa del pánico y aparté a Ima.}
+1090	c38670b3	*jadeo...* *jadeo...*
 1100	f4a72a8b	
-1110	a4695945	{fc(57e4f1)Shouma, espumando por la boca, se desmayó.\nYugamu corrió junto a él y lo examinó.}
-1120	fb89baae	Tranquilos, solo perdió el conocimiento.
-1130	d08f40eb	¡Maldición, maldición...!\n¡Uuuuuh... uuuuuh...!
-1140	a0c7e108	Mi hermana... mi hermana...\n¡Mi hermanaaaaaaaaaaa...!
-1150	d14f474d	{fc(57e4f1)Ima soltó un grito desgarrador y se desplomó llorando.\nNozomi y Tsubasa se acercaron a su lado y lo consolaron.}
-1160	e7682d84	{fc(57e4f1)Los demás, sin poder hacer nada,\nmiraban a Ima en silencio.}
-1170	02c1c536	{fc(57e4f1)El llanto desconsolado de Ima\nresonó fríamente por el edificio, sin parecer acabar nunca.}
+1110	a4695945	{fc(57e4f1)Shouma se había desmayado y echaba espuma por la boca. Yugamu se acercó de un salto y lo revisó rápidamente.}
+1120	fb89baae	Está bien. Solo perdió el conocimiento.
+1130	d08f40eb	Maldición... ¡Maldición...! *sollozo*
+1140	a0c7e108	Hermana... Mi querida hermana... ¡¡¡MI QUERIDA HERMANA!!!
+1150	d14f474d	{fc(57e4f1)Tras ese desgarrador estallido, Ima simplemente se desplomó allí mismo. Nozomi y Tsubasa corrieron hacia él y empezaron a consolarlo.}
+1160	e7682d84	{fc(57e4f1)Los demás no sabían qué hacer y se quedaron mirando a Ima en silencio, clavados en el sitio.}
+1170	02c1c536	{fc(57e4f1)El sonido de los lamentos de dolor de Ima resonó, frío e interminable, por las paredes del edificio.}
