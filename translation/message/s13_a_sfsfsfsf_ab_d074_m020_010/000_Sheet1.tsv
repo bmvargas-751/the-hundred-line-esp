@@ -9,7 +9,7 @@ id	huella_jp	es
 80	fc7fa627	{fc(57e4f1)Mientras me quejaba, el reloj marcó las cinco pasadas.}
 90	4f2c7250	{fc(57e4f1)Y así, sin más, dos personas con trajes de salto aparecieron en la plataforma circular frente a nosotros.}
 100	1c7bcdf6	Eh, ah...
-110	75101043	Deben de ser el otro yo y la otra Hiruko de la línea temporal del Acierto.
+110	75101043	Deben de ser el otro yo y la otra Hiruko de la TL del Acierto.
 120	7c35dfba	Sí, supongo.
 130	18765627	Llegan justo a tiempo.
 140	dd476556	Esperen, nos vamos a sacar esto.
@@ -26,14 +26,14 @@ id	huella_jp	es
 250	8d9330af	¿Así está mejor?
 260	4e2ef69b	Sí, ya les vi las caras. Sigamos de una vez.
 270	05daea5c	No tenemos tiempo para esto. Vamos al grano.
-280	8944b82e	Todavía necesitamos tres Códigos de Livor Mortis, ¿no?
+280	8944b82e	Todavía necesitamos tres códigos de livor mortis, ¿no?
 290	08b12527	Sí. Los que no hemos encontrado son los de Takemaru, Ima, Takumi y el mío... Tenemos que encontrar tres de esos cuatro.
 300	13b8b172	Y la próxima vez que podamos saltar es...
 310	c6bd0458	Dentro de cinco días. De 1:30 a 4:30 de la tarde del Día 79.
-320	29d1ff9e	O sea que en ese momento tenemos que dividirnos en dos grupos y revisar entre los dos un total de tres Códigos de Livor Mortis.
+320	29d1ff9e	O sea que en ese momento tenemos que dividirnos en dos grupos y revisar entre los dos un total de tres códigos de livor mortis.
 330	346c2486	La cuestión es a qué línea temporal salta cada equipo.
 340	d29eedf8	{fc(57e4f1)Empezamos a investigar y lo redujimos a las dos líneas temporales más eficientes.}
-350	9039f978	Primero está la {fc(ff635b)línea temporal del Asesino en Serie}... Seis de los nuestros estarán muertos para el Día 79.
+350	9039f978	Primero está la {fc(ff635b)TL del Asesino en Serie}... Seis de los nuestros estarán muertos para el Día 79.
 360	d8b3172c	Eito, Eva, Kurara, seguidos de Moko y Shouma... Y por último, Takemaru.
 370	f4e8de9e	{fc(57e4f1)No fui capaz de decir nada. Sentía un dolor asfixiante en el pecho.}
 380	627b1c15	{fc(57e4f1)Takumi VI probablemente sentía lo mismo. Miraba sus pies con gesto sombrío.}
@@ -48,8 +48,8 @@ id	huella_jp	es
 470	7b606f97	De verdad necesitamos que lo superes.
 480	fe8b2b0a	Lo sé...
 490	831062ee	Lo sé, pero...
-500	a52bf6ad	En todo caso, Takemaru es una de las bajas de la línea temporal del Asesino en Serie.
-510	cebfb59c	Si saltamos allá, podremos conseguir su Código de Livor Mortis.
+500	a52bf6ad	En todo caso, Takemaru es una de las bajas de la TL del Asesino en Serie.
+510	cebfb59c	Si saltamos allá, podremos conseguir su código de livor mortis.
 520	fcb88256	{fc(57e4f1)No quería hacerlo, pero no había opción. Takumi VI y yo asentimos en silencio.}
 530	493ddc1b	Nuestro otro destino es... La {fc(ff635b)línea temporal Zombi}, ¿verdad?
 540	eed5a318	Sí, parece la más eficiente para visitar.
@@ -67,11 +67,11 @@ id	huella_jp	es
 660	1d5c9e45	Es la única línea temporal donde podemos conseguir ambos códigos...
 670	d656a139	{fc(57e4f1)Las Hirukos se miraron y las dos soltaron un suspiro, con la cabeza gacha.}
 680	f1295098	{fc(57e4f1)Seguimos afinando los detalles del plan.}
-690	1c131b84	{fc(57e4f1)Hiruko y yo, de la línea temporal del Error, iríamos a la línea temporal del Asesino en Serie. Hiruko VI y Takumi VI, del Acierto, irían a la rama Zombi.}
+690	1c131b84	{fc(57e4f1)Hiruko y yo, de la TL del Error, iríamos a la TL del Asesino en Serie. Hiruko VI y Takumi VI, del Acierto, irían a la rama Zombi.}
 700	b665c278	{fc(57e4f1)Ya sabíamos quién haría qué.}
 710	4b94c42b	Permítanme repetirlo. Salimos el Día 79.
 720	547a4141	Tendremos tres horas. No es mucho tiempo que perder, considerando el viaje de ida y vuelta a la escuela.
-730	395ae7cd	Nos informaremos los Códigos de Livor Mortis la próxima vez que suban las ondas del espacio sanguíneo.
+730	395ae7cd	Nos informaremos los códigos de livor mortis la próxima vez que suban las ondas del espacio sanguíneo.
 740	d4dc170c	¿Y después de eso volveremos todos a nuestras líneas temporales?
 750	9ff59ab2	Sí, creo que sería lo mejor.
 760	2108cab0	Saltaremos a la suya cuando llegue la hora de reunirnos.
@@ -82,7 +82,7 @@ id	huella_jp	es
 810	91bed3d7	¿Perdón? ¡¿Cómo te atreves a hablarme así?!
 820	1590c73c	Bueno, chicas, calmémonos...
 830	7bec06f4	{fc(57e4f1)Ya había pasado la medianoche cuando terminamos. Nuestro tiempo casi se acababa.}
-840	c176ca91	{fc(57e4f1)El dúo de la línea temporal del Acierto configuró la máquina, apretó el botón rojo y saltó a la plataforma.}
+840	c176ca91	{fc(57e4f1)El dúo de la TL del Acierto configuró la máquina, apretó el botón rojo y saltó a la plataforma.}
 850	0a2acf7a	Bueno, entonces...
 860	b8d074ed	¡Contamos con ustedes!
 870	6798009b	Y nosotros con ustedes.

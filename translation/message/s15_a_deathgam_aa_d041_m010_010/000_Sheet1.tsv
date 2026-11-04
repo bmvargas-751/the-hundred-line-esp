@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	399b4132	Día 41
-30	69ceab21	¡De pie, tropas! ¡Es hora de levantarse y brillar!
-40	18b962ff	¡Prepárense para su día 41 de servicio activo en la Última Academia de Defensa!
+30	69ceab21	¡Arriba, tropa! ¡Es hora de levantarse y brillar!
+40	18b962ff	¡Prepárense para su cuadragésimo primer día de servicio activo aquí, en la Última Academia de Defensa!
 50	f67d5c09	¡Prepárense para pasar otro día soportando lo insoportable y sufriendo lo insufrible para allanar el camino a la futura grandeza de la humanidad!
 60	d9f7e380	¡Estén listos para dar la vida por proteger nuestra amada escuela del vil y bárbaro enemigo!
 70	caa4b69e	Y ahora es el Día 41...
@@ -24,7 +24,7 @@ id	huella_jp	es
 250	6d3e030d	Haré lo que me pidas, así que... A cambio de eso...
 260	1d3b089f	¡¿Harías algo para salvar a mi querida amiga?!
 270	f54b0f6e	¿Tu querida amiga...?
-280	6bbe70d2	¡Espera! ¿Hablas de Nozomi?
+280	6bbe70d2	¡Espera! ¡¿Hablas de Nozomi?!
 290	3d46200d	{fc(57e4f1)¡Ayer SÍ quería mi ayuda con lo de Nozomi, lo sabía!}
 300	28d7755f	¿La condición física de los demás miembros de la Unidad de Defensa Especial?
 310	76eb1e38	Y... si algo malo le llegara a ocurrir a Lady Nozomi, yo...
@@ -82,12 +82,12 @@ id	huella_jp	es
 820	dc5e8eab	Esa Nozomi... No puedo creer que nunca me dijera nada de esto.
 830	f510d9a7	¿De verdad cree Nozomi que me importaría que no sea un miembro "oficial" del equipo? Es mi amiga; ¡la querría pase lo que pase...!
 840	47562685	Sí... Sabía que nada de eso te importaría.
-850	15958e44	{fc(57e4f1)Por eso me sentí cómodo compartiendo esta información. Si había alguien en quien confiar el secreto de Nozomi, era Moko.}
+850	15958e44	{fc(57e4f1)Por eso me sentí cómodo compartiendo esta información. Si había alguien a quien confiar el secreto de Nozomi, era Moko.}
 860	1d736c28	Entonces, Takumi... ¿Cómo detenemos esos síntomas?
 870	32c855d9	¡Si hay alguna hierba medicinal que ayude, salgo a buscarla ahora mismo!
 880	ad0f2642	No, lo único que ayudará a Nozomi ahora es... la criptoglobina.
 890	3158da01	Tiene... propiedades caníbales.
-900	ee39d29d	En los experimentos buscábamos una forma de reducir los síntomas de rechazo, así que probamos a hacer que la sangre se consumiera a sí misma...
+900	ee39d29d	En los experimentos buscábamos una forma de reducir los síntomas de rechazo, así que intentamos hacer que la sangre se consumiera a sí misma...
 910	e5e287cc	Mi mamá me transfundió criptoglobina adicional. Y entonces los síntomas de rechazo se detuvieron.
 920	024b64ea	¿O sea que al absorber {fc(ff635b)criptoglobina} podemos mitigar el rechazo?
 930	9556e400	Mucho de esto me supera, pero eso es básicamente lo que necesitamos para salvarla, ¿no?

@@ -3,7 +3,7 @@ id	huella_jp	es
 20	9f532ebd	{fc(57e4f1)Yo volví a mi cuarto.}
 30	3de0a695	{fc(57e4f1)Casi al instante vino una visita a llamar. Abrí la puerta y encontré a Tsubasa.}
 40	1fd8fdca	¿Pasó algo?
-50	c1ca686a	Ayer preguntaste por la máscara de Eva, ¿recuerdas? Te la he traído.
+50	c1ca686a	Ayer preguntaste por la máscara de Eva, ¿recuerdas? Te la traje.
 60	8e41beed	¡Ah, gracias! Perdón por la molestia.
 70	2dbb8885	{fc(57e4f1)Tomé la máscara de sus manos.}
 80	5f6baa34	¿Qué vas a hacer con eso?
@@ -35,7 +35,7 @@ id	huella_jp	es
 340	4c1b32f6	Sí, para que pueda pelear con nosotros en las batallas defensivas. Necesitaríamos alguna medida de seguridad antes de dejarla actuar libremente, por supuesto...
 350	51e940e1	Como un collar con una bomba, quizá. Eso tranquilizaría a todos, ¿no?
 360	0c24a27a	Si intenta huir o hacer algo raro, solo tenemos que apretar un botón para activar la bomba y detenerla.
-370	cc4ba311	{fc(57e4f1)Se me encendió una bombilla en la mente mientras Tsubasa hablaba.}
+370	cc4ba311	{fc(57e4f1)Se me encendió una luz en la mente mientras Tsubasa hablaba.}
 380	61152245	
 390	2455f44a	Supongamos que ya hubiera un dispositivo de autodestrucción en el cuerpo de Eva. ¿Sería posible que otra persona lo activara?
 400	6bcb17cd	Mmm... Depende de cómo esté construida la bomba. Si el mecanismo de detonación se diseñó para activarse a distancia, quizá...

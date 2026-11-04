@@ -1,8 +1,8 @@
 id	huella_jp	es
 10	44eeca6a	Día 75
 30	69ceab21	¡Arriba, tropa! ¡Es hora de levantarse y brillar!
-40	c9aaee5f	¡Prepárense para su día 75 de servicio activo en la Última Academia de Defensa!
-50	f67d5c09	¡Prepárense para pasar otro día soportando lo insoportable y sufriendo lo insufrible para allanar el camino hacia la futura grandeza de la humanidad!
+40	c9aaee5f	¡Prepárense para su septuagésimo quinto día de servicio activo en la Última Academia de Defensa!
+50	f67d5c09	¡Prepárense para pasar otro día soportando lo insoportable y sufriendo lo insufrible para allanar el camino a la futura grandeza de la humanidad!
 60	d9f7e380	¡Estén listos para dar la vida por proteger nuestra amada escuela del vil y bárbaro enemigo!
 70	2cf159ff	{fc(57e4f1)Desperté con el sonido del anuncio de la mañana.}
 80	851379f8	{fc(57e4f1)El primer pensamiento que cruzó mi mente fue "Otra vez no...", junto con una sensación de resignación.}
@@ -11,7 +11,7 @@ id	huella_jp	es
 110	1bbca260	¡T-Takumi!
 120	384d0306	¡Despierta!
 130	3e4cf7bb	No suelo preocuparme por pequeñeces, pero esta vez nos diste un buen susto...
-140	e67713ee	¡Estuviste inconsciente 23 días enteros!
+140	e67713ee	¡Estuvo inconsciente 23 días enteros!
 150	b1e7316d	¿Es un récord nuevo?
 160	0c902bec	Ay, por amor al asesinato...
 170	dca55228	{fc(57e4f1)Me volví despacio para mirar a todos, y dije...}
@@ -35,7 +35,7 @@ id	huella_jp	es
 350	db16bcf1	¡¿Se dejó ver?!
 360	cf7bab12	Bueno, se sentía muy mal, pero dijo que tenía que contarnos algo...
 370	5dd09633	¿Y qué era?
-380	3a60b7c7	Hace poco me enteré de que hay algo llamado {fc(ff635b)Transmisor de Señal de Socorro} en algún lugar de esta escuela.
+380	3a60b7c7	Hace poco me enteré de que hay algo llamado {fc(ff635b)transmisor de petición de rescate} en algún lugar de esta escuela.
 390	7e06f9eb	Se puso aquí para el caso de que todos menos un miembro del {fc(ff635b)Equipo 1} murieran.
 400	8fdb0e92	Pero solo el Equipo 1, porque no se había previsto que los dos equipos se unieran.
 410	71e8f6a0	La gente del satélite no pensó que el Equipo 2 llegaría a venir aquí...
@@ -50,7 +50,7 @@ id	huella_jp	es
 500	3a591626	Por desgracia, no sé dónde está ese transmisor.
 510	49d33a93	Aun así, me pareció que esta información podría serles de utilidad...
 520	55d65223	Por eso vine a contársela.
-530	f77d69dd	¿Un Transmisor de Señal de Socorro? ¡Nunca había visto ni oído hablar de algo así!
+530	f77d69dd	¿Un transmisor de petición de rescate? ¡Nunca había visto ni oído hablar de algo así!
 540	f3f9c0e4	Yo tampoco.
 550	16b6ddc7	Después de oír eso, nos dividimos en grupos para buscar el transmisor, pero...
 560	c7e4cc2f	¡Todavía no lo hemos encontrado!
@@ -58,7 +58,7 @@ id	huella_jp	es
 580	18d037f0	{fc(57e4f1)No importaba. Tendríamos que dejar el transmisor para después. Descubrir la identidad de X era nuestra máxima prioridad.}
 590	c0b0b6e0	{fc(57e4f1)Lo más probable era que X hubiera matado a Shouma...}
 600	992535be	{fc(57e4f1)O pudo haberle ordenado a otra persona que lo hiciera, como hizo con Kako.}
-610	db8e6361	{fc(57e4f1)En cualquier caso, X estuvo sin duda involucrado en el asesinato de Shouma.}
+610	db8e6361	{fc(57e4f1)En cualquier caso, X tuvo sin duda que ver con el asesinato de Shouma.}
 620	14868ae6	{fc(57e4f1)Mientras lográramos averiguar quién mató a Shouma, descubriríamos quién es X.}
 630	ae78348b	¡Muy bien...!
 640	77cb81da	{fc(57e4f1)Apreté los puños con fuerza.}

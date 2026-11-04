@@ -29,7 +29,7 @@ id	huella_jp	es
 280	fa1d4c4a	*Jadeo...* *jadeo...* *jadeo...* *jadeo...*
 290	585012bc	Siento que... hemos acumulado un montón de puntos...
 300	c17df3d7	¡Sí, pero todavía no podemos parar!
-310	3651d789	{fc(57e4f1)Takemaru y las gemelas habían ganado una enorme cantidad de puntos por rematar a la comandante de la Cuarta Unidad en el puesto de avanzada.}
+310	3651d789	{fc(57e4f1)Takemaru y los gemelos habían ganado una enorme cantidad de puntos por rematar a la comandante de la Cuarta Unidad en el puesto de avanzada.}
 320	f44da525	{fc(57e4f1)¡Tenemos que seguir sumando puntos aquí si queremos cerrar la brecha!}
 330	235626eb	{fc(57e4f1)Decidí seguir cazando sin tomarme ningún descanso.}
 340	e0ed6598	{fc(57e4f1)Desapégate...}
@@ -62,8 +62,8 @@ id	huella_jp	es
 560	107047b1	¿Significa que algunos se quedaron aquí en la Tierra? Deberíamos preguntarles qué pasó.
 570	e4ad02f6	{fc(57e4f1)Dejamos caer nuestras armas a los pies e intentamos hablar con la gente.}
 580	31964026	{fc(57e4f1)Pero...}
-590	b44f02dc	¡Ustedes, invasores, caen en lo más bajo, ¿verdad?! ¡¿Cómo diablos encontraron este lugar?!
-600	461168b2	¡Es culpa de ustedes que nos {fc(ff635b)transformáramos}!
+590	b44f02dc	¡Ustedes, invasores, caen en lo más bajo! ¿Verdad? ¡¿Cómo diablos encontraron este lugar?!
+600	461168b2	¡Es culpa de ustedes que {fc(ff635b)nos hayamos transformado}!
 610	c2d342b3	¡Los voy a matar aquí y ahora!
 620	39f91b1b	¿Por qué están tan furiosos?
 630	dfc0708b	No creo que tengan ganas de hablar...
@@ -96,7 +96,7 @@ id	huella_jp	es
 900	76a3dd64	Acumuló polvo durante siglos, pero ahora está de nuevo en funcionamiento.
 910	1b8e0541	Es decir, estos armazones se trajeron aquí para producir en masa nuevos invasores tras haber sido tan diezmados.
 920	0321e3b5	Espera... Espera. ¡¿Los invasores se hacen con personas?!
-930	5fdb1e99	Las opiniones están divididas sobre si estos armazones pueden considerarse humanos, pero en términos de un lego, ¡tienes toda la razón!
+930	5fdb1e99	Las opiniones están divididas sobre si estos armazones pueden considerarse humanos, pero en términos de un profano, ¡tienes toda la razón!
 940	c98ee14e	¡...!
 950	fe569c35	{fc(57e4f1)Los invasores se hacen con personas... Entonces la UDE ha estado...}
 960	153c0895	{fc(57e4f1)¿Asesinando... personas...?}

@@ -27,7 +27,7 @@ id	huella_jp	es
 260	d5df9367	Esa cosa que hace aquello por culpa de esa otra cosa...
 270	561901e0	Son demasiadas cosas.
 280	5e781399	Después de envenenar a Kako, pusiste el frasco de TTX en su mano derecha.
-290	093f08a1	Luego bloqueaste la puerta del Gimnasio usando una trapeador a modo de pestillo.
+290	093f08a1	Luego bloqueaste la puerta del Gimnasio usando un trapeador a modo de pestillo.
 300	14b15fa6	Pensando que con todo ese disparate podrías hacer que su muerte pareciera un suicidio.
 310	f4a72a8b	
 320	81e090bc	Hecho eso, bajaste por la escalera de la esquina del escenario hasta el depósito de la cápsula de escape.
@@ -50,7 +50,7 @@ id	huella_jp	es
 490	b3d949ea	Sí puedo, porque había mucha oscuridad en el conducto.
 500	c0e97f58	Y... bueno... Tú siempre has sido un tipo oscuro y lúgubre.
 510	6b8f578c	¡A los tipos oscuros y lúgubres les encantan los lugares oscuros! ¡Están acostumbrados a la oscuridad!
-520	411f3ee8	¡Por eso es imposible que cualquiera que no seas tú haya recorrido ese conducto oscuro!
+520	411f3ee8	¡Por eso es imposible que alguien que no seas tú haya recorrido ese conducto oscuro!
 530	b5d28f74	¿De verdad lo dice en serio?
 540	8b6a2bb2	¡Si lo dice en serio, está mal de la cabeza!
 550	52777e35	Sí puedo, por cómo el conducto da curvas en zigzag y se extiende hacia el edificio de la escuela.
@@ -141,7 +141,7 @@ id	huella_jp	es
 1400	afdde9d9	Si lograbas que todos pensaran que el culpable te había mutilado, jamás soñaríamos con sospechar de ti.
 1410	cc67b56e	¡E-Está diciendo tonterías! ¡Este plan es demasiado audaz para alguien como yo...!
 1420	782b6169	¿Quién se atrevería a matarse solo para parecer inocente?
-1430	d368cc9c	¡¿De qué sirve que te vean como inocente si estás muerto?!
+1430	d368cc9c	¡¿De qué sirve que lo vean como inocente si está muerto?!
 1440	f305aeb7	Por supuesto, morir de verdad nunca fue parte de tu plan.
 1450	82529a96	De hecho, estabas absolutamente seguro de que no morirías, porque tenemos el Revive-O-Matic en la Enfermería.
 1460	07b12294	Pero para que eso funcionara, tenías que morir de un modo que nos permitiera encontrar tu cadáver pronto.
@@ -182,7 +182,7 @@ id	huella_jp	es
 1810	5cc51f9c	Si te inyectaste un anestésico potente... ¡como el {fc(ff635b)Gammaphiel}!
 1820	accf34ee	¡Ack...!
 1830	1f169982	¿Recuerdas lo que dijo Yugamu?
-1840	0479155d	Con la dilución adecuada, esta sustancia puede adormecer los receptores del dolor y las emociones del cuerpo sin causar pérdida de consciencia.
+1840	0479155d	Con la dilución adecuada, esta sustancia puede adormecer los receptores del dolor y las emociones del cuerpo sin causar pérdida de conocimiento.
 1850	f40fbba4	Sí, y lo sigo sosteniendo.
 1860	f4a72a8b	
 1870	ab391471	¿No tiene nada que refutar?
@@ -213,7 +213,7 @@ id	huella_jp	es
 2120	8288be79	¡De la Enfermería!
 2130	2f498941	¿Había una droga así en la Enfermería?
 2140	84b7ffe9	Que yo sepa, no...
-2150	06c295d4	Del Laboratorio Biológico.
+2150	06c295d4	Del laboratorio biológico.
 2160	1faac6ed	Esa sala no está cerrada con llave y todos tienen acceso a los estantes. Sacar la droga de allí no habría sido un problema para ti.
 2170	88b1e3f8	
 2180	1e2fee7b	Eh... ¡La Biblioteca!
@@ -292,7 +292,7 @@ id	huella_jp	es
 2910	82648997	¡No, no lo admití!
 2920	239776c5	¡Solo sentí que quizá lo era por un breve instante fugaz...!
 2930	27654d7d	¿Eso no equivale a admitirlo?
-2940	9ca742b7	Nadie realmente inocente sospecharía brevemente de sí mismo como el asesino...
+2940	9ca742b7	Nadie verdaderamente inocente sospecharía, aunque fuera por un instante, que él mismo es el asesino...
 2950	f4a72a8b	
 2960	aa1a613d	¿No dice nada? ¡Entonces tengo razón!
 2970	81e44bea	¡No!
@@ -368,7 +368,7 @@ id	huella_jp	es
 3670	df61c211	Quizá tengas razón...
 3680	f34041ba	¡No, todavía no hemos terminado!
 3690	853e154f	Enfermería
-3700	5ce98c4a	Laboratorio Biológico
+3700	5ce98c4a	Laboratorio biológico
 3710	699336a7	Biblioteca
 3720	18f917f8	Lo tiraste lejos
 3730	5c42267a	Lo escondiste en tus heridas

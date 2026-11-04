@@ -39,23 +39,23 @@ id	huella_jp	es
 380	8d7b27f1	Lo dije, ¿verdad?
 390	45b91f9a	Bien, porque tengo algunas preguntas para ti.
 400	9d8c2ba8	Adelante.
-410	e1ca39f5	En primer lugar, dijiste que tu objetivo era obtener los Códigos de Livor Mortis, ¿verdad?
+410	e1ca39f5	En primer lugar, dijiste que tu objetivo era obtener los códigos de livor mortis, ¿verdad?
 420	d8cde2f1	¿Cómo te enteraste siquiera de ellos?
-430	01ec2a9b	De Shion, en la línea temporal de la Caja de la Desdicha. Fue antes de que me desterraran a este mundo.
-440	eaf170ee	Allí también me enteré del Transmisor de Señal de Socorro.
+430	01ec2a9b	De Shion, en la TL de la Caja de la Desdicha. Fue antes de que me desterraran a este mundo.
+440	eaf170ee	Allí también me enteré del transmisor de petición de rescate.
 450	fc8c67a4	¿Entonces tu objetivo final es hacer venir la nave de rescate?
 460	4191dab4	Así es... Voy a subirme a ella rumbo al Satélite Artificial...
 470	7b245777	Para que mis hermanas se unan allí con los humanos restantes.
 480	91160109	¡Ugh!
 490	b4c10a3f	
-500	f4c264f9	Siguiente pregunta. ¿Dónde pusiste los Códigos de Livor Mortis que cortaste de los demás?
+500	f4c264f9	Siguiente pregunta. ¿Dónde pusiste los códigos de livor mortis que cortaste de los demás?
 510	dee1f064	Los tengo aquí mismo. Puedes quedártelos.
 520	ac837776	{fc(57e4f1)Sacó una especie de carpeta de archivos y me la lanzó.}
 530	1e84395e	Este pequeño álbum de recortes contiene sus fragmentos de piel.
 540	a72a4520	No sabrás qué número pertenece a quién, así que te lo diré.
 550	c673fac1	Eito es 8, Gaku es 0, Kako es 9 y Shouma es 3.
 560	f4a72a8b	
-570	6e526462	Solo hay un Código de Livor Mortis confirmado más.
+570	6e526462	Solo hay un código de livor mortis confirmado más.
 580	d15fcb9a	No le quité la piel, pero seguro que tú también lo viste.
 590	dc61679c	Sí... El de Tsubasa es 2. Son cinco confirmados hasta ahora.
 600	774cfa05	Solo faltan cuatro más.
@@ -63,7 +63,7 @@ id	huella_jp	es
 620	e15cb429	¿Puedo hacer yo también una pregunta?
 630	66fb1f0f	Adelante.
 640	1da4569d	¿Por qué dejaste los cuerpos en la Morgue?
-650	4370bd5a	Si no querías que supiéramos de los códigos de livor mortis, podrías haber arrojado los cuerpos al Muro de Fuego.
+650	4370bd5a	Si no querías que supiéramos de los códigos de Livor Mortis, podrías haber arrojado los cuerpos al Muro de Fuego.
 660	34971ca5	Llámalo... instinto. Mi deseo primario de que mi especie sobreviva.
 670	2a1e2d3f	Dejé allí los cuerpos para proporcionar semilleros adecuados para otra reina G'ie.
 680	0d6b8a24	Había un poderoso impulso dentro de mí de dejar los cuerpos en paz.
@@ -77,14 +77,14 @@ id	huella_jp	es
 760	d3eb76d5	No mentía cuando dije que no tengo interés en matar gente. No mato por diversión, si me entienden.
 770	7163e2ce	Mato para desahogar mi frustración. Como aplastar a una cucaracha molesta.
 780	0c435be3	Palabras que dan asco incluso a un asesino como yo...
-790	be0197ed	Además, todavía necesito verificar los otros Códigos de Livor Mortis.
+790	be0197ed	Además, todavía necesito verificar los otros códigos de livor mortis.
 800	1adde7b4	¿O sea que vas a saltar de aquí?
 810	d35828e9	Ya tuve suficiente de esta línea temporal... Soy de las que se desaniman tan rápido como se entusiasman.
 820	fbdbed5a	Ah, eso me recuerda...
 830	5f896d9c	El PLM estuvo bloqueado hasta hace muy poco.
 840	929eaab5	Lo desbloqueé justo antes de que llegaran, así que está todo bien. Ahora puedo saltar a cualquier línea temporal.
 850	cdc869d7	¿Bloqueado...?
-860	6ec87a90	No pasa nada si no lo entienden. No se preocupen sus preciosas cabezas por eso.
+860	6ec87a90	No pasa nada si no lo entienden. No preocupen sus preciosas cabezas con eso.
 870	f4a72a8b	
 880	efd2fd38	Todos tienen que salir de la sala ahora.
 890	00c3751c	Tengo que ponerme el Leap Suit y hacer otros preparativos antes de saltar.
@@ -108,7 +108,7 @@ id	huella_jp	es
 1070	1aaecde8	Uno...
 1080	b4c10a3f	
 1090	5218baa8	¡DAAAAAAAAHHH!
-1100	5cbe1a39	{fc(57e4f1)Empecé a cargar hacia delante mientras gritaba, di un paso, dos pasos... Y entonces...}
+1100	5cbe1a39	{fc(57e4f1)Empecé a lanzarme hacia delante mientras gritaba, di un paso, dos pasos... Y entonces...}
 1110	b6371a7f	{fc(57e4f1)Vi una granada que volaba por el aire en línea recta hacia mi cara.}
 1120	5667c13b	{fc(57e4f1)De repente...}
 1130	8f63363a	¡NOOOOO!
@@ -120,7 +120,7 @@ id	huella_jp	es
 1190	e011cd75	{fc(57e4f1)Esto no puede ser real...}
 1200	9ffd9b68	
 1210	6ff4e433	{fc(57e4f1)Ella...}
-1220	d7019216	{fc(57e4f1)...intentó...}
+1220	d7019216	{fc(57e4f1)...está intentando...}
 1230	b6645ea3	{fc(57e4f1)...¿protegerme?}
 1240	24400835	
 1250	1879ff1b	{fc(57e4f1)¡No lo hagas, Nozomi!}

@@ -8,8 +8,8 @@ id	huella_jp	es
 70	1d9d1485	{fc(57e4f1)Hiruko se acercó al cadáver de Tsubasa sin decir palabra.}
 80	cfb20d96	{fc(57e4f1)Se detuvo frente al cuerpo y retiró la sábana. Le dio la vuelta y levantó la blusa.}
 90	b349e79f	Es ese número extraño que vimos ayer... ¿Qué pasa con él?
-100	fa5cfc66	Este es su {fc(ff635b)Código de Livor Mortis}.
-110	1b0e4685	¿{fc(ff635b)Código de Livor Mortis}?
+100	fa5cfc66	Este es su {fc(ff635b)código de livor mortis}.
+110	1b0e4685	¿{fc(ff635b)Código de livor mortis}?
 120	f9859441	Es un número único que aparece en la espalda de todos los miembros de la Unidad de Defensa Especial cuando pierden casi toda su criptoglobina.
 130	12e5bf20	Solo lo tienen los del Equipo 1.
 140	51466af1	¿Dónde te enteraste de esto?
@@ -33,10 +33,10 @@ id	huella_jp	es
 320	9c8391bc	Bueno... El contorno está bastante bien definido, como si lo hubieran cortado con un bisturí o algo así...
 330	f4a72a8b	
 340	767d5fa9	¡Ah, ahora lo entiendo! Está en el lugar exacto... ¡Tiene que ser eso!
-350	03e18e98	¡Cortaron la parte de la espalda con el Código de Livor Mortis!
+350	03e18e98	¡Cortaron la parte de la espalda con el código de livor mortis!
 360	6576392c	Bien hecho.
 370	1d71c9f2	¿Pasa lo mismo con Moko?
-380	8692c9a7	¿No has estado escuchando? El Código de Livor Mortis solo aparece en los del Equipo 1.
+380	8692c9a7	¿No has estado escuchando? El código de livor mortis solo aparece en los del Equipo 1.
 390	3bea4637	Moko es del Equipo 2. Naturalmente, su espalda no tiene código.
 400	87838c06	{fc(57e4f1)Dicho esto, Hiruko devolvió los cuerpos a sus posiciones originales.}
 410	e08f74fb	Pero... ¿por qué haría X algo así?
@@ -57,30 +57,30 @@ id	huella_jp	es
 560	a2e3910c	Por eso X hizo eso...
 570	1b58f9db	Aunque eso aún nos deja una pregunta.
 580	9c1ea334	¿Cuál?
-590	fb09b62a	Lo explicaré después. Verás, el objetivo de X tiene que ver con el "conocimiento de los Códigos de Livor Mortis".
+590	fb09b62a	Lo explicaré después. Verás, el objetivo de X tiene que ver con el "conocimiento de los códigos de livor mortis".
 600	2d369a45	Nuestra hipótesis actual es que X cortó esa parte concreta de la piel...
-610	c7bc8bac	...no por ser un ávido coleccionista de pieles, sino simplemente para impedir que supiéramos de la existencia de los códigos.
+610	c7bc8bac	...no por coleccionar pieles con avidez, sino simplemente para impedir que supiéramos de la existencia de los códigos.
 620	87e583ff	Pero, si eso es cierto...
 630	506627a4	¿Por qué montar la pista falsa?
 640	d473f688	Porque si el único objetivo de X era saber cuáles eran los Códigos, podría haberse deshecho de los cuerpos en cuanto los vio.
 650	f0dd4d44	Podría haber arrojado los cuerpos al Muro de Fuego, enterrarlos en el bosque... Sin embargo, X no hizo nada de eso. ¿Por qué?
 660	63259aad	No estoy seguro, pero quizá necesitaba que los cuerpos se quedaran en la Morgue por alguna razón.
 670	fa62b792	¿Tú también lo crees? Sí. X claramente quería dejar los cuerpos aquí.
-680	aad317e3	Pero al hacerlo, nos permitiría descubrir la existencia de los Códigos de Livor Mortis.
+680	aad317e3	Pero al hacerlo, nos permitiría descubrir la existencia de los códigos de livor mortis.
 690	3c3b8d8d	Por eso se tomó la molestia de montar una pista falsa tan complicada: quitar la piel y los corazones de quienes ya estaban muertos.
 700	1f2b8ef4	Entonces la pregunta es... ¿por qué quiere X que se conserven los cuerpos?
 710	52053597	¡Eso es lo que intento averiguar!
 720	b4c10a3f	
-730	51b8cbaa	Dejemos eso de lado por ahora y hablemos de otra cosa. ¿Por qué quiere X saber qué son los Códigos de Livor Mortis?
-740	3775bd52	Tiene que ver con el {fc(ff635b)Transmisor de Señal de Socorro}.
+730	51b8cbaa	Dejemos eso de lado por ahora y hablemos de otra cosa. ¿Por qué quiere X saber qué son los códigos de livor mortis?
+740	3775bd52	Tiene que ver con el {fc(ff635b)transmisor de petición de rescate}.
 750	dfddbc41	¿El transmisor del que nos habló el chico de las Llamas Eternas?
-760	3a60b7c7	Hace poco me enteré de que hay algo llamado {fc(ff635b)Transmisor de Señal de Socorro} en algún lugar de esta escuela.
+760	3a60b7c7	Hace poco me enteré de que hay algo llamado {fc(ff635b)transmisor de petición de rescate} en algún lugar de esta escuela.
 770	7e06f9eb	Se puso aquí para el caso de que todos menos un miembro del {fc(ff635b)Equipo 1} murieran.
 780	586956a8	Una vez ingresada en el transmisor la {fc(ff635b)serie correcta de códigos}, este... bueno, transmitiría una señal de socorro.
 790	ca3f0270	¡Ah... ya sé!
-800	10884755	¡La {fc(ff635b)serie correcta de códigos} que mencionó... debe de referirse a los {fc(ff635b)Códigos de Livor Mortis}!
+800	10884755	¡La {fc(ff635b)serie correcta de códigos} que mencionó... debe de referirse a los {fc(ff635b)códigos de livor mortis}!
 810	abf165b6	Sí. Hay 10 personas en el Equipo 1. Ingresar nueve de nuestros códigos hará venir la nave de rescate.
-820	bfcec864	Porque conocer los Códigos de Livor Mortis de nueve personas indica que nueve personas han entrado en {fc(ff635b)Muerte Total}...
+820	bfcec864	Porque conocer los códigos de livor mortis de nueve personas indica que nueve personas han entrado en {fc(ff635b)Muerte Total}...
 830	7b28103f	¿{fc(ff635b)Muerte Total}...?
 840	4fb70a36	Significa el cese completo de la vida. En este estado, es imposible revivir a una persona.
 850	dad97517	Bien, pero... ¿cómo te enteraste de toda esta información?
@@ -89,17 +89,17 @@ id	huella_jp	es
 880	ff6ee6bd	Sí. Lo explicaré con más detalle cuando el tiempo esté más de nuestro lado. Por ahora, nuestra prioridad es identificar a X.
 890	5de2526b	
 900	097dfdef	¿Lo entiendes ahora?
-910	0b7e3b53	¿Entiendes por qué dije que el objetivo de X es averiguar los Códigos de Livor Mortis?
+910	0b7e3b53	¿Entiendes por qué dije que el objetivo de X es averiguar los códigos de livor mortis?
 920	2d502e58	¡¿Eso significa que X intenta hacer venir la nave de rescate?!
 930	35378397	Es muy probable...
 940	f226548e	¡¿Para poder irse de esta escuela?!
 950	e51622cf	Así es...
-960	60a42707	¿Lo que también significa que X ya sabe dónde está el Transmisor de Señal de Socorro?
-970	f6bc4ff9	Porque los Códigos de Livor Mortis serían inútiles si no.
+960	60a42707	¿Lo que también significa que X ya sabe dónde está el transmisor de petición de rescate?
+970	f6bc4ff9	Porque los códigos de livor mortis serían inútiles si no.
 980	15d52e28	Es un razonamiento lógico. Continúa.
-990	721e14bf	¡Si encontramos nosotros el Transmisor de Señal de Socorro, quizá encontremos una pista sobre la identidad de X!
+990	721e14bf	¡Si encontramos nosotros el transmisor de petición de rescate, quizá encontremos una pista sobre la identidad de X!
 1000	0af8f9d3	{fc(57e4f1)Hiruko asintió profundamente ante mis palabras.}
-1010	5cefd1eb	Por eso voy a empezar ahora a buscar el Transmisor de Señal de Socorro. ¿Quieres acompañarme?
+1010	5cefd1eb	Por eso voy a empezar ahora a buscar el transmisor de petición de rescate. ¿Quieres acompañarme?
 1020	7faf3316	Pero es casi medianoche...
 1030	d2f59dd6	¿Qué eres, un niño de cinco años?
 1040	5de2526b	

@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	7f7cae7b	¿Así que este es el Transmisor de Señal de Socorro...?
+10	7f7cae7b	¿Así que este es el transmisor de petición de rescate...?
 20	15a65742	¿Sabes para qué sirve, Shion?
 30	539c3eed	Creo que sí... Por lo que dijeron SIREI y NIGOU, al menos.
 40	48a9b66e	Cuéntanos, por si acaso. Conviene comprobar si coincide con lo que sabemos.
@@ -9,9 +9,9 @@ id	huella_jp	es
 80	395cb93a	Y la Penúltima Academia de Defensa es el {fc(ff635b)segundo campus}, o el {fc(ff635b)n.º 2}.
 90	ba542ed0	Del mismo modo, a los miembros de la Unidad de Defensa Especial que empezaron aquí a veces se les llama {fc(ff635b)Grupo 1}...
 100	2f572917	Mientras que Nozomi, Moko y los demás son el {fc(ff635b)Grupo 2}.
-110	9e2a1ad3	{fc(57e4f1)Recordaba haber oído algo así antes... ¿Habrá sido también en la línea temporal del Misterio?}
+110	9e2a1ad3	{fc(57e4f1)Recordaba haber oído algo así antes... ¿Habrá sido también en la TL del Misterio?}
 120	4ab86780	{fc(57e4f1)Intenté recordarlo mientras escuchaba la explicación de Shion. Fue más o menos lo que esperaba.}
-130	e7b6c1a3	{fc(57e4f1)El Transmisor de Señal de Socorro se instaló aquí por si morían todos los miembros del Grupo 1 menos uno.}
+130	e7b6c1a3	{fc(57e4f1)El transmisor de petición de rescate se instaló aquí por si morían todos los miembros del Grupo 1 menos uno.}
 140	08c76d7f	{fc(57e4f1)Por fuerte que fuera, un solo combatiente no podría ganar esta guerra por su cuenta.}
 150	42e6460f	{fc(57e4f1)En cambio, lo extraerían y lo dejarían en espera mientras los responsables armaban un equipo nuevo para un nuevo intento.}
 160	24aa559e	{fc(57e4f1)Una vez ingresada en el transmisor la serie correcta de códigos, este... bueno, transmitiría una señal de socorro.}
@@ -23,11 +23,11 @@ id	huella_jp	es
 220	1ab2c891	Parece que sí tenías información nueva para nosotros. Continúa, Shion.
 230	57f6bcef	{fc(57e4f1)Shion asintió y continuó.}
 240	6888edcb	{fc(57e4f1)Cuando un miembro de la Unidad de Defensa Especial muere y pierde toda su criptoglobina, entra en un estado llamado }{fc(ff635b)Muerte Total}{fc(57e4f1).}
-250	fa976a7d	{fc(57e4f1)Tras entrar en }{fc(ff635b)Muerte Total}{fc(57e4f1), aparece en su espalda algo llamado }{fc(ff635b)Código de Livor Mortis}{fc(57e4f1).}
+250	fa976a7d	{fc(57e4f1)Tras entrar en }{fc(ff635b)Muerte Total}{fc(57e4f1), aparece en su espalda algo llamado }{fc(ff635b)código de livor mortis}{fc(57e4f1).}
 260	6b643dab	{fc(57e4f1)Para enviar la señal de socorro, el sobreviviente debe ingresar }{fc(ff635b)nueve códigos}{fc(57e4f1), uno por cada miembro del Grupo 1, aparte de él mismo.}
 270	6acf1b62	{fc(57e4f1)Es su forma de demostrar que }{fc(ff635b)todos los demás están muertos}{fc(57e4f1). Entonces se envía la señal y se autoriza la extracción.}
 280	95a41019	Supongo que nunca se pensó que los dos grupos se reunirían como lo hemos hecho aquí.
-290	901c576d	Para enviar la señal solo se necesitan los Códigos de Livor Mortis del Grupo 1.
+290	901c576d	Para enviar la señal solo se necesitan los códigos de livor mortis del Grupo 1.
 300	46b881b9	{fc(57e4f1)Lo sospechaba...}
 310	eb1f8d75	¿Había algo más?
 320	5ab11ac5	Sí. Si los códigos ingresados son incorrectos, todos los que estén en la sala morirán.
