@@ -97,6 +97,12 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 - **Apodos:** como el inglés, traducidos y escritos como apodos, con el epíteto en mayúscula (*señor Salvador Viajero en el Tiempo*, *señor Cara de Pez*, *señorita Actitud de Monstruo*).
   Si el japonés no tiene tratamiento, solo el apodo (*¡Por fin te encontré, Espectro!*).
 
+## Género de los personajes (concordancia)
+
+Hombres (masculino al hablar de sí mismos y en la narración): Takumi, Takemaru, Gaku, Shouma, Ima, Eito, Yugamu, SIREI, NIGOU, Shion, Dahl'xia, Murvrum, Pakron.
+Mujeres (femenino): Hiruko, Tsubasa, Darumi, Kako, Nozomi (Karua), Kurara, Kyoshika, Moko, Eva, Kamyuhn, V'ehxness.
+Antes de cerrar un bloque, revisar la concordancia de cada hablante con este cuadro (`build/work/gen_scan.py` marca los casos probables).
+
 ## Lugares e instituciones
 
 | Japonés | Inglés | Propuesta | Estado |
