@@ -1,94 +1,94 @@
 id	huella_jp	es
 10	865107b5	¿Eh? ¿Hiruko?
-20	bd1f1d4f	{fc(57e4f1)Había dicho que me esperaba en la azotea,\npero no se la veía por ningún lado.}
-30	5f5ecc1b	{fc(57e4f1)No habrá vuelto a su cuarto...}
+20	bd1f1d4f	{fc(57e4f1)No vi a Hiruko en la Azotea, aunque había dicho que me esperaría allí.}
+30	5f5ecc1b	{fc(57e4f1)A menos que... hubiera vuelto a su cuarto...}
 40	594f449b	Por aquí, Takumi.
-50	9014c9e7	{fc(57e4f1)Oí la voz, me giré y la vi\nsentada en el borde de la azotea.}
+50	9014c9e7	{fc(57e4f1)Me volví hacia la voz y vi a Hiruko sentada en el borde.}
 60	f4a72a8b	
-70	8a2981b8	{fc(57e4f1)Shizuhara miraba con atención un punto.\nY hacia donde miraba...}
-80	7af0b955	{fc(57e4f1)Estaba el Satélite Artificial, flotando en el cielo nocturno.}
-90	c7113b19	Sumino, ¿quieres volver a ver\na las personas que están allí?
-100	d0c291a5	{fc(57e4f1)Shizuhara me hizo esa pregunta de repente.}
-110	5a026980	Claro que quiero verlas, ¿qué clase de pregunta es esa?\nPeleo precisamente por eso.
-120	a0333006	Sí, es verdad. Todos peleamos en esta academia\nporque hay alguien a quien queremos reencontrar.
-130	f274fd59	Y cuando termine la lucha,\nqueremos volver con esas personas.
-140	ac1c2baf	Esa es nuestra motivación para vivir.\nO podemos decir que es la razón por la que no podemos morir. Pero...
-150	844b20e3	Darumi no la tiene.\nNo tiene un lugar al que volver.
-160	3f4f08f3	¿No tiene... un lugar al que volver?\n¿Pero ella también tiene familia, ¿no...?
-170	7775ba95	Hay casos en que el hogar no es un lugar al que se quiera volver.\nSeguramente tú ni lo imaginas.
-180	d36338b1	{fc(57e4f1)Es verdad, no lo imaginaba...}
-190	e5ebd1bf	{fc(57e4f1)Yo, que solo pensaba en volver a sentarme a la mesa\ncon mi padre, mi madre y Karua...}
-200	20e37a35	Oye, Takumi.\n¿Sabes por qué a Darumi le gustan los juegos mortales?
+70	8a2981b8	{fc(57e4f1)Miraba fijamente algo. Seguí su mirada y...}
+80	7af0b955	{fc(57e4f1)Allí estaba el Satélite Artificial, flotando en el cielo nocturno.}
+90	c7113b19	¿Anhelas volver a ver a la gente que vive allí?
+100	d0c291a5	{fc(57e4f1)Su pregunta fue repentina e inesperada.}
+110	5a026980	Claro que sí. Es por lo que lucho con tanto empeño.
+120	a0333006	Sí, tienes razón. Todos luchamos aquí porque hay personas a las que queremos volver a ver.
+130	f274fd59	Podremos volver con ellas cuando termine esta guerra.
+140	ac1c2baf	Eso es lo que nos motiva a seguir adelante. Es decir, por eso estamos tan decididos a no morir aquí. Sin embargo...
+150	844b20e3	Darumi no tiene nada de eso. No tiene adónde volver.
+160	3f4f08f3	¿Adónde? Seguro que tiene familia que la acoja...
+170	7775ba95	No todas las familias merecen que se vuelva a ellas. Aunque no espero que lo entiendas.
+180	d36338b1	{fc(57e4f1)Tenía razón. No lo entendía...}
+190	e5ebd1bf	{fc(57e4f1)¿Cómo iba a entenderlo? Mi sueño más querido era volver algún día a sentarme a la mesa con mis padres y Karua...}
+200	20e37a35	Takumi... ¿Sabes por qué a Darumi le fascinan tanto los juegos de asesinatos?
 210	095dcdf2	
-220	69bd525f	La respuesta es simple. Porque el entorno de su propio hogar\nes, en sí mismo, una situación de juego mortal.
-230	fb6a14c2	Si bajas la guardia aunque sea un poco,\nsus padres o profesores le hacen cosas terribles.
-240	ed4309c2	Aunque no haya hecho nada malo, si el adulto está de mal humor,\nigual tiene que recibir castigo.
-250	c70cb646	Ninguno de los adultos que debían protegerla\nquiso nunca tenderle la mano.
-260	7a26ccde	¿Ves? Es un juego mortal en sí.
+220	69bd525f	Es muy simple. Creció en un entorno que era en sí mismo como un juego de asesinatos.
+230	fb6a14c2	Si bajaba la guardia, aunque fuera un instante, sus padres o sus profesores abusaban de ella.
+240	ed4309c2	El castigo la esperaba a cada paso, por ninguna otra razón que el mal día que tuviera un adulto de su entorno.
+250	c70cb646	Ninguno de los adultos que debían cuidarla le tendió la mano cuando lo necesitó.
+260	7a26ccde	¿Ves? Igual que un juego de asesinatos, ¿no?
 270	242b7422	
-280	38b2e9c5	{fc(57e4f1)Algo había sospechado del mal ambiente familiar de Darumi...\npero no pensé que fuera tanto.}
-290	644b60d4	Unos parásitos a los que dejan vivir ahí y encima son violentos... Igualito que el maldito de mi hermano...
-300	631e7c86	Te entiendo... En mi casa también ignoró la intervención de las autoridades y siguió con la violencia...
-310	067b48cf	Papá... los domingos al mediodía ve las carreras de caballos y, cuando pierde, se enoja y le pega a Darumi...
-330	11f642d8	{fc(57e4f1)Así que no eran bromas...}
-340	3dc5e45c	Darumi, que vive días como de juego mortal,\nsiempre pensaba lo siguiente.
+280	38b2e9c5	{fc(57e4f1)Sospechaba que Darumi quizá no venía del mejor entorno familiar, pero no tenía idea de que fuera tan malo.}
+290	644b60d4	No me sorprende. ¿Aprovecharse de otro sin devolver nunca nada, y encima maltratarlo? Suena a mi hermano, ese desgraciado...
+300	631e7c86	Cierto. Igual que él ignoraba todos los avisos de desalojo y las órdenes de alejamiento y redoblaba la violencia...
+310	067b48cf	Papá va a ver las carreras de caballos los domingos por la tarde y me golpea cuando pierde sus apuestas...
+330	11f642d8	{fc(57e4f1)No bromeaba con eso.}
+340	3dc5e45c	Y cuando uno vive así, no puede evitar preguntarse.
 350	e8ebc823	{fc(ff635b)"¿Por qué solo yo?"}
-360	e406fd07	Bueno... es normal pensarlo.
-370	733db798	¿Por qué solo yo tengo que pasar por esto?\nSi ya es así, ojalá todos sufrieran igual.
-380	dae6c1b5	Sin distinción de edad ni sexo,\nojalá todos, todos sufrieran.
-390	ef5cc628	Ojalá a todos les arrebataran la vida con crueldad\ny su misma existencia fuera consumida como entretenimiento...
-400	1619f88c	Por eso Darumi ama los juegos mortales.\nPorque allí se extiende su mundo ideal.
-410	c8120c92	Entonces... ¿hablaba en serio?\nCuando decía que quería que empezara un juego mortal...
-420	d4932e66	Sí, muy en serio.\nLo deseaba con la vida.
-430	c034865c	{fc(57e4f1)Desear de verdad el inicio de un juego mortal...\n¿qué estado mental es ese?}
-440	01b7d8eb	Ojalá el mundo fuera un juego mortal.\nUn deseo que, en teoría, nunca se cumpliría.
-450	71a2938f	Pero... por alguna razón del destino, ese deseo\nse volvió realidad.
-460	73154dfb	¡Porque apareció él...!
-470	d0d142fb	{fc(57e4f1)El patrocinador de un juego mortal,\nque un día aparece de repente desde el cielo.}
-480	16de95fd	{fc(57e4f1)Para Darumi eso significaba el cumplimiento\nde un sueño de la infancia...}
-490	25ab438a	Ahora Darumi está en un estado de ensueño.\nPorque su sueño se cumplió.
-500	00518eab	Ella juega a sus anchas en el sueño,\ny luego...
-510	590dd646	va a morir dentro del sueño.
-520	84cc634a	¡¿M-Morir...?!\n¿Si justo se cumplió su sueño...?
-530	816e95f7	Justamente porque se cumplió.\nEn su vida futura ya no le queda nada que desear.
-540	975c03c6	Pero... la vi unas cuantas veces afuera y no me pareció\nque quisiera morir.
-550	c199dcae	Ustedes dos\nmasacraban invasores con entusiasmo...
-560	bcfeb7f6	En una situación donde si mueres se acabó,\n¿te parece que una chica que pelea con tanto arrojo tiene un estado mental normal?
+360	e406fd07	Sí... Es comprensible.
+370	733db798	"¿Por qué soy la única que sufre así? ¿Por qué no pueden sufrir todos conmigo?"
+380	dae6c1b5	"Jóvenes y viejos, hombres y mujeres... Todos deberíamos sufrir juntos."
+390	ef5cc628	"Gastar nuestras vidas... nuestras propias existencias para entretenernos a través de la miseria."
+400	1619f88c	Por eso le encantan tanto los juegos de asesinatos. Es lo más cercano a su mundo ideal que puede encontrar.
+410	c8120c92	¿O sea que hablaba muy en serio cuando decía que quería empezar un juego de asesinatos?
+420	d4932e66	En serio y hasta la muerte. Habría dado la vida por ello.
+430	c034865c	{fc(57e4f1)¿Qué clase de mentalidad podía llevar a alguien a desear con tanta desesperación que empezara un juego de asesinatos?}
+440	01b7d8eb	Su deseo de ver al mundo entero convertido en un juego de asesinatos jamás iba a cumplirse en circunstancias normales.
+450	71a2938f	Pero, como quiso el destino... ese deseo de algún modo se cumplió de verdad.
+460	73154dfb	¡Cuando apareció el patrocinador!
+470	d0d142fb	{fc(57e4f1)El patrocinador del juego de asesinatos apareció de repente en el aire un día.}
+480	16de95fd	{fc(57e4f1)Darumi debió de sentir que su sueño de infancia por fin se hacía realidad.}
+490	25ab438a	Ahora está en las nubes, viviendo un sueño que antes parecía imposible de alcanzar.
+500	00518eab	Y piensa morir en él...
+510	590dd646	Después de jugar hasta saciarse.
+520	84cc634a	¡¿Morir?! ¿Aun cuando su sueño por fin se hizo realidad?
+530	816e95f7	Exacto. Ahora que su sueño se ha cumplido, ya no tiene nada por lo que vivir.
+540	975c03c6	Aunque no parecía alguien que quisiera morir, en las pocas veces que la vi fuera de la academia.
+550	c199dcae	De hecho, ustedes dos exterminaban a los invasores de la escuela con bastante entusiasmo...
+560	bcfeb7f6	Alguien que peleaba con tal desenfreno en una situación sin vuelta atrás de la muerte no puede estar precisamente cuerdo, ¿no crees?
 570	f4a72a8b	
-580	d6be359a	{fc(57e4f1)Es verdad, quien tiene una sensibilidad }{fc(ff635b)"normal"}{fc(57e4f1)\nactuaría con más cautela.}
-590	12c66dfc	Si yo no estoy a su lado vigilándola, enseguida\nse lanza contra una horda de invasores.
-600	21d9ecc9	Si no la llevo a la fuerza,\nseguiría peleando para siempre.
-610	15fb0489	Aunque la lleve a la academia, enseguida se va tambaleándose a cazar.\nCuesta un mundo detenerla.
-620	360e7575	Es un suicidio lento...\nno puedo apartar la vista ni un segundo.
-630	659b3694	¿Será que... tu insistencia en llevarla mañana\nes por eso...?
-640	5a17a4b4	...Es simplemente porque no quiero dejar a Darumi sola.
-650	1976f9bd	Un rato todavía puedo arreglármelo, pero...\nla lucha de mañana será, por poco que se calcule, muy larga.
-660	01377922	Tengo que llevarla...\n¡Si no, ella morirá!
-670	311a95ea	Si muere aunque sea una sola persona, todo esto no sirve...
+580	d6be359a	{fc(57e4f1)Tenía razón. Alguien con una sensibilidad }{fc(ff635b)"normal"}{fc(57e4f1) sería mucho más cauteloso con esto.}
+590	12c66dfc	Si no la vigilo de cerca, se lanzará de cabeza contra el mayor grupo de invasores que encuentre.
+600	21d9ecc9	Si no la obligo a volver conmigo siempre, seguirá peleando incluso más allá de sus límites.
+610	15fb0489	Incluso después de volver, siempre quiere salir de nuevo enseguida para continuar la caza. No es fácil para mí estar tirando de ella de vuelta.
+620	360e7575	Básicamente se está suicidando poco a poco... No puedo quitarle los ojos de encima ni un minuto.
+630	659b3694	¿Por eso insistes tanto en llevarla a la operación de mañana?
+640	5a17a4b4	Es que... no quiero dejarla a su libre albedrío.
+650	1976f9bd	Un rato corto no importa, pero tengo la sensación de que mañana podríamos tardar...
+660	01377922	Tengo que llevarla conmigo... si no quiero volver y encontrar a una Darumi muerta.
+670	311a95ea	Todo este plan sería inútil si muriera siquiera una persona...
 680	f4a72a8b	
-690	2567d044	{fc(57e4f1)Me quedé sin palabras.}
-700	74705fb0	{fc(57e4f1)Hiruko va en serio...\nde verdad quiere salvar la vida de todos.}
-710	d0e7d76f	{fc(57e4f1)Es verdad... ahora que lo pienso,\nya era así en el mundo anterior.}
-720	2249d457	...Mi objetivo es ganar esta guerra. Cueste lo que cueste, con los medios que sean.
-730	11395784	Eso sí, esa victoria...
-740	21d68cad	incluye también {fc(ff635b)"sobrevivir todos"}.
-750	7b83d291	{fc(57e4f1)No dejar caer a nadie. Si alguien está al borde de la muerte,\ntenderle la mano arriesgando la vida.}
-760	0c0930db	{fc(57e4f1)A Darumi y también a mí...\nShizuhara nos salvó.}
-770	e16d0645	¡¡...!!
-780	74880cb8	{fc(57e4f1)En cuanto conocí la determinación de Hiruko,\nun escalofrío me recorrió el cuerpo.}
-790	318ff9aa	{fc(57e4f1)¿Qué es esta...?\n¡Es una heroína de verdad...!}
-800	c15b9078	Perdón con Darumi, que está feliz con el juego,\npero yo quiero terminar este juego cuanto antes.
-810	0a73e155	Hay que acabar con ese falso sueño pronto...\no Darumi no despertará.
-820	f9646078	Por eso te lo pido, Takumi...\n¿me ayudarás mañana?
-830	b4be870a	¡Claro que sí...!
-840	22f12d4c	{fc(57e4f1)Con una heroína tan genial pidiéndome ayuda,\nno era tan frío como para negarme.}
-850	d92b01cb	A Yugamu lo convenzo yo. Si le cuento la situación,\nseguro aceptará que Amemiya venga.
-860	c700517e	Mañana salgamos los cuatro a la ciudad.\n¡Y detengamos la Caza de Invasores!
-870	0a251ce3	{fc(57e4f1)Shizuhara y yo extendimos la mano a la vez\ny nos dimos un firme apretón.}
-880	0419924d	{fc(57e4f1)Quiero proteger la amable determinación de Hiruko.\nSolo pensaba en eso.}
-890	8ba64d8a	{fc(57e4f1)Con seguridad, derrotaremos al patrocinador... y luego.}
-900	c0af9b9d	¡Apuntaremos todos a un día 100 inmejorable!
-910	7b2501db	{fc(57e4f1)Pero... quizás nosotros éramos ingenuos.}
-920	1df85b60	{fc(57e4f1)Quizás no deberíamos haber llevado amabilidad\nal campo de batalla.}
+690	2567d044	{fc(57e4f1)Me quedé completamente atónito.}
+700	74705fb0	{fc(57e4f1)Hiruko hablaba en serio sobre salvar la vida de todos.}
+710	d0e7d76f	{fc(57e4f1)Pero Hiruko siempre había sido así, incluso la vez anterior.}
+720	2249d457	Mi objetivo principal aquí es ganar la guerra. No hay nada que no haga por la victoria.
+730	11395784	Pero no basta con que derrotemos a los invasores.
+740	21d68cad	{fc(ff635b)Todos tenemos que sobrevivir} también. Eso es lo que significa para mí "victoria".
+750	7b83d291	{fc(57e4f1)Se aseguraría de que nadie se quedara atrás, arrebatándolos de las fauces de la muerte aunque eso implicara ocupar su lugar.}
+760	0c0930db	{fc(57e4f1)Su tenacidad en este aspecto me había salvado a mí... y ahora estaba salvando a Darumi.}
+770	e16d0645	¡...!
+780	74880cb8	{fc(57e4f1)El cuerpo me tembló sin querer al comprender la hondura de la determinación de Hiruko.}
+790	318ff9aa	{fc(57e4f1)Tenía que admitirlo... Ella era la verdadera heroína.}
+800	c15b9078	Siento lástima por Darumi, pero este juego tiene que terminar, cuanto antes mejor.
+810	0a73e155	Nunca recobrará la razón a menos que antes despierte de este sueño falso.
+820	f9646078	Te lo ruego, Takumi... Ayúdame mañana.
+830	b4be870a	Sí, por supuesto.
+840	22f12d4c	{fc(57e4f1)¿Cómo iba a rechazar la petición de esta increíble heroína que tenía delante?}
+850	d92b01cb	Convenceré también a Yugamu para que ayude. No creo que nos diga que no cuando le explique la situación.
+860	c700517e	¡Los cuatro arrasaremos juntos la ciudad mañana y pondremos fin a la Caza de Invasores!
+870	0a251ce3	{fc(57e4f1)Los dos extendimos una mano de forma espontánea e intercambiamos un apretón firme y solemne.}
+880	0419924d	{fc(57e4f1)Lo único que pasaba por mi mente en ese momento era qué podía hacer para proteger la bondadosa determinación de Hiruko.}
+890	8ba64d8a	{fc(57e4f1)Derrotaríamos juntos al patrocinador y entonces...}
+900	c0af9b9d	¡Lleguemos todos juntos al mejor Día 100!
+910	7b2501db	{fc(57e4f1)Pero yo era demasiado ingenuo.}
+920	1df85b60	{fc(57e4f1)La bondad no tenía cabida en el campo de batalla.}
 930	31390f0a	{fc(57e4f1)Porque...}
-940	a4f7888a	{fc(57e4f1)Por esa amabilidad, Hiruko...}
+940	a4f7888a	{fc(57e4f1)Fue la bondad de Hiruko lo que la llevó a acabar... así.}
