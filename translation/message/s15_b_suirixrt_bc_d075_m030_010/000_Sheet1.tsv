@@ -30,7 +30,7 @@ id	huella_jp	es
 290	60397beb	X dijo que te haría estallar si les hablabas de X a los demás, ¿verdad?
 300	746263bb	Sí...
 310	08ae974e	Y eso es lo que estás haciendo ahora... ¿Te sientes bien?
-320	02718562	¿Por qué X todavía no te ha hecho estallar, en efecto?
+320	02718562	Cierto, ¿por qué X todavía no te ha hecho estallar?
 330	6fc29321	Creo que podría hacerlo, si quisiera.
 340	4ed125cb	El dispositivo es lo bastante pequeño para caber en la palma de la mano. Podría esconderse en una manga, en el pecho o en la cintura y nadie lo notaría.
 350	88c061e8	Sería fácil simplemente presionar el botón en el momento oportuno.
@@ -43,7 +43,7 @@ id	huella_jp	es
 420	38525905	Eso hace que el diámetro de la explosión sea el largo de una piscina olímpica...
 430	c1ec38bf	¡Básicamente el largo de todo este Patio!
 440	06e59fba	Ajá... Por eso X no aprieta el botón...
-450	e0bde86b	¿Porque también quedaría atrapado en la explosión?
+450	e0bde86b	¿Porque la explosión también afectaría a X?
 460	bf8952b8	Y tampoco es que pueda simplemente huir.
 470	885f8d04	¡Tomar una acción así equivale a admitir que es X!
 480	f60ca800	Por eso X tiene las manos atadas, ¿eh?
@@ -72,17 +72,17 @@ id	huella_jp	es
 710	986b0067	¡¿Quién es X?!
 720	5de2526b	
 730	a44dbbe9	Muy bien...
-740	50d0cca4	Se lo diré.
+740	50d0cca4	Se los diré.
 750	f820ec01	X es...
 760	ce44ce22	La verdadera identidad de X es...
 770	e3e256ef	{fc(57e4f1)De repente, me invadió un presentimiento funesto. Mi mente se puso a trabajar a toda velocidad mientras repasaba todas las posibilidades.}
-780	f0607490	{fc(57e4f1)¿Y si X de verdad apretaba el botón ahora?}
-790	978e8c4b	{fc(57e4f1)Todos pensaban que X no lo haría porque eso significaría volarse a sí mismo también.}
+780	f0607490	{fc(57e4f1)¿Y si X de verdad apretara el botón ahora?}
+790	978e8c4b	{fc(57e4f1)Todos pensaban que X no lo haría porque eso significaría volarse también.}
 800	0dae2708	{fc(57e4f1)Pero si su identidad quedaba revelada, sería el fin de todos modos.}
-810	1a839491	{fc(57e4f1)Incluso podría preferir morir con todos en la explosión a que lo atraparan y encarcelaran.}
+810	1a839491	{fc(57e4f1)Incluso podría preferir morir con todos en la explosión antes que acabar entre rejas.}
 820	c4f07a68	{fc(57e4f1)Pero en ese caso, ¿por qué no apretaba el botón ya, antes de que Eva pudiera revelar su identidad?}
 830	c2ab3736	{fc(57e4f1)¿Contaba con la posibilidad de que Eva dijera un nombre equivocado?}
-840	036430b2	{fc(57e4f1)Si lo hacía, X podía quedarse sentado viendo el espectáculo sin hacer nada.}
+840	036430b2	{fc(57e4f1)Si lo hacía, X podía quedarse de brazos cruzados viendo el espectáculo sin hacer nada.}
 850	02ddea3a	{fc(57e4f1)Y si de verdad decía el nombre real de X... siempre podía apretar el botón entonces. Seguramente por eso X adoptaba una actitud de esperar y ver.}
 860	fefea7e1	{fc(57e4f1)Podía ser peligroso que Eva dijera ese nombre en voz alta. Aunque acertara, todos morirían igual.}
 870	8e02f3b0	{fc(57e4f1)Aun así... quizá estaba pensando demasiado. X podía estar dudando simplemente porque tenía miedo de morir.}

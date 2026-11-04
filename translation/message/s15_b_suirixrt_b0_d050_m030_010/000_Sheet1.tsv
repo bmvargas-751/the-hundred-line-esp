@@ -14,7 +14,7 @@ id	huella_jp	es
 130	a8787f22	Cuando abrí los ojos, X estaba allí, justo frente a mí...
 140	fca4b327	¡¿No cerraste la puerta con llave?!
 150	33b8161b	¡Sí la cerré!
-160	c9f00f5b	Creo que X ya estaba escondido dentro antes de que yo entrara.
+160	c9f00f5b	Creo que X ya se había escondido dentro antes de que yo entrara.
 170	10406bf7	Debajo de la cama o algo así.
 180	37f0eed9	¿Qué dijo X?
 190	3cf212ce	X dijo...
@@ -78,9 +78,9 @@ id	huella_jp	es
 770	ca66d20d	Porque sé con certeza que yo no los recuperé...
 780	14a8cbe7	{fc(57e4f1)Terminado su relato, Shouma dejó caer los hombros y bajó la cabeza profundamente.}
 790	c776cbc3	{fc(57e4f1)El silencio que siguió se prolongó hasta que por fin Hiruko habló.}
-800	352220bd	Solo tengo una última pregunta, Shouma. ¿Le suenan de algo las palabras {fc(ff635b)espalda o corazón}?
+800	352220bd	Solo tengo una última pregunta, Shouma. ¿Te suenan de algo las palabras {fc(ff635b)espalda o corazón}?
 810	fbe0b92c	¿{fc(ff635b)Espalda o corazón}? No, no tengo idea...
-820	b4885ed2	Gracias. Su reacción fue la respuesta que necesitaba. Supongo que eso es todo, ¿verdad, Takumi?
+820	b4885ed2	Gracias. Tu reacción fue la respuesta que necesitaba. Supongo que eso es todo, ¿verdad, Takumi?
 830	264327c2	Sí. X debe de haberlo hecho, si Shouma no estuvo involucrado en ese asunto en particular.
 840	99dc03aa	{fc(57e4f1)Todos nos miraban confundidos.}
 850	6a77844d	{fc(57e4f1)Probablemente porque nadie sabía que alguien había robado los corazones de los cadáveres.}
@@ -112,7 +112,7 @@ id	huella_jp	es
 1110	a4695945	{fc(57e4f1)Shouma se había desmayado y echaba espuma por la boca. Yugamu se acercó de un salto y lo revisó rápidamente.}
 1120	fb89baae	Está bien. Solo perdió el conocimiento.
 1130	d08f40eb	Maldición... ¡Maldición...! *sollozo*
-1140	a0c7e108	Hermana... Mi querida hermana... ¡¡¡MI QUERIDA HERMANA!!!
+1140	a0c7e108	Querida hermana... Mi querida hermana... ¡¡¡MI QUERIDA HERMANA!!!
 1150	d14f474d	{fc(57e4f1)Tras ese desgarrador estallido, Ima simplemente se desplomó allí mismo. Nozomi y Tsubasa corrieron hacia él y empezaron a consolarlo.}
 1160	e7682d84	{fc(57e4f1)Los demás no sabían qué hacer y se quedaron mirando a Ima en silencio, clavados en el sitio.}
 1170	02c1c536	{fc(57e4f1)El sonido de los lamentos de dolor de Ima resonó, frío e interminable, por las paredes del edificio.}
