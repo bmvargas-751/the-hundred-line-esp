@@ -1,21 +1,21 @@
 id	huella_jp	es
-10	d12d3131	{fc(57e4f1)Primero teníamos que esquivar este ataque...}
+10	d12d3131	{fc(57e4f1)¡Primero tenemos que esquivar este ataque...!}
 20	a40a5b09	¡Nozomi, atrás!
 30	8fa01a20	¡¿T-Takumi?!
 40	52e0e1fd	{fc(57e4f1)Me armé de valor y me preparé para enfrentar al asesino.}
-50	bee4815a	{fc(57e4f1)Con las manos desnudas contra una motosierra, las probabilidades estaban en mi contra, pero tenía que intentarlo.}
+50	bee4815a	{fc(57e4f1)Con las manos desnudas contra una sierra eléctrica, las probabilidades estaban en mi contra, pero tenía que intentarlo.}
 60	9ee40ebd	
 70	fd213ada	¡Haaah!
 80	c0456125	{fc(57e4f1)Le di un puñetazo en la cara al asesino con el puño bien apretado.}
 90	b396cc56	¡...!
-100	a6e049be	{fc(57e4f1)El asesino retrocedió un instante, pero se recuperó rápido y me lanzó un tajo con la motosierra.}
+100	a6e049be	{fc(57e4f1)El asesino retrocedió un instante, pero se recuperó rápido y me lanzó un tajo con la sierra eléctrica.}
 110	ffe428d9	¡Cuidado, Takumi!
 120	9ee40ebd	
 130	91160109	¡Agh!
 140	20cee529	{fc(57e4f1)Esquivé el ataque en el último segundo.}
-150	2b24f777	{fc(57e4f1)La motosierra golpeó la pared y, por el impulso, le hizo un corte profundo.}
+150	2b24f777	{fc(57e4f1)La sierra eléctrica golpeó la pared y, por el impulso, le hizo un corte profundo.}
 160	84a33238	¡Quédate en el suelo...!
-170	2f486d9b	{fc(57e4f1)Contraataqué de inmediato, pero con la motosierra de por medio mis puñetazos no daban bien.}
+170	2f486d9b	{fc(57e4f1)Contraataqué de inmediato, pero con la sierra eléctrica de por medio mis puñetazos no daban bien.}
 180	9ee40ebd	
 190	e03ff419	¡Maldición!
 200	c97106f3	{fc(57e4f1)Tras forcejear un rato con el asesino, quedé arrinconado contra la ventana.}
@@ -29,7 +29,7 @@ id	huella_jp	es
 280	16ab7270	¡Atrás, Nozomi!
 290	8f3cd4e7	{fc(57e4f1)Intenté ponerme de pie y evitar que Nozomi se acercara...}
 300	9ee40ebd	
-310	cce5a41e	{fc(57e4f1)Pero el asesino fue más rápido y blandió la motosierra hacia mí antes de que pudiera hacer algo.}
+310	cce5a41e	{fc(57e4f1)Pero el asesino fue más rápido y blandió la sierra eléctrica hacia mí antes de que pudiera hacer algo.}
 320	b396cc56	¡...!
 330	a146e342	¡¡NOOO!!
 340	23572a84	{fc(57e4f1)¡¿Este es el fin?!}
@@ -46,7 +46,7 @@ id	huella_jp	es
 450	be3abdcf	{fc(57e4f1)Al instante siguiente, pateó al asesino con todas sus fuerzas.}
 460	8252131f	¡¿...?!
 470	e30ff6b4	{fc(57e4f1)El asesino salió despedido a través de la ventana y cayó rodando afuera.}
-480	a21c0219	{fc(57e4f1)La motosierra giró por el aire de la noche lluviosa y cayó lentamente.}
+480	a21c0219	{fc(57e4f1)La sierra eléctrica giró por el aire de la noche lluviosa y cayó lentamente.}
 490	ebdd99ba	{fc(57e4f1)Poco después...}
 500	cc072d20	{fc(57e4f1)Oímos el sonido sordo y siniestro de algo blando que se desgarraba de lado a lado.}
 510	174df69a	
