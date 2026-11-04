@@ -33,8 +33,8 @@ TERMS = [
     (r"Infuser", r"[Ii]nfusor|espada de hemoánima", "Infuser"),
     (r"Paragon", r"[Pp]arang[óo]n|[Ee]ncarnaci[óo]n|\b[Ll]a Paragon", "el Paragon de X"),
     (r"Supreme Commander", r"Gran General", "Comandante Suprema"),
-    (r"Sister Dearest", r"\b[Hh]ermanita\b|[Hh]ermana querida|\bquerida hermana", "queridísima hermana"),
-    (r"Brother Dearest", r"\b[Hh]ermanito\b|[Hh]ermano querido|\bquerido hermano", "queridísimo hermano"),
+    (r"Sister Dearest", r"\b[Hh]ermanita\b|[Hh]ermana querida|queridísima hermana", "querida hermana"),
+    (r"Brother Dearest", r"\b[Hh]ermanito\b|[Hh]ermano querido|queridísimo hermano", "querido hermano"),
     (r"[Ss]ponsor", r"[Oo]rganizador|Alianza VS", "patrocinador / Alianza Antipatrocinador"),
 ]
 
