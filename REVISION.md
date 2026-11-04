@@ -29,18 +29,17 @@ Se cambia solo con un motivo real; lo que ya está bien se deja. El método comp
 
 La **lectura completa** cuenta las líneas leídas una por una con las siete pasadas. El resto pasó por **barridos de patrones** (errores que se repiten) y **muestras**, que atrapan los errores frecuentes pero no los de una sola línea.
 
-| Sección | Líneas | Lectura completa | Cobertura del resto | Líneas corregidas |
-|---|---:|---:|---|---:|
-| Primera partida (`r00`) | 18.294 | 0% | patrones y muestras | 23 |
-| Ruta `s00` | 14.835 | 100% | — | ~706 |
-| Rutas `s01` a `s03` | 2.226 | 100% | — | 47 |
-| Rutas `s04` a `s11` | 30.571 | 100% | — | ~1.020 |
-| Rutas `s12` a `s14` | 40.287 | 100% | — | — |
-| Ruta `s15` | 15.579 | 100% (retraducida desde el inglés y corregida) | — | — |
-| Eventos y charlas | 3.848 | ~47% | patrones | 18 |
-| **Total** | **125.640** | **~84%** | | |
+| Sección | Líneas | Lectura completa | Cobertura del resto |
+|---|---:|---:|---|
+| Primera partida (`r00`) | 18.294 | 0% | patrones y muestras |
+| Ruta `s00` | 14.835 | 100% | — |
+| Rutas `s01` a `s03` | 2.226 | 100% | — |
+| Rutas `s04` a `s11` | 30.571 | 100% | — |
+| Rutas `s12` a `s14` | 40.287 | 100% | — |
+| Ruta `s15` | 15.579 | 100% (retraducida desde el inglés y corregida) | — |
+| Eventos y charlas | 3.848 | ~47% | patrones |
+| **Total** | **125.640** | **~84%** | |
 
-<!-- Cifras a 2026-11-04. "Líneas corregidas" = filas cambiadas frente a main. -->
 
 ### Barridos globales ya hechos
 
