@@ -1,53 +1,53 @@
 id	huella_jp	es
-20	fcd5bdde	Ñam, ñam... Atención, tropa, hora de dormir...
-30	7ab1d397	No se sabe cuándo van a atacar los invasores, así que descansen bien mientras puedan...
-40	b588a67e	Bueno... buenas noches...
-50	964a945e	{fc(57e4f1)Cuando me di cuenta, ya era de noche.}
+20	fcd5bdde	*Bostezo* Descansen, soldados. Es hora de irse a la cama.
+30	7ab1d397	Nunca se sabe cuándo atacarán los invasores, así que descansen mientras puedan.
+40	b588a67e	Bueno, entonces, buenas noches...
+50	964a945e	{fc(57e4f1)De pronto me di cuenta de que ya era de noche.}
 60	f4a72a8b	
-70	e1e212ae	{fc(57e4f1)Habría querido dormir y descansar el cuerpo, pero...\nlos malos recuerdos que me rondaban la cabeza me quitaron todo el sueño.}
-80	c513bfa4	Devuélvela... ¡devuélveme a doña Kurara...!
-90	538c74eb	Lo siento, pero... tienes que participar en este juego tú solo.
-100	0a984ef8	Lo siento, pero no puedo cumplir tus expectativas.
-110	aabb375c	Es como si vivir en sí fuera un castigo...
-120	b5b51237	{fc(57e4f1)Que todos me odiaran me dolía más\nque el juego mortal o las batallas defensivas.}
-130	31e1e723	Cómo era de bueno el mundo anterior...
-140	21daf3d4	{fc(57e4f1)No era armonioso ni mucho menos,\npero todos eran mis }{fc(ff635b)"compañeros"}{fc(57e4f1).}
-150	99e26358	{fc(57e4f1)Hicimos barbacoas todos juntos...}
-160	5e87c5c8	{fc(57e4f1)Recreamos los puestos de un festival...}
-170	630187e5	{fc(57e4f1)A veces nos peleábamos entre compañeros,\npero al final nos reconciliábamos y el vínculo se hacía más fuerte.}
-180	0451bdb2	¿Qué tengo que hacer para volver\na ser compañero de ellos...?
-190	116eb595	¿Qué hago...?
-200	067a0452	{fc(57e4f1)Y justo cuando me atormentaba solo con eso...}
-220	ae75a85c	¿Yugamu...?
-230	c32ea4ab	{fc(57e4f1)Quizás venía a reunirse conmigo\npara planear la caza de mañana.}
-240	9635e52e	{fc(57e4f1)Sinceramente, no quería hablar con nadie... pero\nno podía echar a mi único compañero.}
-250	7f480141	{fc(57e4f1)Me levanté con pesadez y abrí la puerta del cuarto.\nY quien estaba allí era...}
-260	555bf363	¡S-Hiruko...!
-270	e28ecd50	Qué lento fue en salir.\nCasi te derribo la puerta de una patada.
-280	5edf4016	¿P-Por qué estás en mi cuarto...?\n¿Y cómo es que puedes venir aquí?
-290	2901192c	Si te juntas con un ave de mal agüero como yo,\nno te traerá nada bueno...
-300	62088d19	...Veo que te estás volviendo muy cobarde.
-310	bd66bb91	Es como si te hubieras vuelto un poco raro,\nde tanto que todos te odian.
-320	5a78069a	Tú también eres una de las que me odian, ¿no...?
-330	abe88407	¿Eso parece?
-340	5bb5d7da	Sí... porque tú tampoco\nquisiste formar equipo conmigo.
-350	a35a5571	¿Sabes lo que me pasó después de que me abandonaste?
-360	f738c1fd	Me persiguieron invasores de bajo nivel,\nme rodearon...
-370	3093e132	¡Casi me matan lentamente...!
-380	27ca725f	Si tú... ¡no me hubieras echado entonces,\nesto no habría pasado...!
-390	d0809336	{fc(57e4f1)Que yo estuviera a punto de morir no era culpa de Hiruko.}
-400	5c6306c9	{fc(57e4f1)Lo sabía bien en la cabeza... pero\nlas palabras, una vez que cogen impulso, no se detienen tan fácil.}
+70	e1e212ae	{fc(57e4f1)Sabía que debía descansar, pero los malos recuerdos seguían aflorando en mi mente y me devolvían a la vigilia.}
+80	c513bfa4	Devuélvala... Devuélvame a Lady Kurara...
+90	538c74eb	Perdón, pero estás solo.
+100	0a984ef8	Me temo que debo decepcionarte.
+110	aabb375c	Como si me castigaran solo por estar vivo...
+120	b5b51237	{fc(57e4f1)El dolor de ser despreciado era más insoportable que cualquier cosa que el juego de asesinatos o las batallas defensivas pudieran infligirme.}
+130	31e1e723	En los primeros 100 días...
+140	21daf3d4	{fc(57e4f1)No fue un final feliz de ningún modo, pero al menos todos eran mis }{fc(ff635b)amigos}{fc(57e4f1).}
+150	99e26358	{fc(57e4f1)Hicimos una barbacoa...}
+160	5e87c5c8	{fc(57e4f1)Montamos puestos de festival...}
+170	630187e5	{fc(57e4f1)A veces nos irritábamos unos con otros, pero siempre hacíamos las paces al final. Nuestros lazos se volvieron irrompibles.}
+180	0451bdb2	¿Cómo reparo nuestra amistad?
+190	116eb595	¿Cómo...?
+200	067a0452	{fc(57e4f1)Mientras me atormentaba con este asunto...}
+220	ae75a85c	¿Será Yugamu?
+230	c32ea4ab	{fc(57e4f1)Quizá quería hablar de nuestra estrategia para la caza de mañana.}
+240	9635e52e	{fc(57e4f1)Aunque la verdad no tenía ganas de hablar, no podía simplemente echar al único amigo que tenía ahora.}
+250	7f480141	{fc(57e4f1)Me levanté despacio y caminé hasta la puerta. Al abrirla, vi...}
+260	555bf363	¡¿H-Hiruko?!
+270	e28ecd50	Bien. Estaba a punto de tirar la puerta abajo...
+280	5edf4016	¿Q-Qué haces aquí? O mejor dicho... ¿Seguro que quieres que te vean aquí?
+290	2901192c	Estoy maldito... Nada bueno saldrá de relacionarse conmigo.
+300	62088d19	Vaya, hoy estás sumido en la autocompasión.
+310	bd66bb91	¿Por fin perdiste la cabeza tras caer en desgracia ante todos los demás?
+320	5a78069a	Incluida tú, ¿no?
+330	abe88407	¿Tú crees?
+340	5bb5d7da	Sí, lo creo... No quisiste formar equipo conmigo, como todos los demás.
+350	a35a5571	Pasé por un infierno después de que me dejaras en la estacada.
+360	f738c1fd	Esos invasores me persiguieron y me rodearon... No tenía salida.
+370	3093e132	¡Casi me matan!
+380	27ca725f	¡Eso no habría pasado si no me hubieras rechazado!
+390	d0809336	{fc(57e4f1)No era culpa de Hiruko que casi me hubieran matado.}
+400	5c6306c9	{fc(57e4f1)Lo sabía en la cabeza, pero mi corazón se negó a detener esas palabras airadas que salían de mi boca.}
 410	f4a72a8b	
-420	5621787e	{fc(57e4f1)Aunque le descargué una ira injusta,\nHiruko no me respondió nada.}
-430	b96147aa	Sí... yo también pienso que la actitud que tuve contigo ayer\nno fue muy buena.
-440	cd81b8a5	Debí acompañarte más, a ti, que estabas hundido porque todos te rechazaban.\nPor eso...
-450	95ece20a	te traje una prenda de reconciliación.
-460	a98335c9	{fc(57e4f1)Shizuhara me extendió una caja\nque llevaba bajo el brazo.}
-470	480f1f2d	¿Una prenda... de reconciliación?
-480	4a191b04	Sí, ábrela.\nSeguro que te gustará.
+420	5621787e	{fc(57e4f1)Hiruko no dijo nada al principio ante mi acusación irracional.}
+430	b96147aa	Tienes razón. Podría haber manejado mejor lo de ayer.
+440	cd81b8a5	Ya estabas destrozado por las palabras y actos crueles de todos. Debí ser más considerada.
+450	95ece20a	Así que aquí tienes un símbolo de reconciliación de mi parte.
+460	a98335c9	{fc(57e4f1)Sacó una caja que llevaba bajo el brazo y me la entregó.}
+470	480f1f2d	¿Símbolo de... reconciliación?
+480	4a191b04	Ábrela. Creo que te gustará lo que veas.
 490	f4a72a8b	
-500	b97d16f1	{fc(57e4f1)Recibí la caja y levanté la tapa con cautela.\nDentro había...}
-510	0112b3b2	¡¿Qué...?!
+500	b97d16f1	{fc(57e4f1)Tomé la caja y levanté la tapa con cuidado. Dentro había...}
+510	0112b3b2	¡¿Qué?!
 520	8e0a7fe5	{fc(57e4f1)El cadáver de una abeja gigante.}
 530	dbf337bd	{fc(57e4f1)¿Una broma de muy mal gusto...?\nNo, esta abeja es...}
 540	feee96bd	¡Esta es una abeja del patrocinador...!\n¡¿La mataste?!
