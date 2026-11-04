@@ -1,41 +1,41 @@
 id	huella_jp	es
-10	112fce48	¡¿Qué?!
-20	b1bc7669	{fc(57e4f1)La superficie de la cápsula de escape\nestaba llena de agujeros.}
-30	34bb3096	¿Qué le pasó...?\n¡¿La acribillaron con una ametralladora?!
-40	b7d3cd8b	Uy, reacción de quien lo ve por primera vez...\nde verdad no tienes memoria.
-50	034904fd	¡Dímelo ya...!\n¡¿Quién dejó así la cápsula de escape?!
-60	3f140f4e	No, nadie la dejó así.\nFueron las bacterias...
-70	82d4e953	¿Bacterias...? Son esos seres vivos diminutos, ¿no?\n¿Ellas dejaron tan destrozada la cápsula de escape?
-80	103fe328	Parece que la corrosión la causa la {fc(ff635b)"bacteria subatómica"}.
-90	66036c08	Es tan pequeña, literalmente a nivel subatómico, que jamás se ve a simple vista...
-100	dee2be1f	En todo caso, se multiplica comiendo metal.\nAh, "comer" no es exacto...
-110	cc37a830	Para ser estricta, usa la energía de oxidación del metal\npara multiplicarse.
-120	331e7aa3	Aunque se llama bacteria, en realidad no es un ser vivo, sino una existencia cuántica...
-130	11fe3c1c	Es un factor fenomenológico que surge de repente en el espacio, sin aviso... y no se sabe más.
-140	6d36f1b4	¿No se puede reparar...?
-150	22718f90	Repararla ahora no sirve.\nPrimero hay que exterminar las bacterias subatómicas...
-160	fd2dfcd5	¿Cómo?
-170	81c1c0ef	{fc(57e4f1)Cuando se lo pregunté, Tsubasa sacó una foto...}
-180	95e67d5d	Lo necesario es esto: el {fc(ff635b)"QB Liquid"}.\nSolo este líquido puede aniquilar las bacterias subatómicas.
-190	940ede39	Pero no sé dónde está...
-200	03fa59c7	¿Y la sala de biofármacos?
-210	b2a90469	La busqué, pero no estaba.\nEs un líquido rarísimo; no creo que lo haya en esta academia...
-220	6555ff16	Quizás la única forma sea salir a explorar y encontrarlo...
-230	c11b79aa	Encontrar un líquido raro mientras sobrevivimos al juego...\nparece una valla muy alta.
-240	9ad3194f	{fc(57e4f1)Tarde o temprano habrá que reparar la cápsula sin falta,\npero activarla pronto es, hay que decirlo, muy difícil...}
-250	809115ab	¿Entendiste la situación?
-260	095bb3cc	Entonces, teniendo en cuenta esta dura realidad,\nquiero que Sumino decida de nuevo la política futura.
-270	e0643fce	Tienes dos opciones.
-280	45e274dc	Seguir con la Caza de Invasores o derrotar al patrocinador.\nVamos, ¿cuál eliges?
+10	112fce48	¡¿Eh?!
+20	b1bc7669	{fc(57e4f1)Cada centímetro de la superficie de la cápsula de escape estaba plagado de agujeros.}
+30	34bb3096	¿Qué pasó aquí...? ¡¿La acribillaron con una ametralladora o algo así?!
+40	b7d3cd8b	Vaya, exactamente la misma reacción que la última vez... De verdad perdiste la memoria, ¿no?
+50	034904fd	¡Eso no importa, dime qué está pasando aquí! ¡¿Quién hizo esto?!
+60	3f140f4e	No es tanto un "quién" como un "qué". Realmente no podemos culpar a nadie más que a las bacterias.
+70	82d4e953	¿Bacterias? ¿Seres microscópicos? Pero la cápsula no es orgánica; ¿cómo podrían destruir metal sólido?
+80	103fe328	Déjame explicarte. La corrosión la causa algo llamado {fc(ff635b)bacteria de partículas}.
+90	66036c08	Erosiona la materia a nivel molecular, así que es invisible a simple vista hasta que el daño empieza a notarse.
+100	dee2be1f	La bacteria se come el metal para hacerse más fuerte... En realidad, no sé si "comer" es la palabra correcta.
+110	cc37a830	Técnicamente, es más bien que la energía liberada durante el proceso de oxidación permite que sus células se reproduzcan.
+120	331e7aa3	No te dejes engañar por lo de "bacteria" en el nombre, en realidad no está viva, es solo una sustancia química.
+130	11fe3c1c	Dicho eso, hablamos de algo que aparece al azar en un espacio de nivel cuántico, así que no sabemos mucho al respecto...
+140	6d36f1b4	¿Hay alguna posibilidad de reparar la cápsula?
+150	22718f90	Tal como está ahora, no. Tendría que eliminar primero la bacteria de partículas...
+160	fd2dfcd5	¿Es posible?
+170	81c1c0ef	{fc(57e4f1)Tsubasa sacó una fotografía y me la mostró.}
+180	95e67d5d	Sí, pero necesitaré un poco de esto. {fc(ff635b)QB Liquid}. Es lo único que puede eliminar la bacteria.
+190	940ede39	Aunque no tengo idea de dónde encontrarlo...
+200	03fa59c7	¿Y el laboratorio biológico?
+210	b2a90469	Ya busqué ahí. Es un material raro; no creo que haya ni un solo frasco en toda la escuela.
+220	6555ff16	A estas alturas, lo único que podemos hacer es buscar en las ruinas de afuera y esperar tener suerte...
+230	c11b79aa	Así que buscamos un material raro mientras intentamos no quedarnos atrás en la clasificación... Tengo la sensación de que no será fácil.
+240	9ad3194f	{fc(57e4f1)Tarde o temprano tendremos que reparar la cápsula, pero activarla y salir de aquí antes de tiempo parece casi imposible...}
+250	809115ab	¿Entiendes la situación en la que estamos?
+260	095bb3cc	Usar esto para escapar del juego simplemente no es factible. Tendremos que adoptar otra estrategia.
+270	e0643fce	Así que volvemos a las dos primeras opciones que te ofrecí.
+280	45e274dc	Jugar el juego o matar al patrocinador. ¿Qué será?
 290	f4a72a8b	
-300	1a9dcca9	{fc(57e4f1)Se me plantearon dos caminos para elegir.\nY yo elijo...}
-310	8b4b58a7	...Elijo, de todos modos, la tercera opción.
-320	4b2e874a	Activar esta cápsula de escape cuanto antes\ny huir de este juego.
-330	7e155e61	¿Seguro? La valla que hay que superar es altísima.
-340	ecb0a4f6	La valla es altísima sea cual sea el camino, ¿no?\nEntonces hay que ir por el camino que uno quiere.
-350	1ae64c8e	Busquemos el QB Liquid entre nosotros. En cuanto lo encontremos,\neliminaremos las bacterias y taparemos estos agujeros.
-360	18a80a44	Cuando la reparación termine, seguirá la activación.
-370	6de28bf5	¡Activamos pronto la cápsula de escape y todos escapamos al Satélite Artificial!
+300	1a9dcca9	{fc(57e4f1)Esas son mis dos opciones, ¿eh? Pero considerando todo lo que sé...}
+310	8b4b58a7	Perdón, pero sigo pensando que la tercera opción es la mejor.
+320	4b2e874a	Encontraremos la forma de reparar la cápsula y usarla para escapar del juego.
+330	7e155e61	¿Seguro? Acabamos de ver que hacer eso es tan difícil que es casi imposible.
+340	ecb0a4f6	Vamos a tener pocas probabilidades hagamos lo que hagamos. Prefiero arriesgarme por un camino en el que creo.
+350	1ae64c8e	El Paso Uno es encontrar el QB Liquid, destruir la bacteria de partículas y reparar el daño.
+360	18a80a44	Después, nos concentramos en hallar la forma de activar la cápsula antes de tiempo.
+370	6de28bf5	Cuando eso esté hecho, subimos a todos a bordo y salimos de aquí, de vuelta al Satélite Artificial.
 380	85834d9a	Escape temprano en la cápsula de escape...\n¿esa es la política que decidió Takumi?
 390	c202bfe7	Entendido, respetaré la decisión del líder.\n¿Tú también estás de acuerdo, Tsubasa?
 400	910c6c13	Sí, si Takumi decidió eso, lo seguiré.
