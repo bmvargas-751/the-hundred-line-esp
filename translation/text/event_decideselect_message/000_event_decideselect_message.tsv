@@ -85,8 +85,8 @@ s00_0_2ndTrueR_00_d008_m070_015_03_0060	b101fc56	Elegir una opción significa ab
 s00_0_2ndTrueR_00_d008_m070_015_03_0070	cd634109	Esta es mi decisión, así que también es mi carga...
 s00_0_2ndTrueR_00_d008_m070_015_03_0080	8bc5bc3b	Para esto volví. ¡Tengo que tomar mi decisión!
 s00_0_2ndTrueR_00_d011_m030_020_01_0010	bc76362e	¿Revelar el secreto de Nozomi?
-s00_0_2ndTrueR_00_d011_m030_020_02_0010	26df9352	Contarlo
-s00_0_2ndTrueR_00_d011_m030_020_02_0020	20053e49	No contarlo
+s00_0_2ndTrueR_00_d011_m030_020_02_0010	26df9352	Revelar
+s00_0_2ndTrueR_00_d011_m030_020_02_0020	20053e49	No revelar
 s00_0_2ndTrueR_00_d011_m030_020_03_0010	cf2727f4	A este paso se volverán contra ella, igual que antes.
 s00_0_2ndTrueR_00_d011_m030_020_03_0020	270a9af8	No puedo permitirlo. No puedo dejar que vuelva a quedarse\naislada.
 s00_0_2ndTrueR_00_d011_m030_020_03_0030	26530d07	Pero... nadie la conoce de verdad todavía. Incluso el\nequipo de la segunda academia ha pasado poco más de diez\ndías con ella.
@@ -461,7 +461,7 @@ s09_A_BoukenRt_Bb_d099_m230_010_03_0070	a00e2662	Hagamos lo que hagamos, creo qu
 s09_A_BoukenRt_Bb_d099_m230_010_03_0080	91cb82d8	Tú decides, líder del equipo. Decidas lo que decidas,\nte seguiremos.
 s09_B_occultRt_00_d023_m050_010_01_0010	17975a05	¿Y ahora qué?
 s09_B_occultRt_00_d023_m050_010_02_0010	906c27d3	Atacar a la silueta misteriosa
-s09_B_occultRt_00_d023_m050_010_02_0020	3d7552f6	Voltearme hacia la voz
+s09_B_occultRt_00_d023_m050_010_02_0020	3d7552f6	Girarme hacia la voz
 s09_B_occultRt_00_d023_m050_010_03_0010	31e2083a	Otra voz me llamó desde atrás.
 s09_B_occultRt_00_d023_m050_010_03_0020	9661f4dd	¡¿Y ahora qué?!
 s09_B_occultRt_00_d023_m050_010_03_0030	01a6267e	Esa silueta se acerca cada vez más a Nozomi. ¿Debería\nabalanzarme sobre ella?
@@ -494,7 +494,7 @@ s09_B_occultRt_A0_d073_m030_010_03_0070	9cad7805	Yo...
 s09_B_occultRt_A0_d073_m030_010_03_0080	ad97dd54	Creo que...
 s09_B_occultRt_Aa_d100_m020_010_01_0010	6ae3db4c	¿Revelar al culpable?
 s09_B_occultRt_Aa_d100_m020_010_02_0010	3bfdf8e3	Señalar al culpable
-s09_B_occultRt_Aa_d100_m020_010_02_0020	13939d7c	No poder señalar al culpable
+s09_B_occultRt_Aa_d100_m020_010_02_0020	13939d7c	No señalar al culpable
 s09_B_occultRt_Aa_d100_m020_010_03_0010	3d09bb2d	Así que tiene que haber sido una reina y un macho con los\nque hemos estado lidiando...
 s09_B_occultRt_Aa_d100_m020_010_03_0020	f9fa3246	Bien, Takumi, ¿has descubierto quién es el asesino?
 s09_B_occultRt_Aa_d100_m020_010_03_0030	859f5395	Eh... creo que...
