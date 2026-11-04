@@ -1,23 +1,23 @@
 id	huella_jp	es
-10	f22e457b	¿Cómo encender el corazón de Takemaru...?
-20	8f40f18f	Pero si Yakushiji siempre está encendido.\n¿Hay momentos en que esté frío?
-30	bc38ac86	Pero... últimamente, ¿no está un poco demasiado cauteloso?
-40	ccce707e	El de siempre habría sido el primero en declarar que participa,\nincluso en la Caza de Invasores.
-50	9e278e42	Es natural que Takemaru sea cauteloso...\n¿cuántos compañeros han muerto hasta ahora?
-60	81a442c4	Murió Eito... murió Gaku...\ny además...
-70	7e79a268	Hasta SIREI terminó así, ¿no?
-80	afcb22a9	¡¿P-Por qué están aquí los restos de SIREI?!
-90	a0849f67	Conecté los restos de SIREI a la PC de la Sala de Guerra\ny estoy rescatando los datos.
-91	d223ab99	Pensé que, si accedía a la información confidencial, quizás sabría\ncómo reparar el dron recolector de cadáveres. Y además...
-100	677305f7	Quizás también consiga información que conduzca\nal culpable que destruyó a SIREI, ¿no?
-110	747a6e3e	O sea... ¿le estás haciendo una autopsia?
-120	bdac6826	Sí... SIREI también debió de quedarse con la pena de que la destruyeran de repente,\nasí que quiero que su muerte sirva de algo aunque sea poco...
+10	f22e457b	¿Cómo encender a Takemaru...?
+20	8f40f18f	¿No está siempre encendido? O sea, ¿alguna vez es frío o sereno?
+30	bc38ac86	¿Pero no crees que últimamente se ha contenido demasiado?
+40	ccce707e	Normalmente esperaría que fuera el primero en lanzarse a esta Caza de Invasores.
+50	9e278e42	Es que hasta Takemaru tiene que contenerse a veces... O sea, ¿cuántos de nuestros amigos han muerto hasta ahora?
+60	81a442c4	Eito, Gaku... Y...
+70	7e79a268	Hasta SIREI ahora es solo un montón de chatarra.
+80	afcb22a9	¡¿Q-Qué hacen aquí los restos de SIREI?!
+90	a0849f67	Estoy conectando lo que queda de él a la computadora de la Sala de Guerra para rescatar todos los datos que pueda.
+91	d223ab99	Pensé que si logro acceder a su información confidencial, podré aprender a reparar los drones recolectores de cadáveres. Y...
+100	677305f7	Quizá hasta consiga información sobre quien lo destruyó.
+110	747a6e3e	¿O sea que básicamente... le estás haciendo una autopsia?
+120	bdac6826	Sí... Seguro que hasta SIREI lamenta que esto le haya pasado tan de repente, así que siento que debo hacer que su muerte signifique algo, al menos...
 130	f4a72a8b	
-140	f90c9ed2	{fc(57e4f1)Mirar los restos de SIREI\nme apretó el corazón.}
-150	0dc71b83	{fc(57e4f1)No perdono al culpable que dejó a SIREI así...\n¡No podemos dejarlo suelto!}
-160	940482cc	{fc(57e4f1)Una ira intensa me hervía todo el cuerpo.}
-170	c8829852	Tsubasa... ¿me prestas estos restos un momento?
-180	a58d1568	No hay problema... pero ¿para qué los quieres?
-190	4797b5a1	Se los voy a mostrar... a Takemaru.
-200	e1011792	{fc(57e4f1)El culpable que dejó a SIREI así\nprobablemente es el mismo que mató a Gaku.}
-210	a9c6d055	{fc(57e4f1)Si se los muestro, quizás Takemaru recuerde.\nLa ira hacia el culpable...}
+140	f90c9ed2	{fc(57e4f1)Sentí que se me encogía el pecho al mirar los restos de SIREI.}
+150	0dc71b83	{fc(57e4f1)Jamás perdonaré a quien le hizo esto... ¡Tiene que pagar!}
+160	940482cc	{fc(57e4f1)Una rabia increíble recorría todo mi cuerpo.}
+170	c8829852	Tsubasa... ¿Crees que podría llevármelo prestado?
+180	a58d1568	Supongo, pero... ¿para qué?
+190	4797b5a1	Se lo voy a enseñar a Takemaru.
+200	e1011792	{fc(57e4f1)Quien le hizo esto a SIREI era con toda probabilidad la misma persona que asesinó a Gaku.}
+210	a9c6d055	{fc(57e4f1)Quizá Takemaru recuerde su rabia al ver esto...}
