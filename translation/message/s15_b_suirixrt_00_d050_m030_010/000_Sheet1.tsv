@@ -1,28 +1,28 @@
 id	huella_jp	es
-10	b4c10a3f	{fc(57e4f1)...\n...}
-20	688127c5	Sr. Sumino, primero quiero darle las gracias...\n¡por salvarme aquel día... de verdad, muchas gracias...!
-30	1df893f4	No necesito agradecimientos...\nen cambio, ¿puedes contarme lo que sabes?
-40	92d2b3f5	{fc(57e4f1)Ima asintió con firmeza y dijo:}
-50	3e37066e	Desde antes pensaba contárselo todo apenas despertara, Sr. Sumino.
-60	b96d7d06	No solo porque le debo un favor...\n¡sino porque supe con certeza que usted no es el culpable!
-70	7460457a	Si lo fuera, no me habría salvado\narriesgando la vida, ¿verdad?
+10	b4c10a3f	
+20	688127c5	Señor Sumino, ante todo, gracias... por salvarme ese día... Se lo agradezco de todo corazón...
+30	1df893f4	No hay de qué, en serio. Lo que realmente quiero de ti son respuestas...
+40	92d2b3f5	{fc(57e4f1)Ima asintió con firmeza.}
+50	3e37066e	De todos modos pensaba contárselo todo cuando despertara.
+60	b96d7d06	No solo porque tengo una deuda de gratitud con usted, sino también porque... ahora estoy seguro de que usted no pudo ser el asesino.
+70	7460457a	Porque el verdadero asesino jamás arriesgaría su vida para salvarme así...
 80	f4a72a8b	
-90	29b50999	¡Quiero encontrar sin falta\nal culpable que mató a mi querida hermana...!
-100	fc654476	¡Encontrarlo y matarlo a martillazos,\naplastándole la cara hasta dejarla hecha papilla...!
-110	f5c5b5a2	Pero yo solo soy el ayudante de un detective,\nno se me da bien deducir...
-120	a1bc8526	Por eso decidí confiarle todo a usted, Sr. Sumino.
-130	366c8ecf	Pensé que usted seguro resolvería el caso...
-140	45339056	Entendido. Entonces cuéntame.\n¿Por qué no matas a Darumi?
-150	257ff880	...¿Eh?
-160	0f536bcc	Tú piensas que el culpable está entre nosotros, ¿verdad?
+90	29b50999	Mi mayor deseo es encontrar a quien mató a mi querida hermana...
+100	fc654476	¡Y luego destrozarle la cara a martillazos una y otra vez hasta que no quede nada!
+110	f5c5b5a2	Pero no soy más que un asistente de detective... No se me dan bien las deducciones.
+120	a1bc8526	Por eso he decidido confiarle este sincero deseo mío.
+130	366c8ecf	Tengo la mayor confianza en que usted tiene lo necesario para sacar la verdad a la luz...
+140	45339056	Esa es mi intención, en cuanto me des algunas respuestas. Primero: ¿por qué no mataste a Darumi?
+150	257ff880	¿Qué?
+160	0f536bcc	Crees que el asesino es uno de nosotros, ¿verdad?
 170	746263bb	Sí...
-180	16c70863	Pero cuando encontraron el cuerpo de Kako,\ntodos menos tú y Darumi estaban afuera del gimnasio.
-190	a7a73461	Ahora bien, ¿tú eres el culpable?\n¡Claro que no!
-200	6f37bf8f	¡Obvio que no!
-210	8ce6105b	Entonces, desde tu punto de vista,\nla única persona que pudo esconderse en el hangar es una sola.
-220	fd8c2b12	Darumi. Pero tú no la mataste.\n¡No le aplastaste la cara a martillazos!
-230	34891144	Me pregunto por qué...
-240	a7a5d1b1	Qué agudo, Sr. Sumino. Es como usted piensa.
-250	53d59ebd	Yo creo que no solo la Srta. Amemiya,\notros también tuvieron oportunidad de matar a mi hermana.
-260	6997349f	Porque el hangar tiene una vía de escape, ¿cierto?
-270	32834496	{fc(57e4f1)Cuando se lo dije, Ima asintió despacio.}
+180	16c70863	Cuando encontraron el cuerpo de Kako, tú y Darumi eran los únicos que no estaban en el Gimnasio.
+190	a7a73461	¿A menos que fueras tú el asesino? Pero no puede ser, ¿verdad?
+200	6f37bf8f	¡Por supuesto que no!
+210	8ce6105b	Entonces, desde tu punto de vista, solo otra persona pudo estar escondida en el depósito en ese momento.
+220	fd8c2b12	Nada menos que Darumi. Y sin embargo no fuiste a destrozarle la cabeza a martillazos hasta que no quedara nada.
+230	34891144	¿Por qué no?
+240	a7a5d1b1	Señor Sumino, entiendo adónde quiere llegar, y tiene razón.
+250	53d59ebd	Fue porque sabía que era posible que otra persona hubiera matado a mi querida hermana.
+260	6997349f	Porque hay una salida oculta en ese depósito... ¿verdad?
+270	32834496	{fc(57e4f1)Asintió despacio a mi pregunta.}

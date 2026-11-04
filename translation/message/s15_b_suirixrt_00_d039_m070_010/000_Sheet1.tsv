@@ -1,33 +1,33 @@
 id	huella_jp	es
-10	7cc82377	Aaay, qué bueno son los medicamentos...\nsolo de mirarlos se me escapa una sonrisa.
-20	0a2a639f	{fc(ff635b)"Medicina"}... digo, "me dicen" que son lindos.
-30	5de2526b	...\n...
-40	0ee39a4a	Por cierto, Takumi, ¿qué te trae por aquí?
-50	64f77d42	{fc(57e4f1)Le dije a Yugamu que estaba investigando el caso.}
-60	f856d7ea	¿Eso incluye "lo de Kako también"?
-70	5246edc9	Sí, la muerte sospechosa de Kako también me intriga...
-80	e8de8c40	{fc(57e4f1)El caso principal era el intento de asesinato de Shouma.\nPero, investigándolo con prioridad...}
-90	8788624b	{fc(57e4f1)si lograba resolver de paso lo de Kako, sería una ganancia.\nEso pensaba.}
-100	2310c609	{fc(57e4f1)Claro que había otros casos:\nla destrucción de SIREI y el asesinato de Gaku.}
-110	3e76f7ea	{fc(57e4f1)Pero esos los investigué el día 24\ny la pesquisa terminó en un callejón sin salida.}
-120	a6137fd7	{fc(57e4f1)Por eso, esta vez decidí centrar la investigación\nen el caso de Shouma.}
+10	7cc82377	¡Ah, la medicina! Uno de los inventos más eminentes de la humanidad para sostener la vida...
+20	0a2a639f	...y administrar la {fc(ff635b)muerte}.
+30	5de2526b	
+40	0ee39a4a	¿En qué puedo ayudarte hoy, Takumi?
+50	64f77d42	{fc(57e4f1)Le dije a Yugamu que investigaba el caso.}
+60	f856d7ea	¿Incluye también la muerte de Kako?
+70	5246edc9	Sí, también me inquietan las circunstancias sospechosas de su muerte...
+80	e8de8c40	{fc(57e4f1)Mi objetivo principal era resolver el intento de asesinato de Shouma, pero eso no significaba que fuera mi única preocupación.}
+90	8788624b	{fc(57e4f1)Cualquier información que ayudara a resolver el caso de Kako sería más que bienvenida.}
+100	2310c609	{fc(57e4f1)También había otros casos en los que pensar, como la destrucción de SIREI y el asesinato de Gaku.}
+110	3e76f7ea	{fc(57e4f1)Pero no había encontrado más pistas sobre esos casos a pesar de mi exhaustiva investigación del Día 24.}
+120	a6137fd7	{fc(57e4f1)Así que había decidido centrarme primero en el caso de Shouma, mientras el rastro seguía fresco.}
 130	d6e3fe16	¿Hay algo que te inquiete del caso de Kako?
-140	64acdc6f	Sí, un poco...\n¿recuerdas de qué murió Kako?
-150	52d1fbcf	Del veneno mortal TTX... la tetrodotoxina.\n¡Tenía el frasco en la mano derecha...!
-160	63e17703	Sí. Y sobre ese frasco...originalmente estaba en este laboratorio biológico.
-170	a225ecc2	¿O sea que... lo robaron de aquí?
-180	dbde6a11	Así es.
-190	d0a3996f	Si fue suicidio, lo habría robado Kako...\nsi fue homicidio, alguien más.
-200	cd003fd8	¿Aquí puede entrar cualquiera?
-210	2caded16	Sí, la puerta no tiene llave.\nY los estantes están abiertos, como ves: se puede robar a cualquier hora.
-220	68031ca2	Por eso también me robaron el Gammaphiel y una jeringa...
-230	93a0d08d	¿El Gammaphiel...?\n¿El que usaste para dormir a Ima el día 27?
-240	735790da	Ese mismo. Este.
-250	96aec2e9	¿Eh...? Pero si no lo robaron...
-260	d8551037	Hay varios frascos de este.\n¡Los que se llevaron fueron algunos de ellos!
-270	0d7e317c	Aunque no es reciente.\nNoté que faltaban los frascos el día 27.
-280	e04a8226	Cuando vine a buscar esto para inyectárselo a Ima,\nme di cuenta de que faltaban algunos.
-290	04df7a3f	Pero... ¿por qué el culpable querría algo así?
-300	93ee46a5	¿Quién lo robó necesariamente es el culpable?\nPero de cualquier modo...
-310	fe9d2d61	Este fármaco, bien dosificado, puede paralizar solo la sensibilidad del cuerpo\ny el miedo, sin hacer perder el conocimiento...
-320	90bc838c	Quizás quien lo robó lo usó\ncon ese fin.
+140	64acdc6f	Sí, lo hay... ¿Recuerdas su causa de muerte?
+150	52d1fbcf	Había ingerido tetrodotoxina, un veneno potentísimo. Cuando la encontramos, sujetaba con fuerza en la mano derecha un frasco con la etiqueta TTX.
+160	63e17703	Ese frasco procedía originalmente de este laboratorio biológico.
+170	a225ecc2	¿O sea que el veneno se sacó de aquí?
+180	dbde6a11	Eso parece.
+190	d0a3996f	Ya fuera Kako, que luego se quitó la vida con él, o alguien más, que lo usó para matar a Kako.
+200	cd003fd8	¿Esta sala está abierta a todos?
+210	2caded16	Sí. La puerta no tiene cerradura y los armarios tampoco están asegurados. Cualquiera pudo tomar cualquier cosa en cualquier momento.
+220	68031ca2	Alguien también robó algo de Gammaphiel, además de jeringas y agujas para administrarlo.
+230	93a0d08d	Gammaphiel... ¿La sustancia que usaste para dejar inconsciente a Ima el Día 27?
+240	735790da	La misma.
+250	96aec2e9	¿Eh? Pero si sigue aquí, no lo han robado, ¿no?
+260	d8551037	Hay varios frascos aquí. Faltan varios.
+270	0d7e317c	Y no pasó hace poco. Noté por primera vez que faltaban frascos el Día 27.
+280	e04a8226	Cuando vine a buscar los suministros necesarios para ayudar con Ima, vi que ya faltaban algunos.
+290	04df7a3f	¿Por qué haría eso el asesino?
+300	93ee46a5	No sabemos con certeza si fue el asesino quien los robó. Lo que pasa es que...
+310	fe9d2d61	Con la dilución adecuada, esta sustancia puede adormecer los receptores del dolor y emocionales del cuerpo sin causar pérdida de conocimiento.
+320	90bc838c	Quizá para eso quería usarla el ladrón.

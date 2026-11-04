@@ -1,114 +1,114 @@
 id	huella_jp	es
 10	399b4132	Día 41
-30	69ceab21	¡Atención, tropa, hora de levantarse!
-40	18b962ff	¡Amaneció el cuadragésimo primer día en la Última Academia de Defensa!
-50	f67d5c09	¡Hoy también, por la gran humanidad,\nno hay penuria ni sufrimiento que nos detenga!
-60	d9f7e380	¡Protejamos hasta el final nuestra amada academia\ndel enemigo salvaje y vil!
-70	caa4b69e	Hoy es el día 41...
-80	fba04940	{fc(57e4f1)Me sentí desesperado...}
-90	92230497	{fc(57e4f1)El periodo de descanso de la Caza de Invasores termina hoy y mañana.\nPasado mañana empieza el segundo juego.}
-100	edadf8bb	{fc(57e4f1)¿Es posible buscar el QB Liquid\nmientras participamos en la Caza de Invasores...?}
-120	473c1b39	Una visita... en medio de tanto trabajo.
-130	fa0546f9	{fc(57e4f1)Quien apareció fue otra vez Moko, como ayer.\nHoy Kyoshika no estaba.}
+30	69ceab21	¡De pie, tropas! ¡Es hora de levantarse y brillar!
+40	18b962ff	¡Prepárense para su día 41 de servicio activo en la Última Academia de Defensa!
+50	f67d5c09	¡Prepárense para pasar otro día soportando lo insoportable y sufriendo lo insufrible para allanar el camino a la futura grandeza de la humanidad!
+60	d9f7e380	¡Estén listos para dar la vida por proteger nuestra amada escuela del vil y bárbaro enemigo!
+70	caa4b69e	Y ahora es el Día 41...
+80	fba04940	{fc(57e4f1)Las cosas empezaban a parecer bastante desesperadas.}
+90	92230497	{fc(57e4f1)Solo me quedaban hoy y mañana antes de que empezara la siguiente ronda de la Caza de Invasores.}
+100	edadf8bb	{fc(57e4f1)Si llegamos a ese punto, ¿podremos seguir buscando el QB Liquid y, a la vez, ganar suficientes puntos para seguir en el juego...?}
+120	473c1b39	Qué bien, una visita... Justo lo que necesitaba.
+130	fa0546f9	{fc(57e4f1)Era Moko. Parecía que venía a continuar nuestra conversación de ayer, aunque esta vez no traía a Kyoshika.}
 140	f4a72a8b	
-150	7d0d427d	Moko... ¿qué pasa desde ayer?\nEstás rara.
-160	88aa1a46	Si necesitas algo de mí,\ndime claramente de qué se trata.
-170	66a2ff43	Oye, Takumi... ¿por qué no me contratas?
-180	8f2d121c	¿Contratarte...? ¿De qué hablas de repente?
-190	ce170056	Yo, aunque no lo parezca, soy una chica para todo.\nMenos estudiar, ¡puedo hacer cualquier cosa!
-200	71d9e5ff	Cargar cosas pesadas, claro, y cocinar también.\nCuando vayas a lugares peligrosos, me convierto en tu guardaespaldas.
-210	56309d3c	Trabajo las 24 horas los 365 días, así que rindo muchísimo.\n¡Una Moko Mojiro en cada hogar!
-220	ec44395f	¿Verdad que es una ganga?
-230	42cbd7b9	{fc(57e4f1)No entendí nada... ¿por qué me están ofreciendo\nsus servicios desde temprano por la mañana?}
-240	effb8aeb	Yo haré por Takumi\nlo que sea.
-250	6d3e030d	Haré lo que sea, así que...\na cambio, por favor...
-260	1d3b089f	¡Ayuda a mi amiga querida...!
-270	f54b0f6e	¿Una amiga querida...?
-280	6bbe70d2	¿No será... ¡Nozomi?!
-290	3d46200d	{fc(57e4f1)Así que lo de ayer era una consulta\nsobre Nozomi...}
-300	28d7755f	Cómo anda de salud la gente de la Unidad de Defensa Especial...
-310	76eb1e38	Si a doña Nozomi le pasara algo...
-320	cb876789	¿Qué le pasa a Nozomi?
-330	27cbddc9	Ni siquiera sabemos qué está pasando...
-340	b1b6b2ad	Se desmayó de repente hace tres días,\ny desde entonces va empeorando.
-350	fbaa8280	Esta mañana respiraba con dificultad...\n¡a este paso podría morir en cualquier momento...!
-360	c757a0cd	{fc(57e4f1)Nozomi no puede usar el Revive-O-Matic...\nsi muere, no podrá revivir.}
-370	7c571764	No sé por qué Nozomi se desmayó de repente,\nno entiendo nada...
-380	a6be5352	No parece un simple resfrío,\n¿tendrá alguna enfermedad crónica especial?
-390	b77d7dcc	Como no sabía nada, pensé en preguntarle a Sumino.
-400	0bb7d54a	Sumino, que viene del futuro, quizás sepa cosas de Nozomi\nque nosotras no sabemos...
-410	beb93a5b	Ya veo... por eso ayer viniste a verme.
-420	01fb2242	Te lo ruego, Takumi... salva a Nozomi.
-430	7fa0077a	Sé que es un descaro pedírtelo nosotras,\nque te tratamos tan mal todo este tiempo...
-440	01a7b375	¡Pero, aun así, por favor...!
-450	911db749	¡Una mujer, una sola, te lo pide con su vida!
-460	8336e9c4	{fc(57e4f1)Moko se arrodilló llorando\ny se inclinó profundamente ante mí.}
-470	eb978396	¡L-Levanta la cabeza...!
-480	4c494301	No hace falta que hagas eso,\nigual los ayudaré.
-490	0c06e1cd	Yo también quiero salvar a Nozomi...\n¿cómo voy a ignorar a una compañera que sufre?
-500	0be1b0a7	G-Gracias, Suminoo...\n¡De veraaas, gracias...!
-510	9a06c044	{fc(57e4f1)Le di un pañuelo a Moko, que estaba llena de lágrimas y mocos,\nla calmé y le conté sobre la enfermedad de Nozomi.}
-520	135c11b7	En resumen, creo saber qué tiene Kirifuji.
-530	1e17ccb6	{fc(57e4f1)En el mundo anterior a esta repetición,\nNozomi ya había caído en un estado parecido.}
-540	f35eae18	{fc(57e4f1)Con la cara pálida, delirando de fiebre...\nrespiraba con tanta dificultad que gemía.}
-550	496db782	{fc(57e4f1)Y Kirifuji explicó lo suyo así.}
-560	35d04fe3	Para ser sincera... es como dijiste. Lo que me pasa es por una {fc(ff635b)"reacción de rechazo"}.
-565	db10609f	Esa reacción de rechazo... ¿qué es?
-570	0dc5746a	Una reacción de rechazo... a la hemoánima.
-580	ea3a68db	Probablemente esos síntomas de Nozomi son por un {fc(ff635b)"rechazo"}\na la criptoglobina.
-590	68441f34	Parece que la criptoglobina no se adapta a su cuerpo y a veces se desboca...\nla fiebre viene de eso.
-600	0da42723	¿Qué? ¿Que la criptoglobina daña el cuerpo?\nEs como los efectos secundarios del dopaje.
-610	eadda310	Entonces, ¿esos rechazos pueden darles\na todos los demás también...?
-620	87000f2b	No... probablemente es un síntoma que solo le da a Nozomi.\nPorque ella no es una integrante oficial de la Unidad de Defensa Especial...
-630	bc702aec	¿No es integrante oficial...?\n¿Qué significa eso?
-640	37831c2f	En realidad, Nozomi...
-650	8c0678b6	{fc(57e4f1)Decidí contarle a Moko el proceso por el que Nozomi}{fc(ff635b)"se coló"}{fc(57e4f1)\nen esta academia.}
-660	7e151e9e	{fc(57e4f1)Recordando lo que me contó la propia Nozomi\nen el mundo anterior...}
-670	8300544d	{fc(57e4f1)La madre de Kirifuji era investigadora en un lugar llamado Hospital General Kamukura,\ny participaba en el }{fc(ff635b)"proyecto para salvar a la humanidad"}{fc(57e4f1).}
-680	54323c35	{fc(57e4f1)El proyecto para salvar a la humanidad era...\nen otras palabras, la investigación del trasplante de criptoglobina.}
-690	5732a86a	{fc(57e4f1)Para llevar al éxito el proyecto de su madre,\nNozomi colaboraba en la investigación como sujeto de pruebas del trasplante.}
-700	2761384e	{fc(57e4f1)Pero la investigación no avanzaba como se esperaba, y cada vez que le trasplantaban criptoglobina,\nKirifuji sufría rechazo.}
-710	8cc12fb6	{fc(57e4f1)Aun así, madre e hija no se rindieron\ny siguieron con la investigación, pero...}
-720	8cfa98c4	{fc(57e4f1)Al final, el proyecto se canceló por decisión de los superiores...\ny la madre, por el golpe, se quitó la vida.}
-730	4888034d	{fc(57e4f1)Tras la muerte de su madre, Nozomi quiso saber por qué los superiores\nhabían cancelado la investigación, y se coló varias veces en el Hospital General Kamukura.}
-740	8d07daa4	{fc(57e4f1)Y Kirifuji descubrió un hecho impactante...}
-750	990001e3	{fc(ff635b)"Jóvenes con el poder de la criptoglobina"}{fc(57e4f1)...\ndescubrió información de que gracias a ellos se creó la Unidad de Defensa Especial.}
-760	e5327a8d	{fc(57e4f1)Y siguió investigando,\ny en el fondo del hospital encontró...}
-770	13755fdf	{fc(57e4f1)a nosotros, dormidos\ndentro de un aparato misterioso...}
-780	85a70414	{fc(57e4f1)Kirifuji, al intuir que éramos miembros de la Unidad de Defensa Especial,\nse metió a la desesperada en una cápsula vacía...}
-790	b865c1c4	{fc(57e4f1)y, cuando se dio cuenta,\nestaba en la Penúltima Academia de Defensa.}
-800	be6c39c2	O sea que, en el fondo, Nozomi es alguien que no debería estar aquí.\nPorque el experimento de su madre fracasó...
-810	357c9bfe	Si la criptoglobina no se le adapta y aun así peleó tan duro,\nes normal que se enferme.
-820	dc5e8eab	Qué tonta eres, Nozomi...\n¿por qué no me lo dijo a mí?
-830	f510d9a7	Oficial o clandestina, no me importa.\n¡Yo aceptaría a Nozomi con todo mi cuerpo, sea como sea...!
-840	47562685	Sí... sabía que tú dirías eso.
-850	15958e44	{fc(57e4f1)Por eso se lo conté... todos los secretos\nde Nozomi que, en realidad, no debía contar.}
-860	1d736c28	Y bien, Takumi,\n¿cómo se calma el rechazo?
-870	32c855d9	Si hace falta alguna hierba medicinal,\n¡voy a buscarla ahora mismo!
-880	ad0f2642	No, lo que hace falta no es una hierba...\nes criptoglobina.
-890	3158da01	La criptoglobina tiene la propiedad de devorarse entre sí...
-900	ee39d29d	En los experimentos, cuando buscábamos una forma de frenar la reacción de rechazo, probamos algo parecido al canibalismo...
-910	e5e287cc	Me trasplantaron más criptoglobina. Y entonces... esa vez la reacción de rechazo se calmó.
-920	024b64ea	¿O sea que... absorbiendo {fc(ff635b)"criptoglobina"} se puede frenar la reacción de rechazo?
-930	9556e400	No entiendo bien, pero... ¡¿entonces con criptoglobina\nNozomi se salva?!
-940	43efafac	Criptoglobina... criptoglobina... si hablamos de criptoglobina, un comandante...
-950	5c3ba330	¡Bien, ahora mismo\nvoy a atrapar a un comandante!
-960	336a1096	Lo capturo vivo y le saco la sangre...
-970	7b7b0607	¡C-Cálmate...!\n¡Criptoglobina tenemos aquí!
-980	bb21a2e3	¿Eh...?\n¿Que tenemos criptoglobina aquí?
-990	a7b77ff2	Sí, la tenemos... la conseguí después de la batalla defensiva del día 33.
-1000	7d10b827	{fc(57e4f1)Aquella noche, por mi puesto alto en el ranking, el patrocinador me entregó\nel }{fc(ff635b)"premio"}{fc(57e4f1).}
-1010	2a09565f	Si le inyectamos a Nozomi la criptoglobina de esta jeringa,\nel rechazo debería calmarse.
-1020	9e339b8f	{fc(57e4f1)La criptoglobina de la jeringa no parecía estar echada a perder.\nProbablemente todavía sirva.}
-1030	0c276048	Pero, ¿seguro...?\n¿No es el botín que ganaste tú, Sumino?
-1040	b0ff5319	Está bien, si con una jeringa se salva la vida de Nozomi,\nes ganancia. Úsala sin preocuparte.
-1050	685182d5	Gracias, Takumi...\n¿cómo podré devolverte este favor?
-1060	ae343628	Te digo que no hace falta.\nSalvar a Kirifuji es lo más natural.
-1070	1de9fcbe	Takumi, tú de verdad eres...
-1080	3be45e19	Entendido, usaré esta jeringa\ncon mucho agradecimiento.
-1090	c22eb550	¡Se la inyectaré ahora mismo con mis propias manos a Nozomi!
-1100	5ff26861	{fc(57e4f1)Moko me hizo una profunda reverencia\ny corrió al cuarto de Kirifuji.}
-1110	12242d1c	Nozomi... mejórate pronto.
-1120	ae7a6e9d	{fc(57e4f1)Pero no podía quedarme solo preocupado.\nTenía que cumplir mi papel.}
-1130	40c32019	Tengo que encontrarlo pronto... el QB Liquid.
-1140	f593d4fe	{fc(57e4f1)Ese día también salí a explorar\ncon Yugamu y Tsubasa.}
+150	7d0d427d	Oye, Moko... ¿De qué se trataba todo eso de ayer? Estabas actuando muy rara.
+160	88aa1a46	Si quieres algo de mí, dilo sin rodeos.
+170	66a2ff43	Bueno... ¿Qué te parecería contratarme, Takumi?
+180	8f2d121c	¿Contratarte? ¿Para qué? ¿De dónde sale esto?
+190	ce170056	Quizá no lo parezca a primera vista, pero tengo otros talentos además de la fuerza. Puedo encargarme de cualquier trabajo que quieras.
+200	71d9e5ff	El trabajo manual es obvio, pero también sé cocinar. Y sería una excelente guardaespaldas cuando vayas a cualquier lugar peligroso.
+210	56309d3c	Estoy a tu disposición las 24 horas del día, los 365 días del año. Moko Mojiro: ¡toda casa debería tener una!
+220	ec44395f	Una oferta increíble, ¿no crees?
+230	42cbd7b9	{fc(57e4f1)Ya no tengo idea de qué está hablando. ¿Por qué me toca aguantar este extraño discurso de ventas a primera hora de la mañana...?}
+240	effb8aeb	Lo único que digo es que trabajaré muy duro para ti, Takumi.
+250	6d3e030d	Haré lo que me pidas, así que... A cambio de eso...
+260	1d3b089f	¡¿Harías algo para salvar a mi querida amiga?!
+270	f54b0f6e	¿Tu querida amiga...?
+280	6bbe70d2	¡Espera! ¿Hablas de Nozomi?
+290	3d46200d	{fc(57e4f1)¡Ayer SÍ quería mi ayuda con lo de Nozomi, lo sabía!}
+300	28d7755f	¿La condición física de los demás miembros de la Unidad de Defensa Especial?
+310	76eb1e38	Y... si algo malo le llegara a ocurrir a Lady Nozomi, yo...
+320	cb876789	¿Qué le pasó a Nozomi, Moko?
+330	27cbddc9	Ese es el problema. En realidad no sé qué le pasa...
+340	b1b6b2ad	Se desplomó de repente hace tres días y desde entonces ha ido empeorando cada vez más.
+350	fbaa8280	Esta mañana, hasta respirar le dolía... A este paso, me temo que podría morir...
+360	c757a0cd	{fc(57e4f1)Y Nozomi no puede usar el Revive-O-Matic... Si muere, se va para siempre.}
+370	7c571764	No sé qué lo causó, así que no tengo idea de qué hacer.
+380	a6be5352	No parece un resfriado común, así que me pregunto si será alguna enfermedad que ya tenía dentro...
+390	b77d7dcc	Necesito toda la ayuda que pueda conseguir. Por eso vine a ti.
+400	0bb7d54a	Eres del futuro, así que pensé que quizá sabrías algo de Nozomi que yo no sé.
+410	beb93a5b	Ahora entiendo... ¿Eso era lo que intentabas preguntarme ayer?
+420	01fb2242	Sí... Por favor, Takumi. Salva a Nozomi.
+430	7fa0077a	Sé que tengo mucha cara, pidiéndote ayuda después de cómo te hemos tratado todos...
+440	01a7b375	¡Pero eres su única esperanza...!
+450	911db749	Te lo ruego. Salva su vida y yo dedicaré la mía a ti.
+460	8336e9c4	{fc(57e4f1)Con lágrimas corriéndole por la cara, Moko se arrodilló e inclinó la cabeza en señal de súplica.}
+470	eb978396	¡Moko, vamos! No hace falta que hagas eso.
+480	4c494301	Por supuesto que te ayudaré. Solo tenías que pedirlo.
+490	0c06e1cd	Si Nozomi está sufriendo, no puedo quedarme de brazos cruzados; quiero hacer algo al respecto. Para eso están los amigos.
+500	0be1b0a7	*Snif* G-Gracias, Takumi... Muchísimas graciaaas...
+510	9a06c044	{fc(57e4f1)Le di un pañuelo a Moko para que se secara los ojos, y de paso la nariz. Cuando se calmó un poco, le pedí que me contara más sobre el estado de Nozomi.}
+520	135c11b7	Por lo que me cuentas, quizá sepa cuál es el problema.
+530	1e17ccb6	{fc(57e4f1)Se parecía mucho a lo que le había pasado a Nozomi en mi primera línea temporal.}
+540	f35eae18	{fc(57e4f1)Palidez enfermiza... fiebre... dificultad para respirar...}
+550	496db782	{fc(57e4f1)Ya la había visto sufrir así antes. Solo podía significar una cosa.}
+560	35d04fe3	Si soy sincera, es tal como dijiste. Mi condición se debe a los {fc(ff635b)síntomas de rechazo}.
+565	db10609f	¿Qué son los síntomas de rechazo...?
+570	0dc5746a	La hemoánima me está rechazando.
+580	ea3a68db	Creo que Nozomi probablemente está sufriendo {fc(ff635b)síntomas de rechazo} de su criptoglobina.
+590	68441f34	No es muy compatible con su cuerpo, así que a veces se descontrola y le da mucha fiebre.
+600	0da42723	O sea que su cuerpo se está volviendo en su contra... ¿Algo así como con el abuso de esteroides?
+610	eadda310	¿Eso significa que también podría pasarnos al resto?
+620	87000f2b	No... Esto es solo cosa de Nozomi. Se debe a que no es un miembro oficial de la Unidad de Defensa Especial.
+630	bc702aec	¿"Oficial"? ¿Qué quieres decir con eso?
+640	37831c2f	Bueno, Nozomi es diferente de nosotros...
+650	8c0678b6	{fc(57e4f1)Le conté a Moko la verdad sobre cómo había llegado Nozomi hasta aquí: cómo }{fc(ff635b)se coló}{fc(57e4f1) y se unió a esta guerra por voluntad propia.}
+660	7e151e9e	{fc(57e4f1)Básicamente, toda la historia que le había oído a la propia Nozomi la vez anterior.}
+670	8300544d	{fc(57e4f1)Su madre era investigadora en el Hospital General Kamukura, donde participaba en un {fc(ff635b)proyecto para salvar a la humanidad}{fc(57e4f1).}
+680	54323c35	{fc(57e4f1)En concreto, ese proyecto consistía en transfundir criptoglobina a huéspedes humanos.}
+690	5732a86a	{fc(57e4f1)Nozomi se había ofrecido como sujeto de investigación para ayudar a que el proyecto tuviera éxito.}
+700	2761384e	{fc(57e4f1)Pero algo salió mal y la criptoglobina no se acopló con ella como esperaban.}
+710	8cc12fb6	{fc(57e4f1)Aun así, siguieron con su investigación.}
+720	8cfa98c4	{fc(57e4f1)Los superiores acabaron cancelando el proyecto, y la madre de Nozomi quedó tan destrozada... que se quitó la vida.}
+730	4888034d	{fc(57e4f1)Después, Nozomi se coló en el Kamukura una y otra vez, intentando averiguar la verdad de por qué había terminado el proyecto.}
+740	8d07daa4	{fc(57e4f1)Con el tiempo, la encontró.}
+750	990001e3	{fc(57e4f1)Los responsables estaban formando un escuadrón especial de }{fc(ff635b)"jóvenes con el poder de la criptoglobina".}{fc(57e4f1) Es decir, la Unidad de Defensa Especial.}
+760	e5327a8d	{fc(57e4f1)Sus investigaciones la llevaron cada vez más al corazón del hospital...}
+770	13755fdf	{fc(57e4f1)Y en una sala repleta de extrañas máquinas con forma de cápsula, nos encontró.}
+780	85a70414	{fc(57e4f1)Al darse cuenta de que éramos la Unidad de Defensa Especial de la que había oído hablar, se metió ella misma en una cápsula.}
+790	b865c1c4	{fc(57e4f1)Cuando nos enviaron a la superficie del planeta, ella vino también y terminó en la Penúltima Academia de Defensa.}
+800	be6c39c2	Dicho simplemente, Nozomi nunca debía estar aquí. Los experimentos de su madre con ella se consideraron fracasos.
+810	357c9bfe	A pesar de eso, ha luchado con tanto empeño todo este tiempo... Supongo que es natural que tarde o temprano pase factura a su cuerpo.
+820	dc5e8eab	Esa Nozomi... No puedo creer que nunca me dijera nada de esto.
+830	f510d9a7	¿De verdad cree Nozomi que me importaría que no sea un miembro "oficial" del equipo? Es mi amiga; ¡la querría pase lo que pase...!
+840	47562685	Sí... Sabía que nada de eso te importaría.
+850	15958e44	{fc(57e4f1)Por eso me sentí cómodo compartiendo esta información. Si había alguien en quien confiar el secreto de Nozomi, era Moko.}
+860	1d736c28	Entonces, Takumi... ¿Cómo detenemos esos síntomas?
+870	32c855d9	¡Si hay alguna hierba medicinal que ayude, salgo a buscarla ahora mismo!
+880	ad0f2642	No, lo único que ayudará a Nozomi ahora es... la criptoglobina.
+890	3158da01	Tiene... propiedades caníbales.
+900	ee39d29d	En los experimentos buscábamos una forma de reducir los síntomas de rechazo, así que probamos a hacer que la sangre se consumiera a sí misma...
+910	e5e287cc	Mi mamá me transfundió criptoglobina adicional. Y entonces los síntomas de rechazo se detuvieron.
+920	024b64ea	¿O sea que al absorber {fc(ff635b)criptoglobina} podemos mitigar el rechazo?
+930	9556e400	Mucho de esto me supera, pero eso es básicamente lo que necesitamos para salvarla, ¿no?
+940	43efafac	Criptoglobina... criptoglobina... Bueno, la mejor forma de conseguir más es derrotando a un comandante.
+950	5c3ba330	¡Bien, está decidido! ¡Voy a buscar a un comandante y a darle una paliza!
+960	336a1096	Lo traeré vivo para que Nozomi pueda...
+970	7b7b0607	¡Espera, Moko! ¡Ya tenemos un poco de criptoglobina aquí mismo!
+980	bb21a2e3	¿Eh...? ¿De veras...?
+990	a7b77ff2	Sí. Conseguí un poco al final de la batalla del Día 33, ¿recuerdas?
+1000	7d10b827	{fc(57e4f1)Le entregué a Moko el }{fc(ff635b)premio}{fc(57e4f1) que el patrocinador me había dado por estar entre los tres primeros de la clasificación.}
+1010	2a09565f	Inyéctaselo a Nozomi y sus síntomas se calmarán, estoy seguro.
+1020	9e339b8f	{fc(57e4f1)La criptoglobina del frasco se veía igual que la noche en que la recibí. Todavía conservaba su poder.}
+1030	0c276048	¿Seguro que no te importa regalar tu premio...?
+1040	b0ff5319	Es un precio pequeño si salva la vida de Nozomi. Anda, tómalo.
+1050	685182d5	Gracias, Takumi... No sé cómo podré compensártelo...
+1060	ae343628	No te preocupes. Solo hago lo que haría cualquiera.
+1070	1de9fcbe	Takumi... De verdad eres un gran tipo...
+1080	3be45e19	Bien, lo tomo. Gracias otra vez.
+1090	c22eb550	¡Voy al cuarto de Nozomi a dárselo ahora mismo!
+1100	5ff26861	{fc(57e4f1)Moko inclinó la cabeza una última vez y salió corriendo a entregar el frasco que salvaría una vida.}
+1110	12242d1c	Mejórate pronto, Nozomi...
+1120	ae7a6e9d	{fc(57e4f1)No puedo quedarme preocupándome todo el día. Todavía tengo cosas que hacer.}
+1130	40c32019	Si no encontramos pronto ese QB Liquid...
+1140	f593d4fe	{fc(57e4f1)Me reuní con Yugamu y Tsubasa y empezamos la búsqueda del día.}

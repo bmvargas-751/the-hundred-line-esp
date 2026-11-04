@@ -1,35 +1,35 @@
 id	huella_jp	es
-10	615fc4d8	¿P-Por qué deshizo la transformación...?
-20	a814e7b5	Con solo recibir su filo lo entendí. Son verdaderos guerreros.\nEntonces no puedo matarlos aquí con un golpe sorpresa.
-30	a9d65f62	Empecemos de nuevo... la próxima vez iré yo\na su academia.
-40	07e4ef05	¿Nos dejas ir, entonces...?
-50	cba48d75	A los guerreros los dejo vivir.\nPero con quienes no lo son, no tengo esa clemencia.
-60	c7ab12f1	¡Tú, mujer!
-70	a507e73c	¿Y-Yo...?
-80	1fce5d6b	{fc(57e4f1)Dahl'xia le gritó de pronto a Tsubasa.}
-90	0cdcdd34	¡¿Qué es esa postura encogida?! ¡¿Por qué no participas en el combate?!\n¡¿Te burlas del campo de batalla?!
-100	af276a1d	¡No...!\n¡Hay una razón...!
-110	8794fefb	Nada de excusas. Yo he decidido purgar\na quien traiga cobardía al campo de batalla.
-120	0d5d0487	Si no se arrancan temprano los brotes de cobardía,\nse obstaculiza el crecimiento de los otros guerreros.
-130	8e25cff6	{fc(57e4f1)Dahl'xia sacó una daga del pecho.}
-140	1c46f99e	¡Esa forma... es para lanzar!
-150	33b5abd2	¡Detente, Dahl'xia...!
-160	8d5e8a40	{fc(57e4f1)Lo detuve con desesperación,\npero Dahl'xia no tenía oídos para escuchar...}
-170	77c8a101	{fc(cfff3f)"Fiuu"}
-180	09ab4bda	¿Eh... qué...?
-190	92c974b2	{fc(57e4f1)La hoja lanzada voló hacia Tsubasa a una velocidad feroz...}
-200	c675b604	¡¡Esquívalo, Tsubasa...!!
-210	a0de1296	¡¡...!!
+10	615fc4d8	¿P-Por qué te destransformaste?
+20	a814e7b5	Sus hojas me lo han dicho todo. Son verdaderos guerreros. No me atrevo a matarlos aquí con un ataque por sorpresa.
+30	a9d65f62	Empezaremos de nuevo... La próxima vez será en su escuela.
+40	07e4ef05	¿Nos dejas ir?
+50	cba48d75	Dejaré vivir a los guerreros. Pero no puedo decir lo mismo de los demás.
+60	c7ab12f1	¡Muchacha! ¡Tú!
+70	a507e73c	¡¿Y-Yo?!
+80	1fce5d6b	{fc(57e4f1)Dahl'xia le rugió de pronto a Tsubasa.}
+90	0cdcdd34	¿Por qué la cobardía? ¿Por qué no te unes a la batalla? ¡¿Te burlas de esta guerra?!
+100	af276a1d	¡N-No, puedo explicarlo...!
+110	8794fefb	No necesito tus excusas. Purgaré a todos los que traen cobardía al campo de batalla sagrado.
+120	0d5d0487	Las semillas del miedo deben extirparse de la tierra, no sea que impidan florecer a otros guerreros.
+130	8e25cff6	{fc(57e4f1)Dahl'xia sacó una espada corta de entre sus ropas.}
+140	1c46f99e	¡Es una daga arrojadiza!
+150	33b5abd2	¡Detente, Dahl'xia!
+160	8d5e8a40	{fc(57e4f1)Intenté desesperadamente detener al comandante, pero no me prestó ninguna atención.}
+170	77c8a101	{fc(cfff3f)*zuum*}
+180	09ab4bda	¡¿Eh?!
+190	92c974b2	{fc(57e4f1)La hoja voló hacia Tsubasa a una velocidad feroz...}
+200	c675b604	¡Tsubasa, sal de ahí!
+210	a0de1296	¡...!
 220	68dcc12b	¡¿...?!
-230	fc242aa5	{fc(57e4f1)En el siguiente instante, presenciamos\nuna escena increíble...}
-240	d1863789	{fc(57e4f1)¡Esa Darumi protegió a Tsubasa...!}
-250	b7622a21	¡A-Darumi...!\n¡¿Por qué...?!
-260	8192fa47	¡Rápido, detengan la hemorragia...!
-270	d06eb8c0	{fs72}¡¡¡Remátenme a mí!!!
-280	9863ae29	{fc(57e4f1)Darumi, escupiendo sangre, gritó algo inesperado...}
-290	2b8970f3	Si ustedes... no me matan... no son puntos...\n¡Darumi... es un objetivo... si me matan, todos se salvan...!
-300	978f3af2	¡Mátenme rápido...!
-310	e1cf60b9	¡No hables más...!\n¡Te vas a morir de verdad...!
-320	2e521087	¡Darumi, aguanta...!\n¡Darumi...!
-330	76f122cc	{fc(57e4f1)Acostamos boca abajo en el suelo a Darumi, que perdió el conocimiento,\ny con la dirección de Yugamu detuvimos con cuidado la hemorragia.}
-340	249507d9	{fc(57e4f1)Y al darme cuenta, de repente...}
+230	fc242aa5	{fc(57e4f1)Al instante siguiente vi algo completamente increíble...}
+240	d1863789	{fc(57e4f1)¡Darumi recibió la hoja por Tsubasa!}
+250	b7622a21	¡Argh, Darumi! ¡¿Por qué...?!
+260	8192fa47	¡Hay que detener la hemorragia!
+270	d06eb8c0	{fs72}¡Acábenme!
+280	9863ae29	{fc(57e4f1)Darumi gorgoteaba sangre mientras gritaba su inconcebible petición...}
+290	2b8970f3	Si no... m-me matan... N-No valdré ningún punto, yo... ¡Objetivo... Mátenme y vivan...!
+300	978f3af2	¡Mátenme, rápido!
+310	e1cf60b9	¡Deja de hablar o morirás de verdad!
+320	2e521087	¡Aguanta, Darumi! ¡Darumi!
+330	76f122cc	{fc(57e4f1)Acostamos a Darumi boca abajo en el suelo, siguiendo con cuidado las instrucciones de Yugamu para detener la hemorragia.}
+340	249507d9	{fc(57e4f1)Con el tiempo, me di cuenta...}

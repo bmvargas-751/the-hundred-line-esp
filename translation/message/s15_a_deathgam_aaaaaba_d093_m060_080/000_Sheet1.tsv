@@ -1,58 +1,58 @@
 id	huella_jp	es
 10	0ded5105	¿Eh...?
-20	81254471	{fc(57e4f1)El anuncio se cortó de repente...}
-30	89e3529d	{fc(57e4f1)No solo el anuncio: el sonido de la nave también cesó,\ny dentro de la cápsula quedó en silencio.}
-40	7e3f087a	¿Eh... qué pasa?
-50	8afe9647	¿Qué pasó...?\n¿Se acabó la pila?
-60	60bd2aa5	¿Se reinició el lanzamiento...?
-70	f0afe2ba	K-Kamyuhn, ¿qué es esto...?
-80	d6b8f735	¿P-Por qué...?\n¡No debería detenerse el lanzamiento en este momento...!
-90	6d2dec91	{fc(57e4f1)Kamyuhn se levantó del asiento, alarmada,\ny encendió la PC de la cápsula para investigar la causa.}
-100	20112943	¡¿Qué...?! ¡¿Falta de energía del propelente?!\n¡No puede ser...!
-110	b5379b15	¿Ni con la criptoglobina del bebé alcanza\npara lanzar la cápsula de escape...?
-120	54e8731f	¡No puede ser...!\n¡La criptoglobina de él es descomunal...!
-130	04827fe3	Sí, por eso es imposible que falte...
-140	05272a19	De hecho, hasta hace un momento había tanta energía que\nhasta nos preocupaba...
-150	c1e816c7	{fc(57e4f1)Kamyuhn, aturdida,\nmiraba fijamente la pantalla de la PC.}
-160	82fb3efd	La energía del propelente\nsigue bajando sin parar en este mismo instante...
-170	e0c88caf	Es como si...
-180	bbb1a9e8	rechazara que nosotros volemos al cielo...
-190	3674dd90	{fc(57e4f1)En cuanto oí las palabras de Kamyuhn,\nde golpe recordé...}
-200	4cecab2c	{fc(57e4f1)la promesa que hice al bebé moribundo...}
-210	00bdea6e	Solo que... quiero que me prometas una cosa.
-220	572d67f7	¿Una promesa...?
-230	45571475	No me importa que muevas la cápsula con mi criptoglobina...
-240	9188cd02	pero a esa cápsula,\nTakumi, tú no subas.
-250	5077195c	{fc(57e4f1)¿Será que... como rompí la promesa\nla cápsula no se activa...?}
-260	2fe9f8c0	{fc(57e4f1)¿La voluntad de él\nimpide que yo vaya al Satélite Artificial?}
+20	81254471	{fc(57e4f1)El anuncio se cortó a la mitad.}
+30	89e3529d	{fc(57e4f1)No solo el anuncio. Todos los ruidos mecánicos a nuestro alrededor se habían detenido. El interior de la cápsula estaba inquietantemente silencioso.}
+40	7e3f087a	¿Qué pasa...?
+50	8afe9647	¿Qué ocurre? ¿Nos quedamos sin energía?
+60	60bd2aa5	¿Se reinició el despegue...?
+70	f0afe2ba	Kamyuhn, ¿qué es esto?
+80	d6b8f735	N-No lo entiendo... ¡¿Por qué se abortó el despegue en esta etapa?!
+90	6d2dec91	{fc(57e4f1)Kamyuhn se levantó de su asiento alterada y encendió el PC interno para comprobar qué había causado la interrupción.}
+100	20112943	¡¿Qué?! ¿Energía de propelente insuficiente? ¡Eso es... imposible!
+110	b5379b15	¿Ni siquiera la sangre del bebé es lo bastante fuerte para propulsar la cápsula de escape?
+120	54e8731f	¡No puede ser... Se suponía que su criptoglobina estaba en una liga aparte!
+130	04827fe3	¡Exacto! Que sea insuficiente es inconcebible.
+140	05272a19	Hace apenas un segundo la potencia era tan fuerte que me costaba mantenerla bajo control...
+150	c1e816c7	{fc(57e4f1)Kamyuhn seguía mirando fijamente la pantalla, completamente atónita.}
+160	82fb3efd	La energía del propelente sigue bajando incluso mientras hablamos.
+170	e0c88caf	Es casi como si...
+180	bbb1a9e8	Como si se negara deliberadamente a permitirnos emprender el vuelo...
+190	3674dd90	{fc(57e4f1)En cuanto Kamyuhn dijo eso, recordé de pronto lo que había ocurrido antes.}
+200	4cecab2c	{fc(57e4f1)La promesa que le hice al bebé justo antes de que muriera...}
+210	00bdea6e	Pero necesito que me prometas una cosa.
+220	572d67f7	¿Qué es...?
+230	45571475	No me importa que uses mi criptoglobina para propulsar la cápsula de escape para los demás, pero...
+240	9188cd02	No puedes subir a esa cápsula, Takumi.
+250	5077195c	{fc(57e4f1)¿Estaba la cápsula de escape detenida y sin despegar porque rompí mi promesa?}
+260	2fe9f8c0	{fc(57e4f1)¿Su voluntad me impedía llegar al Satélite Artificial?}
 270	c98ee14e	¡...!
-280	de631fa2	{fc(57e4f1)Si por mi culpa la cápsula no despega,\ndebo bajarme ahora mismo.}
-290	0c341d15	{fc(57e4f1)Así se salvan todos.\nTodos menos yo... pero.}
-300	36769d22	{fc(57e4f1)No lograba renunciar a este sueño...}
-310	2966cf13	{fc(57e4f1)Una casa compartida en el Satélite Artificial con todos...\nuna vida pobre pero bulliciosa y cálida...}
-320	2b099777	{fc(57e4f1)Para llegar a ese futuro,\nyo me manché las manos...}
-330	50ed8500	{fc(57e4f1)Si muero aquí, ¡matar no habrá tenido sentido...!}
-340	ba63f097	{fc(57e4f1)No pude bajar de la cápsula de escape...}
-350	42b1189f	{fc(57e4f1)Los sueños y esperanzas que no podía abandonar\nme volvían pesado el cuerpo...}
-360	c903be51	¡¿No hay manera...?!
-370	775b8c67	¡Si falta sangre, mátenme a mí\ny úsenla...!
-380	d0f2ec40	¡También la de Darumi!\n¡Si la Reina Tsubasa se salva, Darumi estará satisfecha!
-390	5bb002fb	¡¿Qué dicen, ustedes dos...?!\n¡Eso no puede ser...!
-400	4c425a2d	Hermano... ¡cálmate...!
-410	52e3be0c	{fc(57e4f1)No, yo debo bajar, como pensaba.}
-420	28a2b921	{fc(57e4f1)Yo, el líder, no debo aferrarme patéticamente a la vida.}
-430	d40a2ae2	{fc(57e4f1)Tengo la obligación de salvar a todos,\nincluso sacrificando mi vida.}
-440	3967f5b9	{fc(57e4f1)Bájate, bájate, bájate, bájate...}
-450	95d124e2	{fc(57e4f1)¡Bájate, yo...!}
-460	bac930f0	{fc(57e4f1)Pero no lograba decidirme...}
-470	15a56a20	{fc(57e4f1)Si me bajo de la nave aquí, no podré volver a ver a nadie.}
-480	72705221	{fc(57e4f1)Ni a Nozomi, ni a Ima, ni a Kako,\nni a Darumi, ni a Yugamu, ni a Kamyuhn, ni...}
-490	7f3619bc	{fc(57e4f1)¡ni a Tsubasa, no podré verlas más...!}
-500	8f51a37f	¡...!
-510	21295533	{fc(57e4f1)El sonido que avisaba del límite de tiempo\nresonó dentro de la cápsula de escape...}
-520	7479921e	Intrusión enemiga. Intrusión enemiga.\nSe detecta un ataque enemigo en esta zona.
-530	860ad3e8	Se despliega de inmediato el modo de defensa.\nComiencen cuanto antes los preparativos de la batalla defensiva.
-540	15abfa55	{fc(57e4f1)Parece que V'ehxness notó que el Muro de Fuego desapareció\ny vino con su ejército a atacar la academia indefensa.}
-550	260831a3	{fc(57e4f1)Ya no daba tiempo de lanzar...\nperdimos la apuesta...}
-560	e3253ee3	{fc(57e4f1)Por mi culpa, por querer sobrevivir patéticamente...}
-570	57558a8d	{fc(57e4f1)Salimos corriendo de la cápsula de escape\ny enfrentamos al ejército de V'ehxness que invadía la academia.}
+280	de631fa2	{fc(57e4f1)Debería haberme bajado de la cápsula en el momento en que comprendí que yo era quien la frenaba.}
+290	0c341d15	{fc(57e4f1)Todos se habrían salvado entonces. Todos menos yo. Pero...}
+300	36769d22	{fc(57e4f1)Simplemente no podía renunciar a mi sueño.}
+310	2966cf13	{fc(57e4f1)Ser compañero de cuarto de Tsubasa, Yugamu y Darumi en el Satélite Artificial, viviendo felices el día a día a pesar de ser pobres como ratas...}
+320	2b099777	{fc(57e4f1)Hice lo imperdonable para que todos pudiéramos alcanzar juntos ese sueño...}
+330	50ed8500	{fc(57e4f1)¡Matar a toda esa gente habría sido en vano si moría aquí!}
+340	ba63f097	{fc(57e4f1)No soportaba bajarme de la cápsula de escape.}
+350	42b1189f	{fc(57e4f1)Lastrado por mis esperanzas y sueños para el futuro, mi cuerpo simplemente se negaba a moverse...}
+360	c903be51	¿N-No podemos hacer algo?
+370	775b8c67	Solo necesitamos criptoglobina, ¿verdad? ¡Mátenme y tomen la mía!
+380	d0f2ec40	¡La mía también! ¡Moriría con gusto para asegurarme de que la Ama Tsubasa siga viva!
+390	5bb002fb	¡¿Qué diablos sugieren ustedes dos?! ¡Eso no va a pasar!
+400	4c425a2d	¡Cálmate, querido hermano...!
+410	52e3be0c	{fc(57e4f1)No... Debería ser yo quien se baje.}
+420	28a2b921	{fc(57e4f1)Un líder no debería aferrarse a la vida de forma tan indigna...}
+430	d40a2ae2	{fc(57e4f1)Era mi deber sacrificarme y salvar a los demás.}
+440	3967f5b9	{fc(57e4f1)Bájate... Bájate bájate bájatebájatebájate...}
+450	95d124e2	{fc(57e4f1)¡Bájate de la maldita cápsula, Takumi!}
+460	bac930f0	{fc(57e4f1)Pero seguía sin reunir la determinación...}
+470	15a56a20	{fc(57e4f1)Pensar que jamás volvería a ver a mis amigos me paralizaba.}
+480	72705221	{fc(57e4f1)Nozomi... Ima... Kako... Darumi... Yugamu... Kamyuhn... Y...}
+490	7f3619bc	{fc(57e4f1)¡Tampoco volvería a ver nunca a Tsubasa...!}
+500	8f51a37f	¡¿...?!
+510	21295533	{fc(57e4f1)El anuncio que nos avisaba de que se había acabado el tiempo resonó por el interior de la cápsula.}
+520	7479921e	Alerta de intrusos. Alerta de intrusos. Se detectó personal no autorizado en los terrenos de la escuela.
+530	860ad3e8	Modo de defensa activado. Todas las tropas disponibles, prepárense para el combate de inmediato.
+540	15abfa55	{fc(57e4f1)V'ehxness debía de haber movilizado a su ejército para atacar la escuela al notar que el Muro de Fuego había desaparecido.}
+550	260831a3	{fc(57e4f1)Ya no había tiempo para escapar. Nuestra gran apuesta había fracasado.}
+560	e3253ee3	{fc(57e4f1)Todo porque intenté descaradamente sobrevivir junto a los demás...}
+570	57558a8d	{fc(57e4f1)Salimos corriendo rápidamente de la cápsula para enfrentarnos a V'ehxness y sus tropas.}

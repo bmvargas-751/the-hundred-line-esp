@@ -1,64 +1,64 @@
 id	huella_jp	es
-10	8d3ac9b2	La Caza de Invasores, eh...
-20	f443eec3	{fc(57e4f1)Me tumbé en la cama de mi cuarto y pensé\nen el misterioso juego cuyo inicio acababan de anunciar.}
-30	aa7b07a3	{fc(57e4f1)¿Qué estaba pensando el culpable que escribió eso\nal invitarnos a un juego?}
-40	7f4d687b	{fc(57e4f1)¿Qué clase de juego quería que jugáramos?\n¿O el anuncio mismo era una trampa?}
-50	259ce85e	{fc(57e4f1)No lograba descifrar sus intenciones\ny me rompía la cabeza... cuando de pronto.}
-70	d6be85f3	¿Mm? ¿Visita?
-80	8ebbb9c3	{fc(57e4f1)Al abrir la puerta, apareció Darumi,\ncon quien había estado hasta hacía un momento.}
+10	8d3ac9b2	Una Caza de Invasores...
+20	f443eec3	{fc(57e4f1)Estaba tendido en la cama, dándole vueltas a ese misterioso juego en el que supuestamente íbamos a participar.}
+30	aa7b07a3	{fc(57e4f1)¿Por qué quien escribió el mensaje nos invitaría a un juego?}
+40	7f4d687b	{fc(57e4f1)¿Qué clase de juego tenía planeado? ¿O el propio anuncio era una trampa?}
+50	259ce85e	{fc(57e4f1)Me devanaba los sesos sin lograr adivinar la intención detrás de todo esto... hasta que de pronto...}
+70	d6be85f3	¿Mm? ¿Una visita?
+80	8ebbb9c3	{fc(57e4f1)Abrí la puerta y me encontré cara a cara con Darumi.}
 90	f4a72a8b	
-100	3eedf774	Darumi... ¿qué pasa?
+100	3eedf774	¿Darumi...? ¿Qué pasa?
 110	f4a72a8b	
-120	9fdec90b	O-Oye... ¿por qué no dices nada?
-130	6083e82e	{fc(57e4f1)Darumi permanecía callada,\nsin decir nada.}
+120	9fdec90b	O-Oye... ¿Por qué no dices nada?
+130	6083e82e	{fc(57e4f1)Darumi siguió ahí parada, sin decir ni una sola palabra.}
 140	f4a72a8b	
-150	f34fbbb2	{fc(57e4f1)Un minuto, dos minutos...\npasó el tiempo en silencio...}
-160	dc129b4e	Tres personas, no puede ser...
-170	1f67d97c	{fc(57e4f1)Por fin, Amemiya habló.}
-180	316b5beb	En serio, no puede ser... un juego mortal con tres participantes...\nLo que hace florecer un juego mortal es la participación masiva y las muertes masivas...
-190	5fa63e7d	Así no hay matanza...\nni battle ni royale...
-200	247e6d4d	No puede ser... de verdad no puedo...
-210	6c33716c	{fc(57e4f1)Murmuraba para sí misma,\npero en resumen, esta...}
-220	f5b9dd3a	O sea que lo que quieres decir es que te molesta\nque haya tan pocos participantes en el juego, ¿no?
-230	2770edbd	¡Eso es lo que dije desde el principio, ¿no?!
-240	c8d17518	¡No lo dijiste!
-250	298428b9	{fc(57e4f1)Desde que se anunció el juego mortal,\nsiento que la inestabilidad emocional de Darumi empeoró...}
-260	24858680	La gente común siempre es así... para las fiestas deportivas y culturales\nparticipan felices... ¿por qué no se matan entre sí...?
-270	888c05ba	Porque no quieren morir...
-280	64251cf4	Ay, así se cancela el juego mortal...
-290	d0a27ea3	Cancelarlo, de ninguna manera...\nLa cancelación es imperdonable... kyo... kyo... kyo...
-300	df1e1b62	¡Así que, Takumi, ayuda tú también a que se celebre!\n¡Convéncelos para que participen en el juego mortal!
-310	67b8f976	No... no hay forma de que ellos\nse dejen convencer por nosotros.
-320	2382fb01	Hace un rato ni siquiera\nnos hicieron caso.
-330	020ee9cb	Tranquilo. Si te quedas en su cuarto todo el tiempo insistiendo,\nal final se rinden y ceden.
-340	f125d8c4	Ah... justo lo que me estás haciendo ahora\na mí.
-350	24a4833c	Darumi es tonta e inútil,\npero se le da muy bien quedarse sin irse.
-360	3397de99	Por más que mi hermano y mi papá me dijeran "¡fuera!",\nnunca me fui de casa: me quedé en mi casa durante 17 años.
-370	417f7665	¡Bueno, solo porque no tenía adónde escapar!
+150	f34fbbb2	{fc(57e4f1)Pasó un minuto, luego dos...}
+160	dc129b4e	Tres personas no bastan...
+170	1f67d97c	{fc(57e4f1)Por fin habló.}
+180	316b5beb	¿Un juego de asesinatos con solo tres personas? Eso no va a funcionar. La gracia de un juego de asesinatos es que hay montones de participantes... y muchas muertes.
+190	5fa63e7d	Tres personas no hacen una masacre. O sea, olvídate del "royale", ni siquiera es suficiente "batalla" para emocionarse.
+200	247e6d4d	Totalmente imposible. O sea, imposible de verdad.
+210	6c33716c	{fc(57e4f1)Murmuraba para sí, pero más o menos entendí lo que quería decir.}
+220	f5b9dd3a	¿Dices que no hay suficiente gente para un juego de asesinatos como es debido?
+230	2770edbd	¡Literalmente llevo diciéndolo todo este rato!
+240	c8d17518	¿En serio? No me di cuenta.
+250	298428b9	{fc(57e4f1)Tuve la impresión de que este anuncio solo había agravado la inestabilidad emocional de Darumi.}
+260	24858680	Los normales siempre hacen lo mismo. Están superfelices de hacer una competencia deportiva o un show de talentos, pero si propones un juego de asesinatos dicen: "¡Puaj, ni hablar!"
+270	888c05ba	Probablemente porque no quieren morir.
+280	64251cf4	A este paso no tendré mi juego de asesinatos...
+290	d0a27ea3	No puede ser... Si lo cancelan, se acabó todo... Kyo... jo... jo...
+300	df1e1b62	¡Tienes que ayudarme, Takumi! ¡Diles lo importante que es y convéncelos de jugar!
+310	67b8f976	¿Bromeas? No hay forma de que me escuchen.
+320	2382fb01	Hasta hace un momento apenas prestaron atención a lo que dije.
+330	020ee9cb	No pasa nada. ¡Solo párate en sus puertas y sigue presionando! Al final cederán.
+340	f125d8c4	¿Como lo que me estás haciendo a mí ahora?
+350	24a4833c	Puedo ser tonta e inútil, pero hasta yo sé hacer una sentada.
+360	3397de99	O sea, me quedé en casa de mis padres prácticamente toda la vida sin irme nunca, por mucho que mi hermano y mi papi me gritaran que me largara.
+370	417f7665	¡Aunque, bueno, sobre todo fue porque no tenía otro lugar adonde ir!
 380	f4a72a8b	
-390	2aeeee2e	{fc(57e4f1)¡No sé cómo reaccionar a eso...!}
-400	e81ae9e5	Entonces, Takumi se encarga de convencer\na Takemaru, Shouma, Ima y Kako.
-410	8274f4f9	Tu tarea es hacer que estos cuatro\ncambien al {fc(ff635b)"bando de participar"} antes de la hora de reunión.
-420	5857d79e	¡Sin falta!\n¡Haz que participen en el juego mortal, ¿eh?!
-430	dd261ea3	{fc(57e4f1)Darumi dijo eso de manera unilateral\ny se fue de mi cuarto como un huracán.}
-440	2702ba36	Qué pesada... ¿por qué tiene que ser tan insistente?
-450	5957f51a	{fc(57e4f1)Pero, ya que me lo pidió,\nno podía quedarme sin hacer nada.}
-460	a9232935	{fc(57e4f1)Si se cancelaba el juego, yo también quedaba mal,\nasí que decidí animar a todos a participar.}
-470	fb1eee09	Me toca convencer\na Takemaru, Shouma, Ima y Kako...
-480	0f499310	{fc(57e4f1)De este grupo, el que más probablemente\nse dejaría convencer era Takemaru.}
-490	8f032493	{fc(57e4f1)A primera vista parece rudo,\npero en el fondo es sincero y amable.}
-500	61219199	{fc(57e4f1)Si le hablo con fervor,\nquizás me escuche.}
-510	811e5e2a	Bien... al primero que voy a convencer es a Takemaru.
-520	a53d86d5	{fc(57e4f1)Una vez decidido, todo fue rápido.\nPensemos en cómo hacer que se decida a participar.}
-530	d42a76dd	Si Yakushiji no quiere participar en el juego...\nes porque desconfía de lo imprevisto, ¿no?
-540	8804408d	{fc(57e4f1)Al fin y al cabo, el rival es el criminal feroz que mató a Gaku...}
-550	1f833755	{fc(57e4f1)Entiendo bien el deseo de evitar el enfrentamiento.\nPero...}
-560	214ecb36	¡Así nunca vamos a saber\nquién es el culpable!
-570	3dbd6c60	{fc(57e4f1)Yo no quiero eso de ninguna manera...\nQuiero atrapar, cueste lo que cueste, al que mató a mi compañero.}
-580	88899d25	{fc(57e4f1)Gaku era un adulador, tramposo\ne insoportable...}
-590	c561bdf7	{fc(57e4f1)¡pero no era alguien que mereciera morir!}
-600	2b59ccc8	{fc(57e4f1)No perdono al culpable que mató a Maruko... quiero atraparlo.\nTakemaru también tiene que sentir lo mismo.}
-610	19d5d342	{fc(57e4f1)Quiero que Yakushiji también recuerde.\nLo que sintió cuando asesinaron cruelmente a Gaku...}
-620	1f625321	Pero... ¿cómo hago que Yakushiji\nse anime...?
-630	68fce53a	{fc(57e4f1)¿Cómo se le enciende la sangre...?\n¿Cómo se le calienta el corazón a una persona...?}
-640	611adf49	No tiene sentido darle vueltas yo solo...\nPidamos la opinión de los demás.
+390	2aeeee2e	{fc(57e4f1)¡¿Qué se supone que responda a eso?!}
+400	e81ae9e5	Bien, tú te encargarás de convencer a Takemaru, Shouma y los gemelos.
+410	8274f4f9	Tu trabajo es convertirlos en {fc(ff635b)jugadores} dispuestos antes de la hora acordada.
+420	5857d79e	¡TIENES QUE LOGRAR QUE JUEGUEN! ¡Cueste lo que cueste!
+430	dd261ea3	{fc(57e4f1)Darumi se fue hecha una furia sin darme oportunidad de objetar.}
+440	2702ba36	Uf, ¿por qué es tan insistente...?
+450	5957f51a	{fc(57e4f1)Pero ahora que me lo pidió, no puedo quedarme de brazos cruzados...}
+460	a9232935	{fc(57e4f1)Yo tampoco quiero que cancelen el juego, así que supongo que debería intentar animar a todos a unirse.}
+470	fb1eee09	Se supone que debo persuadir a Takemaru, Shouma, Ima y Kako, ¿eh...?
+480	0f499310	{fc(57e4f1)De los cuatro, Takemaru parece el más dispuesto a escucharme.}
+490	8f032493	{fc(57e4f1)Parece un duro, pero en el fondo es sincero y amable.}
+500	61219199	{fc(57e4f1)Quizá me escuche si ve que me importa de verdad.}
+510	811e5e2a	Bien, el primero al que intentaré convencer es Takemaru.
+520	a53d86d5	{fc(57e4f1)Eso lo decide. Ahora toca pensar en cómo lograr que se una.}
+530	d42a76dd	Seguramente está en contra porque desconfía de lo que podría pasar...
+540	8804408d	{fc(57e4f1)Sus preocupaciones son válidas. Al fin y al cabo, el monstruo que masacró a Gaku está detrás de esto.}
+550	1f833755	{fc(57e4f1)Entiendo que quiera evitar un enfrentamiento. Pero...}
+560	214ecb36	¡Si no participamos, quizá nunca sepamos quién está de verdad detrás de todo esto...!
+570	3dbd6c60	{fc(57e4f1)No puedo permitirlo. Quiero atrapar a quien mató a nuestro amigo, cueste lo que cueste.}
+580	88899d25	{fc(57e4f1)Gaku puede haber sido un descuidado y un bromista tramposo, pero...}
+590	c561bdf7	{fc(57e4f1)¡Era uno de los nuestros. No merecía morir!}
+600	2b59ccc8	{fc(57e4f1)Jamás perdonaré a quien lo mató. Voy a encontrarlo. Y sé que Takemaru siente lo mismo.}
+610	19d5d342	{fc(57e4f1)Quizá debería hacerle recordar cómo se sintió cuando asesinaron a Gaku...}
+620	1f625321	¿Pero cómo hago eso?
+630	68fce53a	{fc(57e4f1)¿Cómo vuelvo a encender a Takemaru? ¿Cómo se reaviva la rabia en el corazón de alguien?}
+640	611adf49	De nada sirve intentar resolverlo solo... Debería preguntar por ahí a ver si alguien tiene ideas.

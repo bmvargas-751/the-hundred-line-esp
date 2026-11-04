@@ -1,148 +1,148 @@
 id	huella_jp	es
-10	613ce830	Parece la casa de gente rica...
-20	2b79dde0	Qué suntuosa...\n¿vivirá ahí algún comandante?
-30	0a700b9f	{fc(57e4f1)Habíamos llegado a una mansión de estilo occidental con lujosos adornos.\nAlrededor de la entrada no se veía al enemigo, pero...}
-40	1c33b9b5	Entremos más al fondo... ustedes dos, síganme.
-50	dca9422c	{fc(57e4f1)Contuvimos el aliento y avanzamos con cuidado dentro de la mansión.}
+10	613ce830	Parece una mansión...
+20	2b79dde0	Bastante elegante, ¿no? Quizá aquí vivía un comandante.
+30	0a700b9f	{fc(57e4f1)Habíamos llegado a una finca lujosamente decorada. No había señales de enemigos cerca de la entrada, pero...}
+40	1c33b9b5	Entremos... Vengan conmigo, chicos.
+50	dca9422c	{fc(57e4f1)Avanzamos con cautela por la mansión, conteniendo el aliento.}
 60	f4a72a8b	
-70	6dde14b2	{fc(57e4f1)¿Habrá de verdad invasores en este lugar...?\nEl corazón me latía fuerte de ansiedad y expectativa.}
-80	42858b53	{fc(57e4f1)Ojalá estén, invasores... si aquí no ganamos puntos, Tsubasa...}
+70	6dde14b2	{fc(57e4f1)¿De verdad había invasores aquí? La ansiedad y la expectativa hacían que el corazón me latiera tan fuerte que apenas podía concentrarme.}
+80	42858b53	{fc(57e4f1)Por favor, que haya invasores... Si no conseguimos puntos aquí, Tsubasa...}
 90	c98ee14e	¡...!
-100	9db5e364	{fc(57e4f1)Sin querer, contuve la respiración.\nEn el fondo de la mansión estaba lo que buscábamos...}
-110	6e899006	{fc(57e4f1)¡un montón de invasores...!}
-120	23a7ca49	No es un sueño, ¿verdad...?
-130	912cde51	{fc(57e4f1)Casi me pellizco la mejilla...\npero no era momento.}
-140	6019c41b	{fc(57e4f1)¡No podíamos desperdiciar esta oportunidad!}
-150	96437be2	¡Vamos, los dos...!\n¡A cazar con todas nuestras fuerzas!
-160	77fc0a02	¡Sí...!
-170	6bfa3903	¡Sí!
-180	e06e81a1	{fc(57e4f1)¡Nos lanzamos con todas nuestras fuerzas contra los invasores!}
-190	0cc73b0c	{fc(57e4f1)Yugamu puede cazar solo,\nno necesita mi apoyo...}
-200	cd146bae	{fc(57e4f1)Pero a Tsubasa se le dificulta pelear afuera.\n¡Tengo que apoyarla para que gane puntos...!}
-210	1e33ee24	{fc(57e4f1)Cacé invasores como de costumbre.}
-220	e0ed6598	{fc(57e4f1)Con calma...}
-230	c8bc8097	{fc(57e4f1)Hago la tarea...}
-240	e0ed6598	{fc(57e4f1)Con calma...}
-250	c8bc8097	{fc(57e4f1)Hago la tarea...}
-260	e0ed6598	{fc(57e4f1)Con calma...}
-270	dac67edd	{fc(57e4f1)Hago la tarea...}
-280	fa1d4c4a	¡Haa... haa... haa... haa...!
-290	585012bc	Creo que... ¡ganamos bastantes puntos...!
-300	c17df3d7	Sí, ¡pero todavía no alcanzan para nada!
-310	3651d789	{fc(57e4f1)En el puesto avanzado, Takemaru y los suyos\nganaron muchos puntos dándole el golpe final al comandante de la Cuarta Unidad.}
-320	f44da525	{fc(57e4f1)¡Para cubrir esa diferencia,\ntenemos que ganar aquí más puntos!}
-330	235626eb	{fc(57e4f1)Decidí seguir cazando sin descansar.}
-340	e0ed6598	{fc(57e4f1)Con calma...}
-341	c8bc8097	{fc(57e4f1)Hago la tarea...}
-342	e0ed6598	{fc(57e4f1)Con calma...}
-343	c8bc8097	{fc(57e4f1)Hago la tarea...}
-344	e0ed6598	{fc(57e4f1)Con calma...}
-345	dac67edd	{fc(57e4f1)Hago la tarea...}
-350	3ebace96	Haa... haa... haa... haa...
-360	a11f3f9e	¿Ya... se acabó?
-370	d5a900d2	¡¿No hay más invasores...?!
-380	72fcb3c7	{fc(57e4f1)Miré a mi alrededor, pero\nel interior de la mansión estaba en silencio.}
-390	6589e395	Parece que... los cazamos a todos.
-400	2f135ce8	¡Qué...!
-410	1cf77586	{fc(57e4f1)Esto no basta de ninguna manera...\npara salvar a Tsubasa hacen falta más puntos.}
-420	772a64ec	{fc(57e4f1)Y justo entonces.}
+100	9db5e364	{fc(57e4f1)Tragué saliva. En lo más hondo de la finca...}
+110	6e899006	{fc(57e4f1)Encontramos lo que buscábamos. ¡Había muchísimos invasores!}
+120	23a7ca49	¿Estoy... soñando?
+130	912cde51	{fc(57e4f1)Quise pellizcarme las mejillas para asegurarme, pero no tenía ni un minuto que perder.}
+140	6019c41b	{fc(57e4f1)¡Teníamos que aprovechar esta oportunidad de oro!}
+150	96437be2	¡Vamos, chicos! ¡Cacen con todo lo que tengan!
+160	77fc0a02	¡Sí!
+170	6bfa3903	¡Entendido!
+180	e06e81a1	{fc(57e4f1)Atacamos a los invasores con todas nuestras fuerzas.}
+190	0cc73b0c	{fc(57e4f1)Yugamu podía cazar solo y no necesitaba mi ayuda.}
+200	cd146bae	{fc(57e4f1)Pero a Tsubasa no se le daba tan bien pelear fuera de la escuela. ¡Tenía que ayudarla a conseguir esos puntos!}
+210	1e33ee24	{fc(57e4f1)Cacé a los invasores como siempre.}
+220	e0ed6598	{fc(57e4f1)Desapégate...}
+230	c8bc8097	{fc(57e4f1)Solo es trabajo...}
+240	e0ed6598	{fc(57e4f1)Desapégate...}
+250	c8bc8097	{fc(57e4f1)Solo es trabajo...}
+260	e0ed6598	{fc(57e4f1)Desapégate...}
+270	dac67edd	{fc(57e4f1)Solo... es trabajo...}
+280	fa1d4c4a	*Jadeo...* *jadeo...* *jadeo...* *jadeo...*
+290	585012bc	Siento que... hemos acumulado un montón de puntos...
+300	c17df3d7	¡Sí, pero todavía no podemos parar!
+310	3651d789	{fc(57e4f1)Takemaru y las gemelas habían ganado una enorme cantidad de puntos por rematar a la comandante de la Cuarta Unidad en el puesto de avanzada.}
+320	f44da525	{fc(57e4f1)¡Tenemos que seguir sumando puntos aquí si queremos cerrar la brecha!}
+330	235626eb	{fc(57e4f1)Decidí seguir cazando sin tomarme ningún descanso.}
+340	e0ed6598	{fc(57e4f1)Desapégate...}
+341	c8bc8097	{fc(57e4f1)Solo es trabajo...}
+342	e0ed6598	{fc(57e4f1)Desapégate...}
+343	c8bc8097	{fc(57e4f1)Solo es trabajo...}
+344	e0ed6598	{fc(57e4f1)Desapégate...}
+345	dac67edd	{fc(57e4f1)Solo... es trabajo...}
+350	3ebace96	*Jadeo...* *jadeo...*
+360	a11f3f9e	¿Es eso... todo?
+370	d5a900d2	¿Quedan más invasores...?
+380	72fcb3c7	{fc(57e4f1)Miré alrededor, pero dentro de la finca se había hecho el silencio.}
+390	6589e395	Parece que acabamos con todos...
+400	2f135ce8	¡¿Qué?!
+410	1cf77586	{fc(57e4f1)No es suficiente... ¡Necesitamos más puntos si queremos salvar a Tsubasa!}
+420	772a64ec	{fc(57e4f1)Justo entonces...}
 430	c98ee14e	¡...!
-440	e2a3279e	{fc(57e4f1)Yugamu se giró de repente con fuerza\nhacia el fondo de la mansión.}
-450	446e954a	Cuidado, todos...\nalgo extraño se acerca desde allá.
+440	e2a3279e	{fc(57e4f1)Yugamu se volvió de pronto hacia la parte más profunda de la finca.}
+450	446e954a	Cuidado, chicos... Una presencia extraña se acerca desde allá.
 460	cc0694dc	¡¿Invasores?!
-470	ee4ac13d	La presencia es de invasores...\npero hay algo raro.
-480	0bccc637	¿Raro...?
-490	8b959de4	La presencia y los pasos no concuerdan.\nEstos pasos son como de...
-500	d6aa80ef	{fc(57e4f1)Justo cuando Yugamu ladeó la cabeza extrañado,\n}{fc(ff635b)"esos"}{fc(57e4f1) aparecieron ante nosotros.}
-510	fe89f643	¡¿Q-Qué...?!
-520	b4e6a95f	{fc(57e4f1)No podía creer lo que veían mis ojos...\nhabía algo que no debía existir.}
-530	1a511ac2	No puede ser... ¿por qué están aquí...?
-540	6da44a4d	¡¿Hay humanos...?!
-550	121479a0	¡¿No habían huido todos los humanos\nal Satélite Artificial?!
-560	107047b1	¿Habrá humanos que se quedaron en la Tierra...?\nEn todo caso, escuchemos lo que dicen.
-570	e4ad02f6	{fc(57e4f1)Dejamos las armas a nuestros pies\ne intentamos hablar con los humanos que aparecieron.}
+470	ee4ac13d	Parecidos... pero hay algo raro.
+480	0bccc637	¿Raro en qué?
+490	8b959de4	El sonido de sus pasos no coincide con lo que percibo. Estos pasos... parecen...
+500	d6aa80ef	{fc(57e4f1)Justo cuando Yugamu ladeaba la cabeza confundido, }{fc(ff635b)ellos}{fc(57e4f1) se mostraron.}
+510	fe89f643	¡¿Eh?!
+520	b4e6a95f	{fc(57e4f1)No podía creer lo que veía. Lo que miraba no debería haber sido posible.}
+530	1a511ac2	No puede ser... Cómo...
+540	6da44a4d	¿Cómo hay humanos aquí?
+550	121479a0	¡¿Creí que todos habían escapado al Satélite Artificial?!
+560	107047b1	¿Significa que algunos se quedaron aquí en la Tierra? Deberíamos preguntarles qué pasó.
+570	e4ad02f6	{fc(57e4f1)Dejamos caer nuestras armas a los pies e intentamos hablar con la gente.}
 580	31964026	{fc(57e4f1)Pero...}
-590	b44f02dc	¡Hasta aquí llegaron, agresores...!
-600	461168b2	¡Por culpa de ustedes a nosotros también nos van a {fc(ff635b)"transformar"}!
-610	c2d342b3	¡Aquí mismo los voy a matar...!
-620	39f91b1b	¡¿Por qué están tan enojados?!
-630	dfc0708b	El ambiente no permite ninguna conversación...
-640	a2bad2b2	{fc(57e4f1)Este ambiente es muy malo...\na este paso podría estallar una pelea.}
-650	a7a9c540	¡Huyamos por ahora...!\n¡Antes de que nos ataquen!
-660	cda2a28c	{fc(57e4f1)Dimos media vuelta y nos dirigimos a la salida\npara abandonar la mansión.}
-670	772a64ec	{fc(57e4f1)Y justo entonces.}
-680	8a3dabb8	¿Seguro? Si huyes ahora,\nla pequeña Tsubasa morirá, ¿sabes?
-690	914e5b8d	...¡¿?!
-700	3928772e	{fc(57e4f1)Oímos una voz que no debía oírse,\ny nos detuvimos.}
-710	1786d99e	{fc(57e4f1)Al girarnos, allí estaba...}
-720	cfc54df6	{fc(57e4f1)una abeja volando...}
-730	3a1fbac2	{fc(57e4f1)Una abeja del patrocinador... pero me pareció mucho más grande que las normales...}
-740	e6217f48	¿Se sorprendieron? Esta abeja lleva incorporada\nla función de un walkie-talkie.
-750	9d0562b6	¡Así puedo hablar con ustedes\na distancia en cualquier momento y lugar!
-760	60c45c42	{fc(57e4f1)Parece que el patrocinador nos transmitía su voz\na través de esa abeja...}
-770	93babedb	Lo siento, pero no tengo tiempo para hablar contigo...\ntenemos que huir.
-780	0f5f889d	¿Por qué huyen? ¡Con tantos invasores aquí,\n¿no van a ganar puntos?!
-790	0b855b2f	¡Ya cazamos a todos los invasores...!\n¡Lo único que queda son humanos!
-800	2950c522	Takumi, ¿qué estás diciendo?\n¡Esos que están ahí...
-810	1ef46a53	son invasores de verdad!
-820	fb80b531	¿Qué...?
-830	a4bc83b7	{fc(57e4f1)¿Estas personas... son invasores?}
-840	5f8c8a34	¡¿Qué miran?! ¡Vengan, agresores...!
-850	5e264933	¡Si no vienen, iremos nosotros...!
-860	1094c506	¡Los voy a matar...!\n¡Los voy a matar...!
-870	c690bcd7	Para ser más exacto, son los {fc(ff635b)"cuerpos base"} de invasores.\nComo todavía no están procesados, tienen forma casi humana.
-880	4d6114d9	Tú... ¿qué estás diciendo desde hace rato...?
-890	b830d97a	El subsuelo de aquí es una de las fábricas de invasores.
-900	76a3dd64	Estaba cubierta de polvo desde hace mucho,\npero se decidió reactivarla.
-910	1b8e0541	Para aumentar en masa los invasores, que se redujeron bastante,\nse transportaron aquí los cuerpos base convocados.
-920	0321e3b5	¡Espera... espera!\n¡¿Los invasores se fabrican a partir de humanos?!
-930	5fdb1e99	Si los cuerpos base se consideran humanos o no es discutible,\npero, en pocas palabras, eso es lo que son.
+590	b44f02dc	¡Ustedes, invasores, caen en lo más bajo, ¿verdad?! ¡¿Cómo diablos encontraron este lugar?!
+600	461168b2	¡Es culpa de ustedes que nos {fc(ff635b)transformáramos}!
+610	c2d342b3	¡Los voy a matar aquí y ahora!
+620	39f91b1b	¿Por qué están tan furiosos?
+630	dfc0708b	No creo que tengan ganas de hablar...
+640	a2bad2b2	{fc(57e4f1)El aire estaba tenso. No íbamos a poder evitar una pelea.}
+650	a7a9c540	¡Huyamos...! ¡Antes de que ataquen!
+660	cda2a28c	{fc(57e4f1)Nos volvimos hacia la salida para abandonar la finca.}
+670	772a64ec	{fc(57e4f1)Pero al instante siguiente...}
+680	8a3dabb8	¿Seguros de eso? Si se van ahora, Tsubasa morirá, ¿saben?
+690	914e5b8d	¡¿...?!
+700	3928772e	{fc(57e4f1)Nos detuvimos en seco al oír una voz que no debería estar allí.}
+710	1786d99e	{fc(57e4f1)Al volvernos, vimos...}
+720	cfc54df6	{fc(57e4f1)Una sola abeja flotando en el aire.}
+730	3a1fbac2	{fc(57e4f1)Era una del patrocinador. Y de algún modo parecía más grande que las demás.}
+740	e6217f48	¿Los asusté? Esta abeja viene equipada con un transceptor.
+750	9d0562b6	¡Puedo hablarles a distancia, en cualquier momento y lugar!
+760	60c45c42	{fc(57e4f1)El patrocinador nos hablaba a través de la abeja.}
+770	93babedb	Por desgracia, no tenemos tiempo para charlar. Tenemos que irnos.
+780	0f5f889d	¿Irse? ¿Por qué? Aquí hay un montón de invasores; ¿no quieren ganar algunos puntos?
+790	0b855b2f	¡Ya cazamos a todos los invasores! ¡Lo único que queda son... humanos!
+800	2950c522	Takumi, ¿de qué demonios hablas? Esas cosas...
+810	1ef46a53	Son claramente invasores.
+820	fb80b531	¿Eh...?
+830	a4bc83b7	{fc(57e4f1)¿Estas personas? ¿Invasores?}
+840	5f8c8a34	¡Dejen de mirar y vengan por mí!
+850	5e264933	¡Dejen de mirar o vamos a ir quieran o no!
+860	1094c506	¡Los voy a matar! ¡LOS VOY A MATAR!
+870	c690bcd7	Más precisamente, son el {fc(ff635b)armazón} de los invasores. Todavía no han sido procesados, así que parecen más humanos.
+880	4d6114d9	¿De qué demonios hablas?
+890	b830d97a	El sótano de ese edificio es una de las instalaciones de producción de invasores.
+900	76a3dd64	Acumuló polvo durante siglos, pero ahora está de nuevo en funcionamiento.
+910	1b8e0541	Es decir, estos armazones se trajeron aquí para producir en masa nuevos invasores tras haber sido tan diezmados.
+920	0321e3b5	Espera... Espera. ¡¿Los invasores se hacen con personas?!
+930	5fdb1e99	Las opiniones están divididas sobre si estos armazones pueden considerarse humanos, pero en términos de un lego, ¡tienes toda la razón!
 940	c98ee14e	¡...!
-950	fe569c35	{fc(57e4f1)Los invasores se hacen a partir de humanos...\nentonces, lo que hicimos hasta ahora, la Unidad de Defensa Especial...}
-960	153c0895	{fc(57e4f1)¡¿fue matar gente...?!}
-970	c4f53c1e	Ah, y otra cosa importante\nque quiero enseñarles.
-980	047f9d2b	Esos cuerpos base son objetivos\nde puntos altísimos, ¿sabes?
-990	7d11c50c	¿Estas personas... son objetivos de puntos altísimos?
-1000	d9e771f2	Los cuerpos base valen mucho.\nMucho más que los invasores adultos.
-1010	644739b7	Por eso, a quien los cace bien,\n¡le daremos un bono especial!
-1020	f2e167cb	¡No digas tonterías...! ¡Por muchos puntos que valgan,\nno se puede matar a la gente!
-1030	cff2ab01	¡Claro...!
-1040	cd756807	Matar... a personas... ¡ugh!
-1050	ee275e7a	...Yo soy un sicario sucio, pero\ndecidí no matar fuera del trabajo.
-1060	84c27262	Vaya. Ustedes aún conservan una ética normal.\nPero, ¿está bien? Si no los cazan...
-1070	48c5b061	¡la pequeña Tsubasa morirá!
+950	fe569c35	{fc(57e4f1)Los invasores se hacen con personas... Entonces la UDE ha estado...}
+960	153c0895	{fc(57e4f1)¿Asesinando... personas...?}
+970	c4f53c1e	Ah, cierto, tengo una cosa más importante que compartir contigo.
+980	047f9d2b	Esos armazones valen muchos puntos.
+990	7d11c50c	¿Estas personas son...?
+1000	d9e771f2	Los armazones son sumamente valiosos. Mucho más que los invasores completos.
+1010	644739b7	¡Así que quien los cace con valentía será recompensado con puntos de bonificación especialísimos!
+1020	f2e167cb	No digas tonterías... No me importa cuántos puntos valgan, ¡no voy a matar a seres humanos!
+1030	cff2ab01	¡Yo tampoco!
+1040	cd756807	La idea de matar personas... ¡Argh!
+1050	ee275e7a	Puedo ser un asqueroso asesino, pero no mato personas fuera del trabajo.
+1060	84c27262	Vaya. Todavía tienen brújulas morales tan rectas. Pero ¿están seguros? Si no los cazan...
+1070	48c5b061	¡Tsubasa va a morir!
 1080	c98ee14e	¡...!
-1090	e21eff13	{fc(57e4f1)Tsubasa morirá...\nal oírlo, me mareé y me tambaleé un poco.}
-1100	4bc4e718	¡Takumi... no le hagas caso!\n¡Yo no quiero vivir si tengo que matar gente...!
-1110	183cf2b7	¡Busquemos en otro lado, Sumino!\n¡No debemos estar en un lugar así!
-1120	5995d033	¿No? En otros lugares ya no quedan invasores.\nPorque ustedes casi los cazaron todos.
-1130	4e6d7c34	Si quieren salvar a su compañera,\nno queda más que decidirse aquí.
-1140	8f81d369	¿Verdad, Takumi?
+1090	e21eff13	{fc(57e4f1)Tsubasa va a morir... En el instante en que oí esas palabras, el cuerpo me dio un vuelco de mareo.}
+1100	4bc4e718	¡Takumi, no los escuches! No estoy dispuesta a matar personas para sobrevivir yo.
+1110	183cf2b7	¡Busquemos otra manera! ¡No podemos quedarnos aquí!
+1120	5995d033	¿Oh? No quedan invasores en ninguna otra parte. De verdad los cazaron hasta la extinción.
+1130	4e6d7c34	Si quieres salvar a tu amiguita, tendrás que tomar una decisión aquí.
+1140	8f81d369	¿No es así, Takumi?
 1150	c98ee14e	¡...!
-1160	9f5c8fa8	{fc(57e4f1)El patrocinador, desde el principio, apuntaba a esta situación:\nme guio hasta aquí para esto...}
-1170	af5b7dec	{fc(57e4f1)Dejar morir a una compañera, o matar humanos.\n¡Me obligaba a elegir entre las dos opciones...!}
-1180	59f9b83f	¡¡Ustedes, decídanse de una vez si vienen o no!!
-1190	61713235	¡Oigan, atacamos nosotros!\n¡¡Si es así, una carga suicida!!
-1200	4fca85bc	¡Sí, somos soldados!\n¡¡No le tememos a la muerte!!
-1210	aa2bfc81	{fc(57e4f1)...Aunque sean soldados,\nmatar humanos es impensable.}
+1160	9f5c8fa8	{fc(57e4f1)Así que esta es la verdadera razón por la que el patrocinador me envió aquí.}
+1170	af5b7dec	{fc(57e4f1)¡Querían obligarme a elegir entre matar seres humanos o dejar que mataran a una de mis amigas!}
+1180	59f9b83f	¡¿Van a pelear o no?!
+1190	61713235	¡Al diablo, prepárense! ¡Nos inmolaremos contra ustedes, monstruos!
+1200	4fca85bc	¡Sí, somos soldados! ¡No nos asusta morir!
+1210	aa2bfc81	{fc(57e4f1)No puedo matar a otra persona, aunque sea un soldado.}
 1220	2e47fdbe	{fc(57e4f1)Pero...}
-1230	d3aadf8e	{fc(57e4f1)¡No quiero perder a ninguna compañera más...!}
-1240	820ad8f3	Tsubasa, Yugamu... cierren los ojos.
-1250	61d3ac20	No, Takumi... ¿qué piensas hacer?\n¡Para, por favor, te lo ruego!
-1260	d84de70a	{fc(57e4f1)Desde el momento en que llegamos aquí,\nya no tenía opciones.}
-1270	54abc431	{fc(57e4f1)Quiero proteger a Yugamu, que ha estado siempre conmigo.\nY además...}
-1280	797e8a18	{fc(57e4f1)¡¡quiero proteger a la chica de la que me enamoré de verdad...!!}
-1290	d5f4727a	...¡...! ...¡...!
-1300	edcc66c4	{fc(57e4f1)Levanté la espada sobre mi cabeza con la mano temblorosa...}
-1310	96409a23	Eso es, así está bien, Takumi.
-1320	8c44e408	Los cuerpos base son muy frágiles.\nCon un solo mandoble tuyo se acaba todo.
-1330	75d7f845	{fc(57e4f1)Cállate... no me dejé engañar por tus palabras.}
-1340	9fb1a254	{fc(57e4f1)Esto es mi propia voluntad...\npara salvar la vida de Tsubasa, yo...}
-1350	f107cc77	¡No, Takumi, para...!
+1230	d3aadf8e	{fc(57e4f1)¡No quiero perder a otra amiga...!}
+1240	820ad8f3	Tsubasa. Yugamu. Cierren los ojos.
+1250	61d3ac20	Takumi... ¿Qué vas a hacer? ¡No, por favor...! ¡No puedes!
+1260	d84de70a	{fc(57e4f1)En el instante en que decidí venir aquí, la elección ya estaba hecha.}
+1270	54abc431	{fc(57e4f1)Quiero proteger a Yugamu, que estuvo a mi lado en todo momento. Y...}
+1280	797e8a18	{fc(57e4f1)¡Quiero proteger a la chica a la que de verdad he llegado a querer!}
+1290	d5f4727a	¡...!
+1300	edcc66c4	{fc(57e4f1)Alcé la espada con las manos temblorosas...}
+1310	96409a23	Eso es, Takumi. Hazlo.
+1320	8c44e408	Los armazones son increíblemente débiles. Un golpe de tu hoja y todo termina.
+1330	75d7f845	{fc(57e4f1)Cállate... No hago esto porque tú me convenciste.}
+1340	9fb1a254	{fc(57e4f1)Lo hago por mi propia voluntad... Para salvar la vida de Tsubasa...}
+1350	f107cc77	¡No, Takumi, no lo hagas!
 1360	58840fcd	¡Detente, Takumi...!
-1370	d4a4199e	{fc(57e4f1)Despierta tu propia maldad...\npor esta vez me convertiré en Eito Aotsuki.}
-1380	9f1aa4a1	{fc(57e4f1)Con la voluntad de aquel que odiaba a la humanidad misma\nen el cuerpo, yo...}
-1390	aecfd862	{fc(57e4f1)la espada en alto...}
-1400	73338b6f	¡¡Noooo...!!
-1410	4288897f	{fc(57e4f1)¡la hice caer...!}
-1420	80437692	{fc(cfff3f)"¡Zas...!"}
+1370	d4a4199e	{fc(57e4f1)Tengo que invocar el mal que llevo dentro... Solo esta vez, necesito canalizar a Eito Aotsuki.}
+1380	9f1aa4a1	{fc(57e4f1)Dentro de mi cuerpo llevo la voluntad de la persona que tanto despreciaba a la humanidad...}
+1390	aecfd862	{fc(57e4f1)Tomaré esta espada y...}
+1400	73338b6f	¡NO!
+1410	4288897f	{fc(57e4f1)La bajé con rapidez.}
+1420	80437692	{fc(cfff3f)*¡chaf!*}

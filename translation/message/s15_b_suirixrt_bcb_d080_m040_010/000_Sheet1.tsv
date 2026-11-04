@@ -1,14 +1,14 @@
 id	huella_jp	es
-10	b4c10a3f	{fc(57e4f1)...\n...}
-20	8f8a5deb	{fc(57e4f1)"PERSONA ANALIZADA: TSUBASA KAWANA".}
-30	6312a1c0	{fc(57e4f1)"CAUSA DE MUERTE: CHOQUE HEMORRÁGICO.\nHORA ESTIMADA DE MUERTE: DÍA 80, ENTRE LAS 5 Y LAS 8 DE LA MAÑANA".}
-40	792d8bed	{fc(57e4f1)"SE OBSERVAN VARIAS HERIDAS PUNZANTES EN TÓRAX Y ABDOMEN.\nSE PRESUME QUE EL ARMA FUE UN OBJETO AFILADO DE 20 CM DE HOJA".}
-50	82ace003	{fc(57e4f1)"Tiempo transcurrido tras la muerte excedido...\n　Criptoglobina residual insuficiente: no se puede revivir."}
+10	b4c10a3f	
+20	8f8a5deb	{fc(57e4f1)Sujeto: Tsubasa Kawana}
+30	6312a1c0	{fc(57e4f1)Causa de muerte: shock hemorrágico. Hora estimada de muerte: Día 80, entre las 5:00 y las 8:00 de la mañana.}
+40	792d8bed	{fc(57e4f1)Múltiples puñaladas en el pecho y el abdomen. El arma homicida es probablemente una hoja afilada de unos 20 cm de largo.}
+50	82ace003	{fc(57e4f1)Ha pasado demasiado tiempo desde la muerte. Criptoglobina insuficiente en el cuerpo. Imposible revivir.}
 60	88902fda	
-70	33ec1c89	{fc(57e4f1)"PERSONA ANALIZADA: MOKO MOJIRO".}
-80	6312a1c0	{fc(57e4f1)"CAUSA DE MUERTE: CHOQUE HEMORRÁGICO.\nHORA ESTIMADA DE MUERTE: DÍA 80, ENTRE LAS 5 Y LAS 8 DE LA MAÑANA".}
-90	c3f981ad	{fc(57e4f1)"SE OBSERVA UN CORTE EN LA ARTERIA CARÓTIDA.\nSE PRESUME QUE EL ARMA FUE UN OBJETO AFILADO DE LARGO DE HOJA DESCONOCIDO".}
-100	82ace003	{fc(57e4f1)"Tiempo transcurrido tras la muerte excedido...\n　Criptoglobina residual insuficiente: no se puede revivir."}
+70	33ec1c89	{fc(57e4f1)Sujeto: Moko Mojiro}
+80	6312a1c0	{fc(57e4f1)Causa de muerte: shock hemorrágico. Hora estimada de muerte: Día 80, entre las 5:00 y las 8:00 de la mañana.}
+90	c3f981ad	{fc(57e4f1)Arteria carótida lacerada. El arma homicida es probablemente una hoja afilada de largo desconocido.}
+100	82ace003	{fc(57e4f1)Ha pasado demasiado tiempo desde la muerte. Criptoglobina insuficiente en el cuerpo. Imposible revivir.}
 110	88902fda	
-120	4ece9ad8	{fc(57e4f1)Todos terminaron de revisar el monitor de análisis.\nLa sala se llenó de un aire pesado y sombrío.}
-130	c58fedda	{fc(57e4f1)Sin decir nada, cargamos los cuerpos de las dos\ny los llevamos a la morgue.}
+120	4ece9ad8	{fc(57e4f1)Cuando todos terminaron de ver el monitor, el ambiente de la sala se volvió completamente sombrío.}
+130	c58fedda	{fc(57e4f1)Trasladamos sus cuerpos a la Morgue en silencio.}

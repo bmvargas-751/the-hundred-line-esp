@@ -1,46 +1,46 @@
 id	huella_jp	es
-10	42f7a690	{fc(57e4f1)El último lugar que visité fue el gimnasio.\nAl entrar, allí estaban Tsubasa y Takemaru.}
-20	0e4259c1	Ah, Tsubasa, Takemaru, qué oportuno...\nquería preguntarles algo.
-30	d343c3f6	¿Qué...?
-40	09401090	Antes en el garaje me mostraron el modulador de voz...\nel cambiador de voz, ¿no?
-50	572562dc	¿Todavía está en el garaje?
-60	dca4918a	Ya veo, hablaste con Shouma, ¿verdad?\n¿Dijo que el culpable usaba un modulador de voz?
-70	40d68561	Sí, justo eso.
-80	00e7db55	Es lo que piensas, Takumi.\nEse aparato... desapareció.
-90	b13b18b4	Lo sabía. ¿Lo robó el culpable?
+10	42f7a690	{fc(57e4f1)Fui al Gimnasio en último lugar. Al entrar, vi que Tsubasa y Takemaru ya estaban allí.}
+20	0e4259c1	Tsubasa, Takemaru... Justo a tiempo. Tengo que preguntarles algo.
+30	d343c3f6	¿Qué es?
+40	09401090	¿Recuerdan el cambiador de voz que me mostraste en el Garaje el otro día?
+50	572562dc	¿Sigue allí?
+60	dca4918a	Shouma te habló de que el culpable usó un cambiador de voz, ¿eh?
+70	40d68561	Sí, así fue...
+80	00e7db55	Acertaste, Takumi. El aparato ha desaparecido.
+90	b13b18b4	Lo sabía. El culpable lo robó, ¿eh?
 100	388eb027	Creo que sí.
-110	c81285d2	¿Cuándo se dieron cuenta?
-120	ae085f0e	El día 28, cuando Shouma recuperó la conciencia.\nHablé con él, fui al garaje y...
-130	aefab958	¿No estaba el modulador?
-140	3f6e1439	Sí, había desaparecido sin que nos diéramos cuenta...
-150	870c023e	{fc(57e4f1)Me habían mostrado el modulador el mediodía del día 24.}
-160	fc7115b9	{fc(57e4f1)O sea que lo robaron después de eso,\ny antes de la madrugada del día 27 en que apuñalaron a Shouma.}
-170	798f06b7	Por cierto, ¿ustedes por qué están aquí...?
-180	5edb63f2	Ah, mientras dormías pensé mucho...\nsigo sin poder aceptar que Kako se haya suicidado.
-190	774605e7	Yo igual. Al principio pensaba que por la situación\nsolo podía ser suicidio, pero...
-200	87cc624c	pero oyendo a Hiruko, empecé a pensar\nque eso era poco natural.
-210	813e89dd	Pero si fue homicidio, queda el problema\nde cómo se escapó el culpable de aquí.
-220	e694103b	Por eso vinimos a investigarlo.
-230	a0bc03c5	Pensé que quizás haya algún pasadizo secreto\nen alguna parte de este edificio.
-240	0d48c2d4	Ya veo, pensamos lo mismo.
-250	9fdb74b4	O sea que... ¿tú también, Sumino?
-260	180d1e70	Sí, por más que lo piense, no me cabe en la cabeza...\nla muerte sospechosa de Kako, no se me va de la cabeza...
-270	80540b97	Entonces investiguemos los tres.
-280	27f2e5db	¡Sí!\n¡Estos tres somos {fc(ff635b)"inocentes confirmados"}, así que podemos darnos la espalda tranquilos!
-290	5479affb	¿{fc(ff635b)"Inocentes confirmados"}...?
-300	b3f923e5	Las personas que quedan descartadas con seguridad de la lista de sospechosos:\nlos {fc(ff635b)"inocentes confirmados"}.
-310	04c1beb4	Ah, cierto, era eso.
-320	69270b9c	{fc(57e4f1)Así empezó la búsqueda por el edificio.}
-330	0711fd5e	{fc(57e4f1)Los tres fuimos golpeando paredes y suelo con el puño,\nescuchando con el oído por si había alguna puerta oculta.}
-340	da8bf936	{fc(57e4f1)Y poco después...\nTakemaru, que revisaba el escenario, alzó la voz de repente.}
-350	d9e0231b	¡Ey, vengan! ¡Encontré algo grave!
-360	d1d92d1b	{fc(57e4f1)Era un rincón del escenario.\nTsubasa y yo corrimos hacia allí.}
-370	26489682	¡Q-Qué es esto...!
-380	5cfb2a24	Mentira... ¡de verdad había un pasadizo secreto...!\n¿O mejor dicho una {fc(ff635b)"escalera de mano oculta"}...?
-390	8ec536a2	¡Cuando revisé aquí hace un rato no había nada...!\n¡¿Cómo lo encontraste?!
-400	5749094b	¿No te dije que mi oído es como el de un perro?
-410	5517df0a	Golpeando el suelo con el puño,\nnoté que aquí había sin duda un hueco.
-420	36120f5a	Entonces acaricié la superficie del suelo,\ny salió una especie de manija que gira.
-430	df8cfb39	La agarré, la levanté... y apareció esto.
-440	12ee3e79	B-Bueno, ¡bajemos a ver...!
-450	01aacc04	Sí, es cierto...
+110	c81285d2	¿Cuándo te diste cuenta de que ya no estaba?
+120	ae085f0e	El Día 28, el día en que Shouma recobró el conocimiento. Fui al Garaje a comprobarlo tras oír su relato y...
+130	aefab958	¿El cambiador de voz ya no estaba?
+140	3f6e1439	Sí... Sin que nadie se diera cuenta...
+150	870c023e	{fc(57e4f1)Nos había mostrado el cambiador de voz la tarde del Día 24.}
+160	fc7115b9	{fc(57e4f1)Así que debió de robarse entre ese momento y la mañana del Día 27, antes de que apuñalaran a Shouma.}
+170	798f06b7	¿Y ustedes dos qué hacen aquí?
+180	5edb63f2	Yo también pensé mucho mientras estabas fuera de combate y... simplemente no creo que Kako se quitara la vida.
+190	774605e7	Yo tampoco. Al principio el suicidio parecía la única posibilidad según la situación.
+200	87cc624c	Pero después de escuchar a Hiruko, empecé a darme cuenta de lo poco natural que parecía todo.
+210	813e89dd	Pero si la mataron, ¿cómo escapó el culpable? Eso era lo que teníamos que averiguar.
+220	e694103b	Y por eso estamos aquí.
+230	a0bc03c5	Quizá haya aquí un túnel secreto o algo que pasamos por alto por completo, ¿sabes?
+240	0d48c2d4	Entonces todos estamos aquí para lo mismo.
+250	9fdb74b4	Quieres decir...
+260	180d1e70	Sí... Kako murió en circunstancias tan misteriosas que no puedo dejar de pensar en ello...
+270	80540b97	Revisemos juntos el lugar.
+280	27f2e5db	¡Sí! Y podemos confiar los unos en los otros porque los tres somos {fc(ff635b)Seguros}.
+290	5479affb	¿{fc(ff635b)Seguros}?
+300	b3f923e5	Los que podemos tachar "con seguridad" de la lista de sospechosos. ¡{fc(ff635b)Seguros}!
+310	04c1beb4	Es verdad...
+320	69270b9c	{fc(57e4f1)Y así empezamos a investigar el Gimnasio.}
+330	0711fd5e	{fc(57e4f1)Fuimos golpeando paredes y suelos para buscar puertas ocultas.}
+340	da8bf936	{fc(57e4f1)Pasó un rato hasta que Takemaru nos gritó desde el escenario.}
+350	d9e0231b	¡Eh, vengan aquí! ¡Encontré algo increíble!
+360	d1d92d1b	{fc(57e4f1)Estaba en una esquina del escenario. Tsubasa y yo fuimos corriendo.}
+370	26489682	¡¿Q-Qué demonios es esto?!
+380	5cfb2a24	¡No puede ser... de verdad había un túnel oculto! ¿O debería decir... una {fc(ff635b)escalera oculta}?
+390	8ec536a2	¡Ya revisé este lugar antes y no encontré nada! ¿Qué hiciste?
+400	5749094b	Te dije que tengo oído de perro...
+410	5517df0a	Golpeé el suelo y supe de inmediato que había un espacio vacío debajo.
+420	36120f5a	Luego tanteé la superficie y, ¿qué crees? Saltó una manija giratoria.
+430	df8cfb39	Agarré la manija, tiré y... ahí lo tienes.
+440	12ee3e79	¡V-Veamos qué hay ahí abajo!
+450	01aacc04	Sí...

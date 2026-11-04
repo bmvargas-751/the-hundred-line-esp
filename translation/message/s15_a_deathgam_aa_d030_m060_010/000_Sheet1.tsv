@@ -1,30 +1,30 @@
 id	huella_jp	es
-10	e16d0645	¡¡...!!
-20	ec51dd07	{fc(57e4f1)Casi grito.\nAllí había instalado un vehículo parecido a una nave espacial.}
-30	35e2fc03	Esto es una cápsula de escape...\n¡Es una cápsula de escape!
-40	a4a27b8f	{fc(57e4f1)No hay duda... es la cápsula de escape que salió el día 100\nen el mundo anterior.}
-50	3b35dbb3	Sí... yo también me asusté la primera vez que la vi.\nEs lo que Sumino mencionó antes, ¿no?
-60	e91fe35e	Seguramente este es el hangar de las cápsulas de escape...
-70	0b299506	¿No se puede activar ahora mismo?
-80	13d9c951	Yo también pensé eso y estuve investigando...\n¡pero la puerta está bloqueada con firmeza y ni siquiera se puede entrar!
-90	313532d1	Se podría abrir a la fuerza, pero si la puerta se rompe,\nya no serviría como nave espacial...
-100	cee8307a	Seguramente está hecha para que nadie suba hasta que llegue el día 100...
-110	f9da5f1e	{fc(57e4f1)Para que no nos escapemos de esta academia...}
-120	4e969dda	...Bueno, de la cápsula nos ocupamos después.\nAhora, lo importante es avanzar en el análisis del traje.
-130	977b3d50	¿Hace falta algún equipo para el análisis?\nSi hace falta, lo traigo del taller metalúrgico.
-140	689257b7	No... creo que no hace falta.\nEn esta sala hay equipos de todo tipo.
-150	497100c5	{fc(57e4f1)En la sala había muchos equipos y herramientas,\nque seguramente trajo Tsubasa.}
-160	c64cc2da	{fc(57e4f1)Y además... por alguna razón también había armas.}
-170	12a506aa	Pensando que, si pasaba algo, podía atrincherarme aquí,\nfui fabricando y guardando varias armas.
-180	2d41ee48	También traje comida a escondidas y está allá,\nasí que si tienen hambre, sírvanse con libertad.
-190	c0f7b19d	Jaja, cada vez se siente más como un escondite, qué bien.\nHagamos de este lugar la base secreta de la Alianza Antipatrocinador.
-200	fd9d67fd	Y, ¿cómo analizamos el traje?\n¿Haremos algún experimento especial?
-210	74af8055	Lo que ustedes quieren saber es, en resumen,\ncómo romper este traje, ¿no?
-220	275021f8	Entonces, lo más rápido es repetir\ndiversas pruebas de impacto.
-230	b98a0f9b	Con cuatro experimentos de tracción, compresión, flexión y tenacidad,\nmediremos la tenacidad y la fragilidad de este traje.
-240	54556993	¿T-Tenacidad...? ¿Fragilidad?
-250	2cd5ef3d	{fc(57e4f1)Había muchos términos técnicos y no entendí bien...\npero al parecer harían ese tipo de experimentos.}
-260	2d893739	Bien... no entiendo, pero\nhagámoslo.
-270	ad9526a1	Descubriremos el punto débil de este traje,\ny con nuestras propias manos...
-280	7c71ec67	¡derrotaremos a ese patrocinador...!
-290	b8ecb1d0	{fc(57e4f1)Así pasamos la noche entera\nabsortos en el análisis del traje.}
+10	e16d0645	¡...!
+20	ec51dd07	{fc(57e4f1)Tuve que contenerme para no soltar un grito de sorpresa. Dentro del laboratorio había una enorme máquina que parecía una nave espacial.}
+30	35e2fc03	¡Esta... Esta es la cápsula de escape!
+40	a4a27b8f	{fc(57e4f1)Ya la había visto, por supuesto, al final de mis primeros 100 días aquí. Pero nunca esperé verla así, en este lugar.}
+50	3b35dbb3	Sí, yo también me sorprendí cuando la vi. Supe que debía de ser la cápsula de la que nos hablaste.
+60	e91fe35e	Seguramente este lugar está pensado para guardarla a salvo hasta que haga falta.
+70	0b299506	¿Hay alguna posibilidad de que la pongas en marcha ahora?
+80	13d9c951	Lo pensé, pero no sirve... Está cerrada a cal y canto y no hay forma de entrar.
+90	313532d1	Seguramente podríamos forzarla, pero no podemos ir al espacio con una puerta dañada.
+100	cee8307a	Debe de tener medidas de seguridad para que nadie la use antes del Día 100...
+110	f9da5f1e	{fc(57e4f1)Esa es la única vez en que se nos "permite" salir de esta escuela.}
+120	4e969dda	Bueno, ya pensaremos en la cápsula después. Concentrémonos en el traje por ahora.
+130	977b3d50	¿Necesitas alguna maquinaria del taller metalúrgico? Podemos ir a buscarla.
+140	689257b7	No, creo que estaré bien. Aquí hay equipo de sobra para empezar.
+150	497100c5	{fc(57e4f1)Miré alrededor del laboratorio. Estaba lleno de máquinas y equipos variados, probablemente cosas que Tsubasa ya había traído.}
+160	c64cc2da	{fc(57e4f1)También había muchas armas, por alguna razón.}
+170	12a506aa	Pensé en fabricarlas y guardarlas aquí para emergencias. Por si alguna vez necesitamos escondernos aquí dentro.
+180	2d41ee48	También metí víveres a escondidas. Sírvanse si les da hambre.
+190	c0f7b19d	Esto es una verdadera fortaleza. Será el cuartel general perfecto para la Alianza Antipatrocinador.
+200	fd9d67fd	Entonces, ¿cómo vas a investigar las capacidades del traje? ¿Tienes algún experimento en mente?
+210	74af8055	Básicamente quieren saber cómo atravesar las defensas de este traje, ¿no?
+220	275021f8	La forma más rápida de averiguarlo es hacerle un montón de pruebas de esfuerzo y ver cómo aguanta.
+230	b98a0f9b	Al probar su resistencia al estiramiento, a la presión y a la deformación elástica y plástica, podremos hacernos una mejor idea de su tenacidad a la fractura.
+240	54556993	¿Deformación...? ¿Fractura...?
+250	2cd5ef3d	{fc(57e4f1)No entendí algunos de esos términos, pero al menos uno de nosotros sabía lo que hacía.}
+260	2d893739	Bien, entonces... Manos a la obra.
+270	ad9526a1	Descubrir la debilidad de este traje es solo el primer paso.
+280	7c71ec67	Una vez que lo logremos, ¡derrotaremos al patrocinador!
+290	b8ecb1d0	{fc(57e4f1)Pasamos el resto de la noche probando y analizando el traje de todas las formas posibles.}

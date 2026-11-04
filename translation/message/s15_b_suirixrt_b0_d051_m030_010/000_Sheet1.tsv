@@ -1,31 +1,31 @@
 id	huella_jp	es
-10	5ae97e4c	¡¿Qué pasa...?!
-20	97961567	¡¿Qué sucedió...?!
-30	25f05c9f	Como me levanté temprano,\nfui a ver cómo estaba Shouma, pero...
-40	6b334c12	¡Y entonces... Shouma, Shouma...!
-50	4ccacd7b	¡¿Qué le pasó a Ginzaki?!
+10	5ae97e4c	¡¿Qué pasó?!
+20	97961567	¡¿Qué sucede?!
+30	25f05c9f	Me desperté temprano y fui a ver cómo estaba Shouma, y...
+40	6b334c12	Shouma... Él...
+50	4ccacd7b	¿Qué le pasó?
 60	deaa087f	¡Vengan conmigo! ¡Rápido!
-70	27d1ce6b	{fc(57e4f1)No hacía falta preguntar adónde.\nTodos corrimos a la vez hacia el patio.}
-80	8b739cea	{fc(57e4f1)Cruzamos volando el pasillo del segundo piso y entramos al patio.\nSin detenernos, corrimos hasta delante de la jaula.}
-90	c83b767f	{fc(57e4f1)Y allí había...}
-100	973ac4e1	¡¡...!!
-110	973ac4e1	¡¡...!!
-120	973ac4e1	¡¡...!!
-130	ab2c10ac	G-Shouma... guaj.
-140	b6d48e31	{fc(57e4f1)Kyoshika agarró la puerta para abrirla.}
-150	bdd3f94e	¡N-No se puede...!\n¡Está con llave y no abre!
-160	e5f1ab27	Si no me equivoco, la llave la tenía Takumi...
-170	3fdb138b	¡Esperen, la abro enseguida...!
+70	27d1ce6b	{fc(57e4f1)Todos sabíamos adónde íbamos. Corrimos juntos hacia el Patio a toda prisa.}
+80	8b739cea	{fc(57e4f1)Recorrimos el pasillo del segundo piso y salimos de golpe al Patio, y luego corrimos hacia la jaula sin detenernos.}
+90	c83b767f	{fc(57e4f1)Allí, vimos...}
+100	973ac4e1	¡...!
+110	973ac4e1	¡...!
+120	973ac4e1	¡...!
+130	ab2c10ac	S-Shouma... ¡Hurk...!
+140	b6d48e31	{fc(57e4f1)Kyoshika agarró la reja e intentó abrirla.}
+150	bdd3f94e	*gruñido* ¡S-Sigue cerrada con llave y no cede!
+160	e5f1ab27	¿No tiene Takumi la llave?
+170	3fdb138b	¡Esperen, la abro ya!
 180	0bc16d46	{fc(57e4f1)Saqué la llave del bolsillo y la metí en la cerradura.}
-190	56fb1080	{fc(57e4f1)La abrí, abrí la puerta y entré...}
-200	3159a430	{fc(57e4f1)Corrí junto a Shouma.\nPara tomarle el pulso, le toqué el cuello.}
-210	5f5377b9	{fc(57e4f1)Entonces... sentí una rara incongruencia.}
-220	6da2c60b	Está húmedo...
-230	257ff880	...¿Eh?
-240	510990e7	{fc(57e4f1)La ropa estaba igual.\nAl tocarla, noté que estaba humedecida.}
-250	7dc67b6c	¡¿Q-Qué haces?!\n¡Comprueba rápido si está vivo o muerto!
-260	ade424d1	No hace falta, ya lo comprobé...\ncomo ven...
-270	e09dd57c	¡Pero si lo llevamos a la enfermería como la otra vez...!
-280	e0102eb8	{fc(57e4f1)Yo, que había tocado el cuerpo, lo sabía.\nQue llevaba muerto ya bastante tiempo...}
-290	0804b905	{fc(57e4f1)Aun así, decidí aferrarme a un hilo de esperanza.}
-300	274715f1	Sí, probemos...
+190	56fb1080	{fc(57e4f1)Una vez abierta la reja, la abrí y entré.}
+200	3159a430	{fc(57e4f1)Corrí enseguida hacia Shouma y le toqué el cuello para comprobar el pulso.}
+210	5f5377b9	{fc(57e4f1)En ese momento, algo me pareció un poco raro.}
+220	6da2c60b	Está mojado...
+230	257ff880	¿Qué?
+240	510990e7	{fc(57e4f1)Le toqué la ropa y también estaba mojada.}
+250	7dc67b6c	¡¿Y bien?! ¡¿Está vivo o no?!
+260	ade424d1	Eso ya lo comprobé... Como pueden ver claramente, ya está...
+270	e09dd57c	¡Quizá todavía podamos revivirlo si lo llevamos a la Enfermería como la última vez!
+280	e0102eb8	{fc(57e4f1)Como había tocado el cuerpo, ya sabía que había pasado demasiado tiempo.}
+290	0804b905	{fc(57e4f1)Pero decidí seguirle la corriente de todos modos.}
+300	274715f1	Sí, deberíamos intentarlo...
