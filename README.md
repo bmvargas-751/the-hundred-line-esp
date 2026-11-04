@@ -24,16 +24,16 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 La traducción está completa, pero al jugarla las partidas posteriores tenían español poco natural. Se está corrigiendo con el método de siete pasadas de [REVISION.md](REVISION.md) (fidelidad, naturalidad, localización, gramática, género, consistencia y lectura final). Es aparte del avance de arriba:
 
 <!-- correccion -->
-| Sección | Líneas | Lectura completa | Líneas corregidas |
-|---|---:|---:|---:|
-| Primera partida | 18.294 | 0 % | 23 |
-| Rutas `s00` a `s03` | 17.061 | 100 % | ~800 |
-| Rutas `s04` a `s11` | 30.571 | 100 % | ~1.020 |
-| Rutas `s12` a `s14` | 40.287 | 100 % | — |
-| Ruta `s15` | 15.579 | 100 % | — |
-| Eventos y charlas | 3.848 | 47 % | 18 |
-| Cajas de texto (4 renglones) | 125.640 | 100 % | 20 |
-| **Total** | **125.640** | **~84 %** | |
+| Sección | Líneas | Lectura completa |
+|---|---:|---:|
+| Primera partida | 18.294 | 0 % |
+| Rutas `s00` a `s03` | 17.061 | 100 % |
+| Rutas `s04` a `s11` | 30.571 | 100 % |
+| Rutas `s12` a `s14` | 40.287 | 100 % |
+| Ruta `s15` | 15.579 | 100 % |
+| Eventos y charlas | 3.848 | 47 % |
+| Cajas de texto (4 renglones) | 125.640 | 100 % |
+| **Total** | **125.640** | **~84 %** |
 <!-- /correccion -->
 
 "Lectura completa" son las líneas leídas una por una; el resto pasó por barridos de errores repetidos. Detalle, decisiones de trato y lo que falta: [REVISION.md](REVISION.md).
