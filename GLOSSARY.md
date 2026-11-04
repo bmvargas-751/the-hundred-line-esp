@@ -219,7 +219,7 @@ Invasores y lugares inventados se mantienen como el inglés: Futurum, V'ehxness,
 | 〜の化神 | Paragon of X | *Paragon* de X, en inglés y en masculino aunque sea mujer (*V'ehxness, el Paragon de la Esperanza*) | ✅ |
 | 星の神 / 神 (de los invasores) | God of the planet / God | Dios del planeta; *Dios*, con mayúscula, cuando lo nombran los invasores | ✅ criterio 4 |
 | 不撓の化神 / 救済の化神 | Paragon of Indomitability / Paragon of Salvation | *Paragon de lo Indomable* (Valla-Garzo) / *Paragon de la Salvación* (Szanshin); nombres de los comandantes como el inglés | ✅ criterio 2 |
-| ∞態 | Blood of my bond, release! / battle form | Grito: *¡Sangre de mi vínculo, libérate!*; como sustantivo, lo que diga el inglés de cada línea (*forma de batalla*) | ✅ |
+| ∞態 | Blood of my bond, release! / battle form | Grito: *¡Vínculo de sangre, libérate!*; como sustantivo, lo que diga el inglés de cada línea (*forma de batalla*) | ✅ |
 | たっくん (Karua → Takumi) | Takky | Takky (apodo, como el inglés) | ✅ |
 | 妹ちゃん (Ima → Kako) | Sister Dearest | querida hermana (*mi querida hermana* si el inglés dice *my*); siempre así, nunca *queridísima* | ✅ |
 | お兄ちゃん (Kako → Ima) | Brother Dearest | querido hermano (siempre así, nunca *queridísimo*) | ✅ |
