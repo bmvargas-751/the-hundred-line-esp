@@ -14,9 +14,9 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 |---|---|---:|---:|---:|
 | 1 | Interfaz | 14.984 | 14.984 | 100,0 % |
 | 2 | Primera partida | 18.293 | 18.293 | 100,0 % |
-| 3 | Partidas posteriores | 94.873 | 103.496 | 91,7 % |
+| 3 | Partidas posteriores | 99.381 | 103.496 | 96,0 % |
 | 4 | Eventos y charlas | 3.817 | 3.817 | 100,0 % |
-| | **Total** | **131.967** | **140.590** | **93,9 %** |
+| | **Total** | **136.475** | **140.590** | **97,1 %** |
 <!-- /progress -->
 
 ### Corrección de calidad
