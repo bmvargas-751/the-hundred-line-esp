@@ -12,7 +12,7 @@ id	huella_jp	es
 110	fb1f181f	De todos modos, solo faltan cinco minutos para poder saltar.
 120	15351509	Pero si de verdad no puedes decírmelo... Tienes que dejarme elegir a mí la próxima línea temporal a la que saltemos.
 130	58fbbac9	¿A dónde planeas ir?
-140	65a35be9	¿No es obvio? ¡La línea temporal del Asesino en Serie! ¡Voy a borrar los datos del G'ie del cerebro de Takumi II!
+140	65a35be9	¿No es obvio? ¡La TL del Asesino en Serie! ¡Voy a borrar los datos del G'ie del cerebro de Takumi II!
 150	56c91650	Si no hacemos algo, todos menos tú terminarán asesinados...
 160	2cb9bded	Esa línea temporal no tiene otro destino. Solo más ramas que terminan con Takumi II matando a todos.
 170	b2783981	¿Así que quieres crear un nuevo camino ramificado?
@@ -21,15 +21,15 @@ id	huella_jp	es
 200	71fa21d3	Necesito ese pendrive tuyo para arreglar a Takumi II. Pero solo hay uno, así que...
 210	32c91756	¿Vas a... quitármelo por la fuerza?
 220	f4a72a8b	
-230	9c6e63cb	Takumi, me lo prometiste anoche. Dijiste que iríamos a la línea temporal de la Madurez a buscar el Código de Livor Mortis de Darumi.
+230	9c6e63cb	Takumi, me lo prometiste anoche. Dijiste que iríamos a la TL de la Madurez a buscar el código de livor mortis de Darumi.
 240	2ef94966	¿Recuerdas cuál dijiste que era nuestra principal prioridad?
 250	e1fd1c77	"Llegar a las 10:00 de la mañana del Día 100 en esta línea temporal, juntos y felices".
-260	c48ed23b	La forma más segura de lograrlo es ir a buscar esos cuatro Códigos de Livor Mortis y llamar a la nave de rescate.
+260	c48ed23b	La forma más segura de lograrlo es ir a buscar esos cuatro códigos de livor mortis y llamar a la nave de rescate.
 270	c2afcdf8	Tendremos más posibilidades de sobrevivir si vamos al Satélite Artificial. Y como resultado, por fin nos libraremos de este bucle temporal...
 280	7c5775e5	{fc(57e4f1)Las palabras de Hiruko me ayudaron a recuperar un poco la compostura. Lo que decía tenía todo el sentido.}
 290	0a354dcc	{fc(57e4f1)Las versiones de nuestros amigos en esta línea temporal eran nuestra principal prioridad.}
 300	23874c9e	{fc(57e4f1)Y...}
-310	cbc62e03	{fc(57e4f1)Aun si lograba arreglar al Takumi de la línea temporal del Asesino en Serie, eso no borraría la rama de esa línea donde nunca lo curaron.}
+310	cbc62e03	{fc(57e4f1)Aun si lograba arreglar al Takumi de la TL del Asesino en Serie, eso no borraría la rama de esa línea donde nunca lo curaron.}
 320	029fa75d	{fc(57e4f1)Una línea temporal donde Takumi II mató a todos seguiría existiendo en alguna parte del espacio sanguíneo.}
 330	e96ad91d	{fc(57e4f1)Sabiendo eso, ¿tenía sentido arreglarlo? Un "riel" seguiría cubierto de llamas hiciera lo que hiciera.}
 340	090c346b	{fc(57e4f1)Pero entonces pensé en lo que Hiruko me había dicho antes.}
@@ -40,5 +40,5 @@ id	huella_jp	es
 390	2620a55a	A pesar de todo lo que acabo de decir, dejaré que tomes tú la decisión final.
 400	ae72d081	Tú guías, yo te sigo. Me mantendré callada y cooperaré con lo que quieras hacer.
 410	53ab2cdf	{fc(57e4f1)Lo pensé.}
-420	b375f3de	{fc(57e4f1)¿Debíamos ir a la línea temporal de la Madurez a buscar el Código de Livor Mortis de Darumi? ¿O ir a la línea temporal del Asesino en Serie a arreglar a Takumi II...?}
+420	b375f3de	{fc(57e4f1)¿Debíamos ir a la TL de la Madurez a buscar el código de livor mortis de Darumi? ¿O ir a la TL del Asesino en Serie a arreglar a Takumi II...?}
 430	4c8fc3e6	{fc(57e4f1)Tras darle muchas vueltas, llegué a una conclusión.}
