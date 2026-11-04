@@ -16,8 +16,8 @@ id	huella_jp	es
 160	9e5061fc	¿Qué recuerdas, exactamente?
 170	3745724d	Pues...
 180	fed7031d	{fc(57e4f1)Dudé. No eran recuerdos que quisiera desenterrar otra vez.}
-190	1df79805	Esta vez no fue la Caza-Misterio, ¿verdad? Recordaste la línea temporal del {fc(ff635b)Asesino en Serie}, ¿no?
-200	5be38f07	La línea temporal del {fc(ff635b)Asesino en Serie}{fc(57e4f1)... No hacía falta ser un genio para deducir a cuál se refería.}
+190	1df79805	Esta vez no fue la Caza-Misterio, ¿verdad? Recordaste la TL del {fc(ff635b)Asesino en Serie}, ¿no?
+200	5be38f07	La TL del {fc(ff635b)Asesino en Serie}{fc(57e4f1)... No hacía falta ser un genio para deducir a cuál se refería.}
 210	ad8e788e	{fc(57e4f1)Solo que el asesino no era Yugamu... era yo.}
 220	c519100d	{fc(57e4f1)En esa línea temporal, maté a Eva...}
 230	354578f3	{fc(57e4f1)Luego a Moko.}
@@ -49,7 +49,7 @@ id	huella_jp	es
 490	a4214a75	{fc(57e4f1)Mi respiración por fin empezó a calmarse. Me sequé el sudor frío que se me había formado en la frente.}
 500	f830692d	¿Qué... Qué son esos "datos G'ie", de todos modos? ¿Y cómo llegaron a mi cerebro...?
 510	c4efbeb6	Yo tampoco lo sabía hasta anoche, cuando me hablaste del brote de zombis.
-520	ce5b5953	En esa línea temporal del {fc(ff635b)Zombi}, te infectaron el Día 100.
+520	ce5b5953	En esa TL del {fc(ff635b)Zombi}, te infectaron el Día 100.
 530	7040a33c	La reina G'ie α1 puso un huevo dentro de ti.
 540	dc2c4cbe	Ese huevo eclosionó en otra reina, que se abrió paso hasta tu cerebro y se fusionó contigo a nivel celular.
 550	48b43128	Bien, pero... Justo después de eso, empezó el ataque final y...
