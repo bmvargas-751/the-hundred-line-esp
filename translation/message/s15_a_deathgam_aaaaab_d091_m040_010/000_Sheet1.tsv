@@ -1,78 +1,78 @@
 id	huella_jp	es
-10	92864d57	En estos días todos se han hecho bastante más fuertes.
-20	d3ad33dd	{fc(57e4f1)A este paso, quizás hasta podamos rechazar\ncon facilidad al ejército de V'ehxness.}
-30	09f6e543	{fc(57e4f1)Con esos pensamientos me eché en la cama...\ny entonces ocurrió.}
-50	c8a7e9d8	...¿Una visita a esta hora?
-60	25922bc6	{fc(57e4f1)Abrí la puerta, desconcertado, y allí estaba...}
-70	d196d674	Kamyuhn... ¿qué pasa a estas horas?
+10	92864d57	Todos se han vuelto mucho más fuertes en los últimos días.
+20	d3ad33dd	{fc(57e4f1)Si seguíamos así, el ejército invasor no sería rival para nosotros.}
+30	09f6e543	{fc(57e4f1)Con ese pensamiento, empecé a prepararme para dormir. Justo entonces...}
+50	c8a7e9d8	¿Quién será a esta hora?
+60	25922bc6	{fc(57e4f1)Abrí la puerta con vacilación. Al otro lado estaba...}
+70	d196d674	¿Kamyuhn? Es bastante tarde... ¿Necesitabas algo?
 80	f4a72a8b	
-90	129134c7	{fc(57e4f1)Kamyuhn tenía una expresión sombría.}
-100	fcbae21f	¿Te pasó algo?
-110	b9c121b6	Hace poco logré interceptar una transmisión...\naverigüé la escala del ejército que está formando V'ehxness.
-120	0e61b985	¡¿D-De verdad...?!\n¿Cuántos son...?
-130	2b80bef9	...Muchísimos más de lo que se esperaba.
-140	af8426e8	Parece que eso de "el ejército más grande de la historia"\nno era un farol de V'ehxness...
-150	398b30ce	¿T-Tanto así...?
-160	8c3307cd	Si pelean de frente contra ese ejército,\nsu probabilidad de ganar es totalmente cero...
-170	fc094e39	¿C-Cero...? No exageres.\n¡No se sabe hasta que se pelea...!
-180	965df760	Se sabe... no subestimes la capacidad de cálculo\nde esta sacerdotisa.
-190	0375c4d3	La cantidad de enemigos es enorme... incluso tienen preparados\nextintores en cantidad para apagar el Muro de Fuego.
-200	4de276a1	Y encima el jefe es la mismísima V'ehxness...\nesta batalla está perdida desde antes de empezar...
+90	129134c7	{fc(57e4f1)El rostro de Kamyuhn estaba contraído de angustia.}
+100	fcbae21f	¿Qué pasa?
+110	b9c121b6	Acabo de interceptar las comunicaciones inalámbricas y he determinado el tamaño del ejército de V'ehxness.
+120	0e61b985	¿En serio? ¿Qué tan grande es?
+130	2b80bef9	Mucho mayor de lo que había previsto...
+140	af8426e8	La afirmación de la Comandante Suprema de tener el ejército más fuerte de la historia no era una fanfarronada.
+150	398b30ce	¿Entonces qué estás diciendo?
+160	8c3307cd	Si viene a por ustedes con toda la fuerza de ese ejército, sus probabilidades de victoria son cero.
+170	fc094e39	¿Cero? Es una exageración, ¿verdad? ¡No lo sabremos con seguridad hasta intentarlo!
+180	965df760	Lo sabemos. Deberías darles más crédito a mis habilidades de cálculo.
+190	0375c4d3	El ejército no solo es enorme... También han conseguido una gran cantidad de agentes extintores capaces de apagar el Muro de Fuego.
+200	4de276a1	Y no olviden que V'ehxness los lidera. La batalla ya está prácticamente perdida.
 210	f4a72a8b	
-220	1dd9ebae	{fc(57e4f1)Me mareé y casi caigo allí mismo.\n¿Cómo le digo esto a los demás...?}
-230	2c7b16c1	{fc(57e4f1)Todos me siguieron creyendo que podríamos repeler a V'ehxness...}
-240	1216633e	Por eso, Sumino... para evitar esta ruina,\nte traigo una propuesta.
-250	acc29765	¿Una propuesta...?
-260	e8b4b64f	Entonces... ¡¿hay una manera de evitar este destino?!
-270	67d961b0	Sí... el método es muy sencillo.
-280	40a0f161	Lanzar la cápsula de escape antes de que llegue V'ehxness.
-290	f245e073	¿Lanzar...? Si no podemos hacerlo, por eso estamos esperando\na que ataque V'ehxness, ¿no?
-300	5a4c8109	Solo V'ehxness tiene criptoglobina suficiente\npara usarla de combustible...
-310	218a4cd5	No hace falta obsesionarse\ncon la criptoglobina de V'ehxness.
-320	a8b8534b	En esta academia hay alguien con muchísima más criptoglobina que V'ehxness:\nel {fc(ff635b)"bebé divino"}.
-330	563d44bd	{fc(57e4f1)El bebé divino... en cuanto oí esas palabras.}
-340	c2edc8db	{fc(57e4f1)la imagen de aquel apareció en mi mente...}
-350	c4680fa1	¡¿No me digas que hablas del bebé\nque está en la Sala de Defensa?!
-360	239773fd	{fc(57e4f1)Dentro de la sala llamada Sala de Defensa, en el tercer piso,\nhay un bebé dentro de una cápsula.}
-370	32dee3ba	{fc(57e4f1)El bebé va acumulando en los misiles las Llamas Eternas\nque genera sin cesar de su cuerpo.}
-380	59080300	{fc(57e4f1)El tiempo que hace falta para que se llenen todos los misiles de Llamas Eternas\nson 100 días...}
-390	3b60a77f	{fc(57e4f1)Por eso debemos proteger esta academia\ndurante 100 días.}
-400	23672d3d	¿Cómo sabes del bebé?
-410	485905ba	Te lo dije: yo era jefa del cuarto de análisis\nde seguridad.
-420	d7c766d7	Sobre el poder del bebé que ustedes ocultan,\nlo conozco mejor que nadie.
-430	08c114a7	Más bien, quizás yo sepa más que ustedes,\na quienes no les dijeron nada.
+220	1dd9ebae	{fc(57e4f1)Me invadió una oleada de mareo y casi me desplomo allí mismo. ¿Debía siquiera cargar a los demás con esta nueva revelación?}
+230	2c7b16c1	{fc(57e4f1)Me habían apoyado porque creían que podíamos rechazar juntos a V'ehxness. Pero ahora...}
+240	1216633e	Por eso he venido a verte. Tengo una propuesta que puede evitar la aniquilación total.
+250	acc29765	¿Una... propuesta?
+260	e8b4b64f	¿Quieres decir... que aún hay una salida?
+270	67d961b0	Sí. Y es increíblemente sencilla.
+280	40a0f161	Activamos su cápsula de escape antes de que llegue V'ehxness.
+290	f245e073	La cápsula... Pero estamos indefensos justamente porque no podemos hacerla funcionar.
+300	5a4c8109	Solo V'ehxness tiene criptoglobina lo bastante fuerte para propulsarla ahora.
+310	218a4cd5	No necesitamos obsesionarnos con ella.
+320	a8b8534b	Tienen criptoglobina de un poder muy superior al que V'ehxness podría soñar aquí mismo en esta academia: {fc(ff635b)el infante divino}.
+330	563d44bd	{fc(57e4f1)Nunca antes lo había oído llamar con ese nombre, pero sabía de quién hablaba.}
+340	c2edc8db	{fc(57e4f1)Su rostro afloró de inmediato en mi mente.}
+350	c4680fa1	¡¿Te refieres al bebé de la Sala de Defensa?!
+360	239773fd	{fc(57e4f1)En la Sala de Defensa, en el tercer piso de la academia, había un bebé en una cápsula.}
+370	32dee3ba	{fc(57e4f1)Las Llamas Eternas que el cuerpo del bebé producía las veinticuatro horas también se almacenaban en misiles.}
+380	59080300	{fc(57e4f1)Haría falta 100 días para llenar todos los misiles de Llamas Eternas.}
+390	3b60a77f	{fc(57e4f1)Esa era la razón por la que estábamos aquí defendiendo la academia.}
+400	23672d3d	¿Cómo sabes de él?
+410	485905ba	¿No he mencionado ya que una vez dirigí el departamento de inteligencia del otro bando?
+420	d7c766d7	Conozco los poderes de su arma secreta mejor que nadie.
+430	08c114a7	De hecho, me atrevería a decir que sé más que ustedes y sus amigos. Ni siquiera les han contado la mitad.
 440	f4a72a8b	
-450	315a3950	Con la criptoglobina del bebé divino,\nlanzar la cápsula de escape es cosa fácil.
-460	9896e246	...Por supuesto, esta propuesta también es una apuesta.
-470	8e6a99a0	Si matamos al bebé, también desaparece el Muro de Fuego\nque protege la academia...
-480	5873da59	V'ehxness, viéndolo como oportunidad, quizás ataque\nenseguida.
-490	93faa29b	Pero ahora V'ehxness está armando un ejército a gran escala.\nQuizás no pueda moverse con agilidad...
-500	d204cff6	¡Más allá de V'ehxness, es inconcebible...!\n¡Matar a un bebé es impensable...!
-510	8f0a5629	Es natural que te indignes.\nMatar a un bebé no se permite, éticamente.
-520	88880051	Pero Takumi, aunque no lo matemos aquí,\nde todos modos...
-530	ebd8e81d	el bebé morirá dentro de una semana, ¿sabes?
-540	fe89f643	¡¿Q-Qué...?!
-550	312f8e31	Los misiles que fabrica el bebé en la Sala de Defensa\nson armas despiadadas que calcinan toda la vida de la superficie.
-560	76161a91	Toda la vida de la superficie morirá.\nEl propio bebé no es excepción.
-570	2992ad7a	{fc(57e4f1)El bebé morirá el día 100...\nentonces, si lo matamos un poco antes, no es pecado...}
-580	eec0b0ac	¡No, no puede ser...!\n¡Matar a un compañero...!
-590	5fbf4a67	{fc(57e4f1)Hace tiempo que no lo veo,\npero él es nuestro compañero.}
-600	02a0534d	{fc(57e4f1)Matarlo es impensable...\naunque solo le queden una semana de vida.}
-610	90b85b06	Entiendo que te resistas a matar al bebé.\nYo tampoco quiero hacerlo.
-620	ee2f633c	Pero, Takumi, aunque suene cruel,\n¿no crees que tienes la obligación de matar al bebé?
-630	f2058f8f	¿O-Obligación...? ¿Por qué?
-640	c5084f21	¿Por qué? Es evidente.
-650	bf1418c8	Porque tú mataste a mi madre, Eva.
+450	315a3950	Propulsar la cápsula de escape será trivial con la criptoglobina del infante divino.
+460	9896e246	Sin embargo, hay riesgos.
+470	8e6a99a0	Una vez muerto el bebé, el Muro de Fuego protector que rodea la academia desaparecerá.
+480	5873da59	Es probable que V'ehxness aproveche esa oportunidad para lanzar su asalto final.
+490	93faa29b	No obstante, dado el tamaño y la escala actuales de su ejército, quizá no sea tan ágil como antes.
+500	d204cff6	V'ehxness y su ejército no entran en esto. ¡No vamos a matar al bebé!
+510	8f0a5629	Tu ira es justificada. Sin duda es una medida ilógica.
+520	88880051	Pero, Takumi, aunque no lo mates con ese fin...
+530	ebd8e81d	¿Sabías que de todos modos morirá dentro de una semana?
+540	fe89f643	¡¿Eh?!
+550	312f8e31	Los misiles que fabrica en esa Sala de Defensa son armas despiadadas diseñadas para arrasar toda la vida de este planeta.
+560	76161a91	Incluido él mismo.
+570	2992ad7a	{fc(57e4f1)Si el bebé iba a morir el Día 100 de todos modos, quizá no fuera un crimen matarlo unos días antes...}
+580	eec0b0ac	No... ¡Ni hablar! ¡No puedes pedirme que mate a un amigo!
+590	5fbf4a67	{fc(57e4f1)Aunque hiciera tiempo que no lo veíamos, seguía siendo nuestro amigo.}
+600	02a0534d	{fc(57e4f1)¿Y qué si estaba destinado a morir dentro de una semana de todos modos? Matarlo nosotros mismos estaba fuera de discusión.}
+610	90b85b06	Estás en todo tu derecho de sentir reticencia. Tampoco es un camino que yo recorrería de buen grado.
+620	ee2f633c	Pero escúchame, Takumi, por cruel que suene. ¿No será en realidad tu deber matar al bebé?
+630	f2058f8f	¿M-Mi deber? ¿Por qué?
+640	c5084f21	¿Por qué, preguntas? Es obvio.
+650	bf1418c8	Porque mataste a mi madre, Eva.
 660	c98ee14e	¡...!
-670	79193860	Ya te lo dije: yo no te guardo rencor por eso.\nFue la elección de mi madre misma.
-680	b1c758a0	Pero, Sumino, si decidiste ensuciarte las manos,\nllévalo hasta el final.
-690	82dd7e0f	¿No te parece ilógico matar la vida de Eva\ny no poder matar la del bebé?
-700	0d19d936	{fc(57e4f1)El pecado del pasado me persigue a todas partes...\nme alcanza y me obliga a elegir.}
-710	ffb1e16e	{fc(57e4f1)Yo que maté a Eva tengo obligación de matar al bebé.\nLas palabras de Kamyuhn me parecieron lógicas.}
-720	df51d56b	...No digo que lo hagas ya,\npero no puedo esperar mucho.
-730	345ff5b3	Desde esta noche esperaré en el hangar del subsuelo,\ncuando lo decidas, trae el cadáver del bebé.
-740	2608da17	{fc(57e4f1)Kamyuhn salió del cuarto tras decir eso.\nY yo, que quedé solo...}
+670	79193860	No te odio por lo que hiciste, ya que mi madre eligió su propio destino.
+680	b1c758a0	Pero ahora que te has manchado las manos con su sangre, estás obligado a seguir por ese mismo camino hasta el final.
+690	82dd7e0f	Es irracional que puedas matar a Eva y te niegues a matar al bebé.
+700	0d19d936	{fc(57e4f1)Mis pecados pasados seguían persiguiéndome incluso ahora, arrinconándome y obligándome a tomar decisiones desagradables...}
+710	ffb1e16e	{fc(57e4f1)Lo que decía Kamyuhn tenía sentido. Como asesino de Eva, era mi deber matar también al bebé.}
+720	df51d56b	No necesitas actuar de inmediato. Sin embargo... recuerda que el tiempo se acaba.
+730	345ff5b3	Estaré esperando en el depósito subterráneo. Cuando te sientas listo, llévame allí el cuerpo del bebé.
+740	2608da17	{fc(57e4f1)Kamyuhn me dejó solo en mi cuarto para que reflexionara sobre su propuesta.}
 750	f4a72a8b	
-760	f32932e1	{fc(57e4f1)me tiré en la cama\ny miré fijamente el techo.}
-770	982446fd	{fc(57e4f1)No podía pensar en nada...}
-780	efa61291	{fc(57e4f1)En nada...}
+760	f32932e1	{fc(57e4f1)Me tiré en la cama y me quedé mirando el techo.}
+770	982446fd	{fc(57e4f1)Pero no podía pensar con claridad...}
+780	efa61291	{fc(57e4f1)Simplemente... no podía...}
