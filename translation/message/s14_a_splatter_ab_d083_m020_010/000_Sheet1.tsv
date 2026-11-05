@@ -5,7 +5,7 @@ id	huella_jp	es
 40	e303a081	¿No es peligroso dejar esto tirado por ahí? ¿Y si se le pega alguno de nosotros por accidente?
 50	67478c2c	Ese es el problema. Queríamos verlo nosotros mismos, así que vamos a pedirte que hagas de asesino.
 60	e57bf770	¿Yo, el asesino? ...Voy a terminar cubierto de pegamento, ¿verdad?
-70	dad2657c	Jijiji... Tenemos otras láminas con adhesivos de distintas viscosidades que hicimos en el Laboratorio de Biología.
+70	dad2657c	Jijiji... Tenemos otras láminas con adhesivos de distintas viscosidades que hicimos en el laboratorio de biología.
 80	b1a03170	Iremos a buscarlas, así que espere aquí un momento, si no le molesta.
 90	1546c28f	Voy con ustedes.
 100	bd55bbb0	Quédese cuidando la lámina, Sr. Sumino. No queremos que nadie se quede pegado.
@@ -23,4 +23,4 @@ id	huella_jp	es
 220	4a939242	{fc(57e4f1)De pronto caí en la cuenta de que Ima y Kako llevaban bastante rato fuera.}
 230	53d29be8	Se están demorando demasiado... ¿Qué les habrá pasado a esos dos?
 240	7a66517c	{fc(57e4f1)Quizás tuvieron algún problema que los retrasaba.}
-250	b27d8ad6	{fc(57e4f1)Dijeron que iban al Laboratorio de Biología, ¿no? Iré a ver.}
+250	b27d8ad6	{fc(57e4f1)Dijeron que iban al laboratorio de biología, ¿no? Iré a ver.}

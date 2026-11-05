@@ -4,11 +4,11 @@ id	huella_jp	es
 30	22d9e9c4	Lo sé... SIREI me dijo que ya no hablara tanto contigo.
 40	2badc33d	¿Eso hizo...?
 50	8a4ccc08	Esto es una sorpresa. Eres tal como lo describió Takumi.
-60	def37360	¿Así que tú eres el Chico de las Llamas Eternas?
+60	def37360	¿Así que tú eres el Chico de las llamas eternas?
 70	3a0bb1ce	Sí. Todavía no tengo nombre, así que pueden llamarme así si quieren.
 80	927111ad	¡U-U-U-Un fantasma! ¡La maldición ya está tomando forma física!
 90	88b4b840	¡¿No has estado escuchando nada de esto?!
-100	d6de6dbe	¡Es el tipo que hace las Llamas Eternas que mantienen fuera a los invasores! ¡Es uno de los nuestros, hombre!
+100	d6de6dbe	¡Es el tipo que hace las llamas eternas que mantienen fuera a los invasores! ¡Es uno de los nuestros, hombre!
 110	b0a0f043	Gracias a tu hemoánima puedes aparecer y hablar con nosotros así, ¿verdad?
 120	0049e2a1	Me pregunto cómo funciona...
 130	630b6562	Eso no importa. La verdadera pregunta es si puede hacer algo por ayudarnos.
@@ -33,30 +33,30 @@ id	huella_jp	es
 320	ffa61bd9	¿Un espectro...?
 330	6de6a273	Es como...un tipo de fantasma vengativo que se dice que existe en esta región desde tiempos antiguos.
 340	4f1b57f2	La mayoría de las veces están sellados dentro de cajitas, pero una vez que uno te maldice, se vuelve visible para ti.
-350	f7627183	Los espectros no pueden destruirse. Solo pueden volver a sellarse en otra "Caja de Calamidad".
+350	f7627183	Los espectros no pueden destruirse. Solo pueden volver a sellarse en otra "caja de calamidad".
 360	1cc788d5	Si un espectro te ha maldecido y quieres liberarte de su malicia...
 370	465d44c7	¿Sí? ¡¿Qué tenemos que hacer?!
 380	c497e372	No lo dice.
 390	e2286501	¡Qué estafa! ¡Esa es justo la parte que necesitábamos saber!
 400	e45c9807	Eso es todo lo que dice esta parte. No sé si lo notaron, pero faltan algunas páginas.
-410	4bc3d120	¿Quizás el resto esté en alguna parte de la Biblioteca?
+410	4bc3d120	¿Quizás el resto esté en alguna parte de la biblioteca?
 420	3b580ec3	Espectros, eh... Sí suena parecido a ese fantasma que Takumi ha estado viendo.
 430	190ecbac	¿Entonces abrir la caja es lo que desata la maldición?
 440	1d1710c2	¡Tenías que andar hurgando en la tierra y metiendo las narices donde no te llamaban! ¿No es cierto?
 450	59a409be	¡Pero yo no! ¡Nunca abrí ninguna caja!
-460	a0e93d82	¿N-No mencionó Eva una caja también? Creo que la llamó Caja de Bendiciones...
+460	a0e93d82	¿N-No mencionó Eva una caja también? Creo que la llamó caja de bendiciones...
 470	4fe2a362	¿No creen que podría ser relevante?
 480	2d8ec0f0	No sé, si todo esto ha sido por culpa de este espectro, quizás después de todo no tuvo nada que ver con Eva.
 490	6ada7c83	¡Ni hablar! ¡Apuesto a que el odio y el rencor de Eva potenciaron al espectro y volvieron su maldición aún más fuerte!
 500	9304167a	Ojalá dejaras de hacer eso. Especular sin pruebas es un mal hábito.
 510	158ef13f	Aunque no esté en la mitad del libro que tenemos, HAY una forma de romper la maldición, ¿verdad?
-520	31d83c12	¿Deberíamos buscarla en la Biblioteca? Ah, pero ninguno de nosotros entiende este idioma...
+520	31d83c12	¿Deberíamos buscarla en la biblioteca? Ah, pero ninguno de nosotros entiende este idioma...
 530	c1dd220b	Entonces... ¿Qué hacemos ahora?
 540	e90cec2b	{fc(57e4f1)Si Eva ERA el fantasma, ¿por qué nos dio este libro?}
 550	09de1cbc	{fc(57e4f1)¿De qué le serviría a ella que aprendiéramos más sobre los espectros?}
 560	ceb63d31	{fc(57e4f1)Empiezo a preguntarme si hemos cometido un error en alguna parte...}
 570	79d6dc69	En todo caso, me alegra que puedas leer este idioma.
-580	c0626593	Quizás si concentramos nuestra búsqueda en esta Caja de Calamidad, podamos encontrar algo en la Biblioteca...
+580	c0626593	Quizás si concentramos nuestra búsqueda en esta caja de calamidad, podamos encontrar algo en la biblioteca...
 590	95e2bd21	¿Entonces esa caja es la causa de todo?
 600	8c229569	¡¿Ima?!
 610	c41ea261	¡Por fin saliste de tu habitación!
@@ -101,5 +101,5 @@ id	huella_jp	es
 1010	b2b56a50	Pero...
 1020	f484bfec	Esta discusión ha terminado.
 1030	a90c9b5b	No intenten nada raro. Que no me sigan, que no rescaten a la rehén.
-1040	3aa64651	Solo encuentren la Caja de Calamidad y tráiganmela.
+1040	3aa64651	Solo encuentren la caja de calamidad y tráiganmela.
 1050	acabd816	{fc(57e4f1)Arrastrando a Nozomi consigo, Ima se retiró de vuelta a su habitación.}

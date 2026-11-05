@@ -63,8 +63,8 @@ id	huella_jp	es
 620	87e583ff	Pero, si eso es cierto...
 630	506627a4	¿Por qué montar la pista falsa?
 640	d473f688	Porque si el único objetivo de X era saber cuáles eran los Códigos, podría haberse deshecho de los cuerpos en cuanto los vio.
-650	f0dd4d44	Podría haber arrojado los cuerpos al Muro de Fuego, enterrarlos en el bosque... Sin embargo, X no hizo nada de eso. ¿Por qué?
-660	63259aad	No estoy seguro, pero quizá necesitaba que los cuerpos se quedaran en la Morgue por alguna razón.
+650	f0dd4d44	Podría haber arrojado los cuerpos al muro de fuego, enterrarlos en el bosque... Sin embargo, X no hizo nada de eso. ¿Por qué?
+660	63259aad	No estoy seguro, pero quizá necesitaba que los cuerpos se quedaran en la morgue por alguna razón.
 670	fa62b792	¿Tú también lo crees? Sí. X claramente quería dejar los cuerpos aquí.
 680	aad317e3	Pero al hacerlo, nos permitiría descubrir la existencia de los códigos de livor mortis.
 690	3c3b8d8d	Por eso se tomó la molestia de montar una pista falsa tan complicada: quitar la piel y los corazones de quienes ya estaban muertos.
@@ -73,7 +73,7 @@ id	huella_jp	es
 720	b4c10a3f	
 730	51b8cbaa	Dejemos eso de lado por ahora y hablemos de otra cosa. ¿Por qué quiere X saber qué son los códigos de livor mortis?
 740	3775bd52	Tiene que ver con el {fc(ff635b)transmisor de petición de rescate}.
-750	dfddbc41	¿El transmisor del que nos habló el chico de las Llamas Eternas?
+750	dfddbc41	¿El transmisor del que nos habló el chico de las llamas eternas?
 760	3a60b7c7	Hace poco me enteré de que hay algo llamado {fc(ff635b)transmisor de petición de rescate} en algún lugar de esta escuela.
 770	7e06f9eb	Se puso aquí para el caso de que todos menos un miembro del {fc(ff635b)Equipo 1} murieran.
 780	586956a8	Una vez ingresada en el transmisor la {fc(ff635b)serie correcta de códigos}, este... bueno, transmitiría una señal de socorro.

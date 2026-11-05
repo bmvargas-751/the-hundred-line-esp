@@ -5,8 +5,8 @@ id	huella_jp	es
 40	6b334c12	Shouma... Él...
 50	4ccacd7b	¿Qué le pasó?
 60	deaa087f	¡Vengan conmigo! ¡Rápido!
-70	27d1ce6b	{fc(57e4f1)Todos sabíamos adónde íbamos. Corrimos juntos hacia el Patio a toda prisa.}
-80	8b739cea	{fc(57e4f1)Recorrimos el pasillo del segundo piso y salimos de golpe al Patio, y luego corrimos hacia la jaula sin detenernos.}
+70	27d1ce6b	{fc(57e4f1)Todos sabíamos adónde íbamos. Corrimos juntos hacia el patio a toda prisa.}
+80	8b739cea	{fc(57e4f1)Recorrimos el pasillo del segundo piso y salimos de golpe al patio, y luego corrimos hacia la jaula sin detenernos.}
 90	c83b767f	{fc(57e4f1)Allí, vimos...}
 100	973ac4e1	¡...!
 110	973ac4e1	¡...!
@@ -25,7 +25,7 @@ id	huella_jp	es
 240	510990e7	{fc(57e4f1)Le toqué la ropa y también estaba mojada.}
 250	7dc67b6c	¡¿Y bien?! ¡¿Está vivo o no?!
 260	ade424d1	Eso ya lo comprobé... Como pueden ver claramente, ya está...
-270	e09dd57c	¡Quizá todavía podamos revivirlo si lo llevamos a la Enfermería como la última vez!
+270	e09dd57c	¡Quizá todavía podamos revivirlo si lo llevamos a la enfermería como la última vez!
 280	e0102eb8	{fc(57e4f1)Como había tocado el cuerpo, ya sabía que había pasado demasiado tiempo.}
 290	0804b905	{fc(57e4f1)Pero decidí seguirle la corriente de todos modos.}
 300	274715f1	Sí, deberíamos intentarlo...

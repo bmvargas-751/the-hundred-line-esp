@@ -8,8 +8,8 @@ id	huella_jp	es
 70	d1791ddd	La parte de abajo de ese corral para animales no estaba fijada en su lugar. Es solo una jaula de hierro pesada montada sobre una base.
 80	2e1f8f5b	Aun así, pesa 1 tonelada. No es algo que nadie pueda mover con las manos desnudas.
 90	9232e3f1	Por eso se te ocurrió la idea de usar la flotabilidad...
-100	610e432f	El Patio se puede sellar herméticamente.
-110	7da7ae39	Si el desagüe estaba tapado y la válvula de la fuente totalmente abierta, el Patio se llenaría de agua en cuestión de horas.
+100	610e432f	El patio se puede sellar herméticamente.
+110	7da7ae39	Si el desagüe estaba tapado y la válvula de la fuente totalmente abierta, el patio se llenaría de agua en cuestión de horas.
 120	192df5c6	¿Y qué pasaría si hubiera cien globos inflados de diez litros dentro de la jaula cuando eso ocurriera?
 130	8187f85c	El principio de Arquímedes dice que el empuje hacia arriba es igual al peso del agua desplazada...
 140	95ce32a1	100 globos de 10 litros cada uno suman 1000 kilogramos... 1 tonelada de fuerza hacia arriba.
@@ -20,7 +20,7 @@ id	huella_jp	es
 190	d4f460e5	¡Bravo! ¡Qué deducción brillante, detective! Ya no hay razón para que oculte nada, ahora que has descubierto tanto.
 200	a95da78e	Entonces dinos... ¿Por qué inventaste a esta persona K?
 210	c8ffccf3	Para sembrar desconfianza y discordia, naturalmente.
-220	3ebcf41a	¿Y por qué fuiste a la Enfermería después de escapar?
+220	3ebcf41a	¿Y por qué fuiste a la enfermería después de escapar?
 230	b34a48a0	Para destruir el Revive-O-Matic. Sin eso, estarían todos en apuros, ¿no es así?
 240	a7c9b0a5	{fc(57e4f1)Escucharlo me hacía hervir la sangre.}
 250	7e24d4db	Tú... No has cambiado nada...

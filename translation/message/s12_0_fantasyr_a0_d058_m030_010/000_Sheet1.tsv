@@ -1,7 +1,7 @@
 id	huella_jp	es
-10	fc81169a	{fc(57e4f1)Hiruko reunió a todos y los llevó al Garaje.}
+10	fc81169a	{fc(57e4f1)Hiruko reunió a todos y los llevó al garaje.}
 20	f48be238	¿Q-Qué pasa?
-30	83e7d132	{fc(57e4f1)La puerta del Garaje parecía haber sido derribada por un huracán.}
+30	83e7d132	{fc(57e4f1)La puerta del garaje parecía haber sido derribada por un huracán.}
 40	f82161db	{fc(57e4f1)Mostraba señales de haber sufrido una serie de ataques violentos.}
 50	dcd8e45e	Bah, ¿solo una puerta pateada? Qué anticlimático, ¿no creen?
 60	3080f523	¡Darumi! ¡¿Ya deberías estar levantada...?!
@@ -42,7 +42,7 @@ id	huella_jp	es
 410	987a1350	¡¿Qué, de verdad crees que alguno de nosotros hizo esto?!
 420	10eb3edc	Solo digo que es posible.
 430	549119b0	Repasemos un momento lo que sabemos. Hasta ahora tenemos dos posibles motivos que pudo tener el culpable.
-440	d017c413	El primero es que quería dañar el Garaje, o algo que hay dentro.
+440	d017c413	El primero es que quería dañar el garaje, o algo que hay dentro.
 450	c7cd2ea0	El segundo es que el daño en sí es solo una distracción, y quería colarse y hacer otra cosa mientras limpiábamos.
 460	25be417e	De cualquier modo, permitir que el culpable "ayude" a estas alturas sería demasiado arriesgado.
 470	0a14d9e7	¿Y qué vamos a hacer? ¿Elegir a alguien con ruleta rusa?
@@ -51,7 +51,7 @@ id	huella_jp	es
 500	0ac592c5	¿Eh? ¿Te refieres a...?
 510	c522264f	Esa serías tú, Tsubasa.
 520	6642fb1e	¿Qué? ¿Yo?
-530	f35fdd56	Usas el Garaje todo el tiempo. Me cuesta creer que quisieras romper algo aquí.
+530	f35fdd56	Usas el garaje todo el tiempo. Me cuesta creer que quisieras romper algo aquí.
 540	2707d80d	Y si estuvieras tramando algo, podrías haber entrado como siempre sin levantar sospechas.
 550	326bf668	Supongo que es justo... Y de todos modos pensaba ofrecerme para revisar las máquinas...
 560	15611807	Pero es mucho para mí sola. ¿No puedo conseguir que alguien más me ayude?
@@ -63,12 +63,12 @@ id	huella_jp	es
 620	979c99dd	A mí también me parece bien que ayude. Es nuestro Líder del Equipo, después de todo.
 630	43764614	Te lo dejamos a ti, líder.
 640	7ce6fccd	Eh, chicos...
-650	258c6f3e	¡Sí, esto no es problema para Takumi! ¡Dejará el Garaje como nuevo en un santiamén!
+650	258c6f3e	¡Sí, esto no es problema para Takumi! ¡Dejará el garaje como nuevo en un santiamén!
 660	03fe8096	¿Tú también, Darumi...?
 670	d935d86b	A diferencia de mí, tú eres alguien en quien todos confían, Takumi. Me siento totalmente tranquilo dejándote este trabajo.
 680	8656ddde	Viniendo de ti, no es que signifique mucho...
 690	d5a22440	Entonces los dejamos a ustedes dos. Los demás volveremos a prepararnos para la próxima batalla.
-700	c8f5e79b	{fc(57e4f1)Dicho esto, los demás cruzaron la puerta maltrecha y rota, dejándonos a Tsubasa, a SIREI y a mí solos en el Garaje.}
+700	c8f5e79b	{fc(57e4f1)Dicho esto, los demás cruzaron la puerta maltrecha y rota, dejándonos a Tsubasa, a SIREI y a mí solos en el garaje.}
 710	a6aaaef7	No ven la hora de endosarme cualquier trabajito...
 720	7932a534	Perdón, Takumi. ¡De verdad agradezco que te quedes a ayudar!
 730	d91f003f	Sí, claro... Haré lo que pueda, pero igual parece mucho trabajo para solo dos personas.
@@ -82,7 +82,7 @@ id	huella_jp	es
 810	6e29b6f6	Suena bien. ¡Bueno, suerte con la limpieza!
 820	11620b13	Hasta SIREI huyó de este trabajo...
 830	e7eb1fcc	Jaja... Supongo que deberíamos empezar. Quizás logremos terminar al final del día.
-840	a2d19f0c	{fc(57e4f1)Mientras empezábamos a reparar la puerta del Garaje, sentí una inquietud desagradable y nerviosa en el pecho.}
+840	a2d19f0c	{fc(57e4f1)Mientras empezábamos a reparar la puerta del garaje, sentí una inquietud desagradable y nerviosa en el pecho.}
 850	95b7ba8f	{fc(57e4f1)Era como si sintiera una amenaza vasta e incomprensible acechando en nuestro futuro, sin saber cómo enfrentarla.}
-860	365b6056	{fc(57e4f1)Intenté dejar mis preocupaciones de lado y me concentré en dejar el Garaje otra vez en condiciones de funcionar.}
+860	365b6056	{fc(57e4f1)Intenté dejar mis preocupaciones de lado y me concentré en dejar el garaje otra vez en condiciones de funcionar.}
 870	a6790fce	{fc(57e4f1)El trabajo continuó durante todo ese día y el resto del siguiente también.}

@@ -2,7 +2,7 @@ id	huella_jp	es
 10	1c1a5671	¡Aquí está! ¡La caja! ¡Y también la otra mitad del libro!
 20	87e69e24	¿La abrimos?
 30	6840c100	No. El anciano dijo que no debíamos abrirlas hasta tener las siete.
-40	dcbe9d5b	Además, todavía no hemos aprendido todo lo que ofrece el libro. También tengo curiosidad por las Cajas de Calamidad.
+40	dcbe9d5b	Además, todavía no hemos aprendido todo lo que ofrece el libro. También tengo curiosidad por las cajas de calamidad.
 50	b452a0f9	¿Quizás deberíamos leerlo primero?
 60	84d8ce24	Me parece buena idea. En todo caso, volvamos por hoy.
 70	513088bb	Está bien, ¿verdad, Takumi? Ya no quedan enemigos aquí.
@@ -13,5 +13,5 @@ id	huella_jp	es
 120	a482370b	Sí...eso espero, al menos.
 130	1476a407	{fc(57e4f1)Si no tuviera esa esperanza, no creo que pudiera seguir peleando. Definitivamente no podría seguir justificándome tanto matar.}
 140	75825efc	{fc(57e4f1)¿Hacíamos lo correcto? ¿Íbamos por el buen camino?}
-150	88b8e830	{fc(57e4f1)Quizás nuestra búsqueda de las Cajas de Bendiciones era en realidad nuestra forma de encontrar respuesta a esas preguntas.}
+150	88b8e830	{fc(57e4f1)Quizás nuestra búsqueda de las cajas de bendiciones era en realidad nuestra forma de encontrar respuesta a esas preguntas.}
 160	bcd9fb90	{fc(57e4f1)Una vez cumplida nuestra misión en la base enemiga, subimos al bus y volvimos a la Última Academia de Defensa.}

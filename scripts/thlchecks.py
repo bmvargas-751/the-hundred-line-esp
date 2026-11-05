@@ -14,7 +14,7 @@ TERMS = [
     (r"Last Defense Academy", r"Academia de Defensa Final|Academia (?:de )?(?:la )?Última Defensa", "Última Academia de Defensa"),
     (r"Shion Bomb", r"[Bb]omba de Shion|Shion Bomb", "Bomba Shion"),
     (r"\bEnd Turn\b", r"[Ff]inalizar (?:el )?turno", "Terminar turno"),
-    (r"Undying Flame", r"[Ll]lamas (?:[Ii]mperecederas|[Ii]nmortales|[Ii]nextinguibles)", "Llamas Eternas"),
+    (r"Undying Flame", r"[Ll]lamas (?:[Ii]mperecederas|[Ii]nmortales|[Ii]nextinguibles)", "llamas eternas"),
     (r"Bio Lab", r"\b[Bb]iolaboratorio\b|\b[Ll]ab biológico\b", "laboratorio biológico"),
     (r"Futuran", r"\b[Ff]uturian[oa]s?\b|\b[Ff]uturamos\b", "futuranos"),
     (r"World Death", r"Muerte (?:Mundial|Global)|muerte mundial", "Muerte del Mundo"),

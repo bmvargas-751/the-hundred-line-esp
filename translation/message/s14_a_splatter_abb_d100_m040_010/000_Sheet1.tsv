@@ -8,7 +8,7 @@ id	huella_jp	es
 70	91ed71ec	Te lanzaste sobre la persona del traje. Los dos atravesaron la ventana y cayeron hacia el suelo...
 80	ffbd7aa3	Supongo que recuerdas lo que pasó después.
 90	52818107	{fc(57e4f1)Tiene razón... Lo recuerdo.}
-100	0b4d509c	{fc(57e4f1)Forcejeaba con esa persona frente al Muro de Fuego. Justo a tiempo, le pateé la pierna con todas mis fuerzas...}
+100	0b4d509c	{fc(57e4f1)Forcejeaba con esa persona frente al muro de fuego. Justo a tiempo, le pateé la pierna con todas mis fuerzas...}
 110	7fccf824	{fc(57e4f1)Tomé la sierra eléctrica y corrí tras ella, pero luego la perdí de vista...}
 120	85b96f15	Los sucesos de ese día marcaron el momento en que empecé a sospechar de ti.
 130	5d5290f6	No hubo bajas en ese momento, así que no podía estar segura.
@@ -57,7 +57,7 @@ id	huella_jp	es
 560	29457235	Cierto... Recuerdo que Nozomi me contó que eso pasó.
 570	d7b44baa	Pero los asesinatos no se detuvieron. Supe que destruir tu cerebro era inútil.
 580	60741788	El sistema de revivir debió de recrear a la perfección los datos cerebrales guardados en su base de datos.
-590	e9e04bbc	Fui a la Biblioteca a investigar y buscar otra forma de curarte... Ahí me enteré de cierta droga.
+590	e9e04bbc	Fui a la biblioteca a investigar y buscar otra forma de curarte... Ahí me enteré de cierta droga.
 600	f05af887	¿Una droga...?
 610	db542679	Era posible que inyectártela eliminara los datos del {fc(ff635b)G'ie} de tu cerebro.
 620	38f6b88b	Así que, hacia el amanecer del Día 67, me colé en tu cuarto y te administré la droga mientras dormías.
@@ -85,13 +85,13 @@ id	huella_jp	es
 840	ff1cf951	¿Visitante?
 850	58a33fc1	Je...
 860	6fa7329b	Después de derribar la puerta de la jaula, la corté en tiras.
-870	2b95a353	Cuando terminé, arrojé la sierra eléctrica al Muro de Fuego para esconderla, pero...
+870	2b95a353	Cuando terminé, arrojé la sierra eléctrica al muro de fuego para esconderla, pero...
 880	79f67910	Takumi la encontró de inmediato y la recuperó. No tenía idea de que {fc(ff635b)él} estaba mirando.
 890	00cc069a	¿Y quién es "él", exactamente?
 900	50477888	El chico cubierto de llamas. Se confundía y se asustaba cada vez que me veía controlar a Takumi, jeje.
 910	53bc1e5c	Pero basta de eso...
 920	7200291d	Tú y tus amiguitos también descubrieron el traje y el casco, ¿correcto?
-930	e473d93c	Shouma los encontró en el baño de hombres. Sin duda pertenecían a la persona que vino a salvarme en el Laboratorio de Biología, ¿verdad?
+930	e473d93c	Shouma los encontró en el baño de hombres. Sin duda pertenecían a la persona que vino a salvarme en el laboratorio de biología, ¿verdad?
 940	d74e645c	Sí... Creo que al visitante lo perseguía Takumi, y tuvo que abandonarlos para moverse más rápido.
 950	a91a4ddb	En fin, los guardaron en el casillero del taller metalúrgico y Takumi puso la combinación, ¿no?
 960	b3cef9a0	Solo él sabía la combinación. O eso pensaban todos... Incluido el propio Takumi.
@@ -104,7 +104,7 @@ id	huella_jp	es
 1030	7880082f	Encontré a Moko en el salón del primer piso y la maté.
 1040	c2baa8a5	Se resistió, pero ni siquiera ella era rival para mi sierra eléctrica. Jejeje...
 1050	26cf7cb3	Pero Nozomi me sorprendió en el acto y logró esquivarme.
-1060	0e26b6be	La perseguí, pensando que podía matarla de paso... y terminé en la Sala de Descanso.
+1060	0e26b6be	La perseguí, pensando que podía matarla de paso... y terminé en la sala de descanso.
 1070	df47c4cf	Justo cuando casi la tenía... me embistieron y caí a la piscina.
 1080	79e7df51	Nozomi aprovechó esa oportunidad para escapar. Un poco más y la habría tenido... Je...
 1090	6c0e4780	Me quité el traje y el casco, y los abandoné junto con la sierra eléctrica para poder salir.
@@ -126,22 +126,22 @@ id	huella_jp	es
 1250	c86dc37d	Luego escondí la daga y el impermeable detrás del panel del techo del baño... y volví a dormir.
 1260	c786438d	¿Y tu cuarta víctima, Kurara? La asesinaron al amanecer del Día 64.
 1270	e91794f3	Sí, el día en que Yugamu la persiguió a ella y a Takumi disfrazado de asesino.
-1280	6d42838d	Takumi estaba acorralado frente a la Sala de Defensa del tercer piso, con Yugamu sosteniendo la sierra eléctrica sobre su cabeza.
+1280	6d42838d	Takumi estaba acorralado frente a la sala de defensa del tercer piso, con Yugamu sosteniendo la sierra eléctrica sobre su cabeza.
 1290	5b105585	Justo entonces... desperté yo, y Takumi perdió el conocimiento.
 1300	18309322	Satisfecho tras ver el terror en el rostro de Takumi, Yugamu se dio la vuelta y se fue. Era un verdadero degenerado, ese.
 1310	f179f11b	Ve al grano. Usaste el cuerpo de Takumi para matar a Kurara, ¿verdad?
 1320	2fc229cf	Jejeje... Exacto. Saqué la daga y el impermeable escondidos y di caza a Kurara, que se escondía en la Sala de Entrenamiento.
 1330	085f5f35	Ni siquiera tuvo tiempo de llorar ni de gritar antes de que la cortara en tiras sin piedad.
-1340	f5f67ef5	Terminé el trabajo y devolví el impermeable y la daga a su escondite... Luego, en la puerta de la Sala de Defensa, volví a caer en un sueño profundo.
+1340	f5f67ef5	Terminé el trabajo y devolví el impermeable y la daga a su escondite... Luego, en la puerta de la sala de defensa, volví a caer en un sueño profundo.
 1350	0f8a1946	Así que por eso Takumi creía que había estado desmayado ahí todo el tiempo...
 1360	62a02f27	La quinta fue Shouma, a quien maté el Día 77.
 1370	6002aa0d	Simplemente lo maté cuando desperté otra vez... Nada que valga la pena contar.
-1380	13c9d276	Déjame preguntarte una cosa. ¿Provocaste el incendio en el Gimnasio el Día 80?
+1380	13c9d276	Déjame preguntarte una cosa. ¿Provocaste el incendio en el gimnasio el Día 80?
 1390	1e44fbcb	Je... Mi dispositivo incendiario con temporizador salió bastante bien, ¿no?
 1400	e24ecef3	¡Sabía que estabas detrás de eso!
 1410	6ca61bad	¿Cuándo fue, el Día 78...? Cuando Takumi fue con Ima, Kako y Darumi al taller metalúrgico.
 1420	607334de	Alrededor de las 2 de la tarde, desperté y simplemente fingí ser Takumi.
-1430	df8b8eb4	Todos ustedes dormían juntos en el Gimnasio, y yo había estado esperando mi oportunidad...
+1430	df8b8eb4	Todos ustedes dormían juntos en el gimnasio, y yo había estado esperando mi oportunidad...
 1440	fe1b11f5	Se me ocurrió un plan para construir en secreto un dispositivo incendiario con temporizador y colocarlo ahí.
 1450	e723c310	Por supuesto, inventé una excusa para que los otros tres no sospecharan de mí, y trabajé en él solo.
 1460	5d2c614f	Pero me costó el trabajo... No pude terminar el dispositivo ese día.
@@ -150,7 +150,7 @@ id	huella_jp	es
 1490	47b69016	¿Quieres decir que la conciencia de Takumi no volvió en más de 24 horas?
 1500	51e986cb	Sí. No intercambiamos lugares en absoluto durante ese tiempo.
 1510	6caaa6e4	Al día siguiente, el Día 79, también trabajé en grupo con los gemelos y Darumi.
-1520	211fcdc3	Escondí conmigo el dispositivo incendiario terminado, fingí ir al baño y me dirigí al Gimnasio.
+1520	211fcdc3	Escondí conmigo el dispositivo incendiario terminado, fingí ir al baño y me dirigí al gimnasio.
 1530	de2121dc	Coloqué el dispositivo en el cajón de salto...
 1550	4e7ef60c	Luego fui a buscar a los demás. Todos estaban en pánico por haber visto al asesino.
 1560	bc6d9907	Obviamente, esa vez la persona del traje no era yo.

@@ -40,15 +40,15 @@ id	huella_jp	es
 390	71434121	¡Ese es el traidor! ¡No, fue ella!
 400	8f04afbc	¡Oigan, oigan, cálmense! Existe la posibilidad de que no haya sido ninguno de nosotros, sino alguien más.
 410	85497416	¿Alguien más? Si no fue un traidor ni la prisionera, ¿entonces quién?
-420	0c3ba15f	Ese invasor de Llamas Eternas que mencioné antes...
+420	0c3ba15f	Ese invasor de llamas eternas que mencioné antes...
 430	6187375c	Antes de que peleáramos contra la copia de Moko, me visitó otra vez.
 440	23b60d07	No intentó atacarme; solo desapareció rumbo al edificio de la escuela.
 450	587d1850	Lo seguí, pero justo después encontré a Moko en ese horrible estado...
 460	e47a9445	No lo he vuelto a ver desde entonces, pero es posible que sea quien dejó ir a la prisionera.
-470	a40484f5	En ese caso... la aparición del invasor de Llamas Eternas en realidad nos ayudó.
+470	a40484f5	En ese caso... la aparición del invasor de llamas eternas en realidad nos ayudó.
 480	257ff880	¿Qué...?
 490	90375b85	Si ese invasor no hubiera aparecido en ese momento, no te habrías dado cuenta de la verdad.
-500	c599c4df	Y no habrías visto a la copia de Moko intentando atacar la Sala de Defensa hasta que fuera demasiado tarde.
+500	c599c4df	Y no habrías visto a la copia de Moko intentando atacar la sala de defensa hasta que fuera demasiado tarde.
 510	5a64befa	Ah... Eso es cierto.
 520	69585dd3	{fc(57e4f1)Ahora que lo menciona, Nozomi tenía razón. Gracias a ese invasor noté que Moko actuaba raro.}
 530	2da444ea	{fc(57e4f1)¿Entonces quizás... intentaba advertirme sobre ella?}
@@ -61,7 +61,7 @@ id	huella_jp	es
 600	b15f0696	Más importante... ¿no deberíamos estar buscando a nuestra prisionera fugada?
 610	4cdb4421	¡Darumi tiene razón! ¡Quizás todavía podamos atraparla!
 620	0aa36285	De hecho, ¿no es posible que siga escondida en algún lugar de la academia?
-630	59aad222	¡Entonces quizás vaya hacia la Sala de Defensa! ¡Voy para allá ahora mismo!
+630	59aad222	¡Entonces quizás vaya hacia la sala de defensa! ¡Voy para allá ahora mismo!
 640	13ff3a5d	¡Oh! ¡Yo también voy! ¡Si pasa algo, los llamaremos!
 650	2469d6b6	¿Qué hacen los gemelos, de todos modos? ¿Siguen dormidos o qué?
 660	67f86339	¡Voy a despertarlos! ¡Tengo la broma perfecta para hacerlo!
@@ -70,5 +70,5 @@ id	huella_jp	es
 690	c429fdf9	¡Por favor, nada de aniquilar! ¡Solo hay que capturarla de nuevo!
 700	feb84947	{fc(57e4f1)Todos salieron corriendo a la vez en busca de la prisionera desaparecida.}
 710	5582330a	Supongo que también debería ir a buscar. Pero ¿por dónde empiezo...?
-720	c54c8636	{fc(57e4f1)No se puede ir más allá del Muro de Fuego sin un extintor, y no creo que la prisionera lo haya descubierto.}
+720	c54c8636	{fc(57e4f1)No se puede ir más allá del muro de fuego sin un extintor, y no creo que la prisionera lo haya descubierto.}
 730	73319da5	Pero por si acaso, déjame ir a mirar.

@@ -28,11 +28,11 @@ id	huella_jp	es
 270	958cdc36	Quizás él pueda hacer algo con esto...
 280	078ec386	¡No puede ser! ¿De verdad conoces a alguien que puede leerlo?
 290	b49e33a5	¡Espera aquí un segundo! No sé si vendrá o no, pero... intentaré encontrarlo.
-300	830b12fe	{fc(57e4f1)Salí disparado de la Biblioteca.}
+300	830b12fe	{fc(57e4f1)Salí disparado de la biblioteca.}
 310	84ac2ae1	{fc(57e4f1)Recorrí toda la escuela, llamando al chico fantasma.}
 320	f8cd8cd9	{fc(57e4f1)No era fácil llamar a alguien que ni siquiera tenía nombre.}
 330	ebdd99ba	{fc(57e4f1)Y al final...}
-340	54b8db2b	{fc(57e4f1)Después de varias horas, volví tambaleándome a la Biblioteca, agotado y sin aliento.}
+340	54b8db2b	{fc(57e4f1)Después de varias horas, volví tambaleándome a la biblioteca, agotado y sin aliento.}
 350	322cf21b	Perdón... por la espera, pero... Lo encontré...
 360	68d720b8	¿Eh? ¿Encontraste a quién? No veo a nadie.
 370	4b51334f	Ah, está aquí... Vamos, ya puedes salir.
@@ -40,13 +40,13 @@ id	huella_jp	es
 390	a2a7db9e	B-Buenas noches... Esta es... la primera vez que nos vemos así, ¿verdad?
 400	595a7b33	¡Vaya! ¡¿Eres ese chico fantasma del que nos habló Takumi?!
 410	a4f2336e	Técnicamente no soy un fantasma, pero... Es algo así, supongo.
-420	0f34eecd	¡Vaya, qué genial! ¡De verdad estás hecho de Llamas Eternas! ¡Eres como una especie de elemental de fuego!
+420	0f34eecd	¡Vaya, qué genial! ¡De verdad estás hecho de llamas eternas! ¡Eres como una especie de elemental de fuego!
 430	6314c993	¡Kyohohoho! Debo decir que pasar el rato contigo nunca es aburrido, Takumi.
 440	d3675830	Preparamos el libro del que te hablé. ¿Nos ayudarás?
 450	8cf51c87	Lo intentaré. Traer de vuelta a tus amigos suena a buena causa.
 460	00f4b85b	¿Cuál es? Muéstramelo.
 470	d3033470	¿Eh? Pero es de papel. ¿No le infligirás Quemadura?
-480	2a5c4c53	Está bien. Las Llamas Eternas solo queman materia orgánica.
+480	2a5c4c53	Está bien. Las llamas eternas solo queman materia orgánica.
 490	2ab3d64a	Pero esto es solo un avatar de hemoánima, así que no puedo sostener nada físicamente.
 500	b79be947	Tendrán que abrirlo en la página correcta y ponerlo frente a mí.
 510	253214c8	Ooh, esto de los avatares es genial... Quizás hasta tan genial como Takumi.
@@ -78,7 +78,7 @@ id	huella_jp	es
 770	9bf5d05c	Jaja... Me alegra haberles sido útil. Si no les molesta, ¿podrían dejar este libro abierto?
 780	c4629cbc	Vendré aquí cuando tenga tiempo e intentaré leer un poco más.
 790	9d0c7f0d	Les avisaré si descubro algo nuevo.
-800	0958e897	{fc(57e4f1)Dicho eso, el chico hecho de Llamas Eternas se desvaneció y desapareció.}
+800	0958e897	{fc(57e4f1)Dicho eso, el chico hecho de llamas eternas se desvaneció y desapareció.}
 810	8cf1f47f	¿No es genial, Takumi? ¡Si encontramos a esa criatura, podemos traer de vuelta a esos chicos!
 820	f526afc9	¡Vamos a buscarla!
 830	70aa2b73	¿Buscarla? ¿Así, ahora mismo...?
@@ -88,7 +88,7 @@ id	huella_jp	es
 870	5d3f1be1	¡Solo tenemos que encontrar algo que se parezca al de la imagen! ¡Será fácil!
 880	bc490ebe	¡Nos vemos luego, Takumi! ¡Es una promesa!
 890	11d11a16	¡O-Oye, espera...!
-900	256cb971	{fc(57e4f1)Pero ya era tarde. Darumi ya había salido corriendo por la puerta de la Biblioteca, dejándome solo.}
+900	256cb971	{fc(57e4f1)Pero ya era tarde. Darumi ya había salido corriendo por la puerta de la biblioteca, dejándome solo.}
 910	e12e997f	*suspiro* Supongo que volveré a mi cuarto a dormir.
 920	85f10b59	{fc(57e4f1)Por fin habíamos avanzado en nuestra investigación, algo por lo que había que agradecer.}
 930	32cc9f45	{fc(57e4f1)No sabía cómo irían las cosas desde aquí... ¿De verdad podríamos devolverles la vida a Moko, Kurara, Yugamu y Kyoshika?}

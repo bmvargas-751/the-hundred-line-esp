@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	2a5fb61e	{fc(57e4f1)Takemaru, Tsubasa y yo llevamos a todos al depósito donde estaba la cápsula de escape.}
 20	f352b18f	{fc(57e4f1)Les contamos cómo habíamos encontrado el lugar y que la cápsula solo se podía usar el Día 100.}
-30	612634f7	{fc(57e4f1)Tras volver a subir, fuimos todos a la Cafetería.}
+30	612634f7	{fc(57e4f1)Tras volver a subir, fuimos todos a la cafetería.}
 40	a56218f9	¿E-Entonces cuál era la pista que encontraron?
 50	0f01a4d0	Antes de eso, tengo que comprobar algo con Darumi.
 60	c5799cda	El Día 27, cuando encontramos el cuerpo de Kako, ¿de verdad estabas jugando a las tragamonedas en ese momento?
@@ -9,7 +9,7 @@ id	huella_jp	es
 80	6aa3e4fd	¡Entonces revisa el registro de la máquina! ¡Así sabrás con certeza que estaba jugando a esa hora!
 90	98830cc6	¡¿Y cómo habría podido apuñalar a Shouma si hubiera estado escondida todo el tiempo en ese depósito?!
 100	2573a75a	¡La única salida de ese lugar es ese túnel, ¿verdad?!
-110	24f69a64	¡No habría podido salir del Gimnasio hasta que la costa estuviera despejada!
+110	24f69a64	¡No habría podido salir del gimnasio hasta que la costa estuviera despejada!
 120	cc4f07bc	¿Quizá trepó por el hueco del ascensor de la cápsula de escape?
 130	fc1bc168	No soy mujer araña... y ese hueco no tiene asideros. ¡Es imposible de escalar!
 140	0fc7faa4	El techo de ese hueco está cubierto por un muro grueso.
@@ -46,6 +46,6 @@ id	huella_jp	es
 450	7877800b	
 460	1748e789	¡Nononononono!
 470	e2c18e2e	¡AAAHHHHH!
-480	f0739e34	{fc(57e4f1)Ima salió corriendo de la Cafetería gritando.}
+480	f0739e34	{fc(57e4f1)Ima salió corriendo de la cafetería gritando.}
 490	64a8a2ab	¡Espera, Ima!
 500	30bb42d1	{fc(57e4f1)Todos corrimos tras él.}
