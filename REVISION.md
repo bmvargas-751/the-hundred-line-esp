@@ -31,14 +31,14 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 
 | Sección | Líneas | Lectura completa | Cobertura del resto |
 |---|---:|---:|---|
-| Primera partida (`r00`) | 18.294 | 0% | patrones y muestras |
+| Primera partida (`r00`) | 18.294 | 100% | — |
 | Ruta `s00` | 14.835 | 100% | — |
 | Rutas `s01` a `s03` | 2.226 | 100% | — |
 | Rutas `s04` a `s11` | 30.571 | 100% | — |
 | Rutas `s12` a `s14` | 40.287 | 100% | — |
 | Ruta `s15` | 15.579 | 100% (retraducida desde el inglés y corregida) | — |
-| Eventos y charlas | 3.848 | ~47% | patrones |
-| **Total** | **125.640** | **~84%** | |
+| Eventos y charlas | 3.848 | ~77% (2.966 líneas del volcado) | patrones |
+| **Total** | **125.640** | **~99%** | |
 
 
 ### Barridos globales ya hechos

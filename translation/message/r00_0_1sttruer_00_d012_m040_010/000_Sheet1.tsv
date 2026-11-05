@@ -117,9 +117,9 @@ id	huella_jp	es
 1190	0bafb0f6	Así la atención se reparte entre los dos a partes iguales.
 1200	cfbc528d	No voy a dejar que nadie que esté dispuesto a pelear por sus seres queridos sea marginado por vomitar...
 1210	fd38d6a1	¡Tendrán que burlarse de mí también!
-1220	2a24de65	S-Sumino... ¿me estás tomando el pelo?
+1220	2a24de65	¿E-Estás bromeando?
 1230	26b06c44	¡No, hablo en serio! O sea, vomitaré por ti aquí mismo, ahora mismo, si quieres.
-1240	6bb9ef55	{fc(57e4f1)Miro fijo a Tsubasa a los ojos, poniendo en la mirada todo lo que siento...}
+1240	6bb9ef55	{fc(57e4f1)Tsubasa me miró como si intentara descifrarme. Yo le devolví la mirada más intensa que pude.}
 1250	bbef166d	{fc(57e4f1)No dejaré que Tsubasa pase por esto sola.}
 1260	a7692abb	{fc(57e4f1)¡Si se burlan de ella, también se burlarán de mí!}
 1270	f4a72a8b	
@@ -130,8 +130,8 @@ id	huella_jp	es
 1340	1e6c64e1	{fc(57e4f1)Entonces, de repente, su expresión se relajó como si por fin la hubiera alcanzado.}
 1350	00d5c99c	Jeje... Ya veo. Eres tonto, ¿verdad?
 1370	d4958949	¿Vomitar conmigo? ¿Estás loco? ¿Cómo llegaste a ser así?
-1380	b2526e92	Ji, ji... Ja, ja...
-1390	50a98297	¡Jajajajajajajaja!
+1380	b2526e92	Jeje... Jaja...
+1390	50a98297	¡Jajajajajaja!
 1400	f4a72a8b	
 1410	e824b08b	{fc(57e4f1)No era la reacción que esperaba, pero al menos logré hacerla sonreír.}
 1420	8d4245de	En todo caso, deja de intentar que pelee.
@@ -157,14 +157,14 @@ id	huella_jp	es
 1620	bf6a3897	¿Te refieres al taller de tu abuelo?
 1630	d749c523	¿Cómo lo sabes?
 1640	07ae2d89	Me lo dijo Takemaru. Dijo que ibas todos los días.
-1650	c24d89e8	Sí. Trastear con máquinas en el taller de mi abuelo siempre fue lo mejor de mi día.
+1650	c24d89e8	Sí. Armar y desarmar máquinas en el taller de mi abuelo siempre fue lo mejor de mi día.
 1660	d1f6c7b5	Así que no necesitas preocuparte tanto por mí.
 1670	c322e7be	La gente puede arreglárselas bastante bien mientras tenga un lugar al que pertenecer.
 1680	c55dde36	{fc(57e4f1)A Tsubasa se le iluminó el rostro en cuanto empezó a hablar del taller de su abuelo.}
 1690	369b8b48	{fc(57e4f1)Debe de ser lo más importante del mundo para ella.}
 1700	a8221c03	{fc(57e4f1)Si es como lo que Karua es para mí, entonces...}
 1710	77c0d3b2	¿Te importaría contarme cómo era pasar tiempo en el taller de tu abuelo?
-1720	b1de59b6	{fc(57e4f1)Si el taller de su abuelo es} {fc(ff635b)lo que más le importa}{fc(57e4f1)}, entonces quizás...
+1720	b1de59b6	{fc(57e4f1)Si el taller de su abuelo es }{fc(ff635b)lo que más le importa}{fc(57e4f1), entonces quizás...}
 1730	5317e962	{fc(57e4f1)¡Quizás ese pueda ser su motivo para pelear!}
 1740	fa471759	Por cómo soy, siempre trato de mantener mis emociones bajo control.
 1750	fc28bccd	Solo pienso en no dejar que nada me haga vomitar.
@@ -174,7 +174,7 @@ id	huella_jp	es
 1790	cb2e8367	Claro que también fallaba mucho, pero el abuelo siempre me animaba con sus carcajadas.
 1800	20dffe91	"¡Falla todo lo que quieras, Tsubasa!"
 1810	174a81d6	"¡Los grandes jugadores se equivocan, pero también hacen las grandes jugadas! ¡Jajajaja!"
-1820	ea9c0a94	Por mucho que la regara, nunca me echaba.
+1820	ea9c0a94	Por mucho que metiera la pata, nunca me echaba.
 1830	9dc0f5b7	Incluso cuando su nieta era una vomitona inútil, siempre me cuidaba.
 1840	c69927bf	Por eso adoro su taller. Es la encarnación de su bondad.
 1850	66139663	Mientras tenga su taller, yo...
@@ -210,7 +210,7 @@ id	huella_jp	es
 2180	f4a72a8b	
 2190	f2a98943	{fc(57e4f1)Tsubasa bajó la cabeza y se quedó callada. Todavía necesita un empujón más...}
 2200	1fe8923b	¡Sí, mi abuelo es el mejor abuelo del mundo!
-2210	ae2404f7	¡Es un rey de la grasa que siempre protege a su nieta. Su taller es su castillo!
+2210	ae2404f7	¡Es un rey de la grasa que siempre protege a su nieta! ¡Su taller es su castillo!
 2220	c133729b	Mi sueño es algún día hacerme cargo de su taller.
 2230	d7382829	Quiero proteger el lugar que me ha protegido toda la vida.
 2240	5a7a3bcd	Solo quiero trabajar con máquinas en el taller de mi abuelo para siempre...
@@ -225,7 +225,7 @@ id	huella_jp	es
 2360	01f0b024	El Complejo Residencial de Tokio SÍ fue atacado por montones de invasores antes de que nos trajeran aquí.
 2370	6615a07f	Que nuestros seres queridos estén en peligro inminente bien podría ser verdad.
 2380	c34984e6	¡¿Entonces el taller de mi abuelo también está en peligro?!
-2390	da6dbc3e	Creo que es bastante posible...
+2390	da6dbc3e	Es totalmente posible.
 2400	38ff1963	¡N-No puede ser...!
 2410	462de6da	Pero apuesto a que este sueño nunca se cumplirá...
 2420	a368bea5	Dentro de poco me echarán de la escuela y moriré en la calle de todos modos.
@@ -238,12 +238,12 @@ id	huella_jp	es
 2490	08f217b9	{fc(57e4f1)La posibilidad de que los invasores atacaran a sus seres queridos la aterraba.}
 2500	911d1ade	{fc(57e4f1)Di un paso hacia ella y la miré directo a los ojos.}
 2510	fbb3dff8	Si quieres proteger el taller de tu abuelo, solo hay una cosa que puedes hacer.
-2520	200df7a1	¡Encontrar el valor para pelear contra los invasores!
+2520	200df7a1	¡Encuentra el valor para pelear contra los invasores!
 2530	a52ceecd	Pero... ¿puede una cobarde como yo hacer eso?
 2540	f121fca3	No te preocupes. No tienes que hacerlo sola.
 2550	dcce86c5	Protegeremos juntos lo que es importante para ti. Así que solo protégenos tú a cambio.
 2560	7cfbe511	Ven con nosotros...
-2570	1808294f	¡Y protege juntos lo que más nos importa!
+2570	1808294f	¡Y protejamos juntos lo que más nos importa!
 2580	e2229adc	No te preocupes por un poco de vómito.
 2590	a0eef5f8	¡Solo usa esa bolsa para el mareo!
 2600	a0eef5f8	¡Solo usa esa bolsa para el mareo!
