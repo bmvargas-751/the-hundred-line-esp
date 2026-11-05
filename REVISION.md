@@ -52,10 +52,12 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 - «eh...?» sin «¿» (11 líneas).
 - Trato de Ima, Kako y Kyoshika según lo anterior.
 - Glosario y léxico regional en todo el juego (`s00` a `s15`): TL, *okey*, *recién*, *qué onda*, *nomás*, anuncios de SIREI con el día en ordinal y *Sr. Sumino* en boca de Ima.
+- Lugares y términos comunes del juego en minúscula a media frase (*sala de guerra*, *cafetería*, *llamas eternas*, *muerte del mundo*…, unas 2.800 líneas) y *su excelencia SIREI* / *honorable SIREI* a media frase.
+- *Sin embargo* al final de frase (calco de *though*) por *eso sí* (55 líneas); *esa hora* (*That time again*) por *ya se hizo tarde* / *ya es hora de dormir*; *un acto* por *una actuación*; *mandadero* por *chico de los mandados*.
 
 ## Lo que falta
 
-1. **Lectura completa** de `r00` (18.294 líneas), por tandas de días. `s00` ya está leída completa.
+1. **Lectura completa** de lo que falta de *Eventos y charlas* (unas 880 líneas). `r00` y `s00` a `s15` ya están leídas completas.
 3. Resolver las dudas que dejaron los barridos:
    - Ima con *tú* hacia personajes que no son Kako, donde aún no se confirmó el destinatario (unas 15 líneas en `s08`, `s09` y `s11`).
    - Ginzaki con *tú* en `s09_a` (el glosario dice *usted*).
