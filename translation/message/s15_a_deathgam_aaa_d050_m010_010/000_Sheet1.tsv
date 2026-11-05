@@ -3,10 +3,10 @@ id	huella_jp	es
 30	69ceab21	¡Arriba, tropa! ¡Es hora de levantarse y brillar!
 40	3c42c916	¡Prepárense para su quincuagésimo día de servicio activo aquí, en la Última Academia de Defensa! ¡Así es, amigos, ya van a medio camino! ¡Y lo que a medias se hace, a medias se queda!
 50	542ed512	¡Han vadeado ya tan adentro en sangre que volver atrás sería tan penoso como seguir adelante! ¡Ya no hay marcha atrás!
-60	6579be26	¡En honor de la ocasión, he abierto el {fc(ff635b)Patio}! Es el lugar perfecto para disfrutar de un momento de tranquila contemplación.
+60	6579be26	¡En honor de la ocasión, he abierto el {fc(ff635b)patio}! Es el lugar perfecto para disfrutar de un momento de tranquila contemplación.
 70	79f83dc4	¡También he preparado un regalo especial para todos y cada uno de ustedes, valientes soldados!
-80	fecf8604	Se los daré en persona, así que vengan a buscarme a la Cafetería.
-90	584e9601	{fc(57e4f1)Y así comenzó nuestro día 50 en la academia... y el octavo día de la Ronda Dos de la Caza de Invasores.}
+80	fecf8604	Se los daré en persona, así que vengan a buscarme a la cafetería.
+90	584e9601	{fc(57e4f1)Y así comenzó nuestro día 50 en la academia... y el octavo día de la Ronda Dos de la caza de invasores.}
 100	b11dd330	{fc(57e4f1)Había convocado a los miembros de la alianza a mi cuarto para una reunión a primera hora de la mañana.}
 110	e5fe27cd	{fc(57e4f1)Para hablar del futuro de la Alianza Antipatrocinador.}
 120	5c98a2a2	Perder a Moko fue un golpe doloroso... Nunca dejaremos de llorarla...
@@ -30,5 +30,5 @@ id	huella_jp	es
 300	748ffaee	{fc(57e4f1)Nozomi pasaba mucho tiempo con Eva desde ayer.}
 310	446e339a	{fc(57e4f1)Aunque este era un período crítico para nosotros...}
 320	e47cb204	Iré a buscarla. Los demás pueden volver a sus cuartos para prepararse para la caza.
-330	409b76f7	{fc(57e4f1)Tras despedir al grupo, me dirigí a la jaula del Patio.}
+330	409b76f7	{fc(57e4f1)Tras despedir al grupo, me dirigí a la jaula del patio.}
 340	2378ed55	{fc(57e4f1)Y allí vi...}

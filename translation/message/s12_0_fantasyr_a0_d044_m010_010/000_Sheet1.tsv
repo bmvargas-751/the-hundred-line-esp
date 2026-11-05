@@ -21,12 +21,12 @@ id	huella_jp	es
 210	01662801	Tengo... tanta hambre...
 220	f6bfa28e	¡¿Hambre?!
 230	b5e89f8e	No solo hambre, me muero de hambre... Ya desayuné y no cambió nada...
-240	74bfd918	¿Ah, sí? Bueno, vamos a la Cafetería y...
+240	74bfd918	¿Ah, sí? Bueno, vamos a la cafetería y...
 250	55f35082	No, no puedo... Comí un montón allá hace un rato...
 260	b2db9c04	¿No puedes comer más?
 270	726ba5ef	Si hago eso... SIREI sabrá que algo anda mal.
 280	54431e63	Ah, cierto. No había pensado en eso...
-290	b497fb95	{fc(57e4f1)Si sacábamos demasiada comida de la Cafetería, iba a llamar la atención sí o sí.}
+290	b497fb95	{fc(57e4f1)Si sacábamos demasiada comida de la cafetería, iba a llamar la atención sí o sí.}
 300	c19514a6	{fc(57e4f1)Daba lo mismo que gritáramos "¡Estamos tramando algo!" y le contáramos a SIREI todo sobre Retsnom.}
 310	23a6cdda	{fc(57e4f1)Teníamos que encontrar la forma de sortear esto... Pero ¿cómo?}
 320	d7eb04b2	Espera aquí, te traeré algo. Yo todavía no he desayunado, así que no le parecerá raro a nadie.
@@ -55,7 +55,7 @@ id	huella_jp	es
 550	eb35e919	Tenemos que tener cuidado con esto... ¿Puedes saber qué tipo de cosas puedes comer ahora?
 560	8c5068c5	Sí, creo que sí... ¿Por qué?
 570	f80d7fd6	Deberíamos hacer una lista y quizás empezar a juntar una reserva.
-580	68fc025e	Aunque no podamos sacarlo de la Cafetería, el Gift-O-Matic puede hacer todo tipo de cosas.
+580	68fc025e	Aunque no podamos sacarlo de la cafetería, el Gift-O-Matic puede hacer todo tipo de cosas.
 590	c5e2d63e	Pero sé sincera conmigo. ¿Seguro que estás bien después de comer todo ese papel?
 600	74338a8d	¡Estoy perfecta! Y averiguar qué más puedo comer me parece una gran idea.
 610	cf4f9bd5	¡Podemos pasar el día entero probando cosas distintas!

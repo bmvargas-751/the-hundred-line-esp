@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	42a252e0	{fc(57e4f1)Nos llevaron a la Sala de Guerra, donde vimos la escena más desagradable.}
+10	42a252e0	{fc(57e4f1)Nos llevaron a la sala de guerra, donde vimos la escena más desagradable.}
 20	566cfbcc	{fc(57e4f1)Sobre la mesa yacía un cuerpo tan cubierto de sangre que se notaba a simple vista que revivirlo sería imposible.}
 30	b2e817ff	{fc(57e4f1)Era el cadáver de Shouma.}
 40	fd82b393	
@@ -8,8 +8,8 @@ id	huella_jp	es
 70	de451833	Sí... También escuchamos sus últimas palabras.
 80	4bf7fb05	{fc(57e4f1)Justo antes de dar su último suspiro, Shouma dijo...}
 90	7d8a6547	{fc(57e4f1)"Me dio pena ver a todos de tan mal humor. Pensé que algo rico de comer podría animarlos".}
-100	992be5a7	{fc(57e4f1)Intentaba colarse a la Cafetería, pero los zombis lo encontraron y lo atacaron antes de que llegara.}
-110	200b3ba4	{fc(57e4f1)Mientras huía por su vida, logró meterse de un salto a la Sala de Guerra, pero las heridas que sufrió fueron mortales.}
+100	992be5a7	{fc(57e4f1)Intentaba colarse a la cafetería, pero los zombis lo encontraron y lo atacaron antes de que llegara.}
+110	200b3ba4	{fc(57e4f1)Mientras huía por su vida, logró meterse de un salto a la sala de guerra, pero las heridas que sufrió fueron mortales.}
 120	3e5f5263	Justo antes de morir, dijo... "Todos... Por favor, sigan viviendo..."
 130	fc58b15d	Esas fueron sus últimas palabras.
 140	3a9b2d00	El tonto solo intentaba ayudarnos... ¡Maldición!
@@ -32,7 +32,7 @@ id	huella_jp	es
 310	cfd6a11d	{fc(57e4f1)El plan que trazamos entonces era más o menos así.}
 320	0117f968	{fc(57e4f1)Atraeríamos a α2 con el cuerpo de Shouma y, mientras ponía su huevo en él, dispararíamos una red desde el techo para capturarla.}
 330	aaa37956	{fc(57e4f1)Un plan tan sencillo no requería mucha preparación.}
-340	471e1c9e	{fc(57e4f1)Tsubasa sacó unas herramientas del Garaje y terminó de armar la trampa en una hora más o menos.}
+340	471e1c9e	{fc(57e4f1)Tsubasa sacó unas herramientas del garaje y terminó de armar la trampa en una hora más o menos.}
 350	52d3db3c	Bien... Ahora solo tenemos que esperar a que aparezca α2.
 360	dc7b7730	{fc(57e4f1)Nos escondimos y vigilamos en silencio los restos de Shouma.}
 370	2b2ac934	Oye... ¿De verdad crees que podemos atrapar a la {fc(ff635b)G'ie} así?

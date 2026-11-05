@@ -5,16 +5,16 @@ id	huella_jp	es
 40	d35d4bf2	¿Pero cómo se supone que vamos a ver a ese tipo? ¿Sale si lo llamas?
 50	0b9d9323	Bueno, tendremos que armarnos de valor e intentarlo.
 60	c82d3437	¿Armarnos de valor...?
-70	9a628145	{fc(57e4f1)Seguí hacia la puerta de la Sala de Defensa. Ya había tomado una decisión...}
+70	9a628145	{fc(57e4f1)Seguí hacia la puerta de la sala de defensa. Ya había tomado una decisión...}
 80	5dde8ab8	¡Oye! ¡¿Puedes salir?! ¡Quiero hablar contigo!
 90	ac9f65a8	{fc(57e4f1)Un instante después de llamar hacia la puerta...}
-100	fe69a23c	{fc(57e4f1)Golpeé la puerta, envuelto en Llamas Eternas.}
+100	fe69a23c	{fc(57e4f1)Golpeé la puerta, envuelto en llamas eternas.}
 110	15824feb	¡Sé que me oyes, por favor! ¡S-Sal!
 120	05d75897	¡Takumi! ¡¿Qué haces?!
 130	f7200aec	¡¿Qué mierda te pasa?! ¡Te vas a quemar hasta quedar hecho cenizas!
 140	5eb160fa	¡Sal... Necesito hablar contigo...!
 150	e850c1e1	¡Por favor...! ¡Sal!
-160	f6a35de6	{fc(57e4f1)Y entonces, las Llamas Eternas que cubrían la puerta se apagaron de repente.}
+160	f6a35de6	{fc(57e4f1)Y entonces, las llamas eternas que cubrían la puerta se apagaron de repente.}
 170	30acd31b	Ngh... ¡Urghhhh!
 180	b90570ee	{fc(57e4f1)Liberado del calor intenso, me desplomé en el sitio.}
 190	8a86e937	¡I-Idiota! ¡¿Qué demonios hiciste?! ¡Casi te mueres!
@@ -23,10 +23,10 @@ id	huella_jp	es
 220	bfd4300a	Jamás imaginé que harías algo tan temerario...
 230	6394dca2	¡GAH! ¡HABLARON! ¡L-Las llamas, hablaron!
 240	e3d84bd9	Lo vislumbré cuando nos salvó de V'ehxness, pero...
-250	81785d77	Este es el chico hecho de Llamas Eternas del que hablaste antes, ¿verdad, Takumi?
+250	81785d77	Este es el chico hecho de llamas eternas del que hablaste antes, ¿verdad, Takumi?
 260	ccf7e603	Mucho gusto. Pero ya sé todo sobre ustedes...
 270	e4819417	Ustedes son Tsubasa y Takemaru, ¿cierto...?
-280	027f10ce	S-Sí... Vaya, de verdad estás hecho de Llamas Eternas... Eso es una locura...
+280	027f10ce	S-Sí... Vaya, de verdad estás hecho de llamas eternas... Eso es una locura...
 290	190f95dd	Qué bueno que saliste. Hay algo de lo que tengo que hablar contigo.
 300	32a9d198	¿Podrías ser breve...?
 310	57b55438	Primero... Tengo que agradecerte otra vez.
@@ -87,5 +87,5 @@ id	huella_jp	es
 860	6dda3e69	Cierto. Ahora que te conocimos, no podemos dejarte solo.
 870	e910e46b	Gracias. De verdad.
 880	19ee8037	{fc(57e4f1)Dijo esas palabras algo cohibido antes de desvanecerse en silencio.}
-890	c787da1d	{fc(57e4f1)Después de eso, salimos de la Sala de Defensa y volvimos a nuestras habitaciones.}
+890	c787da1d	{fc(57e4f1)Después de eso, salimos de la sala de defensa y volvimos a nuestras habitaciones.}
 900	21dceb69	{fc(57e4f1)Se había hecho bastante tarde, así que decidí dar el día por terminado.}

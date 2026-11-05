@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	59e2e53e	¿De verdad podemos romper una puerta tan resistente?
-20	bfc2b408	Estas Llamas Eternas también estorban... Quitarlas con un extintor no servirá, ¿verdad?
+20	bfc2b408	Estas llamas eternas también estorban... Quitarlas con un extintor no servirá, ¿verdad?
 30	1b0274ed	Ataquemos todos a la vez con nuestras armas de clase. Si trabajamos juntos, seguro lograremos algo.
 40	74b8c007	Aunque podamos... ¿de verdad deberíamos hacerlo?
 50	b291990d	¡No sirve de nada acobardarse ahora, después de todo lo que hemos pasado! ¡Tenemos que hacerlo!
@@ -12,14 +12,14 @@ id	huella_jp	es
 110	9f4a8667	¡No necesito que me lo digas! ¡Hagámoslo!
 120	5cf8543a	¡Es la hora...! ¡En guardia, puerta!
 130	2e23f48c	¡Bien, aquí vamos!
-140	975f357e	{fc(57e4f1)Todos nos plantamos frente a la puerta de la Sala de Defensa y preparamos nuestras armas de clase a la vez.}
+140	975f357e	{fc(57e4f1)Todos nos plantamos frente a la puerta de la sala de defensa y preparamos nuestras armas de clase a la vez.}
 150	da320924	{fc(57e4f1)Pero antes de que pudiéramos atacar...}
 160	96f9ca69	{fc(57e4f1)De pronto, él apareció ante nosotros.}
 170	0cacd43a	¡AAAGH! ¡¿Qué diablos...?! ¡Es un monstruo! ¡Un fantasma!
 180	5ff5ff19	¡Esperen! ¡Este es el chico del que nos habló Takumi!
-190	ca3e310c	¿L-La persona hecha de Llamas Eternas...?
+190	ca3e310c	¿L-La persona hecha de llamas eternas...?
 200	c8570bf0	Sí... El mismo que sigue apareciéndose ante mí.
-210	5e20e2b6	¡Este es el chico de las Llamas Eternas!
+210	5e20e2b6	¡Este es el chico de las llamas eternas!
 220	f30af4a5	Oh, ¿es este? Jejeje, es bastante lindo...
 230	c1bda8e0	P-Pero ¿qué es esta cosa...? Llamas Eternas... con forma de persona...
 240	5dca4d58	Claramente no es humano. Debe de ser un invasor.
@@ -27,4 +27,4 @@ id	huella_jp	es
 260	57c811bd	¿Eh?
 270	a155481c	{fc(57e4f1)Era una voz extraña. En lugar de oírla con los oídos, era como si resonara directamente dentro de mi cuerpo...}
 280	50c469d2	No soy su enemigo. Siempre...
-290	ae18f1b4	Siempre he estado aquí dentro. He estado dentro de la Sala de Defensa todo este tiempo.
+290	ae18f1b4	Siempre he estado aquí dentro. He estado dentro de la sala de defensa todo este tiempo.

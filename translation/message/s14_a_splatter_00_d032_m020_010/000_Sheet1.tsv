@@ -7,7 +7,7 @@ id	huella_jp	es
 60	5d76d6b3	Es un {fc(ff635b)Detector de Vida Orgánica}, ¿recuerdan? Nos mostrará cuántas personas hay dentro de la escuela.
 70	1c950d21	¿Cómo funciona?
 80	263e6f3d	En realidad es súper simple. Detecta y cuenta cualquier forma de vida grande dentro de su rango efectivo.
-90	1cf7f32b	En este caso, ese rango es todo lo que está dentro del Muro de Fuego, así que nos mostrará cuántas personas hay actualmente en los terrenos de la escuela.
+90	1cf7f32b	En este caso, ese rango es todo lo que está dentro del muro de fuego, así que nos mostrará cuántas personas hay actualmente en los terrenos de la escuela.
 100	fad8239b	¿Incluso registrará como persona a un montón de excremento apestoso como yo?
 110	97832e9f	Por supuesto. Mientras estés vivo, cuentas para el total.
 120	2b8b0019	Pero ¿solo muestra el total y no dónde están?
@@ -26,7 +26,7 @@ id	huella_jp	es
 260	4567f76a	Cuando lo hicimos, el total cambió. Bajó a 14.
 270	279d3751	En otras palabras, esta lectura es precisa.
 280	8d19ab05	{fc(57e4f1)Entonces, ¿de verdad hay alguien escondido en alguna parte de la escuela...?}
-290	ed620fdc	{fc(57e4f1)¿Podría ser el chico de Llamas Eternas el que sobra...? No, es tan distinto de una persona normal que probablemente no contaría.}
+290	ed620fdc	{fc(57e4f1)¿Podría ser el chico de llamas eternas el que sobra...? No, es tan distinto de una persona normal que probablemente no contaría.}
 300	8d12c435	Esto lo confirma. El legendario asesino en serie está entre nosotros. ¡Es un hecho!
 310	1379b952	Lo que significa que... ¡el juego de matar por fin ha comenzado!
 320	b474dd27	¿"Legendario"? Bah. Lo creeré cuando lo vea. Sea humano o invasor, ¡quien se meta conmigo caerá!

@@ -1,5 +1,5 @@
 id	huella_jp	es
-10	be824b93	{fc(57e4f1)Efectivamente, cuando llegué al Garaje, Tsubasa estaba ahí.}
+10	be824b93	{fc(57e4f1)Efectivamente, cuando llegué al garaje, Tsubasa estaba ahí.}
 20	2e47fdbe	{fc(57e4f1)Pero algo andaba mal.}
 30	f4a72a8b	
 40	61eb88a9	Eh, ¿Tsubasa?
@@ -19,7 +19,7 @@ id	huella_jp	es
 180	61a93f80	Bueno, eh... He estado trabajando en algo. Mira.
 190	66d1829f	¿Esto es...SIREI?
 200	1ba74aca	¡¿Lo arreglaste?!
-210	cf01c91f	Sí... Estuve...husmeando en la computadora de la Sala de Guerra y encontré un manual que explicaba cómo hacerlo.
+210	cf01c91f	Sí... Estuve...husmeando en la computadora de la sala de guerra y encontré un manual que explicaba cómo hacerlo.
 220	e5f67313	Parece que SIREI lo dejó ahí para que pudiéramos hacerle reparaciones de emergencia si algo le pasaba.
 230	11848440	Vaya... No tenía idea.
 240	2b1dbf75	¿Crees que podrás reactivarlo?
@@ -48,4 +48,4 @@ id	huella_jp	es
 470	f4a72a8b	
 480	79b05e6e	¡Urrrgh, está bien, como quieran! Da igual...
 490	7a24b846	{fc(57e4f1)Después de eso, Tsubasa insistió en hacer unas pruebas para asegurarse de que SIREI funcionaba bien.}
-500	09e8733a	{fc(57e4f1)Yo volví a la Cafetería a desayunar y luego a mi cuarto.}
+500	09e8733a	{fc(57e4f1)Yo volví a la cafetería a desayunar y luego a mi cuarto.}

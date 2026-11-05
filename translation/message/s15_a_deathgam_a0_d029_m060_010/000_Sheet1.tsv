@@ -36,8 +36,8 @@ id	huella_jp	es
 360	79a4a45c	¡¿D-De verdad?!
 370	a6a4521f	La verdad es que yo tampoco esperaba encontrarlo tan pronto.
 380	bde7ba25	Una vez que lo tengamos, descubrir una o dos debilidades será un trabajo trivial.
-390	d1087201	Por desgracia para el patrocinador, su Caza de Invasores está a punto de terminar antes de tiempo.
-400	832f44fc	{fc(57e4f1)Un final para esta abominable Caza de Invasores parecía un sueño, pero Hiruko parecía segura de que las probabilidades estaban a nuestro favor.}
+390	d1087201	Por desgracia para el patrocinador, su caza de invasores está a punto de terminar antes de tiempo.
+400	832f44fc	{fc(57e4f1)Un final para esta abominable caza de invasores parecía un sueño, pero Hiruko parecía segura de que las probabilidades estaban a nuestro favor.}
 410	b3a52da1	¿Podemos hacer algo para ayudarte a conseguir el traje de repuesto?
 420	ac33985e	Bastante. De hecho, me atrevería a decir que no podría recuperar el traje sin su ayuda.
 430	67dbc059	El traje está en algún lugar al sur de este campus.
@@ -57,7 +57,7 @@ id	huella_jp	es
 570	d3f94ccb	Será la hora del enfrentamiento con el patrocinador.
 580	e16d0645	¡...!
 590	3d264eca	{fc(57e4f1)El plan de Hiruko era simple pero audaz.}
-600	10761846	{fc(57e4f1)Lo acabaría todo mañana sin falta, si las circunstancias lo permitían. Tanto la Caza de Invasores... como al patrocinador mismo.}
+600	10761846	{fc(57e4f1)Lo acabaría todo mañana sin falta, si las circunstancias lo permitían. Tanto la caza de invasores... como al patrocinador mismo.}
 610	cbc3beba	¿Me ayudarán, Takumi y Yugamu?
 620	4a83672d	{fc(57e4f1)Una súplica sincera de ayuda de Hiruko, sin sus habituales púas, merecía un sí rotundo de mi parte. Asentí con vigor.}
 630	67f4441a	¡Claro que te ayudaré! Vamos a conseguir ese traje y a derrotar juntos al patrocina...
@@ -102,7 +102,7 @@ id	huella_jp	es
 1020	cceae868	Muy bien. Tendrán una explicación completa de por qué debo llevar a Darumi.
 1030	79a4a45c	¡¿D-De verdad?!
 1040	984d4cdf	Sí, pero aquí no. Afuera.
-1050	9271e6c1	Te esperaré en la Azotea. Ven {fc(ff635b)solo}.
+1050	9271e6c1	Te esperaré en la azotea. Ven {fc(ff635b)solo}.
 1060	4f1bc9d3	{fc(57e4f1)Dicho eso, salió del cuarto. Pero que quisiera verme a solas significaba...}
 1070	6563dde5	Ay, por amor al asesinato... ¿Ahora soy yo el marginado, eh?
 1080	86e11982	No me importa. Adelante, Takumi. Estaré aquí mismo, calentándote la cama hasta que regreses.
@@ -110,4 +110,4 @@ id	huella_jp	es
 1100	afd52802	Y no toques mi cama.
 1110	e6ab3c0b	Jiji... No prometo nada.
 1120	ad1ccada	¡Por favor, promételo!
-1130	4feef166	{fc(57e4f1)Dejé a Yugamu en mi cuarto y salí a la Azotea.}
+1130	4feef166	{fc(57e4f1)Dejé a Yugamu en mi cuarto y salí a la azotea.}

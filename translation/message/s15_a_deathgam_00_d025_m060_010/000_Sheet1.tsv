@@ -1,9 +1,9 @@
 id	huella_jp	es
-10	729a36c0	{fc(57e4f1)Llegué a la Sala de Descanso poco antes de las 7:00 p. m. y vi que todos los demás miembros de la Unidad de Defensa Especial ya estaban allí.}
+10	729a36c0	{fc(57e4f1)Llegué a la sala de descanso poco antes de las 7:00 p. m. y vi que todos los demás miembros de la Unidad de Defensa Especial ya estaban allí.}
 20	a4136dbd	Hay un buen grupo aquí... ¿Todos decidieron unirse al juego?
 30	53b2c371	Sinceramente, yo nunca quise venir, pero Darumi tocó mi timbre al menos diez mil veces.
 40	c4f2e493	Fue tan insistente que al final cedí...
-50	cc7870d8	¡Estaba comiendo un bocadillo en la Cafetería cuando de pronto Lady Darumi me arrebató mi Sagrada Espada Jumonji!
+50	cc7870d8	¡Estaba comiendo un bocadillo en la cafetería cuando de pronto Lady Darumi me arrebató mi Sagrada Espada Jumonji!
 60	f31a44ed	¡Perseguí al bribón para recuperarla, cuando de pronto descubrí que me habían atraído hasta aquí...!
 70	d171ae0d	Ah, la Sagrada Espada Jumonji está sana y salva, por si les preocupaba.
 80	d66aa478	¡Se podría decir que fue un verdadero {fc(ff635b)hurto de hierro}! ¡Jajaja!
@@ -30,7 +30,7 @@ id	huella_jp	es
 290	f4a72a8b	
 300	f4a72a8b	
 310	64ef70e9	Maldita sea. No pasa nada.
-320	afcc8793	{fc(57e4f1)No vino nadie. No pasó nada. La Sala de Descanso estaba tan silenciosa y tranquila como siempre.}
+320	afcc8793	{fc(57e4f1)No vino nadie. No pasó nada. La sala de descanso estaba tan silenciosa y tranquila como siempre.}
 330	48331648	Quizá el cerebro del plan se rindió al ver que un insecto asqueroso como yo se unía.
 340	38878dfa	¿O quizá... todo ese mensaje fue una broma?
 350	f4a72a8b	
@@ -56,7 +56,7 @@ id	huella_jp	es
 550	4b46aee0	¡¿Un paracaídas de abejas?! ¡Jamás había visto un medio de transporte tan horrendo...!
 560	9b641394	¡AAAH! ¡ODIO LOS BICHOS! ¡Alguien tráigame insecticida, YA!
 570	afc7fcf6	{fc(57e4f1)La persona del traje espacial fue bajando de altura poco a poco.}
-580	8bb77114	{fc(57e4f1)Había aterrizado en la Sala de Descanso.}
+580	8bb77114	{fc(57e4f1)Había aterrizado en la sala de descanso.}
 590	f4a72a8b	
 600	1859bf72	Q-Qué ridículo te ves.
 610	b6706782	¡Quítate ese casco y muéstranos la cara!
@@ -84,7 +84,7 @@ id	huella_jp	es
 830	82978216	Kyoshika, seguro que es sarcasmo. O está intentando provocarnos.
 840	a8bcae7c	Qué honor tan inmenso. Pero ¿quién eres exactamente?
 850	88e171ec	¿Qué haces en esta escuela?
-860	c1f8787a	He venido a jugar mi juego con ustedes, por supuesto. Soy el patrocinador de la Caza de Invasores.
+860	c1f8787a	He venido a jugar mi juego con ustedes, por supuesto. Soy el patrocinador de la caza de invasores.
 870	6627df52	Pueden llamarme {fc(ff635b)Patrocinador}. Traten el título con el respeto que merece.
 880	2a5bbecd	{fc(57e4f1)Patrocinador... Así que esta es la persona que nos invitó a jugar este juego.}
 890	dcbe4131	{fc(57e4f1)Lo que significa...}
@@ -230,7 +230,7 @@ id	huella_jp	es
 2290	ac9f06ea	¡NOOOOOOOO! ¡Kurara, Kuraraaaaaa!
 2300	e411bb53	No... Esto no puede estar pasando... ¡Lady Kurara no puede estar muerta...!
 2310	be38a2f8	¡No se rindan todavía! ¡Llevémosla al Revive-O-Matic!
-2320	0a0e82c9	{fc(57e4f1)Nozomi, Moko y Kyoshika levantaron el cadáver de Kurara y salieron de la Sala de Descanso. Pero...}
+2320	0a0e82c9	{fc(57e4f1)Nozomi, Moko y Kyoshika levantaron el cadáver de Kurara y salieron de la sala de descanso. Pero...}
 2330	5157ec48	Jaja, qué inútil. ¿Cómo se revive un cuerpo sin una gota de criptoglobina?
 2340	110ceb91	Qué lástima que muriera antes de que el juego empezara. Me arruinó el calendario.
 2350	b6503cb0	Supongo que tendré que posponer el inicio del juego hasta mañana por la mañana. Regresen aquí en cuanto despierten.
@@ -244,4 +244,4 @@ id	huella_jp	es
 2430	fbe331c3	Me pregunto cómo van a morir los demás. ¿Quién me matará a mí?
 2440	f1e2ce9b	O sea, hay tantísimo que esperar con ansias.
 2450	cd0797c9	¡Kyohohohohohohoho!
-2460	afad4842	{fc(57e4f1)La carcajada inquietante pero extrañamente inocente de Darumi resonó por la silenciosa Sala de Descanso.}
+2460	afad4842	{fc(57e4f1)La carcajada inquietante pero extrañamente inocente de Darumi resonó por la silenciosa sala de descanso.}

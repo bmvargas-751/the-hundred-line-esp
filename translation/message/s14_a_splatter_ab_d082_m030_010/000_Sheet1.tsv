@@ -1,6 +1,6 @@
 id	huella_jp	es
 10	2a9f3c22	{fc(57e4f1)Bien, entonces... ¿Qué hago hoy?}
-20	fa4b5a78	{fc(1dff3d)¿Pasar el rato en la Sala de Recreo? (El tiempo avanzará.)}
+20	fa4b5a78	{fc(1dff3d)¿Pasar el rato en la sala de recreo? (El tiempo avanzará.)}
 30	dd3684d8	Jugar un rato {is60}{image(ui_icon_f_choice)}
 31	37e8b3ae	Descansar {is60}{image(ui_icon_f_choice)}
 32	042c2fac	No hacer nada

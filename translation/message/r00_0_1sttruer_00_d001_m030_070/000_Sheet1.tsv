@@ -27,7 +27,7 @@ id	huella_jp	es
 260	43cfa789	¡¿Quieres que lo arreglemos afuera, perra?!
 270	a1c0982f	¡Están locos! No hablamos de unos matones callejeros cualquiera, ¡son MONSTRUOS de verdad!
 280	05cb14c3	¡Ni siquiera deberíamos pensar en pelear con ellos! ¡Tenemos que encontrar la forma de salir de aquí antes de que sea demasiado tarde!
-290	9f03dd21	Pero ¿por qué? Mientras estén esas Llamas Eternas, ninguno de nosotros va a ir a ninguna parte.
+290	9f03dd21	Pero ¿por qué? Mientras estén esas llamas eternas, ninguno de nosotros va a ir a ninguna parte.
 300	53f50f91	Y aunque lográramos escapar de algún modo, ¿cuál es tu plan para volver al complejo?
 310	3e08cc72	B-Bueno, eh...
 320	6b331c07	¿Ya empieza a calar? De verdad no les queda más remedio que pelear. Ese es su propósito aquí, no el de cuestionar el porqué.
@@ -52,7 +52,7 @@ id	huella_jp	es
 510	c351ac2d	A juzgar por lo que veo, esto es solo una partida de exploración. No tienen mucho. Ustedes tres deberían bastar de sobra.
 520	4bc64598	Mejor aún si no tengo que preocuparme de que nadie más me estorbe. Un aliado incompetente puede dar tantos problemas como un enemigo.
 530	95a79cca	¡Ya veremos quién es "incompetente" cuando salgamos!
-540	b6d660bb	¡No hay tiempo que perder! Ustedes tres, ¡síganme a la {fc(ff635b)Sala de Guerra}!
+540	b6d660bb	¡No hay tiempo que perder! Ustedes tres, ¡síganme a la {fc(ff635b)sala de guerra}!
 550	9251b47c	{fc(57e4f1)SIREI trotó hacia la puerta, con los ojos destellando en un tono rojo que ya nos resultaba familiar.}
 560	4a01d501	{fc(cfff3f)*bip*}
 570	fd45dcd3	{fc(57e4f1)El sonido del seguro al soltarse llegó un segundo o dos después.}
@@ -65,7 +65,7 @@ id	huella_jp	es
 640	a1685d74	Si perdemos esta guerra, {fc(ff635b)todo eso} estará perdido.
 650	257ff880	¿Qué...?
 660	d365b1e7	¿Ven a qué me refería con que no tienen más remedio que pelear?
-670	073b24a7	Piénsenlo. Si alguno cambia de opinión, ¡la {fc(ff635b)Sala de Guerra} está al final del pasillo!
+670	073b24a7	Piénsenlo. Si alguno cambia de opinión, ¡la {fc(ff635b)sala de guerra} está al final del pasillo!
 680	3cdb65b9	{fc(57e4f1)Con esas palabras de despedida, SIREI se marchó, seguido de Hiruko, Takemaru y Darumi.}
 690	08836ed9	{fc(ff635b)Todo lo que apreciamos}...
 700	a99a5363	{fc(57e4f1)Pero ¿cómo podría eso tener algo que ver con todo esto?}

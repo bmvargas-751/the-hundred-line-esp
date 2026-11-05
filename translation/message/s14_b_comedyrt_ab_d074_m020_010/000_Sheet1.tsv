@@ -3,8 +3,8 @@ id	huella_jp	es
 20	780aa413	Ah, miren, es Takumi... *Buuuostezo* Tengo muuucho sueño...
 30	a304a1f1	Sr. Sumino, ¿está buscando algo? No he visto ni un destello de su autoestima perdida.
 40	3a2f4c89	No recuerdo haberla perdido... Tengo que encontrar a Tsubasa. ¿La han visto?
-50	18f3d6f6	¿Tsubasa? La vi sentada en una banca del Patio.
-60	d2c27f69	{fc(57e4f1)¿En el Patio? ¿Qué hará allá afuera?}
+50	18f3d6f6	¿Tsubasa? La vi sentada en una banca del patio.
+60	d2c27f69	{fc(57e4f1)¿En el patio? ¿Qué hará allá afuera?}
 70	2aafe471	Bueno, gracias. Iré después del desayuno...
 80	1e9bff4e	Más importante, ¿qué traes ahí?
 90	18009d68	Ah, por esto necesitaba ver a Tsubasa. Parece que se le cayó uno de sus inventos...
@@ -33,4 +33,4 @@ id	huella_jp	es
 320	ed9f30c1	¡Mientras más rápido lo recupere, mejor! ¡Eso!
 330	0e498ca3	Takumi... Solo es un delito si alguien se entera, ¿sabes?
 340	2c90a602	¡Un delito es un delito, pase lo que pase!
-350	6441ac11	{fc(57e4f1)Incómodo en la Cafetería, decidí ir a buscar a Tsubasa al Patio.}
+350	6441ac11	{fc(57e4f1)Incómodo en la cafetería, decidí ir a buscar a Tsubasa al patio.}

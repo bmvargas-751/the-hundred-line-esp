@@ -1,8 +1,8 @@
 id	huella_jp	es
-10	42f7a690	{fc(57e4f1)Fui al Gimnasio en último lugar. Al entrar, vi que Tsubasa y Takemaru ya estaban allí.}
+10	42f7a690	{fc(57e4f1)Fui al gimnasio en último lugar. Al entrar, vi que Tsubasa y Takemaru ya estaban allí.}
 20	0e4259c1	Tsubasa, Takemaru... Justo a tiempo. Tengo que preguntarles algo.
 30	d343c3f6	¿Qué es?
-40	09401090	¿Recuerdan el cambiador de voz que me mostraste en el Garaje el otro día?
+40	09401090	¿Recuerdan el cambiador de voz que me mostraste en el garaje el otro día?
 50	572562dc	¿Sigue allí?
 60	dca4918a	Shouma te habló de que el culpable usó un cambiador de voz, ¿eh?
 70	40d68561	Sí, así fue...
@@ -10,7 +10,7 @@ id	huella_jp	es
 90	b13b18b4	Lo sabía. El culpable lo robó, ¿eh?
 100	388eb027	Creo que sí.
 110	c81285d2	¿Cuándo te diste cuenta de que ya no estaba?
-120	ae085f0e	El Día 28, el día en que Shouma recobró el conocimiento. Fui al Garaje a comprobarlo tras oír su relato y...
+120	ae085f0e	El Día 28, el día en que Shouma recobró el conocimiento. Fui al garaje a comprobarlo tras oír su relato y...
 130	aefab958	¿El cambiador de voz ya no estaba?
 140	3f6e1439	Sí... Sin que nadie se diera cuenta...
 150	870c023e	{fc(57e4f1)Nos había mostrado el cambiador de voz la tarde del Día 24.}
@@ -30,7 +30,7 @@ id	huella_jp	es
 290	5479affb	¿{fc(ff635b)Seguros}?
 300	b3f923e5	Los que podemos tachar "con seguridad" de la lista de sospechosos. ¡{fc(ff635b)Seguros}!
 310	04c1beb4	Es verdad...
-320	69270b9c	{fc(57e4f1)Y así empezamos a investigar el Gimnasio.}
+320	69270b9c	{fc(57e4f1)Y así empezamos a investigar el gimnasio.}
 330	0711fd5e	{fc(57e4f1)Fuimos golpeando paredes y suelos para buscar puertas ocultas.}
 340	da8bf936	{fc(57e4f1)Pasó un rato hasta que Takemaru nos gritó desde el escenario.}
 350	d9e0231b	¡Eh, vengan aquí! ¡Encontré algo increíble!

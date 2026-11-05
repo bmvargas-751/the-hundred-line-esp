@@ -16,7 +16,7 @@ id	huella_jp	es
 160	8c3307cd	Si viene a por ustedes con toda la fuerza de ese ejército, sus probabilidades de victoria son cero.
 170	fc094e39	¿Cero? Es una exageración, ¿verdad? ¡No lo sabremos con seguridad hasta intentarlo!
 180	965df760	Lo sabemos. Deberías darles más crédito a mis habilidades de cálculo.
-190	0375c4d3	El ejército no solo es enorme... También han conseguido una gran cantidad de agentes extintores capaces de apagar el Muro de Fuego.
+190	0375c4d3	El ejército no solo es enorme... También han conseguido una gran cantidad de agentes extintores capaces de apagar el muro de fuego.
 200	4de276a1	Y no olviden que V'ehxness los lidera. La batalla ya está prácticamente perdida.
 210	f4a72a8b	
 220	1dd9ebae	{fc(57e4f1)Me invadió una oleada de mareo y casi me desplomo allí mismo. ¿Debía siquiera cargar a los demás con esta nueva revelación?}
@@ -32,10 +32,10 @@ id	huella_jp	es
 320	a8b8534b	Tienen criptoglobina de un poder muy superior al que V'ehxness podría soñar aquí mismo en esta academia: {fc(ff635b)el infante divino}.
 330	563d44bd	{fc(57e4f1)Nunca antes lo había oído llamar con ese nombre, pero sabía de quién hablaba.}
 340	c2edc8db	{fc(57e4f1)Su rostro afloró de inmediato en mi mente.}
-350	c4680fa1	¡¿Te refieres al bebé de la Sala de Defensa?!
-360	239773fd	{fc(57e4f1)En la Sala de Defensa, en el tercer piso de la academia, había un bebé en una cápsula.}
-370	32dee3ba	{fc(57e4f1)Las Llamas Eternas que el cuerpo del bebé producía las veinticuatro horas también se almacenaban en misiles.}
-380	59080300	{fc(57e4f1)Harían falta 100 días para llenar todos los misiles de Llamas Eternas.}
+350	c4680fa1	¡¿Te refieres al bebé de la sala de defensa?!
+360	239773fd	{fc(57e4f1)En la sala de defensa, en el tercer piso de la academia, había un bebé en una cápsula.}
+370	32dee3ba	{fc(57e4f1)Las llamas eternas que el cuerpo del bebé producía las veinticuatro horas también se almacenaban en misiles.}
+380	59080300	{fc(57e4f1)Harían falta 100 días para llenar todos los misiles de llamas eternas.}
 390	3b60a77f	{fc(57e4f1)Esa era la razón por la que estábamos aquí defendiendo la academia.}
 400	23672d3d	¿Cómo sabes de él?
 410	485905ba	¿No he mencionado ya que una vez dirigí el departamento de inteligencia del otro bando?
@@ -44,7 +44,7 @@ id	huella_jp	es
 440	f4a72a8b	
 450	315a3950	Propulsar la cápsula de escape será trivial con la criptoglobina del infante divino.
 460	9896e246	Sin embargo, hay riesgos.
-470	8e6a99a0	Una vez muerto el bebé, el Muro de Fuego protector que rodea la academia desaparecerá.
+470	8e6a99a0	Una vez muerto el bebé, el muro de fuego protector que rodea la academia desaparecerá.
 480	5873da59	Es probable que V'ehxness aproveche esa oportunidad para lanzar su asalto final.
 490	93faa29b	No obstante, dado el tamaño y la escala actuales de su ejército, quizá no sea tan ágil como antes.
 500	d204cff6	V'ehxness y su ejército no entran en esto. ¡No vamos a matar al bebé!
@@ -52,7 +52,7 @@ id	huella_jp	es
 520	88880051	Pero, Takumi, aunque no lo mates con ese fin...
 530	ebd8e81d	¿Sabías que de todos modos morirá dentro de una semana?
 540	fe89f643	¡¿Eh?!
-550	312f8e31	Los misiles que fabrica en esa Sala de Defensa son armas despiadadas diseñadas para arrasar toda la vida de este planeta.
+550	312f8e31	Los misiles que fabrica en esa sala de defensa son armas despiadadas diseñadas para arrasar toda la vida de este planeta.
 560	76161a91	Incluido él mismo.
 570	2992ad7a	{fc(57e4f1)Si el bebé iba a morir el Día 100 de todos modos, quizá no fuera un crimen matarlo unos días antes...}
 580	eec0b0ac	No... ¡Ni hablar! ¡No puedes pedirme que mate a un amigo!

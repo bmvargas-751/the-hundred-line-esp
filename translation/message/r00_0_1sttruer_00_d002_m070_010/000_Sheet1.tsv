@@ -4,7 +4,7 @@ id	huella_jp	es
 30	daf5ae42	"Cuando un miembro de la Unidad de Defensa Especial muere en acción, el Dron de Recuperación de Cadáveres recuperará su cuerpo de forma automática".
 40	b1a48617	Eso dice el manual, al menos.
 50	8b6972f6	Es todo completamente automático, ¿eh?
-60	cb1523e2	Parece que sí. Cuando el Sistema de Defensa de la escuela detecta que uno de nosotros ha muerto... Vaya, suena espeluznante decirlo en voz alta...
+60	cb1523e2	Parece que sí. Cuando el sistema de defensa de la escuela detecta que uno de nosotros ha muerto... Vaya, suena espeluznante decirlo en voz alta...
 70	608fc071	En fin, cuando eso pasa, lanza un dron que encuentra el cuerpo y lo trae de vuelta a la enfermería.
 80	a019dddc	¿Y una vez que llega aquí?
 90	39e14536	¿Ves esa máquina grande de allá? Según esto, se llama {fc(ff635b)"Revive-O-Matic"}.
