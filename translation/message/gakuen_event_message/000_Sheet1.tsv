@@ -95,7 +95,7 @@ id	huella_jp	es
 702	e30e6d78	Hablar con Gaku. {is60}{image(ui_icon_f_choice)}
 703	477850ca	Dejarlo en paz.
 711	a00d9580	Oye, Takumi... ¿tienes tiempo para hablar de unas cosas?
-712	75de0ee3	Claro. ¿Qué te pasa? {is60}{image(ui_icon_f_choice)}
+712	75de0ee3	Claro. ¿Qué pasa? {is60}{image(ui_icon_f_choice)}
 713	21003db7	Lo siento, estoy ocupado.
 721	5ef8745a	Oye, Takumi... ¿Qué día es hoy?
 722	f250400e	Responder la pregunta de Gaku. {is60}{image(ui_icon_f_choice)}
@@ -133,7 +133,7 @@ id	huella_jp	es
 911	5fe9006a	Hola, Takumi... ¿Quieres jugar a la ruleta conmigo?
 912	f6fd89c5	Jugar con Kako. {is60}{image(ui_icon_f_choice)}
 913	477850ca	Rechazar con cortesía.
-921	b7e16a88	Takumi, ¿hablas conmigo sobre el amor?
+921	b7e16a88	Takumi, ¿hablarías conmigo sobre el amor?
 922	ae608c69	Claro, si es lo que quieres. {is60}{image(ui_icon_f_choice)}
 923	477850ca	Lo siento, estoy ocupado.
 931	99bfa4f4	Ah, hola, Takumi. ¿Quieres ver una película juntos?
@@ -152,7 +152,7 @@ id	huella_jp	es
 1012	cd1e5c42	Hablar con Shouma. {is60}{image(ui_icon_f_choice)}
 1013	477850ca	Dejarlo en paz.
 1021	19dde6d7	Eh, Takumi... ¿Puedo preguntarle algo?
-1022	e30e6d78	Claro. ¿Qué te pasa? {is60}{image(ui_icon_f_choice)}
+1022	e30e6d78	Claro. ¿Qué pasa? {is60}{image(ui_icon_f_choice)}
 1023	2d0cc45e	Lo siento, estoy ocupado.
 1031	537931de	Uf... Uf...
 1032	cd1e5c42	Hablar con Shouma. {is60}{image(ui_icon_f_choice)}
@@ -199,7 +199,7 @@ id	huella_jp	es
 1251	972d3394	Imperdonable... ¡Alguien tiene que pagar por esto...!
 1252	cd1e5c42	Hablar con Kurara. {is60}{image(ui_icon_f_choice)}
 1253	477850ca	Dejarla en paz.
-1301	b689d215	¡Sir Takumi! ¿Gusta de leer manga conmigo?
+1301	b689d215	¡Sir Takumi! ¿Desea leer manga conmigo?
 1302	53aedf5c	Claro, suena divertido. {is60}{image(ui_icon_f_choice)}
 1303	477850ca	Lo siento, estoy ocupado.
 1311	0ba042ed	¡Sir Takumi! ¿Me asistiría en mi entrenamiento de esgrima?
@@ -208,7 +208,7 @@ id	huella_jp	es
 1321	e4ec8272	¡Oh, Sir Takumi! ¡A partir de hoy debo vivir en esta sala!
 1322	afd876a5	Preguntar por qué. {is60}{image(ui_icon_f_choice)}
 1323	7223c008	Retroceder despacio.
-1331	b2f9afe1	Buenas, Sir Takumi. ¿Gusta de unos bocadillos conmigo?
+1331	b2f9afe1	Buenas, Sir Takumi. ¿Desea unos bocadillos conmigo?
 1332	15f42531	Comer bocadillos con Kyoshika. {is60}{image(ui_icon_f_choice)}
 1333	477850ca	Rechazar con cortesía.
 1341	917e820f	¿Usted también vino a lavar ropa, Sir Takumi?
@@ -259,7 +259,7 @@ id	huella_jp	es
 1611	2279e142	Deme una orden, Sr. Sumino. No puedo hacer nada si no recibo órdenes.
 1612	491581ab	Darle una orden a Eva. {is60}{image(ui_icon_f_choice)}
 1613	477850ca	Dejarla en paz.
-1621	b473a9a4	Quememos goma. Rock and roll.
+1621	b473a9a4	Pisemos a fondo. Rock and roll.
 1622	afd876a5	Preguntar qué pasa. {is60}{image(ui_icon_f_choice)}
 1623	7223c008	Dejarla en paz.
 1631	f4a72a8b	

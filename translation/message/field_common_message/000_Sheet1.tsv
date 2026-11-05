@@ -117,7 +117,7 @@ id	huella_jp	es
 201020205	1e0be04d	Es un caramelo de fruta. El de limón que probé el otro día era agriísimo.
 201020206	33a5d118	Probaré uno... Oye, es de sabor uva. ¡Y está bastante bueno!
 201020207	9f6989de	Probaré uno... ¿Esto es piña?
-201020208	04918f6d	Probaré uno... ¡¿Q-Qué...? ¿Caramelo de durián?! ¡Puaj! ¡Qué asco!
+201020208	04918f6d	Probaré uno... ¡¿Q-Qué...?! ¡¿Caramelo de durián?! ¡Puaj! ¡Qué asco!
 201020211	7bb850e3	Solo hay caramelos adentro. Todos muy coloridos.
 201020301	ed0aea45	Prepara la comida que quieras. Ojalá tuviéramos uno así en mi escuela.
 201020302	d10e02bd	Me dan ganas de unos fideos instantáneos... ¿Se pondría triste esta máquina si lo dijera?
@@ -184,8 +184,8 @@ id	huella_jp	es
 201080011	e4a38bdf	Gracias a este autobús volvimos de la Penúltima Academia de Defensa.
 201080012	9e927727	El tanque de gasolina gotea... ¡y el extintor está dañado!
 201080013	5db775dd	Tsubasa está reparando el extintor dañado.
-201080014	bdf7f8c7	Está lleno de agujeros por la bacteria subatómica... Hay que encontrar pronto algo de QB Liquid.
-201080015	4a28dc50	Tsubasa está reparando las partes dañadas que erosionó la bacteria subatómica.
+201080014	bdf7f8c7	Está lleno de agujeros por la bacteria de partículas... Hay que encontrar pronto algo de QB Liquid.
+201080015	4a28dc50	Tsubasa está reparando las partes dañadas que erosionó la bacteria de partículas.
 201080016	e1dbe840	Ya está como nuevo, gracias a Tsubasa.
 201080101	4fa9f956	¿Este taladro es para trabajos de mantenimiento?
 201080102	4c785aa7	Los taladros son equipos geniales. Esa espiral perfecta es el sueño de todo hombre.
@@ -206,7 +206,7 @@ id	huella_jp	es
 201300005	3daea69d	Una ventana de baño, ni más ni menos. Y aun así... ¿por qué la estoy revisando?
 201300006	d61336e3	¿Hay algo aquí? Es solo una ventana... ¿verdad?
 201300007	504d1bd3	¡La ventana se acaba de abrir sola! ...Mentira. Me dejé llevar por la imaginación.
-202010001	5397016b	Los fármacos serán útiles en combate. Debería probar a fabricarlos cuando tenga un rato libre.
+202010001	5397016b	Los fármacos serán útiles en combate. Debería intentar fabricarlos cuando tenga un rato libre.
 202010011	9a3553e7	Aquí podemos fabricar fármacos. Debería probarlo la próxima vez.
 202010012	a56cd38a	Ya no hace falta fabricar medicinas...
 202010101	54d9bdfa	Tengo la impresión de que solo Yugamu entiende del todo lo que dice este manual.
@@ -344,14 +344,14 @@ id	huella_jp	es
 203030003	b8eaf137	No puedo mover la barra más grande por más que lo intente, pero Moko la levanta como si nada...
 203030004	dc0e354d	Los sacos de boxeo son ideales para liberar estrés. Vi a Kyoshika atacar este mientras gritaba nombres de técnicas especiales.
 203030005	abf35623	Una vez se me cayó una barra a la piscina... Sacarla fue un verdadero calvario.
-203030006	6d11b179	Después de entrenar aquí, siempre paso al comedor. Nada supera una lata de cola helada tras el ejercicio.
+203030006	6d11b179	Después de entrenar aquí, siempre paso a la cafetería. Nada supera una lata de cola helada tras el ejercicio.
 203030007	332ea4e3	¡Uf! ¡Uf! ¡¡UF!! No puedo levantarla ni un poco...
 203030011	74bbdf94	Hay mucho buen equipo de entrenamiento. Nadar en la piscina después de entrenar debe de ser pura felicidad.
 203030101	cf2f9de3	Ideal para descansar después de una nadada agotadora.
 203030102	2a16a283	Esto no está mal de vez en cuando...
 203030103	ba8d3272	Es un lugar perfecto para recostarse tranquilamente con un cóctel tropical sin alcohol en la mano... Es broma.
 203030104	160fde3b	Dormir todos los días en la misma habitación aburre con el tiempo. Quizás debería probar dormir aquí.
-203030105	5e946e38	Al parecer, la playa de los Oosuzuki es 10 veces más grande y tiene más de 1000 reposeras. Esa familia nunca deja de asombrarme...
+203030105	5e946e38	Al parecer, la playa de los Oosuzuki es 10 veces más grande y tiene más de 1000 tumbonas. Esa familia nunca deja de asombrarme...
 203030111	fa30f393	Creo que podemos descansar aquí después de nadar. ¿Qué es esto, un resort?
 203040001	13b98649	Pusieron esta ametralladora para proteger el Revive-O-Matic.
 203040002	27f1cad6	No podemos acercarnos al Revive-O-Matic por esta ametralladora.
@@ -392,7 +392,7 @@ id	huella_jp	es
 205010101	eb95d985	El monitor que reproduce los anuncios de SIREI. No es lo mejor para despertar por la mañana...
 205010102	1a428ae9	Este monitor nos avisa de los ataques enemigos. Aunque ahora no hay ningún ataque.
 205010103	52f97275	¿Los anuncios de batalla que aparecen en este monitor son parte del sistema de defensa?
-205010104	d2a5f48b	Esto reproduce los anuncios de SIREI todas las mañanas, pero... ¿pasará algo más?
+205010104	d2a5f48b	Esto reproduce los anuncios de SIREI todas las mañanas, pero... ¿reproducirá algo más?
 205010105	94367fed	Ver el monitor en azul me calma un poco. El rojo que parpadea cuando hay una alarma me da un infarto cada vez...
 205010106	d417a010	Todas las mañanas, el monitor suele ser lo primero que veo al despertar. Bien, hoy es otro día "normal".
 205010111	c6371769	Hay un monitor, pero supongo que no será SIREI quien transmita.

@@ -37,8 +37,8 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 | Rutas `s04` a `s11` | 30.571 | 100% | — |
 | Rutas `s12` a `s14` | 40.287 | 100% | — |
 | Ruta `s15` | 15.579 | 100% (retraducida desde el inglés y corregida) | — |
-| Eventos y charlas | 3.848 | ~77% (2.966 líneas del volcado) | patrones |
-| **Total** | **125.640** | **~99%** | |
+| Eventos y charlas | 3.848 | 100% | — |
+| **Total** | **125.640** | **100%** | |
 
 
 ### Barridos globales ya hechos
@@ -54,10 +54,11 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 - Glosario y léxico regional en todo el juego (`s00` a `s15`): TL, *okey*, *recién*, *qué onda*, *nomás*, anuncios de SIREI con el día en ordinal y *Sr. Sumino* en boca de Ima.
 - Lugares y términos comunes del juego en minúscula a media frase (*sala de guerra*, *cafetería*, *llamas eternas*, *muerte del mundo*…, unas 2.800 líneas) y *su excelencia SIREI* / *honorable SIREI* a media frase.
 - *Sin embargo* al final de frase (calco de *though*) por *eso sí* (55 líneas); *esa hora* (*That time again*) por *ya se hizo tarde* / *ya es hora de dormir*; *un acto* por *una actuación*; *mandadero* por *chico de los mandados*.
+- *Bacteria de partículas* unificada (había también *bacteria subatómica*; el inglés dice *particle bacteria*).
 
 ## Lo que falta
 
-1. **Lectura completa** de lo que falta de *Eventos y charlas* (unas 880 líneas). `r00` y `s00` a `s15` ya están leídas completas.
+1. La **lectura completa** de todas las secciones está terminada (`r00`, `s00` a `s15` y Eventos y charlas).
 3. Resolver las dudas que dejaron los barridos:
    - Ima con *tú* hacia personajes que no son Kako, donde aún no se confirmó el destinatario (unas 15 líneas en `s08`, `s09` y `s11`).
    - Ginzaki con *tú* en `s09_a` (el glosario dice *usted*).

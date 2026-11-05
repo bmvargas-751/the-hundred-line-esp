@@ -2,7 +2,7 @@
 
 Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, con un glosario propio. Está hecha desde el **inglés oficial**, para que los subtítulos coincidan con el **doblaje inglés**; el japonés original solo se usa para resolver género, sujeto omitido y trato.
 
-> **En revisión.** La interfaz, la primera partida y los eventos están completos; las rutas se están revisando para que suenen más naturales. Pueden quedar errores: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues) (sin spoilers). La versión basada en el japonés se retiró el 2026-11-03.
+> **Traducción completa y con lectura de calidad terminada.** Todo el juego (interfaz, primera partida, rutas y eventos) pasó por una lectura completa para que suene natural. Aun así pueden quedar errores sueltos: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues) (sin spoilers). La versión basada en el japonés se retiró el 2026-11-03.
 > Es un proyecto de fans, sin relación con los creadores ni los editores del juego. **No incluye el juego ni sus archivos**: necesitas tu propia copia en Steam.
 
 ## Avance
@@ -21,7 +21,7 @@ Traducción **no oficial** al español neutro del juego *The Hundred Line -Last 
 
 ### Corrección de calidad
 
-La traducción está completa, pero al jugarla las partidas posteriores tenían español poco natural. Se está corrigiendo con el método de siete pasadas de [REVISION.md](REVISION.md) (fidelidad, naturalidad, localización, gramática, género, consistencia y lectura final). Es aparte del avance de arriba:
+La traducción estaba completa, pero al jugarla tenía español poco natural. Se corrigió, sección por sección, con el método de siete pasadas de [REVISION.md](REVISION.md) (fidelidad, naturalidad, localización, gramática, género, consistencia y lectura final). Es aparte del avance de arriba:
 
 <!-- correccion -->
 | Sección | Líneas | Lectura completa |
@@ -31,9 +31,9 @@ La traducción está completa, pero al jugarla las partidas posteriores tenían 
 | Rutas `s04` a `s11` | 30.571 | 100 % |
 | Rutas `s12` a `s14` | 40.287 | 100 % |
 | Ruta `s15` | 15.579 | 100 % |
-| Eventos y charlas | 3.848 | ~77 % |
+| Eventos y charlas | 3.848 | 100 % |
 | Cajas de texto (4 renglones) | 125.640 | 100 % |
-| **Total** | **125.640** | **~99 %** |
+| **Total** | **125.640** | **100 %** |
 <!-- /correccion -->
 
 "Lectura completa" son las líneas leídas una por una; el resto pasó por barridos de errores repetidos. Detalle, decisiones de trato y lo que falta: [REVISION.md](REVISION.md).
