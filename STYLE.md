@@ -98,6 +98,7 @@ Risas fijas, como el inglés: SIREI *Juafafafaj* (ちゅふふ), NIGOU *Juofofof
 - Puntos suspensivos: tres puntos `...` (como el original), sin espacio antes.
 - Tartamudeo: `P-Por favor`, con mayúscula repetida si la palabra la lleva.
 - Gritos en MAYÚSCULAS como en el inglés.
+- Mayúsculas: los lugares y las salas (*la sala de guerra*, *la cafetería*, *el patio de la escuela*, *el estacionamiento*, *el garaje*) y los términos comunes del juego (*llamas eternas*, *muro de fuego*, *muerte del mundo*, *caza de invasores*, *caja de bendiciones*) van en minúscula a media frase; mayúscula solo al inicio de oración o en etiquetas de menú y mapa. Nombres propios (Última Academia de Defensa, Complejo Residencial de Tokio, Unidad de Defensa Especial, Satélite Artificial, Dios, Día N) se quedan con mayúscula. Decisión del usuario, 2026-11-04.
 - **Códigos de control intactos**: `{fc(57e4f1)...}`, `{ft1}`, `%s`, etc. Ni traducir ni mover lo que está dentro de las llaves salvo el texto visible.
 - Saltos de línea: en los mensajes de historia no se agregan (el motor parte el texto); en la interfaz, respetar los del original. La caja admite 3 renglones de ~62 caracteres (≈175 visibles): si el español es más largo, se acorta (lo avisan los chequeos `caja`, `largo` y `ancho`).
 

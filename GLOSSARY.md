@@ -113,10 +113,10 @@ Antes de cerrar un bloque, revisar la concordancia de cada hablante con este cua
 | 東京団地 | Tokyo Residential Complex / TRC | Complejo Residencial de Tokio, sin sigla | ✅ |
 | 東京団地事務局 | (administrative announcement) | Oficina del Complejo Residencial de Tokio (*Les habla la Oficina del Complejo Residencial de Tokio*) | ✅ |
 | 人工天体 | Artificial Satellite | Satélite Artificial | ✅ |
-| 作戦室 | War Room | Sala de Guerra | ✅ |
-| 防衛室 | Defense Room | Sala de Defensa | ✅ |
-| 中庭 | Courtyard | Patio | ✅ nota 2 |
-| 校庭 | Schoolyard | Patio de la escuela | ✅ nota 2 |
+| 作戦室 | War Room | sala de guerra | ✅ |
+| 防衛室 | Defense Room | sala de defensa | ✅ |
+| 中庭 | Courtyard | patio | ✅ nota 2 |
+| 校庭 | Schoolyard | patio de la escuela | ✅ nota 2 |
 | 安置室 / 死体安置室 | Morgue | morgue (la) | ✅ |
 | ＶＳ主催者同盟; 主催者 | Anti-Sponsor Alliance; sponsor | Alianza Antipatrocinador; patrocinador (del juego de matanza) | ✅ |
 | 生物薬品室 | Bio Lab | laboratorio biológico | ✅ |
@@ -143,8 +143,8 @@ Antes de cerrar un bloque, revisar la concordancia de cada hablante con este cua
 | パラレリープ (escrito completo) | Parallel Leap | *Parallel Leap*, en inglés como el japonés (*dispositivo de Parallel Leap*) | ✅ criterio 1 |
 | リープスーツ | leap suit | *Leap Suit*, en inglés como el japonés | ✅ criterio 1 |
 | ブラッドスペース; ＢＳ波 (ブラッドスペースウェーブ) | Blood Space; waves | *Blood Space*; *ondas BS* (*Blood Space Wave*) | ✅ criterio 1 |
-| 消えない炎 | Undying Flames | Llamas Eternas | ✅ |
-| 炎の壁 | Wall of Fire | Muro de Fuego | ✅ |
+| 消えない炎 | Undying Flames | llamas eternas | ✅ |
+| 炎の壁 | Wall of Fire | muro de fuego | ✅ |
 | サイワイの箱 / ワザワイの箱 | Boxes of Blessings / Box of Calamity | Caja de la Dicha / Caja de la Desdicha (conserva el par *saiwai/wazawai*) | ✅ |
 | ＱＢリキッド | QB Liquid | *QB Liquid*, en inglés como el japonés | ✅ criterio 1 |
 | 我駆力刀 | Infuser | *Infuser*, en inglés (el Infuser) | ✅ |
@@ -340,5 +340,5 @@ Siglas comunes, en español: **ADN**, **IA**, **OVNI**.
 ## Notas
 
 1. **Última Academia de Defensa.** 最終防衛学園. Al nombrarla, revisar la frase (artículos y preposiciones: *de la Última Academia de Defensa*). La otra escuela es la *Penúltima Academia de Defensa* (第二, *Second-to-Last*): el par *Última / Penúltima* es el del inglés.
-2. **Patio / Patio de la escuela.** 中庭 y 校庭 son dos lugares distintos; los nombres siguen a los del mapa del juego. En diálogo, *Patio de la escuela* nunca se acorta a *patio*.
+2. **Patio / Patio de la escuela.** 中庭 y 校庭 son dos lugares distintos; los nombres siguen a los del mapa del juego. En diálogo, *patio de la escuela* nunca se acorta a *patio*.
 3. **Máquinas.** Nombres de marca cómicos del inglés: se dejan en inglés y en masculino (*el Revive-O-Matic*, *el Gift-O-Matic*). Cuando el inglés las describe (*this gift machine*), se describe en español (*esta máquina de regalos*).
