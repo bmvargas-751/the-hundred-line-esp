@@ -18,12 +18,35 @@ done
 
 mkdir -p "$BACKUP"
 touch "$INSTALLED"
+# Huellas de los originales que traducimos (las mismas del instalador de la release)
+declare -A ORIG
+while read -r name hash; do ORIG[$name]=$hash; done < <(python3 -I - "$ROOT/scripts/installer.py" <<'PY'
+import re, sys
+src = open(sys.argv[1], encoding="utf-8").read()
+for name, h in re.findall(r'"(\w+)":\s*"([0-9a-f]{64})"', src[src.index("SUPPORTED"):src.index("ALL =")]):
+    print(name, h)
+PY
+)
+# Primero se revisa todo: si algo no es ni el original ni nuestro parche, no se toca nada
 for a in "${ARCHIVES[@]}"; do
   cur="$(sha256sum "$G/$a.dx11.mvgl" | cut -d' ' -f1)"
-  # Si lo que hay en el juego no es un parche nuestro, es el original (o una versión nueva): se respalda
+  if ! grep -qx "$cur" "$INSTALLED" && [[ "$cur" != "${ORIG[$a]:-}" ]] && [[ "${THL_FORCE:-0}" != "1" ]]; then
+    echo "AVISO: $a no es el original que traducimos ni un parche nuestro (¿actualización del juego o una traducción instalada desde otra carpeta?)." >&2
+    echo "       No se instaló nada. En Steam: Propiedades > Archivos instalados > Verificar integridad, y reintenta (o THL_FORCE=1 para forzar)." >&2
+    exit 1
+  fi
+done
+for a in "${ARCHIVES[@]}"; do
+  cur="$(sha256sum "$G/$a.dx11.mvgl" | cut -d' ' -f1)"
+  # Solo se respalda el original de Steam: un respaldo bueno nunca se pisa con otra cosa
   if ! grep -qx "$cur" "$INSTALLED"; then
-    cp "$G/$a.dx11.mvgl" "$BACKUP/"
-    echo "backup: $a"
+    if [[ "$cur" == "${ORIG[$a]:-}" ]]; then
+      cp "$G/$a.dx11.mvgl" "$BACKUP/"
+      echo "backup: $a"
+    elif [[ ! -f "$BACKUP/$a.dx11.mvgl" ]]; then
+      cp "$G/$a.dx11.mvgl" "$BACKUP/"
+      echo "backup (OJO: no es el original conocido): $a"
+    fi
   fi
   cp "$DIST/$a.dx11.mvgl" "$G/"
   sha256sum "$DIST/$a.dx11.mvgl" | cut -d' ' -f1 >> "$INSTALLED"
