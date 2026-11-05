@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	9387fb08	Antes de empezar, hay que aclarar cierta terminología. En el Complejo Residencial de Tokio, ¿alguna vez oyeron hablar de algo llamado...
-20	1566e4dd	{fc(ff635b)planeta Tierra}?
-30	d5bff8ff	{fc(ff635b)planeta Tierra}{fc(57e4f1)...?}
+20	1566e4dd	¿{fc(ff635b)Planeta Tierra}?
+30	d5bff8ff	¿{fc(ff635b)Planeta Tierra}{fc(57e4f1)...?}
 40	25a00866	Sí, he oído de eso. Aunque no puedo decir que sepa mucho.
 50	06d60782	Igual yo. Por lo que leí en libros de la biblioteca en casa, es donde la humanidad vivía antes, ¿no?
 60	7a79d683	También lo mencionan a veces en mangas viejos. ¡Se supone que es enorme! O sea, cientos de veces más grande que el complejo.
@@ -13,8 +13,8 @@ id	huella_jp	es
 120	96b0059b	La Tierra ya no podía sustentar la vida como antes, y la población empezó a disminuir rápidamente.
 130	d026d9a6	Para combatirlo, se construyeron gigantescos refugios subterráneos para alojar a los sobrevivientes antes de que la humanidad se extinguiera por completo.
 140	a8397e27	¿Refugios subterráneos? ¿Quieres decir...?
-150	74803e7f	Sí. Eso es en realidad el lugar donde crecimos.
-160	59ec50f5	El Complejo Residencial de Tokio es un {fc(ff635b)refugio colosal} oculto en lo profundo de la superficie terrestre.
+150	74803e7f	Sí. Ese es en realidad el lugar donde crecimos.
+160	59ec50f5	El Complejo Residencial de Tokio es un {fc(ff635b)refugio colosal} oculto en lo profundo, bajo la superficie terrestre.
 170	0391e6cb	¿Un refugio...? ¿Todo él...?
 180	0ac50129	Todo esto pasó hace mucho tiempo, así que ni siquiera NIGOU estaba seguro de cuán exacta es esta información.
 190	b87f6494	Pero hasta donde sabemos, nuestra comunidad del Complejo Residencial de Tokio es lo último de la humanidad, y lo es desde hace cientos de años.
@@ -61,7 +61,7 @@ id	huella_jp	es
 600	60a62a4c	Sí. En esto se convirtió la Tierra tras ser arrasada por la {fc(ff635b)Muerte del Mundo}.
 610	47e9e461	Esta es la tierra donde vivían nuestros ancestros.
 620	c5ac3b1f	Ahora ven por qué tuvieron que irse bajo tierra.
-630	1eb6d206	¿En serio...? ¿S-Si es tan malo, deberíamos siquiera estar aquí? ¿No deberíamos volver al complejo y...?
+630	1eb6d206	¿En serio...? S-Si es tan malo, ¿deberíamos siquiera estar aquí? ¿No deberíamos volver al complejo y...?
 640	58698656	El complejo no es necesariamente más seguro. Ya no.
 650	aab3e145	¿A qué te refieres?
 660	474d33bb	Los días del Complejo Residencial de Tokio están contados. Todo el lugar se va a derrumbar pronto.
@@ -104,8 +104,8 @@ id	huella_jp	es
 1030	b1aaf6ae	Ahí lo tienen: un resumen completo de la situación. ¡Por eso debemos luchar por nada menos que la victoria total!
 1040	b3eaa8b7	¿Por qué te ves tan satisfecho? ¡No contribuiste nada a ese "resumen completo", cabeza hueca acaparadora de gloria!
 1050	a6b7ccbe	P-Perdóneme... Nunca fue mi intención...
-1060	176fc177	¡Si quieres perdón, desnúdate y muestra tu contrición ante todos! ¡Pero déjate esas zapatillas ridículas, así parecerás aún más desnuda!
-1070	fa0386f7	¿Por qué esta repentina obsesión con que me desnude, Lady Kurara?
+1060	176fc177	¡Si quieres perdón, desnúdate y muestra tu contrición ante todos! ¡Pero déjate esas zapatos deportivos ridículos, así parecerás aún más desnuda!
+1070	fa0386f7	¡¿Por qué esta repentina obsesión con que me desnude, Lady Kurara?!
 1080	6ad8276d	Si todo lo que nos han contado es cierto...
 1090	6bb723a6	Entonces sí, ahora entendemos. Por fin sabemos de qué trata esta guerra y cuán importante es.
 1100	32ba7d10	Más vale tarde que nunca, supongo.
@@ -143,7 +143,7 @@ id	huella_jp	es
 1420	933b6399	¡Mucha suerte con eso de "salvar el mundo", todos!
 1430	a963a81f	{fc(57e4f1)Despreocupado como siempre, Ima dio media vuelta y se fue, arrastrando a Kako tras él.}
 1440	f1a8af1b	Bien, algo anda muy mal con los Gemelos Fantásticos esos. ¿Cómo pueden seguir tan desapegados de todo?
-1450	d55f6456	Son como dos guisantes ensimismados en la misma vaina. Aun así son lindos.
+1450	d55f6456	Son uña y carne, los dos ensimismados. Aun así son lindos.
 1460	b30b5fe1	¿Los jóvenes de hoy no tienen noción de responsabilidad social? Pero no teman: ¡la Espada Sagrada Jumonji y yo les meteremos algo de sentido a golpes...!
 1470	99520df4	Déjalos, Kyoshika. Obligarlos solo los alejará más.
 1480	dce910a2	Así son ellos... No hay mucho que podamos hacer.

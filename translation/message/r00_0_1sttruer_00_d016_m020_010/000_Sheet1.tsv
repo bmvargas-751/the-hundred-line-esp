@@ -1,7 +1,7 @@
 id	huella_jp	es
 10	154ad517	Esto es terrible... Sentía que por fin habíamos llegado a un entendimiento con Hiruko, y ahora se ha ido.
 20	844917c1	No pudo haber desaparecido así como así. Tiene que estar por aquí en algún lado.
-30	8eaff049	Los extintores no se han usado, así que sabemos que no ha salido del muro.
+30	8eaff049	Los extintores no se han usado, así que sabemos que no ha salido más allá del muro.
 40	2765853c	Sigue en los terrenos de la escuela... ¡Tiene que estarlo! ¡Busquemos una vez más!
 50	03d8ddce	Espera, Takumi. Es tarde, se está haciendo de noche. Tendremos más posibilidades de encontrar algo por la mañana.
 60	75c4c407	También es importante que descansemos. Si hay otra crisis después, lo último que necesitamos es estar faltos de sueño.
@@ -14,7 +14,7 @@ id	huella_jp	es
 130	5ecfa035	Les avisaré a todos que terminamos por hoy. Puedes volver a tu habitación.
 140	8adafa11	Que duermas bien. Nos vemos por la mañana.
 150	f4a72a8b	
-160	45d5b241	{fc(57e4f1)Que mañana vuelva como si nada...}
+160	45d5b241	{fc(57e4f1)Mañana volverá como si nada...}
 170	ae3b3024	{fc(57e4f1)Incluso mientras lo decía, sabía que las posibilidades de semejante milagro eran prácticamente nulas.}
 180	49036357	{fc(57e4f1)Dormí a ratos esa noche, demasiado inquieto para relajarme de verdad. Cada vez que las cosas empezaban a irnos bien aquí, esas esperanzas quedaban aplastadas casi de inmediato.}
 190	38555839	{fc(57e4f1)¿Era así la Última Academia de Defensa...?}

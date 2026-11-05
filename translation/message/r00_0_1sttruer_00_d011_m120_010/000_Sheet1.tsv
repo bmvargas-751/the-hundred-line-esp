@@ -6,7 +6,7 @@ id	huella_jp	es
 50	91c39ade	Uf... Estoy llena. Gracias, Takumi. Me salvaste la vida.
 60	b86899e8	Ahora no tendré que comer pan seco hoy.
 70	9c44e7eb	¿Has estado viviendo a base de pan seco desde que Hiruko les prohibió la cafetería?
-80	408833b8	Sí... Ese pan es tan seco que anoche tuve una pesadilla en la que quedaba varada en el desierto.
+80	408833b8	Sí... Ese pan es tan seco que anoche tuve una pesadilla en la que estaba varada en el desierto.
 90	40af8d72	Oye, ¿sería mucho pedir que me trajeras pan húmedo de vez en cuando?
 100	ff5f2cea	Sin problema.
 110	bc585f35	Puedo intentar colarte pan o bolas de arroz.
@@ -32,7 +32,7 @@ id	huella_jp	es
 310	4b2fe2d5	¿Aguantártelo...?
 320	8c8baee2	Cuando me pongo nerviosa... sale, y no solo un poquito...
 330	cf549cb9	¿Qué es lo que sale? No entiendo qué...
-340	e43faec1	{fs72}¡Vómito! ¡Vomito, ¿de acuerdo?!
+340	e43faec1	{fs72}¡Vómito! ¡Vomito, de acuerdo!
 350	257ff880	¿Eh...?
 360	ac465b93	E-Así es como estoy hecha... Cuando me pongo nerviosa, devuelvo...
 370	d902c081	{fc(57e4f1)Ahora que lo pienso, Tsubasa siempre está con arcadas.}
@@ -48,4 +48,4 @@ id	huella_jp	es
 470	46a760ff	¡Arg...! Ay, Dios, no...
 480	821a5513	¡No, no, no! ¡No puedo aguantar...!
 490	5fd72180	{fc(57e4f1)Tsubasa vomitó por todo el piso...}
-500	22a59da8	{fc(57e4f1)De inmediato me empuja fuera de su habitación, con los ojos llenos de lágrimas.}
+500	22a59da8	{fc(57e4f1)De inmediato me empujó fuera de su habitación, con los ojos llenos de lágrimas.}
