@@ -31,9 +31,9 @@ La traducción está completa, pero al jugarla las partidas posteriores tenían 
 | Rutas `s04` a `s11` | 30.571 | 100 % |
 | Rutas `s12` a `s14` | 40.287 | 100 % |
 | Ruta `s15` | 15.579 | 100 % |
-| Eventos y charlas | 3.848 | ~77 % |
+| Eventos y charlas | 3.848 | 100 % |
 | Cajas de texto (4 renglones) | 125.640 | 100 % |
-| **Total** | **125.640** | **~99 %** |
+| **Total** | **125.640** | **100 %** |
 <!-- /correccion -->
 
 "Lectura completa" son las líneas leídas una por una; el resto pasó por barridos de errores repetidos. Detalle, decisiones de trato y lo que falta: [REVISION.md](REVISION.md).
