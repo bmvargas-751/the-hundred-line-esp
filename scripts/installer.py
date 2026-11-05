@@ -225,6 +225,7 @@ def cmd_install(args):
     say(f"Juego: {game}")
     installed = read_installed(game)
     sources = {}
+    bad = []
     for name in ALL:
         cur = archive_file(game, name)
         if sha256(cur) in installed:  # ya está la traducción: el inglés sale del original respaldado
@@ -235,14 +236,16 @@ def cmd_install(args):
         else:
             sources[name] = cur
         if sha256(sources[name]) != SUPPORTED[name]:
-            say(f"AVISO: {name} no es el archivo original que traducimos. Puede ser por:")
-            say("       - una actualización de Steam del juego, o")
-            say("       - una traducción ya instalada desde otra carpeta, cuyo respaldo no encuentro.")
-            say("       Si es lo segundo, sigue sin poder usarse como base: pueden quedar frases viejas mezcladas.")
-            say("       Lo más seguro: en Steam, Propiedades > Archivos instalados > Verificar integridad, y reintenta.")
-            if not args.force:
-                if not sys.stdin.isatty() or input("¿Continuar de todos modos? [s/N] ").strip().lower() not in ("s", "si", "sí", "y"):
-                    raise Fail("Cancelado. Con --force sigue sin preguntar.")
+            bad.append(name)
+    if bad:  # un solo aviso para todos los archivos, con una sola pregunta
+        say(f"AVISO: no son los archivos originales que traducimos: {', '.join(bad)}. Puede ser por:")
+        say("       - una actualización de Steam del juego, o")
+        say("       - una traducción ya instalada desde otra carpeta, cuyo respaldo no encuentro.")
+        say("       Si es lo segundo, sigue sin poder usarse como base: pueden quedar frases viejas mezcladas.")
+        say("       Lo más seguro: en Steam, Propiedades > Archivos instalados > Verificar integridad, y reintenta.")
+        if not args.force:
+            if not sys.stdin.isatty() or input("¿Continuar de todos modos? [s/N] ").strip().lower() not in ("s", "si", "sí", "y"):
+                raise Fail("Cancelado. Con --force sigue sin preguntar.")
     tool = find_tool()
     work = Path(tempfile.mkdtemp(prefix="thl-"))
     try:
