@@ -70,4 +70,4 @@ La **lectura completa** cuenta las líneas leídas una por una con las siete pas
 
 ## Cómo reportar un error
 
-Abre un [issue](https://github.com/bmvargas-751/the-hundred-line-esp/issues) con la captura y el Día o la ruta, **sin spoilers**. Cada captura sirve para corregir la línea y buscar el mismo calco en todo el juego.
+Abre un [issue](https://github.com/nox-traducciones/the-hundred-line/issues) con la captura y el Día o la ruta, **sin spoilers**. Cada captura sirve para corregir la línea y buscar el mismo calco en todo el juego.
