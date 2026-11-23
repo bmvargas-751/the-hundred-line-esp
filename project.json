@@ -45,5 +45,9 @@
       "asset": "THL-ESP-*-linux.tar.gz",
       "label": "Linux y Steam Deck"
     }
-  ]
+  ],
+  "art": {
+    "wide": "art/wide.jpg",
+    "card": "wide"
+  }
 }
