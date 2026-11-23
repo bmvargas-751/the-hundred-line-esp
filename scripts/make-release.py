@@ -71,7 +71,7 @@ DESINSTALAR
   Si algo quedó mal: en Steam, Propiedades > Archivos instalados > Verificar integridad.
 
 Si el juego se actualiza, Steam pisa el parche: vuelve a ejecutar {launch}.
-Errores y comentarios (sin spoilers): https://github.com/bmvargas-751/the-hundred-line-esp/issues
+Errores y comentarios (sin spoilers): https://github.com/nox-traducciones/the-hundred-line/issues
 Licencias: ver LICENSE.md y translation/LICENSE. MVGLTools trae la suya en tools/.
 """
 

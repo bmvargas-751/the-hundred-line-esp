@@ -2,7 +2,7 @@
 
 Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, con un glosario propio. Está hecha desde el **inglés oficial**, para que los subtítulos coincidan con el **doblaje inglés**; el japonés original solo se usa para resolver género, sujeto omitido y trato.
 
-> **Traducción completa y con lectura de calidad terminada.** Todo el juego (interfaz, primera partida, rutas y eventos) pasó por una lectura completa para que suene natural. Aun así pueden quedar errores sueltos: [avísanos](https://github.com/bmvargas-751/the-hundred-line-esp/issues) (sin spoilers). La versión basada en el japonés se retiró el 2026-11-03.
+> **Traducción completa y con lectura de calidad terminada.** Todo el juego (interfaz, primera partida, rutas y eventos) pasó por una lectura completa para que suene natural. Aun así pueden quedar errores sueltos: [avísanos](https://github.com/nox-traducciones/the-hundred-line/issues) (sin spoilers). La versión basada en el japonés se retiró el 2026-11-03.
 > Es un proyecto de fans, sin relación con los creadores ni los editores del juego. **No incluye el juego ni sus archivos**: necesitas tu propia copia en Steam.
 
 ## Avance
@@ -43,7 +43,7 @@ La traducción estaba completa, pero al jugarla tenía español poco natural. Se
 La traducción reemplaza el idioma **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras. También ajusta las fuentes del menú para que las letras con tilde, la ñ y los signos ¿ ¡ tengan el mismo ancho que las demás.
 Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada más ni clonar el repositorio.
 
-1. Descarga el paquete de tu sistema desde la [última release](https://github.com/bmvargas-751/the-hundred-line-esp/releases/latest):
+1. Descarga el paquete de tu sistema desde la [última release](https://github.com/nox-traducciones/the-hundred-line/releases/latest):
    - Windows: `THL-ESP-…-windows.zip`
    - Linux y Steam Deck: `THL-ESP-…-linux.tar.gz`
 2. Descomprímelo **dentro de la carpeta del juego**, junto a la carpeta `gamedata`. Te queda una carpeta `THL-ESP`.
@@ -70,7 +70,7 @@ Steam reemplaza los archivos y la traducción se pierde. Vuelve a ejecutar el in
 - **"No encuentro el juego"**: la carpeta `THL-ESP` tiene que estar dentro de la carpeta del juego, junto a `gamedata`. Si no, el instalador busca el juego en Steam; si tampoco lo halla, indica la ruta: `install.bat` no la pide, pero `python\python.exe scripts\installer.py install --game "RUTA"` sí (en Linux: `python3 scripts/installer.py install --game "RUTA"`).
 - **Se ve en inglés**: comprueba que el idioma del juego sea English y que el instalador terminó con "Listo".
 - **Windows muestra un aviso de seguridad** al ejecutar el `.bat`: es normal con archivos descargados; el contenido es de código abierto en este repositorio.
-- **Un texto raro, cortado o con un error**: dinos en qué día o pantalla pasó, sin spoilers, en [Issues](https://github.com/bmvargas-751/the-hundred-line-esp/issues).
+- **Un texto raro, cortado o con un error**: dinos en qué día o pantalla pasó, sin spoilers, en [Issues](https://github.com/nox-traducciones/the-hundred-line/issues).
 
 ### Instalar desde el código
 
