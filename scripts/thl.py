@@ -231,6 +231,8 @@ def current_stage():
 
 def update_readme(total, done):
     """Reescribe la tabla de avance del README, entre los marcadores <!-- progress ... --> y <!-- /progress -->."""
+    if "<!-- progress" not in (td.ROOT / "README.md").read_text(encoding="utf-8"):
+        raise SystemExit("El README ya lo escribe el kit: python3 -I ~/.claude/loc-kit/tools/loc.py progress --readme")
     t, d = sum(total.values()), sum(done.values())
     stage = current_stage()
     rows = [f"**Etapa actual:** {stage}.", ""] if stage else []

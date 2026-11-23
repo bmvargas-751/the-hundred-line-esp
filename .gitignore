@@ -12,8 +12,8 @@ __pycache__/
 table/
 
 # Material de trabajo local (se respalda con scripts/backup-local.sh)
-.claude/
-PLAN.md
+.claude/*
+!.claude/settings.json
 TESTS.md
 PENDING-REVIEW.md
 table/

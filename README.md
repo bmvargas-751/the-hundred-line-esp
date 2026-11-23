@@ -1,27 +1,63 @@
-# The Hundred Line -Last Defense Academy- — Traducción al español
+# The Hundred Line -Last Defense Academy- en español
 
-Traducción **no oficial** al español neutro del juego *The Hundred Line -Last Defense Academy-*, con un glosario propio. Está hecha desde el **inglés oficial**, para que los subtítulos coincidan con el **doblaje inglés**; el japonés original solo se usa para resolver género, sujeto omitido y trato.
+Traducción fan al español neutro de *The Hundred Line -Last Defense Academy-*, basada en la versión oficial en inglés, para Steam (Windows, Linux y Steam Deck), para que los subtítulos coincidan con el doblaje inglés. El japonés solo se usa para resolver género, sujeto omitido y trato.
 
-> **Traducción completa y con lectura de calidad terminada.** Todo el juego (interfaz, primera partida, rutas y eventos) pasó por una lectura completa para que suene natural. Aun así pueden quedar errores sueltos: [avísanos](https://github.com/nox-traducciones/the-hundred-line/issues) (sin spoilers). La versión basada en el japonés se retiró el 2026-11-03.
-> Es un proyecto de fans, sin relación con los creadores ni los editores del juego. **No incluye el juego ni sus archivos**: necesitas tu propia copia en Steam.
+> Proyecto de fans, sin relación con Too Kyo Games ni con Aniplex. **No incluye el juego**: el instalador arma la traducción a partir de tu propia copia.
+
+## Instalar
+
+<!-- loc:install -->
+Necesitas tu propia copia del juego en Steam. No hace falta instalar nada más ni clonar el repositorio.
+
+**Windows:**
+
+1. Descarga **THL-ESP-…-windows.zip** de la [última versión](https://github.com/nox-traducciones/the-hundred-line/releases/latest).
+2. Descomprímelo dentro de la carpeta del juego, junto a la carpeta `gamedata`. Para abrirla: en Steam, clic derecho en el juego > **Administrar** > **Explorar archivos locales**.
+3. En la carpeta **THL-ESP**, haz doble clic en **install.bat**.
+4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**: el texto aparece en español.
+
+<details>
+<summary>Linux y Steam Deck</summary>
+
+1. Descarga **THL-ESP-…-linux.tar.gz** de la [última versión](https://github.com/nox-traducciones/the-hundred-line/releases/latest) y descomprímelo dentro de la carpeta del juego, junto a `gamedata`.
+2. En la carpeta **THL-ESP**, ejecuta **install.sh**. En Steam Deck, en modo escritorio: clic derecho en install.sh > **Ejecutar en terminal**.
+3. Abre el juego, ve a **Opciones** y cambia el idioma a **English**: el texto aparece en español.
+
+</details>
+
+<details>
+<summary>Desinstalar, o si el juego se actualiza</summary>
+
+1. El instalador guarda los archivos originales en `THL-ESP/backup/`: no borres esa carpeta antes de desinstalar.
+2. Para desinstalar, ejecuta **uninstall.bat** (Windows) o **uninstall.sh** (Linux). Si algo quedó mal, en Steam: **Propiedades** > **Archivos instalados** > **Verificar integridad de los archivos del juego**.
+3. Si Steam actualiza el juego, la traducción se pierde: vuelve a ejecutar el instalador. Si el juego recibió una actualización nueva, el instalador te avisa; en ese caso conviene bajar la última versión.
+
+</details>
+<!-- /loc:install -->
 
 ## Avance
 
-<!-- progress: lo actualiza `python3 -I scripts/thl.py progress --readme` en cada commit -->
-**Etapa actual:** Fase 5 (Prueba y entrega), verificar que el juego arranca con el parche y que tildes, ñ y ¿¡ se ven bien (se puede probar en cualquier momento).
+<!-- loc:progress -->
+| Sección | Líneas | Traducidas | Avance |
+|---|---:|---:|---:|
+| Interfaz | 14.984 | 14.984 | 100,0 % |
+| Historia | 121.789 | 121.789 | 100,0 % |
+| Secundarias | 3.817 | 3.817 | 100,0 % |
+| **Total** | **140.590** | **140.590** | **100,0 %** |
+<!-- /loc:progress -->
 
-| Fase | Sección | Traducidas | Total | % |
-|---|---|---:|---:|---:|
-| 1 | Interfaz | 14.984 | 14.984 | 100,0 % |
-| 2 | Primera partida | 18.293 | 18.293 | 100,0 % |
-| 3 | Partidas posteriores | 103.496 | 103.496 | 100,0 % |
-| 4 | Eventos y charlas | 3.817 | 3.817 | 100,0 % |
-| | **Total** | **140.590** | **140.590** | **100,0 %** |
-<!-- /progress -->
+## Documentación
 
-### Corrección de calidad
+<!-- loc:docs -->
+Localización: [Glosario](GLOSSARY.md) · [Estilo](STYLE.md) · [Decisiones](DECISIONS.md)\
+Desarrollo: [Plan](PLAN.md)
+<!-- /loc:docs -->
 
-La traducción estaba completa, pero al jugarla tenía español poco natural. Se corrigió, sección por sección, con el método de siete pasadas de [REVISION.md](REVISION.md) (fidelidad, naturalidad, localización, gramática, género, consistencia y lectura final). Es aparte del avance de arriba:
+Para colaborar o instalar desde el código (WSL o Linux): [CONTRIBUTING.md](CONTRIBUTING.md), con la estructura del proyecto y los scripts.
+
+## Corrección de calidad
+
+La traducción estaba completa, pero al jugarla tenía español poco natural. Se corrigió, sección por sección, con el método de siete pasadas de [REVISION.md](REVISION.md) (fidelidad, naturalidad, localización, gramática, género, consistencia y lectura final). Es aparte del avance:
 
 <!-- correccion -->
 | Sección | Líneas | Lectura completa |
@@ -38,48 +74,12 @@ La traducción estaba completa, pero al jugarla tenía español poco natural. Se
 
 "Lectura completa" son las líneas leídas una por una; el resto pasó por barridos de errores repetidos. Detalle, decisiones de trato y lo que falta: [REVISION.md](REVISION.md).
 
-## Instalar
-
-La traducción reemplaza el idioma **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras. También ajusta las fuentes del menú para que las letras con tilde, la ñ y los signos ¿ ¡ tengan el mismo ancho que las demás.
-Funciona en **Windows** y en **Linux / Steam Deck**. No hace falta instalar nada más ni clonar el repositorio.
-
-1. Descarga el paquete de tu sistema desde la [última release](https://github.com/nox-traducciones/the-hundred-line/releases/latest):
-   - Windows: `THL-ESP-…-windows.zip`
-   - Linux y Steam Deck: `THL-ESP-…-linux.tar.gz`
-2. Descomprímelo **dentro de la carpeta del juego**, junto a la carpeta `gamedata`. Te queda una carpeta `THL-ESP`.
-   Para abrir la carpeta del juego: en Steam, clic derecho en el juego > *Administrar* > *Explorar archivos locales*.
-3. Ejecuta el instalador de esa carpeta:
-   - Windows: doble clic en **`install.bat`**.
-   - Linux: **`install.sh`**. En Steam Deck, en modo escritorio: clic derecho en `install.sh` > *Ejecutar en terminal* (o `./install.sh` desde una terminal).
-4. Abre el juego, ve a **Opciones** y cambia el idioma a **English**. El texto aparece en español.
-
-El instalador tarda unos segundos. Guarda antes los archivos originales en `THL-ESP/backup/`. Si descomprimes una versión nueva en otra carpeta junto al juego, el instalador reutiliza ese respaldo; si no lo encuentra, te pide verificar la integridad en Steam en vez de mezclar texto viejo.
-
-### Desinstalar
-
-Ejecuta **`uninstall.bat`** (Windows) o **`uninstall.sh`** (Linux). Restaura los archivos originales del juego.
-Si algo quedó mal, en Steam: *Propiedades > Archivos instalados > Verificar integridad de los archivos del juego*.
-No borres la carpeta `THL-ESP` antes de desinstalar: ahí está el respaldo.
-
-### Si el juego se actualiza
-
-Steam reemplaza los archivos y la traducción se pierde. Vuelve a ejecutar el instalador. Si el juego recibió una actualización nueva, el instalador te avisa; en ese caso conviene bajar la última release.
-
-### Problemas frecuentes
+## Problemas frecuentes
 
 - **"No encuentro el juego"**: la carpeta `THL-ESP` tiene que estar dentro de la carpeta del juego, junto a `gamedata`. Si no, el instalador busca el juego en Steam; si tampoco lo halla, indica la ruta: `install.bat` no la pide, pero `python\python.exe scripts\installer.py install --game "RUTA"` sí (en Linux: `python3 scripts/installer.py install --game "RUTA"`).
 - **Se ve en inglés**: comprueba que el idioma del juego sea English y que el instalador terminó con "Listo".
 - **Windows muestra un aviso de seguridad** al ejecutar el `.bat`: es normal con archivos descargados; el contenido es de código abierto en este repositorio.
 - **Un texto raro, cortado o con un error**: dinos en qué día o pantalla pasó, sin spoilers, en [Issues](https://github.com/nox-traducciones/the-hundred-line/issues).
-
-### Instalar desde el código
-
-Para colaborar o instalar desde una copia del repositorio (WSL o Linux), mira [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Documentación
-
-- [Guía para colaborar](CONTRIBUTING.md), con la estructura del proyecto y las herramientas
-- [Estilo](STYLE.md) y [glosario](GLOSSARY.md): reglas de base, nombres, tratamientos y lista de términos
 
 ## Créditos y aviso
 
