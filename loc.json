@@ -1,0 +1,20 @@
+{
+  "name": "The Hundred Line -Last Defense Academy-",
+  "source_language": "en",
+  "target_language": "es",
+  "source": "../local/the-hundred-line/source.jsonl",
+  "translation": "translation",
+  "work": "build/work/batches",
+  "sections": [
+    {"name": "Interfaz", "prefixes": ["text/"]},
+    {"name": "Historia", "prefixes": ["message/r00_", "message/s0", "message/s1"]},
+    {"name": "Secundarias", "prefixes": ["message/"]}
+  ],
+  "excluded": [],
+  "codes": ["\\{[a-z]+\\d*(?:\\([^)]*\\))?", "\\}"],
+  "fixed_break": null,
+  "encoding": "utf-8",
+  "spanish_checks": true,
+  "hooks": "scripts/hooks.py",
+  "support": {"file": "../local/the-hundred-line/source.jsonl", "field": "ja"}
+}

@@ -1,0 +1,49 @@
+{
+  "title": "The Hundred Line -Last Defense Academy-",
+  "platform": "Steam",
+  "translated_from": "Inglés oficial",
+  "owner": "Too Kyo Games y Aniplex",
+  "platform_long": "Windows, Linux y Steam Deck",
+  "game_version": "Steam",
+  "untranslated": "",
+  "tagline": "Una aventura de estrategia y novela visual en la que un grupo de estudiantes debe defender su academia durante cien días.",
+  "requirements": "Necesitas tu propia copia del juego en Steam. No hace falta instalar nada más ni clonar el repositorio.",
+  "install": [
+    {
+      "system": "Windows",
+      "steps": [
+        "Descarga **THL-ESP-…-windows.zip** de la [última versión](https://github.com/nox-traducciones/the-hundred-line/releases/latest).",
+        "Descomprímelo dentro de la carpeta del juego, junto a la carpeta `gamedata`. Para abrirla: en Steam, clic derecho en el juego > **Administrar** > **Explorar archivos locales**.",
+        "En la carpeta **THL-ESP**, haz doble clic en **install.bat**.",
+        "Abre el juego, ve a **Opciones** y cambia el idioma a **English**: el texto aparece en español."
+      ]
+    },
+    {
+      "system": "Linux y Steam Deck",
+      "steps": [
+        "Descarga **THL-ESP-…-linux.tar.gz** de la [última versión](https://github.com/nox-traducciones/the-hundred-line/releases/latest) y descomprímelo dentro de la carpeta del juego, junto a `gamedata`.",
+        "En la carpeta **THL-ESP**, ejecuta **install.sh**. En Steam Deck, en modo escritorio: clic derecho en install.sh > **Ejecutar en terminal**.",
+        "Abre el juego, ve a **Opciones** y cambia el idioma a **English**: el texto aparece en español."
+      ]
+    },
+    {
+      "system": "Desinstalar, o si el juego se actualiza",
+      "steps": [
+        "El instalador guarda los archivos originales en `THL-ESP/backup/`: no borres esa carpeta antes de desinstalar.",
+        "Para desinstalar, ejecuta **uninstall.bat** (Windows) o **uninstall.sh** (Linux). Si algo quedó mal, en Steam: **Propiedades** > **Archivos instalados** > **Verificar integridad de los archivos del juego**.",
+        "Si Steam actualiza el juego, la traducción se pierde: vuelve a ejecutar el instalador. Si el juego recibió una actualización nueva, el instalador te avisa; en ese caso conviene bajar la última versión."
+      ]
+    }
+  ],
+  "downloads": [
+    {
+      "asset": "THL-ESP-*-windows.zip",
+      "label": "Descargar para Windows",
+      "primary": true
+    },
+    {
+      "asset": "THL-ESP-*-linux.tar.gz",
+      "label": "Linux y Steam Deck"
+    }
+  ]
+}

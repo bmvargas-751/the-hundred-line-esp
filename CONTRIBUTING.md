@@ -67,7 +67,7 @@ python3 -I scripts/thl.py export 'text/*' --pendientes                # interfaz
 python3 -I scripts/thl.py apply build/work/bloque.jsonl               # guarda traducciones en translation/
 python3 -I scripts/thl.py diff                                        # cambios sin commitear, con el inglés
 python3 -I scripts/thl.py check                                       # chequeos -> build/checks.csv
-python3 -I scripts/thl.py progress --readme                             # avance por sección; actualiza la tabla de arriba
+python3 -I scripts/thl.py progress                                      # avance por sección (el README lo escribe el kit: loc.py progress --readme)
 ```
 
 - `export` muestra cada línea como la ve el juego, en orden. Con `--jsonl` sale en formato para procesar.
