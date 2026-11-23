@@ -1,0 +1,21 @@
+# Recompila la web de las traducciones (nox-traducciones) cuando cambian los datos de este juego:
+# project.json, status.json o las imágenes de art/ en main, o una release. REPO.md del kit, «GitHub».
+name: Actualizar la web
+on:
+  push:
+    branches: [main]
+    paths: [project.json, status.json, "art/**"]
+  release:
+    types: [published, edited, deleted]
+  workflow_dispatch:
+permissions: {}
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Avisar a Vercel
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then echo "Falta el secreto VERCEL_DEPLOY_HOOK de la organización: la web no se actualiza."; exit 0; fi
+          curl -fsS -X POST "$HOOK" > /dev/null && echo "Web: compilación pedida."
